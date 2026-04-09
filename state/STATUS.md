@@ -29,10 +29,10 @@
 ## Current Outcome
 
 - `Verified`: Required harness docs, templates, checker scaffold, state files, workspace seeds, and README guidance exist.
-- `Verified`: The repo is structurally ready for governed canon and planning work.
-- `Inference`: The next high-value artifacts are section-family, settings, and bilingual schema canon files under `workspace/specs/`.
+- `Verified`: The repo now includes governed Phase 1 canon artifacts for the section family system, settings taxonomy, and bilingual schema strategy under `workspace/specs/`.
+- `Inference`: The next high-value artifact is a bounded Phase 2 runtime foundation plan package derived from the completed canon.
 
 ## Risks And Blocks
 
 - `Verified`: No runtime Liquid, schema locale files, or preset pack implementation has been started in this pass.
-- `Inference`: Runtime foundation work remains blocked until the phase-1 canon artifacts exist.
+- `Inference`: Runtime foundation implementation remains blocked until a bounded plan package explicitly defines the minimal permitted surface.

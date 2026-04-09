@@ -8,14 +8,14 @@
 
 ## Current Phase
 
-- `Verified`: Active roadmap phase: Phase 1 preparation
-- `Verified`: Last completed phase slice: Phase 0 harness foundation
-- `Inference`: Next bounded slice: create the architecture canon pack before runtime foundation work begins
+- `Verified`: Active roadmap phase: Phase 2 runtime foundation planning
+- `Verified`: Last completed phase slice: Phase 1 architecture canon
+- `Inference`: Next bounded slice: author a bounded Phase 2 runtime foundation plan package without implementing `project/`
 
 ## Approval State
 
 - `Verified`: Current next action approval: APPROVED
-- `Verified`: Approval basis: the user already defined the second-pass focus as section-family ledger, settings taxonomy, bilingual schema strategy, and minimal runtime foundation
+- `Verified`: Approval basis: the approved bounded unit covers a documentation-only Phase 2 runtime foundation plan package derived from the completed canon artifacts
 
 ## Lock State
 

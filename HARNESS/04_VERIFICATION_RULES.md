@@ -16,6 +16,9 @@
 ## Phase 1 And Later Verification Targets
 
 - `Inference`: Phase 1 canon work should verify section-family coverage, settings vocabulary consistency, bilingual schema strategy completeness, and roadmap alignment.
+- `Verified`: Documentation-only canon passes must also verify terminology consistency across the affected docs.
+- `Verified`: Documentation-only canon passes must also verify synchronization between state files.
+- `Verified`: Documentation-only canon passes must also verify synchronization between state and `workspace/handoff/CURRENT_HANDOFF.md`.
 - `Inference`: Phase 2 and later runtime work should add Liquid, schema, locale, RTL, and progressive JavaScript verification appropriate to the changed files.
 
 ## Failure Conditions

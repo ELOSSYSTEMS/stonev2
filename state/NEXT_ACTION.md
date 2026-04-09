@@ -3,24 +3,23 @@
 ## Status
 
 - `Verified`: Approval State: APPROVED
-- `Verified`: Execution Class: architecture-canon
+- `Verified`: Execution Class: runtime-foundation-planning
 - `Verified`: Priority: high
 
 ## Approved Unit
 
-- `UNIT-002` Create the phase-1 canon pack for section families, settings taxonomy, and bilingual schema strategy.
+- `UNIT-003` Create the bounded Phase 2 minimal runtime foundation plan package.
 
 ## Objective
 
-- `Verified`: Derive the next governed architecture artifacts from the five canonical docs before runtime implementation expands.
+- `Verified`: Derive a documentation-only plan for the minimal Shopify runtime foundation from the completed canon artifacts before any runtime implementation begins.
 
 ## Plan Reference
 
-- `Not required`: This is a bounded documentation-first canon unit and may create its governed plan package as part of execution.
+- `Not required`: This unit creates the governed plan package itself.
 
 ## Allowed Files Or Surfaces
 
-- `workspace/specs/`
 - `workspace/plans/`
 - `state/`
 - `workspace/handoff/CURRENT_HANDOFF.md`
@@ -34,4 +33,4 @@
 
 ## Stop Condition
 
-Stop if the unit expands into Shopify runtime implementation, requires uncanonized locale or schema execution details, or needs surfaces outside the allowed list.
+Stop if the unit expands into runtime implementation under `project/`, requires new canon artifacts outside the bounded planning scope, or needs surfaces outside the allowed list.
