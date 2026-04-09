@@ -8,14 +8,14 @@
 
 ## Current Phase
 
-- `Verified`: Active roadmap phase: Phase 2 runtime foundation planning
-- `Verified`: Last completed phase slice: Phase 1 architecture canon
-- `Inference`: Next bounded slice: author a bounded Phase 2 runtime foundation plan package without implementing `project/`
+- `Verified`: Active roadmap phase: Phase 2 minimal runtime foundation execution readiness
+- `Verified`: Last completed phase slice: Phase 2 minimal runtime foundation planning package
+- `Inference`: Next bounded slice: execute the conditionally approved minimal runtime foundation implementation without expanding beyond the planned runtime file boundary
 
 ## Approval State
 
-- `Verified`: Current next action approval: APPROVED
-- `Verified`: Approval basis: the approved bounded unit covers a documentation-only Phase 2 runtime foundation plan package derived from the completed canon artifacts
+- `Verified`: Current next action approval: CONDITIONALLY_APPROVED
+- `Verified`: Approval basis: the documentation-only plan package now exists, but runtime work may proceed only inside the exact file boundary defined under `workspace/plans/phase-2-minimal-runtime-foundation-v1/PLAN.v1.md`
 
 ## Lock State
 

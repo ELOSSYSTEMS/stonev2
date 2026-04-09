@@ -2,28 +2,28 @@
 
 ## Current Phase
 
-- `Verified`: Roadmap phase: transition from completed Phase 1 architecture canon to Phase 2 runtime foundation planning
+- `Verified`: Roadmap phase: Phase 2 minimal runtime foundation planning is complete and the repo is positioned for a bounded runtime foundation execution slice
 
 ## Approved Next Action
 
-- `Verified`: `UNIT-003` create the bounded Phase 2 minimal runtime foundation plan package
+- `Verified`: `UNIT-004` execute the bounded Phase 2 minimal runtime foundation implementation slice
 
 ## Last Completed Unit
 
-- `Verified`: Unit ID: `UNIT-002`
-- `Verified`: Summary: authored the section family ledger, settings taxonomy, and bilingual schema strategy canon artifacts under `workspace/specs/`
+- `Verified`: Unit ID: `UNIT-003`
+- `Verified`: Summary: authored the bounded Phase 2 minimal runtime foundation plan package under `workspace/plans/phase-2-minimal-runtime-foundation-v1/`
 
 ## Verification Status
 
 - `Verified`: Verdict: PASS
-- `Verified`: Evidence: `node HARNESS/checks/harness-check.mjs`
+- `Verified`: Evidence: `node HARNESS/checks/check-state-artifacts.mjs`; `node HARNESS/checks/check-next-action-scope.mjs`; `node HARNESS/checks/check-plan-exists.mjs`; `node HARNESS/checks/check-handoff-completeness.mjs`; `node HARNESS/checks/harness-check.mjs`
 
 ## Active Blockers
 
-- `Inference`: No blocker is active for the documentation-only next unit.
-- `Verified`: Runtime implementation remains intentionally blocked until the bounded Phase 2 plan package exists.
+- `Verified`: Runtime work must remain inside the seven-file boundary defined by `workspace/plans/phase-2-minimal-runtime-foundation-v1/PLAN.v1.md`.
+- `Inference`: Any need for sections, blocks, templates, snippets, preset packs, or page-specific runtime work is a blocker that requires replanning before execution continues.
 
 ## Resume Notes
 
-- `Verified`: Start from the five architecture documents in `docs/architecture/`.
-- `Verified`: Keep the next unit bounded to `workspace/plans/`, state synchronization, and handoff update.
+- `Verified`: Read the five architecture documents in `docs/architecture/`, the three Phase 1 canon artifacts in `workspace/specs/`, and the Phase 2 plan package in `workspace/plans/phase-2-minimal-runtime-foundation-v1/`.
+- `Verified`: Keep the next unit bounded to the approved seven runtime files plus required state and handoff updates.
