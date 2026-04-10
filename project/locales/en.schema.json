@@ -228,6 +228,120 @@
           }
         }
       }
+    },
+    "stone_utility_layout_composition": {
+      "name": "Utility layout composition",
+      "empty": "Add at least one utility block to validate the two-region composition.",
+      "empty_region": "Assign a utility block to this region to validate the grouped layout.",
+      "regions": {
+        "primary": {
+          "label": "Primary region"
+        },
+        "secondary": {
+          "label": "Secondary region"
+        }
+      },
+      "settings": {
+        "heading": {
+          "label": "Section heading",
+          "info": "Optional. Displays a neutral heading above the two-region composition."
+        },
+        "width_mode": {
+          "label": "Width mode",
+          "info": "Controls the neutral container width for the section shell.",
+          "options": {
+            "narrow": {
+              "label": "Narrow"
+            },
+            "standard": {
+              "label": "Standard"
+            },
+            "wide": {
+              "label": "Wide"
+            }
+          }
+        },
+        "spacing_mode": {
+          "label": "Spacing mode",
+          "info": "Controls the neutral vertical spacing of the section shell.",
+          "options": {
+            "compact": {
+              "label": "Compact"
+            },
+            "standard": {
+              "label": "Balanced"
+            },
+            "relaxed": {
+              "label": "Relaxed"
+            }
+          }
+        }
+      },
+      "blocks": {
+        "heading": {
+          "name": "Heading",
+          "settings": {
+            "text": {
+              "label": "Heading text",
+              "info": "Adds one short heading to the selected utility region."
+            },
+            "region": {
+              "label": "Region",
+              "info": "Assigns this heading block to the primary or secondary utility region.",
+              "options": {
+                "primary": {
+                  "label": "Primary"
+                },
+                "secondary": {
+                  "label": "Secondary"
+                }
+              }
+            }
+          }
+        },
+        "richtext": {
+          "name": "Rich text",
+          "settings": {
+            "body": {
+              "label": "Rich text",
+              "info": "Defines one neutral content body for the selected utility region."
+            },
+            "region": {
+              "label": "Region",
+              "info": "Assigns this rich text block to the primary or secondary utility region.",
+              "options": {
+                "primary": {
+                  "label": "Primary"
+                },
+                "secondary": {
+                  "label": "Secondary"
+                }
+              }
+            }
+          }
+        },
+        "list": {
+          "name": "List",
+          "settings": {
+            "items": {
+              "label": "List items",
+              "info": "Enter one item per line to keep the utility list neutral inside the selected region."
+            },
+            "region": {
+              "label": "Region",
+              "info": "Assigns this list block to the primary or secondary utility region.",
+              "options": {
+                "primary": {
+                  "label": "Primary"
+                },
+                "secondary": {
+                  "label": "Secondary"
+                }
+              }
+            }
+          }
+        }
+      }
     }
   }
 }

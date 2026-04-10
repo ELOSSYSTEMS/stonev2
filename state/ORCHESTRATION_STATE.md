@@ -8,14 +8,14 @@
 
 ## Current Phase
 
-- `Verified`: Active roadmap phase: Phase 2 bounded runtime implementation readiness for minimal utility layout composition after bounded planning
-- `Verified`: Last completed phase slice: Phase 2 minimal utility layout composition planning slice
-- `Inference`: Next bounded slice: execute one implementation unit for the planned minimal utility layout composition slice
+- `Verified`: Active roadmap phase: Phase 2 bounded runtime verification readiness for minimal utility layout composition after bounded implementation
+- `Verified`: Last completed phase slice: Phase 2 minimal utility layout composition implementation slice
+- `Inference`: Next bounded slice: verify one implementation unit for the completed minimal utility layout composition slice
 
 ## Approval State
 
 - `Verified`: Current next action approval: APPROVED
-- `Verified`: Approval basis: `UNIT-012` authored the bounded minimal utility layout composition plan package, limited the next runtime slice to the approved five runtime files, rejected protected-surface and broader-family growth, and advanced the repo to one bounded implementation unit
+- `Verified`: Approval basis: `UNIT-013` implemented the bounded minimal utility layout composition slice inside the approved five runtime files, preserved protected-surface stability, recorded validation evidence, and advanced the repo to one bounded verification unit
 
 ## Lock State
 

@@ -1,0 +1,51 @@
+{
+  "sections": {
+    "main": {
+      "type": "stone-utility-layout-composition",
+      "settings": {
+        "heading": "Runtime utility layout composition",
+        "width_mode": "wide",
+        "spacing_mode": "standard"
+      },
+      "blocks": {
+        "primary_heading": {
+          "type": "heading",
+          "settings": {
+            "text": "Primary utility region",
+            "region": "primary"
+          }
+        },
+        "primary_body": {
+          "type": "richtext",
+          "settings": {
+            "body": "<p>Use the primary region for the core explanatory content that should stay visually dominant without introducing storefront semantics.</p>",
+            "region": "primary"
+          }
+        },
+        "secondary_heading": {
+          "type": "heading",
+          "settings": {
+            "text": "Secondary utility region",
+            "region": "secondary"
+          }
+        },
+        "secondary_list": {
+          "type": "list",
+          "settings": {
+            "items": "Region assignment stays bounded to primary or secondary\nResponsive layout falls back to one vertical flow\nShared section shell remains unchanged",
+            "region": "secondary"
+          }
+        }
+      },
+      "block_order": [
+        "primary_heading",
+        "primary_body",
+        "secondary_heading",
+        "secondary_list"
+      ]
+    }
+  },
+  "order": [
+    "main"
+  ]
+}

@@ -128,11 +128,39 @@ textarea {
   margin: 0;
 }
 
+.stone-utility-layout {
+  display: grid;
+  gap: var(--stone-space-4);
+}
+
+.stone-utility-layout__region {
+  min-inline-size: 0;
+  display: grid;
+  align-content: start;
+  gap: var(--stone-space-4);
+}
+
+.stone-utility-layout__items {
+  display: grid;
+  gap: var(--stone-space-4);
+}
+
+.stone-utility-layout__empty {
+  margin: 0;
+}
+
 .stone-section-shell__link {
   display: inline-flex;
   align-items: center;
   gap: var(--stone-space-2);
   font-weight: 600;
+}
+
+@media (min-width: 48rem) {
+  .stone-utility-layout {
+    grid-template-columns: minmax(0, 1.35fr) minmax(0, 1fr);
+    gap: var(--stone-space-6);
+  }
 }
 
 a {

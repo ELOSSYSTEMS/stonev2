@@ -2,7 +2,7 @@
 
 ## Summary
 
-- `Verified`: The bounded Phase 2 minimal runtime foundation slice is implemented and verified, the bounded Phase 2 minimal section runtime substrate slice is implemented and verified, the bounded Phase 2 minimal utility block stack slice is implemented and verified, and the bounded Phase 2 minimal utility layout composition plan package is complete.
+- `Verified`: The bounded Phase 2 minimal runtime foundation slice is implemented and verified, the bounded Phase 2 minimal section runtime substrate slice is implemented and verified, the bounded Phase 2 minimal utility block stack slice is implemented and verified, and the bounded Phase 2 minimal utility layout composition implementation slice is complete.
 
 ## Current State
 
@@ -11,7 +11,8 @@
 - `Verified`: `UNIT-010` implemented `project/sections/stone-utility-block-stack.liquid` and `project/templates/page.stone-runtime-block-stack.json`, extended `project/assets/stone-base.css` with neutral utility-stack primitives, and updated the paired locale files inside the approved five-file runtime boundary.
 - `Verified`: `UNIT-011` confirmed that `UNIT-010` stayed inside the approved five-file runtime boundary, reused the shared section shell unchanged, stayed utility-only, kept the neutral page host isolated, and preserved bilingual locale parity.
 - `Verified`: `UNIT-012` authored `workspace/plans/phase-2-minimal-utility-layout-composition-v1/`, which fixes the next runtime slice to one utility-only layout-composition section, one neutral alternate page template, one bounded base-layer CSS extension, and paired locale updates.
-- `Verified`: `state/NEXT_ACTION.md` now points to `UNIT-013`, the bounded implementation unit for the planned utility layout composition slice.
+- `Verified`: `UNIT-013` implemented `project/sections/stone-utility-layout-composition.liquid` and `project/templates/page.stone-runtime-layout-composition.json`, extended `project/assets/stone-base.css` with neutral responsive two-region composition primitives, and updated the paired locale files inside the approved five-file runtime boundary.
+- `Verified`: `state/NEXT_ACTION.md` now points to `UNIT-014`, the bounded verification unit for the completed utility layout composition slice.
 
 ## Changed Or Seeded Files
 
@@ -19,8 +20,10 @@
 - `Verified`: `project/snippets/stone-section-shell.liquid`
 - `Verified`: `project/sections/stone-utility-richtext.liquid`
 - `Verified`: `project/sections/stone-utility-block-stack.liquid`
+- `Verified`: `project/sections/stone-utility-layout-composition.liquid`
 - `Verified`: `project/templates/page.stone-runtime.json`
 - `Verified`: `project/templates/page.stone-runtime-block-stack.json`
+- `Verified`: `project/templates/page.stone-runtime-layout-composition.json`
 - `Verified`: `project/locales/he.default.schema.json`
 - `Verified`: `project/locales/en.schema.json`
 - `Verified`: `workspace/plans/phase-2-minimal-utility-block-stack-v1/PLAN.v1.md`
@@ -46,12 +49,12 @@
 - `Verified`: `UNIT-007` completed without touching `project/layout/theme.liquid`, `project/assets/stone-runtime.js`, or `project/config/settings_schema.json`.
 - `Verified`: `UNIT-008` confirmed that one neutral alternate page template was sufficient to validate the first shared section contract without turning into homepage or preset composition.
 - `Verified`: `UNIT-010` completed without requiring snippet rewrites, `project/blocks/`, global settings changes, or page-composition growth.
-- `Inference`: `UNIT-013` should be able to prove one responsive two-region utility composition without requiring protected-surface edits, `project/blocks/`, a second section, or a second template.
-- `Inference`: If more than two utility regions, nested grouping, or page-composition behavior becomes necessary, the repo should stop and replan instead of broadening `UNIT-013`.
+- `Verified`: `UNIT-013` completed without requiring protected-surface edits, `project/blocks/`, more than two utility regions, a second section, or a second template.
+- `Inference`: `UNIT-014` should confirm the completed slice remains utility-only, two-region, shell-stable, template-neutral, and locale-aligned without broadening runtime work.
 
 ## Recommended Next Step
 
-- `Verified`: Execute `UNIT-013` from `state/NEXT_ACTION.md` and implement the approved minimal utility layout composition slice only within the five allowed runtime files plus state and handoff updates.
+- `Verified`: Execute `UNIT-014` from `state/NEXT_ACTION.md` and verify the completed minimal utility layout composition slice only within the five allowed runtime files plus state and handoff updates.
 
 ## Resume Checks
 

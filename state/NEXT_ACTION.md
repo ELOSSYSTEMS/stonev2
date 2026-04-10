@@ -3,17 +3,17 @@
 ## Status
 
 - `Verified`: Approval State: APPROVED
-- `Verified`: Execution Class: phase-2-runtime-implementation
+- `Verified`: Execution Class: phase-2-runtime-verification
 - `Verified`: Priority: high
 
 ## Approved Unit
 
-- `UNIT-013` Execute the bounded Phase 2 minimal utility layout composition implementation slice.
+- `UNIT-014` Verify the bounded Phase 2 minimal utility layout composition implementation slice.
 
 ## Objective
 
-- `Verified`: Implement the approved minimal utility layout composition slice as one utility-only section that proves grouped or columnar composition beyond simple vertical block stacking.
-- `Verified`: Keep `UNIT-013` limited to the approved five runtime files plus state and handoff updates only.
+- `Verified`: Verify that `UNIT-013` stayed inside the approved minimal utility layout composition slice and did not broaden beyond one utility-only two-region composition proof.
+- `Verified`: Keep `UNIT-014` limited to the approved five runtime files plus state and handoff updates only.
 
 ## Plan Reference
 
@@ -41,4 +41,4 @@
 
 ## Stop Condition
 
-Stop if implementation needs any file outside `project/assets/stone-base.css`, `project/sections/stone-utility-layout-composition.liquid`, `project/templates/page.stone-runtime-layout-composition.json`, `project/locales/he.default.schema.json`, `project/locales/en.schema.json`, `state/`, and `workspace/handoff/CURRENT_HANDOFF.md`; stop if protected-surface edits, `project/blocks/`, any new snippet file, any second section file, any second template file, page-composition growth, non-utility behavior, or broader family work becomes necessary, and replan instead of broadening scope.
+Stop if verification needs any file outside `project/assets/stone-base.css`, `project/sections/stone-utility-layout-composition.liquid`, `project/templates/page.stone-runtime-layout-composition.json`, `project/locales/he.default.schema.json`, `project/locales/en.schema.json`, `state/`, and `workspace/handoff/CURRENT_HANDOFF.md`; stop if protected-surface edits, `project/blocks/`, any new snippet file, any second section file, any second template file, page-composition growth, non-utility behavior, or broader family work becomes necessary, and replan instead of broadening scope.
