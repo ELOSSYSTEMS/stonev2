@@ -3,25 +3,29 @@
 ## Status
 
 - `Verified`: Approval State: APPROVED
-- `Verified`: Execution Class: phase-2-runtime-planning
+- `Verified`: Execution Class: phase-2-runtime-implementation
 - `Verified`: Priority: high
 
 ## Approved Unit
 
-- `UNIT-012` Author one bounded planning unit for the next Phase 2 runtime slice after utility block stack verification.
+- `UNIT-013` Execute the bounded Phase 2 minimal utility layout composition implementation slice.
 
 ## Objective
 
-- `Verified`: Define the next smallest useful Phase 2 runtime slice after the verified minimal utility block stack without touching `project/` runtime files in this unit.
-- `Verified`: Keep `UNIT-012` limited to planning, state, and handoff surfaces only.
+- `Verified`: Implement the approved minimal utility layout composition slice as one utility-only section that proves grouped or columnar composition beyond simple vertical block stacking.
+- `Verified`: Keep `UNIT-013` limited to the approved five runtime files plus state and handoff updates only.
 
 ## Plan Reference
 
-- `Not required`: this next unit is itself the planning step.
+- `Path:` `workspace/plans/phase-2-minimal-utility-layout-composition-v1/PLAN.v1.md`
 
 ## Allowed Files Or Surfaces
 
-- `workspace/plans/`
+- `project/assets/stone-base.css`
+- `project/sections/stone-utility-layout-composition.liquid`
+- `project/templates/page.stone-runtime-layout-composition.json`
+- `project/locales/he.default.schema.json`
+- `project/locales/en.schema.json`
 - `state/`
 - `workspace/handoff/CURRENT_HANDOFF.md`
 
@@ -37,4 +41,4 @@
 
 ## Stop Condition
 
-Stop if planning requires runtime edits, protected-surface changes, broader runtime implementation, more than one bounded next runtime slice, or any expansion beyond `workspace/plans/`, `state/`, and `workspace/handoff/CURRENT_HANDOFF.md`; record the issue precisely and replan instead of broadening scope.
+Stop if implementation needs any file outside `project/assets/stone-base.css`, `project/sections/stone-utility-layout-composition.liquid`, `project/templates/page.stone-runtime-layout-composition.json`, `project/locales/he.default.schema.json`, `project/locales/en.schema.json`, `state/`, and `workspace/handoff/CURRENT_HANDOFF.md`; stop if protected-surface edits, `project/blocks/`, any new snippet file, any second section file, any second template file, page-composition growth, non-utility behavior, or broader family work becomes necessary, and replan instead of broadening scope.
