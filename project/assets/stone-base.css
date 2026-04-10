@@ -42,6 +42,68 @@ textarea {
   min-inline-size: 0;
 }
 
+.stone-section-shell {
+  --stone-section-shell-max-width: 56rem;
+  --stone-section-shell-padding-block: var(--stone-space-8);
+  padding-block: var(--stone-section-shell-padding-block);
+}
+
+.stone-section-shell--width-narrow {
+  --stone-section-shell-max-width: 42rem;
+}
+
+.stone-section-shell--width-wide {
+  --stone-section-shell-max-width: var(--stone-shell-max-width);
+}
+
+.stone-section-shell--spacing-compact {
+  --stone-section-shell-padding-block: var(--stone-space-6);
+}
+
+.stone-section-shell--spacing-relaxed {
+  --stone-section-shell-padding-block: calc(var(--stone-space-8) + var(--stone-space-2));
+}
+
+.stone-section-shell__inner {
+  inline-size: min(100%, var(--stone-section-shell-max-width));
+  margin-inline: auto;
+  display: grid;
+  gap: var(--stone-space-4);
+}
+
+.stone-section-shell__header,
+.stone-section-shell__actions,
+.stone-richtext-flow > * {
+  margin: 0;
+}
+
+.stone-section-shell__heading {
+  margin: 0;
+  font-size: clamp(1.5rem, 2vw, 2rem);
+  line-height: 1.2;
+}
+
+.stone-section-shell__content > * {
+  min-inline-size: 0;
+}
+
+.stone-richtext-flow {
+  display: grid;
+  gap: var(--stone-space-4);
+}
+
+.stone-richtext-flow :where(ul, ol) {
+  margin: 0;
+  padding-inline-start: 1.25em;
+}
+
+.stone-section-shell__link {
+  display: inline-flex;
+  align-items: center;
+  gap: var(--stone-space-2);
+  font-weight: 600;
+}
+
 a {
   color: inherit;
   text-underline-offset: 0.15em;

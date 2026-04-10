@@ -2,13 +2,13 @@
 
 ## Summary
 
-- `Verified`: The bounded Phase 2 minimal runtime foundation slice is implemented and verified, and the next bounded Phase 2 runtime slice is now planned as a minimal section runtime substrate.
+- `Verified`: The bounded Phase 2 minimal runtime foundation slice is implemented and verified, and the bounded Phase 2 minimal section runtime substrate slice is now implemented.
 
 ## Current State
 
-- `Verified`: Phase 1 architecture canon is complete, the approved Phase 2 minimal runtime foundation implementation and verification units are complete, and the next bounded Phase 2 runtime slice is defined by a new plan package.
-- `Verified`: The runtime under `project/` still includes only the approved minimal shell, foundation assets, minimal schema, and paired bilingual schema locale files.
-- `Verified`: `state/NEXT_ACTION.md` now points to `UNIT-007`, a bounded implementation unit for a minimal section runtime substrate.
+- `Verified`: Phase 1 architecture canon is complete, the approved Phase 2 minimal runtime foundation implementation and verification units are complete, and the approved Phase 2 minimal section runtime substrate implementation unit is complete.
+- `Verified`: The runtime under `project/` now includes the approved neutral section-shell snippet, utility-only validation section, neutral page template host, bounded base CSS extension, and paired bilingual schema locale updates.
+- `Verified`: `state/NEXT_ACTION.md` now points to `UNIT-008`, a bounded verification unit for the completed minimal section runtime substrate.
 
 ## Changed Or Seeded Files
 
@@ -20,6 +20,9 @@
 - `Verified`: `project/layout/theme.liquid`
 - `Verified`: `project/assets/stone-tokens.css`
 - `Verified`: `project/assets/stone-base.css`
+- `Verified`: `project/snippets/stone-section-shell.liquid`
+- `Verified`: `project/sections/stone-utility-richtext.liquid`
+- `Verified`: `project/templates/page.stone-runtime.json`
 - `Verified`: `project/assets/stone-runtime.js`
 - `Verified`: `project/config/settings_schema.json`
 - `Verified`: `project/locales/he.default.schema.json`
@@ -34,12 +37,12 @@
 ## Open Assumptions
 
 - `Verified`: `UNIT-005` confirmed that `UNIT-004` did not require `project/snippets/`, `project/sections/`, `project/blocks/`, or `project/templates/`.
-- `Inference`: `UNIT-007` should be executable without touching `project/layout/theme.liquid`, `project/assets/stone-runtime.js`, or `project/config/settings_schema.json`.
-- `Inference`: One neutral alternate page template should be sufficient to validate the first shared section contract without turning into homepage or preset composition.
+- `Verified`: `UNIT-007` completed without touching `project/layout/theme.liquid`, `project/assets/stone-runtime.js`, or `project/config/settings_schema.json`.
+- `Inference`: `UNIT-008` should be able to confirm that one neutral alternate page template was sufficient to validate the first shared section contract without turning into homepage or preset composition.
 
 ## Recommended Next Step
 
-- `Verified`: Execute `UNIT-007` from `state/NEXT_ACTION.md` and implement only the six-file minimal section runtime substrate defined in `workspace/plans/phase-2-minimal-section-runtime-substrate-v1/`.
+- `Verified`: Execute `UNIT-008` from `state/NEXT_ACTION.md` and verify only the six-file minimal section runtime substrate defined in `workspace/plans/phase-2-minimal-section-runtime-substrate-v1/`.
 
 ## Resume Checks
 

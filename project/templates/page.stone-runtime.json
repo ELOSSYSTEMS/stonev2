@@ -1,0 +1,14 @@
+{
+  "sections": {
+    "main": {
+      "type": "stone-utility-richtext",
+      "settings": {
+        "width_mode": "standard",
+        "spacing_mode": "standard"
+      }
+    }
+  },
+  "order": [
+    "main"
+  ]
+}

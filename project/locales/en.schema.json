@@ -107,5 +107,58 @@
         }
       }
     }
+  },
+  "sections": {
+    "stone_utility_richtext": {
+      "name": "Utility rich text",
+      "settings": {
+        "heading": {
+          "label": "Heading",
+          "info": "Optional. Displays a neutral heading above the content body."
+        },
+        "body": {
+          "label": "Rich text",
+          "info": "Defines the content body for the utility validation section."
+        },
+        "cta_label": {
+          "label": "CTA link label",
+          "info": "Optional. Leave blank to hide the action link."
+        },
+        "cta_link": {
+          "label": "CTA link",
+          "info": "Shown only when the link label is not blank."
+        },
+        "width_mode": {
+          "label": "Width mode",
+          "info": "Controls the neutral container width for the section shell.",
+          "options": {
+            "narrow": {
+              "label": "Narrow"
+            },
+            "standard": {
+              "label": "Standard"
+            },
+            "wide": {
+              "label": "Wide"
+            }
+          }
+        },
+        "spacing_mode": {
+          "label": "Spacing mode",
+          "info": "Controls the neutral vertical spacing of the section shell.",
+          "options": {
+            "compact": {
+              "label": "Compact"
+            },
+            "standard": {
+              "label": "Balanced"
+            },
+            "relaxed": {
+              "label": "Relaxed"
+            }
+          }
+        }
+      }
+    }
   }
 }

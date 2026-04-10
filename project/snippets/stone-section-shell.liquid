@@ -1,0 +1,24 @@
+{%- liquid
+  assign stone_tag = tag | default: 'section'
+  assign stone_spacing = spacing | default: 'standard'
+  assign stone_width = width | default: 'standard'
+  assign stone_heading = heading | strip
+  assign stone_heading_id = 'StoneSectionHeading-' | append: section.id
+-%}
+<{{ stone_tag }}
+  class="stone-section-shell stone-section-shell--width-{{ stone_width | escape }} stone-section-shell--spacing-{{ stone_spacing | escape }}{% if shell_class != blank %} {{ shell_class }}{% endif %}"
+  {% if stone_heading != blank %}aria-labelledby="{{ stone_heading_id }}"{% endif %}
+  data-stone-section-id="{{ section.id | escape }}"
+  data-stone-section-type="{{ section.type | escape }}"
+>
+  <div class="stone-section-shell__inner">
+    {%- if stone_heading != blank -%}
+      <header class="stone-section-shell__header">
+        <h2 id="{{ stone_heading_id }}" class="stone-section-shell__heading">{{ stone_heading | escape }}</h2>
+      </header>
+    {%- endif -%}
+    <div class="stone-section-shell__content">
+      {{ content }}
+    </div>
+  </div>
+</{{ stone_tag }}>
