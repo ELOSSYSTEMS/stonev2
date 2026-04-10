@@ -3,7 +3,7 @@
 ## Snapshot
 
 - `Verified`: Repo state: harness foundation populated
-- `Verified`: Storefront runtime state: minimal runtime foundation implemented and verified, and the minimal section runtime substrate is now implemented
+- `Verified`: Storefront runtime state: minimal runtime foundation implemented and verified, and the minimal section runtime substrate is implemented and verified
 - `Verified`: Architecture authority: the five documents under `docs/architecture/`
 - `Verified`: Phase 2 minimal runtime foundation plan package exists under `workspace/plans/phase-2-minimal-runtime-foundation-v1/`
 - `Verified`: Phase 2 minimal section runtime substrate plan package exists under `workspace/plans/phase-2-minimal-section-runtime-substrate-v1/`
@@ -41,10 +41,11 @@
 - `Verified`: The repo now includes the approved Phase 2 minimal runtime foundation slice across the seven allowed runtime files only, and `UNIT-005` confirmed that `UNIT-004` remains `PASS`.
 - `Verified`: The repo now includes a bounded Phase 2 minimal section runtime substrate plan package under `workspace/plans/phase-2-minimal-section-runtime-substrate-v1/`.
 - `Verified`: The repo now includes the approved Phase 2 minimal section runtime substrate slice across the six allowed runtime files only: one neutral section-shell snippet, one utility-only validation section, one neutral alternate page template, one base-layer CSS extension, and paired locale updates.
-- `Inference`: The next high-value unit is a tightly bounded verification pass that confirms the implemented substrate stayed within the approved runtime boundary and did not broaden into section families, homepage composition, or storefront work.
+- `Verified`: `UNIT-008` verified that `UNIT-007` remains `PASS`, the six-file runtime boundary held, the snippet stayed neutral, the section stayed utility-only, the template stayed neutral, and the locale additions remained structurally aligned.
+- `Inference`: The next high-value unit is a documentation-only planning pass that defines the next bounded Phase 2 runtime slice without reopening runtime implementation.
 
 ## Risks And Blocks
 
 - `Verified`: No section-family, preset-pack, homepage, collection, PDP, snippet, or template implementation was introduced in the verified minimal runtime foundation slice.
-- `Verified`: Broader runtime build-out remains blocked beyond verification of the minimal section runtime substrate slice defined in `workspace/plans/phase-2-minimal-section-runtime-substrate-v1/`.
+- `Verified`: Broader runtime build-out remains blocked beyond the verified minimal section runtime substrate slice until a new bounded planning unit authorizes the next slice.
 - `Inference`: Any newly discovered need for additional runtime files or feature behavior remains a replanning trigger rather than permission to expand the current slice.

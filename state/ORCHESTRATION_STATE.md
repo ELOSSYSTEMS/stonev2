@@ -8,14 +8,14 @@
 
 ## Current Phase
 
-- `Verified`: Active roadmap phase: Phase 2 minimal section runtime substrate verification readiness
-- `Verified`: Last completed phase slice: Phase 2 minimal section runtime substrate implementation slice
-- `Inference`: Next bounded slice: execute one bounded verification unit for the minimal section runtime substrate before any broader runtime work resumes
+- `Verified`: Active roadmap phase: Phase 2 next runtime planning readiness after minimal section runtime substrate verification
+- `Verified`: Last completed phase slice: Phase 2 minimal section runtime substrate verification slice
+- `Inference`: Next bounded slice: author one bounded planning unit for the next Phase 2 runtime slice before any broader runtime work resumes
 
 ## Approval State
 
 - `Verified`: Current next action approval: APPROVED
-- `Verified`: Approval basis: `UNIT-007` executed the approved six-file minimal section runtime substrate slice and broader section-family and storefront expansion remains blocked pending verification
+- `Verified`: Approval basis: `UNIT-008` verified that `UNIT-007` stayed inside the approved six-file minimal section runtime substrate boundary and broader section-family and storefront expansion remains blocked pending the next bounded planning unit
 
 ## Lock State
 

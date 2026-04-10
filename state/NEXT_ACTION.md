@@ -3,29 +3,24 @@
 ## Status
 
 - `Verified`: Approval State: APPROVED
-- `Verified`: Execution Class: phase-2-minimal-section-runtime-substrate-verification
+- `Verified`: Execution Class: phase-2-next-runtime-slice-planning
 - `Verified`: Priority: high
 
 ## Approved Unit
 
-- `UNIT-008` Verify the bounded Phase 2 minimal section runtime substrate implementation slice.
+- `UNIT-009` Author one bounded planning unit for the next Phase 2 runtime slice after minimal section runtime substrate verification.
 
 ## Objective
 
-- `Verified`: Verify that `UNIT-007` touched only the approved six-file runtime scope, kept the shared snippet neutral, kept the section utility-only, kept the template neutral and single-purpose, preserved bilingual locale parity, and avoided settings-schema or runtime-JS expansion.
+- `Verified`: Define the next smallest useful Phase 2 runtime slice after the verified minimal section runtime substrate without editing `project/` runtime files or broadening into unplanned storefront work.
 
 ## Plan Reference
 
-- `Path:` `workspace/plans/phase-2-minimal-section-runtime-substrate-v1/PLAN.v1.md`
+- `Not required`: this unit should author the next bounded plan package.
 
 ## Allowed Files Or Surfaces
 
-- `project/assets/stone-base.css`
-- `project/snippets/stone-section-shell.liquid`
-- `project/sections/stone-utility-richtext.liquid`
-- `project/templates/page.stone-runtime.json`
-- `project/locales/he.default.schema.json`
-- `project/locales/en.schema.json`
+- `workspace/plans/`
 - `state/`
 - `workspace/handoff/CURRENT_HANDOFF.md`
 
@@ -39,4 +34,4 @@
 
 ## Stop Condition
 
-Stop if verification requires changing runtime files to explain away boundary expansion, if any evidence suggests edits outside the approved six-file scope, if `project/layout/theme.liquid`, `project/assets/stone-runtime.js`, or `project/config/settings_schema.json` were changed, or if the implemented section, snippet, or template broadened into homepage, preset, collection, PDP, blog or editorial, merchandising, or polished storefront work.
+Stop if planning requires edits under `project/`, if the proposed unit broadens beyond one bounded Phase 2 slice, or if the plan starts authorizing homepage, preset, collection, PDP, blog or editorial, merchandising, or polished storefront implementation without a separately bounded package.
