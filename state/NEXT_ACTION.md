@@ -3,28 +3,25 @@
 ## Status
 
 - `Verified`: Approval State: APPROVED
-- `Verified`: Execution Class: phase-2-runtime-verification
+- `Verified`: Execution Class: phase-2-runtime-planning
 - `Verified`: Priority: high
 
 ## Approved Unit
 
-- `UNIT-011` Verify the bounded Phase 2 minimal utility block stack implementation slice.
+- `UNIT-012` Author one bounded planning unit for the next Phase 2 runtime slice after utility block stack verification.
 
 ## Objective
 
-- `Verified`: Verify that the completed minimal utility block stack slice stayed inside the approved five-file runtime boundary, consumed the shared section shell unchanged, remained utility-only, kept the neutral page host isolated, and preserved bilingual locale alignment before any broader runtime work resumes.
+- `Verified`: Define the next smallest useful Phase 2 runtime slice after the verified minimal utility block stack without touching `project/` runtime files in this unit.
+- `Verified`: Keep `UNIT-012` limited to planning, state, and handoff surfaces only.
 
 ## Plan Reference
 
-- `Path:` `workspace/plans/phase-2-minimal-utility-block-stack-v1/PLAN.v1.md`
+- `Not required`: this next unit is itself the planning step.
 
 ## Allowed Files Or Surfaces
 
-- `project/assets/stone-base.css`
-- `project/sections/stone-utility-block-stack.liquid`
-- `project/templates/page.stone-runtime-block-stack.json`
-- `project/locales/he.default.schema.json`
-- `project/locales/en.schema.json`
+- `workspace/plans/`
 - `state/`
 - `workspace/handoff/CURRENT_HANDOFF.md`
 
@@ -34,8 +31,10 @@
 - `node HARNESS/checks/check-next-action-scope.mjs`
 - `node HARNESS/checks/check-plan-exists.mjs`
 - `node HARNESS/checks/check-handoff-completeness.mjs`
+- `node HARNESS/checks/check-approval-state.mjs`
+- `node HARNESS/checks/check-lock-state.mjs`
 - `node HARNESS/checks/harness-check.mjs`
 
 ## Stop Condition
 
-Stop if verification requires new runtime edits, broader runtime execution, protected-surface changes, or scope expansion beyond the approved five-file slice; record the failure precisely and replan instead of expanding work.
+Stop if planning requires runtime edits, protected-surface changes, broader runtime implementation, more than one bounded next runtime slice, or any expansion beyond `workspace/plans/`, `state/`, and `workspace/handoff/CURRENT_HANDOFF.md`; record the issue precisely and replan instead of broadening scope.

@@ -2,14 +2,15 @@
 
 ## Summary
 
-- `Verified`: The bounded Phase 2 minimal runtime foundation slice is implemented and verified, the bounded Phase 2 minimal section runtime substrate slice is implemented and verified, and the bounded Phase 2 minimal utility block stack implementation slice is complete pending bounded verification.
+- `Verified`: The bounded Phase 2 minimal runtime foundation slice is implemented and verified, the bounded Phase 2 minimal section runtime substrate slice is implemented and verified, and the bounded Phase 2 minimal utility block stack slice is implemented and verified.
 
 ## Current State
 
 - `Verified`: Phase 1 architecture canon is complete, the approved Phase 2 minimal runtime foundation implementation and verification units are complete, and the approved Phase 2 minimal section runtime substrate implementation and verification units are complete.
 - `Verified`: `UNIT-008` confirmed that `UNIT-007` stayed inside the approved six-file runtime boundary, kept the section-shell snippet neutral, kept the section utility-only, kept the template neutral, and preserved bilingual locale parity.
 - `Verified`: `UNIT-010` implemented `project/sections/stone-utility-block-stack.liquid` and `project/templates/page.stone-runtime-block-stack.json`, extended `project/assets/stone-base.css` with neutral utility-stack primitives, and updated the paired locale files inside the approved five-file runtime boundary.
-- `Verified`: `state/NEXT_ACTION.md` now points to `UNIT-011`, a bounded runtime verification unit for the minimal utility block stack slice.
+- `Verified`: `UNIT-011` confirmed that `UNIT-010` stayed inside the approved five-file runtime boundary, reused the shared section shell unchanged, stayed utility-only, kept the neutral page host isolated, and preserved bilingual locale parity.
+- `Verified`: `state/NEXT_ACTION.md` now points to `UNIT-012`, a bounded planning unit for the next Phase 2 runtime slice after utility block stack verification.
 
 ## Changed Or Seeded Files
 
@@ -39,18 +40,18 @@
 - `Verified`: `UNIT-007` completed without touching `project/layout/theme.liquid`, `project/assets/stone-runtime.js`, or `project/config/settings_schema.json`.
 - `Verified`: `UNIT-008` confirmed that one neutral alternate page template was sufficient to validate the first shared section contract without turning into homepage or preset composition.
 - `Verified`: `UNIT-010` completed without requiring snippet rewrites, `project/blocks/`, global settings changes, or page-composition growth.
-- `Inference`: `UNIT-011` should still confirm that the new block-bearing section remains utility-only under file review and that the locale additions remain structurally aligned before broader runtime work resumes.
+- `Inference`: `UNIT-012` should define the next smallest useful runtime slice after the verified utility block stack while keeping the planning unit itself limited to `workspace/plans/`, `state/`, and `workspace/handoff/CURRENT_HANDOFF.md`.
 
 ## Recommended Next Step
 
-- `Verified`: Execute `UNIT-011` from `state/NEXT_ACTION.md` and verify only the five-file minimal utility block stack slice defined by `workspace/plans/phase-2-minimal-utility-block-stack-v1/PLAN.v1.md`.
+- `Verified`: Execute `UNIT-012` from `state/NEXT_ACTION.md` and author one bounded planning unit for the next Phase 2 runtime slice without touching `project/` runtime files.
 
 ## Resume Checks
 
 - `Verified`: Read the five architecture docs under `docs/architecture/`.
 - `Verified`: Read `workspace/specs/STONEV2_SECTION_FAMILY_LEDGER.md`, `workspace/specs/STONEV2_SETTINGS_TAXONOMY.md`, and `workspace/specs/STONEV2_BILINGUAL_SCHEMA_STRATEGY.md`.
 - `Verified`: Read `workspace/plans/phase-2-minimal-runtime-foundation-v1/PLAN.v1.md` and `workspace/plans/phase-2-minimal-section-runtime-substrate-v1/PLAN.v1.md` so the verification inherits the verified foundation and verified substrate boundaries.
-- `Verified`: Read `workspace/plans/phase-2-minimal-utility-block-stack-v1/PLAN.v1.md`, `ASSUMPTIONS.v1.md`, `CHECKS.v1.md`, and `RISKS.v1.md` before bounded verification starts.
+- `Verified`: Read `workspace/plans/phase-2-minimal-utility-block-stack-v1/PLAN.v1.md`, `ASSUMPTIONS.v1.md`, `CHECKS.v1.md`, and `RISKS.v1.md` so the next planning unit inherits the verified utility block stack boundaries and evidence.
 - `Verified`: Read `state/ORCHESTRATION_STATE.md`, `state/STATUS.md`, `state/NEXT_ACTION.md`, `state/FEATURE_STATUS.md`, and `state/PROGRESS.md` to carry forward the verified boundary constraints.
-- `Verified`: Keep the next unit inside `project/assets/stone-base.css`, `project/sections/stone-utility-block-stack.liquid`, `project/templates/page.stone-runtime-block-stack.json`, `project/locales/he.default.schema.json`, `project/locales/en.schema.json`, `state/`, and `workspace/handoff/CURRENT_HANDOFF.md` only.
-- `Verified`: Run `node HARNESS/checks/harness-check.mjs`.
+- `Verified`: Keep the next unit inside `workspace/plans/`, `state/`, and `workspace/handoff/CURRENT_HANDOFF.md` only.
+- `Verified`: Run `node HARNESS/checks/check-state-artifacts.mjs`, `node HARNESS/checks/check-next-action-scope.mjs`, `node HARNESS/checks/check-plan-exists.mjs`, `node HARNESS/checks/check-handoff-completeness.mjs`, `node HARNESS/checks/check-approval-state.mjs`, `node HARNESS/checks/check-lock-state.mjs`, and `node HARNESS/checks/harness-check.mjs`.

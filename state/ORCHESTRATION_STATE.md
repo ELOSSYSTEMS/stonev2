@@ -8,14 +8,14 @@
 
 ## Current Phase
 
-- `Verified`: Active roadmap phase: Phase 2 bounded runtime verification readiness after minimal utility block stack implementation
-- `Verified`: Last completed phase slice: Phase 2 minimal utility block stack implementation slice
-- `Inference`: Next bounded slice: verify the minimal utility block stack runtime slice before any broader runtime work resumes
+- `Verified`: Active roadmap phase: Phase 2 bounded runtime planning readiness after minimal utility block stack verification
+- `Verified`: Last completed phase slice: Phase 2 minimal utility block stack verification slice
+- `Inference`: Next bounded slice: author one planning unit for the next Phase 2 runtime slice after the verified minimal utility block stack
 
 ## Approval State
 
 - `Verified`: Current next action approval: APPROVED
-- `Verified`: Approval basis: `UNIT-010` implemented the bounded Phase 2 minimal utility block stack runtime slice inside the approved five-file boundary and synchronized state for bounded verification
+- `Verified`: Approval basis: `UNIT-011` verified that `UNIT-010` stayed inside the approved five-file runtime boundary, preserved shared-shell reuse, stayed utility-only, kept the neutral page host isolated, and preserved bilingual locale alignment before the next bounded planning step
 
 ## Lock State
 

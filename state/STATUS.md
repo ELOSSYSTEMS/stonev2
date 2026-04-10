@@ -3,7 +3,7 @@
 ## Snapshot
 
 - `Verified`: Repo state: harness foundation populated
-- `Verified`: Storefront runtime state: minimal runtime foundation implemented and verified, the minimal section runtime substrate is implemented and verified, and the minimal utility block stack slice is implemented pending bounded verification
+- `Verified`: Storefront runtime state: minimal runtime foundation is implemented and verified, the minimal section runtime substrate is implemented and verified, and the minimal utility block stack slice is implemented and verified
 - `Verified`: Architecture authority: the five documents under `docs/architecture/`
 - `Verified`: Phase 2 minimal runtime foundation plan package exists under `workspace/plans/phase-2-minimal-runtime-foundation-v1/`
 - `Verified`: Phase 2 minimal section runtime substrate plan package exists under `workspace/plans/phase-2-minimal-section-runtime-substrate-v1/`
@@ -46,11 +46,12 @@
 - `Verified`: `UNIT-008` verified that `UNIT-007` remains `PASS`, the six-file runtime boundary held, the snippet stayed neutral, the section stayed utility-only, the template stayed neutral, and the locale additions remained structurally aligned.
 - `Verified`: The repo now includes a bounded Phase 2 minimal utility block stack plan package that limits the next runtime slice to one utility-only block-bearing section, one neutral alternate page template, one bounded base-CSS extension, and paired locale updates.
 - `Verified`: The repo now includes the approved Phase 2 minimal utility block stack runtime slice across the five allowed runtime files only: one utility-only block-bearing validation section, one neutral alternate page template, one bounded base-layer CSS extension, and paired locale updates.
-- `Inference`: The next high-value unit is one tightly bounded verification slice that confirms the implemented utility block stack stayed inside scope before any broader runtime work resumes.
+- `Verified`: `UNIT-011` verified that `UNIT-010` stayed inside the approved five-file runtime boundary, reused the shared section shell unchanged, stayed utility-only, kept the neutral page host isolated, and preserved bilingual locale parity.
+- `Inference`: The next high-value unit is one tightly bounded planning slice that defines the next Phase 2 runtime step without touching `project/` runtime files.
 
 ## Risks And Blocks
 
 - `Verified`: No section-family, preset-pack, homepage, collection, PDP, snippet, or template implementation was introduced in the verified minimal runtime foundation slice.
 - `Verified`: `UNIT-010` did not touch `project/snippets/stone-section-shell.liquid`, `project/layout/theme.liquid`, `project/assets/stone-runtime.js`, or `project/config/settings_schema.json`.
-- `Verified`: Broader runtime build-out remains blocked until `UNIT-011` verifies the bounded minimal utility block stack slice defined by `workspace/plans/phase-2-minimal-utility-block-stack-v1/`.
-- `Inference`: Any newly discovered need for additional runtime files, snippet changes, block-file changes, or page-composition behavior remains a replanning trigger rather than permission to expand the verification slice.
+- `Verified`: Broader runtime build-out remains blocked until `UNIT-012` authors the next bounded Phase 2 runtime plan package after the verified utility block stack slice.
+- `Inference`: Any newly discovered need for additional runtime files, snippet changes, block-file changes, or page-composition behavior remains a replanning trigger rather than permission to expand the next unit.
