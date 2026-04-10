@@ -7,6 +7,7 @@
 - `Verified`: Architecture authority: the five documents under `docs/architecture/`
 - `Verified`: Phase 2 minimal runtime foundation plan package exists under `workspace/plans/phase-2-minimal-runtime-foundation-v1/`
 - `Verified`: Phase 2 minimal section runtime substrate plan package exists under `workspace/plans/phase-2-minimal-section-runtime-substrate-v1/`
+- `Verified`: Phase 2 minimal utility block stack plan package exists under `workspace/plans/phase-2-minimal-utility-block-stack-v1/`
 
 ## Canonical Inputs
 
@@ -20,6 +21,7 @@
 - `Verified`: `workspace/specs/STONEV2_BILINGUAL_SCHEMA_STRATEGY.md`
 - `Verified`: `workspace/plans/phase-2-minimal-runtime-foundation-v1/PLAN.v1.md`
 - `Verified`: `workspace/plans/phase-2-minimal-section-runtime-substrate-v1/PLAN.v1.md`
+- `Verified`: `workspace/plans/phase-2-minimal-utility-block-stack-v1/PLAN.v1.md`
 
 ## Constraints
 
@@ -42,10 +44,11 @@
 - `Verified`: The repo now includes a bounded Phase 2 minimal section runtime substrate plan package under `workspace/plans/phase-2-minimal-section-runtime-substrate-v1/`.
 - `Verified`: The repo now includes the approved Phase 2 minimal section runtime substrate slice across the six allowed runtime files only: one neutral section-shell snippet, one utility-only validation section, one neutral alternate page template, one base-layer CSS extension, and paired locale updates.
 - `Verified`: `UNIT-008` verified that `UNIT-007` remains `PASS`, the six-file runtime boundary held, the snippet stayed neutral, the section stayed utility-only, the template stayed neutral, and the locale additions remained structurally aligned.
-- `Inference`: The next high-value unit is a documentation-only planning pass that defines the next bounded Phase 2 runtime slice without reopening runtime implementation.
+- `Verified`: The repo now includes a bounded Phase 2 minimal utility block stack plan package that limits the next runtime slice to one utility-only block-bearing section, one neutral alternate page template, one bounded base-CSS extension, and paired locale updates.
+- `Inference`: The next high-value unit is one tightly bounded runtime implementation slice that proves block-bearing utility section behavior without reopening shell, settings, JS, or page-composition surfaces.
 
 ## Risks And Blocks
 
 - `Verified`: No section-family, preset-pack, homepage, collection, PDP, snippet, or template implementation was introduced in the verified minimal runtime foundation slice.
-- `Verified`: Broader runtime build-out remains blocked beyond the verified minimal section runtime substrate slice until a new bounded planning unit authorizes the next slice.
-- `Inference`: Any newly discovered need for additional runtime files or feature behavior remains a replanning trigger rather than permission to expand the current slice.
+- `Verified`: Broader runtime build-out remains blocked beyond the bounded minimal utility block stack slice defined by `workspace/plans/phase-2-minimal-utility-block-stack-v1/`.
+- `Inference`: Any newly discovered need for additional runtime files, snippet changes, block-file changes, or page-composition behavior remains a replanning trigger rather than permission to expand the next slice.

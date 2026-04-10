@@ -1,0 +1,43 @@
+# Phase 2 Minimal Utility Block Stack Checks v1
+
+## Acceptance Checks
+
+| ID | Requirement | Evidence Needed |
+| --- | --- | --- |
+| AC-01 | Only the approved runtime file set is created or modified under `project/`. | Diff shows changes only in `project/assets/stone-base.css`, `project/sections/stone-utility-block-stack.liquid`, `project/templates/page.stone-runtime-block-stack.json`, `project/locales/he.default.schema.json`, and `project/locales/en.schema.json`. |
+| AC-02 | The slice proves one block-bearing utility section without reopening the shared section shell. | File review shows `project/sections/stone-utility-block-stack.liquid` uses the existing `stone-section-shell` contract and no diff touches `project/snippets/stone-section-shell.liquid`. |
+| AC-03 | The new section stays utility-only. | File review shows the section renders only a narrow stack of content blocks and contains no product, collection, article, blog, trust, merchandising, hero, or editorial logic. |
+| AC-04 | The template host stays neutral and isolated. | `project/templates/page.stone-runtime-block-stack.json` mounts only the utility block-stack validation section and does not introduce homepage ordering, preset defaults, or page-specific composition. |
+| AC-05 | The base-layer extension stays substrate-level. | File review of `project/assets/stone-base.css` shows neutral utility-stack presentation rules only, without polished storefront or family-specific styling. |
+| AC-06 | Hebrew and English locale coverage stays structurally aligned for the new section and block schema surface. | Side-by-side review confirms matching keys, option structures, block labels, and help-text coverage in `project/locales/he.default.schema.json` and `project/locales/en.schema.json`. |
+| AC-07 | No new global settings, runtime JS behavior, snippet files, or block files enter the slice. | Diff shows no edits to `project/config/settings_schema.json`, `project/assets/stone-runtime.js`, or `project/snippets/`, and no new files under `project/blocks/`. |
+
+## Regression Checks
+
+| ID | Area | Check | Failure Signal |
+| --- | --- | --- | --- |
+| RC-01 | Runtime boundary | Confirm no new runtime files appear outside the approved five-file list. | Any new file under `project/` outside the approved scope. |
+| RC-02 | Shell stability | Confirm the verified shared section shell remains unchanged. | Any edit to `project/snippets/stone-section-shell.liquid`. |
+| RC-03 | Family scope | Confirm no hero, trust, merchandising, collection, PDP, article, blog, or editorial behavior appears in the new section. | Product data usage, collection data usage, article data usage, or family-specific naming and settings. |
+| RC-04 | Template scope | Confirm no homepage, collection, PDP, preset, or additional alternate-template composition is introduced. | Any template file beyond `project/templates/page.stone-runtime-block-stack.json` or any multi-section sequencing. |
+| RC-05 | Abstraction discipline | Confirm no `project/blocks/` file or new shared snippet file is introduced. | New block file or new snippet file appears. |
+| RC-06 | Bilingual parity | Confirm locale files remain synchronized for the added section and block strings. | Missing keys, mismatched option sets, mismatched block labels, or help text missing in one language. |
+
+## Commands
+
+| ID | Command | Purpose | Expected Result |
+| --- | --- | --- | --- |
+| CMD-01 | `node HARNESS/checks/check-state-artifacts.mjs` | Confirm required state sections remain intact after the planning unit state update. | Pass |
+| CMD-02 | `node HARNESS/checks/check-next-action-scope.mjs` | Confirm the next action remains one bounded unit with explicit scope. | Pass |
+| CMD-03 | `node HARNESS/checks/check-plan-exists.mjs` | Confirm the approved next unit references this plan package. | Pass |
+| CMD-04 | `node HARNESS/checks/check-handoff-completeness.mjs` | Confirm handoff remains synchronized with state after the planning update. | Pass |
+| CMD-05 | `node HARNESS/checks/harness-check.mjs` | Run the local aggregate harness checks. | Pass |
+
+## Boundary Review Steps
+
+- `Verified`: Review the changed runtime paths and confirm they are a subset of the approved five-file list.
+- `Verified`: Review `project/sections/stone-utility-block-stack.liquid` and reject any product, collection, article, blog, hero, trust, merchandising, or editorial behavior.
+- `Verified`: Review `project/templates/page.stone-runtime-block-stack.json` and reject any extra section composition or preset-like sequencing.
+- `Verified`: Review `project/assets/stone-base.css` and reject any shell rewrite or family-level styling.
+- `Verified`: Review the locale files together and reject key, block-label, option, or help-text mismatches.
+- `Verified`: Stop the unit if any of the above checks fail instead of broadening the slice to make it feel more complete.
