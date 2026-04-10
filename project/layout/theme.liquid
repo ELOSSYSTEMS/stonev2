@@ -1,0 +1,67 @@
+<!doctype html>
+{%- liquid
+  assign stone_locale = request.locale.iso_code | default: localization.language.iso_code | default: shop.locale | default: 'he'
+  assign stone_locale_prefix = stone_locale | split: '-' | first
+  assign stone_direction_mode = settings.stone_direction_mode | default: 'auto'
+  assign stone_document_dir = 'rtl'
+  assign stone_brand_name = settings.stone_brand_name | strip
+
+  if stone_brand_name == blank
+    assign stone_brand_name = shop.name
+  endif
+
+  if stone_direction_mode == 'ltr'
+    assign stone_document_dir = 'ltr'
+  elsif stone_direction_mode == 'rtl'
+    assign stone_document_dir = 'rtl'
+  elsif stone_locale_prefix == 'en'
+    assign stone_document_dir = 'ltr'
+  endif
+-%}
+<html
+  class="no-js"
+  lang="{{ stone_locale | escape }}"
+  dir="{{ stone_document_dir }}"
+  data-stone-dir-mode="{{ stone_direction_mode | escape }}"
+  data-stone-locale="{{ stone_locale | escape }}"
+>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <meta name="theme-color" content="{{ settings.stone_brand_primary_color | default: '#111111' }}">
+    <meta name="application-name" content="{{ stone_brand_name | escape }}">
+    <title>{{ page_title }}{% unless page_title contains shop.name %} - {{ stone_brand_name | escape }}{% endunless %}</title>
+    {%- if page_description -%}
+      <meta name="description" content="{{ page_description | escape }}">
+    {%- endif -%}
+    {%- if settings.stone_favicon != blank -%}
+      <link
+        rel="icon"
+        type="image/png"
+        href="{{ settings.stone_favicon | image_url: width: 64, height: 64 }}"
+      >
+    {%- endif -%}
+    <style>
+      :root {
+        --stone-color-brand: {{ settings.stone_brand_primary_color | default: '#111111' }};
+        --stone-color-canvas: {{ settings.stone_canvas_color | default: '#ffffff' }};
+        --stone-color-text: {{ settings.stone_text_color | default: '#121212' }};
+      }
+    </style>
+    {{ 'stone-tokens.css' | asset_url | stylesheet_tag }}
+    {{ 'stone-base.css' | asset_url | stylesheet_tag }}
+    {{ content_for_header }}
+  </head>
+  <body
+    class="stone-shell"
+    data-stone-shell-width="{{ settings.stone_shell_width | default: 'standard' | escape }}"
+    data-stone-spacing-scale="{{ settings.stone_spacing_scale | default: 'comfortable' | escape }}"
+    data-stone-radius-scale="{{ settings.stone_radius_scale | default: 'soft' | escape }}"
+    data-stone-motion-level="{{ settings.stone_motion_level | default: 'standard' | escape }}"
+  >
+    <main id="MainContent" class="stone-main" role="main" tabindex="-1">
+      {{ content_for_layout }}
+    </main>
+    <script src="{{ 'stone-runtime.js' | asset_url }}" defer="defer"></script>
+  </body>
+</html>

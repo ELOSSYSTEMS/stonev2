@@ -1,0 +1,152 @@
+[
+  {
+    "name": "t:settings.brand_identity.name",
+    "settings": [
+      {
+        "type": "text",
+        "id": "stone_brand_name",
+        "label": "t:settings.brand_identity.settings.brand_name.label",
+        "info": "t:settings.brand_identity.settings.brand_name.info",
+        "default": ""
+      },
+      {
+        "type": "color",
+        "id": "stone_brand_primary_color",
+        "label": "t:settings.brand_identity.settings.brand_primary_color.label",
+        "info": "t:settings.brand_identity.settings.brand_primary_color.info",
+        "default": "#111111"
+      },
+      {
+        "type": "image_picker",
+        "id": "stone_favicon",
+        "label": "t:settings.brand_identity.settings.favicon.label",
+        "info": "t:settings.brand_identity.settings.favicon.info"
+      }
+    ]
+  },
+  {
+    "name": "t:settings.global_design_system.name",
+    "settings": [
+      {
+        "type": "color",
+        "id": "stone_canvas_color",
+        "label": "t:settings.global_design_system.settings.canvas_color.label",
+        "info": "t:settings.global_design_system.settings.canvas_color.info",
+        "default": "#ffffff"
+      },
+      {
+        "type": "color",
+        "id": "stone_text_color",
+        "label": "t:settings.global_design_system.settings.text_color.label",
+        "info": "t:settings.global_design_system.settings.text_color.info",
+        "default": "#121212"
+      },
+      {
+        "type": "select",
+        "id": "stone_spacing_scale",
+        "label": "t:settings.global_design_system.settings.spacing_scale.label",
+        "info": "t:settings.global_design_system.settings.spacing_scale.info",
+        "default": "comfortable",
+        "options": [
+          {
+            "value": "compact",
+            "label": "t:settings.global_design_system.settings.spacing_scale.options.compact.label"
+          },
+          {
+            "value": "comfortable",
+            "label": "t:settings.global_design_system.settings.spacing_scale.options.comfortable.label"
+          },
+          {
+            "value": "relaxed",
+            "label": "t:settings.global_design_system.settings.spacing_scale.options.relaxed.label"
+          }
+        ]
+      },
+      {
+        "type": "select",
+        "id": "stone_radius_scale",
+        "label": "t:settings.global_design_system.settings.radius_scale.label",
+        "info": "t:settings.global_design_system.settings.radius_scale.info",
+        "default": "soft",
+        "options": [
+          {
+            "value": "sharp",
+            "label": "t:settings.global_design_system.settings.radius_scale.options.sharp.label"
+          },
+          {
+            "value": "soft",
+            "label": "t:settings.global_design_system.settings.radius_scale.options.soft.label"
+          },
+          {
+            "value": "rounded",
+            "label": "t:settings.global_design_system.settings.radius_scale.options.rounded.label"
+          }
+        ]
+      },
+      {
+        "type": "select",
+        "id": "stone_motion_level",
+        "label": "t:settings.global_design_system.settings.motion_level.label",
+        "info": "t:settings.global_design_system.settings.motion_level.info",
+        "default": "standard",
+        "options": [
+          {
+            "value": "reduced",
+            "label": "t:settings.global_design_system.settings.motion_level.options.reduced.label"
+          },
+          {
+            "value": "standard",
+            "label": "t:settings.global_design_system.settings.motion_level.options.standard.label"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "t:settings.shell_behavior.name",
+    "settings": [
+      {
+        "type": "select",
+        "id": "stone_direction_mode",
+        "label": "t:settings.shell_behavior.settings.direction_mode.label",
+        "info": "t:settings.shell_behavior.settings.direction_mode.info",
+        "default": "auto",
+        "options": [
+          {
+            "value": "auto",
+            "label": "t:settings.shell_behavior.settings.direction_mode.options.auto.label"
+          },
+          {
+            "value": "rtl",
+            "label": "t:settings.shell_behavior.settings.direction_mode.options.rtl.label"
+          },
+          {
+            "value": "ltr",
+            "label": "t:settings.shell_behavior.settings.direction_mode.options.ltr.label"
+          }
+        ]
+      },
+      {
+        "type": "select",
+        "id": "stone_shell_width",
+        "label": "t:settings.shell_behavior.settings.shell_width.label",
+        "info": "t:settings.shell_behavior.settings.shell_width.info",
+        "default": "standard",
+        "options": [
+          {
+            "value": "narrow",
+            "label": "t:settings.shell_behavior.settings.shell_width.options.narrow.label"
+          },
+          {
+            "value": "standard",
+            "label": "t:settings.shell_behavior.settings.shell_width.options.standard.label"
+          },
+          {
+            "value": "wide",
+            "label": "t:settings.shell_behavior.settings.shell_width.options.wide.label"
+          }
+        ]
+      }
+    ]
+  }
+]

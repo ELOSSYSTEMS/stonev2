@@ -1,0 +1,83 @@
+html {
+  block-size: 100%;
+  scroll-behavior: smooth;
+}
+
+body {
+  min-block-size: 100%;
+  margin: 0;
+  background: var(--stone-color-canvas);
+  color: var(--stone-color-text);
+  font-family: "Noto Sans Hebrew", "Segoe UI", Arial, sans-serif;
+  line-height: 1.5;
+  text-align: start;
+  text-rendering: optimizeLegibility;
+}
+
+body,
+button,
+input,
+select,
+textarea {
+  font: inherit;
+  color: inherit;
+}
+
+.stone-shell {
+  display: flex;
+  flex-direction: column;
+}
+
+.stone-main {
+  flex: 1 0 auto;
+  inline-size: 100%;
+  max-inline-size: var(--stone-shell-max-width);
+  margin-inline: auto;
+  padding-block: var(--stone-space-6);
+  padding-inline: var(--stone-gutter);
+  box-sizing: border-box;
+}
+
+.stone-main > * {
+  min-inline-size: 0;
+}
+
+a {
+  color: inherit;
+  text-underline-offset: 0.15em;
+  transition: color var(--stone-duration-fast) var(--stone-ease-standard);
+}
+
+img,
+picture,
+svg,
+video,
+canvas {
+  display: block;
+  max-inline-size: 100%;
+  block-size: auto;
+}
+
+:focus-visible {
+  outline: 2px solid var(--stone-color-brand);
+  outline-offset: 2px;
+}
+
+::selection {
+  background: var(--stone-color-brand);
+  color: var(--stone-color-canvas);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+
+  *,
+  *::before,
+  *::after {
+    animation-duration: 1ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 1ms !important;
+  }
+}

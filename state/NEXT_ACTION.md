@@ -2,21 +2,21 @@
 
 ## Status
 
-- `Verified`: Approval State: CONDITIONALLY_APPROVED
-- `Verified`: Execution Class: runtime-foundation-implementation
+- `Verified`: Approval State: APPROVED
+- `Verified`: Execution Class: runtime-foundation-verification
 - `Verified`: Priority: high
 
 ## Approved Unit
 
-- `UNIT-004` Execute the bounded Phase 2 minimal runtime foundation implementation slice.
+- `UNIT-005` Verify the bounded Phase 2 minimal runtime foundation implementation slice.
 
 ## Objective
 
-- `Verified`: Implement only the minimal runtime foundation defined by the approved plan package, without entering section-family, preset-pack, homepage, collection, PDP, or polished storefront work.
+- `Verified`: Confirm that `UNIT-004` stayed inside the approved seven-file runtime boundary, remained foundation-only, and passed the required governed checks without authorizing new runtime implementation.
 
 ## Plan Reference
 
-- `Path:` `workspace/plans/phase-2-minimal-runtime-foundation-v1/PLAN.v1.md`
+- `Not required`: verification unit against the completed `UNIT-004` runtime slice.
 
 ## Allowed Files Or Surfaces
 
@@ -40,4 +40,4 @@
 
 ## Stop Condition
 
-Stop if the unit needs any runtime file outside the approved list, enters `project/sections/`, `project/blocks/`, `project/templates/`, or `project/snippets/`, or begins section-family, preset-pack, homepage, collection, PDP, or polished storefront implementation.
+Stop if verification requires any runtime edit, any runtime file outside the approved list, or any expansion into `project/sections/`, `project/blocks/`, `project/templates/`, `project/snippets/`, section-family work, preset work, homepage work, collection work, PDP work, or polished storefront implementation.

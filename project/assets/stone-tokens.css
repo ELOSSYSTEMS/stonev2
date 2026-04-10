@@ -1,0 +1,60 @@
+:root {
+  color-scheme: light;
+  --stone-color-brand: #111111;
+  --stone-color-canvas: #ffffff;
+  --stone-color-text: #121212;
+  --stone-color-surface: #f6f4f1;
+  --stone-color-border: rgba(18, 18, 18, 0.12);
+  --stone-focus-ring: rgba(17, 17, 17, 0.24);
+  --stone-space-2: 0.5rem;
+  --stone-space-4: 1rem;
+  --stone-space-6: 1.5rem;
+  --stone-space-8: 2rem;
+  --stone-radius-1: 0.5rem;
+  --stone-radius-2: 0.875rem;
+  --stone-shell-max-width: 80rem;
+  --stone-gutter: 1rem;
+  --stone-duration-fast: 160ms;
+  --stone-duration-base: 240ms;
+  --stone-ease-standard: ease;
+}
+
+body[data-stone-spacing-scale="compact"] {
+  --stone-space-2: 0.375rem;
+  --stone-space-4: 0.75rem;
+  --stone-space-6: 1.125rem;
+  --stone-space-8: 1.5rem;
+  --stone-gutter: 0.875rem;
+}
+
+body[data-stone-spacing-scale="relaxed"] {
+  --stone-space-2: 0.625rem;
+  --stone-space-4: 1.25rem;
+  --stone-space-6: 2rem;
+  --stone-space-8: 2.75rem;
+  --stone-gutter: 1.25rem;
+}
+
+body[data-stone-radius-scale="sharp"] {
+  --stone-radius-1: 0.25rem;
+  --stone-radius-2: 0.5rem;
+}
+
+body[data-stone-radius-scale="rounded"] {
+  --stone-radius-1: 0.75rem;
+  --stone-radius-2: 1.25rem;
+}
+
+body[data-stone-shell-width="narrow"] {
+  --stone-shell-max-width: 64rem;
+}
+
+body[data-stone-shell-width="wide"] {
+  --stone-shell-max-width: 96rem;
+}
+
+body[data-stone-motion-level="reduced"] {
+  --stone-duration-fast: 1ms;
+  --stone-duration-base: 1ms;
+  --stone-ease-standard: linear;
+}

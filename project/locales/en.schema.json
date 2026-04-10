@@ -1,0 +1,111 @@
+{
+  "settings": {
+    "brand_identity": {
+      "name": "Brand identity",
+      "settings": {
+        "brand_name": {
+          "label": "Brand name override",
+          "info": "Optional. Used for document metadata when a custom brand name is needed."
+        },
+        "brand_primary_color": {
+          "label": "Brand primary color",
+          "info": "Sets the shared brand token used by the minimal shell and focus state."
+        },
+        "favicon": {
+          "label": "Favicon",
+          "info": "Optional. Used as the browser and device icon for the shell."
+        }
+      }
+    },
+    "global_design_system": {
+      "name": "Global design system",
+      "settings": {
+        "canvas_color": {
+          "label": "Canvas color",
+          "info": "Sets the default page background token for the minimal runtime shell."
+        },
+        "text_color": {
+          "label": "Text color",
+          "info": "Sets the default text token used by the base document styling."
+        },
+        "spacing_scale": {
+          "label": "Spacing scale",
+          "info": "Controls the shared shell rhythm and page gutter spacing.",
+          "options": {
+            "compact": {
+              "label": "Compact"
+            },
+            "comfortable": {
+              "label": "Comfortable"
+            },
+            "relaxed": {
+              "label": "Relaxed"
+            }
+          }
+        },
+        "radius_scale": {
+          "label": "Radius scale",
+          "info": "Controls the shared shell corner rounding tokens.",
+          "options": {
+            "sharp": {
+              "label": "Sharp"
+            },
+            "soft": {
+              "label": "Soft"
+            },
+            "rounded": {
+              "label": "Rounded"
+            }
+          }
+        },
+        "motion_level": {
+          "label": "Motion level",
+          "info": "Sets the default transition intensity for the minimal runtime foundation.",
+          "options": {
+            "reduced": {
+              "label": "Reduced"
+            },
+            "standard": {
+              "label": "Standard"
+            }
+          }
+        }
+      }
+    },
+    "shell_behavior": {
+      "name": "Shell behavior",
+      "settings": {
+        "direction_mode": {
+          "label": "Document direction",
+          "info": "Auto follows the active locale. Use an override only when the shell must stay fixed.",
+          "options": {
+            "auto": {
+              "label": "Auto"
+            },
+            "rtl": {
+              "label": "RTL"
+            },
+            "ltr": {
+              "label": "LTR"
+            }
+          }
+        },
+        "shell_width": {
+          "label": "Shell width",
+          "info": "Controls the neutral page container width used by the global shell only.",
+          "options": {
+            "narrow": {
+              "label": "Narrow"
+            },
+            "standard": {
+              "label": "Standard"
+            },
+            "wide": {
+              "label": "Wide"
+            }
+          }
+        }
+      }
+    }
+  }
+}

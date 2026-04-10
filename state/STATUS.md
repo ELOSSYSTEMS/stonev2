@@ -3,7 +3,7 @@
 ## Snapshot
 
 - `Verified`: Repo state: harness foundation populated
-- `Verified`: Storefront runtime state: scaffold only
+- `Verified`: Storefront runtime state: minimal runtime foundation implemented
 - `Verified`: Architecture authority: the five documents under `docs/architecture/`
 - `Verified`: Phase 2 minimal runtime foundation plan package exists under `workspace/plans/phase-2-minimal-runtime-foundation-v1/`
 
@@ -36,10 +36,11 @@
 - `Verified`: Required harness docs, templates, checker scaffold, state files, workspace seeds, and README guidance exist.
 - `Verified`: The repo now includes governed Phase 1 canon artifacts for the section family system, settings taxonomy, and bilingual schema strategy under `workspace/specs/`.
 - `Verified`: The repo now includes a bounded Phase 2 minimal runtime foundation plan package under `workspace/plans/phase-2-minimal-runtime-foundation-v1/`.
-- `Inference`: The next high-value unit is a tightly scoped runtime foundation implementation slice derived from that plan package.
+- `Verified`: The repo now includes the approved Phase 2 minimal runtime foundation slice across the seven allowed runtime files only.
+- `Inference`: The next high-value unit is a verification-only pass that confirms boundary compliance before any broader runtime work is authorized.
 
 ## Risks And Blocks
 
-- `Verified`: No runtime Liquid, schema locale files, or preset pack implementation has been started in this pass.
-- `Verified`: Runtime implementation remains bounded to a conditional next unit and must stay inside the planned seven-file runtime surface.
-- `Inference`: Any need for section-family, preset-pack, homepage, collection, PDP, or extra runtime file work would invalidate the minimal runtime slice and require replanning.
+- `Verified`: No section-family, preset-pack, homepage, collection, PDP, snippet, or template implementation was introduced in the minimal runtime foundation slice.
+- `Verified`: Broader runtime build-out remains blocked until the completed slice is verified and a separate bounded unit is approved.
+- `Inference`: Any newly discovered need for additional runtime files or feature behavior remains a replanning trigger rather than permission to expand the current slice.

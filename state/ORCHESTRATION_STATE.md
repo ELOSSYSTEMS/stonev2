@@ -8,14 +8,14 @@
 
 ## Current Phase
 
-- `Verified`: Active roadmap phase: Phase 2 minimal runtime foundation execution readiness
-- `Verified`: Last completed phase slice: Phase 2 minimal runtime foundation planning package
-- `Inference`: Next bounded slice: execute the conditionally approved minimal runtime foundation implementation without expanding beyond the planned runtime file boundary
+- `Verified`: Active roadmap phase: Phase 2 minimal runtime foundation verification readiness
+- `Verified`: Last completed phase slice: Phase 2 minimal runtime foundation implementation slice
+- `Inference`: Next bounded slice: verify the completed minimal runtime foundation slice and confirm boundary compliance before any broader runtime work
 
 ## Approval State
 
-- `Verified`: Current next action approval: CONDITIONALLY_APPROVED
-- `Verified`: Approval basis: the documentation-only plan package now exists, but runtime work may proceed only inside the exact file boundary defined under `workspace/plans/phase-2-minimal-runtime-foundation-v1/PLAN.v1.md`
+- `Verified`: Current next action approval: APPROVED
+- `Verified`: Approval basis: `UNIT-004` was implemented inside the approved runtime file boundary and the next bounded unit is verification-only with no additional runtime expansion
 
 ## Lock State
 
