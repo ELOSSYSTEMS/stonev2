@@ -3,16 +3,16 @@
 ## Status
 
 - `Verified`: Approval State: APPROVED
-- `Verified`: Execution Class: phase-2-runtime-implementation
+- `Verified`: Execution Class: phase-2-runtime-verification
 - `Verified`: Priority: high
 
 ## Approved Unit
 
-- `UNIT-010` Execute the bounded Phase 2 minimal utility block stack implementation slice.
+- `UNIT-011` Verify the bounded Phase 2 minimal utility block stack implementation slice.
 
 ## Objective
 
-- `Verified`: Implement the next smallest useful Phase 2 runtime slice after the verified minimal section runtime substrate by proving one utility-only block-bearing section on a neutral page host without broadening into unplanned storefront work.
+- `Verified`: Verify that the completed minimal utility block stack slice stayed inside the approved five-file runtime boundary, consumed the shared section shell unchanged, remained utility-only, kept the neutral page host isolated, and preserved bilingual locale alignment before any broader runtime work resumes.
 
 ## Plan Reference
 
@@ -38,4 +38,4 @@
 
 ## Stop Condition
 
-Stop if implementation needs any runtime file outside the approved five-file scope, if it touches `project/snippets/stone-section-shell.liquid`, `project/layout/theme.liquid`, `project/assets/stone-runtime.js`, or `project/config/settings_schema.json`, or if it broadens into homepage, preset, collection, PDP, blog or editorial, merchandising, multi-section composition, `project/blocks/`, or polished storefront implementation without a separately bounded package.
+Stop if verification requires new runtime edits, broader runtime execution, protected-surface changes, or scope expansion beyond the approved five-file slice; record the failure precisely and replan instead of expanding work.

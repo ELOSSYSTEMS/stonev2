@@ -1,0 +1,40 @@
+{
+  "sections": {
+    "main": {
+      "type": "stone-utility-block-stack",
+      "settings": {
+        "heading": "Runtime utility block stack",
+        "width_mode": "standard",
+        "spacing_mode": "standard"
+      },
+      "blocks": {
+        "intro_heading": {
+          "type": "heading",
+          "settings": {
+            "text": "Isolated block-bearing validation"
+          }
+        },
+        "intro_body": {
+          "type": "richtext",
+          "settings": {
+            "body": "<p>Use this neutral host to validate stacked block flow through the shared section shell without introducing storefront composition.</p>"
+          }
+        },
+        "checklist": {
+          "type": "list",
+          "settings": {
+            "items": "Shared section shell remains unchanged\nBlock iteration stays utility-only\nLocale coverage remains bilingual and aligned"
+          }
+        }
+      },
+      "block_order": [
+        "intro_heading",
+        "intro_body",
+        "checklist"
+      ]
+    }
+  },
+  "order": [
+    "main"
+  ]
+}

@@ -159,6 +159,75 @@
           }
         }
       }
+    },
+    "stone_utility_block_stack": {
+      "name": "Utility block stack",
+      "empty": "Add at least one utility block to validate the neutral stack flow.",
+      "settings": {
+        "heading": {
+          "label": "Section heading",
+          "info": "Optional. Displays a neutral heading above the block stack."
+        },
+        "width_mode": {
+          "label": "Width mode",
+          "info": "Controls the neutral container width for the section shell.",
+          "options": {
+            "narrow": {
+              "label": "Narrow"
+            },
+            "standard": {
+              "label": "Standard"
+            },
+            "wide": {
+              "label": "Wide"
+            }
+          }
+        },
+        "spacing_mode": {
+          "label": "Spacing mode",
+          "info": "Controls the neutral vertical spacing of the section shell.",
+          "options": {
+            "compact": {
+              "label": "Compact"
+            },
+            "standard": {
+              "label": "Balanced"
+            },
+            "relaxed": {
+              "label": "Relaxed"
+            }
+          }
+        }
+      },
+      "blocks": {
+        "heading": {
+          "name": "Heading",
+          "settings": {
+            "text": {
+              "label": "Heading text",
+              "info": "Adds one short heading to the stack item."
+            }
+          }
+        },
+        "richtext": {
+          "name": "Rich text",
+          "settings": {
+            "body": {
+              "label": "Rich text",
+              "info": "Defines one neutral content body for the stack item."
+            }
+          }
+        },
+        "list": {
+          "name": "List",
+          "settings": {
+            "items": {
+              "label": "List items",
+              "info": "Enter one item per line to keep the utility list neutral."
+            }
+          }
+        }
+      }
     }
   }
 }
