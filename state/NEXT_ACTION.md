@@ -3,28 +3,27 @@
 ## Status
 
 - `Verified`: Approval State: APPROVED
-- `Verified`: Execution Class: runtime-foundation-verification
+- `Verified`: Execution Class: phase-2-minimal-section-runtime-substrate-implementation
 - `Verified`: Priority: high
 
 ## Approved Unit
 
-- `UNIT-005` Verify the bounded Phase 2 minimal runtime foundation implementation slice.
+- `UNIT-007` Execute the bounded Phase 2 minimal section runtime substrate implementation slice.
 
 ## Objective
 
-- `Verified`: Confirm that `UNIT-004` stayed inside the approved seven-file runtime boundary, remained foundation-only, and passed the required governed checks without authorizing new runtime implementation.
+- `Verified`: Implement the first reusable section runtime substrate on top of the verified foundation by touching only the approved six-file runtime scope defined in the new plan package, while preserving the ban on broader section-family, homepage, preset, collection, PDP, and storefront work.
 
 ## Plan Reference
 
-- `Not required`: verification unit against the completed `UNIT-004` runtime slice.
+- `Path:` `workspace/plans/phase-2-minimal-section-runtime-substrate-v1/PLAN.v1.md`
 
 ## Allowed Files Or Surfaces
 
-- `project/layout/theme.liquid`
-- `project/assets/stone-tokens.css`
 - `project/assets/stone-base.css`
-- `project/assets/stone-runtime.js`
-- `project/config/settings_schema.json`
+- `project/snippets/stone-section-shell.liquid`
+- `project/sections/stone-utility-richtext.liquid`
+- `project/templates/page.stone-runtime.json`
 - `project/locales/he.default.schema.json`
 - `project/locales/en.schema.json`
 - `state/`
@@ -40,4 +39,4 @@
 
 ## Stop Condition
 
-Stop if verification requires any runtime edit, any runtime file outside the approved list, or any expansion into `project/sections/`, `project/blocks/`, `project/templates/`, `project/snippets/`, section-family work, preset work, homepage work, collection work, PDP work, or polished storefront implementation.
+Stop if implementation needs any runtime file outside the approved six-file scope, edits `project/layout/theme.liquid`, `project/assets/stone-runtime.js`, or `project/config/settings_schema.json`, introduces a second section, snippet, or template file, or broadens into homepage, preset, collection, PDP, blog or editorial, merchandising, or polished storefront work.
