@@ -70,7 +70,8 @@
 - `Verified`: `UNIT-026` verified that `UNIT-025` stayed inside the approved five-file runtime boundary, reused the shared section shell unchanged, stayed utility-only, kept the neutral page host isolated, and preserved bilingual locale parity.
 - `Verified`: The repo now includes a bounded Phase 2 minimal utility prompt plan package that limits the next runtime slice to one utility-only contained prompt section, one neutral alternate page template, one bounded base-layer CSS extension, and paired locale updates.
 - `Verified`: The repo now includes the approved Phase 2 minimal utility prompt runtime slice across the five allowed runtime files only: one utility-only contained prompt validation section, one neutral alternate page template, one bounded base-layer CSS extension, and paired locale updates.
-- `Inference`: The next high-value unit is one tightly bounded verification slice that confirms the implemented utility prompt proof stayed inside the approved five runtime files.
+- `Verified`: `UNIT-029` verified that `UNIT-028` stayed inside the approved five-file runtime boundary, reused the shared shell unchanged, stayed utility-only, kept the neutral page host isolated, and preserved bilingual locale parity.
+- `Inference`: The next high-value unit is one tightly bounded documentation-only planning slice that defines the next minimal runtime proof after verified utility prompt completion.
 
 ## Risks And Blocks
 
@@ -83,5 +84,5 @@
 - `Verified`: `UNIT-022` did not touch `project/snippets/stone-section-shell.liquid`, `project/layout/theme.liquid`, `project/assets/stone-runtime.js`, `project/config/settings_schema.json`, or `project/blocks/`.
 - `Verified`: `UNIT-025` did not touch `project/snippets/stone-section-shell.liquid`, `project/layout/theme.liquid`, `project/assets/stone-runtime.js`, `project/config/settings_schema.json`, or `project/blocks/`.
 - `Verified`: `UNIT-028` did not touch `project/snippets/stone-section-shell.liquid`, `project/layout/theme.liquid`, `project/assets/stone-runtime.js`, `project/config/settings_schema.json`, or `project/blocks/`.
-- `Verified`: Broader runtime build-out remains blocked beyond the approved `UNIT-029` verification scope for the implemented minimal utility prompt slice.
+- `Verified`: Broader runtime build-out remains blocked beyond the approved `UNIT-030` planning scope until the next bounded slice is explicitly planned and approved.
 - `Inference`: Any newly discovered need for protected-surface edits, `project/blocks/`, JS-driven behavior, a second section, a second template, or page-composition behavior remains a replanning trigger rather than permission to expand the next unit.
