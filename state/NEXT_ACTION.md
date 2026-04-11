@@ -3,29 +3,25 @@
 ## Status
 
 - `Verified`: Approval State: APPROVED
-- `Verified`: Execution Class: phase-2-runtime-verification
+- `Verified`: Execution Class: phase-2-runtime-planning
 - `Verified`: Priority: high
 
 ## Approved Unit
 
-- `UNIT-032` Verify the bounded Phase 2 minimal utility spacer implementation slice.
+- `UNIT-033` Author one bounded planning unit for the next Phase 2 runtime slice after verified utility spacer completion.
 
 ## Objective
 
-- `Verified`: Verify that the completed minimal utility spacer slice stayed inside the approved five-file runtime boundary and remained utility-only, shell-stable, template-neutral, and bilingual.
-- `Verified`: Keep `UNIT-032` limited to verification evidence, state updates, and handoff updates only.
+- `Verified`: Define one documentation-only planning unit for the next bounded Phase 2 runtime slice after the verified utility spacer proof.
+- `Verified`: Keep `UNIT-033` limited to `workspace/plans/`, `state/`, and `workspace/handoff/CURRENT_HANDOFF.md` only.
 
 ## Plan Reference
 
-- `Path:` `workspace/plans/phase-2-minimal-utility-spacer-v1/PLAN.v1.md`
+- `Path:` `workspace/plans/`
 
 ## Allowed Files Or Surfaces
 
-- `project/assets/stone-base.css`
-- `project/sections/stone-utility-spacer.liquid`
-- `project/templates/page.stone-runtime-spacer.json`
-- `project/locales/he.default.schema.json`
-- `project/locales/en.schema.json`
+- `workspace/plans/`
 - `state/`
 - `workspace/handoff/CURRENT_HANDOFF.md`
 
@@ -41,4 +37,4 @@
 
 ## Stop Condition
 
-Stop if verification evidence shows the implementation touched any file outside `project/assets/stone-base.css`, `project/sections/stone-utility-spacer.liquid`, `project/templates/page.stone-runtime-spacer.json`, `project/locales/he.default.schema.json`, and `project/locales/en.schema.json`; stop if verification reveals protected-surface edits, `project/blocks/`, any new snippet file, any second section file, any second template file, JS-driven behavior, divider-band duplication, support behavior, promo behavior, announcement behavior, locale drift, or broader family work, and record failure instead of normalizing scope expansion.
+Stop if planning requires touching any `project/` runtime file, introduces protected-surface changes, assumes a broad family rollout without a bounded proof, or proposes a next slice without explicit file scope, checks, risks, and rejected broader alternatives; stop and replan instead of broadening scope.
