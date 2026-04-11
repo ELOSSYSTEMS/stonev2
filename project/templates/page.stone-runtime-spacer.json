@@ -1,0 +1,18 @@
+{
+  "sections": {
+    "main": {
+      "type": "stone-utility-spacer",
+      "settings": {
+        "heading": "Runtime utility spacer",
+        "label": "Section rhythm",
+        "size_mode": "large",
+        "boundary_mode": "none",
+        "width_mode": "standard",
+        "spacing_mode": "standard"
+      }
+    }
+  },
+  "order": [
+    "main"
+  ]
+}

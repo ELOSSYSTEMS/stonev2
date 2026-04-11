@@ -687,6 +687,85 @@
           }
         }
       }
+    },
+    "stone_utility_spacer": {
+      "name": "Utility spacer",
+      "settings": {
+        "heading": {
+          "label": "Section heading",
+          "info": "Optional. Displays a neutral heading above the spacer surface."
+        },
+        "label": {
+          "label": "Spacer label",
+          "info": "Optional. Displays restrained short text above the spacer lane."
+        },
+        "size_mode": {
+          "label": "Spacer size",
+          "info": "Controls the neutral amount of spacing rendered by the spacer lane.",
+          "options": {
+            "small": {
+              "label": "Small"
+            },
+            "medium": {
+              "label": "Medium"
+            },
+            "large": {
+              "label": "Large"
+            },
+            "xlarge": {
+              "label": "Extra large"
+            }
+          }
+        },
+        "boundary_mode": {
+          "label": "Boundary treatment",
+          "info": "Adds restrained divider-adjacent edges without turning the section into a divider band.",
+          "options": {
+            "none": {
+              "label": "None"
+            },
+            "top": {
+              "label": "Top edge"
+            },
+            "bottom": {
+              "label": "Bottom edge"
+            },
+            "both": {
+              "label": "Both edges"
+            }
+          }
+        },
+        "width_mode": {
+          "label": "Width mode",
+          "info": "Controls the neutral container width for the section shell.",
+          "options": {
+            "narrow": {
+              "label": "Narrow"
+            },
+            "standard": {
+              "label": "Standard"
+            },
+            "wide": {
+              "label": "Wide"
+            }
+          }
+        },
+        "spacing_mode": {
+          "label": "Spacing mode",
+          "info": "Controls the neutral vertical spacing of the section shell.",
+          "options": {
+            "compact": {
+              "label": "Compact"
+            },
+            "standard": {
+              "label": "Balanced"
+            },
+            "relaxed": {
+              "label": "Relaxed"
+            }
+          }
+        }
+      }
     }
   }
 }

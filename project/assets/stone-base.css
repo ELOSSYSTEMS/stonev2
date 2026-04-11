@@ -344,6 +344,49 @@ textarea {
   gap: var(--stone-space-2);
 }
 
+.stone-utility-spacer {
+  display: grid;
+  gap: var(--stone-space-3);
+}
+
+.stone-utility-spacer__label {
+  margin: 0;
+  font-size: 0.85rem;
+  font-weight: 600;
+  line-height: 1.35;
+  letter-spacing: 0.04em;
+}
+
+.stone-utility-spacer__lane {
+  min-block-size: var(--stone-space-5);
+}
+
+.stone-utility-spacer--small .stone-utility-spacer__lane {
+  min-block-size: var(--stone-space-4);
+}
+
+.stone-utility-spacer--medium .stone-utility-spacer__lane {
+  min-block-size: var(--stone-space-5);
+}
+
+.stone-utility-spacer--large .stone-utility-spacer__lane {
+  min-block-size: var(--stone-space-6);
+}
+
+.stone-utility-spacer--xlarge .stone-utility-spacer__lane {
+  min-block-size: calc(var(--stone-space-6) + var(--stone-space-4));
+}
+
+.stone-utility-spacer--top .stone-utility-spacer__lane,
+.stone-utility-spacer--both .stone-utility-spacer__lane {
+  border-block-start: 1px solid var(--stone-color-border);
+}
+
+.stone-utility-spacer--bottom .stone-utility-spacer__lane,
+.stone-utility-spacer--both .stone-utility-spacer__lane {
+  border-block-end: 1px solid var(--stone-color-border);
+}
+
 .stone-section-shell__link {
   display: inline-flex;
   align-items: center;
