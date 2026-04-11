@@ -1,0 +1,43 @@
+{
+  "sections": {
+    "main": {
+      "type": "stone-utility-key-value-list",
+      "settings": {
+        "heading": "Runtime utility key-value list",
+        "width_mode": "standard",
+        "spacing_mode": "standard"
+      },
+      "blocks": {
+        "item_scope": {
+          "type": "item",
+          "settings": {
+            "term": "Slice scope",
+            "value": "<p>One utility-only key-value list section, one neutral host template, one base CSS extension, and paired locale updates.</p>"
+          }
+        },
+        "item_behavior": {
+          "type": "item",
+          "settings": {
+            "term": "Interaction model",
+            "value": "<p>Native structured content only, with no scripted or multi-surface behavior.</p>"
+          }
+        },
+        "item_boundary": {
+          "type": "item",
+          "settings": {
+            "term": "Protected surfaces",
+            "value": "<p>Layout, runtime JS, settings schema, and the shared section shell remain unchanged in this slice.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_scope",
+        "item_behavior",
+        "item_boundary"
+      ]
+    }
+  },
+  "order": [
+    "main"
+  ]
+}

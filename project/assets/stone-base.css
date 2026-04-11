@@ -207,6 +207,44 @@ textarea {
   margin: 0;
 }
 
+.stone-utility-key-value-list {
+  margin: 0;
+  display: grid;
+  gap: var(--stone-space-3);
+}
+
+.stone-utility-key-value-list__item {
+  display: grid;
+  gap: var(--stone-space-2);
+  margin: 0;
+  padding-block-end: var(--stone-space-3);
+  border-block-end: 1px solid var(--stone-color-border);
+}
+
+.stone-utility-key-value-list__item:last-child {
+  padding-block-end: 0;
+  border-block-end: 0;
+}
+
+.stone-utility-key-value-list__term,
+.stone-utility-key-value-list__value {
+  margin: 0;
+}
+
+.stone-utility-key-value-list__term {
+  font-size: 0.95rem;
+  font-weight: 600;
+  line-height: 1.35;
+}
+
+.stone-utility-key-value-list__value {
+  min-inline-size: 0;
+}
+
+.stone-utility-key-value-list__empty {
+  margin: 0;
+}
+
 .stone-section-shell__link {
   display: inline-flex;
   align-items: center;
@@ -218,6 +256,12 @@ textarea {
   .stone-utility-layout {
     grid-template-columns: minmax(0, 1.35fr) minmax(0, 1fr);
     gap: var(--stone-space-6);
+  }
+
+  .stone-utility-key-value-list__item {
+    grid-template-columns: minmax(0, 0.9fr) minmax(0, 1.4fr);
+    align-items: start;
+    gap: var(--stone-space-4);
   }
 }
 

@@ -431,6 +431,61 @@
           }
         }
       }
+    },
+    "stone_utility_key_value_list": {
+      "name": "Utility key-value list",
+      "empty": "Add at least one item block with a term and value to validate the structured key-value pattern.",
+      "settings": {
+        "heading": {
+          "label": "Section heading",
+          "info": "Optional. Displays a neutral heading above the structured key-value list."
+        },
+        "width_mode": {
+          "label": "Width mode",
+          "info": "Controls the neutral container width for the section shell.",
+          "options": {
+            "narrow": {
+              "label": "Narrow"
+            },
+            "standard": {
+              "label": "Standard"
+            },
+            "wide": {
+              "label": "Wide"
+            }
+          }
+        },
+        "spacing_mode": {
+          "label": "Spacing mode",
+          "info": "Controls the neutral vertical spacing of the section shell.",
+          "options": {
+            "compact": {
+              "label": "Compact"
+            },
+            "standard": {
+              "label": "Balanced"
+            },
+            "relaxed": {
+              "label": "Relaxed"
+            }
+          }
+        }
+      },
+      "blocks": {
+        "item": {
+          "name": "Item",
+          "settings": {
+            "term": {
+              "label": "Term",
+              "info": "Adds one short neutral label for the structured pair."
+            },
+            "value": {
+              "label": "Value",
+              "info": "Adds one neutral rich-text value for the structured pair."
+            }
+          }
+        }
+      }
     }
   }
 }

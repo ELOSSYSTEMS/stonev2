@@ -1,0 +1,125 @@
+{%- liquid
+  assign stone_heading = section.settings.heading | strip
+  assign stone_rendered_items = 0
+
+  capture stone_key_value_items
+    for block in section.blocks
+      assign stone_term = block.settings.term | strip
+      assign stone_value = block.settings.value
+      assign stone_value_plain = stone_value | strip_html | strip
+
+      if stone_term != blank and stone_value_plain != blank
+        assign stone_rendered_items = stone_rendered_items | plus: 1
+        echo '<div class="stone-utility-key-value-list__item" '
+        echo block.shopify_attributes
+        echo '>'
+        echo '<dt class="stone-utility-key-value-list__term">'
+        echo stone_term | escape
+        echo '</dt>'
+        echo '<dd class="stone-utility-key-value-list__value"><div class="stone-richtext-flow rte">'
+        echo stone_value
+        echo '</div></dd>'
+        echo '</div>'
+      endif
+    endfor
+  endcapture
+
+  capture stone_section_content
+    if stone_rendered_items > 0
+      echo '<dl class="stone-utility-key-value-list">'
+      echo stone_key_value_items
+      echo '</dl>'
+    else
+      echo '<p class="stone-utility-key-value-list__empty">'
+      echo 'sections.stone_utility_key_value_list.empty' | t
+      echo '</p>'
+    endif
+  endcapture
+
+  render 'stone-section-shell',
+    section: section,
+    heading: stone_heading,
+    content: stone_section_content,
+    width: section.settings.width_mode,
+    spacing: section.settings.spacing_mode,
+    shell_class: 'stone-utility-key-value-list'
+-%}
+
+{% schema %}
+{
+  "name": "t:sections.stone_utility_key_value_list.name",
+  "tag": "section",
+  "class": "shopify-section--stone-utility-key-value-list",
+  "max_blocks": 8,
+  "settings": [
+    {
+      "type": "text",
+      "id": "heading",
+      "label": "t:sections.stone_utility_key_value_list.settings.heading.label",
+      "info": "t:sections.stone_utility_key_value_list.settings.heading.info"
+    },
+    {
+      "type": "select",
+      "id": "width_mode",
+      "label": "t:sections.stone_utility_key_value_list.settings.width_mode.label",
+      "info": "t:sections.stone_utility_key_value_list.settings.width_mode.info",
+      "default": "standard",
+      "options": [
+        {
+          "value": "narrow",
+          "label": "t:sections.stone_utility_key_value_list.settings.width_mode.options.narrow.label"
+        },
+        {
+          "value": "standard",
+          "label": "t:sections.stone_utility_key_value_list.settings.width_mode.options.standard.label"
+        },
+        {
+          "value": "wide",
+          "label": "t:sections.stone_utility_key_value_list.settings.width_mode.options.wide.label"
+        }
+      ]
+    },
+    {
+      "type": "select",
+      "id": "spacing_mode",
+      "label": "t:sections.stone_utility_key_value_list.settings.spacing_mode.label",
+      "info": "t:sections.stone_utility_key_value_list.settings.spacing_mode.info",
+      "default": "standard",
+      "options": [
+        {
+          "value": "compact",
+          "label": "t:sections.stone_utility_key_value_list.settings.spacing_mode.options.compact.label"
+        },
+        {
+          "value": "standard",
+          "label": "t:sections.stone_utility_key_value_list.settings.spacing_mode.options.standard.label"
+        },
+        {
+          "value": "relaxed",
+          "label": "t:sections.stone_utility_key_value_list.settings.spacing_mode.options.relaxed.label"
+        }
+      ]
+    }
+  ],
+  "blocks": [
+    {
+      "type": "item",
+      "name": "t:sections.stone_utility_key_value_list.blocks.item.name",
+      "settings": [
+        {
+          "type": "text",
+          "id": "term",
+          "label": "t:sections.stone_utility_key_value_list.blocks.item.settings.term.label",
+          "info": "t:sections.stone_utility_key_value_list.blocks.item.settings.term.info"
+        },
+        {
+          "type": "richtext",
+          "id": "value",
+          "label": "t:sections.stone_utility_key_value_list.blocks.item.settings.value.label",
+          "info": "t:sections.stone_utility_key_value_list.blocks.item.settings.value.info"
+        }
+      ]
+    }
+  ]
+}
+{% endschema %}

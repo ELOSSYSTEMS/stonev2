@@ -2,7 +2,7 @@
 
 ## Summary
 
-- `Verified`: The bounded Phase 2 minimal runtime foundation slice is implemented and verified, the bounded Phase 2 minimal section runtime substrate slice is implemented and verified, the bounded Phase 2 minimal utility block stack slice is implemented and verified, the bounded Phase 2 minimal utility layout composition slice is implemented and verified, the bounded Phase 2 minimal utility action group slice is implemented and verified, and the bounded Phase 2 minimal utility key-value list planning slice is complete.
+- `Verified`: The bounded Phase 2 minimal runtime foundation slice is implemented and verified, the bounded Phase 2 minimal section runtime substrate slice is implemented and verified, the bounded Phase 2 minimal utility block stack slice is implemented and verified, the bounded Phase 2 minimal utility layout composition slice is implemented and verified, the bounded Phase 2 minimal utility action group slice is implemented and verified, the bounded Phase 2 minimal utility key-value list planning slice is complete, and the bounded Phase 2 minimal utility key-value list implementation slice is complete.
 
 ## Current State
 
@@ -17,7 +17,8 @@
 - `Verified`: `UNIT-016` implemented `project/sections/stone-utility-action-group.liquid` and `project/templates/page.stone-runtime-action-group.json`, extended `project/assets/stone-base.css` with neutral grouped-action primitives, and updated the paired locale files inside the approved five-file runtime boundary.
 - `Verified`: `UNIT-017` confirmed that `UNIT-016` stayed inside the approved five-file runtime boundary, reused `stone-section-shell` unchanged, stayed utility-only, kept the neutral template host isolated, and preserved bilingual locale parity.
 - `Verified`: `UNIT-018` authored `workspace/plans/phase-2-minimal-utility-key-value-list-v1/`, which fixes the next runtime slice to one utility-only structured key-value section, one neutral alternate page template, one bounded base-layer CSS extension, and paired locale updates.
-- `Verified`: `state/NEXT_ACTION.md` now points to `UNIT-019`, the bounded implementation unit for that planned utility key-value list slice.
+- `Verified`: `UNIT-019` implemented `project/sections/stone-utility-key-value-list.liquid` and `project/templates/page.stone-runtime-key-value-list.json`, extended `project/assets/stone-base.css` with neutral structured-list primitives, and updated the paired locale files inside the approved five-file runtime boundary.
+- `Verified`: `state/NEXT_ACTION.md` now points to `UNIT-020`, the bounded verification unit for that completed utility key-value list slice.
 
 ## Changed Or Seeded Files
 
@@ -27,10 +28,12 @@
 - `Verified`: `project/sections/stone-utility-block-stack.liquid`
 - `Verified`: `project/sections/stone-utility-layout-composition.liquid`
 - `Verified`: `project/sections/stone-utility-action-group.liquid`
+- `Verified`: `project/sections/stone-utility-key-value-list.liquid`
 - `Verified`: `project/templates/page.stone-runtime.json`
 - `Verified`: `project/templates/page.stone-runtime-block-stack.json`
 - `Verified`: `project/templates/page.stone-runtime-layout-composition.json`
 - `Verified`: `project/templates/page.stone-runtime-action-group.json`
+- `Verified`: `project/templates/page.stone-runtime-key-value-list.json`
 - `Verified`: `project/locales/he.default.schema.json`
 - `Verified`: `project/locales/en.schema.json`
 - `Verified`: `workspace/plans/phase-2-minimal-utility-block-stack-v1/PLAN.v1.md`
@@ -72,11 +75,12 @@
 - `Verified`: `UNIT-016` completed without requiring snippet rewrites, `project/blocks/`, global settings changes, runtime JS changes, or page-composition growth.
 - `Verified`: `UNIT-017` confirmed the completed slice remained shell-stable, utility-only, template-neutral, and locale-aligned without broadening runtime work.
 - `Verified`: `UNIT-018` selected one documentation-only utility key-value list slice that stays within the same five approved runtime files and keeps JS, protected surfaces, snippets, `project/blocks/`, and comparison-table behavior out of scope.
-- `Inference`: `UNIT-019` should implement exactly one bounded utility key-value list slice and must not widen beyond the approved five runtime files.
+- `Verified`: `UNIT-019` completed without requiring snippet rewrites, `project/blocks/`, global settings changes, runtime JS changes, comparison-table behavior, or page-composition growth.
+- `Inference`: `UNIT-020` should verify exactly one bounded utility key-value list slice and must not normalize any scope expansion revealed by the evidence.
 
 ## Recommended Next Step
 
-- `Verified`: Execute `UNIT-019` from `state/NEXT_ACTION.md` and implement exactly one bounded utility key-value list slice within the approved five runtime files.
+- `Verified`: Execute `UNIT-020` from `state/NEXT_ACTION.md` and verify exactly one bounded utility key-value list slice within the approved five runtime files.
 
 ## Resume Checks
 
@@ -87,6 +91,6 @@
 - `Verified`: Read `workspace/plans/phase-2-minimal-utility-action-group-v1/PLAN.v1.md`, `ASSUMPTIONS.v1.md`, `CHECKS.v1.md`, and `RISKS.v1.md`.
 - `Verified`: Read `workspace/plans/phase-2-minimal-utility-key-value-list-v1/PLAN.v1.md`, `ASSUMPTIONS.v1.md`, `CHECKS.v1.md`, and `RISKS.v1.md`.
 - `Verified`: Read `state/ORCHESTRATION_STATE.md`, `state/STATUS.md`, `state/NEXT_ACTION.md`, `state/FEATURE_STATUS.md`, and `state/PROGRESS.md` to carry forward the approved boundary constraints.
-- `Verified`: Use the verified utility-family slices through `UNIT-018` as the starting boundary proof for the next implementation unit.
-- `Verified`: Keep the next unit inside `project/assets/stone-base.css`, `project/sections/stone-utility-key-value-list.liquid`, `project/templates/page.stone-runtime-key-value-list.json`, `project/locales/he.default.schema.json`, `project/locales/en.schema.json`, `state/`, and `workspace/handoff/CURRENT_HANDOFF.md` only.
+- `Verified`: Use the verified utility-family slices through `UNIT-019` as the starting boundary proof for the next verification unit.
+- `Verified`: Keep the next unit inside verification evidence for `project/assets/stone-base.css`, `project/sections/stone-utility-key-value-list.liquid`, `project/templates/page.stone-runtime-key-value-list.json`, `project/locales/he.default.schema.json`, `project/locales/en.schema.json`, plus `state/` and `workspace/handoff/CURRENT_HANDOFF.md` only.
 - `Verified`: Run `node HARNESS/checks/check-state-artifacts.mjs`, `node HARNESS/checks/check-next-action-scope.mjs`, `node HARNESS/checks/check-plan-exists.mjs`, `node HARNESS/checks/check-handoff-completeness.mjs`, `node HARNESS/checks/check-approval-state.mjs`, `node HARNESS/checks/check-lock-state.mjs`, and `node HARNESS/checks/harness-check.mjs`.
