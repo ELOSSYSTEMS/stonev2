@@ -3,29 +3,25 @@
 ## Status
 
 - `Verified`: Approval State: APPROVED
-- `Verified`: Execution Class: phase-2-runtime-verification
+- `Verified`: Execution Class: phase-2-runtime-planning
 - `Verified`: Priority: high
 
 ## Approved Unit
 
-- `UNIT-017` Verify the bounded Phase 2 minimal utility action group implementation slice.
+- `UNIT-018` Author one bounded planning unit for the next Phase 2 runtime slice after verified utility action group completion.
 
 ## Objective
 
-- `Verified`: Verify that `UNIT-016` stayed inside the approved minimal utility action group slice and did not broaden beyond one utility-only native action-group proof.
-- `Verified`: Keep `UNIT-017` limited to the approved five runtime files plus state and handoff updates only.
+- `Verified`: Define the next smallest useful runtime slice after the verified utility action group proof without broadening into homepage, preset, collection, PDP, blog, hero, story, trust, or merchandising work.
+- `Verified`: Keep `UNIT-018` documentation-only and limited to planning artifacts, state updates, and handoff updates only.
 
 ## Plan Reference
 
-- `Path:` `workspace/plans/phase-2-minimal-utility-action-group-v1/PLAN.v1.md`
+- `Path:` `workspace/plans/`
 
 ## Allowed Files Or Surfaces
 
-- `project/assets/stone-base.css`
-- `project/sections/stone-utility-action-group.liquid`
-- `project/templates/page.stone-runtime-action-group.json`
-- `project/locales/he.default.schema.json`
-- `project/locales/en.schema.json`
+- `workspace/plans/`
 - `state/`
 - `workspace/handoff/CURRENT_HANDOFF.md`
 
@@ -41,4 +37,4 @@
 
 ## Stop Condition
 
-Stop if verification needs any file outside `project/assets/stone-base.css`, `project/sections/stone-utility-action-group.liquid`, `project/templates/page.stone-runtime-action-group.json`, `project/locales/he.default.schema.json`, `project/locales/en.schema.json`, `state/`, and `workspace/handoff/CURRENT_HANDOFF.md`; stop if protected-surface edits, `project/blocks/`, any new snippet file, any second section file, any second template file, page-composition growth, non-utility behavior, or broader family work becomes necessary, and replan instead of broadening scope.
+Stop if planning requires runtime edits under `project/`, protected-surface changes, multiple future slices, preset wiring, page-composition work, or any broadening beyond one bounded next-unit package; replan instead of expanding scope.

@@ -2,7 +2,7 @@
 
 ## Summary
 
-- `Verified`: The bounded Phase 2 minimal runtime foundation slice is implemented and verified, the bounded Phase 2 minimal section runtime substrate slice is implemented and verified, the bounded Phase 2 minimal utility block stack slice is implemented and verified, the bounded Phase 2 minimal utility layout composition slice is implemented and verified, and the bounded Phase 2 minimal utility action group implementation slice is complete pending bounded verification.
+- `Verified`: The bounded Phase 2 minimal runtime foundation slice is implemented and verified, the bounded Phase 2 minimal section runtime substrate slice is implemented and verified, the bounded Phase 2 minimal utility block stack slice is implemented and verified, the bounded Phase 2 minimal utility layout composition slice is implemented and verified, and the bounded Phase 2 minimal utility action group slice is implemented and verified.
 
 ## Current State
 
@@ -15,7 +15,8 @@
 - `Verified`: `UNIT-014` confirmed that `UNIT-013` stayed inside the approved five-file runtime boundary, reused `stone-section-shell` unchanged, stayed utility-only and exactly two-region, kept the neutral host isolated, and preserved bilingual locale parity.
 - `Verified`: `UNIT-015` authored `workspace/plans/phase-2-minimal-utility-action-group-v1/`, which fixes the next runtime slice to one utility-only native action-group section, one neutral alternate page template, one bounded base-layer CSS extension, and paired locale updates.
 - `Verified`: `UNIT-016` implemented `project/sections/stone-utility-action-group.liquid` and `project/templates/page.stone-runtime-action-group.json`, extended `project/assets/stone-base.css` with neutral grouped-action primitives, and updated the paired locale files inside the approved five-file runtime boundary.
-- `Verified`: `state/NEXT_ACTION.md` now points to `UNIT-017`, a bounded runtime verification unit for the minimal utility action group slice.
+- `Verified`: `UNIT-017` confirmed that `UNIT-016` stayed inside the approved five-file runtime boundary, reused `stone-section-shell` unchanged, stayed utility-only, kept the neutral template host isolated, and preserved bilingual locale parity.
+- `Verified`: `state/NEXT_ACTION.md` now points to `UNIT-018`, a bounded planning unit for the next runtime slice after verified utility action group completion.
 
 ## Changed Or Seeded Files
 
@@ -63,11 +64,12 @@
 - `Verified`: `UNIT-014` confirmed the completed slice remained utility-only, two-region, shell-stable, template-neutral, and locale-aligned without broadening runtime work.
 - `Verified`: `UNIT-015` selected one documentation-only utility action group slice that stays within the same five approved runtime files and keeps JS, protected surfaces, snippets, and `project/blocks/` out of scope.
 - `Verified`: `UNIT-016` completed without requiring snippet rewrites, `project/blocks/`, global settings changes, runtime JS changes, or page-composition growth.
-- `Inference`: `UNIT-017` should still confirm that the new action-group section remains utility-only under file review and that the locale additions remain structurally aligned before broader runtime work resumes.
+- `Verified`: `UNIT-017` confirmed the completed slice remained shell-stable, utility-only, template-neutral, and locale-aligned without broadening runtime work.
+- `Inference`: `UNIT-018` should author exactly one documentation-only planning unit for the next bounded runtime step and must not widen into runtime implementation.
 
 ## Recommended Next Step
 
-- `Verified`: Execute `UNIT-017` from `state/NEXT_ACTION.md` and verify only the five-file minimal utility action group slice defined by `workspace/plans/phase-2-minimal-utility-action-group-v1/PLAN.v1.md`.
+- `Verified`: Execute `UNIT-018` from `state/NEXT_ACTION.md` and author exactly one bounded planning package under `workspace/plans/` without touching `project/` runtime files.
 
 ## Resume Checks
 
@@ -77,6 +79,6 @@
 - `Verified`: Read `workspace/plans/phase-2-minimal-utility-block-stack-v1/PLAN.v1.md`, `ASSUMPTIONS.v1.md`, `CHECKS.v1.md`, and `RISKS.v1.md`, then read `workspace/plans/phase-2-minimal-utility-layout-composition-v1/PLAN.v1.md`, `ASSUMPTIONS.v1.md`, `CHECKS.v1.md`, and `RISKS.v1.md`.
 - `Verified`: Read `workspace/plans/phase-2-minimal-utility-action-group-v1/PLAN.v1.md`, `ASSUMPTIONS.v1.md`, `CHECKS.v1.md`, and `RISKS.v1.md`.
 - `Verified`: Read `state/ORCHESTRATION_STATE.md`, `state/STATUS.md`, `state/NEXT_ACTION.md`, `state/FEATURE_STATUS.md`, and `state/PROGRESS.md` to carry forward the approved boundary constraints.
-- `Verified`: Use the `UNIT-015` planning package and `UNIT-016` runtime files as the starting boundary proof for the next verification unit.
-- `Verified`: Keep the next unit inside `project/assets/stone-base.css`, `project/sections/stone-utility-action-group.liquid`, `project/templates/page.stone-runtime-action-group.json`, `project/locales/he.default.schema.json`, `project/locales/en.schema.json`, `state/`, and `workspace/handoff/CURRENT_HANDOFF.md` only.
+- `Verified`: Use the verified utility-family slices through `UNIT-017` as the starting boundary proof for the next planning unit.
+- `Verified`: Keep the next unit inside `workspace/plans/`, `state/`, and `workspace/handoff/CURRENT_HANDOFF.md` only.
 - `Verified`: Run `node HARNESS/checks/check-state-artifacts.mjs`, `node HARNESS/checks/check-next-action-scope.mjs`, `node HARNESS/checks/check-plan-exists.mjs`, `node HARNESS/checks/check-handoff-completeness.mjs`, `node HARNESS/checks/check-approval-state.mjs`, `node HARNESS/checks/check-lock-state.mjs`, and `node HARNESS/checks/harness-check.mjs`.
