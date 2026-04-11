@@ -8,14 +8,14 @@
 
 ## Current Phase
 
-- `Verified`: Active roadmap phase: Phase 2 bounded planning readiness after minimal utility prompt verification
-- `Verified`: Last completed phase slice: Phase 2 minimal utility prompt verification slice
-- `Inference`: Next bounded slice: author one documentation-only planning unit for the next Phase 2 runtime slice after verified utility prompt completion
+- `Verified`: Active roadmap phase: Phase 2 bounded runtime implementation readiness after minimal utility spacer planning
+- `Verified`: Last completed phase slice: Phase 2 minimal utility spacer planning slice
+- `Inference`: Next bounded slice: execute one implementation unit for the planned minimal utility spacer slice
 
 ## Approval State
 
 - `Verified`: Current next action approval: APPROVED
-- `Verified`: Approval basis: `UNIT-029` verified that `UNIT-028` stayed inside the approved five runtime files, reused the shared shell unchanged, stayed utility-only, kept the template host neutral, and preserved bilingual locale parity, so the repo can advance to one bounded docs-only planning unit
+- `Verified`: Approval basis: `UNIT-030` authored the bounded minimal utility spacer plan package, kept the repo inside planning-only write surfaces, fixed the next runtime slice to the approved five runtime files, and advanced the repo to one bounded implementation unit
 
 ## Lock State
 

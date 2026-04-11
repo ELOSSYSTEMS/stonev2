@@ -2,7 +2,7 @@
 
 ## Summary
 
-- `Verified`: The bounded Phase 2 minimal runtime foundation slice is implemented and verified, the bounded Phase 2 minimal section runtime substrate slice is implemented and verified, the bounded Phase 2 minimal utility block stack slice is implemented and verified, the bounded Phase 2 minimal utility layout composition slice is implemented and verified, the bounded Phase 2 minimal utility action group slice is implemented and verified, the bounded Phase 2 minimal utility key-value list planning slice is complete, the bounded Phase 2 minimal utility key-value list implementation slice is complete, the bounded Phase 2 minimal utility key-value list verification slice is complete, the bounded Phase 2 minimal utility divider band planning slice is complete, the bounded Phase 2 minimal utility divider band implementation slice is complete, the bounded Phase 2 minimal utility divider band verification slice is complete, the bounded Phase 2 minimal utility notice planning slice is complete, the bounded Phase 2 minimal utility notice implementation slice is complete, the bounded Phase 2 minimal utility notice verification slice is complete, the bounded Phase 2 minimal utility prompt planning slice is complete, the bounded Phase 2 minimal utility prompt implementation slice is complete, and the bounded Phase 2 minimal utility prompt verification slice is complete.
+- `Verified`: The bounded Phase 2 minimal runtime foundation slice is implemented and verified, the bounded Phase 2 minimal section runtime substrate slice is implemented and verified, the bounded Phase 2 minimal utility block stack slice is implemented and verified, the bounded Phase 2 minimal utility layout composition slice is implemented and verified, the bounded Phase 2 minimal utility action group slice is implemented and verified, the bounded Phase 2 minimal utility key-value list planning slice is complete, the bounded Phase 2 minimal utility key-value list implementation slice is complete, the bounded Phase 2 minimal utility key-value list verification slice is complete, the bounded Phase 2 minimal utility divider band planning slice is complete, the bounded Phase 2 minimal utility divider band implementation slice is complete, the bounded Phase 2 minimal utility divider band verification slice is complete, the bounded Phase 2 minimal utility notice planning slice is complete, the bounded Phase 2 minimal utility notice implementation slice is complete, the bounded Phase 2 minimal utility notice verification slice is complete, the bounded Phase 2 minimal utility prompt planning slice is complete, the bounded Phase 2 minimal utility prompt implementation slice is complete, the bounded Phase 2 minimal utility prompt verification slice is complete, and the bounded Phase 2 minimal utility spacer planning slice is complete.
 
 ## Current State
 
@@ -28,7 +28,8 @@
 - `Verified`: `UNIT-027` authored `workspace/plans/phase-2-minimal-utility-prompt-v1/`, which fixes the next runtime slice to one utility-only contained prompt section, one neutral alternate page template, one bounded base-layer CSS extension, and paired locale updates.
 - `Verified`: `UNIT-028` implemented `project/sections/stone-utility-prompt.liquid` and `project/templates/page.stone-runtime-prompt.json`, extended `project/assets/stone-base.css` with neutral utility prompt primitives, and updated the paired locale files inside the approved five-file runtime boundary.
 - `Verified`: `UNIT-029` verified that the utility prompt implementation touched only the approved five runtime files, reused `stone-section-shell` unchanged, stayed utility-only, kept the page host neutral, and preserved bilingual locale parity.
-- `Verified`: `state/NEXT_ACTION.md` now points to `UNIT-030`, the next bounded docs-only planning unit.
+- `Verified`: `UNIT-030` authored the bounded minimal utility spacer plan package under `workspace/plans/phase-2-minimal-utility-spacer-v1/` and fixed the next runtime slice to the approved five-file spacer implementation boundary.
+- `Verified`: `state/NEXT_ACTION.md` now points to `UNIT-031`, the bounded implementation unit for that planned utility spacer slice.
 
 ## Changed Or Seeded Files
 
@@ -117,11 +118,12 @@
 - `Verified`: `UNIT-027` selected one documentation-only utility prompt slice that stays within the same five approved runtime files and keeps JS, protected surfaces, snippets, `project/blocks/`, support semantics, and promo/conversion semantics out of scope.
 - `Verified`: `UNIT-028` completed without requiring snippet rewrites, `project/blocks/`, global settings changes, runtime JS changes, icon-alert behavior, or page-composition growth.
 - `Verified`: `UNIT-029` confirmed the bounded utility prompt slice passed its evidence checks without widening scope.
-- `Inference`: `UNIT-030` should define the next bounded slice as documentation-only first and must not jump directly into new runtime work.
+- `Verified`: `UNIT-030` selected one documentation-only utility spacer slice that stays within the same five approved runtime files and keeps JS, protected surfaces, snippets, `project/blocks/`, announcement semantics, and broader composition work out of scope.
+- `Inference`: `UNIT-031` should implement exactly one bounded utility spacer slice and must not widen beyond the approved five runtime files.
 
 ## Recommended Next Step
 
-- `Verified`: Execute `UNIT-030` from `state/NEXT_ACTION.md` and author exactly one bounded documentation-only planning unit for the next Phase 2 runtime slice.
+- `Verified`: Execute `UNIT-031` from `state/NEXT_ACTION.md` and implement exactly one bounded utility spacer slice within the approved five runtime files.
 
 ## Resume Checks
 
@@ -134,7 +136,8 @@
 - `Verified`: Read `workspace/plans/phase-2-minimal-utility-divider-band-v1/PLAN.v1.md`, `ASSUMPTIONS.v1.md`, `CHECKS.v1.md`, and `RISKS.v1.md`.
 - `Verified`: Read `workspace/plans/phase-2-minimal-utility-notice-v1/PLAN.v1.md`, `ASSUMPTIONS.v1.md`, `CHECKS.v1.md`, and `RISKS.v1.md`.
 - `Verified`: Read `workspace/plans/phase-2-minimal-utility-prompt-v1/PLAN.v1.md`, `ASSUMPTIONS.v1.md`, `CHECKS.v1.md`, and `RISKS.v1.md`.
+- `Verified`: Read `workspace/plans/phase-2-minimal-utility-spacer-v1/PLAN.v1.md`, `ASSUMPTIONS.v1.md`, `CHECKS.v1.md`, and `RISKS.v1.md`.
 - `Verified`: Read `state/ORCHESTRATION_STATE.md`, `state/STATUS.md`, `state/NEXT_ACTION.md`, `state/FEATURE_STATUS.md`, and `state/PROGRESS.md` to carry forward the approved boundary constraints.
-- `Verified`: Use the verified utility-family slices through `UNIT-029` as the starting boundary proof for the next docs-only planning unit.
-- `Verified`: Keep the next unit inside `workspace/plans/`, `state/`, and `workspace/handoff/CURRENT_HANDOFF.md` only.
+- `Verified`: Use the verified utility-family slices through `UNIT-030` as the starting boundary proof for the next implementation unit.
+- `Verified`: Keep the next unit inside `project/assets/stone-base.css`, `project/sections/stone-utility-spacer.liquid`, `project/templates/page.stone-runtime-spacer.json`, `project/locales/he.default.schema.json`, `project/locales/en.schema.json`, `state/`, and `workspace/handoff/CURRENT_HANDOFF.md` only.
 - `Verified`: Run `node HARNESS/checks/check-state-artifacts.mjs`, `node HARNESS/checks/check-next-action-scope.mjs`, `node HARNESS/checks/check-plan-exists.mjs`, `node HARNESS/checks/check-handoff-completeness.mjs`, `node HARNESS/checks/check-approval-state.mjs`, `node HARNESS/checks/check-lock-state.mjs`, and `node HARNESS/checks/harness-check.mjs`.

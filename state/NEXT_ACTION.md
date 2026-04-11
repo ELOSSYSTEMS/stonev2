@@ -3,25 +3,29 @@
 ## Status
 
 - `Verified`: Approval State: APPROVED
-- `Verified`: Execution Class: phase-2-runtime-planning
+- `Verified`: Execution Class: phase-2-runtime-implementation
 - `Verified`: Priority: high
 
 ## Approved Unit
 
-- `UNIT-030` Author one bounded planning unit for the next Phase 2 runtime slice after verified utility prompt completion.
+- `UNIT-031` Execute the bounded Phase 2 minimal utility spacer implementation slice.
 
 ## Objective
 
-- `Verified`: Define one documentation-only planning unit for the next bounded Phase 2 runtime slice after the verified utility prompt proof.
-- `Verified`: Keep `UNIT-030` limited to `workspace/plans/`, `state/`, and `workspace/handoff/CURRENT_HANDOFF.md` only.
+- `Verified`: Implement the approved minimal utility spacer slice and keep it bounded to one neutral utility-only spacing proof.
+- `Verified`: Keep `UNIT-031` limited to the approved five runtime files plus state and handoff updates only.
 
 ## Plan Reference
 
-- `Path:` `workspace/plans/`
+- `Path:` `workspace/plans/phase-2-minimal-utility-spacer-v1/PLAN.v1.md`
 
 ## Allowed Files Or Surfaces
 
-- `workspace/plans/`
+- `project/assets/stone-base.css`
+- `project/sections/stone-utility-spacer.liquid`
+- `project/templates/page.stone-runtime-spacer.json`
+- `project/locales/he.default.schema.json`
+- `project/locales/en.schema.json`
 - `state/`
 - `workspace/handoff/CURRENT_HANDOFF.md`
 
@@ -37,4 +41,4 @@
 
 ## Stop Condition
 
-Stop if planning requires touching any `project/` runtime file, introduces protected-surface changes, assumes a broad family rollout without a bounded proof, or proposes a next slice without explicit file scope, checks, risks, and rejected broader alternatives; stop and replan instead of broadening scope.
+Stop if implementation needs any file outside `project/assets/stone-base.css`, `project/sections/stone-utility-spacer.liquid`, `project/templates/page.stone-runtime-spacer.json`, `project/locales/he.default.schema.json`, `project/locales/en.schema.json`, `state/`, and `workspace/handoff/CURRENT_HANDOFF.md`; stop if protected-surface edits, `project/blocks/`, any new snippet file, any second section file, any second template file, JS-driven behavior, divider-band duplication, support behavior, promo behavior, announcement behavior, or broader family work becomes necessary, and replan instead of broadening scope.
