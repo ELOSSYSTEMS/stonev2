@@ -3,17 +3,17 @@
 ## Status
 
 - `Verified`: Approval State: APPROVED
-- `Verified`: Execution Class: phase-2-runtime-implementation
+- `Verified`: Execution Class: phase-2-runtime-verification
 - `Verified`: Priority: high
 
 ## Approved Unit
 
-- `UNIT-022` Execute the bounded Phase 2 minimal utility divider band implementation slice.
+- `UNIT-023` Verify the bounded Phase 2 minimal utility divider band implementation slice.
 
 ## Objective
 
-- `Verified`: Implement the approved minimal utility divider band slice and keep it bounded to one neutral utility-only structural separation proof.
-- `Verified`: Keep `UNIT-022` limited to the approved five runtime files plus state and handoff updates only.
+- `Verified`: Verify that the completed minimal utility divider band slice stayed inside the approved five-file runtime boundary and remained utility-only, shell-stable, template-neutral, and bilingual.
+- `Verified`: Keep `UNIT-023` limited to verification evidence, state updates, and handoff updates only.
 
 ## Plan Reference
 
@@ -41,4 +41,4 @@
 
 ## Stop Condition
 
-Stop if implementation needs any file outside `project/assets/stone-base.css`, `project/sections/stone-utility-divider-band.liquid`, `project/templates/page.stone-runtime-divider-band.json`, `project/locales/he.default.schema.json`, `project/locales/en.schema.json`, `state/`, and `workspace/handoff/CURRENT_HANDOFF.md`; stop if protected-surface edits, `project/blocks/`, any new snippet file, any second section file, any second template file, JS-driven behavior, media-led behavior, content-heavy band behavior, non-utility behavior, or broader family work becomes necessary, and replan instead of broadening scope.
+Stop if verification evidence shows the implementation touched any file outside `project/assets/stone-base.css`, `project/sections/stone-utility-divider-band.liquid`, `project/templates/page.stone-runtime-divider-band.json`, `project/locales/he.default.schema.json`, and `project/locales/en.schema.json`; stop if verification reveals protected-surface edits, `project/blocks/`, any new snippet file, any second section file, any second template file, JS-driven behavior, media-led behavior, content-heavy band behavior, non-utility behavior, locale drift, or broader family work, and record failure instead of normalizing scope expansion.

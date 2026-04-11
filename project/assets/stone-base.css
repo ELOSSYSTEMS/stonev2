@@ -245,6 +245,40 @@ textarea {
   margin: 0;
 }
 
+.stone-utility-divider-band {
+  display: grid;
+  gap: var(--stone-space-3);
+}
+
+.stone-utility-divider-band__label {
+  margin: 0;
+  font-size: 0.85rem;
+  font-weight: 600;
+  line-height: 1.35;
+  letter-spacing: 0.04em;
+}
+
+.stone-utility-divider-band__rule {
+  block-size: 1px;
+  background: var(--stone-color-border);
+}
+
+.stone-utility-divider-band--soft .stone-utility-divider-band__rule {
+  opacity: 0.55;
+}
+
+.stone-utility-divider-band--strong .stone-utility-divider-band__rule {
+  block-size: 2px;
+}
+
+.stone-utility-divider-band--inline .stone-utility-divider-band__rule {
+  margin-inline: var(--stone-space-4);
+}
+
+.stone-utility-divider-band--deep .stone-utility-divider-band__rule {
+  margin-inline: var(--stone-space-8);
+}
+
 .stone-section-shell__link {
   display: inline-flex;
   align-items: center;

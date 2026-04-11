@@ -486,6 +486,79 @@
           }
         }
       }
+    },
+    "stone_utility_divider_band": {
+      "name": "Utility divider band",
+      "settings": {
+        "heading": {
+          "label": "Section heading",
+          "info": "Optional. Displays a neutral heading above the divider band."
+        },
+        "label": {
+          "label": "Divider label",
+          "info": "Optional. Displays restrained neutral text above the divider rule."
+        },
+        "rule_style": {
+          "label": "Rule style",
+          "info": "Controls the visual weight of the structural divider without adding family styling.",
+          "options": {
+            "line": {
+              "label": "Line"
+            },
+            "soft": {
+              "label": "Soft line"
+            },
+            "strong": {
+              "label": "Strong line"
+            }
+          }
+        },
+        "inset_mode": {
+          "label": "Inset mode",
+          "info": "Controls how much the divider rule is inset from the section edges.",
+          "options": {
+            "none": {
+              "label": "No inset"
+            },
+            "inline": {
+              "label": "Inline inset"
+            },
+            "deep": {
+              "label": "Deep inset"
+            }
+          }
+        },
+        "width_mode": {
+          "label": "Width mode",
+          "info": "Controls the neutral container width for the section shell.",
+          "options": {
+            "narrow": {
+              "label": "Narrow"
+            },
+            "standard": {
+              "label": "Standard"
+            },
+            "wide": {
+              "label": "Wide"
+            }
+          }
+        },
+        "spacing_mode": {
+          "label": "Spacing mode",
+          "info": "Controls the neutral vertical spacing of the section shell.",
+          "options": {
+            "compact": {
+              "label": "Compact"
+            },
+            "standard": {
+              "label": "Balanced"
+            },
+            "relaxed": {
+              "label": "Relaxed"
+            }
+          }
+        }
+      }
     }
   }
 }

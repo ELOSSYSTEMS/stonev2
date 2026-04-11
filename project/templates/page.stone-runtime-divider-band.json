@@ -1,0 +1,18 @@
+{
+  "sections": {
+    "main": {
+      "type": "stone-utility-divider-band",
+      "settings": {
+        "heading": "Runtime utility divider band",
+        "label": "Section transition",
+        "rule_style": "line",
+        "inset_mode": "inline",
+        "width_mode": "standard",
+        "spacing_mode": "standard"
+      }
+    }
+  },
+  "order": [
+    "main"
+  ]
+}
