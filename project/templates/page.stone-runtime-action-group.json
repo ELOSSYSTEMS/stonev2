@@ -1,0 +1,48 @@
+{
+  "sections": {
+    "main": {
+      "type": "stone-utility-action-group",
+      "settings": {
+        "heading": "Runtime utility action group",
+        "body": "<p>Use this neutral action group to validate grouped native links without introducing commerce, media, or scripted behavior.</p>",
+        "width_mode": "standard",
+        "spacing_mode": "standard",
+        "action_alignment": "start"
+      },
+      "blocks": {
+        "action_primary": {
+          "type": "action",
+          "settings": {
+            "label": "Primary utility action",
+            "link": "/search",
+            "style": "primary"
+          }
+        },
+        "action_secondary": {
+          "type": "action",
+          "settings": {
+            "label": "Secondary utility action",
+            "link": "/collections/all",
+            "style": "secondary"
+          }
+        },
+        "action_text": {
+          "type": "action",
+          "settings": {
+            "label": "Tertiary utility action",
+            "link": "/",
+            "style": "text"
+          }
+        }
+      },
+      "block_order": [
+        "action_primary",
+        "action_secondary",
+        "action_text"
+      ]
+    }
+  },
+  "order": [
+    "main"
+  ]
+}

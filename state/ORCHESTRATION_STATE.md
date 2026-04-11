@@ -8,14 +8,14 @@
 
 ## Current Phase
 
-- `Verified`: Active roadmap phase: Phase 2 bounded runtime implementation readiness after minimal utility action group planning
-- `Verified`: Last completed phase slice: Phase 2 minimal utility action group planning slice
-- `Inference`: Next bounded slice: execute one implementation unit for the planned minimal utility action group slice
+- `Verified`: Active roadmap phase: Phase 2 bounded runtime verification readiness after minimal utility action group implementation
+- `Verified`: Last completed phase slice: Phase 2 minimal utility action group implementation slice
+- `Inference`: Next bounded slice: verify one implementation unit for the completed minimal utility action group slice
 
 ## Approval State
 
 - `Verified`: Current next action approval: APPROVED
-- `Verified`: Approval basis: `UNIT-015` authored the bounded minimal utility action group plan package, kept the repo inside planning-only write surfaces, fixed the next runtime slice to the approved five runtime files, and advanced the repo to one bounded implementation unit
+- `Verified`: Approval basis: `UNIT-016` implemented the bounded minimal utility action group slice inside the approved five runtime files, kept the repo inside the allowed implementation surfaces, and advanced the repo to one bounded verification unit
 
 ## Lock State
 

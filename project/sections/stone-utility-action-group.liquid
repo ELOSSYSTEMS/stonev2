@@ -1,0 +1,186 @@
+{%- liquid
+  assign stone_heading = section.settings.heading | strip
+  assign stone_body = section.settings.body
+  assign stone_alignment = section.settings.action_alignment | default: 'start'
+  assign stone_rendered_actions = 0
+
+  capture stone_action_items
+    for block in section.blocks
+      assign stone_label = block.settings.label | strip
+      assign stone_link = block.settings.link
+      assign stone_style = block.settings.style | default: 'secondary'
+
+      if stone_label != blank and stone_link != blank
+        assign stone_rendered_actions = stone_rendered_actions | plus: 1
+        echo '<a class="stone-utility-action-group__link stone-utility-action-group__link--'
+        echo stone_style | escape
+        echo '" href="'
+        echo stone_link | escape
+        echo '" '
+        echo block.shopify_attributes
+        echo '>'
+        echo stone_label | escape
+        echo '</a>'
+      endif
+    endfor
+  endcapture
+
+  capture stone_section_content
+    echo '<div class="stone-utility-action-group__body">'
+
+    if stone_body != blank
+      echo '<div class="stone-richtext-flow rte">'
+      echo stone_body
+      echo '</div>'
+    endif
+
+    if stone_rendered_actions > 0
+      echo '<div class="stone-utility-action-group__actions stone-utility-action-group__actions--'
+      echo stone_alignment | escape
+      echo '">'
+      echo stone_action_items
+      echo '</div>'
+    else
+      echo '<p class="stone-utility-action-group__empty">'
+      echo 'sections.stone_utility_action_group.empty' | t
+      echo '</p>'
+    endif
+
+    echo '</div>'
+  endcapture
+
+  render 'stone-section-shell',
+    section: section,
+    heading: stone_heading,
+    content: stone_section_content,
+    width: section.settings.width_mode,
+    spacing: section.settings.spacing_mode,
+    shell_class: 'stone-utility-action-group'
+-%}
+
+{% schema %}
+{
+  "name": "t:sections.stone_utility_action_group.name",
+  "tag": "section",
+  "class": "shopify-section--stone-utility-action-group",
+  "max_blocks": 6,
+  "settings": [
+    {
+      "type": "text",
+      "id": "heading",
+      "label": "t:sections.stone_utility_action_group.settings.heading.label",
+      "info": "t:sections.stone_utility_action_group.settings.heading.info"
+    },
+    {
+      "type": "richtext",
+      "id": "body",
+      "label": "t:sections.stone_utility_action_group.settings.body.label",
+      "info": "t:sections.stone_utility_action_group.settings.body.info"
+    },
+    {
+      "type": "select",
+      "id": "width_mode",
+      "label": "t:sections.stone_utility_action_group.settings.width_mode.label",
+      "info": "t:sections.stone_utility_action_group.settings.width_mode.info",
+      "default": "standard",
+      "options": [
+        {
+          "value": "narrow",
+          "label": "t:sections.stone_utility_action_group.settings.width_mode.options.narrow.label"
+        },
+        {
+          "value": "standard",
+          "label": "t:sections.stone_utility_action_group.settings.width_mode.options.standard.label"
+        },
+        {
+          "value": "wide",
+          "label": "t:sections.stone_utility_action_group.settings.width_mode.options.wide.label"
+        }
+      ]
+    },
+    {
+      "type": "select",
+      "id": "spacing_mode",
+      "label": "t:sections.stone_utility_action_group.settings.spacing_mode.label",
+      "info": "t:sections.stone_utility_action_group.settings.spacing_mode.info",
+      "default": "standard",
+      "options": [
+        {
+          "value": "compact",
+          "label": "t:sections.stone_utility_action_group.settings.spacing_mode.options.compact.label"
+        },
+        {
+          "value": "standard",
+          "label": "t:sections.stone_utility_action_group.settings.spacing_mode.options.standard.label"
+        },
+        {
+          "value": "relaxed",
+          "label": "t:sections.stone_utility_action_group.settings.spacing_mode.options.relaxed.label"
+        }
+      ]
+    },
+    {
+      "type": "select",
+      "id": "action_alignment",
+      "label": "t:sections.stone_utility_action_group.settings.action_alignment.label",
+      "info": "t:sections.stone_utility_action_group.settings.action_alignment.info",
+      "default": "start",
+      "options": [
+        {
+          "value": "start",
+          "label": "t:sections.stone_utility_action_group.settings.action_alignment.options.start.label"
+        },
+        {
+          "value": "center",
+          "label": "t:sections.stone_utility_action_group.settings.action_alignment.options.center.label"
+        },
+        {
+          "value": "end",
+          "label": "t:sections.stone_utility_action_group.settings.action_alignment.options.end.label"
+        }
+      ]
+    }
+  ],
+  "blocks": [
+    {
+      "type": "action",
+      "name": "t:sections.stone_utility_action_group.blocks.action.name",
+      "settings": [
+        {
+          "type": "text",
+          "id": "label",
+          "label": "t:sections.stone_utility_action_group.blocks.action.settings.label.label",
+          "info": "t:sections.stone_utility_action_group.blocks.action.settings.label.info"
+        },
+        {
+          "type": "url",
+          "id": "link",
+          "label": "t:sections.stone_utility_action_group.blocks.action.settings.link.label",
+          "info": "t:sections.stone_utility_action_group.blocks.action.settings.link.info"
+        },
+        {
+          "type": "select",
+          "id": "style",
+          "label": "t:sections.stone_utility_action_group.blocks.action.settings.style.label",
+          "info": "t:sections.stone_utility_action_group.blocks.action.settings.style.info",
+          "default": "secondary",
+          "options": [
+            {
+              "value": "primary",
+              "label": "t:sections.stone_utility_action_group.blocks.action.settings.style.options.primary.label"
+            },
+            {
+              "value": "secondary",
+              "label": "t:sections.stone_utility_action_group.blocks.action.settings.style.options.secondary.label"
+            },
+            {
+              "value": "text",
+              "label": "t:sections.stone_utility_action_group.blocks.action.settings.style.options.text.label"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+{% endschema %}
