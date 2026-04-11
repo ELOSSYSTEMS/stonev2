@@ -619,6 +619,74 @@
           }
         }
       }
+    },
+    "stone_utility_prompt": {
+      "name": "Utility prompt",
+      "empty": "Add short neutral text to validate the contained prompt surface.",
+      "settings": {
+        "heading": {
+          "label": "Section heading",
+          "info": "Optional. Displays a neutral heading above the contained prompt surface."
+        },
+        "label": {
+          "label": "Prompt label",
+          "info": "Optional. Displays restrained short text above the contained prompt body."
+        },
+        "body": {
+          "label": "Prompt body",
+          "info": "Defines the short neutral text shown inside the contained prompt surface."
+        },
+        "action_label": {
+          "label": "Action label",
+          "info": "Optional. Leave blank to hide the native prompt link."
+        },
+        "action_link": {
+          "label": "Action link",
+          "info": "Shown only when the action label is not blank."
+        },
+        "surface_style": {
+          "label": "Surface style",
+          "info": "Controls the neutral contained treatment without introducing conversion semantics.",
+          "options": {
+            "outline": {
+              "label": "Outline"
+            },
+            "soft": {
+              "label": "Soft surface"
+            }
+          }
+        },
+        "width_mode": {
+          "label": "Width mode",
+          "info": "Controls the neutral container width for the section shell.",
+          "options": {
+            "narrow": {
+              "label": "Narrow"
+            },
+            "standard": {
+              "label": "Standard"
+            },
+            "wide": {
+              "label": "Wide"
+            }
+          }
+        },
+        "spacing_mode": {
+          "label": "Spacing mode",
+          "info": "Controls the neutral vertical spacing of the section shell.",
+          "options": {
+            "compact": {
+              "label": "Compact"
+            },
+            "standard": {
+              "label": "Balanced"
+            },
+            "relaxed": {
+              "label": "Relaxed"
+            }
+          }
+        }
+      }
     }
   }
 }
