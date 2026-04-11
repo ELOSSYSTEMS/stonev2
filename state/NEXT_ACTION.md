@@ -3,25 +3,29 @@
 ## Status
 
 - `Verified`: Approval State: APPROVED
-- `Verified`: Execution Class: phase-2-runtime-planning
+- `Verified`: Execution Class: phase-2-runtime-implementation
 - `Verified`: Priority: high
 
 ## Approved Unit
 
-- `UNIT-027` Author one bounded planning unit for the next Phase 2 runtime slice after verified utility notice completion.
+- `UNIT-028` Execute the bounded Phase 2 minimal utility prompt implementation slice.
 
 ## Objective
 
-- `Verified`: Define the next smallest useful runtime slice after the verified utility notice proof without broadening into homepage, preset, collection, PDP, blog, hero, story, trust, support, or merchandising work.
-- `Verified`: Keep `UNIT-027` documentation-only and limited to planning artifacts, state updates, and handoff updates only.
+- `Verified`: Implement the approved minimal utility prompt slice and keep it bounded to one neutral utility-only contained-prompt proof.
+- `Verified`: Keep `UNIT-028` limited to the approved five runtime files plus state and handoff updates only.
 
 ## Plan Reference
 
-- `Path:` `workspace/plans/`
+- `Path:` `workspace/plans/phase-2-minimal-utility-prompt-v1/PLAN.v1.md`
 
 ## Allowed Files Or Surfaces
 
-- `workspace/plans/`
+- `project/assets/stone-base.css`
+- `project/sections/stone-utility-prompt.liquid`
+- `project/templates/page.stone-runtime-prompt.json`
+- `project/locales/he.default.schema.json`
+- `project/locales/en.schema.json`
 - `state/`
 - `workspace/handoff/CURRENT_HANDOFF.md`
 
@@ -37,4 +41,4 @@
 
 ## Stop Condition
 
-Stop if planning requires runtime edits under `project/`, protected-surface changes, multiple future slices, preset wiring, page-composition work, or any broadening beyond one bounded next-unit package; replan instead of expanding scope.
+Stop if implementation needs any file outside `project/assets/stone-base.css`, `project/sections/stone-utility-prompt.liquid`, `project/templates/page.stone-runtime-prompt.json`, `project/locales/he.default.schema.json`, `project/locales/en.schema.json`, `state/`, and `workspace/handoff/CURRENT_HANDOFF.md`; stop if protected-surface edits, `project/blocks/`, any new snippet file, any second section file, any second template file, JS-driven behavior, icon-driven alert behavior, support behavior, promo behavior, conversion-callout behavior, or broader family work becomes necessary, and replan instead of broadening scope.

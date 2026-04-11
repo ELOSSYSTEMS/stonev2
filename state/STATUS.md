@@ -13,6 +13,7 @@
 - `Verified`: Phase 2 minimal utility key-value list plan package exists under `workspace/plans/phase-2-minimal-utility-key-value-list-v1/`
 - `Verified`: Phase 2 minimal utility divider band plan package exists under `workspace/plans/phase-2-minimal-utility-divider-band-v1/`
 - `Verified`: Phase 2 minimal utility notice plan package exists under `workspace/plans/phase-2-minimal-utility-notice-v1/`
+- `Verified`: Phase 2 minimal utility prompt plan package exists under `workspace/plans/phase-2-minimal-utility-prompt-v1/`
 
 ## Canonical Inputs
 
@@ -67,7 +68,8 @@
 - `Verified`: The repo now includes a bounded Phase 2 minimal utility notice plan package that limits the next runtime slice to one utility-only contained notice section, one neutral alternate page template, one bounded base-layer CSS extension, and paired locale updates.
 - `Verified`: The repo now includes the approved Phase 2 minimal utility notice runtime slice across the five allowed runtime files only: one utility-only contained notice validation section, one neutral alternate page template, one bounded base-layer CSS extension, and paired locale updates.
 - `Verified`: `UNIT-026` verified that `UNIT-025` stayed inside the approved five-file runtime boundary, reused the shared section shell unchanged, stayed utility-only, kept the neutral page host isolated, and preserved bilingual locale parity.
-- `Inference`: The next high-value unit is one tightly bounded planning slice that defines the next smallest useful runtime step after the verified utility notice proof.
+- `Verified`: The repo now includes a bounded Phase 2 minimal utility prompt plan package that limits the next runtime slice to one utility-only contained prompt section, one neutral alternate page template, one bounded base-layer CSS extension, and paired locale updates.
+- `Inference`: The next high-value unit is one tightly bounded implementation slice that executes the planned utility prompt proof inside the approved five runtime files.
 
 ## Risks And Blocks
 
@@ -79,5 +81,5 @@
 - `Verified`: `UNIT-019` did not touch `project/snippets/stone-section-shell.liquid`, `project/layout/theme.liquid`, `project/assets/stone-runtime.js`, `project/config/settings_schema.json`, or `project/blocks/`.
 - `Verified`: `UNIT-022` did not touch `project/snippets/stone-section-shell.liquid`, `project/layout/theme.liquid`, `project/assets/stone-runtime.js`, `project/config/settings_schema.json`, or `project/blocks/`.
 - `Verified`: `UNIT-025` did not touch `project/snippets/stone-section-shell.liquid`, `project/layout/theme.liquid`, `project/assets/stone-runtime.js`, `project/config/settings_schema.json`, or `project/blocks/`.
-- `Verified`: Broader runtime build-out remains blocked beyond the approved `UNIT-027` planning scope after the verified minimal utility notice slice.
+- `Verified`: Broader runtime build-out remains blocked beyond the approved `UNIT-028` implementation scope for the planned minimal utility prompt slice.
 - `Inference`: Any newly discovered need for protected-surface edits, `project/blocks/`, JS-driven behavior, a second section, a second template, or page-composition behavior remains a replanning trigger rather than permission to expand the next unit.
