@@ -8,14 +8,14 @@
 
 ## Current Phase
 
-- `Verified`: Active roadmap phase: Phase 2 bounded runtime verification readiness after minimal utility key-value list implementation
-- `Verified`: Last completed phase slice: Phase 2 minimal utility key-value list implementation slice
-- `Inference`: Next bounded slice: verify one implementation unit for the completed minimal utility key-value list slice
+- `Verified`: Active roadmap phase: Phase 2 bounded runtime planning readiness after verified utility key-value list implementation
+- `Verified`: Last completed phase slice: Phase 2 minimal utility key-value list verification slice
+- `Inference`: Next bounded slice: author one planning unit for the next bounded runtime step after verified utility key-value list completion
 
 ## Approval State
 
 - `Verified`: Current next action approval: APPROVED
-- `Verified`: Approval basis: `UNIT-019` implemented the bounded minimal utility key-value list slice inside the approved five runtime files, kept the repo utility-only and shell-stable, and advanced the repo to one bounded verification unit
+- `Verified`: Approval basis: `UNIT-020` verified that `UNIT-019` stayed inside the approved five-file runtime boundary, reused the shared section shell unchanged, stayed utility-only, kept the neutral page host isolated, and preserved bilingual locale parity while advancing the repo to one bounded planning unit
 
 ## Lock State
 
