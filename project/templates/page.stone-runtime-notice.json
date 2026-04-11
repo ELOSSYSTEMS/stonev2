@@ -1,0 +1,18 @@
+{
+  "sections": {
+    "main": {
+      "type": "stone-utility-notice",
+      "settings": {
+        "heading": "Runtime utility notice",
+        "label": "Neutral note",
+        "body": "<p>Use this section for short contained notes with restrained emphasis.</p>",
+        "surface_style": "outline",
+        "width_mode": "standard",
+        "spacing_mode": "standard"
+      }
+    }
+  },
+  "order": [
+    "main"
+  ]
+}

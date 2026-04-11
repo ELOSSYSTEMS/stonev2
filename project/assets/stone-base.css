@@ -279,6 +279,35 @@ textarea {
   margin-inline: var(--stone-space-8);
 }
 
+.stone-utility-notice {
+  display: grid;
+  gap: var(--stone-space-3);
+  padding: var(--stone-space-4);
+  border: 1px solid var(--stone-color-border);
+  border-radius: var(--stone-radius-2);
+  background: transparent;
+}
+
+.stone-utility-notice--soft {
+  background: var(--stone-color-surface);
+}
+
+.stone-utility-notice__label,
+.stone-utility-notice__empty {
+  margin: 0;
+}
+
+.stone-utility-notice__label {
+  font-size: 0.85rem;
+  font-weight: 600;
+  line-height: 1.35;
+  letter-spacing: 0.04em;
+}
+
+.stone-utility-notice__body > * {
+  margin: 0;
+}
+
 .stone-section-shell__link {
   display: inline-flex;
   align-items: center;

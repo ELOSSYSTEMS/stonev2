@@ -559,6 +559,66 @@
           }
         }
       }
+    },
+    "stone_utility_notice": {
+      "name": "Utility notice",
+      "empty": "Add short neutral text to validate the contained notice surface.",
+      "settings": {
+        "heading": {
+          "label": "Section heading",
+          "info": "Optional. Displays a neutral heading above the contained notice surface."
+        },
+        "label": {
+          "label": "Notice label",
+          "info": "Optional. Displays restrained short text inside the notice surface."
+        },
+        "body": {
+          "label": "Notice body",
+          "info": "Defines the short neutral text shown inside the contained notice surface."
+        },
+        "surface_style": {
+          "label": "Surface style",
+          "info": "Controls the neutral contained treatment without introducing alert semantics.",
+          "options": {
+            "outline": {
+              "label": "Outline"
+            },
+            "soft": {
+              "label": "Soft surface"
+            }
+          }
+        },
+        "width_mode": {
+          "label": "Width mode",
+          "info": "Controls the neutral container width for the section shell.",
+          "options": {
+            "narrow": {
+              "label": "Narrow"
+            },
+            "standard": {
+              "label": "Standard"
+            },
+            "wide": {
+              "label": "Wide"
+            }
+          }
+        },
+        "spacing_mode": {
+          "label": "Spacing mode",
+          "info": "Controls the neutral vertical spacing of the section shell.",
+          "options": {
+            "compact": {
+              "label": "Compact"
+            },
+            "standard": {
+              "label": "Balanced"
+            },
+            "relaxed": {
+              "label": "Relaxed"
+            }
+          }
+        }
+      }
     }
   }
 }
