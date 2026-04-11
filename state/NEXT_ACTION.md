@@ -3,29 +3,25 @@
 ## Status
 
 - `Verified`: Approval State: APPROVED
-- `Verified`: Execution Class: phase-2-runtime-verification
+- `Verified`: Execution Class: phase-2-runtime-planning
 - `Verified`: Priority: high
 
 ## Approved Unit
 
-- `UNIT-023` Verify the bounded Phase 2 minimal utility divider band implementation slice.
+- `UNIT-024` Author one bounded planning unit for the next Phase 2 runtime slice after verified utility divider band completion.
 
 ## Objective
 
-- `Verified`: Verify that the completed minimal utility divider band slice stayed inside the approved five-file runtime boundary and remained utility-only, shell-stable, template-neutral, and bilingual.
-- `Verified`: Keep `UNIT-023` limited to verification evidence, state updates, and handoff updates only.
+- `Verified`: Define the next smallest useful runtime slice after the verified utility divider band proof without broadening into homepage, preset, collection, PDP, blog, hero, story, trust, or merchandising work.
+- `Verified`: Keep `UNIT-024` documentation-only and limited to planning artifacts, state updates, and handoff updates only.
 
 ## Plan Reference
 
-- `Path:` `workspace/plans/phase-2-minimal-utility-divider-band-v1/PLAN.v1.md`
+- `Path:` `workspace/plans/`
 
 ## Allowed Files Or Surfaces
 
-- `project/assets/stone-base.css`
-- `project/sections/stone-utility-divider-band.liquid`
-- `project/templates/page.stone-runtime-divider-band.json`
-- `project/locales/he.default.schema.json`
-- `project/locales/en.schema.json`
+- `workspace/plans/`
 - `state/`
 - `workspace/handoff/CURRENT_HANDOFF.md`
 
@@ -41,4 +37,4 @@
 
 ## Stop Condition
 
-Stop if verification evidence shows the implementation touched any file outside `project/assets/stone-base.css`, `project/sections/stone-utility-divider-band.liquid`, `project/templates/page.stone-runtime-divider-band.json`, `project/locales/he.default.schema.json`, and `project/locales/en.schema.json`; stop if verification reveals protected-surface edits, `project/blocks/`, any new snippet file, any second section file, any second template file, JS-driven behavior, media-led behavior, content-heavy band behavior, non-utility behavior, locale drift, or broader family work, and record failure instead of normalizing scope expansion.
+Stop if planning requires runtime edits under `project/`, protected-surface changes, multiple future slices, preset wiring, page-composition work, or any broadening beyond one bounded next-unit package; replan instead of expanding scope.
