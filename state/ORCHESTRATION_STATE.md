@@ -8,14 +8,14 @@
 
 ## Current Phase
 
-- `Verified`: Active roadmap phase: Phase 2 bounded runtime planning readiness after minimal utility layout composition verification
-- `Verified`: Last completed phase slice: Phase 2 minimal utility layout composition verification slice
-- `Inference`: Next bounded slice: author one bounded planning unit for the next Phase 2 runtime slice after the verified utility layout composition proof
+- `Verified`: Active roadmap phase: Phase 2 bounded runtime implementation readiness after minimal utility action group planning
+- `Verified`: Last completed phase slice: Phase 2 minimal utility action group planning slice
+- `Inference`: Next bounded slice: execute one implementation unit for the planned minimal utility action group slice
 
 ## Approval State
 
 - `Verified`: Current next action approval: APPROVED
-- `Verified`: Approval basis: `UNIT-014` verified that `UNIT-013` stayed inside the approved five-file runtime boundary, preserved protected-surface stability, remained utility-only and exactly two-region, kept the neutral host isolated, and preserved bilingual locale parity
+- `Verified`: Approval basis: `UNIT-015` authored the bounded minimal utility action group plan package, kept the repo inside planning-only write surfaces, fixed the next runtime slice to the approved five runtime files, and advanced the repo to one bounded implementation unit
 
 ## Lock State
 

@@ -3,25 +3,29 @@
 ## Status
 
 - `Verified`: Approval State: APPROVED
-- `Verified`: Execution Class: phase-2-runtime-planning
+- `Verified`: Execution Class: phase-2-runtime-implementation
 - `Verified`: Priority: high
 
 ## Approved Unit
 
-- `UNIT-015` Author one bounded planning unit for the next Phase 2 runtime slice after verified utility layout composition.
+- `UNIT-016` Execute the bounded Phase 2 minimal utility action group implementation slice.
 
 ## Objective
 
-- `Verified`: Define the next smallest useful Phase 2 runtime slice after the verified utility-only two-region composition proof without touching `project/` runtime files in this unit.
-- `Verified`: Keep `UNIT-015` limited to `workspace/plans/`, `state/`, and `workspace/handoff/CURRENT_HANDOFF.md` only.
+- `Verified`: Implement the approved minimal utility action group slice and keep it bounded to one neutral utility-only native action-group proof.
+- `Verified`: Keep `UNIT-016` limited to the approved five runtime files plus state and handoff updates only.
 
 ## Plan Reference
 
-- `Not required`: this next unit is itself the planning step.
+- `Path:` `workspace/plans/phase-2-minimal-utility-action-group-v1/PLAN.v1.md`
 
 ## Allowed Files Or Surfaces
 
-- `workspace/plans/`
+- `project/assets/stone-base.css`
+- `project/sections/stone-utility-action-group.liquid`
+- `project/templates/page.stone-runtime-action-group.json`
+- `project/locales/he.default.schema.json`
+- `project/locales/en.schema.json`
 - `state/`
 - `workspace/handoff/CURRENT_HANDOFF.md`
 
@@ -37,4 +41,4 @@
 
 ## Stop Condition
 
-Stop if the planning unit needs any `project/` runtime edit, any protected-surface edit, or any file outside `workspace/plans/`, `state/`, and `workspace/handoff/CURRENT_HANDOFF.md`; stop if the next slice cannot be expressed as one bounded runtime unit and replan instead of broadening scope.
+Stop if implementation needs any file outside `project/assets/stone-base.css`, `project/sections/stone-utility-action-group.liquid`, `project/templates/page.stone-runtime-action-group.json`, `project/locales/he.default.schema.json`, `project/locales/en.schema.json`, `state/`, and `workspace/handoff/CURRENT_HANDOFF.md`; stop if protected-surface edits, `project/blocks/`, any new snippet file, any second section file, any second template file, JS-driven behavior, media-led behavior, non-utility behavior, or broader family work becomes necessary, and replan instead of broadening scope.
