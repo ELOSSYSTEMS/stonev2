@@ -8,20 +8,24 @@
 
 ## Approved Unit
 
-- `UNIT-075` Author or reject a docs-only approval boundary for one PDP companion candidate.
+- `UNIT-076` Execute one bounded product context card implementation slice.
 
 ## Objective
 
-- `Verified`: Decide whether one PDP companion candidate can be carried into a formal bounded approval boundary, or reject that direction and stop Phase 2 runtime expansion explicitly.
-- `Verified`: Keep `UNIT-075` limited to `workspace/plans/`, `state/`, and `workspace/handoff/CURRENT_HANDOFF.md` only.
+- `Verified`: Implement the first approved PDP-companion proof under the formalized boundary.
+- `Verified`: Keep `UNIT-076` limited to the exact approved five runtime files plus `state/` and `workspace/handoff/CURRENT_HANDOFF.md` only.
 
 ## Plan Reference
 
-- `Path:` `workspace/plans/phase-2-collection-companion-boundary-v1/PLAN.v1.md`
+- `Path:` `workspace/plans/phase-2-pdp-companion-boundary-v1/PLAN.v1.md`
 
 ## Allowed Files Or Surfaces
 
-- `workspace/plans/`
+- `project/assets/stone-base.css`
+- `project/sections/stone-product-context-card.liquid`
+- `project/templates/page.stone-runtime-product-context-card.json`
+- `project/locales/he.default.schema.json`
+- `project/locales/en.schema.json`
 - `state/`
 - `workspace/handoff/CURRENT_HANDOFF.md`
 
@@ -37,4 +41,4 @@
 
 ## Stop Condition
 
-Stop if the next boundary-authoring unit starts authorizing PDP-companion runtime work without recording an exact distinctness case, exact allowed files, preserved rules, and exact stop conditions; stay docs-only unless the new boundary is formalized.
+Stop if implementation needs any runtime file outside the approved five runtime files; stop if it needs protected-surface edits, `project/blocks/`, a new snippet, a second section, a second template, buy-box behavior, forms, add-to-cart, quick-add, quick-view, price blocks, variant selectors, inventory messaging, galleries, recommendations, product loops, JS, sliders, drawers, overlays, accordions, tabs, or broader composition, and fail closed instead of broadening scope.

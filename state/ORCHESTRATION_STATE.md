@@ -8,14 +8,14 @@
 
 ## Current Phase
 
-- `Verified`: Active roadmap phase: Phase 2 docs-only approval-boundary readiness for a PDP companion candidate
-- `Verified`: Last completed phase slice: Phase 2 PDP companion boundary planning slice
-- `Inference`: Next bounded slice: author or reject a docs-only approval boundary for one PDP companion candidate after the verified collection-companion proof
+- `Verified`: Active roadmap phase: Phase 2 bounded runtime implementation readiness after PDP companion boundary approval
+- `Verified`: Last completed phase slice: Phase 2 product context card implementation slice
+- `Inference`: Next bounded slice: execute one bounded PDP-companion implementation unit under the newly formalized boundary
 
 ## Approval State
 
 - `Verified`: Current next action approval: APPROVED
-- `Verified`: Approval basis: `UNIT-074` reviewed the post-collection frontier, rejected automatic further collection-aware expansion, and advanced the repo to one docs-only PDP companion boundary decision unit
+- `Verified`: Approval basis: `UNIT-075` formalized one bounded PDP-companion approval boundary, preserved the existing bounded runtime discipline, and advanced the repo to one newly approved implementation unit
 
 ## Lock State
 
