@@ -8,12 +8,12 @@
 
 ## Approved Unit
 
-- `UNIT-074` Plan the next post-collection frontier step, or stop runtime expansion explicitly.
+- `UNIT-075` Author or reject a docs-only approval boundary for one PDP companion candidate.
 
 ## Objective
 
-- `Verified`: Decide whether the newly verified collection context card proof justifies one further bounded expansion candidate, or whether Phase 2 should stop again at the current verified frontier.
-- `Verified`: Keep `UNIT-074` limited to `workspace/plans/`, `state/`, and `workspace/handoff/CURRENT_HANDOFF.md` only.
+- `Verified`: Decide whether one PDP companion candidate can be carried into a formal bounded approval boundary, or reject that direction and stop Phase 2 runtime expansion explicitly.
+- `Verified`: Keep `UNIT-075` limited to `workspace/plans/`, `state/`, and `workspace/handoff/CURRENT_HANDOFF.md` only.
 
 ## Plan Reference
 
@@ -37,4 +37,4 @@
 
 ## Stop Condition
 
-Stop if the next planning unit attempts to normalize broader runtime expansion without recording an exact distinctness case, exact allowed files, preserved rules, and exact stop conditions; stay docs-only unless a new bounded case is justified.
+Stop if the next boundary-authoring unit starts authorizing PDP-companion runtime work without recording an exact distinctness case, exact allowed files, preserved rules, and exact stop conditions; stay docs-only unless the new boundary is formalized.
