@@ -1633,6 +1633,68 @@
           }
         }
       }
+    },
+    "stone_blog_article_highlights": {
+      "name": "Blog article highlights",
+      "read_more": "Read article",
+      "empty_blog": "Select a blog to validate this object-aware article highlights section.",
+      "empty_articles": "The selected blog has no articles to display yet.",
+      "settings": {
+        "heading": {
+          "label": "Section heading",
+          "info": "Optional. Displays a neutral heading above the article highlights."
+        },
+        "intro": {
+          "label": "Intro text",
+          "info": "Optional. Adds short editorial context above the article highlights."
+        },
+        "blog": {
+          "label": "Blog",
+          "info": "Select one blog for the section to read articles from."
+        },
+        "surface_style": {
+          "label": "Surface style",
+          "info": "Controls the restrained surface treatment for the article highlights.",
+          "options": {
+            "outline": {
+              "label": "Outline"
+            },
+            "soft": {
+              "label": "Soft surface"
+            }
+          }
+        },
+        "width_mode": {
+          "label": "Width mode",
+          "info": "Controls the neutral container width for the section shell.",
+          "options": {
+            "narrow": {
+              "label": "Narrow"
+            },
+            "standard": {
+              "label": "Standard"
+            },
+            "wide": {
+              "label": "Wide"
+            }
+          }
+        },
+        "spacing_mode": {
+          "label": "Spacing mode",
+          "info": "Controls the neutral vertical spacing of the section shell.",
+          "options": {
+            "compact": {
+              "label": "Compact"
+            },
+            "standard": {
+              "label": "Balanced"
+            },
+            "relaxed": {
+              "label": "Relaxed"
+            }
+          }
+        }
+      }
     }
   }
 }

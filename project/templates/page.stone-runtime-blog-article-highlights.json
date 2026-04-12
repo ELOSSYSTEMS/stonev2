@@ -1,0 +1,18 @@
+{
+  "sections": {
+    "main": {
+      "type": "stone-blog-article-highlights",
+      "settings": {
+        "heading": "Article highlights",
+        "intro": "<p>Select one blog to surface a restrained lead article and short secondary list.</p>",
+        "blog": "",
+        "surface_style": "soft",
+        "width_mode": "standard",
+        "spacing_mode": "standard"
+      }
+    }
+  },
+  "order": [
+    "main"
+  ]
+}

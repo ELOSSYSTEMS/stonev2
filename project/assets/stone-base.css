@@ -997,6 +997,101 @@ textarea {
   font-weight: 600;
 }
 
+.stone-blog-article-highlights {
+  display: grid;
+  gap: var(--stone-space-4);
+}
+
+.stone-blog-article-highlights--soft {
+  padding: var(--stone-space-4);
+  border-radius: var(--stone-radius-2);
+  background: var(--stone-color-surface);
+}
+
+.stone-blog-article-highlights__intro > *,
+.stone-blog-article-highlights__empty,
+.stone-blog-article-highlights__blog-title,
+.stone-blog-article-highlights__lead-title,
+.stone-blog-article-highlights__lead-excerpt,
+.stone-blog-article-highlights__secondary-title,
+.stone-blog-article-highlights__secondary-excerpt {
+  margin: 0;
+}
+
+.stone-blog-article-highlights__layout {
+  display: grid;
+  gap: var(--stone-space-4);
+}
+
+@media screen and (min-width: 48rem) {
+  .stone-blog-article-highlights__layout {
+    grid-template-columns: minmax(0, 1.6fr) minmax(0, 1fr);
+    align-items: start;
+  }
+}
+
+.stone-blog-article-highlights__lead,
+.stone-blog-article-highlights__secondary-item {
+  display: grid;
+  gap: var(--stone-space-3);
+}
+
+.stone-blog-article-highlights__lead-media,
+.stone-blog-article-highlights__lead-image {
+  display: block;
+}
+
+.stone-blog-article-highlights__lead-image {
+  width: 100%;
+  height: auto;
+  border-radius: var(--stone-radius-2);
+}
+
+.stone-blog-article-highlights__lead-content,
+.stone-blog-article-highlights__secondary-list {
+  display: grid;
+  gap: var(--stone-space-3);
+}
+
+.stone-blog-article-highlights__secondary-list {
+  list-style: none;
+  padding: 0;
+}
+
+.stone-blog-article-highlights__secondary-item {
+  padding-block: var(--stone-space-3);
+  border-top: 1px solid var(--stone-color-border);
+}
+
+.stone-blog-article-highlights__blog-title {
+  font-size: 0.875rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--stone-color-muted);
+}
+
+.stone-blog-article-highlights__lead-title,
+.stone-blog-article-highlights__secondary-title {
+  font-size: 1.125rem;
+  line-height: 1.35;
+}
+
+.stone-blog-article-highlights__lead-title a,
+.stone-blog-article-highlights__secondary-title a,
+.stone-blog-article-highlights__lead-link {
+  color: inherit;
+  text-decoration: none;
+}
+
+.stone-blog-article-highlights__lead-excerpt,
+.stone-blog-article-highlights__secondary-excerpt {
+  color: var(--stone-color-muted);
+}
+
+.stone-blog-article-highlights__lead-link {
+  font-weight: 600;
+}
+
 .stone-section-shell__link {
   display: inline-flex;
   align-items: center;

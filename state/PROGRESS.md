@@ -2,26 +2,26 @@
 
 ## Current Phase
 
-- `Verified`: Roadmap phase: the bounded object-aware content/blog boundary unit is complete and the repo is positioned for one bounded expanded implementation unit
+- `Verified`: Roadmap phase: the bounded object-aware article-highlights implementation unit is complete and the repo is positioned for one bounded verification unit
 
 ## Approved Next Action
 
-- `Verified`: `UNIT-068` execute one bounded object-aware article-highlights implementation slice
+- `Verified`: `UNIT-069` verify the bounded object-aware article-highlights implementation slice
 
 ## Last Completed Unit
 
-- `Verified`: Unit ID: `UNIT-067`
-- `Verified`: Summary: authored the docs-only approval-boundary package for the recommended object-aware content/blog expansion, fixed the exact preserved rules and new allowance, and advanced the repo to one newly bounded implementation unit
+- `Verified`: Unit ID: `UNIT-068`
+- `Verified`: Summary: implemented the first bounded object-aware article-highlights slice, added one read-only article-highlights section and neutral host template, extended the base CSS, and preserved the approved five-file runtime boundary under the new object-aware rule
 
 ## Verification Status
 
-- `Verified`: Verdict: PASS for `UNIT-067`; the bounded object-aware content/blog boundary unit is complete
-- `Verified`: Evidence: `workspace/plans/phase-2-object-aware-content-blog-boundary-v1/PLAN.v1.md`; `workspace/plans/phase-2-object-aware-content-blog-boundary-v1/ASSUMPTIONS.v1.md`; `workspace/plans/phase-2-object-aware-content-blog-boundary-v1/CHECKS.v1.md`; `workspace/plans/phase-2-object-aware-content-blog-boundary-v1/RISKS.v1.md`; `workspace/plans/phase-2-object-aware-content-blog-boundary-v1/HANDOFF.v1.md`; `workspace/plans/phase-2-controlled-expansion-proposal-v1/PLAN.v1.md`; `node HARNESS/checks/check-state-artifacts.mjs`; `node HARNESS/checks/check-next-action-scope.mjs`; `node HARNESS/checks/check-plan-exists.mjs`; `node HARNESS/checks/check-handoff-completeness.mjs`; `node HARNESS/checks/check-approval-state.mjs`; `node HARNESS/checks/check-lock-state.mjs`; `node HARNESS/checks/harness-check.mjs`
+- `Verified`: Verdict: PASS for `UNIT-068`; the bounded object-aware article-highlights implementation unit is complete
+- `Verified`: Evidence: `project/assets/stone-base.css`; `project/sections/stone-blog-article-highlights.liquid`; `project/templates/page.stone-runtime-blog-article-highlights.json`; `project/locales/he.default.schema.json`; `project/locales/en.schema.json`; JSON parsing and template-shape validation via `node -`; locale subtree parity via `node -`; `grep` render-call check for `stone-section-shell`; forbidden-scope grep via `grep`; protected-surface diff via `git status --short`; `node HARNESS/checks/check-state-artifacts.mjs`; `node HARNESS/checks/check-next-action-scope.mjs`; `node HARNESS/checks/check-plan-exists.mjs`; `node HARNESS/checks/check-handoff-completeness.mjs`; `node HARNESS/checks/check-approval-state.mjs`; `node HARNESS/checks/check-lock-state.mjs`; `node HARNESS/checks/harness-check.mjs`
 
 ## Active Blockers
 
-- `Verified`: Broader runtime implementation remains blocked beyond the approved `UNIT-068` implementation scope under the new boundary.
-- `Inference`: Any attempted object-aware implementation that exceeds the formalized boundary should be treated as a governance failure rather than permission to broaden scope.
+- `Verified`: Broader runtime implementation remains blocked beyond the approved `UNIT-069` verification scope for the implemented slice.
+- `Inference`: Any discovered need to exceed the formalized boundary should be treated as a governance failure rather than permission to normalize scope expansion.
 
 ## Resume Notes
 
