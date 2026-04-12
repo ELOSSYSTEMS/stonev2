@@ -3,17 +3,17 @@
 ## Status
 
 - `Verified`: Approval State: APPROVED
-- `Verified`: Execution Class: phase-2-runtime-verification
+- `Verified`: Execution Class: phase-2-runtime-planning
 - `Verified`: Priority: high
 
 ## Approved Unit
 
-- `UNIT-050` Verify the bounded Phase 2 minimal trust stat strip implementation slice.
+- `UNIT-051` Author one bounded planning unit for the next Phase 2 runtime slice after verified minimal trust stat strip completion.
 
 ## Objective
 
-- `Verified`: Verify that the completed minimal trust stat strip slice stayed inside the approved five-file runtime boundary and remained bounded, shell-stable, template-neutral, bilingual, and non-JS.
-- `Verified`: Keep `UNIT-050` limited to verification evidence, state updates, and handoff updates only.
+- `Verified`: Define the next smallest safe Phase 2 runtime slice after the verified minimal trust stat strip proof and capture it as a documentation-only plan package with explicit scope, checks, risks, and stop conditions.
+- `Verified`: Keep `UNIT-051` limited to `workspace/plans/`, `state/`, and `workspace/handoff/CURRENT_HANDOFF.md` only.
 
 ## Plan Reference
 
@@ -21,11 +21,7 @@
 
 ## Allowed Files Or Surfaces
 
-- `project/assets/stone-base.css`
-- `project/sections/stone-trust-stat-strip.liquid`
-- `project/templates/page.stone-runtime-trust-stat-strip.json`
-- `project/locales/he.default.schema.json`
-- `project/locales/en.schema.json`
+- `workspace/plans/`
 - `state/`
 - `workspace/handoff/CURRENT_HANDOFF.md`
 
@@ -41,4 +37,4 @@
 
 ## Stop Condition
 
-Stop if verification evidence shows the implementation touched any file outside `project/assets/stone-base.css`, `project/sections/stone-trust-stat-strip.liquid`, `project/templates/page.stone-runtime-trust-stat-strip.json`, `project/locales/he.default.schema.json`, and `project/locales/en.schema.json`; stop if verification reveals protected-surface edits, `project/blocks/`, any new snippet file, any second section file, any second template file, counter animation, chart behavior, badge or icon systems, custom JS-driven behavior, ratings, review aggregates, guarantees, locale drift, or broader family work, and record failure instead of normalizing scope expansion.
+Stop if planning needs to touch `project/` runtime files, protected surfaces, `project/blocks/`, new snippets, more than one future section, more than one future template, runtime JS, or broad family build-out; stop if the next slice cannot be bounded clearly enough to fit a documentation-only plan package and replan the roadmap instead of improvising scope.

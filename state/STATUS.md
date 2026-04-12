@@ -91,7 +91,8 @@
 - `Verified`: `UNIT-047` verified that the minimal trust testimonial runtime slice stayed inside the approved five-file boundary, reused the shared shell unchanged, kept the validation template isolated, remained non-JS, and preserved bilingual locale parity.
 - `Verified`: `UNIT-048` authored the bounded minimal trust stat strip plan package that fixes the next runtime slice to one restrained stat-led proof inside the approved five runtime files.
 - `Verified`: The repo now includes the approved Phase 2 minimal trust stat strip runtime slice across the five allowed runtime files only: one restrained static trust-stat-strip validation section, one neutral alternate page template, one bounded base-layer CSS extension, and paired locale updates.
-- `Inference`: The next high-value unit is one tightly bounded verification slice that confirms the implemented trust-stat-strip proof stayed inside the approved five runtime files.
+- `Verified`: `UNIT-050` verified that the minimal trust stat strip runtime slice stayed inside the approved five-file boundary, reused the shared shell unchanged, kept the validation template isolated, remained non-JS, and preserved bilingual locale parity.
+- `Inference`: The next high-value unit is one tightly bounded planning slice that defines the next runtime proof after trust-stat-strip verification without touching `project/` runtime files.
 
 ## Risks And Blocks
 
@@ -113,5 +114,5 @@
 - `Inference`: `UNIT-040` stays distinct from the verified utility prompt by separating trust-oriented copy from grouped native actions instead of using a single contained generic prompt body.
 - `Inference`: `UNIT-043` continues inside the trust-and-support family and introduces a heavier proof surface than the verified trust-help-prompt slice because it depends on static brand-proof presentation.
 - `Verified`: `UNIT-043` did not touch `project/snippets/stone-section-shell.liquid`, `project/layout/theme.liquid`, `project/assets/stone-runtime.js`, `project/config/settings_schema.json`, or `project/blocks/`.
-- `Verified`: Broader runtime build-out remains blocked beyond the approved `UNIT-050` verification scope for the implemented minimal trust stat strip slice.
-- `Inference`: Any newly discovered need for protected-surface edits, `project/blocks/`, JS-driven behavior, a second section, a second template, counter animation, chart behavior, badges, icons, guarantees, ratings, or page-composition behavior remains a failure signal rather than permission to expand the next unit.
+- `Verified`: Broader runtime build-out remains blocked beyond the approved `UNIT-051` planning scope until the next bounded runtime slice is formally authored.
+- `Inference`: Any newly discovered need for protected-surface edits, `project/blocks/`, JS-driven behavior, a second section, a second template, or page-composition behavior remains a replanning trigger rather than permission to expand the next unit.
