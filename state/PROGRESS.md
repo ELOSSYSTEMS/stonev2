@@ -2,26 +2,26 @@
 
 ## Current Phase
 
-- `Verified`: Roadmap phase: the bounded minimal editorial quote verification unit is complete and the repo is positioned for one bounded runtime planning unit
+- `Verified`: Roadmap phase: the bounded minimal blog-highlights planning unit is complete and the repo is positioned at a guarded docs-only boundary
 
 ## Approved Next Action
 
-- `Verified`: `UNIT-063` author one bounded planning unit for the next Phase 2 runtime slice after verified minimal editorial quote completion
+- `Verified`: `UNIT-064` decide whether the bounded minimal blog-highlights slice is distinct enough to implement, or stop and replan
 
 ## Last Completed Unit
 
-- `Verified`: Unit ID: `UNIT-062`
-- `Verified`: Summary: verified the bounded minimal editorial quote slice, confirmed it stayed inside the approved five-file runtime boundary, reused the shared shell unchanged, kept the host template isolated, and preserved bilingual locale parity
+- `Verified`: Unit ID: `UNIT-063`
+- `Verified`: Summary: authored the bounded minimal blog-highlights plan package, selected a guarded manual content-and-blog candidate after editorial-quote verification, and intentionally paused before runtime execution because structural distinctness from the existing content-card-strip proof remains the gating question
 
 ## Verification Status
 
-- `Verified`: Verdict: PASS for `UNIT-062`; the bounded minimal editorial quote verification unit is complete
-- `Verified`: Evidence: `git diff --name-only HEAD^ HEAD`; `git diff --name-only HEAD^ HEAD -- project`; `git show --stat --name-only --format=fuller HEAD`; JSON parsing and template-shape validation via `node -`; locale subtree parity via `node -`; `grep` render-call check for `stone-section-shell`; forbidden-scope grep via `grep`; protected-surface diff via `git diff --name-only`; `node HARNESS/checks/check-state-artifacts.mjs`; `node HARNESS/checks/check-next-action-scope.mjs`; `node HARNESS/checks/check-plan-exists.mjs`; `node HARNESS/checks/check-handoff-completeness.mjs`; `node HARNESS/checks/check-approval-state.mjs`; `node HARNESS/checks/check-lock-state.mjs`; `node HARNESS/checks/harness-check.mjs`
+- `Verified`: Verdict: PASS for `UNIT-063`; the bounded minimal blog-highlights planning unit is complete
+- `Verified`: Evidence: `workspace/plans/phase-2-minimal-blog-highlights-v1/PLAN.v1.md`; `workspace/plans/phase-2-minimal-blog-highlights-v1/ASSUMPTIONS.v1.md`; `workspace/plans/phase-2-minimal-blog-highlights-v1/CHECKS.v1.md`; `workspace/plans/phase-2-minimal-blog-highlights-v1/RISKS.v1.md`; `workspace/plans/phase-2-minimal-blog-highlights-v1/HANDOFF.v1.md`; `node HARNESS/checks/check-state-artifacts.mjs`; `node HARNESS/checks/check-next-action-scope.mjs`; `node HARNESS/checks/check-plan-exists.mjs`; `node HARNESS/checks/check-handoff-completeness.mjs`; `node HARNESS/checks/check-approval-state.mjs`; `node HARNESS/checks/check-lock-state.mjs`; `node HARNESS/checks/harness-check.mjs`
 
 ## Active Blockers
 
-- `Verified`: Broader runtime implementation remains blocked beyond the approved `UNIT-063` planning scope until the next bounded slice is authored.
-- `Inference`: Any next slice that begins requiring protected-surface edits, custom JS, live-object behavior, product-card behavior, slider behavior, drawer behavior, or overlay treatment should be treated as a replanning signal rather than permission to broaden scope.
+- `Verified`: Broader runtime implementation remains blocked beyond the approved `UNIT-063` planning scope until `UNIT-064` resolves the distinctness gate.
+- `Inference`: Any attempted blog-highlights runtime slice that begins requiring protected-surface edits, custom JS, live objects, product-card behavior, slider behavior, drawer behavior, overlay treatment, or near-duplicate card-strip behavior should be treated as a replanning signal rather than permission to broaden scope.
 
 ## Resume Notes
 

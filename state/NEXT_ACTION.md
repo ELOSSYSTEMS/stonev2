@@ -8,16 +8,16 @@
 
 ## Approved Unit
 
-- `UNIT-063` Author one bounded planning unit for the next Phase 2 runtime slice after verified minimal editorial quote completion.
+- `UNIT-064` Decide whether the bounded Phase 2 minimal blog-highlights slice is distinct enough to implement, or stop and replan.
 
 ## Objective
 
-- `Verified`: Define the next smallest safe Phase 2 runtime slice after the verified minimal editorial quote proof and capture it as a documentation-only plan package with explicit scope, checks, risks, and stop conditions.
-- `Verified`: Keep `UNIT-063` limited to `workspace/plans/`, `state/`, and `workspace/handoff/CURRENT_HANDOFF.md` only.
+- `Verified`: Re-evaluate whether the planned minimal blog-highlights slice is materially distinct enough from `stone-content-card-strip.liquid` to justify another bounded runtime implementation unit.
+- `Verified`: Keep `UNIT-064` limited to `workspace/plans/`, `state/`, `workspace/handoff/CURRENT_HANDOFF.md`, and bounded source review only unless distinctness is proven first.
 
 ## Plan Reference
 
-- `Path:` `workspace/plans/phase-2-minimal-editorial-quote-v1/PLAN.v1.md`
+- `Path:` `workspace/plans/phase-2-minimal-blog-highlights-v1/PLAN.v1.md`
 
 ## Allowed Files Or Surfaces
 
@@ -37,4 +37,4 @@
 
 ## Stop Condition
 
-Stop if planning needs to touch `project/` runtime files, protected surfaces, `project/blocks/`, new snippets, more than one future section, more than one future template, runtime JS, or broad family build-out; stop if the next slice cannot be bounded clearly enough to fit a documentation-only plan package and replan the roadmap instead of improvising scope.
+Stop if distinctness from `stone-content-card-strip.liquid` cannot be demonstrated clearly enough to justify runtime execution; stop if runtime work would need `project/` edits before that distinctness check is resolved; replan the roadmap instead of improvising another near-duplicate content-and-blog slice.
