@@ -8,12 +8,12 @@
 
 ## Approved Unit
 
-- `UNIT-077` Verify the bounded product context card implementation slice.
+- `UNIT-078` Plan the next post-PDP frontier step, or stop runtime expansion explicitly.
 
 ## Objective
 
-- `Verified`: Verify that the completed product context card slice stayed inside the approved five-file runtime boundary, remained read-only, reused the shared shell unchanged, and preserved the newly formalized stop conditions.
-- `Verified`: Keep `UNIT-077` limited to verification evidence, `state/`, and `workspace/handoff/CURRENT_HANDOFF.md` only.
+- `Verified`: Decide whether the newly verified product context card proof justifies one further bounded expansion candidate, or whether Phase 2 should stop again at the current verified frontier.
+- `Verified`: Keep `UNIT-078` limited to `workspace/plans/`, `state/`, and `workspace/handoff/CURRENT_HANDOFF.md` only.
 
 ## Plan Reference
 
@@ -21,11 +21,7 @@
 
 ## Allowed Files Or Surfaces
 
-- `project/assets/stone-base.css`
-- `project/sections/stone-product-context-card.liquid`
-- `project/templates/page.stone-runtime-product-context-card.json`
-- `project/locales/he.default.schema.json`
-- `project/locales/en.schema.json`
+- `workspace/plans/`
 - `state/`
 - `workspace/handoff/CURRENT_HANDOFF.md`
 
@@ -41,4 +37,4 @@
 
 ## Stop Condition
 
-Stop if verification evidence shows runtime changes outside the approved five files, or reveals protected-surface edits, `project/blocks/`, new snippets, a second section, a second template, buy-box behavior, forms, add-to-cart, quick-add, quick-view, price blocks, variant selectors, inventory messaging, galleries, recommendations, product loops, JS, sliders, drawers, overlays, accordions, tabs, or broader composition, and record failure instead of normalizing scope expansion.
+Stop if the next planning unit attempts to normalize broader runtime expansion without recording an exact distinctness case, exact allowed files, preserved rules, and exact stop conditions; stay docs-only unless a new bounded case is justified.
