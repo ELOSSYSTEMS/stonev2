@@ -3,7 +3,7 @@
 ## Snapshot
 
 - `Verified`: Repo state: harness foundation populated
-- `Verified`: Storefront runtime state: the bounded Phase 2 proof chain is complete through the verified PDP companion frontier, the broader Phase 3 planning package is complete, the broader merchandising foundation boundary is complete, the first broader merchandising foundation implementation slice is complete and verified, and that foundation is now extended through one bounded in-family spotlight variant.
+- `Verified`: Storefront runtime state: the bounded Phase 2 proof chain is complete through the verified PDP companion frontier, the broader Phase 3 planning package is complete, the broader merchandising foundation boundary is complete, the first broader merchandising foundation implementation slice is complete and verified, the spotlight-variant family extension is complete, and that extension is now verified.
 - `Verified`: Architecture authority: the five documents under `docs/architecture/`
 - `Verified`: Current active planning package: `workspace/plans/phase-3-post-foundation-merchandising-frontier-review-v1/`
 
@@ -30,7 +30,7 @@
 - `Verified`: Preserve Hebrew-first assumptions
 - `Verified`: Treat bilingual Hebrew and English editor support as a core architectural requirement
 - `Verified`: Do not copy code or markup from external reference themes
-- `Verified`: The spotlight variant remains non-JS and excludes commerce-action behavior
+- `Verified`: The verified spotlight variant remains non-JS and excludes commerce-action behavior
 
 ## Current Outcome
 
@@ -39,9 +39,10 @@
 - `Verified`: `UNIT-082` verified exact boundary compliance, shared snippet reuse, selected-collection read-only access, locale parity, and the absence of protected-surface or heavier-commerce drift.
 - `Verified`: `UNIT-083` selected one bounded spotlight variant inside the existing merchandising family as the next honest step.
 - `Verified`: `UNIT-084` implemented that spotlight variant by extending the existing section and snippet surfaces rather than creating a second merchandising section file.
-- `Inference`: Stone V2 now has proof that the merchandising family can grow through shared variants and settings while staying inside a fixed six-file boundary.
+- `Verified`: `UNIT-085` confirmed exact six-file boundary compliance, confirmed spotlight behavior remained in-family, and confirmed no protected-surface or heavier-commerce drift occurred.
+- `Inference`: The repo is now ready for a docs-only post-spotlight frontier review instead of automatic further runtime widening.
 
 ## Risks And Blocks
 
-- `Verified`: Runtime expansion remains paused beyond the approved `UNIT-085` verification scope.
-- `Inference`: Any discovered need for second-file proliferation, compare-at pricing logic, sale badging, urgency logic, JS, protected-surface edits, rails/carousels, or shoppable-media behavior should trigger a new docs-only boundary decision rather than widening the approved spotlight-variant slice.
+- `Verified`: Runtime expansion remains paused until `UNIT-086` records the next bounded Phase 3 decision.
+- `Inference`: Any discovered need for second-file proliferation, compare-at pricing logic, sale badging, urgency logic, JS, protected-surface edits, rails/carousels, or shoppable-media behavior should trigger a new docs-only boundary decision rather than widening the verified spotlight slice.

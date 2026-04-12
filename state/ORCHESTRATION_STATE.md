@@ -8,14 +8,14 @@
 
 ## Current Phase
 
-- `Verified`: Active roadmap phase: Phase 3 runtime verification after bounded merchandising-family spotlight implementation
-- `Verified`: Last completed phase slice: Phase 3 merchandising spotlight implementation slice
-- `Inference`: Next bounded slice: verify the spotlight variant and then re-evaluate the broader merchandising frontier
+- `Verified`: Active roadmap phase: Phase 3 docs-only frontier planning after verified merchandising spotlight extension
+- `Verified`: Last completed phase slice: Phase 3 merchandising spotlight verification slice
+- `Inference`: Next bounded slice: author the post-spotlight merchandising frontier review and decide the next honest boundary
 
 ## Approval State
 
 - `Verified`: Current next action approval: APPROVED
-- `Verified`: Approval basis: `UNIT-084` implemented one bounded spotlight variant inside the verified merchandising family and kept the change on the exact approved six runtime files
+- `Verified`: Approval basis: `UNIT-085` verified that the spotlight variant held the exact approved six-file runtime boundary and did not drift into heavier commerce or protected surfaces
 
 ## Lock State
 

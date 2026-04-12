@@ -8,6 +8,40 @@
 
 ### Session Entry
 
+- Timestamp: 2026-04-12 20:26 Asia/Jerusalem
+- Skill or Mode: `verification`
+- Summary: verified the post-foundation merchandising spotlight variant, confirmed exact six-file runtime scope, confirmed the spotlight mode remained an in-family extension, and advanced governed state to the next docs-only frontier review unit
+- Files changed:
+  - `state/ORCHESTRATION_STATE.md`
+  - `state/STATUS.md`
+  - `state/NEXT_ACTION.md`
+  - `state/FEATURE_STATUS.md`
+  - `state/PROGRESS.md`
+  - `state/SESSION_LOG.md`
+  - `workspace/handoff/CURRENT_HANDOFF.md`
+- Checks run:
+  - `git show --stat --name-only --format=fuller HEAD`
+  - `git diff --name-only HEAD^ HEAD`
+  - `git diff --name-only HEAD^ HEAD -- project`
+  - exact runtime boundary validation via `node -`
+  - template and locale parity validation via `node -`
+  - `grep` render-call checks for `stone-product-card`
+  - `grep` spotlight checks for `card_emphasis: 'spotlight'`, `show_excerpt: true`, and `layout_mode`
+  - `grep` selected-collection checks for `section.settings.collection` and `stone_selected_collection.products`
+  - forbidden-scope grep via `grep`
+  - protected-surface diff via `git diff --name-only`
+  - `node HARNESS/checks/check-state-artifacts.mjs`
+  - `node HARNESS/checks/check-next-action-scope.mjs`
+  - `node HARNESS/checks/check-plan-exists.mjs`
+  - `node HARNESS/checks/check-handoff-completeness.mjs`
+  - `node HARNESS/checks/check-approval-state.mjs`
+  - `node HARNESS/checks/check-lock-state.mjs`
+  - `node HARNESS/checks/harness-check.mjs`
+- Result: PASS
+- Follow-up: execute `UNIT-086` only as a docs-only post-spotlight merchandising frontier review
+
+### Session Entry
+
 - Timestamp: 2026-04-12 20:23 Asia/Jerusalem
 - Skill or Mode: `project-build`
 - Summary: implemented the post-foundation merchandising spotlight variant by extending the existing merchandising family and shared product-card contract inside the same approved six-file runtime boundary

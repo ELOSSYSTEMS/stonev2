@@ -3,31 +3,26 @@
 ## Status
 
 - `Verified`: Approval State: APPROVED
-- `Verified`: Execution Class: phase-3-runtime-verification
+- `Verified`: Execution Class: phase-3-docs-planning
 - `Verified`: Priority: high
 
 ## Approved Unit
 
-- `UNIT-085` Verify the post-foundation merchandising spotlight variant slice.
+- `UNIT-086` Author the post-spotlight merchandising frontier review.
 
 ## Objective
 
-- `Verified`: Verify that `UNIT-084` stayed inside the exact approved six-file runtime boundary.
-- `Verified`: Confirm the spotlight variant remained an in-family extension of `stone-featured-collection-grid` and reused `stone-product-card` as the only product-card snippet surface.
-- `Verified`: Confirm the slice remained non-JS, selected-collection, read-only, and free of protected-surface or heavier-commerce drift.
+- `Verified`: Re-evaluate Stone V2 immediately after the verified spotlight-variant extension of the merchandising family.
+- `Verified`: Decide whether the next honest step should be another bounded merchandising-family move, a family boundary pause, or a shift to another governed planning problem.
+- `Verified`: If continuation is justified, author one docs-only planning package with exact scope, checks, risks, and stop conditions for the next bounded step.
 
 ## Plan Reference
 
-- `Path:` `workspace/plans/phase-3-post-foundation-merchandising-frontier-review-v1/PLAN.v1.md`
+- `Not required`: This is a docs-only frontier review following verified `UNIT-085`.
 
 ## Allowed Files Or Surfaces
 
-- `project/assets/stone-base.css`
-- `project/snippets/stone-product-card.liquid`
-- `project/sections/stone-featured-collection-grid.liquid`
-- `project/templates/page.stone-runtime-featured-collection-grid.json`
-- `project/locales/he.default.schema.json`
-- `project/locales/en.schema.json`
+- `workspace/plans/`
 - `state/`
 - `workspace/handoff/CURRENT_HANDOFF.md`
 
@@ -43,4 +38,4 @@
 
 ## Stop Condition
 
-Stop if verification shows any runtime file outside the approved six-file boundary, a second snippet, a second section, a second template, protected-surface edits, JS edits, compare-at pricing logic, badges, urgency logic, rails, carousels, shoppable-media behavior, add-to-cart, product forms, quick-add, quick-view, or any heavier-commerce drift. Fail closed instead of normalizing scope expansion.
+Stop if the frontier review attempts to execute runtime work, widen beyond docs-only planning surfaces, retroactively loosen the verified six-file merchandising boundary, or authorize JS, protected-surface edits, extra runtime files, or heavier-commerce behavior without a new explicit bounded package.
