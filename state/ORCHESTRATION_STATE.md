@@ -8,14 +8,14 @@
 
 ## Current Phase
 
-- `Verified`: Active roadmap phase: Phase 2 bounded runtime verification readiness after minimal trust testimonial implementation
-- `Verified`: Last completed phase slice: Phase 2 minimal trust testimonial implementation slice
-- `Inference`: Next bounded slice: verify one implementation unit for the completed minimal trust testimonial proof
+- `Verified`: Active roadmap phase: Phase 2 bounded runtime planning readiness after minimal trust testimonial verification
+- `Verified`: Last completed phase slice: Phase 2 minimal trust testimonial verification slice
+- `Inference`: Next bounded slice: author one planning unit for the next runtime slice after the verified trust testimonial proof
 
 ## Approval State
 
 - `Verified`: Current next action approval: APPROVED
-- `Verified`: Approval basis: `UNIT-046` implemented the bounded minimal trust testimonial slice inside the approved five runtime files, kept the repo shell-stable and non-JS, and advanced the repo to one bounded verification unit
+- `Verified`: Approval basis: `UNIT-047` verified that `UNIT-046` stayed inside the approved five runtime files, reused the shared shell unchanged, remained bounded and non-JS, preserved locale parity, and advanced the repo to one bounded planning unit
 
 ## Lock State
 
