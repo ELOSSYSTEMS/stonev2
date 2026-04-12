@@ -3,25 +3,29 @@
 ## Status
 
 - `Verified`: Approval State: APPROVED
-- `Verified`: Execution Class: phase-2-runtime-planning
+- `Verified`: Execution Class: phase-2-runtime-implementation
 - `Verified`: Priority: high
 
 ## Approved Unit
 
-- `UNIT-048` Author one bounded planning unit for the next Phase 2 runtime slice after verified minimal trust testimonial completion.
+- `UNIT-049` Execute the bounded Phase 2 minimal trust stat strip implementation slice.
 
 ## Objective
 
-- `Verified`: Define the next smallest safe Phase 2 runtime slice after the verified minimal trust testimonial proof and capture it as a documentation-only plan package with explicit scope, checks, risks, and stop conditions.
-- `Verified`: Keep `UNIT-048` limited to `workspace/plans/`, `state/`, and `workspace/handoff/CURRENT_HANDOFF.md` only.
+- `Verified`: Implement the approved minimal trust stat strip slice and keep it bounded to one restrained sixth trust-and-support proof.
+- `Verified`: Keep `UNIT-049` limited to the approved five runtime files plus state and handoff updates only.
 
 ## Plan Reference
 
-- `Path:` `workspace/plans/phase-2-minimal-trust-testimonial-v1/PLAN.v1.md`
+- `Path:` `workspace/plans/phase-2-minimal-trust-stat-strip-v1/PLAN.v1.md`
 
 ## Allowed Files Or Surfaces
 
-- `workspace/plans/`
+- `project/assets/stone-base.css`
+- `project/sections/stone-trust-stat-strip.liquid`
+- `project/templates/page.stone-runtime-trust-stat-strip.json`
+- `project/locales/he.default.schema.json`
+- `project/locales/en.schema.json`
 - `state/`
 - `workspace/handoff/CURRENT_HANDOFF.md`
 
@@ -37,4 +41,4 @@
 
 ## Stop Condition
 
-Stop if planning needs to touch `project/` runtime files, protected surfaces, `project/blocks/`, new snippets, more than one future section, more than one future template, runtime JS, or broad family build-out; stop if the next slice cannot be bounded clearly enough to fit a documentation-only plan package and replan the roadmap instead of improvising scope.
+Stop if implementation needs any file outside `project/assets/stone-base.css`, `project/sections/stone-trust-stat-strip.liquid`, `project/templates/page.stone-runtime-trust-stat-strip.json`, `project/locales/he.default.schema.json`, `project/locales/en.schema.json`, `state/`, and `workspace/handoff/CURRENT_HANDOFF.md`; stop if protected-surface edits, `project/blocks/`, any new snippet file, any second section file, any second template file, counter animation, chart behavior, badge or icon systems, custom JS-driven behavior, ratings, review aggregates, guarantees, or broader family work becomes necessary, and replan instead of broadening scope.
