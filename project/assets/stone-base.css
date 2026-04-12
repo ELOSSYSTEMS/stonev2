@@ -387,6 +387,52 @@ textarea {
   border-block-end: 1px solid var(--stone-color-border);
 }
 
+.stone-trust-faq {
+  display: grid;
+  gap: var(--stone-space-4);
+}
+
+.stone-trust-faq--soft {
+  padding: var(--stone-space-4);
+  border-radius: var(--stone-radius-2);
+  background: var(--stone-color-surface);
+}
+
+.stone-trust-faq__intro > * {
+  margin: 0;
+}
+
+.stone-trust-faq__items {
+  display: grid;
+  gap: var(--stone-space-3);
+}
+
+.stone-trust-faq__item {
+  border: 1px solid var(--stone-color-border);
+  border-radius: var(--stone-radius-2);
+  background: transparent;
+}
+
+.stone-trust-faq__summary {
+  cursor: pointer;
+  list-style: none;
+  padding: var(--stone-space-3) var(--stone-space-4);
+  font-weight: 600;
+}
+
+.stone-trust-faq__summary::-webkit-details-marker {
+  display: none;
+}
+
+.stone-trust-faq__answer {
+  padding: 0 var(--stone-space-4) var(--stone-space-4);
+}
+
+.stone-trust-faq__answer > * ,
+.stone-trust-faq__empty {
+  margin: 0;
+}
+
 .stone-section-shell__link {
   display: inline-flex;
   align-items: center;

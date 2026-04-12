@@ -3,17 +3,17 @@
 ## Status
 
 - `Verified`: Approval State: APPROVED
-- `Verified`: Execution Class: phase-2-runtime-implementation
+- `Verified`: Execution Class: phase-2-runtime-verification
 - `Verified`: Priority: high
 
 ## Approved Unit
 
-- `UNIT-034` Execute the bounded Phase 2 minimal trust FAQ implementation slice.
+- `UNIT-035` Verify the bounded Phase 2 minimal trust FAQ implementation slice.
 
 ## Objective
 
-- `Verified`: Implement the approved minimal trust FAQ slice and keep it bounded to one restrained first trust-and-support proof.
-- `Verified`: Keep `UNIT-034` limited to the approved five runtime files plus state and handoff updates only.
+- `Verified`: Verify that the completed minimal trust FAQ slice stayed inside the approved five-file runtime boundary and remained bounded, shell-stable, template-neutral, bilingual, and non-JS.
+- `Verified`: Keep `UNIT-035` limited to verification evidence, state updates, and handoff updates only.
 
 ## Plan Reference
 
@@ -41,4 +41,4 @@
 
 ## Stop Condition
 
-Stop if implementation needs any file outside `project/assets/stone-base.css`, `project/sections/stone-trust-faq.liquid`, `project/templates/page.stone-runtime-trust-faq.json`, `project/locales/he.default.schema.json`, `project/locales/en.schema.json`, `state/`, and `workspace/handoff/CURRENT_HANDOFF.md`; stop if protected-surface edits, `project/blocks/`, any new snippet file, any second section file, any second template file, custom JS-driven behavior, contact flows, testimonial/logo systems, support-escalation behavior, or broader family work becomes necessary, and replan instead of broadening scope.
+Stop if verification evidence shows the implementation touched any file outside `project/assets/stone-base.css`, `project/sections/stone-trust-faq.liquid`, `project/templates/page.stone-runtime-trust-faq.json`, `project/locales/he.default.schema.json`, and `project/locales/en.schema.json`; stop if verification reveals protected-surface edits, `project/blocks/`, any new snippet file, any second section file, any second template file, custom JS-driven behavior, contact flows, testimonial/logo systems, support-escalation behavior, locale drift, or broader family work, and record failure instead of normalizing scope expansion.

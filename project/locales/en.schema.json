@@ -766,6 +766,79 @@
           }
         }
       }
+    },
+    "stone_trust_faq": {
+      "name": "Trust FAQ",
+      "empty": "Add question items to validate the restrained FAQ surface.",
+      "settings": {
+        "heading": {
+          "label": "Section heading",
+          "info": "Optional. Displays a neutral heading above the FAQ stack."
+        },
+        "intro": {
+          "label": "Intro text",
+          "info": "Optional. Displays short neutral guidance above the disclosure items."
+        },
+        "surface_style": {
+          "label": "Surface style",
+          "info": "Controls the restrained surface treatment for the FAQ stack.",
+          "options": {
+            "outline": {
+              "label": "Outline"
+            },
+            "soft": {
+              "label": "Soft surface"
+            }
+          }
+        },
+        "width_mode": {
+          "label": "Width mode",
+          "info": "Controls the neutral container width for the section shell.",
+          "options": {
+            "narrow": {
+              "label": "Narrow"
+            },
+            "standard": {
+              "label": "Standard"
+            },
+            "wide": {
+              "label": "Wide"
+            }
+          }
+        },
+        "spacing_mode": {
+          "label": "Spacing mode",
+          "info": "Controls the neutral vertical spacing of the section shell.",
+          "options": {
+            "compact": {
+              "label": "Compact"
+            },
+            "standard": {
+              "label": "Balanced"
+            },
+            "relaxed": {
+              "label": "Relaxed"
+            }
+          }
+        }
+      },
+      "blocks": {
+        "item": {
+          "name": "Question item",
+          "fallback_question": "Add a question",
+          "empty_answer": "Add an answer to complete this item.",
+          "settings": {
+            "question": {
+              "label": "Question",
+              "info": "Short neutral question text for this item."
+            },
+            "answer": {
+              "label": "Answer",
+              "info": "Short neutral answer text for this item."
+            }
+          }
+        }
+      }
     }
   }
 }

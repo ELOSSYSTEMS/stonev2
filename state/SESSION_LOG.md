@@ -986,3 +986,37 @@
   - `node HARNESS/checks/harness-check.mjs`
 - Result: PASS
 - Follow-up: execute `UNIT-034` only within the five-file runtime scope defined by `workspace/plans/phase-2-minimal-trust-faq-v1/PLAN.v1.md`, and treat family-boundary drift as a replanning trigger
+
+### Session Entry
+
+- Timestamp: 2026-04-12 08:03 Asia/Jerusalem
+- Skill or Mode: `project-build`
+- Summary: implemented the bounded Phase 2 minimal trust FAQ slice, added one restrained trust-and-support FAQ validation section and neutral host template, extended the base CSS with FAQ stack primitives, and synchronized state for bounded verification
+- Files changed:
+  - `project/assets/stone-base.css`
+  - `project/sections/stone-trust-faq.liquid`
+  - `project/templates/page.stone-runtime-trust-faq.json`
+  - `project/locales/he.default.schema.json`
+  - `project/locales/en.schema.json`
+  - `state/ORCHESTRATION_STATE.md`
+  - `state/STATUS.md`
+  - `state/NEXT_ACTION.md`
+  - `state/FEATURE_STATUS.md`
+  - `state/PROGRESS.md`
+  - `state/SESSION_LOG.md`
+  - `workspace/handoff/CURRENT_HANDOFF.md`
+- Checks run:
+  - JSON parsing and template-shape validation via `node -`
+  - locale subtree parity via `node -`
+  - `grep` render-call check for `stone-section-shell`
+  - forbidden-scope grep via `grep`
+  - protected-surface diff via `git status --short`
+  - `node HARNESS/checks/check-state-artifacts.mjs`
+  - `node HARNESS/checks/check-next-action-scope.mjs`
+  - `node HARNESS/checks/check-plan-exists.mjs`
+  - `node HARNESS/checks/check-handoff-completeness.mjs`
+  - `node HARNESS/checks/check-approval-state.mjs`
+  - `node HARNESS/checks/check-lock-state.mjs`
+  - `node HARNESS/checks/harness-check.mjs`
+- Result: PASS
+- Follow-up: execute `UNIT-035` to verify the completed minimal trust FAQ slice without expanding runtime scope

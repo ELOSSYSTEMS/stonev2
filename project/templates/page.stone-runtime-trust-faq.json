@@ -1,0 +1,37 @@
+{
+  "sections": {
+    "main": {
+      "type": "stone-trust-faq",
+      "settings": {
+        "heading": "Runtime trust FAQ",
+        "intro": "<p>Use this section for short neutral question-and-answer guidance.</p>",
+        "surface_style": "outline",
+        "width_mode": "standard",
+        "spacing_mode": "standard"
+      },
+      "blocks": {
+        "item_1": {
+          "type": "item",
+          "settings": {
+            "question": "What does this section validate?",
+            "answer": "<p>It validates a restrained FAQ stack with native disclosure behavior.</p>"
+          }
+        },
+        "item_2": {
+          "type": "item",
+          "settings": {
+            "question": "How should it be used?",
+            "answer": "<p>Use it for short neutral guidance that stays inside one isolated section.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_1",
+        "item_2"
+      ]
+    }
+  },
+  "order": [
+    "main"
+  ]
+}
