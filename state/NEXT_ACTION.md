@@ -3,17 +3,17 @@
 ## Status
 
 - `Verified`: Approval State: APPROVED
-- `Verified`: Execution Class: phase-2-runtime-implementation
+- `Verified`: Execution Class: phase-2-runtime-verification
 - `Verified`: Priority: high
 
 ## Approved Unit
 
-- `UNIT-037` Execute the bounded Phase 2 minimal reassurance lane implementation slice.
+- `UNIT-038` Verify the bounded Phase 2 minimal reassurance lane implementation slice.
 
 ## Objective
 
-- `Verified`: Implement the approved minimal reassurance lane slice and keep it bounded to one restrained second trust-and-support proof.
-- `Verified`: Keep `UNIT-037` limited to the approved five runtime files plus state and handoff updates only.
+- `Verified`: Verify that the completed minimal reassurance lane slice stayed inside the approved five-file runtime boundary and remained bounded, shell-stable, template-neutral, bilingual, and non-JS.
+- `Verified`: Keep `UNIT-038` limited to verification evidence, state updates, and handoff updates only.
 
 ## Plan Reference
 
@@ -41,4 +41,4 @@
 
 ## Stop Condition
 
-Stop if implementation needs any file outside `project/assets/stone-base.css`, `project/sections/stone-trust-reassurance-lane.liquid`, `project/templates/page.stone-runtime-reassurance-lane.json`, `project/locales/he.default.schema.json`, `project/locales/en.schema.json`, `state/`, and `workspace/handoff/CURRENT_HANDOFF.md`; stop if protected-surface edits, `project/blocks/`, any new snippet file, any second section file, any second template file, custom JS-driven behavior, logos, testimonials, ratings, contact flows, or broader family work becomes necessary, and replan instead of broadening scope.
+Stop if verification evidence shows the implementation touched any file outside `project/assets/stone-base.css`, `project/sections/stone-trust-reassurance-lane.liquid`, `project/templates/page.stone-runtime-reassurance-lane.json`, `project/locales/he.default.schema.json`, and `project/locales/en.schema.json`; stop if verification reveals protected-surface edits, `project/blocks/`, any new snippet file, any second section file, any second template file, custom JS-driven behavior, logos, testimonials, ratings, contact flows, locale drift, or broader family work, and record failure instead of normalizing scope expansion.

@@ -1,0 +1,46 @@
+{
+  "sections": {
+    "main": {
+      "type": "stone-trust-reassurance-lane",
+      "settings": {
+        "heading": "Runtime reassurance lane",
+        "intro": "<p>Use this section for short neutral reassurance cues grouped in one restrained lane.</p>",
+        "surface_style": "outline",
+        "layout_mode": "grid",
+        "width_mode": "standard",
+        "spacing_mode": "standard"
+      },
+      "blocks": {
+        "item_1": {
+          "type": "item",
+          "settings": {
+            "title": "Clear local setup",
+            "body": "<p>Keep the message short, neutral, and easy to scan.</p>"
+          }
+        },
+        "item_2": {
+          "type": "item",
+          "settings": {
+            "title": "Responsive by default",
+            "body": "<p>Use the lane to group lightweight reassurance cues without extra systems.</p>"
+          }
+        },
+        "item_3": {
+          "type": "item",
+          "settings": {
+            "title": "Bilingual editor coverage",
+            "body": "<p>Keep labels and help text aligned across Hebrew and English.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_1",
+        "item_2",
+        "item_3"
+      ]
+    }
+  },
+  "order": [
+    "main"
+  ]
+}
