@@ -2,7 +2,7 @@
 
 ## Summary
 
-- `Verified`: The bounded Phase 2 minimal runtime foundation slice is implemented and verified, the bounded Phase 2 minimal section runtime substrate slice is implemented and verified, the bounded Phase 2 minimal utility block stack slice is implemented and verified, the bounded Phase 2 minimal utility layout composition slice is implemented and verified, the bounded Phase 2 minimal utility action group slice is implemented and verified, the bounded Phase 2 minimal utility key-value list planning slice is complete, the bounded Phase 2 minimal utility key-value list implementation slice is complete, the bounded Phase 2 minimal utility key-value list verification slice is complete, the bounded Phase 2 minimal utility divider band planning slice is complete, the bounded Phase 2 minimal utility divider band implementation slice is complete, the bounded Phase 2 minimal utility divider band verification slice is complete, the bounded Phase 2 minimal utility notice planning slice is complete, the bounded Phase 2 minimal utility notice implementation slice is complete, the bounded Phase 2 minimal utility notice verification slice is complete, the bounded Phase 2 minimal utility prompt planning slice is complete, the bounded Phase 2 minimal utility prompt implementation slice is complete, the bounded Phase 2 minimal utility prompt verification slice is complete, the bounded Phase 2 minimal utility spacer planning slice is complete, the bounded Phase 2 minimal utility spacer implementation slice is complete, the bounded Phase 2 minimal utility spacer verification slice is complete, the bounded Phase 2 minimal trust FAQ planning slice is complete, the bounded Phase 2 minimal trust FAQ implementation slice is complete, the bounded Phase 2 minimal trust FAQ verification slice is complete, the bounded Phase 2 minimal reassurance lane planning slice is complete, the bounded Phase 2 minimal reassurance lane implementation slice is complete, the bounded Phase 2 minimal reassurance lane verification slice is complete, and the bounded Phase 2 minimal trust help prompt planning slice is complete.
+- `Verified`: The bounded Phase 2 minimal runtime foundation slice is implemented and verified, the bounded Phase 2 minimal section runtime substrate slice is implemented and verified, the bounded Phase 2 minimal utility block stack slice is implemented and verified, the bounded Phase 2 minimal utility layout composition slice is implemented and verified, the bounded Phase 2 minimal utility action group slice is implemented and verified, the bounded Phase 2 minimal utility key-value list planning slice is complete, the bounded Phase 2 minimal utility key-value list implementation slice is complete, the bounded Phase 2 minimal utility key-value list verification slice is complete, the bounded Phase 2 minimal utility divider band planning slice is complete, the bounded Phase 2 minimal utility divider band implementation slice is complete, the bounded Phase 2 minimal utility divider band verification slice is complete, the bounded Phase 2 minimal utility notice planning slice is complete, the bounded Phase 2 minimal utility notice implementation slice is complete, the bounded Phase 2 minimal utility notice verification slice is complete, the bounded Phase 2 minimal utility prompt planning slice is complete, the bounded Phase 2 minimal utility prompt implementation slice is complete, the bounded Phase 2 minimal utility prompt verification slice is complete, the bounded Phase 2 minimal utility spacer planning slice is complete, the bounded Phase 2 minimal utility spacer implementation slice is complete, the bounded Phase 2 minimal utility spacer verification slice is complete, the bounded Phase 2 minimal trust FAQ planning slice is complete, the bounded Phase 2 minimal trust FAQ implementation slice is complete, the bounded Phase 2 minimal trust FAQ verification slice is complete, the bounded Phase 2 minimal reassurance lane planning slice is complete, the bounded Phase 2 minimal reassurance lane implementation slice is complete, the bounded Phase 2 minimal reassurance lane verification slice is complete, the bounded Phase 2 minimal trust help prompt planning slice is complete, and the bounded Phase 2 minimal trust help prompt implementation slice is complete.
 
 ## Current State
 
@@ -38,7 +38,8 @@
 - `Verified`: `UNIT-037` implemented `project/sections/stone-trust-reassurance-lane.liquid` and `project/templates/page.stone-runtime-reassurance-lane.json`, extended `project/assets/stone-base.css` with restrained reassurance-lane primitives, and updated the paired locale files inside the approved five-file runtime boundary.
 - `Verified`: `UNIT-038` verified that `UNIT-037` touched only the approved five runtime files, reused `stone-section-shell` unchanged, stayed bounded and non-JS, kept the host template neutral, and preserved bilingual locale parity.
 - `Verified`: `UNIT-039` authored the bounded minimal trust help prompt plan package under `workspace/plans/phase-2-minimal-trust-help-prompt-v1/` and fixed the next runtime slice to the approved five-file trust-help-prompt implementation boundary.
-- `Verified`: `state/NEXT_ACTION.md` now points to `UNIT-040`, the bounded implementation unit for that planned trust-help-prompt slice.
+- `Verified`: `UNIT-040` implemented `project/sections/stone-trust-help-prompt.liquid` and `project/templates/page.stone-runtime-trust-help-prompt.json`, extended `project/assets/stone-base.css` with restrained trust-help-prompt primitives, and updated the paired locale files inside the approved five-file runtime boundary.
+- `Verified`: `state/NEXT_ACTION.md` now points to `UNIT-041`, the bounded verification unit for that completed trust-help-prompt slice.
 
 ## Changed Or Seeded Files
 
@@ -55,6 +56,7 @@
 - `Verified`: `project/sections/stone-utility-spacer.liquid`
 - `Verified`: `project/sections/stone-trust-faq.liquid`
 - `Verified`: `project/sections/stone-trust-reassurance-lane.liquid`
+- `Verified`: `project/sections/stone-trust-help-prompt.liquid`
 - `Verified`: `project/templates/page.stone-runtime.json`
 - `Verified`: `project/templates/page.stone-runtime-block-stack.json`
 - `Verified`: `project/templates/page.stone-runtime-layout-composition.json`
@@ -66,6 +68,7 @@
 - `Verified`: `project/templates/page.stone-runtime-spacer.json`
 - `Verified`: `project/templates/page.stone-runtime-trust-faq.json`
 - `Verified`: `project/templates/page.stone-runtime-reassurance-lane.json`
+- `Verified`: `project/templates/page.stone-runtime-trust-help-prompt.json`
 - `Verified`: `project/locales/he.default.schema.json`
 - `Verified`: `project/locales/en.schema.json`
 - `Verified`: `workspace/plans/phase-2-minimal-utility-block-stack-v1/PLAN.v1.md`
@@ -143,11 +146,12 @@
 - `Verified`: `UNIT-037` completed without requiring snippet rewrites, `project/blocks/`, global settings changes, runtime JS changes, logos, testimonials, ratings, or contact flows.
 - `Verified`: `UNIT-038` confirmed the reassurance-lane implementation remained inside the approved five-file boundary and did not normalize any scope expansion.
 - `Verified`: `UNIT-039` selected one documentation-only third trust-and-support slice that stays within the same five approved runtime files and keeps JS, protected surfaces, snippets, `project/blocks/`, contact-form behavior, logos, testimonials, ratings, guarantees, and broader composition work out of scope.
-- `Inference`: `UNIT-040` should implement exactly one bounded trust help prompt slice and must stop if the structure cannot remain distinct enough from the verified utility prompt.
+- `Verified`: `UNIT-040` completed without requiring snippet rewrites, `project/blocks/`, global settings changes, runtime JS changes, contact-form behavior, testimonials, logos, ratings, or guarantees.
+- `Inference`: `UNIT-041` should verify exactly one bounded trust help prompt slice and must fail closed if the structure collapses back into generic utility-prompt behavior.
 
 ## Recommended Next Step
 
-- `Verified`: Pause at `UNIT-040` unless a restrained trust-help-prompt implementation is still considered safe for autonomous execution, because this slice must stay meaningfully distinct from the verified utility prompt while remaining bounded.
+- `Verified`: Execute `UNIT-041` from `state/NEXT_ACTION.md` and verify exactly one bounded trust-help-prompt slice within the approved five runtime files.
 
 ## Resume Checks
 
@@ -165,6 +169,6 @@
 - `Verified`: Read `workspace/plans/phase-2-minimal-reassurance-lane-v1/PLAN.v1.md`, `ASSUMPTIONS.v1.md`, `CHECKS.v1.md`, and `RISKS.v1.md`.
 - `Verified`: Read `workspace/plans/phase-2-minimal-trust-help-prompt-v1/PLAN.v1.md`, `ASSUMPTIONS.v1.md`, `CHECKS.v1.md`, and `RISKS.v1.md`.
 - `Verified`: Read `state/ORCHESTRATION_STATE.md`, `state/STATUS.md`, `state/NEXT_ACTION.md`, `state/FEATURE_STATUS.md`, and `state/PROGRESS.md` to carry forward the approved boundary constraints.
-- `Verified`: Use the verified runtime chain through `UNIT-039` as the starting boundary proof for the next implementation unit.
-- `Verified`: Keep the next unit inside `project/assets/stone-base.css`, `project/sections/stone-trust-help-prompt.liquid`, `project/templates/page.stone-runtime-trust-help-prompt.json`, `project/locales/he.default.schema.json`, `project/locales/en.schema.json`, `state/`, and `workspace/handoff/CURRENT_HANDOFF.md` only.
+- `Verified`: Use the verified runtime chain through `UNIT-040` as the starting boundary proof for the next verification unit.
+- `Verified`: Keep the next unit inside verification evidence for `project/assets/stone-base.css`, `project/sections/stone-trust-help-prompt.liquid`, `project/templates/page.stone-runtime-trust-help-prompt.json`, `project/locales/he.default.schema.json`, `project/locales/en.schema.json`, plus `state/` and `workspace/handoff/CURRENT_HANDOFF.md` only.
 - `Verified`: Run `node HARNESS/checks/check-state-artifacts.mjs`, `node HARNESS/checks/check-next-action-scope.mjs`, `node HARNESS/checks/check-plan-exists.mjs`, `node HARNESS/checks/check-handoff-completeness.mjs`, `node HARNESS/checks/check-approval-state.mjs`, `node HARNESS/checks/check-lock-state.mjs`, and `node HARNESS/checks/harness-check.mjs`.

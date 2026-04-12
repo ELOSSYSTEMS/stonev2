@@ -3,27 +3,27 @@
 ## Status
 
 - `Verified`: Approval State: APPROVED
-- `Verified`: Execution Class: phase-2-runtime-implementation
+- `Verified`: Execution Class: phase-2-runtime-verification
 - `Verified`: Priority: high
 
 ## Approved Unit
 
-- `UNIT-040` Execute the bounded Phase 2 minimal trust help prompt implementation slice.
+- `UNIT-041` Verify the bounded Phase 2 minimal trust help prompt implementation slice.
 
 ## Objective
 
-- `Verified`: Implement the approved minimal trust help prompt slice and keep it bounded to one restrained third trust-and-support proof.
-- `Verified`: Keep `UNIT-040` limited to the approved five runtime files plus state and handoff updates only.
+- `Verified`: Verify that the completed minimal trust help prompt slice stayed inside the approved five-file runtime boundary and remained bounded, shell-stable, template-neutral, bilingual, and non-JS.
+- `Verified`: Keep `UNIT-041` limited to verification evidence, state updates, and handoff updates only.
 
 ## Plan Reference
 
-- `Path:` `workspace/plans/phase-2-minimal-reassurance-lane-v1/PLAN.v1.md`
+- `Path:` `workspace/plans/phase-2-minimal-trust-help-prompt-v1/PLAN.v1.md`
 
 ## Allowed Files Or Surfaces
 
 - `project/assets/stone-base.css`
-- `project/sections/stone-trust-reassurance-lane.liquid`
-- `project/templates/page.stone-runtime-reassurance-lane.json`
+- `project/sections/stone-trust-help-prompt.liquid`
+- `project/templates/page.stone-runtime-trust-help-prompt.json`
 - `project/locales/he.default.schema.json`
 - `project/locales/en.schema.json`
 - `state/`
@@ -41,4 +41,4 @@
 
 ## Stop Condition
 
-Stop if implementation needs any file outside `project/assets/stone-base.css`, `project/sections/stone-trust-help-prompt.liquid`, `project/templates/page.stone-runtime-trust-help-prompt.json`, `project/locales/he.default.schema.json`, `project/locales/en.schema.json`, `state/`, and `workspace/handoff/CURRENT_HANDOFF.md`; stop if protected-surface edits, `project/blocks/`, any new snippet file, any second section file, any second template file, custom JS-driven behavior, contact-form behavior, testimonials, logos, ratings, guarantees, or broader family work becomes necessary, and replan instead of broadening scope.
+Stop if verification evidence shows the implementation touched any file outside `project/assets/stone-base.css`, `project/sections/stone-trust-help-prompt.liquid`, `project/templates/page.stone-runtime-trust-help-prompt.json`, `project/locales/he.default.schema.json`, and `project/locales/en.schema.json`; stop if verification reveals protected-surface edits, `project/blocks/`, any new snippet file, any second section file, any second template file, custom JS-driven behavior, contact-form behavior, testimonials, logos, ratings, guarantees, locale drift, or broader family work, and record failure instead of normalizing scope expansion.

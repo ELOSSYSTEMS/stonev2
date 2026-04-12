@@ -924,6 +924,98 @@
           }
         }
       }
+    },
+    "stone_trust_help_prompt": {
+      "name": "Trust help prompt",
+      "empty": "Add short guidance text or native links to validate the trust help prompt.",
+      "settings": {
+        "heading": {
+          "label": "Section heading",
+          "info": "Optional. Displays a neutral heading above the trust help prompt."
+        },
+        "eyebrow": {
+          "label": "Eyebrow",
+          "info": "Optional. Displays short trust-oriented lead text above the prompt body."
+        },
+        "body": {
+          "label": "Prompt body",
+          "info": "Defines the short trust-oriented text shown inside the prompt."
+        },
+        "note": {
+          "label": "Supporting note",
+          "info": "Optional. Adds restrained supporting text below the main prompt body."
+        },
+        "primary_action_label": {
+          "label": "Primary action label",
+          "info": "Optional. Leave blank to hide the first native link."
+        },
+        "primary_action_link": {
+          "label": "Primary action link",
+          "info": "Shown only when the first action label is not blank."
+        },
+        "secondary_action_label": {
+          "label": "Secondary action label",
+          "info": "Optional. Leave blank to hide the second native link."
+        },
+        "secondary_action_link": {
+          "label": "Secondary action link",
+          "info": "Shown only when the second action label is not blank."
+        },
+        "surface_style": {
+          "label": "Surface style",
+          "info": "Controls the restrained trust prompt surface treatment.",
+          "options": {
+            "outline": {
+              "label": "Outline"
+            },
+            "soft": {
+              "label": "Soft surface"
+            }
+          }
+        },
+        "layout_mode": {
+          "label": "Layout mode",
+          "info": "Controls whether the help prompt stays stacked or splits prompt text from native actions.",
+          "options": {
+            "split": {
+              "label": "Split"
+            },
+            "stack": {
+              "label": "Stack"
+            }
+          }
+        },
+        "width_mode": {
+          "label": "Width mode",
+          "info": "Controls the neutral container width for the section shell.",
+          "options": {
+            "narrow": {
+              "label": "Narrow"
+            },
+            "standard": {
+              "label": "Standard"
+            },
+            "wide": {
+              "label": "Wide"
+            }
+          }
+        },
+        "spacing_mode": {
+          "label": "Spacing mode",
+          "info": "Controls the neutral vertical spacing of the section shell.",
+          "options": {
+            "compact": {
+              "label": "Compact"
+            },
+            "standard": {
+              "label": "Balanced"
+            },
+            "relaxed": {
+              "label": "Relaxed"
+            }
+          }
+        }
+      }
     }
   }
 }

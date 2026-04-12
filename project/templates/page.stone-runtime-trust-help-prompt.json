@@ -1,0 +1,24 @@
+{
+  "sections": {
+    "main": {
+      "type": "stone-trust-help-prompt",
+      "settings": {
+        "heading": "Runtime trust help prompt",
+        "eyebrow": "Need a clear next step?",
+        "body": "<p>Use restrained help copy to point people toward existing guidance pages without opening a heavier flow.</p>",
+        "note": "Keep the language short and the links native.",
+        "primary_action_label": "Read delivery details",
+        "primary_action_link": "/pages/delivery",
+        "secondary_action_label": "Browse exchange guide",
+        "secondary_action_link": "/pages/exchanges",
+        "surface_style": "soft",
+        "layout_mode": "split",
+        "width_mode": "standard",
+        "spacing_mode": "standard"
+      }
+    }
+  },
+  "order": [
+    "main"
+  ]
+}
