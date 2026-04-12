@@ -8,12 +8,12 @@
 
 ## Approved Unit
 
-- `UNIT-072` Execute one bounded collection context card implementation slice.
+- `UNIT-073` Verify the bounded collection context card implementation slice.
 
 ## Objective
 
-- `Verified`: Implement the first approved collection-companion proof under the formalized boundary.
-- `Verified`: Keep `UNIT-072` limited to the exact approved five runtime files plus `state/` and `workspace/handoff/CURRENT_HANDOFF.md` only.
+- `Verified`: Verify that the completed collection context card slice stayed inside the approved five-file runtime boundary, remained read-only, reused the shared shell unchanged, and preserved the newly formalized stop conditions.
+- `Verified`: Keep `UNIT-073` limited to verification evidence, `state/`, and `workspace/handoff/CURRENT_HANDOFF.md` only.
 
 ## Plan Reference
 
@@ -41,4 +41,4 @@
 
 ## Stop Condition
 
-Stop if implementation needs any runtime file outside the approved five runtime files; stop if it needs protected-surface edits, `project/blocks/`, a new snippet, a second section, a second template, product loops, product-card behavior, filters, sorting, tags, pagination, search, toolbar behavior, JS, sliders, drawers, overlays, accordions, tabs, or broader composition, and fail closed instead of broadening scope.
+Stop if verification evidence shows runtime changes outside the approved five files, or reveals protected-surface edits, `project/blocks/`, new snippets, a second section, a second template, product loops, product-card behavior, filters, sorting, tags, pagination, search, toolbar behavior, JS, sliders, drawers, overlays, accordions, tabs, or broader composition, and record failure instead of normalizing scope expansion.

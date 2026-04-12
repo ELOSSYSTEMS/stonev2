@@ -1,0 +1,18 @@
+{
+  "sections": {
+    "main": {
+      "type": "stone-collection-context-card",
+      "settings": {
+        "heading": "Collection context",
+        "intro": "<p>Select one collection to validate a restrained category-entry support surface.</p>",
+        "collection": "",
+        "surface_style": "soft",
+        "width_mode": "standard",
+        "spacing_mode": "standard"
+      }
+    }
+  },
+  "order": [
+    "main"
+  ]
+}

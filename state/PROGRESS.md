@@ -2,25 +2,25 @@
 
 ## Current Phase
 
-- `Verified`: Roadmap phase: the bounded collection-companion boundary unit is complete and the repo is positioned for one bounded collection-aware implementation unit
+- `Verified`: Roadmap phase: the bounded collection context card implementation unit is complete and the repo is positioned for one bounded verification unit
 
 ## Approved Next Action
 
-- `Verified`: `UNIT-072` execute one bounded collection context card implementation slice
+- `Verified`: `UNIT-073` verify the bounded collection context card implementation slice
 
 ## Last Completed Unit
 
-- `Verified`: Unit ID: `UNIT-071`
-- `Verified`: Summary: authored the docs-only collection-companion approval-boundary package, fixed the exact distinctness case and new allowance, and advanced the repo to one newly bounded collection-aware implementation unit
+- `Verified`: Unit ID: `UNIT-072`
+- `Verified`: Summary: implemented the first bounded collection context card slice, added one read-only collection-aware section and neutral host template, extended the base CSS, and preserved the approved five-file runtime boundary under the new collection-companion rule
 
 ## Verification Status
 
-- `Verified`: Verdict: PASS for `UNIT-071`; the bounded collection-companion boundary unit is complete
-- `Verified`: Evidence: `workspace/plans/phase-2-collection-companion-boundary-v1/PLAN.v1.md`; `workspace/plans/phase-2-collection-companion-boundary-v1/ASSUMPTIONS.v1.md`; `workspace/plans/phase-2-collection-companion-boundary-v1/CHECKS.v1.md`; `workspace/plans/phase-2-collection-companion-boundary-v1/RISKS.v1.md`; `workspace/plans/phase-2-collection-companion-boundary-v1/HANDOFF.v1.md`; `workspace/plans/phase-2-post-object-aware-frontier-review-v1/PLAN.v1.md`; `node HARNESS/checks/check-state-artifacts.mjs`; `node HARNESS/checks/check-next-action-scope.mjs`; `node HARNESS/checks/check-plan-exists.mjs`; `node HARNESS/checks/check-handoff-completeness.mjs`; `node HARNESS/checks/check-approval-state.mjs`; `node HARNESS/checks/check-lock-state.mjs`; `node HARNESS/checks/harness-check.mjs`
+- `Verified`: Verdict: PASS for `UNIT-072`; the bounded collection context card implementation unit is complete
+- `Verified`: Evidence: `project/assets/stone-base.css`; `project/sections/stone-collection-context-card.liquid`; `project/templates/page.stone-runtime-collection-context-card.json`; `project/locales/he.default.schema.json`; `project/locales/en.schema.json`; JSON parsing and template-shape validation via `node -`; locale subtree parity via `node -`; `grep` render-call check for `stone-section-shell`; `grep` collection-setting check for `section.settings.collection`; forbidden-scope grep via `grep`; protected-surface diff via `git status --short`; `node HARNESS/checks/check-state-artifacts.mjs`; `node HARNESS/checks/check-next-action-scope.mjs`; `node HARNESS/checks/check-plan-exists.mjs`; `node HARNESS/checks/check-handoff-completeness.mjs`; `node HARNESS/checks/check-approval-state.mjs`; `node HARNESS/checks/check-lock-state.mjs`; `node HARNESS/checks/harness-check.mjs`
 
 ## Active Blockers
 
-- `Verified`: Broader runtime implementation remains blocked beyond the approved `UNIT-072` implementation scope under the new boundary.
+- `Verified`: Broader runtime implementation remains blocked beyond the approved `UNIT-073` verification scope for the implemented slice.
 - `Inference`: Any discovered need to exceed the formalized collection-companion boundary should be treated as a governance failure rather than permission to normalize scope expansion.
 
 ## Resume Notes

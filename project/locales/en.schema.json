@@ -1695,6 +1695,72 @@
           }
         }
       }
+    },
+    "stone_collection_context_card": {
+      "name": "Collection context card",
+      "collection_label": "Collection",
+      "product_count": {
+        "one": "{{ count }} product",
+        "other": "{{ count }} products"
+      },
+      "view_collection": "View collection",
+      "empty_collection": "Select a collection to validate this bounded collection-companion section.",
+      "settings": {
+        "heading": {
+          "label": "Section heading",
+          "info": "Optional. Displays a neutral heading above the collection context card."
+        },
+        "intro": {
+          "label": "Intro text",
+          "info": "Optional. Adds short context above the collection context card."
+        },
+        "collection": {
+          "label": "Collection",
+          "info": "Select one collection for the section to read from."
+        },
+        "surface_style": {
+          "label": "Surface style",
+          "info": "Controls the restrained surface treatment for the collection context card.",
+          "options": {
+            "outline": {
+              "label": "Outline"
+            },
+            "soft": {
+              "label": "Soft surface"
+            }
+          }
+        },
+        "width_mode": {
+          "label": "Width mode",
+          "info": "Controls the neutral container width for the section shell.",
+          "options": {
+            "narrow": {
+              "label": "Narrow"
+            },
+            "standard": {
+              "label": "Standard"
+            },
+            "wide": {
+              "label": "Wide"
+            }
+          }
+        },
+        "spacing_mode": {
+          "label": "Spacing mode",
+          "info": "Controls the neutral vertical spacing of the section shell.",
+          "options": {
+            "compact": {
+              "label": "Compact"
+            },
+            "standard": {
+              "label": "Balanced"
+            },
+            "relaxed": {
+              "label": "Relaxed"
+            }
+          }
+        }
+      }
     }
   }
 }

@@ -8,14 +8,14 @@
 
 ## Current Phase
 
-- `Verified`: Active roadmap phase: Phase 2 bounded runtime implementation readiness after collection companion boundary approval
-- `Verified`: Last completed phase slice: Phase 2 collection context card implementation slice
-- `Inference`: Next bounded slice: execute one bounded collection-companion implementation unit under the newly formalized boundary
+- `Verified`: Active roadmap phase: Phase 2 bounded runtime verification readiness after collection context card implementation
+- `Verified`: Last completed phase slice: Phase 2 collection context card verification slice
+- `Inference`: Next bounded slice: verify one bounded collection-companion implementation unit under the newly formalized boundary
 
 ## Approval State
 
 - `Verified`: Current next action approval: APPROVED
-- `Verified`: Approval basis: `UNIT-071` formalized one bounded collection-companion approval boundary, preserved the existing bounded runtime discipline, and advanced the repo to one newly approved implementation unit
+- `Verified`: Approval basis: `UNIT-072` implemented the first bounded collection context card slice inside the approved five runtime files, preserved the non-JS bounded discipline, and advanced the repo to one verification unit
 
 ## Lock State
 
