@@ -8,14 +8,14 @@
 
 ## Current Phase
 
-- `Verified`: Active roadmap phase: Phase 3 docs-only frontier planning after verified merchandising spotlight extension
-- `Verified`: Last completed phase slice: Phase 3 merchandising spotlight verification slice
-- `Inference`: Next bounded slice: author the post-spotlight merchandising frontier review and decide the next honest boundary
+- `Verified`: Active roadmap phase: Phase 3 bounded merchandising-surface expansion after verified spotlight frontier review
+- `Verified`: Last completed phase slice: Phase 3 post-spotlight merchandising frontier review
+- `Inference`: Next bounded slice: execute one category-entry merchandising surface using a shared collection-card contract
 
 ## Approval State
 
 - `Verified`: Current next action approval: APPROVED
-- `Verified`: Approval basis: `UNIT-085` verified that the spotlight variant held the exact approved six-file runtime boundary and did not drift into heavier commerce or protected surfaces
+- `Verified`: Approval basis: `UNIT-086` determined that the next honest broader step is a distinct category-entry discovery surface, not a third featured-collection-grid variant or heavier commerce expansion
 
 ## Lock State
 

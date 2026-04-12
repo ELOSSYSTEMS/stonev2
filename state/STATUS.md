@@ -3,9 +3,9 @@
 ## Snapshot
 
 - `Verified`: Repo state: harness foundation populated
-- `Verified`: Storefront runtime state: the bounded Phase 2 proof chain is complete through the verified PDP companion frontier, the broader Phase 3 planning package is complete, the broader merchandising foundation boundary is complete, the first broader merchandising foundation implementation slice is complete and verified, the spotlight-variant family extension is complete, and that extension is now verified.
+- `Verified`: Storefront runtime state: the bounded Phase 2 proof chain is complete through the verified PDP companion frontier, the broader Phase 3 planning package is complete, the broader merchandising foundation boundary is complete, the first broader merchandising foundation implementation slice is complete and verified, the spotlight-variant family extension is complete and verified, and the next approved step is one bounded category-entry merchandising surface.
 - `Verified`: Architecture authority: the five documents under `docs/architecture/`
-- `Verified`: Current active planning package: `workspace/plans/phase-3-post-foundation-merchandising-frontier-review-v1/`
+- `Verified`: Current active planning package: `workspace/plans/phase-3-category-entry-boundary-v1/`
 
 ## Canonical Inputs
 
@@ -20,6 +20,7 @@
 - `Verified`: `workspace/plans/phase-3-broader-merchandising-platform-v1/PLAN.v1.md`
 - `Verified`: `workspace/plans/phase-3-merchandising-foundation-boundary-v1/PLAN.v1.md`
 - `Verified`: `workspace/plans/phase-3-post-foundation-merchandising-frontier-review-v1/PLAN.v1.md`
+- `Verified`: `workspace/plans/phase-3-category-entry-boundary-v1/PLAN.v1.md`
 
 ## Constraints
 
@@ -30,19 +31,16 @@
 - `Verified`: Preserve Hebrew-first assumptions
 - `Verified`: Treat bilingual Hebrew and English editor support as a core architectural requirement
 - `Verified`: Do not copy code or markup from external reference themes
-- `Verified`: The verified spotlight variant remains non-JS and excludes commerce-action behavior
+- `Verified`: The next approved category-entry step remains non-JS and excludes commerce-action behavior
 
 ## Current Outcome
 
 - `Verified`: `UNIT-080` formalized the first honest broader execution boundary with one shared product-card snippet, one featured-collection merchandising section, one neutral validation template, and an exact six-file runtime scope.
-- `Verified`: `UNIT-081` implemented the first shared merchandising card contract and first featured-collection merchandising proof.
-- `Verified`: `UNIT-082` verified exact boundary compliance, shared snippet reuse, selected-collection read-only access, locale parity, and the absence of protected-surface or heavier-commerce drift.
-- `Verified`: `UNIT-083` selected one bounded spotlight variant inside the existing merchandising family as the next honest step.
-- `Verified`: `UNIT-084` implemented that spotlight variant by extending the existing section and snippet surfaces rather than creating a second merchandising section file.
-- `Verified`: `UNIT-085` confirmed exact six-file boundary compliance, confirmed spotlight behavior remained in-family, and confirmed no protected-surface or heavier-commerce drift occurred.
-- `Inference`: The repo is now ready for a docs-only post-spotlight frontier review instead of automatic further runtime widening.
+- `Verified`: `UNIT-081` through `UNIT-085` proved the product-discovery side of the merchandising family through one foundational slice and one in-family spotlight extension.
+- `Verified`: `UNIT-086` concludes the next honest expansion is a distinct category-entry discovery surface rather than a third variant inside `stone-featured-collection-grid`.
+- `Inference`: Stone V2 is now positioned to broaden merchandising coverage across object types while still staying in a tightly bounded six-file implementation slice.
 
 ## Risks And Blocks
 
-- `Verified`: Runtime expansion remains paused until `UNIT-086` records the next bounded Phase 3 decision.
-- `Inference`: Any discovered need for second-file proliferation, compare-at pricing logic, sale badging, urgency logic, JS, protected-surface edits, rails/carousels, or shoppable-media behavior should trigger a new docs-only boundary decision rather than widening the verified spotlight slice.
+- `Verified`: Runtime expansion remains bounded to the category-entry six-file surface for `UNIT-087`.
+- `Inference`: Any discovered need for blocks, list settings, pricing logic, product-card behavior, JS, protected-surface edits, rails/carousels, or shoppable-media behavior should trigger a new docs-only boundary decision rather than widening the approved next slice.

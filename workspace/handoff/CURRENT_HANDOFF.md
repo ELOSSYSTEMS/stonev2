@@ -5,21 +5,23 @@
 - `Verified`: The bounded Phase 2 proof chain is complete through the verified PDP companion frontier.
 - `Verified`: The broader Phase 3 planning package is complete.
 - `Verified`: The broader merchandising foundation boundary package is complete.
-- `Verified`: The first broader merchandising foundation implementation slice is complete and verified.
-- `Verified`: The bounded spotlight variant on the existing merchandising family is complete and verified.
+- `Verified`: The product-discovery side of the merchandising family is complete through the verified spotlight extension.
+- `Verified`: The next approved step is one bounded category-entry merchandising surface.
 
 ## Current State
 
 - `Verified`: `UNIT-080` formalized the first broader execution boundary with one shared product-card snippet, one featured-collection merchandising section, one neutral validation template, and an exact six-file runtime scope.
-- `Verified`: `UNIT-081` implemented the shared merchandising card contract and first featured-collection merchandising proof.
-- `Verified`: `UNIT-082` verified exact boundary compliance, shared snippet reuse, selected-collection read-only access, locale parity, and no protected-surface or heavier-commerce drift.
-- `Verified`: `UNIT-083` selected one promotion-first spotlight variant inside the existing merchandising family as the next honest step.
-- `Verified`: `UNIT-084` implemented that spotlight variant by extending `stone-featured-collection-grid` and `stone-product-card` without introducing a second merchandising file.
-- `Verified`: `UNIT-085` verified exact six-file boundary compliance, in-family spotlight behavior, locale parity, and no protected-surface or heavier-commerce drift.
-- `Verified`: `state/NEXT_ACTION.md` now points to `UNIT-086`, the docs-only post-spotlight merchandising frontier review.
+- `Verified`: `UNIT-081` through `UNIT-085` implemented and verified the product-discovery side of the merchandising family through one foundational slice and one in-family spotlight extension.
+- `Verified`: `UNIT-086` concluded that the next honest merchandising expansion is a distinct category-entry discovery surface, not another featured-collection-grid variant.
+- `Verified`: `state/NEXT_ACTION.md` now points to `UNIT-087`, the bounded implementation of one category-entry merchandising slice.
 
 ## Changed Or Seeded Files
 
+- `Verified`: `workspace/plans/phase-3-category-entry-boundary-v1/PLAN.v1.md`
+- `Verified`: `workspace/plans/phase-3-category-entry-boundary-v1/ASSUMPTIONS.v1.md`
+- `Verified`: `workspace/plans/phase-3-category-entry-boundary-v1/CHECKS.v1.md`
+- `Verified`: `workspace/plans/phase-3-category-entry-boundary-v1/RISKS.v1.md`
+- `Verified`: `workspace/plans/phase-3-category-entry-boundary-v1/HANDOFF.v1.md`
 - `Verified`: `state/ORCHESTRATION_STATE.md`
 - `Verified`: `state/STATUS.md`
 - `Verified`: `state/NEXT_ACTION.md`
@@ -29,18 +31,18 @@
 
 ## Open Assumptions
 
-- `Verified`: The verified spotlight slice remains the current ceiling: no JS, no protected-surface edits, no compare-at pricing, no sale badging, no urgency logic, no rails/carousels, no shoppable-media behavior, and no commerce actions.
-- `Verified`: The next unit should remain docs-only and decide whether a third bounded merchandising-family move is justified or whether the correct move is to pause and re-plan at a higher boundary.
-- `Inference`: The strongest immediate question is whether the family should grow through one more bounded structural mode or whether the next honest work should shift away from merchandising runtime expansion.
+- `Verified`: The next runtime slice must stay on the exact category-entry six-file boundary and must not reuse product-card logic or pricing behavior.
+- `Verified`: The collection-entry proof should stay editor-driven through exactly three explicit collection settings instead of blocks or list-setting expansion.
+- `Inference`: If the category-entry proof cannot stay coherent inside this boundary, the correct move is to stop and author a new docs-only boundary instead of forcing runtime expansion.
 
 ## Recommended Next Step
 
-- `Verified`: Execute `UNIT-086` from `state/NEXT_ACTION.md` and author the post-spotlight merchandising frontier review without touching `project/` runtime files.
+- `Verified`: Execute `UNIT-087` from `state/NEXT_ACTION.md` and implement one category-entry merchandising surface without widening scope.
 
 ## Resume Checks
 
-- `Verified`: Read `workspace/plans/phase-3-post-foundation-merchandising-frontier-review-v1/PLAN.v1.md`.
+- `Verified`: Read `workspace/plans/phase-3-category-entry-boundary-v1/PLAN.v1.md`.
 - `Verified`: Read `state/ORCHESTRATION_STATE.md`, `state/STATUS.md`, `state/NEXT_ACTION.md`, `state/FEATURE_STATUS.md`, `state/PROGRESS.md`, and `state/SESSION_LOG.md`.
-- `Verified`: Review `git show --stat --name-only --format=fuller HEAD` for the verified `UNIT-084` implementation commit.
-- `Verified`: Confirm no `project/` runtime files are touched during `UNIT-086`.
+- `Verified`: Confirm the next runtime unit is limited to the exact new six-file category-entry boundary.
+- `Verified`: Confirm no second section, second template, or second snippet is introduced inside `UNIT-087`.
 - `Verified`: Run `node HARNESS/checks/harness-check.mjs` after the docs-only planning pass.

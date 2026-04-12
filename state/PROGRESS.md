@@ -2,29 +2,29 @@
 
 ## Current Phase
 
-- `Verified`: Roadmap phase: the merchandising family spotlight variant is verified and the repo is positioned for a docs-only post-spotlight frontier review.
+- `Verified`: Roadmap phase: the merchandising spotlight variant is verified and the repo is positioned for one bounded category-entry merchandising implementation step.
 
 ## Approved Next Action
 
-- `Verified`: `UNIT-086` author the post-spotlight merchandising frontier review.
+- `Verified`: `UNIT-087` execute the category-entry merchandising slice.
 
 ## Last Completed Unit
 
-- `Verified`: Unit ID: `UNIT-085`
-- `Verified`: Summary: verified that the spotlight variant stayed inside the exact approved six-file runtime boundary, remained an in-family extension of the existing merchandising family, and avoided protected-surface or heavier-commerce drift.
+- `Verified`: Unit ID: `UNIT-086`
+- `Verified`: Summary: authored the post-spotlight merchandising frontier review, concluded that the next honest move is a distinct category-entry discovery surface, and approved one bounded category-entry implementation boundary.
 
 ## Verification Status
 
-- `Verified`: Verdict: PASS for `UNIT-085`; the bounded spotlight-variant extension of the merchandising family remains valid after verification.
-- `Verified`: Evidence: `git show --stat --name-only --format=fuller HEAD`; `git diff --name-only HEAD^ HEAD`; `git diff --name-only HEAD^ HEAD -- project`; exact runtime boundary validation via `node -`; template and locale parity validation via `node -`; `grep` render-call checks for `stone-product-card`; `grep` spotlight checks for `card_emphasis: 'spotlight'`, `show_excerpt: true`, and `layout_mode`; `grep` selected-collection checks for `section.settings.collection` and `stone_selected_collection.products`; forbidden-scope grep via `grep`; protected-surface diff via `git diff --name-only`; `node HARNESS/checks/check-state-artifacts.mjs`; `node HARNESS/checks/check-next-action-scope.mjs`; `node HARNESS/checks/check-plan-exists.mjs`; `node HARNESS/checks/check-handoff-completeness.mjs`; `node HARNESS/checks/check-approval-state.mjs`; `node HARNESS/checks/check-lock-state.mjs`; `node HARNESS/checks/harness-check.mjs`
+- `Verified`: Verdict: PASS for `UNIT-086`; Stone V2 is ready for one additional bounded runtime step that broadens merchandising from product discovery into curated collection discovery.
+- `Verified`: Evidence: `workspace/plans/phase-3-category-entry-boundary-v1/PLAN.v1.md`; `workspace/plans/phase-3-category-entry-boundary-v1/ASSUMPTIONS.v1.md`; `workspace/plans/phase-3-category-entry-boundary-v1/CHECKS.v1.md`; `workspace/plans/phase-3-category-entry-boundary-v1/RISKS.v1.md`; `workspace/plans/phase-3-category-entry-boundary-v1/HANDOFF.v1.md`; `node HARNESS/checks/check-state-artifacts.mjs`; `node HARNESS/checks/check-next-action-scope.mjs`; `node HARNESS/checks/check-plan-exists.mjs`; `node HARNESS/checks/check-handoff-completeness.mjs`; `node HARNESS/checks/check-approval-state.mjs`; `node HARNESS/checks/check-lock-state.mjs`; `node HARNESS/checks/harness-check.mjs`
 
 ## Active Blockers
 
-- `Verified`: Runtime expansion remains paused until `UNIT-086` records the next bounded Phase 3 decision.
-- `Inference`: Any discovered need for second-file proliferation, compare-at pricing logic, badges, urgency logic, JS, protected-surface edits, rails/carousels, or shoppable-media behavior remains a new boundary problem rather than permission to widen the verified spotlight slice.
+- `Verified`: The next runtime slice remains bounded to the exact category-entry six-file surface.
+- `Inference`: Any discovered need for blocks, list settings, pricing logic, product-card reuse, JS, protected-surface edits, rails/carousels, or shoppable-media behavior remains a new boundary problem rather than permission to widen `UNIT-087`.
 
 ## Resume Notes
 
-- `Verified`: Resume from branch `codex/unit-085-merchandising-spotlight-verify`.
-- `Verified`: Use `UNIT-086` only for docs-only re-evaluation and next-boundary definition.
-- `Verified`: Do not touch `project/` runtime files until a new explicit planning package is authored and approved.
+- `Verified`: Resume from branch `codex/unit-086-post-spotlight-frontier-plan`.
+- `Verified`: `UNIT-087` should establish a distinct category-entry surface, not a third featured-collection-grid variant.
+- `Verified`: Fail closed if the category-entry proof cannot stay coherent inside the exact new six-file boundary.
