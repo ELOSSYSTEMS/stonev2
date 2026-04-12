@@ -2,26 +2,26 @@
 
 ## Current Phase
 
-- `Verified`: Roadmap phase: the bounded minimal trust stat strip verification unit is complete and the repo is positioned for one bounded runtime planning unit
+- `Verified`: Roadmap phase: the bounded minimal story split planning unit is complete and the repo is positioned for one bounded runtime implementation unit
 
 ## Approved Next Action
 
-- `Verified`: `UNIT-051` author one bounded planning unit for the next Phase 2 runtime slice after verified minimal trust stat strip completion
+- `Verified`: `UNIT-052` execute the bounded Phase 2 minimal story split implementation slice
 
 ## Last Completed Unit
 
-- `Verified`: Unit ID: `UNIT-050`
-- `Verified`: Summary: verified the bounded minimal trust stat strip slice, confirmed it stayed inside the approved five-file runtime boundary, reused the shared shell unchanged, kept the host template isolated, and preserved bilingual locale parity
+- `Verified`: Unit ID: `UNIT-051`
+- `Verified`: Summary: authored the bounded minimal story split plan package, selected the next safe family shift after the completed trust-support chain, and preserved a documentation-only boundary before the next runtime implementation unit
 
 ## Verification Status
 
-- `Verified`: Verdict: PASS for `UNIT-050`; the bounded minimal trust stat strip verification unit is complete
-- `Verified`: Evidence: `git diff --name-only HEAD^ HEAD`; `git diff --name-only HEAD^ HEAD -- project`; `git show --stat --name-only --format=fuller HEAD`; JSON parsing and template-shape validation via `node -`; locale subtree parity via `node -`; `grep` render-call check for `stone-section-shell`; forbidden-scope grep via `grep`; protected-surface diff via `git diff --name-only`; `node HARNESS/checks/check-state-artifacts.mjs`; `node HARNESS/checks/check-next-action-scope.mjs`; `node HARNESS/checks/check-plan-exists.mjs`; `node HARNESS/checks/check-handoff-completeness.mjs`; `node HARNESS/checks/check-approval-state.mjs`; `node HARNESS/checks/check-lock-state.mjs`; `node HARNESS/checks/harness-check.mjs`
+- `Verified`: Verdict: PASS for `UNIT-051`; the bounded minimal story split planning unit is complete
+- `Verified`: Evidence: `workspace/plans/phase-2-minimal-story-split-v1/PLAN.v1.md`; `workspace/plans/phase-2-minimal-story-split-v1/ASSUMPTIONS.v1.md`; `workspace/plans/phase-2-minimal-story-split-v1/CHECKS.v1.md`; `workspace/plans/phase-2-minimal-story-split-v1/RISKS.v1.md`; `workspace/plans/phase-2-minimal-story-split-v1/HANDOFF.v1.md`; `node HARNESS/checks/check-state-artifacts.mjs`; `node HARNESS/checks/check-next-action-scope.mjs`; `node HARNESS/checks/check-plan-exists.mjs`; `node HARNESS/checks/check-handoff-completeness.mjs`; `node HARNESS/checks/check-approval-state.mjs`; `node HARNESS/checks/check-lock-state.mjs`; `node HARNESS/checks/harness-check.mjs`
 
 ## Active Blockers
 
-- `Verified`: Broader runtime implementation remains blocked beyond the approved `UNIT-051` planning scope until the next bounded slice is authored.
-- `Inference`: Any next trust-and-support slice that begins requiring protected-surface edits, custom JS, rating, review, guarantee, counter, badge, or icon behavior should be treated as a replanning signal rather than permission to broaden scope.
+- `Verified`: Broader runtime implementation remains blocked beyond the approved `UNIT-052` implementation scope until the planned story-split slice is executed.
+- `Inference`: Any story-split implementation that begins requiring protected-surface edits, custom JS, hero semantics, gallery behavior, video behavior, slider behavior, overlay treatment, or shoppable-media behavior should be treated as a replanning signal rather than permission to broaden scope.
 
 ## Resume Notes
 
