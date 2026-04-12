@@ -3,31 +3,26 @@
 ## Status
 
 - `Verified`: Approval State: APPROVED
-- `Verified`: Execution Class: verification
+- `Verified`: Execution Class: phase-3-docs-planning
 - `Verified`: Priority: high
 
 ## Approved Unit
 
-- `UNIT-094` Verify the category media band slice.
+- `UNIT-095` Author the post-category-media-band merchandising frontier review.
 
 ## Objective
 
-- `Verified`: Verify that the category media band slice stayed inside the exact approved six-file runtime boundary.
-- `Verified`: Verify that `stone-category-media-band` reuses `stone-collection-card`, stays limited to exactly two explicit collection settings, and remains collection-link-only.
-- `Verified`: Verify that the slice remained non-JS and free of protected-surface or heavier-commerce drift.
+- `Verified`: Re-evaluate Stone V2 immediately after the verified category media band slice.
+- `Verified`: Decide whether the next honest move should remain inside the merchandising family, pause runtime expansion, or shift to a different governed planning problem.
+- `Verified`: If continuation is justified, author one docs-only planning package with exact scope, checks, risks, and stop conditions for the next bounded step.
 
 ## Plan Reference
 
-- `Path:` `workspace/plans/phase-3-category-media-band-boundary-v1/PLAN.v1.md`
+- `Not required`: This is a docs-only frontier review following verified `UNIT-094`.
 
 ## Allowed Files Or Surfaces
 
-- `project/assets/stone-base.css`
-- `project/snippets/stone-collection-card.liquid`
-- `project/sections/stone-category-media-band.liquid`
-- `project/templates/page.stone-runtime-category-media-band.json`
-- `project/locales/he.default.schema.json`
-- `project/locales/en.schema.json`
+- `workspace/plans/`
 - `state/`
 - `workspace/handoff/CURRENT_HANDOFF.md`
 
@@ -43,4 +38,4 @@
 
 ## Stop Condition
 
-Stop if verification finds any runtime file outside the approved six runtime files, any missing shared-snippet reuse, any extra setting or new runtime file, any JS or protected-surface edits, or any heavier-commerce behavior. Fail closed instead of normalizing drift.
+Stop if the frontier review attempts runtime work, widens beyond docs-only planning surfaces, retroactively loosens the verified category media band boundary, or authorizes JS, protected-surface edits, extra runtime files, or heavier-commerce behavior without a new explicit bounded package.

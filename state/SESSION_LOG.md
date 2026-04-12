@@ -8,6 +8,39 @@
 
 ### Session Entry
 
+- Timestamp: 2026-04-13 01:00 Asia/Jerusalem
+- Skill or Mode: `verification`
+- Summary: verified the bounded category media band slice, confirmed exact six-file runtime scope, confirmed shared collection-card reuse and exact two-setting boundary, and advanced governed state to the next docs-only frontier review unit
+- Files changed:
+  - `state/ORCHESTRATION_STATE.md`
+  - `state/STATUS.md`
+  - `state/NEXT_ACTION.md`
+  - `state/FEATURE_STATUS.md`
+  - `state/PROGRESS.md`
+  - `state/SESSION_LOG.md`
+  - `workspace/handoff/CURRENT_HANDOFF.md`
+- Checks run:
+  - `git show --stat --name-only --format=fuller HEAD`
+  - `git diff --name-only HEAD^ HEAD`
+  - `git diff --name-only HEAD^ HEAD -- project`
+  - exact runtime boundary validation via `node -`
+  - template and locale parity validation via `node -`
+  - `grep` shared-snippet and media-band checks for `stone-collection-card`, `media-band-lead`, and `media-band-support`
+  - explicit collection-setting validation via `grep` and `node -`
+  - forbidden-scope grep via `grep`
+  - protected-surface diff via `git diff --name-only`
+  - `node HARNESS/checks/check-state-artifacts.mjs`
+  - `node HARNESS/checks/check-next-action-scope.mjs`
+  - `node HARNESS/checks/check-plan-exists.mjs`
+  - `node HARNESS/checks/check-handoff-completeness.mjs`
+  - `node HARNESS/checks/check-approval-state.mjs`
+  - `node HARNESS/checks/check-lock-state.mjs`
+  - `node HARNESS/checks/harness-check.mjs`
+- Result: PASS
+- Follow-up: execute `UNIT-095` only as a docs-only post-category-media-band merchandising frontier review
+
+### Session Entry
+
 - Timestamp: 2026-04-13 00:17 Asia/Jerusalem
 - Skill or Mode: `project-build`
 - Summary: implemented the bounded category media band slice using one new image-led category-band section and the shared collection-card contract inside the exact approved six-file runtime boundary

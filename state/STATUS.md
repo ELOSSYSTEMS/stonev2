@@ -3,7 +3,7 @@
 ## Snapshot
 
 - `Verified`: Repo state: harness foundation populated
-- `Verified`: Storefront runtime state: the broader merchandising foundation slice, spotlight product-discovery variant, verified category-entry slice, verified category-entry spotlight variant, and distinct category media band slice are all now implemented inside bounded six-file scopes.
+- `Verified`: Storefront runtime state: the broader merchandising foundation slice, spotlight product-discovery variant, verified category-entry slice, verified category-entry spotlight variant, and verified category media band slice are complete, and the repo is ready for a docs-only post-category-media-band frontier review.
 - `Verified`: Architecture authority: the five documents under `docs/architecture/`
 - `Verified`: Current active planning package: `workspace/plans/phase-3-category-media-band-boundary-v1/`
 
@@ -28,16 +28,16 @@
 - `Verified`: Preserve Hebrew-first assumptions
 - `Verified`: Treat bilingual Hebrew and English editor support as a core architectural requirement
 - `Verified`: Do not copy code or markup from external reference themes
-- `Verified`: The category media band slice remains non-JS and collection-link-only
+- `Verified`: The verified category media band slice remains non-JS and collection-link-only
 
 ## Current Outcome
 
 - `Verified`: `UNIT-092` concluded the next honest move was one new image-led category-band section rather than further tuning inside `stone-category-entry-grid`.
-- `Verified`: `UNIT-093` implemented `project/sections/stone-category-media-band.liquid`, `project/templates/page.stone-runtime-category-media-band.json`, bounded CSS in `project/assets/stone-base.css`, scoped `stone-collection-card` updates in `project/snippets/stone-collection-card.liquid`, and paired locale updates in `project/locales/he.default.schema.json` and `project/locales/en.schema.json`.
-- `Verified`: `UNIT-093` stayed inside the exact approved six runtime files and kept the section limited to two explicit collection settings.
-- `Inference`: The repo is ready for bounded verification of the category media band slice.
+- `Verified`: `UNIT-093` implemented that category-band section by extending the shared collection-card contract and adding one new section/template pair inside the approved boundary.
+- `Verified`: `UNIT-094` confirmed exact six-file boundary compliance, shared collection-card reuse, exact two-setting collection selection, locale parity, and absence of protected-surface or heavier-commerce drift.
+- `Inference`: The repo is ready for a docs-only frontier review before any further runtime merchandising expansion.
 
 ## Risks And Blocks
 
-- `Verified`: Runtime expansion remains paused pending `UNIT-094` verification.
-- `Inference`: Any discovered need for extra files, extra settings, pricing logic, product behavior, JS, protected-surface edits, rails/carousels, or shoppable-media behavior should trigger a new docs-only boundary decision rather than widening the approved slice.
+- `Verified`: Runtime expansion remains paused until `UNIT-095` records the next bounded Phase 3 decision.
+- `Inference`: Any discovered need for extra files, extra settings, pricing logic, product behavior, JS, protected-surface edits, rails/carousels, shoppable-media behavior, or mixed collection-plus-product merchandising should trigger a new docs-only boundary decision rather than widening the verified slice.
