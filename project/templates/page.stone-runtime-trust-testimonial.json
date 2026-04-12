@@ -1,0 +1,40 @@
+{
+  "sections": {
+    "main": {
+      "type": "stone-trust-testimonial",
+      "settings": {
+        "heading": "Runtime trust testimonial",
+        "intro": "<p>Use this section for restrained static quote proof only.</p>",
+        "surface_style": "soft",
+        "layout_mode": "grid",
+        "width_mode": "standard",
+        "spacing_mode": "standard"
+      },
+      "blocks": {
+        "item_1": {
+          "type": "item",
+          "settings": {
+            "quote": "<p>Clear structure and strong RTL defaults reduced setup time for our local rollout.</p>",
+            "author_name": "Studio team",
+            "author_context": "Migration project"
+          }
+        },
+        "item_2": {
+          "type": "item",
+          "settings": {
+            "quote": "<p>The editor stayed predictable, so we could ship a clean storefront without reopening the code for small content updates.</p>",
+            "author_name": "Commerce lead",
+            "author_context": "Client delivery"
+          }
+        }
+      },
+      "block_order": [
+        "item_1",
+        "item_2"
+      ]
+    }
+  },
+  "order": [
+    "main"
+  ]
+}

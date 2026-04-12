@@ -1100,6 +1100,95 @@
           }
         }
       }
+    },
+    "stone_trust_testimonial": {
+      "name": "Trust testimonial",
+      "empty": "Add testimonial items to validate restrained quote-based proof.",
+      "settings": {
+        "heading": {
+          "label": "Section heading",
+          "info": "Optional. Displays a neutral heading above the testimonial proof."
+        },
+        "intro": {
+          "label": "Intro text",
+          "info": "Optional. Displays short neutral trust copy above the testimonial items."
+        },
+        "surface_style": {
+          "label": "Surface style",
+          "info": "Controls the restrained surface treatment for the testimonial section.",
+          "options": {
+            "outline": {
+              "label": "Outline"
+            },
+            "soft": {
+              "label": "Soft surface"
+            }
+          }
+        },
+        "layout_mode": {
+          "label": "Layout mode",
+          "info": "Controls whether testimonial items stay stacked or form a restrained grid.",
+          "options": {
+            "grid": {
+              "label": "Grid"
+            },
+            "stack": {
+              "label": "Stack"
+            }
+          }
+        },
+        "width_mode": {
+          "label": "Width mode",
+          "info": "Controls the neutral container width for the section shell.",
+          "options": {
+            "narrow": {
+              "label": "Narrow"
+            },
+            "standard": {
+              "label": "Standard"
+            },
+            "wide": {
+              "label": "Wide"
+            }
+          }
+        },
+        "spacing_mode": {
+          "label": "Spacing mode",
+          "info": "Controls the neutral vertical spacing of the section shell.",
+          "options": {
+            "compact": {
+              "label": "Compact"
+            },
+            "standard": {
+              "label": "Balanced"
+            },
+            "relaxed": {
+              "label": "Relaxed"
+            }
+          }
+        }
+      },
+      "blocks": {
+        "item": {
+          "name": "Testimonial item",
+          "empty_quote": "Add one short quote to complete this testimonial item.",
+          "fallback_author": "Source name",
+          "settings": {
+            "quote": {
+              "label": "Quote",
+              "info": "Add one short static quote for this testimonial item."
+            },
+            "author_name": {
+              "label": "Author name",
+              "info": "Optional. Use a short source name for the quote."
+            },
+            "author_context": {
+              "label": "Author context",
+              "info": "Optional. Add short source context, such as role or project type."
+            }
+          }
+        }
+      }
     }
   }
 }
