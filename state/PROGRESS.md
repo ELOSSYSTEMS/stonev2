@@ -2,26 +2,26 @@
 
 ## Current Phase
 
-- `Verified`: Roadmap phase: the bounded object-aware article-highlights verification unit is complete and the repo is back at a docs-only planning boundary
+- `Verified`: Roadmap phase: the bounded post-object-aware frontier review unit is complete and the repo is positioned for one docs-only boundary-authoring decision
 
 ## Approved Next Action
 
-- `Verified`: `UNIT-070` plan the next post-object-aware frontier step, or stop runtime expansion explicitly
+- `Verified`: `UNIT-071` author or reject a docs-only approval boundary for one collection-companion candidate
 
 ## Last Completed Unit
 
-- `Verified`: Unit ID: `UNIT-069`
-- `Verified`: Summary: verified the first bounded object-aware article-highlights slice, confirmed five-file boundary compliance, confirmed read-only object access and non-JS discipline, and returned the repo to a docs-only frontier-planning boundary
+- `Verified`: Unit ID: `UNIT-070`
+- `Verified`: Summary: reviewed the frontier after the first verified object-aware content/blog proof, rejected automatic further blog/article runtime slices, and selected one collection-companion candidate as the only justified next boundary case if Phase 2 continues
 
 ## Verification Status
 
-- `Verified`: Verdict: PASS for `UNIT-069`; the bounded object-aware article-highlights verification unit is complete
-- `Verified`: Evidence: `git diff --name-only HEAD^ HEAD`; `git diff --name-only HEAD^ HEAD -- project`; `git show --stat --name-only --format=fuller HEAD`; JSON parsing and template-shape validation via `node -`; locale subtree parity via `node -`; `grep` render-call check for `stone-section-shell`; `grep` object-access check for `blogs[stone_blog_handle]`; forbidden-scope grep via `grep`; protected-surface diff via `git diff --name-only HEAD^ HEAD -- project/layout project/assets/stone-runtime.js project/config project/snippets project/blocks`; `node HARNESS/checks/check-state-artifacts.mjs`; `node HARNESS/checks/check-next-action-scope.mjs`; `node HARNESS/checks/check-plan-exists.mjs`; `node HARNESS/checks/check-handoff-completeness.mjs`; `node HARNESS/checks/check-approval-state.mjs`; `node HARNESS/checks/check-lock-state.mjs`; `node HARNESS/checks/harness-check.mjs`
+- `Verified`: Verdict: PASS for `UNIT-070`; the bounded post-object-aware frontier review unit is complete
+- `Verified`: Evidence: `workspace/plans/phase-2-post-object-aware-frontier-review-v1/PLAN.v1.md`; `workspace/plans/phase-2-post-object-aware-frontier-review-v1/ASSUMPTIONS.v1.md`; `workspace/plans/phase-2-post-object-aware-frontier-review-v1/CHECKS.v1.md`; `workspace/plans/phase-2-post-object-aware-frontier-review-v1/RISKS.v1.md`; `workspace/plans/phase-2-post-object-aware-frontier-review-v1/HANDOFF.v1.md`; `workspace/plans/phase-2-object-aware-content-blog-boundary-v1/PLAN.v1.md`; `node HARNESS/checks/check-state-artifacts.mjs`; `node HARNESS/checks/check-next-action-scope.mjs`; `node HARNESS/checks/check-plan-exists.mjs`; `node HARNESS/checks/check-handoff-completeness.mjs`; `node HARNESS/checks/check-approval-state.mjs`; `node HARNESS/checks/check-lock-state.mjs`; `node HARNESS/checks/harness-check.mjs`
 
 ## Active Blockers
 
-- `Verified`: Broader runtime implementation remains blocked beyond the approved `UNIT-070` docs-only planning scope until another bounded case is justified.
-- `Inference`: Any discovered need to exceed the formalized boundary should be treated as a reason to pause runtime work and replan, not as permission to normalize scope expansion.
+- `Verified`: Broader runtime implementation remains blocked beyond the approved `UNIT-071` docs-only boundary-authoring scope until a collection-companion case is justified explicitly.
+- `Inference`: Any discovered need to exceed the currently formalized boundary should be treated as a reason to pause runtime work and replan, not as permission to normalize scope expansion.
 
 ## Resume Notes
 

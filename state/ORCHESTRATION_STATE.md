@@ -8,14 +8,14 @@
 
 ## Current Phase
 
-- `Verified`: Active roadmap phase: Phase 2 docs-only planning readiness after verified object-aware article-highlights proof
-- `Verified`: Last completed phase slice: Phase 2 post-object-aware frontier planning slice
-- `Inference`: Next bounded slice: decide whether another bounded expansion remains justified after the first verified object-aware content/blog proof
+- `Verified`: Active roadmap phase: Phase 2 docs-only approval-boundary readiness for a collection-companion candidate
+- `Verified`: Last completed phase slice: Phase 2 collection-companion boundary planning slice
+- `Inference`: Next bounded slice: author or reject a docs-only approval boundary for one collection-companion candidate after the verified object-aware content/blog proof
 
 ## Approval State
 
 - `Verified`: Current next action approval: APPROVED
-- `Verified`: Approval basis: `UNIT-069` verified the first bounded object-aware article-highlights slice, confirmed it stayed inside the approved five runtime files, and returned the repo to a docs-only planning boundary
+- `Verified`: Approval basis: `UNIT-070` reviewed the post-object-aware frontier, rejected automatic further blog/article expansion, and advanced the repo to one docs-only collection-companion boundary decision unit
 
 ## Lock State
 

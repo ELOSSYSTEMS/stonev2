@@ -8,6 +8,35 @@
 
 ### Session Entry
 
+- Timestamp: 2026-04-12 16:49 Asia/Jerusalem
+- Skill or Mode: `project-plan`
+- Summary: reviewed the frontier after the first verified object-aware proof, rejected automatic further blog/article runtime work, and advanced the repo to a docs-only collection-companion boundary decision
+- Files changed:
+  - `workspace/plans/phase-2-post-object-aware-frontier-review-v1/PLAN.v1.md`
+  - `workspace/plans/phase-2-post-object-aware-frontier-review-v1/ASSUMPTIONS.v1.md`
+  - `workspace/plans/phase-2-post-object-aware-frontier-review-v1/CHECKS.v1.md`
+  - `workspace/plans/phase-2-post-object-aware-frontier-review-v1/RISKS.v1.md`
+  - `workspace/plans/phase-2-post-object-aware-frontier-review-v1/HANDOFF.v1.md`
+  - `state/ORCHESTRATION_STATE.md`
+  - `state/STATUS.md`
+  - `state/NEXT_ACTION.md`
+  - `state/FEATURE_STATUS.md`
+  - `state/PROGRESS.md`
+  - `state/SESSION_LOG.md`
+  - `workspace/handoff/CURRENT_HANDOFF.md`
+- Checks run:
+  - `node HARNESS/checks/check-state-artifacts.mjs`
+  - `node HARNESS/checks/check-next-action-scope.mjs`
+  - `node HARNESS/checks/check-plan-exists.mjs`
+  - `node HARNESS/checks/check-handoff-completeness.mjs`
+  - `node HARNESS/checks/check-approval-state.mjs`
+  - `node HARNESS/checks/check-lock-state.mjs`
+  - `node HARNESS/checks/harness-check.mjs`
+- Result: PASS
+- Follow-up: execute `UNIT-071` only as a docs-only collection-companion boundary step, or reject further Phase 2 runtime expansion explicitly
+
+### Session Entry
+
 - Timestamp: 2026-04-12 16:42 Asia/Jerusalem
 - Skill or Mode: `project-verify`
 - Summary: verified the first bounded object-aware article-highlights slice, confirmed five-file boundary compliance, and returned the repo to a docs-only frontier-planning boundary
