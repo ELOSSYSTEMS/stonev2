@@ -1373,6 +1373,102 @@
           }
         }
       }
+    },
+    "stone_content_card_strip": {
+      "name": "Content card strip",
+      "empty": "Add card items to validate this restrained editorial card strip.",
+      "settings": {
+        "heading": {
+          "label": "Section heading",
+          "info": "Optional. Displays a neutral heading above the card strip."
+        },
+        "intro": {
+          "label": "Intro text",
+          "info": "Optional. Displays short editorial copy above the cards."
+        },
+        "surface_style": {
+          "label": "Surface style",
+          "info": "Controls the restrained surface treatment for the card strip.",
+          "options": {
+            "outline": {
+              "label": "Outline"
+            },
+            "soft": {
+              "label": "Soft surface"
+            }
+          }
+        },
+        "layout_mode": {
+          "label": "Layout mode",
+          "info": "Controls whether cards stay stacked or form a restrained grid.",
+          "options": {
+            "grid": {
+              "label": "Grid"
+            },
+            "stack": {
+              "label": "Stack"
+            }
+          }
+        },
+        "width_mode": {
+          "label": "Width mode",
+          "info": "Controls the neutral container width for the section shell.",
+          "options": {
+            "narrow": {
+              "label": "Narrow"
+            },
+            "standard": {
+              "label": "Standard"
+            },
+            "wide": {
+              "label": "Wide"
+            }
+          }
+        },
+        "spacing_mode": {
+          "label": "Spacing mode",
+          "info": "Controls the neutral vertical spacing of the section shell.",
+          "options": {
+            "compact": {
+              "label": "Compact"
+            },
+            "standard": {
+              "label": "Balanced"
+            },
+            "relaxed": {
+              "label": "Relaxed"
+            }
+          }
+        }
+      },
+      "blocks": {
+        "item": {
+          "name": "Card item",
+          "fallback_heading": "Card heading",
+          "settings": {
+            "image": {
+              "label": "Image",
+              "info": "Optional. Adds one image to the card."
+            },
+            "card_heading": {
+              "label": "Card heading",
+              "info": "Add a short heading for this editorial card."
+            },
+            "body": {
+              "label": "Body",
+              "info": "Optional. Add short supporting copy for this card."
+            },
+            "link_label": {
+              "label": "Link label",
+              "info": "Optional. Adds one native link label for this card."
+            },
+            "link_url": {
+              "label": "Link URL",
+              "info": "Optional. Adds the destination for the card link."
+            }
+          }
+        }
+      }
     }
   }
 }

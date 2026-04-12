@@ -1,0 +1,42 @@
+{
+  "sections": {
+    "main": {
+      "type": "stone-content-card-strip",
+      "settings": {
+        "heading": "Runtime content card strip",
+        "intro": "<p>Use this section for restrained repeated editorial cards with static copy and native links.</p>",
+        "surface_style": "soft",
+        "layout_mode": "grid",
+        "width_mode": "standard",
+        "spacing_mode": "standard"
+      },
+      "blocks": {
+        "item_1": {
+          "type": "item",
+          "settings": {
+            "card_heading": "Editorial reference one",
+            "body": "<p>Short supporting copy for one manual editorial card.</p>",
+            "link_label": "Open item",
+            "link_url": "/pages/runtime-content-card-strip"
+          }
+        },
+        "item_2": {
+          "type": "item",
+          "settings": {
+            "card_heading": "Editorial reference two",
+            "body": "<p>Second static card example for layout validation.</p>",
+            "link_label": "View item",
+            "link_url": "/pages/runtime-content-card-strip"
+          }
+        }
+      },
+      "block_order": [
+        "item_1",
+        "item_2"
+      ]
+    }
+  },
+  "order": [
+    "main"
+  ]
+}

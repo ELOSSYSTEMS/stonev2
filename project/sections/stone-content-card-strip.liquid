@@ -1,0 +1,234 @@
+{%- liquid
+  assign stone_heading = section.settings.heading | strip
+  assign stone_intro = section.settings.intro
+  assign stone_intro_plain = stone_intro | strip_html | strip
+  assign stone_surface_style = section.settings.surface_style | default: 'outline'
+  assign stone_layout_mode = section.settings.layout_mode | default: 'grid'
+
+  capture stone_section_content
+    echo '<div class="stone-content-card-strip stone-content-card-strip--'
+    echo stone_surface_style | escape
+    echo ' stone-content-card-strip--'
+    echo stone_layout_mode | escape
+    echo '">'
+
+    if stone_intro_plain != blank
+      echo '<div class="stone-content-card-strip__intro stone-richtext-flow rte">'
+      echo stone_intro
+      echo '</div>'
+    endif
+
+    if section.blocks.size > 0
+      echo '<div class="stone-content-card-strip__items">'
+      for block in section.blocks
+        assign stone_image = block.settings.image
+        assign stone_heading_text = block.settings.card_heading | strip
+        assign stone_body = block.settings.body
+        assign stone_body_plain = stone_body | strip_html | strip
+        assign stone_link_label = block.settings.link_label | strip
+        assign stone_link_url = block.settings.link_url
+
+        if stone_heading_text != blank or stone_body_plain != blank or stone_link_label != blank or stone_image != blank
+          echo '<article class="stone-content-card-strip__item"'
+          echo block.shopify_attributes
+          echo '>'
+
+          if stone_image != blank
+            echo '<div class="stone-content-card-strip__media">'
+            echo stone_image | image_url: width: 960 | image_tag: class: 'stone-content-card-strip__image', loading: 'lazy', widths: '320, 480, 640, 960', sizes: '(min-width: 48rem) 22rem, 100vw'
+            echo '</div>'
+          endif
+
+          echo '<div class="stone-content-card-strip__content">'
+          if stone_heading_text != blank
+            echo '<h3 class="stone-content-card-strip__heading">'
+            echo stone_heading_text | escape
+            echo '</h3>'
+          else
+            echo '<p class="stone-content-card-strip__heading">'
+            echo 'sections.stone_content_card_strip.blocks.item.fallback_heading' | t
+            echo '</p>'
+          endif
+
+          if stone_body_plain != blank
+            echo '<div class="stone-content-card-strip__body stone-richtext-flow rte">'
+            echo stone_body
+            echo '</div>'
+          endif
+
+          if stone_link_label != blank and stone_link_url != blank
+            echo '<a class="stone-content-card-strip__link" href="'
+            echo stone_link_url | escape
+            echo '">'
+            echo stone_link_label | escape
+            echo '</a>'
+          endif
+          echo '</div>'
+
+          echo '</article>'
+        endif
+      endfor
+      echo '</div>'
+    else
+      echo '<p class="stone-content-card-strip__empty">'
+      echo 'sections.stone_content_card_strip.empty' | t
+      echo '</p>'
+    endif
+
+    echo '</div>'
+  endcapture
+
+  render 'stone-section-shell',
+    section: section,
+    heading: stone_heading,
+    content: stone_section_content,
+    width: section.settings.width_mode,
+    spacing: section.settings.spacing_mode,
+    shell_class: 'stone-content-card-strip-shell'
+-%}
+
+{% schema %}
+{
+  "name": "t:sections.stone_content_card_strip.name",
+  "tag": "section",
+  "class": "shopify-section--stone-content-card-strip",
+  "max_blocks": 4,
+  "settings": [
+    {
+      "type": "text",
+      "id": "heading",
+      "label": "t:sections.stone_content_card_strip.settings.heading.label",
+      "info": "t:sections.stone_content_card_strip.settings.heading.info"
+    },
+    {
+      "type": "richtext",
+      "id": "intro",
+      "label": "t:sections.stone_content_card_strip.settings.intro.label",
+      "info": "t:sections.stone_content_card_strip.settings.intro.info"
+    },
+    {
+      "type": "select",
+      "id": "surface_style",
+      "label": "t:sections.stone_content_card_strip.settings.surface_style.label",
+      "info": "t:sections.stone_content_card_strip.settings.surface_style.info",
+      "default": "outline",
+      "options": [
+        {
+          "value": "outline",
+          "label": "t:sections.stone_content_card_strip.settings.surface_style.options.outline.label"
+        },
+        {
+          "value": "soft",
+          "label": "t:sections.stone_content_card_strip.settings.surface_style.options.soft.label"
+        }
+      ]
+    },
+    {
+      "type": "select",
+      "id": "layout_mode",
+      "label": "t:sections.stone_content_card_strip.settings.layout_mode.label",
+      "info": "t:sections.stone_content_card_strip.settings.layout_mode.info",
+      "default": "grid",
+      "options": [
+        {
+          "value": "grid",
+          "label": "t:sections.stone_content_card_strip.settings.layout_mode.options.grid.label"
+        },
+        {
+          "value": "stack",
+          "label": "t:sections.stone_content_card_strip.settings.layout_mode.options.stack.label"
+        }
+      ]
+    },
+    {
+      "type": "select",
+      "id": "width_mode",
+      "label": "t:sections.stone_content_card_strip.settings.width_mode.label",
+      "info": "t:sections.stone_content_card_strip.settings.width_mode.info",
+      "default": "standard",
+      "options": [
+        {
+          "value": "narrow",
+          "label": "t:sections.stone_content_card_strip.settings.width_mode.options.narrow.label"
+        },
+        {
+          "value": "standard",
+          "label": "t:sections.stone_content_card_strip.settings.width_mode.options.standard.label"
+        },
+        {
+          "value": "wide",
+          "label": "t:sections.stone_content_card_strip.settings.width_mode.options.wide.label"
+        }
+      ]
+    },
+    {
+      "type": "select",
+      "id": "spacing_mode",
+      "label": "t:sections.stone_content_card_strip.settings.spacing_mode.label",
+      "info": "t:sections.stone_content_card_strip.settings.spacing_mode.info",
+      "default": "standard",
+      "options": [
+        {
+          "value": "compact",
+          "label": "t:sections.stone_content_card_strip.settings.spacing_mode.options.compact.label"
+        },
+        {
+          "value": "standard",
+          "label": "t:sections.stone_content_card_strip.settings.spacing_mode.options.standard.label"
+        },
+        {
+          "value": "relaxed",
+          "label": "t:sections.stone_content_card_strip.settings.spacing_mode.options.relaxed.label"
+        }
+      ]
+    }
+  ],
+  "blocks": [
+    {
+      "type": "item",
+      "name": "t:sections.stone_content_card_strip.blocks.item.name",
+      "settings": [
+        {
+          "type": "image_picker",
+          "id": "image",
+          "label": "t:sections.stone_content_card_strip.blocks.item.settings.image.label",
+          "info": "t:sections.stone_content_card_strip.blocks.item.settings.image.info"
+        },
+        {
+          "type": "text",
+          "id": "card_heading",
+          "label": "t:sections.stone_content_card_strip.blocks.item.settings.card_heading.label",
+          "info": "t:sections.stone_content_card_strip.blocks.item.settings.card_heading.info"
+        },
+        {
+          "type": "richtext",
+          "id": "body",
+          "label": "t:sections.stone_content_card_strip.blocks.item.settings.body.label",
+          "info": "t:sections.stone_content_card_strip.blocks.item.settings.body.info"
+        },
+        {
+          "type": "text",
+          "id": "link_label",
+          "label": "t:sections.stone_content_card_strip.blocks.item.settings.link_label.label",
+          "info": "t:sections.stone_content_card_strip.blocks.item.settings.link_label.info"
+        },
+        {
+          "type": "url",
+          "id": "link_url",
+          "label": "t:sections.stone_content_card_strip.blocks.item.settings.link_url.label",
+          "info": "t:sections.stone_content_card_strip.blocks.item.settings.link_url.info"
+        }
+      ]
+    }
+  ],
+  "presets": [
+    {
+      "name": "t:sections.stone_content_card_strip.name",
+      "blocks": [
+        { "type": "item" },
+        { "type": "item" }
+      ]
+    }
+  ]
+}
+{% endschema %}
