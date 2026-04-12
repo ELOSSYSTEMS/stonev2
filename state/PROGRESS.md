@@ -2,25 +2,25 @@
 
 ## Current Phase
 
-- `Verified`: Roadmap phase: the bounded product context card verification unit is complete and the repo is back at a docs-only planning boundary
+- `Verified`: Roadmap phase: the bounded post-pdp frontier review unit is complete and bounded runtime expansion is paused at the current verified frontier
 
 ## Approved Next Action
 
-- `Verified`: `UNIT-078` plan the next post-PDP frontier step, or stop runtime expansion explicitly
+- `Verified`: `UNIT-078` complete, bounded runtime expansion paused under current rules
 
 ## Last Completed Unit
 
-- `Verified`: Unit ID: `UNIT-077`
-- `Verified`: Summary: verified the first bounded product context card slice, confirmed five-file boundary compliance, confirmed read-only product access and non-JS discipline, and returned the repo to a docs-only frontier-planning boundary
+- `Verified`: Unit ID: `UNIT-078`
+- `Verified`: Summary: reviewed the frontier after the first verified PDP-companion proof, rejected further automatic micro-slices, and paused bounded runtime expansion at the current verified frontier
 
 ## Verification Status
 
-- `Verified`: Verdict: PASS for `UNIT-077`; the bounded product context card verification unit is complete
-- `Verified`: Evidence: `git diff --name-only HEAD^ HEAD`; `git diff --name-only HEAD^ HEAD -- project`; `git show --stat --name-only --format=fuller HEAD`; JSON parsing and template-shape validation via `node -`; locale subtree parity via `node -`; `grep` render-call check for `stone-section-shell`; `grep` product-setting check for `all_products[stone_product_handle]`; forbidden-scope grep via `grep`; protected-surface diff via `git diff --name-only HEAD^ HEAD -- project/layout project/assets/stone-runtime.js project/config project/snippets project/blocks`; `node HARNESS/checks/check-state-artifacts.mjs`; `node HARNESS/checks/check-next-action-scope.mjs`; `node HARNESS/checks/check-plan-exists.mjs`; `node HARNESS/checks/check-handoff-completeness.mjs`; `node HARNESS/checks/check-approval-state.mjs`; `node HARNESS/checks/check-lock-state.mjs`; `node HARNESS/checks/harness-check.mjs`
+- `Verified`: Verdict: PASS for `UNIT-078`; the bounded post-PDP frontier review unit is complete
+- `Verified`: Evidence: `workspace/plans/phase-2-post-pdp-frontier-review-v1/PLAN.v1.md`; `workspace/plans/phase-2-post-pdp-frontier-review-v1/ASSUMPTIONS.v1.md`; `workspace/plans/phase-2-post-pdp-frontier-review-v1/CHECKS.v1.md`; `workspace/plans/phase-2-post-pdp-frontier-review-v1/RISKS.v1.md`; `workspace/plans/phase-2-post-pdp-frontier-review-v1/HANDOFF.v1.md`; `workspace/plans/phase-2-pdp-companion-boundary-v1/PLAN.v1.md`; `node HARNESS/checks/check-state-artifacts.mjs`; `node HARNESS/checks/check-next-action-scope.mjs`; `node HARNESS/checks/check-plan-exists.mjs`; `node HARNESS/checks/check-handoff-completeness.mjs`; `node HARNESS/checks/check-approval-state.mjs`; `node HARNESS/checks/check-lock-state.mjs`; `node HARNESS/checks/harness-check.mjs`
 
 ## Active Blockers
 
-- `Verified`: Broader runtime implementation remains blocked beyond the approved `UNIT-078` docs-only planning scope until another bounded case is justified.
+- `Verified`: Broader runtime implementation remains paused until a broader explicit planning package is requested and approved.
 - `Inference`: Any discovered need to exceed the formalized collection-companion boundary should be treated as a governance failure rather than permission to normalize scope expansion.
 
 ## Resume Notes

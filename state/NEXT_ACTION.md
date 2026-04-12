@@ -8,12 +8,12 @@
 
 ## Approved Unit
 
-- `UNIT-078` Plan the next post-PDP frontier step, or stop runtime expansion explicitly.
+- `UNIT-078` COMPLETE, no further automatic runtime unit approved under current rules.
 
 ## Objective
 
-- `Verified`: Decide whether the newly verified product context card proof justifies one further bounded expansion candidate, or whether Phase 2 should stop again at the current verified frontier.
-- `Verified`: Keep `UNIT-078` limited to `workspace/plans/`, `state/`, and `workspace/handoff/CURRENT_HANDOFF.md` only.
+- `Verified`: Record the bounded frontier pause after the verified PDP-companion proof and do not authorize another automatic runtime unit under the current micro-slice protocol.
+- `Verified`: `UNIT-078` remains limited to `workspace/plans/`, `state/`, and `workspace/handoff/CURRENT_HANDOFF.md` only.
 
 ## Plan Reference
 
@@ -37,4 +37,4 @@
 
 ## Stop Condition
 
-Stop if the next planning unit attempts to normalize broader runtime expansion without recording an exact distinctness case, exact allowed files, preserved rules, and exact stop conditions; stay docs-only unless a new bounded case is justified.
+Stop if any next step tries to authorize more runtime work under the current micro-slice protocol without a broader explicit planning package; keep runtime paused until a new planning boundary is approved.

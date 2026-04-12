@@ -8,14 +8,14 @@
 
 ## Current Phase
 
-- `Verified`: Active roadmap phase: Phase 2 docs-only planning readiness after verified product context card proof
-- `Verified`: Last completed phase slice: Phase 2 post-pdp frontier planning slice
-- `Inference`: Next bounded slice: decide whether another bounded expansion remains justified after the first verified PDP-companion proof
+- `Verified`: Active roadmap phase: Phase 2 runtime pause readiness after verified bounded frontier completion
+- `Verified`: Last completed phase slice: Phase 2 bounded frontier pause slice
+- `Inference`: Next bounded slice: pause bounded runtime expansion after the verified PDP-companion proof and require broader planning for any next-phase work
 
 ## Approval State
 
 - `Verified`: Current next action approval: APPROVED
-- `Verified`: Approval basis: `UNIT-077` verified the first bounded product context card slice, confirmed it stayed inside the approved five runtime files, and returned the repo to a docs-only planning boundary
+- `Verified`: Approval basis: `UNIT-078` reviewed the post-PDP frontier, rejected further automatic micro-slices, and paused bounded runtime expansion at the current verified frontier
 
 ## Lock State
 

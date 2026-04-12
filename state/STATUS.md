@@ -116,7 +116,8 @@
 - `Verified`: `UNIT-074` concludes that immediate further collection-aware runtime slices should not continue automatically.
 - `Verified`: `UNIT-075` formalizes one bounded PDP-companion approval boundary with an exact distinctness case, exact new allowance, exact future file scope, and exact stop conditions.
 - `Verified`: `UNIT-077` confirms the repo now includes the first verified bounded PDP-aware runtime slice across the approved five files only: one read-only product context card section, one neutral host template, one bounded CSS extension, and paired locale updates.
-- `Inference`: The next high-value unit is a docs-only frontier-planning decision, not automatic further runtime expansion.
+- `Verified`: `UNIT-078` concludes that bounded runtime expansion should stop at the current verified frontier under the present micro-slice protocol.
+- `Inference`: Any meaningful next execution should begin with a broader planning package rather than another automatic runtime unit.
 
 ## Risks And Blocks
 
@@ -138,5 +139,5 @@
 - `Inference`: `UNIT-040` stays distinct from the verified utility prompt by separating trust-oriented copy from grouped native actions instead of using a single contained generic prompt body.
 - `Inference`: `UNIT-043` continues inside the trust-and-support family and introduces a heavier proof surface than the verified trust-help-prompt slice because it depends on static brand-proof presentation.
 - `Verified`: `UNIT-043` did not touch `project/snippets/stone-section-shell.liquid`, `project/layout/theme.liquid`, `project/assets/stone-runtime.js`, `project/config/settings_schema.json`, or `project/blocks/`.
-- `Verified`: Broader runtime build-out remains blocked beyond the approved `UNIT-078` docs-only planning scope until another bounded case is justified.
-- `Inference`: Any newly discovered need for protected-surface edits, `project/blocks/`, JS-driven behavior, a second section, a second template, broader object behavior, product-card behavior, slider behavior, drawer behavior, overlay behavior, archive/discovery behavior, or page-composition behavior remains a planning concern, not permission to resume runtime work automatically.
+- `Verified`: Broader runtime build-out remains paused until a broader explicit planning package is requested and approved.
+- `Inference`: Any newly discovered need for protected-surface edits, `project/blocks/`, JS-driven behavior, a second section, a second template, broader object behavior, product-card behavior, slider behavior, drawer behavior, overlay behavior, archive/discovery behavior, or page-composition behavior remains a reason to start a broader planning package, not permission to resume runtime work automatically.
