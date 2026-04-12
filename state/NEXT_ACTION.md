@@ -3,25 +3,29 @@
 ## Status
 
 - `Verified`: Approval State: APPROVED
-- `Verified`: Execution Class: phase-2-runtime-planning
+- `Verified`: Execution Class: phase-2-runtime-implementation
 - `Verified`: Priority: high
 
 ## Approved Unit
 
-- `UNIT-054` Author one bounded planning unit for the next Phase 2 runtime slice after verified minimal story split completion.
+- `UNIT-055` Execute the bounded Phase 2 minimal content card strip implementation slice.
 
 ## Objective
 
-- `Verified`: Define the next smallest safe Phase 2 runtime slice after the verified minimal story split proof and capture it as a documentation-only plan package with explicit scope, checks, risks, and stop conditions.
-- `Verified`: Keep `UNIT-054` limited to `workspace/plans/`, `state/`, and `workspace/handoff/CURRENT_HANDOFF.md` only.
+- `Verified`: Implement the approved minimal content card strip slice and keep it bounded to one restrained first content-and-blog proof.
+- `Verified`: Keep `UNIT-055` limited to the approved five runtime files plus state and handoff updates only.
 
 ## Plan Reference
 
-- `Path:` `workspace/plans/phase-2-minimal-story-split-v1/PLAN.v1.md`
+- `Path:` `workspace/plans/phase-2-minimal-content-card-strip-v1/PLAN.v1.md`
 
 ## Allowed Files Or Surfaces
 
-- `workspace/plans/`
+- `project/assets/stone-base.css`
+- `project/sections/stone-content-card-strip.liquid`
+- `project/templates/page.stone-runtime-content-card-strip.json`
+- `project/locales/he.default.schema.json`
+- `project/locales/en.schema.json`
 - `state/`
 - `workspace/handoff/CURRENT_HANDOFF.md`
 
@@ -37,4 +41,4 @@
 
 ## Stop Condition
 
-Stop if planning needs to touch `project/` runtime files, protected surfaces, `project/blocks/`, new snippets, more than one future section, more than one future template, runtime JS, or broad family build-out; stop if the next slice cannot be bounded clearly enough to fit a documentation-only plan package and replan the roadmap instead of improvising scope.
+Stop if implementation needs any file outside `project/assets/stone-base.css`, `project/sections/stone-content-card-strip.liquid`, `project/templates/page.stone-runtime-content-card-strip.json`, `project/locales/he.default.schema.json`, `project/locales/en.schema.json`, `state/`, and `workspace/handoff/CURRENT_HANDOFF.md`; stop if protected-surface edits, `project/blocks/`, any new snippet file, any second section file, any second template file, live blog-object queries, live article-object queries, product-card behavior, slider behavior, drawer behavior, overlay behavior, custom JS-driven behavior, or broader family work becomes necessary, and replan instead of broadening scope.

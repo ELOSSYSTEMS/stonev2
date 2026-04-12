@@ -2,26 +2,26 @@
 
 ## Current Phase
 
-- `Verified`: Roadmap phase: the bounded minimal story split verification unit is complete and the repo is positioned for one bounded runtime planning unit
+- `Verified`: Roadmap phase: the bounded minimal content card strip planning unit is complete and the repo is positioned for one bounded runtime implementation unit
 
 ## Approved Next Action
 
-- `Verified`: `UNIT-054` author one bounded planning unit for the next Phase 2 runtime slice after verified minimal story split completion
+- `Verified`: `UNIT-055` execute the bounded Phase 2 minimal content card strip implementation slice
 
 ## Last Completed Unit
 
-- `Verified`: Unit ID: `UNIT-053`
-- `Verified`: Summary: verified the bounded minimal story split slice, confirmed it stayed inside the approved five-file runtime boundary, reused the shared shell unchanged, kept the host template isolated, and preserved bilingual locale parity
+- `Verified`: Unit ID: `UNIT-054`
+- `Verified`: Summary: authored the bounded minimal content card strip plan package, selected the next safe content-and-blog family slice after story split verification, and preserved a documentation-only boundary before the next runtime implementation unit
 
 ## Verification Status
 
-- `Verified`: Verdict: PASS for `UNIT-053`; the bounded minimal story split verification unit is complete
-- `Verified`: Evidence: `git diff --name-only HEAD^ HEAD`; `git diff --name-only HEAD^ HEAD -- project`; `git show --stat --name-only --format=fuller HEAD`; JSON parsing and template-shape validation via `node -`; locale subtree parity via `node -`; `grep` render-call check for `stone-section-shell`; forbidden-scope grep via `grep`; protected-surface diff via `git diff --name-only`; `node HARNESS/checks/check-state-artifacts.mjs`; `node HARNESS/checks/check-next-action-scope.mjs`; `node HARNESS/checks/check-plan-exists.mjs`; `node HARNESS/checks/check-handoff-completeness.mjs`; `node HARNESS/checks/check-approval-state.mjs`; `node HARNESS/checks/check-lock-state.mjs`; `node HARNESS/checks/harness-check.mjs`
+- `Verified`: Verdict: PASS for `UNIT-054`; the bounded minimal content card strip planning unit is complete
+- `Verified`: Evidence: `workspace/plans/phase-2-minimal-content-card-strip-v1/PLAN.v1.md`; `workspace/plans/phase-2-minimal-content-card-strip-v1/ASSUMPTIONS.v1.md`; `workspace/plans/phase-2-minimal-content-card-strip-v1/CHECKS.v1.md`; `workspace/plans/phase-2-minimal-content-card-strip-v1/RISKS.v1.md`; `workspace/plans/phase-2-minimal-content-card-strip-v1/HANDOFF.v1.md`; `node HARNESS/checks/check-state-artifacts.mjs`; `node HARNESS/checks/check-next-action-scope.mjs`; `node HARNESS/checks/check-plan-exists.mjs`; `node HARNESS/checks/check-handoff-completeness.mjs`; `node HARNESS/checks/check-approval-state.mjs`; `node HARNESS/checks/check-lock-state.mjs`; `node HARNESS/checks/harness-check.mjs`
 
 ## Active Blockers
 
-- `Verified`: Broader runtime implementation remains blocked beyond the approved `UNIT-054` planning scope until the next bounded slice is authored.
-- `Inference`: Any next story-and-editorial slice that begins requiring protected-surface edits, custom JS, hero semantics, gallery behavior, video behavior, slider behavior, or overlay treatment should be treated as a replanning signal rather than permission to broaden scope.
+- `Verified`: Broader runtime implementation remains blocked beyond the approved `UNIT-055` implementation scope until the planned content-card-strip slice is executed.
+- `Inference`: Any content-card-strip implementation that begins requiring protected-surface edits, custom JS, live-object behavior, product-card behavior, slider behavior, drawer behavior, or overlay treatment should be treated as a replanning signal rather than permission to broaden scope.
 
 ## Resume Notes
 
