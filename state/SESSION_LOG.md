@@ -8,6 +8,40 @@
 
 ### Session Entry
 
+- Timestamp: 2026-04-12 20:12 Asia/Jerusalem
+- Skill or Mode: `verification`
+- Summary: verified the first broader merchandising foundation implementation slice, confirmed exact six-file runtime scope, confirmed shared snippet reuse, confirmed selected-collection read-only iteration, and advanced governed state to the next docs-only frontier review unit
+- Files changed:
+  - `state/ORCHESTRATION_STATE.md`
+  - `state/STATUS.md`
+  - `state/NEXT_ACTION.md`
+  - `state/FEATURE_STATUS.md`
+  - `state/PROGRESS.md`
+  - `state/SESSION_LOG.md`
+  - `workspace/handoff/CURRENT_HANDOFF.md`
+- Checks run:
+  - `git show --stat --name-only --format=fuller HEAD`
+  - `git diff --name-only HEAD^ HEAD`
+  - `git diff --name-only HEAD^ HEAD -- project`
+  - exact runtime boundary validation via `node -`
+  - template-shape and locale-subtree parity validation via `node -`
+  - `grep` render-call check for `stone-product-card`
+  - `grep` selected-collection checks for `section.settings.collection` and `stone_selected_collection.products`
+  - `grep` native money-rendering check
+  - forbidden-scope grep via `grep`
+  - protected-surface diff via `git diff --name-only`
+  - `node HARNESS/checks/check-state-artifacts.mjs`
+  - `node HARNESS/checks/check-next-action-scope.mjs`
+  - `node HARNESS/checks/check-plan-exists.mjs`
+  - `node HARNESS/checks/check-handoff-completeness.mjs`
+  - `node HARNESS/checks/check-approval-state.mjs`
+  - `node HARNESS/checks/check-lock-state.mjs`
+  - `node HARNESS/checks/harness-check.mjs`
+- Result: PASS
+- Follow-up: execute `UNIT-083` only as a docs-only post-foundation merchandising frontier review
+
+### Session Entry
+
 - Timestamp: 2026-04-12 19:48 Asia/Jerusalem
 - Skill or Mode: `project-build`
 - Summary: implemented the first broader merchandising foundation slice with one shared product-card snippet, one featured-collection merchandising section, one neutral validation template, bounded CSS extensions, and paired locale updates inside the exact six-file runtime boundary

@@ -3,31 +3,26 @@
 ## Status
 
 - `Verified`: Approval State: APPROVED
-- `Verified`: Execution Class: phase-3-runtime-verification
+- `Verified`: Execution Class: phase-3-docs-planning
 - `Verified`: Priority: high
 
 ## Approved Unit
 
-- `UNIT-082` Verify the first broader merchandising foundation implementation slice.
+- `UNIT-083` Author the post-foundation merchandising frontier review.
 
 ## Objective
 
-- `Verified`: Verify that `UNIT-081` stayed inside the exact approved six-file runtime boundary.
-- `Verified`: Confirm the shared product-card snippet was reused by the featured-collection merchandising section.
-- `Verified`: Confirm the slice remained non-JS, read-only, and free of protected-surface edits and commerce-action behavior.
+- `Verified`: Re-evaluate Stone V2 immediately after the verified first broader merchandising foundation slice.
+- `Verified`: Decide whether the next broader merchandising step should be authorized, narrowed further, or paused.
+- `Verified`: If continuation is justified, author one docs-only planning package with exact scope, checks, risks, and stop conditions for the next honest bounded step.
 
 ## Plan Reference
 
-- `Path:` `workspace/plans/phase-3-merchandising-foundation-boundary-v1/PLAN.v1.md`
+- `Not required`: This is a docs-only frontier review following verified `UNIT-082`.
 
 ## Allowed Files Or Surfaces
 
-- `project/assets/stone-base.css`
-- `project/snippets/stone-product-card.liquid`
-- `project/sections/stone-featured-collection-grid.liquid`
-- `project/templates/page.stone-runtime-featured-collection-grid.json`
-- `project/locales/he.default.schema.json`
-- `project/locales/en.schema.json`
+- `workspace/plans/`
 - `state/`
 - `workspace/handoff/CURRENT_HANDOFF.md`
 
@@ -43,4 +38,4 @@
 
 ## Stop Condition
 
-Stop if verification shows any runtime file outside the approved six-file boundary, protected-surface edits, JS edits, a second snippet, a second section, a second template, collection-template edits, product-template edits, add-to-cart behavior, product forms, quick-add, quick-view, drawers, overlays, variant selectors, inventory messaging, recommendation logic, or campaign composition. Fail closed instead of normalizing scope expansion.
+Stop if the frontier review attempts to execute runtime work, widen beyond docs-only planning surfaces, retroactively loosen the verified `UNIT-080` boundary, or authorize JS, protected-surface edits, additional runtime files, or heavier commerce behavior without a new explicit bounded package.
