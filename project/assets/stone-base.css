@@ -885,6 +885,72 @@ textarea {
   text-decoration: underline;
 }
 
+.stone-process-steps {
+  display: grid;
+  gap: var(--stone-space-4);
+}
+
+.stone-process-steps--soft {
+  padding: var(--stone-space-4);
+  border-radius: var(--stone-radius-2);
+  background: var(--stone-color-surface);
+}
+
+.stone-process-steps__intro > *,
+.stone-process-steps__empty,
+.stone-process-steps__title,
+.stone-process-steps__body > * {
+  margin: 0;
+}
+
+.stone-process-steps__items {
+  display: grid;
+  gap: var(--stone-space-3);
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.stone-process-steps--grid .stone-process-steps__items {
+  grid-template-columns: repeat(auto-fit, minmax(15rem, 1fr));
+}
+
+.stone-process-steps__item {
+  display: grid;
+  grid-template-columns: auto minmax(0, 1fr);
+  gap: var(--stone-space-3);
+  align-items: start;
+  padding: var(--stone-space-4);
+  border: 1px solid var(--stone-color-border);
+  border-radius: var(--stone-radius-2);
+  background: transparent;
+}
+
+.stone-process-steps--soft .stone-process-steps__item {
+  background: var(--stone-color-canvas);
+}
+
+.stone-process-steps__index {
+  display: grid;
+  place-items: center;
+  inline-size: 2rem;
+  block-size: 2rem;
+  border-radius: 999px;
+  border: 1px solid currentColor;
+  font-weight: 700;
+  line-height: 1;
+}
+
+.stone-process-steps__content {
+  display: grid;
+  gap: var(--stone-space-2);
+}
+
+.stone-process-steps__title {
+  font-size: 1rem;
+  line-height: 1.35;
+}
+
 .stone-section-shell__link {
   display: inline-flex;
   align-items: center;

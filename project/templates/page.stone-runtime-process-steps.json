@@ -1,0 +1,46 @@
+{
+  "sections": {
+    "main": {
+      "type": "stone-process-steps",
+      "settings": {
+        "heading": "Runtime process steps",
+        "intro": "<p>Use this section for restrained ordered guidance with short static steps only.</p>",
+        "surface_style": "soft",
+        "layout_mode": "stack",
+        "width_mode": "standard",
+        "spacing_mode": "standard"
+      },
+      "blocks": {
+        "item_1": {
+          "type": "item",
+          "settings": {
+            "title": "Define the scope",
+            "body": "<p>Start with one clear bounded objective for the next delivery step.</p>"
+          }
+        },
+        "item_2": {
+          "type": "item",
+          "settings": {
+            "title": "Prepare the content",
+            "body": "<p>Gather the exact copy and supporting references needed for the sequence.</p>"
+          }
+        },
+        "item_3": {
+          "type": "item",
+          "settings": {
+            "title": "Ship the update",
+            "body": "<p>Publish the final change only after the bounded checks remain clean.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_1",
+        "item_2",
+        "item_3"
+      ]
+    }
+  },
+  "order": [
+    "main"
+  ]
+}

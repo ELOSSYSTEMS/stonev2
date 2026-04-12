@@ -1469,6 +1469,90 @@
           }
         }
       }
+    },
+    "stone_process_steps": {
+      "name": "Process steps",
+      "empty": "Add process items to validate this restrained editorial sequence.",
+      "settings": {
+        "heading": {
+          "label": "Section heading",
+          "info": "Optional. Displays a neutral heading above the process sequence."
+        },
+        "intro": {
+          "label": "Intro text",
+          "info": "Optional. Displays short editorial copy above the steps."
+        },
+        "surface_style": {
+          "label": "Surface style",
+          "info": "Controls the restrained surface treatment for the process steps.",
+          "options": {
+            "outline": {
+              "label": "Outline"
+            },
+            "soft": {
+              "label": "Soft surface"
+            }
+          }
+        },
+        "layout_mode": {
+          "label": "Layout mode",
+          "info": "Controls whether steps stay stacked or form a restrained grid.",
+          "options": {
+            "stack": {
+              "label": "Stack"
+            },
+            "grid": {
+              "label": "Grid"
+            }
+          }
+        },
+        "width_mode": {
+          "label": "Width mode",
+          "info": "Controls the neutral container width for the section shell.",
+          "options": {
+            "narrow": {
+              "label": "Narrow"
+            },
+            "standard": {
+              "label": "Standard"
+            },
+            "wide": {
+              "label": "Wide"
+            }
+          }
+        },
+        "spacing_mode": {
+          "label": "Spacing mode",
+          "info": "Controls the neutral vertical spacing of the section shell.",
+          "options": {
+            "compact": {
+              "label": "Compact"
+            },
+            "standard": {
+              "label": "Balanced"
+            },
+            "relaxed": {
+              "label": "Relaxed"
+            }
+          }
+        }
+      },
+      "blocks": {
+        "item": {
+          "name": "Step item",
+          "fallback_title": "Step title",
+          "settings": {
+            "title": {
+              "label": "Step title",
+              "info": "Add a short title for this step."
+            },
+            "body": {
+              "label": "Body",
+              "info": "Optional. Add short supporting copy for this step."
+            }
+          }
+        }
+      }
     }
   }
 }
