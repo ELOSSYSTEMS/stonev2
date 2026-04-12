@@ -79,7 +79,8 @@
 - `Verified`: `UNIT-035` verified that `UNIT-034` stayed inside the approved five-file runtime boundary, reused the shared shell unchanged, stayed bounded and non-JS, kept the neutral page host isolated, and preserved bilingual locale parity.
 - `Verified`: The repo now includes a bounded Phase 2 minimal reassurance lane plan package that limits the next runtime slice to one restrained reassurance-lane section, one neutral alternate page template, one bounded base-layer CSS extension, and paired locale updates.
 - `Verified`: The repo now includes the approved Phase 2 minimal reassurance lane runtime slice across the five allowed runtime files only: one restrained reassurance-lane validation section, one neutral alternate page template, one bounded base-layer CSS extension, and paired locale updates.
-- `Inference`: The next high-value unit is one tightly bounded verification slice that confirms the implemented minimal reassurance lane proof stayed inside the approved five runtime files.
+- `Verified`: `UNIT-038` verified that the minimal reassurance lane runtime slice stayed inside the approved five-file boundary, reused the shared shell unchanged, kept the validation template isolated, remained non-JS, and preserved bilingual locale parity.
+- `Inference`: The next high-value unit is one tightly bounded planning slice that defines the next runtime proof after reassurance-lane verification without touching `project/` runtime files.
 
 ## Risks And Blocks
 
@@ -97,5 +98,5 @@
 - `Verified`: `UNIT-034` did not touch `project/snippets/stone-section-shell.liquid`, `project/layout/theme.liquid`, `project/assets/stone-runtime.js`, `project/config/settings_schema.json`, or `project/blocks/`.
 - `Inference`: `UNIT-037` continues inside the trust-and-support family but is more design-sensitive than the FAQ slice because it depends on reassurance tone and visual grouping rather than native disclosure behavior.
 - `Verified`: `UNIT-037` did not touch `project/snippets/stone-section-shell.liquid`, `project/layout/theme.liquid`, `project/assets/stone-runtime.js`, `project/config/settings_schema.json`, or `project/blocks/`.
-- `Verified`: Broader runtime build-out remains blocked beyond the approved `UNIT-038` verification scope for the implemented minimal reassurance lane slice.
+- `Verified`: Broader runtime build-out remains blocked beyond the approved `UNIT-039` planning scope until the next bounded runtime slice is formally authored.
 - `Inference`: Any newly discovered need for protected-surface edits, `project/blocks/`, JS-driven behavior, a second section, a second template, or page-composition behavior remains a replanning trigger rather than permission to expand the next unit.
