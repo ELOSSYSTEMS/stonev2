@@ -3,7 +3,7 @@
 ## Snapshot
 
 - `Verified`: Repo state: harness foundation populated
-- `Verified`: Storefront runtime state: the broader merchandising foundation slice and spotlight variant are complete and verified, and the distinct category-entry merchandising slice is now implemented within its bounded six-file runtime scope.
+- `Verified`: Storefront runtime state: the broader merchandising foundation slice and spotlight variant are complete and verified, the distinct category-entry merchandising slice is complete and verified, and the repo is ready for a docs-only post-category-entry frontier review.
 - `Verified`: Architecture authority: the five documents under `docs/architecture/`
 - `Verified`: Current active planning package: `workspace/plans/phase-3-category-entry-boundary-v1/`
 
@@ -28,16 +28,16 @@
 - `Verified`: Preserve Hebrew-first assumptions
 - `Verified`: Treat bilingual Hebrew and English editor support as a core architectural requirement
 - `Verified`: Do not copy code or markup from external reference themes
-- `Verified`: The category-entry slice remains non-JS and collection-link-only
+- `Verified`: The verified category-entry slice remains non-JS and collection-link-only
 
 ## Current Outcome
 
 - `Verified`: `UNIT-086` concluded the next honest merchandising expansion is a distinct category-entry discovery surface rather than a third featured-collection-grid variant.
-- `Verified`: `UNIT-087` implemented `project/snippets/stone-collection-card.liquid`, `project/sections/stone-category-entry-grid.liquid`, `project/templates/page.stone-runtime-category-entry-grid.json`, bounded CSS in `project/assets/stone-base.css`, and paired locale updates in `project/locales/he.default.schema.json` and `project/locales/en.schema.json`.
-- `Verified`: `UNIT-087` stayed inside the exact approved six runtime files and kept the section limited to three explicit collection settings.
-- `Inference`: The repo is ready for bounded verification of the category-entry merchandising slice.
+- `Verified`: `UNIT-087` implemented the bounded category-entry slice with one shared collection-card snippet, one category-entry section, one neutral host template, bounded CSS, and paired locale updates.
+- `Verified`: `UNIT-088` confirmed exact six-file boundary compliance, shared-snippet reuse, explicit three-setting collection selection, locale parity, and absence of protected-surface or heavier-commerce drift.
+- `Inference`: The repo is ready for a docs-only frontier review before any further runtime merchandising expansion.
 
 ## Risks And Blocks
 
-- `Verified`: Runtime expansion remains paused pending `UNIT-088` verification.
-- `Inference`: Any discovered need for blocks, list settings, pricing logic, product-card behavior, JS, protected-surface edits, rails/carousels, or shoppable-media behavior should trigger a new docs-only boundary decision rather than widening the approved slice.
+- `Verified`: Runtime expansion remains paused until `UNIT-089` records the next bounded Phase 3 decision.
+- `Inference`: Any discovered need for blocks, list settings, pricing logic, product-card behavior, JS, protected-surface edits, rails/carousels, shoppable-media behavior, or mixed collection-plus-product merchandising should trigger a new docs-only boundary decision rather than widening the verified slice.

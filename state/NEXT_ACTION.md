@@ -3,31 +3,26 @@
 ## Status
 
 - `Verified`: Approval State: APPROVED
-- `Verified`: Execution Class: verification
+- `Verified`: Execution Class: phase-3-docs-planning
 - `Verified`: Priority: high
 
 ## Approved Unit
 
-- `UNIT-088` Verify the category-entry merchandising slice.
+- `UNIT-089` Author the post-category-entry merchandising frontier review.
 
 ## Objective
 
-- `Verified`: Verify that the category-entry merchandising slice stayed inside the exact approved six-file runtime boundary.
-- `Verified`: Verify that the new section reuses the shared `stone-collection-card` snippet and remains limited to exactly three explicit collection settings.
-- `Verified`: Verify that the slice remained non-JS, collection-link-only, and free of protected-surface or heavier-commerce drift.
+- `Verified`: Re-evaluate Stone V2 immediately after the verified category-entry merchandising slice.
+- `Verified`: Decide whether the next honest move should remain inside the merchandising family, pause runtime expansion, or shift to a different governed planning problem.
+- `Verified`: If continuation is justified, author one docs-only planning package with exact scope, checks, risks, and stop conditions for the next bounded step.
 
 ## Plan Reference
 
-- `Path:` `workspace/plans/phase-3-category-entry-boundary-v1/PLAN.v1.md`
+- `Not required`: This is a docs-only frontier review following verified `UNIT-088`.
 
 ## Allowed Files Or Surfaces
 
-- `project/assets/stone-base.css`
-- `project/snippets/stone-collection-card.liquid`
-- `project/sections/stone-category-entry-grid.liquid`
-- `project/templates/page.stone-runtime-category-entry-grid.json`
-- `project/locales/he.default.schema.json`
-- `project/locales/en.schema.json`
+- `workspace/plans/`
 - `state/`
 - `workspace/handoff/CURRENT_HANDOFF.md`
 
@@ -43,4 +38,4 @@
 
 ## Stop Condition
 
-Stop if verification finds any runtime file outside the approved six runtime files, any missing shared-snippet reuse, any block/list-setting drift, any pricing or product-card behavior, any JS or protected-surface edits, or any heavier-commerce behavior. Fail closed instead of normalizing drift.
+Stop if the frontier review attempts runtime work, widens beyond docs-only planning surfaces, retroactively loosens the verified category-entry boundary, or authorizes JS, protected-surface edits, extra runtime files, or heavier-commerce behavior without a new explicit bounded package.

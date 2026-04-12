@@ -8,14 +8,14 @@
 
 ## Current Phase
 
-- `Verified`: Active roadmap phase: Phase 3 bounded category-entry verification after implementation
-- `Verified`: Last completed phase slice: Phase 3 category-entry merchandising implementation slice
-- `Inference`: Next bounded slice: verify exact scope and drift status for the category-entry slice
+- `Verified`: Active roadmap phase: Phase 3 docs-only frontier planning after verified category-entry expansion
+- `Verified`: Last completed phase slice: Phase 3 category-entry merchandising verification slice
+- `Inference`: Next bounded slice: author the post-category-entry merchandising frontier review and decide the next honest boundary
 
 ## Approval State
 
 - `Verified`: Current next action approval: APPROVED
-- `Verified`: Approval basis: `UNIT-087` implemented the distinct category-entry merchandising surface inside the exact approved six-file runtime boundary and is ready for bounded verification
+- `Verified`: Approval basis: `UNIT-088` verified that the category-entry slice held the exact approved six-file runtime boundary and did not drift into heavier commerce or protected surfaces
 
 ## Lock State
 
