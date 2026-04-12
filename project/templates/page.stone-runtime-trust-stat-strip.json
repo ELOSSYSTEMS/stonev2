@@ -1,0 +1,49 @@
+{
+  "sections": {
+    "main": {
+      "type": "stone-trust-stat-strip",
+      "settings": {
+        "heading": "Runtime trust stat strip",
+        "intro": "<p>Use this section for restrained static trust metrics only.</p>",
+        "surface_style": "soft",
+        "layout_mode": "grid",
+        "width_mode": "standard",
+        "spacing_mode": "standard"
+      },
+      "blocks": {
+        "item_1": {
+          "type": "item",
+          "settings": {
+            "value": "2",
+            "label": "Editor languages",
+            "note": "Hebrew and English schema coverage"
+          }
+        },
+        "item_2": {
+          "type": "item",
+          "settings": {
+            "value": "RTL",
+            "label": "Layout posture",
+            "note": "Native reading-direction defaults"
+          }
+        },
+        "item_3": {
+          "type": "item",
+          "settings": {
+            "value": "1 base",
+            "label": "Delivery surface",
+            "note": "Shared theme foundation for repeated builds"
+          }
+        }
+      },
+      "block_order": [
+        "item_1",
+        "item_2",
+        "item_3"
+      ]
+    }
+  },
+  "order": [
+    "main"
+  ]
+}

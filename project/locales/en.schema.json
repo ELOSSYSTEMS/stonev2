@@ -1189,6 +1189,95 @@
           }
         }
       }
+    },
+    "stone_trust_stat_strip": {
+      "name": "Trust stat strip",
+      "empty": "Add stat items to validate restrained static trust metrics.",
+      "settings": {
+        "heading": {
+          "label": "Section heading",
+          "info": "Optional. Displays a neutral heading above the trust metrics."
+        },
+        "intro": {
+          "label": "Intro text",
+          "info": "Optional. Displays short neutral trust copy above the stat items."
+        },
+        "surface_style": {
+          "label": "Surface style",
+          "info": "Controls the restrained surface treatment for the stat strip.",
+          "options": {
+            "outline": {
+              "label": "Outline"
+            },
+            "soft": {
+              "label": "Soft surface"
+            }
+          }
+        },
+        "layout_mode": {
+          "label": "Layout mode",
+          "info": "Controls whether stat items stay stacked or form a restrained grid.",
+          "options": {
+            "grid": {
+              "label": "Grid"
+            },
+            "stack": {
+              "label": "Stack"
+            }
+          }
+        },
+        "width_mode": {
+          "label": "Width mode",
+          "info": "Controls the neutral container width for the section shell.",
+          "options": {
+            "narrow": {
+              "label": "Narrow"
+            },
+            "standard": {
+              "label": "Standard"
+            },
+            "wide": {
+              "label": "Wide"
+            }
+          }
+        },
+        "spacing_mode": {
+          "label": "Spacing mode",
+          "info": "Controls the neutral vertical spacing of the section shell.",
+          "options": {
+            "compact": {
+              "label": "Compact"
+            },
+            "standard": {
+              "label": "Balanced"
+            },
+            "relaxed": {
+              "label": "Relaxed"
+            }
+          }
+        }
+      },
+      "blocks": {
+        "item": {
+          "name": "Stat item",
+          "empty_value": "Add one short value to complete this stat item.",
+          "fallback_label": "Metric label",
+          "settings": {
+            "value": {
+              "label": "Value",
+              "info": "Add one short static value for this stat item."
+            },
+            "label": {
+              "label": "Label",
+              "info": "Add a short plain-language label for the value."
+            },
+            "note": {
+              "label": "Note",
+              "info": "Optional. Add short supporting context below the value and label."
+            }
+          }
+        }
+      }
     }
   }
 }
