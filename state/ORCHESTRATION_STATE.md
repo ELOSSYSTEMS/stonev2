@@ -8,14 +8,14 @@
 
 ## Current Phase
 
-- `Verified`: Active roadmap phase: Phase 2 bounded frontier replan readiness after blog-highlights rejection
-- `Verified`: Last completed phase slice: Phase 2 frontier replan slice
-- `Inference`: Next bounded slice: author one docs-only controlled-expansion proposal after the frontier replan
+- `Verified`: Active roadmap phase: Phase 2 controlled-expansion proposal readiness after frontier replan
+- `Verified`: Last completed phase slice: Phase 2 controlled-expansion proposal slice
+- `Inference`: Next bounded slice: await controlled-expansion acceptance or boundary authoring before further runtime work
 
 ## Approval State
 
 - `Verified`: Current next action approval: APPROVED
-- `Verified`: Approval basis: `UNIT-065` formalized the frontier replan, treated the current micro-slice runway as locally exhausted under present rules, and redirected the repo to a docs-only controlled-expansion proposal
+- `Verified`: Approval basis: `UNIT-066` authored the docs-only controlled-expansion proposal, recommended one narrow object-aware content/blog expansion, and kept the repo off runtime edits until a new approved boundary exists
 
 ## Lock State
 

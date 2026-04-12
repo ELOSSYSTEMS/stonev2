@@ -8,16 +8,16 @@
 
 ## Approved Unit
 
-- `UNIT-066` Author one docs-only controlled-expansion proposal for the next governed runtime frontier.
+- `UNIT-067` Author the next approval-boundary package for the recommended controlled expansion, or reject it explicitly.
 
 ## Objective
 
-- `Verified`: Define one controlled-expansion proposal for the next governed runtime frontier after the current micro-slice runway was judged locally exhausted.
-- `Verified`: Keep `UNIT-066` limited to `workspace/plans/`, `state/`, and `workspace/handoff/CURRENT_HANDOFF.md` only.
+- `Verified`: Decide whether to carry the recommended object-aware content/blog expansion into an approval-boundary package, or reject it and replan again.
+- `Verified`: Keep `UNIT-067` limited to `workspace/plans/`, `state/`, and `workspace/handoff/CURRENT_HANDOFF.md` only.
 
 ## Plan Reference
 
-- `Path:` `workspace/plans/phase-2-frontier-replan-v1/PLAN.v1.md`
+- `Path:` `workspace/plans/phase-2-controlled-expansion-proposal-v1/PLAN.v1.md`
 
 ## Allowed Files Or Surfaces
 
@@ -37,4 +37,4 @@
 
 ## Stop Condition
 
-Stop if the controlled-expansion proposal starts authorizing runtime work without explicit rule changes, exact allowed surfaces, and exact stop conditions; stop if the proposal needs `project/` edits; stay docs-only.
+Stop if the next approval-boundary unit starts authorizing runtime work without recording explicit preserved rules, explicit new allowances, and explicit stop conditions; stay docs-only until the new boundary is formalized.
