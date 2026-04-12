@@ -8,14 +8,14 @@
 
 ## Current Phase
 
-- `Verified`: Active roadmap phase: Phase 2 runtime pause readiness after verified bounded frontier completion
-- `Verified`: Last completed phase slice: Phase 2 bounded frontier pause slice
-- `Inference`: Next bounded slice: pause bounded runtime expansion after the verified PDP-companion proof and require broader planning for any next-phase work
+- `Verified`: Active roadmap phase: Phase 3 broader planning readiness after verified bounded frontier completion
+- `Verified`: Last completed phase slice: Phase 3 broader merchandising planning slice
+- `Inference`: Next bounded slice: author the first broader planning package for Phase 3 merchandising platform work and stop before broader runtime build
 
 ## Approval State
 
 - `Verified`: Current next action approval: APPROVED
-- `Verified`: Approval basis: `UNIT-078` reviewed the post-PDP frontier, rejected further automatic micro-slices, and paused bounded runtime expansion at the current verified frontier
+- `Verified`: Approval basis: `UNIT-079` authored the first broader Phase 3 planning package, transitioned the repo out of automatic micro-slice continuation, and set the next step to a docs-only merchandising foundation boundary
 
 ## Lock State
 

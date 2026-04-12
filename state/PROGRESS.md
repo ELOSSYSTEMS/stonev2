@@ -2,25 +2,25 @@
 
 ## Current Phase
 
-- `Verified`: Roadmap phase: the bounded post-pdp frontier review unit is complete and bounded runtime expansion is paused at the current verified frontier
+- `Verified`: Roadmap phase: the broader Phase 3 planning package is complete and the repo is positioned for the first broader merchandising foundation boundary step
 
 ## Approved Next Action
 
-- `Verified`: `UNIT-078` complete, bounded runtime expansion paused under current rules
+- `Verified`: `UNIT-080` author the first broader Phase 3 merchandising foundation boundary package
 
 ## Last Completed Unit
 
-- `Verified`: Unit ID: `UNIT-078`
-- `Verified`: Summary: reviewed the frontier after the first verified PDP-companion proof, rejected further automatic micro-slices, and paused bounded runtime expansion at the current verified frontier
+- `Verified`: Unit ID: `UNIT-079`
+- `Verified`: Summary: authored the first broader Phase 3 planning package, translated the verified frontier stop point into a merchandising-platform plan, and fixed the next unit as a docs-only broader boundary step
 
 ## Verification Status
 
-- `Verified`: Verdict: PASS for `UNIT-078`; the bounded post-PDP frontier review unit is complete
-- `Verified`: Evidence: `workspace/plans/phase-2-post-pdp-frontier-review-v1/PLAN.v1.md`; `workspace/plans/phase-2-post-pdp-frontier-review-v1/ASSUMPTIONS.v1.md`; `workspace/plans/phase-2-post-pdp-frontier-review-v1/CHECKS.v1.md`; `workspace/plans/phase-2-post-pdp-frontier-review-v1/RISKS.v1.md`; `workspace/plans/phase-2-post-pdp-frontier-review-v1/HANDOFF.v1.md`; `workspace/plans/phase-2-pdp-companion-boundary-v1/PLAN.v1.md`; `node HARNESS/checks/check-state-artifacts.mjs`; `node HARNESS/checks/check-next-action-scope.mjs`; `node HARNESS/checks/check-plan-exists.mjs`; `node HARNESS/checks/check-handoff-completeness.mjs`; `node HARNESS/checks/check-approval-state.mjs`; `node HARNESS/checks/check-lock-state.mjs`; `node HARNESS/checks/harness-check.mjs`
+- `Verified`: Verdict: PASS for `UNIT-079`; the broader Phase 3 planning package is complete
+- `Verified`: Evidence: `workspace/plans/phase-3-broader-merchandising-platform-v1/PLAN.v1.md`; `workspace/plans/phase-3-broader-merchandising-platform-v1/ASSUMPTIONS.v1.md`; `workspace/plans/phase-3-broader-merchandising-platform-v1/CHECKS.v1.md`; `workspace/plans/phase-3-broader-merchandising-platform-v1/RISKS.v1.md`; `workspace/plans/phase-3-broader-merchandising-platform-v1/HANDOFF.v1.md`; `docs/architecture/stonev2-build-roadmap.md`; `workspace/specs/STONEV2_SECTION_FAMILY_LEDGER.md`; `node HARNESS/checks/check-state-artifacts.mjs`; `node HARNESS/checks/check-next-action-scope.mjs`; `node HARNESS/checks/check-plan-exists.mjs`; `node HARNESS/checks/check-handoff-completeness.mjs`; `node HARNESS/checks/check-approval-state.mjs`; `node HARNESS/checks/check-lock-state.mjs`; `node HARNESS/checks/harness-check.mjs`
 
 ## Active Blockers
 
-- `Verified`: Broader runtime implementation remains paused until a broader explicit planning package is requested and approved.
+- `Verified`: Broader runtime implementation remains paused until the first broader merchandising foundation boundary is authored and approved.
 - `Inference`: Any discovered need to exceed the formalized collection-companion boundary should be treated as a governance failure rather than permission to normalize scope expansion.
 
 ## Resume Notes

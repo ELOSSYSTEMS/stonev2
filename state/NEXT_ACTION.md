@@ -8,16 +8,16 @@
 
 ## Approved Unit
 
-- `UNIT-078` COMPLETE, no further automatic runtime unit approved under current rules.
+- `UNIT-080` Author the first broader Phase 3 merchandising foundation boundary package.
 
 ## Objective
 
-- `Verified`: Record the bounded frontier pause after the verified PDP-companion proof and do not authorize another automatic runtime unit under the current micro-slice protocol.
-- `Verified`: `UNIT-078` remains limited to `workspace/plans/`, `state/`, and `workspace/handoff/CURRENT_HANDOFF.md` only.
+- `Verified`: Author the first broader docs-only execution boundary for Phase 3 merchandising foundation work.
+- `Verified`: Keep `UNIT-080` limited to `workspace/plans/`, `state/`, and `workspace/handoff/CURRENT_HANDOFF.md` only.
 
 ## Plan Reference
 
-- `Path:` `workspace/plans/phase-2-pdp-companion-boundary-v1/PLAN.v1.md`
+- `Path:` `workspace/plans/phase-3-broader-merchandising-platform-v1/PLAN.v1.md`
 
 ## Allowed Files Or Surfaces
 
@@ -37,4 +37,4 @@
 
 ## Stop Condition
 
-Stop if any next step tries to authorize more runtime work under the current micro-slice protocol without a broader explicit planning package; keep runtime paused until a new planning boundary is approved.
+Stop if the next step starts broader runtime build without first recording an exact broader execution boundary with allowed files, preserved constraints, newly allowed surfaces, verification expectations, and exact stop conditions; keep work docs-only until that boundary is formalized.
