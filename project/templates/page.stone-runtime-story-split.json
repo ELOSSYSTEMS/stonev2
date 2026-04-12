@@ -1,0 +1,21 @@
+{
+  "sections": {
+    "main": {
+      "type": "stone-story-split",
+      "settings": {
+        "heading": "Runtime story split",
+        "eyebrow": "Editorial proof",
+        "body": "<p>Use this section for restrained image-and-copy storytelling with one static media surface and one editorial text body.</p>",
+        "image_alt": "Editorial placeholder media",
+        "surface_style": "soft",
+        "media_position": "start",
+        "media_ratio": "landscape",
+        "width_mode": "standard",
+        "spacing_mode": "standard"
+      }
+    }
+  },
+  "order": [
+    "main"
+  ]
+}

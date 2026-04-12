@@ -8,14 +8,14 @@
 
 ## Current Phase
 
-- `Verified`: Active roadmap phase: Phase 2 bounded runtime implementation readiness after minimal story split planning
-- `Verified`: Last completed phase slice: Phase 2 minimal story split planning slice
-- `Inference`: Next bounded slice: execute one implementation unit for the planned minimal story split proof
+- `Verified`: Active roadmap phase: Phase 2 bounded runtime verification readiness after minimal story split implementation
+- `Verified`: Last completed phase slice: Phase 2 minimal story split implementation slice
+- `Inference`: Next bounded slice: verify one implementation unit for the completed minimal story split proof
 
 ## Approval State
 
 - `Verified`: Current next action approval: APPROVED
-- `Verified`: Approval basis: `UNIT-051` authored the bounded minimal story split plan package, shifted the repo into the story-and-editorial family without duplicating trust/support behavior, and advanced the repo to one bounded implementation unit
+- `Verified`: Approval basis: `UNIT-052` implemented the bounded minimal story split slice inside the approved five runtime files, kept the repo shell-stable and non-JS, and advanced the repo to one bounded verification unit
 
 ## Lock State
 

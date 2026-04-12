@@ -1,0 +1,201 @@
+{%- liquid
+  assign stone_heading = section.settings.heading | strip
+  assign stone_eyebrow = section.settings.eyebrow | strip
+  assign stone_body = section.settings.body
+  assign stone_body_plain = stone_body | strip_html | strip
+  assign stone_image = section.settings.image
+  assign stone_image_alt = section.settings.image_alt | strip
+  assign stone_surface_style = section.settings.surface_style | default: 'outline'
+  assign stone_media_position = section.settings.media_position | default: 'start'
+  assign stone_media_ratio = section.settings.media_ratio | default: 'landscape'
+
+  capture stone_section_content
+    echo '<div class="stone-story-split stone-story-split--'
+    echo stone_surface_style | escape
+    echo ' stone-story-split--'
+    echo stone_media_position | escape
+    echo ' stone-story-split--'
+    echo stone_media_ratio | escape
+    echo '">'
+
+    echo '<div class="stone-story-split__media">'
+    if stone_image != blank
+      echo stone_image | image_url: width: 1600 | image_tag: class: 'stone-story-split__image', loading: 'lazy', widths: '480, 720, 960, 1200, 1600', sizes: '(min-width: 64rem) 32rem, 100vw', alt: stone_image_alt
+    else
+      echo '<div class="stone-story-split__placeholder" aria-hidden="true">'
+      echo 'image' | placeholder_svg_tag: 'stone-story-split__placeholder-svg'
+      echo '</div>'
+    endif
+    echo '</div>'
+
+    echo '<div class="stone-story-split__content">'
+    if stone_eyebrow != blank
+      echo '<p class="stone-story-split__eyebrow">'
+      echo stone_eyebrow | escape
+      echo '</p>'
+    endif
+
+    if stone_body_plain != blank
+      echo '<div class="stone-story-split__body stone-richtext-flow rte">'
+      echo stone_body
+      echo '</div>'
+    else
+      echo '<p class="stone-story-split__empty">'
+      echo 'sections.stone_story_split.empty' | t
+      echo '</p>'
+    endif
+    echo '</div>'
+
+    echo '</div>'
+  endcapture
+
+  render 'stone-section-shell',
+    section: section,
+    heading: stone_heading,
+    content: stone_section_content,
+    width: section.settings.width_mode,
+    spacing: section.settings.spacing_mode,
+    shell_class: 'stone-story-split-shell'
+-%}
+
+{% schema %}
+{
+  "name": "t:sections.stone_story_split.name",
+  "tag": "section",
+  "class": "shopify-section--stone-story-split",
+  "settings": [
+    {
+      "type": "text",
+      "id": "heading",
+      "label": "t:sections.stone_story_split.settings.heading.label",
+      "info": "t:sections.stone_story_split.settings.heading.info"
+    },
+    {
+      "type": "text",
+      "id": "eyebrow",
+      "label": "t:sections.stone_story_split.settings.eyebrow.label",
+      "info": "t:sections.stone_story_split.settings.eyebrow.info"
+    },
+    {
+      "type": "richtext",
+      "id": "body",
+      "label": "t:sections.stone_story_split.settings.body.label",
+      "info": "t:sections.stone_story_split.settings.body.info"
+    },
+    {
+      "type": "image_picker",
+      "id": "image",
+      "label": "t:sections.stone_story_split.settings.image.label",
+      "info": "t:sections.stone_story_split.settings.image.info"
+    },
+    {
+      "type": "text",
+      "id": "image_alt",
+      "label": "t:sections.stone_story_split.settings.image_alt.label",
+      "info": "t:sections.stone_story_split.settings.image_alt.info"
+    },
+    {
+      "type": "select",
+      "id": "surface_style",
+      "label": "t:sections.stone_story_split.settings.surface_style.label",
+      "info": "t:sections.stone_story_split.settings.surface_style.info",
+      "default": "outline",
+      "options": [
+        {
+          "value": "outline",
+          "label": "t:sections.stone_story_split.settings.surface_style.options.outline.label"
+        },
+        {
+          "value": "soft",
+          "label": "t:sections.stone_story_split.settings.surface_style.options.soft.label"
+        }
+      ]
+    },
+    {
+      "type": "select",
+      "id": "media_position",
+      "label": "t:sections.stone_story_split.settings.media_position.label",
+      "info": "t:sections.stone_story_split.settings.media_position.info",
+      "default": "start",
+      "options": [
+        {
+          "value": "start",
+          "label": "t:sections.stone_story_split.settings.media_position.options.start.label"
+        },
+        {
+          "value": "end",
+          "label": "t:sections.stone_story_split.settings.media_position.options.end.label"
+        }
+      ]
+    },
+    {
+      "type": "select",
+      "id": "media_ratio",
+      "label": "t:sections.stone_story_split.settings.media_ratio.label",
+      "info": "t:sections.stone_story_split.settings.media_ratio.info",
+      "default": "landscape",
+      "options": [
+        {
+          "value": "square",
+          "label": "t:sections.stone_story_split.settings.media_ratio.options.square.label"
+        },
+        {
+          "value": "landscape",
+          "label": "t:sections.stone_story_split.settings.media_ratio.options.landscape.label"
+        },
+        {
+          "value": "portrait",
+          "label": "t:sections.stone_story_split.settings.media_ratio.options.portrait.label"
+        }
+      ]
+    },
+    {
+      "type": "select",
+      "id": "width_mode",
+      "label": "t:sections.stone_story_split.settings.width_mode.label",
+      "info": "t:sections.stone_story_split.settings.width_mode.info",
+      "default": "standard",
+      "options": [
+        {
+          "value": "narrow",
+          "label": "t:sections.stone_story_split.settings.width_mode.options.narrow.label"
+        },
+        {
+          "value": "standard",
+          "label": "t:sections.stone_story_split.settings.width_mode.options.standard.label"
+        },
+        {
+          "value": "wide",
+          "label": "t:sections.stone_story_split.settings.width_mode.options.wide.label"
+        }
+      ]
+    },
+    {
+      "type": "select",
+      "id": "spacing_mode",
+      "label": "t:sections.stone_story_split.settings.spacing_mode.label",
+      "info": "t:sections.stone_story_split.settings.spacing_mode.info",
+      "default": "standard",
+      "options": [
+        {
+          "value": "compact",
+          "label": "t:sections.stone_story_split.settings.spacing_mode.options.compact.label"
+        },
+        {
+          "value": "standard",
+          "label": "t:sections.stone_story_split.settings.spacing_mode.options.standard.label"
+        },
+        {
+          "value": "relaxed",
+          "label": "t:sections.stone_story_split.settings.spacing_mode.options.relaxed.label"
+        }
+      ]
+    }
+  ],
+  "presets": [
+    {
+      "name": "t:sections.stone_story_split.name"
+    }
+  ]
+}
+{% endschema %}

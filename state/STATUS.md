@@ -93,7 +93,8 @@
 - `Verified`: The repo now includes the approved Phase 2 minimal trust stat strip runtime slice across the five allowed runtime files only: one restrained static trust-stat-strip validation section, one neutral alternate page template, one bounded base-layer CSS extension, and paired locale updates.
 - `Verified`: `UNIT-050` verified that the minimal trust stat strip runtime slice stayed inside the approved five-file boundary, reused the shared shell unchanged, kept the validation template isolated, remained non-JS, and preserved bilingual locale parity.
 - `Verified`: `UNIT-051` authored the bounded minimal story split plan package that fixes the next runtime slice to one restrained story-and-editorial proof inside the approved five runtime files.
-- `Inference`: The next high-value unit is one tightly bounded implementation slice that executes the planned story-split proof without broadening into hero, media-system, or composition-heavy behavior.
+- `Verified`: The repo now includes the approved Phase 2 minimal story split runtime slice across the five allowed runtime files only: one restrained static story-split validation section, one neutral alternate page template, one bounded base-layer CSS extension, and paired locale updates.
+- `Inference`: The next high-value unit is one tightly bounded verification slice that confirms the implemented story-split proof stayed inside the approved five runtime files.
 
 ## Risks And Blocks
 
@@ -115,5 +116,5 @@
 - `Inference`: `UNIT-040` stays distinct from the verified utility prompt by separating trust-oriented copy from grouped native actions instead of using a single contained generic prompt body.
 - `Inference`: `UNIT-043` continues inside the trust-and-support family and introduces a heavier proof surface than the verified trust-help-prompt slice because it depends on static brand-proof presentation.
 - `Verified`: `UNIT-043` did not touch `project/snippets/stone-section-shell.liquid`, `project/layout/theme.liquid`, `project/assets/stone-runtime.js`, `project/config/settings_schema.json`, or `project/blocks/`.
-- `Verified`: Broader runtime build-out remains blocked beyond the approved `UNIT-052` implementation scope until the planned story-split slice is executed and verified.
-- `Inference`: Any newly discovered need for protected-surface edits, `project/blocks/`, JS-driven behavior, a second section, a second template, video behavior, gallery behavior, overlay treatment, hero semantics, or page-composition behavior remains a replanning trigger rather than permission to expand the next unit.
+- `Verified`: Broader runtime build-out remains blocked beyond the approved `UNIT-053` verification scope for the implemented minimal story split slice.
+- `Inference`: Any newly discovered need for protected-surface edits, `project/blocks/`, JS-driven behavior, a second section, a second template, video behavior, gallery behavior, overlay treatment, hero semantics, or page-composition behavior remains a failure signal rather than permission to expand the next unit.

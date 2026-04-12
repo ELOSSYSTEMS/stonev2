@@ -1278,6 +1278,101 @@
           }
         }
       }
+    },
+    "stone_story_split": {
+      "name": "Story split",
+      "empty": "Add editorial body copy to validate this story split section.",
+      "settings": {
+        "heading": {
+          "label": "Section heading",
+          "info": "Optional. Displays a neutral heading above the story split."
+        },
+        "eyebrow": {
+          "label": "Eyebrow",
+          "info": "Optional. Displays a short editorial label above the body copy."
+        },
+        "body": {
+          "label": "Body",
+          "info": "Add the primary editorial copy for the split layout."
+        },
+        "image": {
+          "label": "Image",
+          "info": "Optional. Adds one image to the story split."
+        },
+        "image_alt": {
+          "label": "Image alt text",
+          "info": "Optional. Adds descriptive alt text for the selected image."
+        },
+        "surface_style": {
+          "label": "Surface style",
+          "info": "Controls the restrained surface treatment for the story split.",
+          "options": {
+            "outline": {
+              "label": "Outline"
+            },
+            "soft": {
+              "label": "Soft surface"
+            }
+          }
+        },
+        "media_position": {
+          "label": "Media position",
+          "info": "Controls whether the image appears first or second on wide layouts.",
+          "options": {
+            "start": {
+              "label": "Image first"
+            },
+            "end": {
+              "label": "Image second"
+            }
+          }
+        },
+        "media_ratio": {
+          "label": "Media ratio",
+          "info": "Controls the restrained aspect ratio used for the section image.",
+          "options": {
+            "square": {
+              "label": "Square"
+            },
+            "landscape": {
+              "label": "Landscape"
+            },
+            "portrait": {
+              "label": "Portrait"
+            }
+          }
+        },
+        "width_mode": {
+          "label": "Width mode",
+          "info": "Controls the neutral container width for the section shell.",
+          "options": {
+            "narrow": {
+              "label": "Narrow"
+            },
+            "standard": {
+              "label": "Standard"
+            },
+            "wide": {
+              "label": "Wide"
+            }
+          }
+        },
+        "spacing_mode": {
+          "label": "Spacing mode",
+          "info": "Controls the neutral vertical spacing of the section shell.",
+          "options": {
+            "compact": {
+              "label": "Compact"
+            },
+            "standard": {
+              "label": "Balanced"
+            },
+            "relaxed": {
+              "label": "Relaxed"
+            }
+          }
+        }
+      }
     }
   }
 }
