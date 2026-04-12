@@ -1553,6 +1553,86 @@
           }
         }
       }
+    },
+    "stone_editorial_quote": {
+      "name": "Editorial quote",
+      "empty_quote": "Add quote text to validate this restrained editorial quote.",
+      "settings": {
+        "heading": {
+          "label": "Section heading",
+          "info": "Optional. Displays a neutral heading above the editorial quote."
+        },
+        "eyebrow": {
+          "label": "Eyebrow",
+          "info": "Optional. Adds a short editorial label above the quote."
+        },
+        "quote": {
+          "label": "Quote",
+          "info": "Add the primary editorial quote for this section."
+        },
+        "body": {
+          "label": "Supporting text",
+          "info": "Optional. Adds short narrative context below the quote."
+        },
+        "attribution": {
+          "label": "Attribution",
+          "info": "Optional. Adds a plain attribution line without testimonial styling."
+        },
+        "surface_style": {
+          "label": "Surface style",
+          "info": "Controls the restrained surface treatment for the editorial quote.",
+          "options": {
+            "outline": {
+              "label": "Outline"
+            },
+            "soft": {
+              "label": "Soft surface"
+            }
+          }
+        },
+        "text_align": {
+          "label": "Text alignment",
+          "info": "Controls whether the editorial quote stays start-aligned or centered.",
+          "options": {
+            "start": {
+              "label": "Start"
+            },
+            "center": {
+              "label": "Center"
+            }
+          }
+        },
+        "width_mode": {
+          "label": "Width mode",
+          "info": "Controls the neutral container width for the section shell.",
+          "options": {
+            "narrow": {
+              "label": "Narrow"
+            },
+            "standard": {
+              "label": "Standard"
+            },
+            "wide": {
+              "label": "Wide"
+            }
+          }
+        },
+        "spacing_mode": {
+          "label": "Spacing mode",
+          "info": "Controls the neutral vertical spacing of the section shell.",
+          "options": {
+            "compact": {
+              "label": "Compact"
+            },
+            "standard": {
+              "label": "Balanced"
+            },
+            "relaxed": {
+              "label": "Relaxed"
+            }
+          }
+        }
+      }
     }
   }
 }

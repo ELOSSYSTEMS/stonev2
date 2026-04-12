@@ -1,0 +1,21 @@
+{
+  "sections": {
+    "main": {
+      "type": "stone-editorial-quote",
+      "settings": {
+        "heading": "Editorial quote",
+        "eyebrow": "Studio note",
+        "quote": "<p>Build the emotional center first, then let the surrounding details explain it.</p>",
+        "body": "<p>Use this section for one restrained narrative quote with short supporting context only.</p>",
+        "attribution": "Founder's note",
+        "surface_style": "soft",
+        "text_align": "center",
+        "width_mode": "narrow",
+        "spacing_mode": "standard"
+      }
+    }
+  },
+  "order": [
+    "main"
+  ]
+}

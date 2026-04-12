@@ -951,6 +951,52 @@ textarea {
   line-height: 1.35;
 }
 
+.stone-editorial-quote {
+  display: grid;
+  gap: var(--stone-space-4);
+  max-inline-size: 48rem;
+}
+
+.stone-editorial-quote--soft {
+  padding: var(--stone-space-5);
+  border-radius: var(--stone-radius-2);
+  background: var(--stone-color-surface);
+}
+
+.stone-editorial-quote--center {
+  justify-items: center;
+  text-align: center;
+}
+
+.stone-editorial-quote__eyebrow,
+.stone-editorial-quote__attribution,
+.stone-editorial-quote__empty,
+.stone-editorial-quote__quote > *,
+.stone-editorial-quote__body > * {
+  margin: 0;
+}
+
+.stone-editorial-quote__eyebrow {
+  font-size: 0.875rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--stone-color-muted);
+}
+
+.stone-editorial-quote__quote {
+  font-size: clamp(1.5rem, 2vw, 2.25rem);
+  line-height: 1.35;
+}
+
+.stone-editorial-quote__body {
+  color: var(--stone-color-muted);
+}
+
+.stone-editorial-quote__attribution {
+  font-size: 0.9375rem;
+  font-weight: 600;
+}
+
 .stone-section-shell__link {
   display: inline-flex;
   align-items: center;
