@@ -2,25 +2,25 @@
 
 ## Current Phase
 
-- `Verified`: Roadmap phase: the broader Phase 3 planning package is complete and the repo is positioned for the first broader merchandising foundation boundary step
+- `Verified`: Roadmap phase: the broader merchandising foundation boundary is complete and the repo is positioned for the first broader implementation slice
 
 ## Approved Next Action
 
-- `Verified`: `UNIT-080` author the first broader Phase 3 merchandising foundation boundary package
+- `Verified`: `UNIT-081` execute the first broader merchandising foundation implementation slice
 
 ## Last Completed Unit
 
-- `Verified`: Unit ID: `UNIT-079`
-- `Verified`: Summary: authored the first broader Phase 3 planning package, translated the verified frontier stop point into a merchandising-platform plan, and fixed the next unit as a docs-only broader boundary step
+- `Verified`: Unit ID: `UNIT-080`
+- `Verified`: Summary: authored the first broader merchandising foundation boundary, fixed the exact six-file implementation scope, and translated Phase 3 planning into one explicitly bounded broader build step
 
 ## Verification Status
 
-- `Verified`: Verdict: PASS for `UNIT-079`; the broader Phase 3 planning package is complete
-- `Verified`: Evidence: `workspace/plans/phase-3-broader-merchandising-platform-v1/PLAN.v1.md`; `workspace/plans/phase-3-broader-merchandising-platform-v1/ASSUMPTIONS.v1.md`; `workspace/plans/phase-3-broader-merchandising-platform-v1/CHECKS.v1.md`; `workspace/plans/phase-3-broader-merchandising-platform-v1/RISKS.v1.md`; `workspace/plans/phase-3-broader-merchandising-platform-v1/HANDOFF.v1.md`; `docs/architecture/stonev2-build-roadmap.md`; `workspace/specs/STONEV2_SECTION_FAMILY_LEDGER.md`; `node HARNESS/checks/check-state-artifacts.mjs`; `node HARNESS/checks/check-next-action-scope.mjs`; `node HARNESS/checks/check-plan-exists.mjs`; `node HARNESS/checks/check-handoff-completeness.mjs`; `node HARNESS/checks/check-approval-state.mjs`; `node HARNESS/checks/check-lock-state.mjs`; `node HARNESS/checks/harness-check.mjs`
+- `Verified`: Verdict: PASS for `UNIT-080`; the broader merchandising foundation boundary is complete
+- `Verified`: Evidence: `workspace/plans/phase-3-merchandising-foundation-boundary-v1/PLAN.v1.md`; `workspace/plans/phase-3-merchandising-foundation-boundary-v1/ASSUMPTIONS.v1.md`; `workspace/plans/phase-3-merchandising-foundation-boundary-v1/CHECKS.v1.md`; `workspace/plans/phase-3-merchandising-foundation-boundary-v1/RISKS.v1.md`; `workspace/plans/phase-3-merchandising-foundation-boundary-v1/HANDOFF.v1.md`; `workspace/plans/phase-3-broader-merchandising-platform-v1/PLAN.v1.md`; `node HARNESS/checks/check-state-artifacts.mjs`; `node HARNESS/checks/check-next-action-scope.mjs`; `node HARNESS/checks/check-plan-exists.mjs`; `node HARNESS/checks/check-handoff-completeness.mjs`; `node HARNESS/checks/check-approval-state.mjs`; `node HARNESS/checks/check-lock-state.mjs`; `node HARNESS/checks/harness-check.mjs`
 
 ## Active Blockers
 
-- `Verified`: Broader runtime implementation remains paused until the first broader merchandising foundation boundary is authored and approved.
+- `Verified`: Broader runtime implementation remains paused beyond the approved `UNIT-081` implementation scope until that broader slice is executed and re-evaluated.
 - `Inference`: Any discovered need to exceed the formalized collection-companion boundary should be treated as a governance failure rather than permission to normalize scope expansion.
 
 ## Resume Notes

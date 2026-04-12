@@ -8,14 +8,14 @@
 
 ## Current Phase
 
-- `Verified`: Active roadmap phase: Phase 3 broader planning readiness after verified bounded frontier completion
-- `Verified`: Last completed phase slice: Phase 3 broader merchandising planning slice
-- `Inference`: Next bounded slice: author the first broader planning package for Phase 3 merchandising platform work and stop before broader runtime build
+- `Verified`: Active roadmap phase: Phase 3 broader runtime implementation readiness after merchandising foundation boundary approval
+- `Verified`: Last completed phase slice: Phase 3 merchandising foundation implementation slice
+- `Inference`: Next bounded slice: execute the first broader bounded merchandising foundation implementation unit under the newly formalized boundary
 
 ## Approval State
 
 - `Verified`: Current next action approval: APPROVED
-- `Verified`: Approval basis: `UNIT-079` authored the first broader Phase 3 planning package, transitioned the repo out of automatic micro-slice continuation, and set the next step to a docs-only merchandising foundation boundary
+- `Verified`: Approval basis: `UNIT-080` formalized the first broader merchandising foundation boundary, preserved the broader planning transition, and advanced the repo to one explicitly bounded broader implementation unit
 
 ## Lock State
 

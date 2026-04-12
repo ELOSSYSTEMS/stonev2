@@ -118,7 +118,8 @@
 - `Verified`: `UNIT-077` confirms the repo now includes the first verified bounded PDP-aware runtime slice across the approved five files only: one read-only product context card section, one neutral host template, one bounded CSS extension, and paired locale updates.
 - `Verified`: `UNIT-078` concludes that bounded runtime expansion should stop at the current verified frontier under the present micro-slice protocol.
 - `Verified`: `UNIT-079` converts that stop point into a broader Phase 3 planning package centered on merchandising platform work.
-- `Inference`: The next meaningful execution should begin with a docs-only merchandising foundation boundary, not direct broader build.
+- `Verified`: `UNIT-080` formalizes the first broader merchandising foundation boundary with an exact six-file runtime scope, a shared product-card contract objective, newly allowed snippet usage, and explicit stop conditions.
+- `Inference`: The next meaningful execution is one explicitly bounded broader implementation slice, not unstructured expansion.
 
 ## Risks And Blocks
 
@@ -140,5 +141,5 @@
 - `Inference`: `UNIT-040` stays distinct from the verified utility prompt by separating trust-oriented copy from grouped native actions instead of using a single contained generic prompt body.
 - `Inference`: `UNIT-043` continues inside the trust-and-support family and introduces a heavier proof surface than the verified trust-help-prompt slice because it depends on static brand-proof presentation.
 - `Verified`: `UNIT-043` did not touch `project/snippets/stone-section-shell.liquid`, `project/layout/theme.liquid`, `project/assets/stone-runtime.js`, `project/config/settings_schema.json`, or `project/blocks/`.
-- `Verified`: Broader runtime build-out remains paused until the first broader merchandising foundation boundary is authored and approved.
-- `Inference`: Any newly discovered need for protected-surface edits, `project/blocks/`, broader product-card behavior, richer JS behavior, template coupling, or broader composition should now be handled inside the broader Phase 3 planning model rather than hidden under the retired micro-slice protocol.
+- `Verified`: Broader runtime build-out remains paused beyond the approved `UNIT-081` implementation scope under the new merchandising foundation boundary.
+- `Inference`: Any newly discovered need for protected-surface edits, broader JS behavior, extra snippets, template rewrites, commerce actions, or heavier composition beyond the approved six-file slice remains a boundary-expansion concern, not permission to broaden `UNIT-081` silently.
