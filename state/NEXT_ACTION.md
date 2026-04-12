@@ -3,17 +3,17 @@
 ## Status
 
 - `Verified`: Approval State: APPROVED
-- `Verified`: Execution Class: phase-2-runtime-planning
+- `Verified`: Execution Class: phase-2-runtime-implementation
 - `Verified`: Priority: high
 
 ## Approved Unit
 
-- `UNIT-039` Author one bounded planning unit for the next Phase 2 runtime slice after verified minimal reassurance lane completion.
+- `UNIT-040` Execute the bounded Phase 2 minimal trust help prompt implementation slice.
 
 ## Objective
 
-- `Verified`: Define the next smallest safe Phase 2 runtime slice after the verified minimal reassurance lane proof and capture it as a documentation-only plan package with explicit scope, checks, risks, and stop conditions.
-- `Verified`: Keep `UNIT-039` limited to `workspace/plans/`, `state/`, and `workspace/handoff/CURRENT_HANDOFF.md` only.
+- `Verified`: Implement the approved minimal trust help prompt slice and keep it bounded to one restrained third trust-and-support proof.
+- `Verified`: Keep `UNIT-040` limited to the approved five runtime files plus state and handoff updates only.
 
 ## Plan Reference
 
@@ -41,4 +41,4 @@
 
 ## Stop Condition
 
-Stop if planning needs to touch `project/` runtime files, protected surfaces, `project/blocks/`, new snippets, more than one future section, more than one future template, runtime JS, or broad family build-out; stop if the next slice cannot be bounded clearly enough to fit a documentation-only plan package and replan the roadmap instead of improvising scope.
+Stop if implementation needs any file outside `project/assets/stone-base.css`, `project/sections/stone-trust-help-prompt.liquid`, `project/templates/page.stone-runtime-trust-help-prompt.json`, `project/locales/he.default.schema.json`, `project/locales/en.schema.json`, `state/`, and `workspace/handoff/CURRENT_HANDOFF.md`; stop if protected-surface edits, `project/blocks/`, any new snippet file, any second section file, any second template file, custom JS-driven behavior, contact-form behavior, testimonials, logos, ratings, guarantees, or broader family work becomes necessary, and replan instead of broadening scope.
