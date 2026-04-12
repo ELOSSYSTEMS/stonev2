@@ -3,26 +3,31 @@
 ## Status
 
 - `Verified`: Approval State: APPROVED
-- `Verified`: Execution Class: phase-3-docs-planning
+- `Verified`: Execution Class: phase-3-runtime-implementation
 - `Verified`: Priority: high
 
 ## Approved Unit
 
-- `UNIT-089` Author the post-category-entry merchandising frontier review.
+- `UNIT-090` Execute the category-entry spotlight variant slice.
 
 ## Objective
 
-- `Verified`: Re-evaluate Stone V2 immediately after the verified category-entry merchandising slice.
-- `Verified`: Decide whether the next honest move should remain inside the merchandising family, pause runtime expansion, or shift to a different governed planning problem.
-- `Verified`: If continuation is justified, author one docs-only planning package with exact scope, checks, risks, and stop conditions for the next bounded step.
+- `Verified`: Extend the verified category-entry merchandising family with one promotion-first spotlight layout mode.
+- `Verified`: Reuse `stone-collection-card` as the only collection-card snippet surface.
+- `Verified`: Keep the slice non-JS, collection-link-only, and free of protected-surface or heavier-commerce drift.
 
 ## Plan Reference
 
-- `Not required`: This is a docs-only frontier review following verified `UNIT-088`.
+- `Path:` `workspace/plans/phase-3-category-entry-spotlight-boundary-v1/PLAN.v1.md`
 
 ## Allowed Files Or Surfaces
 
-- `workspace/plans/`
+- `project/assets/stone-base.css`
+- `project/snippets/stone-collection-card.liquid`
+- `project/sections/stone-category-entry-grid.liquid`
+- `project/templates/page.stone-runtime-category-entry-grid.json`
+- `project/locales/he.default.schema.json`
+- `project/locales/en.schema.json`
 - `state/`
 - `workspace/handoff/CURRENT_HANDOFF.md`
 
@@ -38,4 +43,4 @@
 
 ## Stop Condition
 
-Stop if the frontier review attempts runtime work, widens beyond docs-only planning surfaces, retroactively loosens the verified category-entry boundary, or authorizes JS, protected-surface edits, extra runtime files, or heavier-commerce behavior without a new explicit bounded package.
+Stop if implementation needs any runtime file outside the approved six runtime files, any new snippet, any new section, any new template, blocks, list settings, pricing logic, product-card behavior, rails, carousels, shoppable-media behavior, JS changes, or protected-surface edits. Fail closed instead of normalizing scope expansion.

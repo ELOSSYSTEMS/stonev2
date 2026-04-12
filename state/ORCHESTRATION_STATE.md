@@ -8,14 +8,14 @@
 
 ## Current Phase
 
-- `Verified`: Active roadmap phase: Phase 3 docs-only frontier planning after verified category-entry expansion
-- `Verified`: Last completed phase slice: Phase 3 category-entry merchandising verification slice
-- `Inference`: Next bounded slice: author the post-category-entry merchandising frontier review and decide the next honest boundary
+- `Verified`: Active roadmap phase: Phase 3 bounded category-entry spotlight expansion after verified post-category-entry frontier review
+- `Verified`: Last completed phase slice: Phase 3 post-category-entry merchandising frontier review
+- `Inference`: Next bounded slice: execute one spotlight variant inside the verified category-entry family
 
 ## Approval State
 
 - `Verified`: Current next action approval: APPROVED
-- `Verified`: Approval basis: `UNIT-088` verified that the category-entry slice held the exact approved six-file runtime boundary and did not drift into heavier commerce or protected surfaces
+- `Verified`: Approval basis: `UNIT-089` determined that the next honest step is an in-family spotlight variant inside `stone-category-entry-grid`, not a second collection-discovery section or heavier merchandising expansion
 
 ## Lock State
 
