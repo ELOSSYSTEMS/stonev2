@@ -1978,6 +1978,18 @@
               "label": "Relaxed"
             }
           }
+        },
+        "layout_mode": {
+          "label": "Layout mode",
+          "info": "Switches the category-entry family between a balanced grid and a spotlight lead variant.",
+          "options": {
+            "grid": {
+              "label": "Balanced grid"
+            },
+            "spotlight": {
+              "label": "Spotlight lead"
+            }
+          }
         }
       }
     }

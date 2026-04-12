@@ -3,6 +3,7 @@
   assign stone_intro = section.settings.intro
   assign stone_intro_plain = stone_intro | strip_html | strip
   assign stone_surface_style = section.settings.surface_style | default: 'outline'
+  assign stone_layout_mode = section.settings.layout_mode | default: 'grid'
   assign stone_collection_primary = section.settings.collection_primary
   assign stone_collection_secondary = section.settings.collection_secondary
   assign stone_collection_tertiary = section.settings.collection_tertiary
@@ -21,7 +22,9 @@
   capture stone_section_content
     echo '<div class="stone-category-entry-grid stone-category-entry-grid--'
     echo stone_surface_style | escape
-    echo '">'
+    echo ' stone-category-entry-grid--layout-'
+    echo stone_layout_mode | escape
+    echo '">' 
 
     if stone_intro_plain != blank
       echo '<div class="stone-category-entry-grid__intro stone-richtext-flow rte">'
@@ -39,17 +42,36 @@
       echo '</p>'
       echo '</div>'
 
-      echo '<div class="stone-category-entry-grid__items">'
-      if stone_collection_primary != blank
-        render 'stone-collection-card', collection: stone_collection_primary, surface_style: stone_surface_style
+      if stone_layout_mode == 'spotlight' and stone_collection_primary != blank
+        echo '<div class="stone-category-entry-grid__spotlight">'
+        echo '<div class="stone-category-entry-grid__lead">'
+        render 'stone-collection-card', collection: stone_collection_primary, surface_style: stone_surface_style, card_emphasis: 'spotlight'
+        echo '</div>'
+
+        if stone_collection_secondary != blank or stone_collection_tertiary != blank
+          echo '<div class="stone-category-entry-grid__secondary">'
+          if stone_collection_secondary != blank
+            render 'stone-collection-card', collection: stone_collection_secondary, surface_style: 'outline'
+          endif
+          if stone_collection_tertiary != blank
+            render 'stone-collection-card', collection: stone_collection_tertiary, surface_style: 'outline'
+          endif
+          echo '</div>'
+        endif
+        echo '</div>'
+      else
+        echo '<div class="stone-category-entry-grid__items">'
+        if stone_collection_primary != blank
+          render 'stone-collection-card', collection: stone_collection_primary, surface_style: stone_surface_style
+        endif
+        if stone_collection_secondary != blank
+          render 'stone-collection-card', collection: stone_collection_secondary, surface_style: stone_surface_style
+        endif
+        if stone_collection_tertiary != blank
+          render 'stone-collection-card', collection: stone_collection_tertiary, surface_style: stone_surface_style
+        endif
+        echo '</div>'
       endif
-      if stone_collection_secondary != blank
-        render 'stone-collection-card', collection: stone_collection_secondary, surface_style: stone_surface_style
-      endif
-      if stone_collection_tertiary != blank
-        render 'stone-collection-card', collection: stone_collection_tertiary, surface_style: stone_surface_style
-      endif
-      echo '</div>'
     else
       echo '<p class="stone-category-entry-grid__empty">'
       echo 'sections.stone_category_entry_grid.empty_state' | t
@@ -103,6 +125,23 @@
       "id": "collection_tertiary",
       "label": "t:sections.stone_category_entry_grid.settings.collection_tertiary.label",
       "info": "t:sections.stone_category_entry_grid.settings.collection_tertiary.info"
+    },
+    {
+      "type": "select",
+      "id": "layout_mode",
+      "label": "t:sections.stone_category_entry_grid.settings.layout_mode.label",
+      "info": "t:sections.stone_category_entry_grid.settings.layout_mode.info",
+      "default": "grid",
+      "options": [
+        {
+          "value": "grid",
+          "label": "t:sections.stone_category_entry_grid.settings.layout_mode.options.grid.label"
+        },
+        {
+          "value": "spotlight",
+          "label": "t:sections.stone_category_entry_grid.settings.layout_mode.options.spotlight.label"
+        }
+      ]
     },
     {
       "type": "select",

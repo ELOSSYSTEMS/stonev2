@@ -4,20 +4,24 @@
 
 - `Verified`: The product-discovery side of the merchandising family is complete through the verified spotlight extension.
 - `Verified`: The distinct category-entry discovery surface is complete and verified.
-- `Verified`: The next approved step is one bounded spotlight variant inside the category-entry family.
+- `Verified`: The next in-family category-entry spotlight variant is now implemented inside the same bounded six-file runtime slice.
+- `Verified`: Verification is the only approved next step.
 
 ## Current State
 
-- `Verified`: `UNIT-089` concluded that the next honest move is one spotlight variant inside `stone-category-entry-grid`, not a second collection-discovery section.
-- `Verified`: `state/NEXT_ACTION.md` now points to `UNIT-090`, the bounded implementation of that category-entry spotlight variant.
+- `Verified`: `UNIT-089` approved one spotlight variant inside `stone-category-entry-grid` instead of opening a second collection-discovery section.
+- `Verified`: `UNIT-090` implemented that spotlight variant by extending `stone-category-entry-grid` and `stone-collection-card` with one bounded `layout_mode` and lead-card emphasis.
+- `Verified`: `UNIT-090` updated only the approved six runtime files plus governed state and handoff files.
+- `Verified`: `state/NEXT_ACTION.md` now points to `UNIT-091`, the bounded verification pass for the category-entry spotlight slice.
 
 ## Changed Or Seeded Files
 
-- `Verified`: `workspace/plans/phase-3-category-entry-spotlight-boundary-v1/PLAN.v1.md`
-- `Verified`: `workspace/plans/phase-3-category-entry-spotlight-boundary-v1/ASSUMPTIONS.v1.md`
-- `Verified`: `workspace/plans/phase-3-category-entry-spotlight-boundary-v1/CHECKS.v1.md`
-- `Verified`: `workspace/plans/phase-3-category-entry-spotlight-boundary-v1/RISKS.v1.md`
-- `Verified`: `workspace/plans/phase-3-category-entry-spotlight-boundary-v1/HANDOFF.v1.md`
+- `Verified`: `project/assets/stone-base.css`
+- `Verified`: `project/snippets/stone-collection-card.liquid`
+- `Verified`: `project/sections/stone-category-entry-grid.liquid`
+- `Verified`: `project/templates/page.stone-runtime-category-entry-grid.json`
+- `Verified`: `project/locales/he.default.schema.json`
+- `Verified`: `project/locales/en.schema.json`
 - `Verified`: `state/ORCHESTRATION_STATE.md`
 - `Verified`: `state/STATUS.md`
 - `Verified`: `state/NEXT_ACTION.md`
@@ -27,18 +31,18 @@
 
 ## Open Assumptions
 
-- `Verified`: The next runtime slice must stay on the exact category-entry spotlight six-file boundary and must not open a second collection-discovery section.
-- `Verified`: The spotlight proof should reuse `stone-collection-card`, add only a bounded `layout_mode`, and keep the same three explicit collection settings.
-- `Inference`: If the spotlight proof cannot stay coherent inside this boundary, the correct move is to stop and author a new docs-only boundary instead of forcing runtime expansion.
+- `Verified`: The category-entry spotlight slice must remain collection-link-only and must not pick up pricing, product behavior, extra settings, JS, or protected-surface edits.
+- `Verified`: Verification must explicitly confirm `layout_mode` remains limited to `grid` and `spotlight`, and that the section still exposes exactly three explicit collection settings.
+- `Inference`: If verification finds drift, the correct move is to fail closed rather than normalize the new surface.
 
 ## Recommended Next Step
 
-- `Verified`: Execute `UNIT-090` from `state/NEXT_ACTION.md` and implement one bounded spotlight variant inside the existing category-entry family.
+- `Verified`: Execute `UNIT-091` from `state/NEXT_ACTION.md` and verify exact scope, shared-snippet reuse, layout-mode bounds, setting limits, locale parity, and absence of protected-surface or heavier-commerce drift.
 
 ## Resume Checks
 
 - `Verified`: Read `workspace/plans/phase-3-category-entry-spotlight-boundary-v1/PLAN.v1.md`.
 - `Verified`: Read `state/ORCHESTRATION_STATE.md`, `state/STATUS.md`, `state/NEXT_ACTION.md`, `state/FEATURE_STATUS.md`, `state/PROGRESS.md`, and `state/SESSION_LOG.md`.
-- `Verified`: Confirm the next runtime unit is limited to the exact existing six runtime files.
-- `Verified`: Confirm no second section, second template, or second snippet is introduced inside `UNIT-090`.
-- `Verified`: Run `node HARNESS/checks/harness-check.mjs` after the docs-only planning pass.
+- `Verified`: Confirm runtime changes remain inside the exact approved six runtime files.
+- `Verified`: Confirm `stone-category-entry-grid` still renders via `stone-collection-card` and exposes only the approved `layout_mode` values.
+- `Verified`: Run `node HARNESS/checks/harness-check.mjs` after verification.

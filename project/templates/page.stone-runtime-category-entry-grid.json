@@ -5,6 +5,7 @@
       "settings": {
         "heading": "Category entry grid",
         "intro": "<p>Use this bounded merchandising surface to validate curated collection discovery without widening into heavier commerce behavior.</p>",
+        "layout_mode": "spotlight",
         "surface_style": "outline",
         "width_mode": "wide",
         "spacing_mode": "standard"

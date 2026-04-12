@@ -1558,3 +1558,29 @@ canvas {
 .stone-collection-card__link:focus-visible {
   text-decoration: underline;
 }
+
+.stone-category-entry-grid__spotlight,
+.stone-category-entry-grid__secondary {
+  display: grid;
+  gap: var(--stone-space-3);
+}
+
+@media screen and (min-width: 64rem) {
+  .stone-category-entry-grid--layout-spotlight .stone-category-entry-grid__spotlight {
+    grid-template-columns: minmax(0, 1.15fr) minmax(0, 0.85fr);
+    align-items: start;
+  }
+}
+
+.stone-collection-card--spotlight .stone-collection-card__image {
+  aspect-ratio: 1 / 1;
+}
+
+.stone-collection-card--spotlight .stone-collection-card__content {
+  gap: var(--stone-space-3);
+}
+
+.stone-collection-card--spotlight .stone-collection-card__title {
+  font-size: clamp(1.25rem, 2vw, 1.8rem);
+  line-height: 1.2;
+}

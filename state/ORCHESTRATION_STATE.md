@@ -8,14 +8,14 @@
 
 ## Current Phase
 
-- `Verified`: Active roadmap phase: Phase 3 bounded category-entry spotlight expansion after verified post-category-entry frontier review
-- `Verified`: Last completed phase slice: Phase 3 post-category-entry merchandising frontier review
-- `Inference`: Next bounded slice: execute one spotlight variant inside the verified category-entry family
+- `Verified`: Active roadmap phase: Phase 3 bounded category-entry spotlight verification after implementation
+- `Verified`: Last completed phase slice: Phase 3 category-entry spotlight implementation slice
+- `Inference`: Next bounded slice: verify exact scope and drift status for the category-entry spotlight slice
 
 ## Approval State
 
 - `Verified`: Current next action approval: APPROVED
-- `Verified`: Approval basis: `UNIT-089` determined that the next honest step is an in-family spotlight variant inside `stone-category-entry-grid`, not a second collection-discovery section or heavier merchandising expansion
+- `Verified`: Approval basis: `UNIT-090` implemented the in-family category-entry spotlight surface inside the exact approved six-file runtime boundary and is ready for bounded verification
 
 ## Lock State
 

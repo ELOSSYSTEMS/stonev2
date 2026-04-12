@@ -3,18 +3,18 @@
 ## Status
 
 - `Verified`: Approval State: APPROVED
-- `Verified`: Execution Class: phase-3-runtime-implementation
+- `Verified`: Execution Class: verification
 - `Verified`: Priority: high
 
 ## Approved Unit
 
-- `UNIT-090` Execute the category-entry spotlight variant slice.
+- `UNIT-091` Verify the category-entry spotlight variant slice.
 
 ## Objective
 
-- `Verified`: Extend the verified category-entry merchandising family with one promotion-first spotlight layout mode.
-- `Verified`: Reuse `stone-collection-card` as the only collection-card snippet surface.
-- `Verified`: Keep the slice non-JS, collection-link-only, and free of protected-surface or heavier-commerce drift.
+- `Verified`: Verify that the category-entry spotlight variant stayed inside the exact approved six-file runtime boundary.
+- `Verified`: Verify that `stone-category-entry-grid` still reuses `stone-collection-card`, exposes only the same three explicit collection settings, and limits `layout_mode` to `grid` and `spotlight`.
+- `Verified`: Verify that the slice remained non-JS, collection-link-only, and free of protected-surface or heavier-commerce drift.
 
 ## Plan Reference
 
@@ -43,4 +43,4 @@
 
 ## Stop Condition
 
-Stop if implementation needs any runtime file outside the approved six runtime files, any new snippet, any new section, any new template, blocks, list settings, pricing logic, product-card behavior, rails, carousels, shoppable-media behavior, JS changes, or protected-surface edits. Fail closed instead of normalizing scope expansion.
+Stop if verification finds any runtime file outside the approved six runtime files, any missing shared-snippet reuse, any extra setting or new runtime file, any layout-mode drift beyond `grid` and `spotlight`, any JS or protected-surface edits, or any heavier-commerce behavior. Fail closed instead of normalizing drift.

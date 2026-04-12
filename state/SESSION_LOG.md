@@ -8,6 +8,35 @@
 
 ### Session Entry
 
+- Timestamp: 2026-04-12 22:34 Asia/Jerusalem
+- Skill or Mode: `project-build`
+- Summary: implemented the bounded category-entry spotlight variant by extending the existing category-entry family and shared collection-card contract inside the same approved six-file runtime boundary
+- Files changed:
+  - `project/assets/stone-base.css`
+  - `project/snippets/stone-collection-card.liquid`
+  - `project/sections/stone-category-entry-grid.liquid`
+  - `project/templates/page.stone-runtime-category-entry-grid.json`
+  - `project/locales/he.default.schema.json`
+  - `project/locales/en.schema.json`
+  - `state/ORCHESTRATION_STATE.md`
+  - `state/STATUS.md`
+  - `state/NEXT_ACTION.md`
+  - `state/FEATURE_STATUS.md`
+  - `state/PROGRESS.md`
+  - `state/SESSION_LOG.md`
+  - `workspace/handoff/CURRENT_HANDOFF.md`
+- Checks run:
+  - template and locale parse via `node -`
+  - spotlight checks via `grep`
+  - explicit collection-setting checks via `grep`
+  - forbidden-scope grep via `grep`
+  - protected-surface diff via `git diff --name-only`
+  - exact runtime boundary validation via `node -`
+- Result: PASS
+- Follow-up: execute `UNIT-091` only as the bounded verification pass for the category-entry spotlight slice
+
+### Session Entry
+
 - Timestamp: 2026-04-12 20:47 Asia/Jerusalem
 - Skill or Mode: `project-plan`
 - Summary: authored the post-category-entry merchandising frontier review, rejected premature second-section expansion, and approved one bounded category-entry spotlight boundary for the next runtime unit

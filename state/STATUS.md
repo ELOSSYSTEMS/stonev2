@@ -3,7 +3,7 @@
 ## Snapshot
 
 - `Verified`: Repo state: harness foundation populated
-- `Verified`: Storefront runtime state: the broader merchandising foundation slice, spotlight product-discovery variant, and distinct category-entry merchandising slice are complete and verified, and the next approved step is one bounded spotlight variant inside the category-entry family.
+- `Verified`: Storefront runtime state: the broader merchandising foundation slice, spotlight product-discovery variant, verified category-entry slice, and in-family category-entry spotlight variant are all now implemented inside bounded six-file scopes.
 - `Verified`: Architecture authority: the five documents under `docs/architecture/`
 - `Verified`: Current active planning package: `workspace/plans/phase-3-category-entry-spotlight-boundary-v1/`
 
@@ -28,15 +28,16 @@
 - `Verified`: Preserve Hebrew-first assumptions
 - `Verified`: Treat bilingual Hebrew and English editor support as a core architectural requirement
 - `Verified`: Do not copy code or markup from external reference themes
-- `Verified`: The next approved category-entry spotlight step remains non-JS and collection-link-only
+- `Verified`: The category-entry spotlight slice remains non-JS and collection-link-only
 
 ## Current Outcome
 
-- `Verified`: `UNIT-086` through `UNIT-088` established and verified a distinct category-entry discovery surface in the merchandising family.
-- `Verified`: `UNIT-089` concludes the next honest move is one in-family spotlight variant inside `stone-category-entry-grid` rather than a second collection-discovery section.
-- `Inference`: Stone V2 is now positioned to deepen the collection-discovery side of the merchandising family through one more bounded, in-family variation.
+- `Verified`: `UNIT-089` concluded the next honest move was one spotlight variant inside `stone-category-entry-grid` rather than a second collection-discovery section.
+- `Verified`: `UNIT-090` implemented that spotlight variant by extending the existing `stone-category-entry-grid` and `stone-collection-card` surfaces rather than creating new runtime files.
+- `Verified`: `UNIT-090` added one bounded `layout_mode` setting, one spotlight lead treatment, and kept the same three explicit collection settings.
+- `Inference`: The repo is ready for bounded verification of the category-entry spotlight slice.
 
 ## Risks And Blocks
 
-- `Verified`: Runtime expansion remains bounded to the category-entry spotlight six-file surface for `UNIT-090`.
-- `Inference`: Any discovered need for new files, blocks, list settings, pricing logic, product-card behavior, rails/carousels, shoppable-media behavior, JS, or protected-surface edits should trigger a new docs-only boundary decision rather than widening the approved next slice.
+- `Verified`: Runtime expansion remains paused pending `UNIT-091` verification.
+- `Inference`: Any discovered need for new files, extra settings, pricing logic, product behavior, JS, protected-surface edits, rails/carousels, or shoppable-media behavior should trigger a new docs-only boundary decision rather than widening the approved slice.
