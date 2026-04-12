@@ -2,29 +2,29 @@
 
 ## Current Phase
 
-- `Verified`: Roadmap phase: the broader merchandising foundation boundary is complete and the repo is positioned for the first broader implementation slice
+- `Verified`: Roadmap phase: the first broader merchandising foundation implementation slice is complete and the repo is positioned for the corresponding verification unit.
 
 ## Approved Next Action
 
-- `Verified`: `UNIT-081` execute the first broader merchandising foundation implementation slice
+- `Verified`: `UNIT-082` verify the first broader merchandising foundation implementation slice.
 
 ## Last Completed Unit
 
-- `Verified`: Unit ID: `UNIT-080`
-- `Verified`: Summary: authored the first broader merchandising foundation boundary, fixed the exact six-file implementation scope, and translated Phase 3 planning into one explicitly bounded broader build step
+- `Verified`: Unit ID: `UNIT-081`
+- `Verified`: Summary: implemented one shared product-card snippet, one featured-collection merchandising section, one neutral host template, bounded CSS extensions, and paired locale updates inside the exact approved six-file runtime boundary.
 
 ## Verification Status
 
-- `Verified`: Verdict: PASS for `UNIT-080`; the broader merchandising foundation boundary is complete
-- `Verified`: Evidence: `workspace/plans/phase-3-merchandising-foundation-boundary-v1/PLAN.v1.md`; `workspace/plans/phase-3-merchandising-foundation-boundary-v1/ASSUMPTIONS.v1.md`; `workspace/plans/phase-3-merchandising-foundation-boundary-v1/CHECKS.v1.md`; `workspace/plans/phase-3-merchandising-foundation-boundary-v1/RISKS.v1.md`; `workspace/plans/phase-3-merchandising-foundation-boundary-v1/HANDOFF.v1.md`; `workspace/plans/phase-3-broader-merchandising-platform-v1/PLAN.v1.md`; `node HARNESS/checks/check-state-artifacts.mjs`; `node HARNESS/checks/check-next-action-scope.mjs`; `node HARNESS/checks/check-plan-exists.mjs`; `node HARNESS/checks/check-handoff-completeness.mjs`; `node HARNESS/checks/check-approval-state.mjs`; `node HARNESS/checks/check-lock-state.mjs`; `node HARNESS/checks/harness-check.mjs`
+- `Verified`: Verdict: PASS for `UNIT-081`; the first broader merchandising foundation implementation slice is complete.
+- `Verified`: Evidence: `project/assets/stone-base.css`; `project/snippets/stone-product-card.liquid`; `project/sections/stone-featured-collection-grid.liquid`; `project/templates/page.stone-runtime-featured-collection-grid.json`; `project/locales/he.default.schema.json`; `project/locales/en.schema.json`; `node HARNESS/checks/check-state-artifacts.mjs`; `node HARNESS/checks/check-next-action-scope.mjs`; `node HARNESS/checks/check-plan-exists.mjs`; `node HARNESS/checks/check-handoff-completeness.mjs`; `node HARNESS/checks/check-approval-state.mjs`; `node HARNESS/checks/check-lock-state.mjs`; `node HARNESS/checks/harness-check.mjs`
 
 ## Active Blockers
 
-- `Verified`: Broader runtime implementation remains paused beyond the approved `UNIT-081` implementation scope until that broader slice is executed and re-evaluated.
-- `Inference`: Any discovered need to exceed the formalized collection-companion boundary should be treated as a governance failure rather than permission to normalize scope expansion.
+- `Verified`: Broader runtime build-out remains paused beyond the approved `UNIT-082` verification scope until the first broader merchandising foundation slice is verified and re-evaluated.
+- `Inference`: Any discovered need for protected-surface edits, JS changes, additional snippets, additional sections, additional templates, or commerce-action behavior remains a new governance boundary problem, not permission to widen `UNIT-081` retroactively.
 
 ## Resume Notes
 
-- `Verified`: Read the five architecture documents in `docs/architecture/`, the three Phase 1 canon artifacts in `workspace/specs/`, and the completed Phase 2 plan packages already present under `workspace/plans/`.
-- `Verified`: Use the verified runtime chain through `UNIT-046` as the starting boundary proof for the next verification unit.
-- `Verified`: Keep the next unit bounded to `project/assets/stone-base.css`, `project/sections/stone-trust-testimonial.liquid`, `project/templates/page.stone-runtime-trust-testimonial.json`, `project/locales/he.default.schema.json`, `project/locales/en.schema.json`, plus `state/` and `workspace/handoff/CURRENT_HANDOFF.md` only.
+- `Verified`: Resume from branch `codex/unit-081-merchandising-foundation-impl`.
+- `Verified`: Verify the exact six runtime files only and confirm shared snippet reuse via `render 'stone-product-card'`.
+- `Verified`: Fail closed if verification reveals add-to-cart, product-form, quick-add, quick-view, drawer, overlay, variant, inventory, recommendation, or protected-surface drift.

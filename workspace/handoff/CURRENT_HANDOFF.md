@@ -2,157 +2,28 @@
 
 ## Summary
 
-- `Verified`: The bounded Phase 2 minimal runtime foundation slice is implemented and verified, the bounded Phase 2 minimal section runtime substrate slice is implemented and verified, the bounded Phase 2 minimal utility block stack slice is implemented and verified, the bounded Phase 2 minimal utility layout composition slice is implemented and verified, the bounded Phase 2 minimal utility action group slice is implemented and verified, the bounded Phase 2 minimal utility key-value list planning slice is complete, the bounded Phase 2 minimal utility key-value list implementation slice is complete, the bounded Phase 2 minimal utility key-value list verification slice is complete, the bounded Phase 2 minimal utility divider band planning slice is complete, the bounded Phase 2 minimal utility divider band implementation slice is complete, the bounded Phase 2 minimal utility divider band verification slice is complete, the bounded Phase 2 minimal utility notice planning slice is complete, the bounded Phase 2 minimal utility notice implementation slice is complete, the bounded Phase 2 minimal utility notice verification slice is complete, the bounded Phase 2 minimal utility prompt planning slice is complete, the bounded Phase 2 minimal utility prompt implementation slice is complete, the bounded Phase 2 minimal utility prompt verification slice is complete, the bounded Phase 2 minimal utility spacer planning slice is complete, the bounded Phase 2 minimal utility spacer implementation slice is complete, the bounded Phase 2 minimal utility spacer verification slice is complete, the bounded Phase 2 minimal trust FAQ planning slice is complete, the bounded Phase 2 minimal trust FAQ implementation slice is complete, the bounded Phase 2 minimal trust FAQ verification slice is complete, the bounded Phase 2 minimal reassurance lane planning slice is complete, the bounded Phase 2 minimal reassurance lane implementation slice is complete, the bounded Phase 2 minimal reassurance lane verification slice is complete, the bounded Phase 2 minimal trust help prompt planning slice is complete, the bounded Phase 2 minimal trust help prompt implementation slice is complete, the bounded Phase 2 minimal trust help prompt verification slice is complete, the bounded Phase 2 minimal trust logo rail planning slice is complete, the bounded Phase 2 minimal trust logo rail implementation slice is complete, the bounded Phase 2 minimal trust logo rail verification slice is complete, the bounded Phase 2 minimal trust testimonial planning slice is complete, the bounded Phase 2 minimal trust testimonial implementation slice is complete, the bounded Phase 2 minimal trust testimonial verification slice is complete, the bounded Phase 2 minimal trust stat strip planning slice is complete, the bounded Phase 2 minimal trust stat strip implementation slice is complete, the bounded Phase 2 minimal trust stat strip verification slice is complete, the bounded Phase 2 minimal story split planning slice is complete, the bounded Phase 2 minimal story split implementation slice is complete, the bounded Phase 2 minimal story split verification slice is complete, and the bounded Phase 2 minimal content card strip planning slice is complete, the bounded Phase 2 minimal content card strip implementation slice is complete, the bounded Phase 2 minimal content card strip verification slice is complete, and the bounded Phase 2 minimal process steps planning slice is complete, the bounded Phase 2 minimal process steps implementation slice is complete, the bounded Phase 2 minimal process steps verification slice is complete, and the bounded Phase 2 minimal editorial quote planning slice is complete, the bounded Phase 2 minimal editorial quote implementation slice is complete, the bounded Phase 2 minimal editorial quote verification slice is complete, the bounded Phase 2 minimal blog-highlights planning slice is complete, the bounded Phase 2 blog-highlights distinctness decision slice is complete, the bounded Phase 2 frontier replan slice is complete, the bounded Phase 2 controlled-expansion proposal slice is complete, the bounded Phase 2 object-aware content/blog boundary slice is complete, the bounded Phase 2 object-aware article-highlights implementation slice is complete, the bounded Phase 2 object-aware article-highlights verification slice is complete, and the bounded Phase 2 post-object-aware frontier review slice is complete, and the bounded Phase 2 collection-companion boundary slice is complete, and the bounded Phase 2 collection context card implementation slice is complete, and the bounded Phase 2 collection context card verification slice is complete, and the bounded Phase 2 post-collection frontier review slice is complete, and the bounded Phase 2 PDP-companion boundary slice is complete, and the bounded Phase 2 product context card implementation slice is complete, and the bounded Phase 2 product context card verification slice is complete, and the bounded Phase 2 post-pdp frontier review slice is complete, and the broader Phase 3 planning package is complete, and the broader merchandising foundation boundary package is complete.
+- `Verified`: The bounded Phase 2 proof chain is complete through the verified PDP companion frontier.
+- `Verified`: The broader Phase 3 planning package is complete.
+- `Verified`: The broader merchandising foundation boundary package is complete.
+- `Verified`: The first broader merchandising foundation implementation slice is complete.
 
 ## Current State
 
-- `Verified`: Phase 1 architecture canon is complete, the approved Phase 2 minimal runtime foundation implementation and verification units are complete, and the approved Phase 2 minimal section runtime substrate implementation and verification units are complete.
-- `Verified`: `UNIT-008` confirmed that `UNIT-007` stayed inside the approved six-file runtime boundary, kept the section-shell snippet neutral, kept the section utility-only, kept the template neutral, and preserved bilingual locale parity.
-- `Verified`: `UNIT-010` implemented `project/sections/stone-utility-block-stack.liquid` and `project/templates/page.stone-runtime-block-stack.json`, extended `project/assets/stone-base.css` with neutral utility-stack primitives, and updated the paired locale files inside the approved five-file runtime boundary.
-- `Verified`: `UNIT-011` confirmed that `UNIT-010` stayed inside the approved five-file runtime boundary, reused the shared section shell unchanged, stayed utility-only, kept the neutral page host isolated, and preserved bilingual locale parity.
-- `Verified`: `UNIT-012` authored `workspace/plans/phase-2-minimal-utility-layout-composition-v1/`, which fixes the next runtime slice to one utility-only layout-composition section, one neutral alternate page template, one bounded base-layer CSS extension, and paired locale updates.
-- `Verified`: `UNIT-013` implemented `project/sections/stone-utility-layout-composition.liquid` and `project/templates/page.stone-runtime-layout-composition.json`, extended `project/assets/stone-base.css` with neutral responsive two-region composition primitives, and updated the paired locale files inside the approved five-file runtime boundary.
-- `Verified`: `UNIT-014` confirmed that `UNIT-013` stayed inside the approved five-file runtime boundary, reused `stone-section-shell` unchanged, stayed utility-only and exactly two-region, kept the neutral host isolated, and preserved bilingual locale parity.
-- `Verified`: `UNIT-015` authored `workspace/plans/phase-2-minimal-utility-action-group-v1/`, which fixes the next runtime slice to one utility-only native action-group section, one neutral alternate page template, one bounded base-layer CSS extension, and paired locale updates.
-- `Verified`: `UNIT-016` implemented `project/sections/stone-utility-action-group.liquid` and `project/templates/page.stone-runtime-action-group.json`, extended `project/assets/stone-base.css` with neutral grouped-action primitives, and updated the paired locale files inside the approved five-file runtime boundary.
-- `Verified`: `UNIT-017` confirmed that `UNIT-016` stayed inside the approved five-file runtime boundary, reused `stone-section-shell` unchanged, stayed utility-only, kept the neutral template host isolated, and preserved bilingual locale parity.
-- `Verified`: `UNIT-018` authored `workspace/plans/phase-2-minimal-utility-key-value-list-v1/`, which fixes the next runtime slice to one utility-only structured key-value section, one neutral alternate page template, one bounded base-layer CSS extension, and paired locale updates.
-- `Verified`: `UNIT-019` implemented `project/sections/stone-utility-key-value-list.liquid` and `project/templates/page.stone-runtime-key-value-list.json`, extended `project/assets/stone-base.css` with neutral structured-list primitives, and updated the paired locale files inside the approved five-file runtime boundary.
-- `Verified`: `UNIT-020` confirmed that `UNIT-019` stayed inside the approved five-file runtime boundary, reused `stone-section-shell` unchanged, stayed utility-only, kept the neutral template host isolated, and preserved bilingual locale parity.
-- `Verified`: `UNIT-021` authored `workspace/plans/phase-2-minimal-utility-divider-band-v1/`, which fixes the next runtime slice to one utility-only divider-band section, one neutral alternate page template, one bounded base-layer CSS extension, and paired locale updates.
-- `Verified`: `UNIT-022` implemented `project/sections/stone-utility-divider-band.liquid` and `project/templates/page.stone-runtime-divider-band.json`, extended `project/assets/stone-base.css` with neutral divider-band primitives, and updated the paired locale files inside the approved five-file runtime boundary.
-- `Verified`: `UNIT-023` confirmed that `UNIT-022` stayed inside the approved five-file runtime boundary, reused `stone-section-shell` unchanged, stayed utility-only, kept the neutral template host isolated, and preserved bilingual locale parity.
-- `Verified`: `UNIT-024` authored `workspace/plans/phase-2-minimal-utility-notice-v1/`, which fixes the next runtime slice to one utility-only contained notice section, one neutral alternate page template, one bounded base-layer CSS extension, and paired locale updates.
-- `Verified`: `UNIT-025` implemented `project/sections/stone-utility-notice.liquid` and `project/templates/page.stone-runtime-notice.json`, extended `project/assets/stone-base.css` with neutral utility notice primitives, and updated the paired locale files inside the approved five-file runtime boundary.
-- `Verified`: `UNIT-026` confirmed that `UNIT-025` stayed inside the approved five-file runtime boundary, reused `stone-section-shell` unchanged, stayed utility-only, kept the neutral template host isolated, and preserved bilingual locale parity.
-- `Verified`: `UNIT-027` authored `workspace/plans/phase-2-minimal-utility-prompt-v1/`, which fixes the next runtime slice to one utility-only contained prompt section, one neutral alternate page template, one bounded base-layer CSS extension, and paired locale updates.
-- `Verified`: `UNIT-028` implemented `project/sections/stone-utility-prompt.liquid` and `project/templates/page.stone-runtime-prompt.json`, extended `project/assets/stone-base.css` with neutral utility prompt primitives, and updated the paired locale files inside the approved five-file runtime boundary.
-- `Verified`: `UNIT-029` verified that the utility prompt implementation touched only the approved five runtime files, reused `stone-section-shell` unchanged, stayed utility-only, kept the page host neutral, and preserved bilingual locale parity.
-- `Verified`: `UNIT-030` authored the bounded minimal utility spacer plan package under `workspace/plans/phase-2-minimal-utility-spacer-v1/` and fixed the next runtime slice to the approved five-file spacer implementation boundary.
-- `Verified`: `UNIT-031` implemented `project/sections/stone-utility-spacer.liquid` and `project/templates/page.stone-runtime-spacer.json`, extended `project/assets/stone-base.css` with neutral utility spacer primitives, and updated the paired locale files inside the approved five-file runtime boundary.
-- `Verified`: `UNIT-032` verified that the utility spacer implementation touched only the approved five runtime files, reused `stone-section-shell` unchanged, stayed utility-only, kept the page host neutral, and preserved bilingual locale parity.
-- `Verified`: `UNIT-033` authored the bounded minimal trust FAQ plan package under `workspace/plans/phase-2-minimal-trust-faq-v1/` and fixed the next runtime slice to the approved five-file trust FAQ implementation boundary.
-- `Verified`: `UNIT-034` implemented `project/sections/stone-trust-faq.liquid` and `project/templates/page.stone-runtime-trust-faq.json`, extended `project/assets/stone-base.css` with restrained FAQ stack primitives, and updated the paired locale files inside the approved five-file runtime boundary.
-- `Verified`: `UNIT-035` verified that the trust FAQ implementation touched only the approved five runtime files, reused `stone-section-shell` unchanged, stayed bounded and non-JS, kept the page host neutral, and preserved bilingual locale parity.
-- `Verified`: `UNIT-036` authored the bounded minimal reassurance lane plan package under `workspace/plans/phase-2-minimal-reassurance-lane-v1/` and fixed the next runtime slice to the approved five-file reassurance-lane implementation boundary.
-- `Verified`: `UNIT-037` implemented `project/sections/stone-trust-reassurance-lane.liquid` and `project/templates/page.stone-runtime-reassurance-lane.json`, extended `project/assets/stone-base.css` with restrained reassurance-lane primitives, and updated the paired locale files inside the approved five-file runtime boundary.
-- `Verified`: `UNIT-038` verified that `UNIT-037` touched only the approved five runtime files, reused `stone-section-shell` unchanged, stayed bounded and non-JS, kept the host template neutral, and preserved bilingual locale parity.
-- `Verified`: `UNIT-039` authored the bounded minimal trust help prompt plan package under `workspace/plans/phase-2-minimal-trust-help-prompt-v1/` and fixed the next runtime slice to the approved five-file trust-help-prompt implementation boundary.
-- `Verified`: `UNIT-040` implemented `project/sections/stone-trust-help-prompt.liquid` and `project/templates/page.stone-runtime-trust-help-prompt.json`, extended `project/assets/stone-base.css` with restrained trust-help-prompt primitives, and updated the paired locale files inside the approved five-file runtime boundary.
-- `Verified`: `UNIT-041` verified that `UNIT-040` touched only the approved five runtime files, reused `stone-section-shell` unchanged, stayed bounded and non-JS, kept the host template neutral, preserved bilingual locale parity, and remained distinct from the verified utility prompt.
-- `Verified`: `UNIT-042` authored the bounded minimal trust logo rail plan package under `workspace/plans/phase-2-minimal-trust-logo-rail-v1/` and fixed the next runtime slice to the approved five-file trust-logo-rail implementation boundary.
-- `Verified`: `UNIT-043` implemented `project/sections/stone-trust-logo-rail.liquid` and `project/templates/page.stone-runtime-trust-logo-rail.json`, extended `project/assets/stone-base.css` with restrained trust-logo-rail primitives, and updated the paired locale files inside the approved five-file runtime boundary.
-- `Verified`: `UNIT-044` verified that `UNIT-043` touched only the approved five runtime files, reused `stone-section-shell` unchanged, stayed bounded and non-JS, kept the host template neutral, and preserved bilingual locale parity.
-- `Verified`: `UNIT-045` authored the bounded minimal trust testimonial plan package under `workspace/plans/phase-2-minimal-trust-testimonial-v1/` and fixed the next runtime slice to the approved five-file trust-testimonial implementation boundary.
-- `Verified`: `UNIT-046` implemented `project/sections/stone-trust-testimonial.liquid` and `project/templates/page.stone-runtime-trust-testimonial.json`, extended `project/assets/stone-base.css` with restrained trust-testimonial primitives, and updated the paired locale files inside the approved five-file runtime boundary.
-- `Verified`: `UNIT-047` verified that `UNIT-046` touched only the approved five runtime files, reused `stone-section-shell` unchanged, stayed bounded and non-JS, kept the host template neutral, and preserved bilingual locale parity.
-- `Verified`: `UNIT-048` authored the bounded minimal trust stat strip plan package under `workspace/plans/phase-2-minimal-trust-stat-strip-v1/` and fixed the next runtime slice to the approved five-file trust-stat-strip implementation boundary.
-- `Verified`: `UNIT-049` implemented `project/sections/stone-trust-stat-strip.liquid` and `project/templates/page.stone-runtime-trust-stat-strip.json`, extended `project/assets/stone-base.css` with restrained trust-stat-strip primitives, and updated the paired locale files inside the approved five-file runtime boundary.
-- `Verified`: `UNIT-050` verified that `UNIT-049` touched only the approved five runtime files, reused `stone-section-shell` unchanged, stayed bounded and non-JS, kept the host template neutral, and preserved bilingual locale parity.
-- `Verified`: `UNIT-051` authored the bounded minimal story split plan package under `workspace/plans/phase-2-minimal-story-split-v1/` and fixed the next runtime slice to the approved five-file story-split implementation boundary.
-- `Verified`: `UNIT-052` implemented `project/sections/stone-story-split.liquid` and `project/templates/page.stone-runtime-story-split.json`, extended `project/assets/stone-base.css` with restrained story-split primitives, and updated the paired locale files inside the approved five-file runtime boundary.
-- `Verified`: `UNIT-053` verified that `UNIT-052` touched only the approved five runtime files, reused `stone-section-shell` unchanged, stayed bounded and non-JS, kept the host template neutral, and preserved bilingual locale parity.
-- `Verified`: `UNIT-054` authored the bounded minimal content card strip plan package under `workspace/plans/phase-2-minimal-content-card-strip-v1/` and fixed the next runtime slice to the approved five-file content-card-strip implementation boundary.
-- `Verified`: `UNIT-055` implemented `project/sections/stone-content-card-strip.liquid` and `project/templates/page.stone-runtime-content-card-strip.json`, extended `project/assets/stone-base.css` with restrained content-card-strip primitives, and updated the paired locale files inside the approved five-file runtime boundary.
-- `Verified`: `UNIT-056` verified that `UNIT-055` touched only the approved five runtime files, reused `stone-section-shell` unchanged, stayed bounded and non-JS, kept the host template neutral, and preserved bilingual locale parity.
-- `Verified`: `UNIT-057` authored the bounded minimal process steps plan package under `workspace/plans/phase-2-minimal-process-steps-v1/` and fixed the next runtime slice to the approved five-file process-steps implementation boundary.
-- `Verified`: `UNIT-058` implemented `project/sections/stone-process-steps.liquid` and `project/templates/page.stone-runtime-process-steps.json`, extended `project/assets/stone-base.css` with restrained process-steps primitives, and updated the paired locale files inside the approved five-file runtime boundary.
-- `Verified`: `UNIT-059` verified that `UNIT-058` touched only the approved five runtime files, reused `stone-section-shell` unchanged, stayed bounded and non-JS, kept the host template neutral, and preserved bilingual locale parity.
-- `Verified`: `UNIT-060` authored the bounded minimal editorial quote plan package under `workspace/plans/phase-2-minimal-editorial-quote-v1/` and fixed the next runtime slice to the approved five-file editorial-quote implementation boundary.
-- `Verified`: `UNIT-061` implemented `project/sections/stone-editorial-quote.liquid` and `project/templates/page.stone-runtime-editorial-quote.json`, extended `project/assets/stone-base.css` with restrained editorial-quote primitives, and updated the paired locale files inside the approved five-file runtime boundary.
-- `Verified`: `UNIT-062` verified that `UNIT-061` touched only the approved five runtime files, reused `stone-section-shell` unchanged, stayed bounded and non-JS, kept the host template neutral, and preserved bilingual locale parity.
-- `Verified`: `UNIT-063` authored the bounded minimal blog-highlights plan package under `workspace/plans/phase-2-minimal-blog-highlights-v1/`, but intentionally left runtime execution blocked until distinctness from `stone-content-card-strip.liquid` is re-checked.
-- `Verified`: `UNIT-064` reviewed that distinctness directly, rejected runtime execution of the planned blog-highlights slice, and redirected the repo to a docs-only frontier replan.
-- `Verified`: `UNIT-065` formalized that frontier replan and concluded that the current micro-slice runtime runway is locally exhausted under the present rules.
-- `Verified`: `UNIT-066` compared the acceptable next-frontier options and recommended one narrow read-only object-aware content/blog expansion as the least-risky next direction.
-- `Verified`: `UNIT-067` carried that recommendation into a formal approval boundary with exact preserved rules, exact new allowance, exact future file scope, and exact stop conditions.
-- `Verified`: `UNIT-068` implemented `project/sections/stone-blog-article-highlights.liquid` and `project/templates/page.stone-runtime-blog-article-highlights.json`, extended `project/assets/stone-base.css` with restrained article-highlights primitives, and updated the paired locale files inside the approved five-file runtime boundary.
-- `Verified`: `UNIT-069` verified that slice stayed inside the approved five-file runtime boundary, remained read-only and non-JS, reused `stone-section-shell` unchanged, and did not touch protected surfaces.
-- `Verified`: `UNIT-070` reviewed the frontier after that proof, rejected automatic further blog/article expansion, and selected one collection-companion candidate as the only justified next boundary case if Phase 2 continues.
-- `Verified`: `UNIT-071` formalized that candidate into one exact collection-context-card boundary with a five-file runtime scope, preserved rules, and explicit stop conditions.
-- `Verified`: `UNIT-072` implemented `project/sections/stone-collection-context-card.liquid` and `project/templates/page.stone-runtime-collection-context-card.json`, extended `project/assets/stone-base.css` with restrained collection-context-card primitives, and updated the paired locale files inside the approved five-file runtime boundary.
-- `Verified`: `UNIT-073` verified that slice stayed inside the approved five-file runtime boundary, remained read-only and non-JS, reused `stone-section-shell` unchanged, and did not touch protected surfaces.
-- `Verified`: `UNIT-074` reviewed the frontier after that proof, rejected automatic further collection-aware expansion, and selected one PDP companion candidate as the only justified next boundary case if Phase 2 continues.
-- `Verified`: `UNIT-075` formalized that candidate into one exact product-context-card boundary with a five-file runtime scope, preserved rules, and explicit stop conditions.
-- `Verified`: `UNIT-076` implemented `project/sections/stone-product-context-card.liquid` and `project/templates/page.stone-runtime-product-context-card.json`, extended `project/assets/stone-base.css` with restrained product-context-card primitives, and updated the paired locale files inside the approved five-file runtime boundary.
-- `Verified`: `UNIT-077` verified that slice stayed inside the approved five-file runtime boundary, remained read-only and non-JS, reused `stone-section-shell` unchanged, and did not touch protected surfaces.
-- `Verified`: `UNIT-078` reviewed the frontier after that proof and concluded that bounded runtime expansion should stop here under the current micro-slice protocol.
-- `Verified`: `UNIT-079` converted that stop point into a broader Phase 3 merchandising-platform planning package.
-- `Verified`: `UNIT-080` formalized the first broader merchandising foundation boundary with one shared product-card snippet, one featured-collection merchandising section, one neutral host template, and an exact six-file runtime scope.
-- `Verified`: `state/NEXT_ACTION.md` now points to `UNIT-081`, the first broader implementation step.
+- `Verified`: `UNIT-079` translated the exhausted micro-slice frontier into a broader Phase 3 merchandising-platform planning package.
+- `Verified`: `UNIT-080` formalized the first broader execution boundary with one shared product-card snippet, one featured-collection merchandising section, one neutral validation template, and an exact six-file runtime scope.
+- `Verified`: `UNIT-081` implemented the new shared merchandising card contract in `project/snippets/stone-product-card.liquid`.
+- `Verified`: `UNIT-081` implemented the first broader merchandising proof in `project/sections/stone-featured-collection-grid.liquid` using read-only selected collection access and product iteration from the chosen collection.
+- `Verified`: `UNIT-081` added the neutral validation host `project/templates/page.stone-runtime-featured-collection-grid.json`, extended `project/assets/stone-base.css`, and updated both locale schema files inside the approved six-file runtime boundary.
+- `Verified`: `state/NEXT_ACTION.md` now points to `UNIT-082`, the bounded verification unit for this first broader implementation slice.
 
 ## Changed Or Seeded Files
 
 - `Verified`: `project/assets/stone-base.css`
-- `Verified`: `project/snippets/stone-section-shell.liquid`
-- `Verified`: `project/sections/stone-utility-richtext.liquid`
-- `Verified`: `project/sections/stone-utility-block-stack.liquid`
-- `Verified`: `project/sections/stone-utility-layout-composition.liquid`
-- `Verified`: `project/sections/stone-utility-action-group.liquid`
-- `Verified`: `project/sections/stone-utility-key-value-list.liquid`
-- `Verified`: `project/sections/stone-utility-divider-band.liquid`
-- `Verified`: `project/sections/stone-utility-notice.liquid`
-- `Verified`: `project/sections/stone-utility-prompt.liquid`
-- `Verified`: `project/sections/stone-utility-spacer.liquid`
-- `Verified`: `project/sections/stone-trust-faq.liquid`
-- `Verified`: `project/sections/stone-trust-reassurance-lane.liquid`
-- `Verified`: `project/sections/stone-trust-help-prompt.liquid`
-- `Verified`: `project/sections/stone-trust-logo-rail.liquid`
-- `Verified`: `project/templates/page.stone-runtime.json`
-- `Verified`: `project/templates/page.stone-runtime-block-stack.json`
-- `Verified`: `project/templates/page.stone-runtime-layout-composition.json`
-- `Verified`: `project/templates/page.stone-runtime-action-group.json`
-- `Verified`: `project/templates/page.stone-runtime-key-value-list.json`
-- `Verified`: `project/templates/page.stone-runtime-divider-band.json`
-- `Verified`: `project/templates/page.stone-runtime-notice.json`
-- `Verified`: `project/templates/page.stone-runtime-prompt.json`
-- `Verified`: `project/templates/page.stone-runtime-spacer.json`
-- `Verified`: `project/templates/page.stone-runtime-trust-faq.json`
-- `Verified`: `project/templates/page.stone-runtime-reassurance-lane.json`
-- `Verified`: `project/templates/page.stone-runtime-trust-help-prompt.json`
-- `Verified`: `project/templates/page.stone-runtime-trust-logo-rail.json`
+- `Verified`: `project/snippets/stone-product-card.liquid`
+- `Verified`: `project/sections/stone-featured-collection-grid.liquid`
+- `Verified`: `project/templates/page.stone-runtime-featured-collection-grid.json`
 - `Verified`: `project/locales/he.default.schema.json`
 - `Verified`: `project/locales/en.schema.json`
-- `Verified`: `workspace/plans/phase-2-minimal-trust-testimonial-v1/PLAN.v1.md`
-- `Verified`: `workspace/plans/phase-2-minimal-trust-testimonial-v1/ASSUMPTIONS.v1.md`
-- `Verified`: `workspace/plans/phase-2-minimal-trust-testimonial-v1/CHECKS.v1.md`
-- `Verified`: `workspace/plans/phase-2-minimal-trust-testimonial-v1/RISKS.v1.md`
-- `Verified`: `workspace/plans/phase-2-minimal-trust-testimonial-v1/HANDOFF.v1.md`
-- `Verified`: `workspace/plans/phase-2-minimal-utility-block-stack-v1/PLAN.v1.md`
-- `Verified`: `workspace/plans/phase-2-minimal-utility-block-stack-v1/ASSUMPTIONS.v1.md`
-- `Verified`: `workspace/plans/phase-2-minimal-utility-block-stack-v1/CHECKS.v1.md`
-- `Verified`: `workspace/plans/phase-2-minimal-utility-block-stack-v1/RISKS.v1.md`
-- `Verified`: `workspace/plans/phase-2-minimal-utility-block-stack-v1/HANDOFF.v1.md`
-- `Verified`: `workspace/plans/phase-2-minimal-utility-layout-composition-v1/PLAN.v1.md`
-- `Verified`: `workspace/plans/phase-2-minimal-utility-layout-composition-v1/ASSUMPTIONS.v1.md`
-- `Verified`: `workspace/plans/phase-2-minimal-utility-layout-composition-v1/CHECKS.v1.md`
-- `Verified`: `workspace/plans/phase-2-minimal-utility-layout-composition-v1/RISKS.v1.md`
-- `Verified`: `workspace/plans/phase-2-minimal-utility-layout-composition-v1/HANDOFF.v1.md`
-- `Verified`: `workspace/plans/phase-2-minimal-utility-action-group-v1/PLAN.v1.md`
-- `Verified`: `workspace/plans/phase-2-minimal-utility-action-group-v1/ASSUMPTIONS.v1.md`
-- `Verified`: `workspace/plans/phase-2-minimal-utility-action-group-v1/CHECKS.v1.md`
-- `Verified`: `workspace/plans/phase-2-minimal-utility-action-group-v1/RISKS.v1.md`
-- `Verified`: `workspace/plans/phase-2-minimal-utility-action-group-v1/HANDOFF.v1.md`
-- `Verified`: `workspace/plans/phase-2-minimal-utility-key-value-list-v1/PLAN.v1.md`
-- `Verified`: `workspace/plans/phase-2-minimal-utility-key-value-list-v1/ASSUMPTIONS.v1.md`
-- `Verified`: `workspace/plans/phase-2-minimal-utility-key-value-list-v1/CHECKS.v1.md`
-- `Verified`: `workspace/plans/phase-2-minimal-utility-key-value-list-v1/RISKS.v1.md`
-- `Verified`: `workspace/plans/phase-2-minimal-utility-key-value-list-v1/HANDOFF.v1.md`
-- `Verified`: `workspace/plans/phase-2-minimal-utility-divider-band-v1/PLAN.v1.md`
-- `Verified`: `workspace/plans/phase-2-minimal-utility-divider-band-v1/ASSUMPTIONS.v1.md`
-- `Verified`: `workspace/plans/phase-2-minimal-utility-divider-band-v1/CHECKS.v1.md`
-- `Verified`: `workspace/plans/phase-2-minimal-utility-divider-band-v1/RISKS.v1.md`
-- `Verified`: `workspace/plans/phase-2-minimal-utility-divider-band-v1/HANDOFF.v1.md`
-- `Verified`: `workspace/plans/phase-2-minimal-utility-notice-v1/PLAN.v1.md`
-- `Verified`: `workspace/plans/phase-2-minimal-utility-notice-v1/ASSUMPTIONS.v1.md`
-- `Verified`: `workspace/plans/phase-2-minimal-utility-notice-v1/CHECKS.v1.md`
-- `Verified`: `workspace/plans/phase-2-minimal-utility-notice-v1/RISKS.v1.md`
-- `Verified`: `workspace/plans/phase-2-minimal-utility-notice-v1/HANDOFF.v1.md`
-- `Verified`: `workspace/plans/phase-2-minimal-utility-prompt-v1/PLAN.v1.md`
-- `Verified`: `workspace/plans/phase-2-minimal-utility-prompt-v1/ASSUMPTIONS.v1.md`
-- `Verified`: `workspace/plans/phase-2-minimal-utility-prompt-v1/CHECKS.v1.md`
-- `Verified`: `workspace/plans/phase-2-minimal-utility-prompt-v1/RISKS.v1.md`
-- `Verified`: `workspace/plans/phase-2-minimal-utility-prompt-v1/HANDOFF.v1.md`
 - `Verified`: `state/ORCHESTRATION_STATE.md`
 - `Verified`: `state/STATUS.md`
 - `Verified`: `state/NEXT_ACTION.md`
@@ -162,101 +33,20 @@
 
 ## Open Assumptions
 
-- `Verified`: `UNIT-005` confirmed that `UNIT-004` did not require `project/snippets/`, `project/sections/`, `project/blocks/`, or `project/templates/`.
-- `Verified`: `UNIT-007` completed without touching `project/layout/theme.liquid`, `project/assets/stone-runtime.js`, or `project/config/settings_schema.json`.
-- `Verified`: `UNIT-008` confirmed that one neutral alternate page template was sufficient to validate the first shared section contract without turning into homepage or preset composition.
-- `Verified`: `UNIT-010` completed without requiring snippet rewrites, `project/blocks/`, global settings changes, or page-composition growth.
-- `Verified`: `UNIT-013` completed without requiring protected-surface edits, `project/blocks/`, more than two utility regions, a second section, or a second template.
-- `Verified`: `UNIT-014` confirmed the completed slice remained utility-only, two-region, shell-stable, template-neutral, and locale-aligned without broadening runtime work.
-- `Verified`: `UNIT-015` selected one documentation-only utility action group slice that stays within the same five approved runtime files and keeps JS, protected surfaces, snippets, and `project/blocks/` out of scope.
-- `Verified`: `UNIT-016` completed without requiring snippet rewrites, `project/blocks/`, global settings changes, runtime JS changes, or page-composition growth.
-- `Verified`: `UNIT-017` confirmed the completed slice remained shell-stable, utility-only, template-neutral, and locale-aligned without broadening runtime work.
-- `Verified`: `UNIT-018` selected one documentation-only utility key-value list slice that stays within the same five approved runtime files and keeps JS, protected surfaces, snippets, `project/blocks/`, and comparison-table behavior out of scope.
-- `Verified`: `UNIT-019` completed without requiring snippet rewrites, `project/blocks/`, global settings changes, runtime JS changes, comparison-table behavior, or page-composition growth.
-- `Verified`: `UNIT-020` confirmed the completed slice remained shell-stable, utility-only, template-neutral, and locale-aligned without broadening runtime work.
-- `Verified`: `UNIT-021` selected one documentation-only utility divider band slice that stays within the same five approved runtime files and keeps JS, protected surfaces, snippets, `project/blocks/`, and content-heavy band behavior out of scope.
-- `Verified`: `UNIT-022` completed without requiring snippet rewrites, `project/blocks/`, global settings changes, runtime JS changes, content-heavy band behavior, or page-composition growth.
-- `Verified`: `UNIT-023` confirmed the completed slice remained shell-stable, utility-only, template-neutral, and locale-aligned without broadening runtime work.
-- `Verified`: `UNIT-024` selected one documentation-only utility notice slice that stays within the same five approved runtime files and keeps JS, protected surfaces, snippets, `project/blocks/`, icon-alert behavior, and promo/support semantics out of scope.
-- `Verified`: `UNIT-025` completed without requiring snippet rewrites, `project/blocks/`, global settings changes, runtime JS changes, icon-alert behavior, or page-composition growth.
-- `Verified`: `UNIT-026` confirmed the completed slice remained shell-stable, utility-only, template-neutral, and locale-aligned without broadening runtime work.
-- `Verified`: `UNIT-027` selected one documentation-only utility prompt slice that stays within the same five approved runtime files and keeps JS, protected surfaces, snippets, `project/blocks/`, support semantics, and promo/conversion semantics out of scope.
-- `Verified`: `UNIT-028` completed without requiring snippet rewrites, `project/blocks/`, global settings changes, runtime JS changes, icon-alert behavior, or page-composition growth.
-- `Verified`: `UNIT-029` confirmed the bounded utility prompt slice passed its evidence checks without widening scope.
-- `Verified`: `UNIT-030` selected one documentation-only utility spacer slice that stays within the same five approved runtime files and keeps JS, protected surfaces, snippets, `project/blocks/`, announcement semantics, and broader composition work out of scope.
-- `Verified`: `UNIT-031` completed without requiring snippet rewrites, `project/blocks/`, global settings changes, runtime JS changes, divider-band duplication, or page-composition growth.
-- `Verified`: `UNIT-032` confirmed the bounded utility spacer slice passed its evidence checks without widening scope.
-- `Verified`: `UNIT-033` selected one documentation-only first trust-and-support slice that stays within the same five approved runtime files and keeps JS, protected surfaces, snippets, `project/blocks/`, contact flows, testimonial/logo systems, and broader composition work out of scope.
-- `Verified`: `UNIT-034` completed without requiring snippet rewrites, `project/blocks/`, global settings changes, runtime JS changes, contact flows, or testimonial/logo systems.
-- `Verified`: `UNIT-035` confirmed the bounded trust FAQ slice passed its evidence checks without widening scope.
-- `Verified`: `UNIT-036` selected one documentation-only second trust-and-support slice that stays within the same five approved runtime files and keeps JS, protected surfaces, snippets, `project/blocks/`, logos, testimonials, ratings, and broader composition work out of scope.
-- `Verified`: `UNIT-037` completed without requiring snippet rewrites, `project/blocks/`, global settings changes, runtime JS changes, logos, testimonials, ratings, or contact flows.
-- `Verified`: `UNIT-038` confirmed the reassurance-lane implementation remained inside the approved five-file boundary and did not normalize any scope expansion.
-- `Verified`: `UNIT-039` selected one documentation-only third trust-and-support slice that stays within the same five approved runtime files and keeps JS, protected surfaces, snippets, `project/blocks/`, contact-form behavior, logos, testimonials, ratings, guarantees, and broader composition work out of scope.
-- `Verified`: `UNIT-040` completed without requiring snippet rewrites, `project/blocks/`, global settings changes, runtime JS changes, contact-form behavior, testimonials, logos, ratings, or guarantees.
-- `Verified`: `UNIT-041` confirmed the trust-help-prompt implementation remained inside the approved five-file boundary and did not collapse back into generic utility-prompt behavior.
-- `Verified`: `UNIT-042` selected one documentation-only fourth trust-and-support slice that stays within the same five approved runtime files and keeps JS, protected surfaces, snippets, `project/blocks/`, testimonials, ratings, guarantees, marquee motion, and broader composition work out of scope.
-- `Verified`: `UNIT-043` completed without requiring snippet rewrites, `project/blocks/`, global settings changes, runtime JS changes, testimonials, ratings, guarantees, or motion systems.
-- `Verified`: `UNIT-044` confirmed the trust-logo-rail implementation remained inside the approved five-file boundary and did not widen into review-style or motion-driven proof behavior.
-- `Verified`: `UNIT-045` selected one documentation-only fifth trust-and-support slice that stays within the same five approved runtime files and keeps JS, protected surfaces, snippets, `project/blocks/`, ratings, review aggregates, avatars, guarantees, and broader composition work out of scope.
-- `Verified`: `UNIT-046` completed without requiring snippet rewrites, `project/blocks/`, global settings changes, runtime JS changes, ratings, review aggregates, avatars, guarantees, or motion systems.
-- `Verified`: `UNIT-047` confirmed the trust-testimonial implementation remained inside the approved five-file boundary and did not widen into rating, review, avatar, or motion behavior.
-- `Verified`: `UNIT-048` selected one documentation-only sixth trust-and-support slice that stays within the same five approved runtime files and keeps JS, protected surfaces, snippets, `project/blocks/`, counters, charts, ratings, guarantees, badges, icons, and broader composition work out of scope.
-- `Verified`: `UNIT-049` completed without requiring snippet rewrites, `project/blocks/`, global settings changes, runtime JS changes, counters, charts, ratings, guarantees, badges, or icons.
-- `Verified`: `UNIT-050` confirmed the trust-stat-strip implementation remained inside the approved five-file boundary and did not widen into counter, guarantee, ratings, badge, or icon behavior.
-- `Verified`: `UNIT-051` shifted the next safe slice into the story-and-editorial family because further trust micro-slices risked duplication against the completed trust-support chain.
-- `Verified`: `UNIT-052` completed without requiring snippet rewrites, `project/blocks/`, global settings changes, runtime JS changes, hero semantics, gallery behavior, video behavior, or shoppable-media behavior.
-- `Verified`: `UNIT-053` confirmed the story-split implementation remained inside the approved five-file boundary and did not widen into hero, gallery, video, or shoppable-media behavior.
-- `Verified`: `UNIT-054` shifted the next safe slice into the content-and-blog family with manual cards so the repo can prove repeated editorial-card structure before object-fed blog behavior.
-- `Verified`: `UNIT-055` completed without requiring snippet rewrites, `project/blocks/`, global settings changes, runtime JS changes, live object queries, product-card behavior, slider behavior, or overlay treatment.
-- `Verified`: `UNIT-056` confirmed the content-card-strip implementation remained inside the approved five-file boundary and did not widen into live feed, product-card, slider, or overlay behavior.
-- `Verified`: `UNIT-057` shifted the next safe slice into a static ordered story/editorial sequence so the repo can prove process guidance without reopening trust or content-card duplication.
-- `Verified`: `UNIT-058` completed without requiring snippet rewrites, `project/blocks/`, global settings changes, runtime JS changes, accordion behavior, tab behavior, icon systems, illustration dependencies, or campaign framing.
-- `Verified`: `UNIT-059` confirmed the bounded process-steps proof passed its evidence checks without widening scope.
-- `Verified`: `UNIT-060` selected a quote-led editorial proof as the next safe canonical story-and-editorial slice because it stays static, non-JS, and materially distinct from testimonial and content-card behavior.
-- `Verified`: `UNIT-061` completed without requiring snippet rewrites, `project/blocks/`, global settings changes, runtime JS changes, testimonial-stack behavior, ratings, logos, avatars, accordion behavior, tab behavior, icon systems, illustration dependencies, or campaign framing.
-- `Verified`: `UNIT-062` confirmed the bounded editorial-quote proof passed its evidence checks without widening scope.
-- `Verified`: `UNIT-063` selected a manual blog-highlights candidate as the least-risky next content-and-blog proof, but did not normalize it into automatic runtime work because near-duplication with the content-card-strip proof remained a live risk.
-- `Verified`: `UNIT-064` confirmed that the lead-plus-secondary manual highlight concept is not materially distinct enough from `stone-content-card-strip.liquid` under the current bounded proof rules.
-- `Verified`: `UNIT-065` concluded that the remaining families now require a more explicit controlled-expansion decision rather than another fake-small runtime proof.
-- `Verified`: `UNIT-066` selected a read-only object-aware content/blog proof as the preferred next bounded expansion because it solves the exact distinctness failure that blocked blog-highlights without forcing commerce-heavy scope.
-- `Verified`: `UNIT-067` formalized that boundary and preserved the existing bounded discipline everywhere except for one explicit new allowance: read-only blog/article object access inside one bounded section.
-- `Verified`: `UNIT-068` completed without requiring protected-surface edits, `project/blocks/`, new snippets, JS, pagination, tags, filters, search, sliders, drawers, overlays, commerce semantics, or broader composition.
-- `Verified`: `UNIT-069` confirmed that the first expanded slice stayed inside that exact boundary.
-- `Verified`: `UNIT-070` concluded that the verified object-aware content/blog proof is sufficient and that any further runtime work should change object domain rather than repeat blog/article variants.
-- `Verified`: `UNIT-071` preserved the bounded protocol and limited the next possible expansion to one read-only collection context card only.
-- `Verified`: `UNIT-072` completed without requiring protected-surface edits, `project/blocks/`, new snippets, JS, product loops, product-card behavior, filters, sorting, tags, pagination, search, toolbar behavior, sliders, drawers, overlays, accordions, tabs, or broader composition.
-- `Verified`: `UNIT-073` confirmed that the first collection-aware slice stayed inside that exact boundary.
-- `Verified`: `UNIT-074` concluded that the verified collection-companion proof is sufficient and that any further runtime work should change object domain again rather than repeat collection variants.
-- `Verified`: `UNIT-075` preserved the bounded protocol and limited the next possible expansion to one read-only product context card only.
-- `Verified`: `UNIT-076` completed without requiring protected-surface edits, `project/blocks/`, new snippets, JS, buy-box behavior, forms, add-to-cart, quick-add, quick-view, price blocks, variant selectors, inventory messaging, galleries, recommendations, product loops, sliders, drawers, overlays, accordions, tabs, or broader composition.
-- `Verified`: `UNIT-077` confirmed that the first PDP-aware slice stayed inside that exact boundary.
-- `Verified`: `UNIT-078` concluded that any meaningful next execution now requires a broader merchandising or Phase 3 planning package rather than another bounded micro-slice.
-- `Verified`: `UNIT-079` records that broader planning package and keeps runtime paused until a broader execution boundary is explicit.
-- `Verified`: `UNIT-080` makes that broader execution boundary explicit and constrains the first broader build to one reusable merchandising foundation step.
-- `Inference`: The correct immediate next unit is bounded broader implementation `UNIT-081`, not unstructured expansion.
+- `Verified`: The first broader slice remains non-JS and does not authorize add-to-cart, product forms, quick-add, quick-view, drawers, overlays, variant selectors, inventory messaging, recommendation behavior, or protected-surface edits.
+- `Verified`: The shared product-card contract is intentionally restrained so it can be reused by later merchandising work without normalizing heavier commerce behavior prematurely.
+- `Inference`: Verification should confirm that the collection-selected merchandising section truly reuses the shared card snippet and that the six-file runtime boundary held exactly.
 
 ## Recommended Next Step
 
-- `Verified`: Runtime may resume only inside the exact `UNIT-081` six-file merchandising foundation boundary formalized by `UNIT-080`.
+- `Verified`: Execute `UNIT-082` from `state/NEXT_ACTION.md` and verify the first broader merchandising foundation implementation slice without widening scope.
 
 ## Resume Checks
 
-- `Verified`: Read the five architecture docs under `docs/architecture/`.
-- `Verified`: Read `workspace/specs/STONEV2_SECTION_FAMILY_LEDGER.md`, `workspace/specs/STONEV2_SETTINGS_TAXONOMY.md`, and `workspace/specs/STONEV2_BILINGUAL_SCHEMA_STRATEGY.md`.
-- `Verified`: Read `workspace/plans/phase-2-minimal-runtime-foundation-v1/PLAN.v1.md` and `workspace/plans/phase-2-minimal-section-runtime-substrate-v1/PLAN.v1.md` so the verification inherits the verified foundation and verified substrate boundaries.
-- `Verified`: Read `workspace/plans/phase-2-minimal-utility-block-stack-v1/PLAN.v1.md`, `ASSUMPTIONS.v1.md`, `CHECKS.v1.md`, and `RISKS.v1.md`, then read `workspace/plans/phase-2-minimal-utility-layout-composition-v1/PLAN.v1.md`, `ASSUMPTIONS.v1.md`, `CHECKS.v1.md`, and `RISKS.v1.md`.
-- `Verified`: Read `workspace/plans/phase-2-minimal-utility-action-group-v1/PLAN.v1.md`, `ASSUMPTIONS.v1.md`, `CHECKS.v1.md`, and `RISKS.v1.md`.
-- `Verified`: Read `workspace/plans/phase-2-minimal-utility-key-value-list-v1/PLAN.v1.md`, `ASSUMPTIONS.v1.md`, `CHECKS.v1.md`, and `RISKS.v1.md`.
-- `Verified`: Read `workspace/plans/phase-2-minimal-utility-divider-band-v1/PLAN.v1.md`, `ASSUMPTIONS.v1.md`, `CHECKS.v1.md`, and `RISKS.v1.md`.
-- `Verified`: Read `workspace/plans/phase-2-minimal-utility-notice-v1/PLAN.v1.md`, `ASSUMPTIONS.v1.md`, `CHECKS.v1.md`, and `RISKS.v1.md`.
-- `Verified`: Read `workspace/plans/phase-2-minimal-utility-prompt-v1/PLAN.v1.md`, `ASSUMPTIONS.v1.md`, `CHECKS.v1.md`, and `RISKS.v1.md`.
-- `Verified`: Read `workspace/plans/phase-2-minimal-utility-spacer-v1/PLAN.v1.md`, `ASSUMPTIONS.v1.md`, `CHECKS.v1.md`, and `RISKS.v1.md`.
-- `Verified`: Read `workspace/plans/phase-2-minimal-trust-faq-v1/PLAN.v1.md`, `ASSUMPTIONS.v1.md`, `CHECKS.v1.md`, and `RISKS.v1.md`.
-- `Verified`: Read `workspace/plans/phase-2-minimal-reassurance-lane-v1/PLAN.v1.md`, `ASSUMPTIONS.v1.md`, `CHECKS.v1.md`, and `RISKS.v1.md`.
-- `Verified`: Read `workspace/plans/phase-2-minimal-trust-help-prompt-v1/PLAN.v1.md`, `ASSUMPTIONS.v1.md`, `CHECKS.v1.md`, and `RISKS.v1.md`.
-- `Verified`: Read `workspace/plans/phase-2-minimal-trust-logo-rail-v1/PLAN.v1.md`, `ASSUMPTIONS.v1.md`, `CHECKS.v1.md`, and `RISKS.v1.md`.
-- `Verified`: Read `state/ORCHESTRATION_STATE.md`, `state/STATUS.md`, `state/NEXT_ACTION.md`, `state/FEATURE_STATUS.md`, and `state/PROGRESS.md` to carry forward the approved boundary constraints.
-- `Verified`: Use the verified runtime chain through `UNIT-080` as the current transition point into the first bounded broader build step.
-- `Verified`: The next unit must stay inside the exact six-file merchandising foundation boundary.
-- `Verified`: Run `node HARNESS/checks/check-state-artifacts.mjs`, `node HARNESS/checks/check-next-action-scope.mjs`, `node HARNESS/checks/check-plan-exists.mjs`, `node HARNESS/checks/check-handoff-completeness.mjs`, `node HARNESS/checks/check-approval-state.mjs`, `node HARNESS/checks/check-lock-state.mjs`, and `node HARNESS/checks/harness-check.mjs`.
+- `Verified`: Read `workspace/plans/phase-3-merchandising-foundation-boundary-v1/PLAN.v1.md`.
+- `Verified`: Read `state/ORCHESTRATION_STATE.md`, `state/STATUS.md`, `state/NEXT_ACTION.md`, `state/FEATURE_STATUS.md`, `state/PROGRESS.md`, and `state/SESSION_LOG.md`.
+- `Verified`: Diff `HEAD^..HEAD` and confirm the runtime change stayed inside the exact six approved runtime files.
+- `Verified`: Confirm shared snippet reuse via `render 'stone-product-card'`.
+- `Verified`: Confirm the new section uses `section.settings.collection` and selected-collection product iteration only.
+- `Verified`: Confirm no JS or protected-surface edits occurred.
+- `Verified`: Run `node HARNESS/checks/harness-check.mjs` after the local verification steps.

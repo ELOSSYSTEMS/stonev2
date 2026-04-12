@@ -3,17 +3,18 @@
 ## Status
 
 - `Verified`: Approval State: APPROVED
-- `Verified`: Execution Class: phase-2-runtime-planning
+- `Verified`: Execution Class: phase-3-runtime-verification
 - `Verified`: Priority: high
 
 ## Approved Unit
 
-- `UNIT-081` Execute the first broader merchandising foundation implementation slice.
+- `UNIT-082` Verify the first broader merchandising foundation implementation slice.
 
 ## Objective
 
-- `Verified`: Implement the first broader bounded merchandising foundation slice under the formalized boundary.
-- `Verified`: Keep `UNIT-081` limited to the exact approved six runtime files plus `state/` and `workspace/handoff/CURRENT_HANDOFF.md` only.
+- `Verified`: Verify that `UNIT-081` stayed inside the exact approved six-file runtime boundary.
+- `Verified`: Confirm the shared product-card snippet was reused by the featured-collection merchandising section.
+- `Verified`: Confirm the slice remained non-JS, read-only, and free of protected-surface edits and commerce-action behavior.
 
 ## Plan Reference
 
@@ -42,4 +43,4 @@
 
 ## Stop Condition
 
-Stop if implementation needs any runtime file outside the approved six runtime files; stop if it needs a second snippet, a second section, a second template, protected-surface edits, JS changes, collection-template edits, product-template edits, add-to-cart, product forms, quick-add, quick-view, drawers, overlays, variant selectors, inventory messaging, recommendation logic, or campaign composition, and fail closed instead of broadening scope.
+Stop if verification shows any runtime file outside the approved six-file boundary, protected-surface edits, JS edits, a second snippet, a second section, a second template, collection-template edits, product-template edits, add-to-cart behavior, product forms, quick-add, quick-view, drawers, overlays, variant selectors, inventory messaging, recommendation logic, or campaign composition. Fail closed instead of normalizing scope expansion.

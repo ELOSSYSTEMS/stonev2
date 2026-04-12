@@ -8,14 +8,14 @@
 
 ## Current Phase
 
-- `Verified`: Active roadmap phase: Phase 3 broader runtime implementation readiness after merchandising foundation boundary approval
+- `Verified`: Active roadmap phase: Phase 3 broader runtime verification after merchandising foundation implementation
 - `Verified`: Last completed phase slice: Phase 3 merchandising foundation implementation slice
-- `Inference`: Next bounded slice: execute the first broader bounded merchandising foundation implementation unit under the newly formalized boundary
+- `Inference`: Next bounded slice: verify the first broader bounded merchandising foundation implementation unit under the formalized six-file boundary
 
 ## Approval State
 
 - `Verified`: Current next action approval: APPROVED
-- `Verified`: Approval basis: `UNIT-080` formalized the first broader merchandising foundation boundary, preserved the broader planning transition, and advanced the repo to one explicitly bounded broader implementation unit
+- `Verified`: Approval basis: `UNIT-081` implemented the first broader merchandising foundation slice inside the exact six-file runtime boundary and advanced the repo to bounded verification
 
 ## Lock State
 

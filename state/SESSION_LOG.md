@@ -8,6 +8,36 @@
 
 ### Session Entry
 
+- Timestamp: 2026-04-12 19:48 Asia/Jerusalem
+- Skill or Mode: `project-build`
+- Summary: implemented the first broader merchandising foundation slice with one shared product-card snippet, one featured-collection merchandising section, one neutral validation template, bounded CSS extensions, and paired locale updates inside the exact six-file runtime boundary
+- Files changed:
+  - `project/assets/stone-base.css`
+  - `project/snippets/stone-product-card.liquid`
+  - `project/sections/stone-featured-collection-grid.liquid`
+  - `project/templates/page.stone-runtime-featured-collection-grid.json`
+  - `project/locales/he.default.schema.json`
+  - `project/locales/en.schema.json`
+  - `state/ORCHESTRATION_STATE.md`
+  - `state/STATUS.md`
+  - `state/NEXT_ACTION.md`
+  - `state/FEATURE_STATUS.md`
+  - `state/PROGRESS.md`
+  - `state/SESSION_LOG.md`
+  - `workspace/handoff/CURRENT_HANDOFF.md`
+- Checks run:
+  - `node HARNESS/checks/check-state-artifacts.mjs`
+  - `node HARNESS/checks/check-next-action-scope.mjs`
+  - `node HARNESS/checks/check-plan-exists.mjs`
+  - `node HARNESS/checks/check-handoff-completeness.mjs`
+  - `node HARNESS/checks/check-approval-state.mjs`
+  - `node HARNESS/checks/check-lock-state.mjs`
+  - `node HARNESS/checks/harness-check.mjs`
+- Result: PASS
+- Follow-up: execute `UNIT-082` only as the bounded verification pass for this exact six-file broader merchandising foundation slice
+
+### Session Entry
+
 - Timestamp: 2026-04-12 19:02 Asia/Jerusalem
 - Skill or Mode: `project-plan`
 - Summary: authored the first broader merchandising foundation boundary and fixed the exact six-file implementation scope for the next broader build step

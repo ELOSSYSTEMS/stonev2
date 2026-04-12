@@ -1302,3 +1302,127 @@ canvas {
     transition-duration: 1ms !important;
   }
 }
+
+.stone-featured-collection-grid {
+  display: grid;
+  gap: var(--stone-space-4);
+}
+
+.stone-featured-collection-grid--soft {
+  padding: var(--stone-space-4);
+  border-radius: var(--stone-radius-2);
+  background: var(--stone-color-surface);
+}
+
+.stone-featured-collection-grid__intro > *,
+.stone-featured-collection-grid__eyebrow,
+.stone-featured-collection-grid__title,
+.stone-featured-collection-grid__meta,
+.stone-featured-collection-grid__description,
+.stone-featured-collection-grid__empty,
+.stone-product-card__title,
+.stone-product-card__vendor,
+.stone-product-card__price {
+  margin: 0;
+}
+
+.stone-featured-collection-grid__summary {
+  display: grid;
+  gap: var(--stone-space-3);
+  align-items: start;
+}
+
+@media screen and (min-width: 48rem) {
+  .stone-featured-collection-grid__summary {
+    grid-template-columns: minmax(0, 1fr) auto;
+  }
+}
+
+.stone-featured-collection-grid__summary-copy {
+  display: grid;
+  gap: var(--stone-space-2);
+}
+
+.stone-featured-collection-grid__eyebrow {
+  font-size: 0.875rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--stone-color-muted);
+}
+
+.stone-featured-collection-grid__title {
+  font-size: clamp(1.25rem, 1.8vw, 1.625rem);
+  line-height: 1.2;
+}
+
+.stone-featured-collection-grid__meta,
+.stone-featured-collection-grid__description,
+.stone-product-card__vendor,
+.stone-product-card__price {
+  color: var(--stone-color-muted);
+}
+
+.stone-featured-collection-grid__collection-link,
+.stone-product-card__link,
+.stone-product-card__title-link {
+  color: inherit;
+  text-decoration: none;
+}
+
+.stone-featured-collection-grid__collection-link,
+.stone-product-card__link {
+  display: inline-flex;
+  width: fit-content;
+  align-items: center;
+  gap: 0.35rem;
+  font-weight: 600;
+}
+
+.stone-featured-collection-grid__collection-link:hover,
+.stone-featured-collection-grid__collection-link:focus-visible,
+.stone-product-card__link:hover,
+.stone-product-card__link:focus-visible,
+.stone-product-card__title-link:hover,
+.stone-product-card__title-link:focus-visible {
+  text-decoration: underline;
+}
+
+.stone-featured-collection-grid__products {
+  display: grid;
+  gap: var(--stone-space-3);
+  grid-template-columns: repeat(auto-fit, minmax(14rem, 1fr));
+}
+
+.stone-product-card {
+  display: grid;
+  border: 1px solid var(--stone-color-border);
+  border-radius: var(--stone-radius-2);
+  background: transparent;
+  overflow: hidden;
+}
+
+.stone-product-card--soft {
+  background: var(--stone-color-surface);
+}
+
+.stone-product-card__media,
+.stone-product-card__image {
+  display: block;
+  width: 100%;
+}
+
+.stone-product-card__image {
+  aspect-ratio: 4 / 5;
+  object-fit: cover;
+}
+
+.stone-product-card__content {
+  display: grid;
+  gap: var(--stone-space-2);
+  padding: var(--stone-space-4);
+}
+
+.stone-product-card__title {
+  font-size: 1.05rem;
+  line-height: 1.35;
+}

@@ -1,0 +1,21 @@
+{
+  "sections": {
+    "main": {
+      "type": "stone-featured-collection-grid",
+      "settings": {
+        "heading": "Featured collection grid",
+        "intro": "<p>Select one collection to validate a restrained merchandising grid built on the shared product-card contract.</p>",
+        "collection": "",
+        "product_limit": 4,
+        "show_vendor": true,
+        "show_price": true,
+        "surface_style": "soft",
+        "width_mode": "wide",
+        "spacing_mode": "standard"
+      }
+    }
+  },
+  "order": [
+    "main"
+  ]
+}

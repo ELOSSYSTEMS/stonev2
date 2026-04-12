@@ -1,0 +1,50 @@
+{%- liquid
+  assign stone_product = product
+  assign stone_surface_style = surface_style | default: 'outline'
+  assign stone_show_vendor = show_vendor
+  assign stone_show_price = show_price
+  assign stone_price_text = stone_product.price | money
+
+  if show_vendor == nil
+    assign stone_show_vendor = true
+  endif
+
+  if show_price == nil
+    assign stone_show_price = true
+  endif
+
+  if stone_product.price_varies
+    assign stone_price_text = stone_product.price_min | money
+  endif
+-%}
+{%- if stone_product != blank -%}
+  <article class="stone-product-card stone-product-card--{{ stone_surface_style | escape }}">
+    {%- if stone_product.featured_image != blank -%}
+      <a class="stone-product-card__media" href="{{ stone_product.url | escape }}">
+        {{ stone_product.featured_image | image_url: width: 960 | image_tag: class: 'stone-product-card__image', loading: 'lazy', widths: '320, 480, 640, 960', sizes: '(min-width: 64rem) 18rem, (min-width: 48rem) 28vw, 100vw' }}
+      </a>
+    {%- endif -%}
+
+    <div class="stone-product-card__content">
+      <h3 class="stone-product-card__title">
+        <a class="stone-product-card__title-link" href="{{ stone_product.url | escape }}">{{ stone_product.title | escape }}</a>
+      </h3>
+
+      {%- if stone_show_vendor and stone_product.vendor != blank -%}
+        <p class="stone-product-card__vendor">{{ stone_product.vendor | escape }}</p>
+      {%- endif -%}
+
+      {%- if stone_show_price -%}
+        <p class="stone-product-card__price">
+          {%- if stone_product.price_varies -%}
+            {{ 'snippets.stone_product_card.from_price' | t: price: stone_price_text }}
+          {%- else -%}
+            {{ stone_price_text }}
+          {%- endif -%}
+        </p>
+      {%- endif -%}
+
+      <a class="stone-product-card__link" href="{{ stone_product.url | escape }}">{{ 'snippets.stone_product_card.view_product' | t }}</a>
+    </div>
+  </article>
+{%- endif -%}
