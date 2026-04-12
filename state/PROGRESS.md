@@ -2,29 +2,29 @@
 
 ## Current Phase
 
-- `Verified`: Roadmap phase: the category-entry spotlight variant is verified and the repo is positioned for one bounded image-led category-band implementation step.
+- `Verified`: Roadmap phase: the bounded category media band implementation slice is complete and awaiting verification.
 
 ## Approved Next Action
 
-- `Verified`: `UNIT-093` execute the category media band slice.
+- `Verified`: `UNIT-094` verify the category media band slice.
 
 ## Last Completed Unit
 
-- `Verified`: Unit ID: `UNIT-092`
-- `Verified`: Summary: authored the post-category-entry-spotlight merchandising frontier review, concluded that the next honest move is one new image-led category-band section, and approved one bounded category media band implementation boundary.
+- `Verified`: Unit ID: `UNIT-093`
+- `Verified`: Summary: implemented one new image-led category-band section that reuses `stone-collection-card` and stays inside the exact approved six-file runtime boundary.
 
 ## Verification Status
 
-- `Verified`: Verdict: PASS for `UNIT-092`; Stone V2 is ready for one additional bounded runtime step that broadens merchandising structure without widening into heavier commerce behavior.
-- `Verified`: Evidence: `workspace/plans/phase-3-category-media-band-boundary-v1/PLAN.v1.md`; `workspace/plans/phase-3-category-media-band-boundary-v1/ASSUMPTIONS.v1.md`; `workspace/plans/phase-3-category-media-band-boundary-v1/CHECKS.v1.md`; `workspace/plans/phase-3-category-media-band-boundary-v1/RISKS.v1.md`; `workspace/plans/phase-3-category-media-band-boundary-v1/HANDOFF.v1.md`; `node HARNESS/checks/check-state-artifacts.mjs`; `node HARNESS/checks/check-next-action-scope.mjs`; `node HARNESS/checks/check-plan-exists.mjs`; `node HARNESS/checks/check-handoff-completeness.mjs`; `node HARNESS/checks/check-approval-state.mjs`; `node HARNESS/checks/check-lock-state.mjs`; `node HARNESS/checks/harness-check.mjs`
+- `Verified`: Verdict: implementation PASS for `UNIT-093`; the category media band slice is ready for bounded verification.
+- `Verified`: Evidence: template and locale parse via `node -`; media-band checks via `grep`; explicit collection-setting checks via `grep`; forbidden-scope grep via `grep`; protected-surface diff via `git diff --name-only`; exact runtime boundary validation via `node -`.
 
 ## Active Blockers
 
-- `Verified`: The next runtime slice remains bounded to the exact category media band six-file surface.
-- `Inference`: Any discovered need for extra files, blocks, list settings, pricing logic, product behavior, rails/carousels, shoppable-media behavior, JS, or protected-surface edits remains a new boundary problem rather than permission to widen `UNIT-093`.
+- `Verified`: Runtime expansion remains paused pending `UNIT-094` verification.
+- `Inference`: Any discovered need for extra files, extra settings, pricing logic, product behavior, JS, protected-surface edits, rails/carousels, or shoppable-media behavior remains a new boundary problem rather than permission to widen `UNIT-093`.
 
 ## Resume Notes
 
-- `Verified`: Resume from branch `codex/unit-092-post-category-entry-spotlight-frontier-plan`.
-- `Verified`: `UNIT-093` should broaden merchandising structure with one image-led band, not continue tuning `stone-category-entry-grid`.
-- `Verified`: Fail closed if the category media band cannot stay coherent inside the exact six-file boundary.
+- `Verified`: Resume from branch `codex/unit-093-category-media-band-impl`.
+- `Verified`: `UNIT-094` must confirm exact six-file runtime scope, shared collection-card reuse, exactly two explicit collection settings, locale parity, and the absence of protected-surface or heavier-commerce drift.
+- `Verified`: Do not authorize further runtime work until `UNIT-094` records PASS or FAIL.

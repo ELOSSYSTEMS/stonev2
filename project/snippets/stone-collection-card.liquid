@@ -3,12 +3,19 @@
   assign stone_surface_style = surface_style | default: 'outline'
   assign stone_card_emphasis = card_emphasis | default: 'standard'
   assign stone_description = stone_collection.description | strip_html | strip
+  assign stone_image_sizes = '(min-width: 64rem) 22rem, (min-width: 48rem) 32vw, 100vw'
+
+  if stone_card_emphasis == 'media-band-lead'
+    assign stone_image_sizes = '(min-width: 64rem) 44rem, (min-width: 48rem) 60vw, 100vw'
+  elsif stone_card_emphasis == 'media-band-support'
+    assign stone_image_sizes = '(min-width: 64rem) 20rem, (min-width: 48rem) 26vw, 100vw'
+  endif
 -%}
 {%- if stone_collection != blank -%}
   <article class="stone-collection-card stone-collection-card--{{ stone_surface_style | escape }} stone-collection-card--{{ stone_card_emphasis | escape }}">
     {%- if stone_collection.featured_image != blank -%}
       <a class="stone-collection-card__media" href="{{ stone_collection.url | escape }}">
-        {{ stone_collection.featured_image | image_url: width: 1200 | image_tag: class: 'stone-collection-card__image', loading: 'lazy', widths: '320, 480, 640, 960, 1200', sizes: '(min-width: 64rem) 22rem, (min-width: 48rem) 32vw, 100vw' }}
+        {{ stone_collection.featured_image | image_url: width: 1200 | image_tag: class: 'stone-collection-card__image', loading: 'lazy', widths: '320, 480, 640, 960, 1200', sizes: stone_image_sizes }}
       </a>
     {%- endif -%}
 

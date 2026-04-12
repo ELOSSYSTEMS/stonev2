@@ -8,6 +8,35 @@
 
 ### Session Entry
 
+- Timestamp: 2026-04-13 00:17 Asia/Jerusalem
+- Skill or Mode: `project-build`
+- Summary: implemented the bounded category media band slice using one new image-led category-band section and the shared collection-card contract inside the exact approved six-file runtime boundary
+- Files changed:
+  - `project/assets/stone-base.css`
+  - `project/snippets/stone-collection-card.liquid`
+  - `project/sections/stone-category-media-band.liquid`
+  - `project/templates/page.stone-runtime-category-media-band.json`
+  - `project/locales/he.default.schema.json`
+  - `project/locales/en.schema.json`
+  - `state/ORCHESTRATION_STATE.md`
+  - `state/STATUS.md`
+  - `state/NEXT_ACTION.md`
+  - `state/FEATURE_STATUS.md`
+  - `state/PROGRESS.md`
+  - `state/SESSION_LOG.md`
+  - `workspace/handoff/CURRENT_HANDOFF.md`
+- Checks run:
+  - template and locale parse via `node -`
+  - media-band checks via `grep`
+  - explicit collection-setting checks via `grep`
+  - forbidden-scope grep via `grep`
+  - protected-surface diff via `git diff --name-only`
+  - exact runtime boundary validation via `node -`
+- Result: PASS
+- Follow-up: execute `UNIT-094` only as the bounded verification pass for the category media band slice
+
+### Session Entry
+
 - Timestamp: 2026-04-13 00:12 Asia/Jerusalem
 - Skill or Mode: `project-plan`
 - Summary: authored the post-category-entry-spotlight merchandising frontier review, rejected further tuning inside `stone-category-entry-grid`, and approved one bounded category media band boundary for the next runtime unit

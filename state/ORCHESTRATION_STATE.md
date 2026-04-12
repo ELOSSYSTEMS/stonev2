@@ -8,14 +8,14 @@
 
 ## Current Phase
 
-- `Verified`: Active roadmap phase: Phase 3 bounded category-band expansion after verified post-category-entry-spotlight frontier review
-- `Verified`: Last completed phase slice: Phase 3 post-category-entry-spotlight merchandising frontier review
-- `Inference`: Next bounded slice: execute one new image-led category-band merchandising surface using the shared collection-card contract
+- `Verified`: Active roadmap phase: Phase 3 bounded category media band verification after implementation
+- `Verified`: Last completed phase slice: Phase 3 category media band implementation slice
+- `Inference`: Next bounded slice: verify exact scope and drift status for the category media band slice
 
 ## Approval State
 
 - `Verified`: Current next action approval: APPROVED
-- `Verified`: Approval basis: `UNIT-092` determined that the next honest step is one new image-led category-band section, not further tuning inside `stone-category-entry-grid` or heavier merchandising expansion
+- `Verified`: Approval basis: `UNIT-093` implemented the distinct category media band surface inside the exact approved six-file runtime boundary and is ready for bounded verification
 
 ## Lock State
 

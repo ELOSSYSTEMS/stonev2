@@ -3,18 +3,18 @@
 ## Status
 
 - `Verified`: Approval State: APPROVED
-- `Verified`: Execution Class: phase-3-runtime-implementation
+- `Verified`: Execution Class: verification
 - `Verified`: Priority: high
 
 ## Approved Unit
 
-- `UNIT-093` Execute the category media band slice.
+- `UNIT-094` Verify the category media band slice.
 
 ## Objective
 
-- `Verified`: Broaden Stone V2 merchandising into one image-led category-band surface.
-- `Verified`: Reuse `stone-collection-card` as the only collection-card snippet surface.
-- `Verified`: Keep the slice non-JS, collection-link-only, and free of protected-surface or heavier-commerce drift.
+- `Verified`: Verify that the category media band slice stayed inside the exact approved six-file runtime boundary.
+- `Verified`: Verify that `stone-category-media-band` reuses `stone-collection-card`, stays limited to exactly two explicit collection settings, and remains collection-link-only.
+- `Verified`: Verify that the slice remained non-JS and free of protected-surface or heavier-commerce drift.
 
 ## Plan Reference
 
@@ -43,4 +43,4 @@
 
 ## Stop Condition
 
-Stop if implementation needs any runtime file outside the approved six runtime files, any new snippet, extra section files, extra template files, blocks, list settings, pricing logic, product behavior, rails, carousels, shoppable-media behavior, JS changes, or protected-surface edits. Fail closed instead of normalizing scope expansion.
+Stop if verification finds any runtime file outside the approved six runtime files, any missing shared-snippet reuse, any extra setting or new runtime file, any JS or protected-surface edits, or any heavier-commerce behavior. Fail closed instead of normalizing drift.

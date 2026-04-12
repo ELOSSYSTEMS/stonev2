@@ -4,20 +4,26 @@
 
 - `Verified`: The product-discovery side of the merchandising family is complete through the verified spotlight extension.
 - `Verified`: The category-entry discovery surface is complete through verified balanced-grid and spotlight variants.
-- `Verified`: The next approved step is one bounded image-led category-band surface.
+- `Verified`: The new category media band surface is now implemented inside a bounded six-file runtime slice.
+- `Verified`: Verification is the only approved next step.
 
 ## Current State
 
-- `Verified`: `UNIT-092` concluded that the next honest move is one new image-led category-band section, not further tuning inside `stone-category-entry-grid`.
-- `Verified`: `state/NEXT_ACTION.md` now points to `UNIT-093`, the bounded implementation of that category media band slice.
+- `Verified`: `UNIT-092` approved one new image-led category-band section instead of further tuning `stone-category-entry-grid`.
+- `Verified`: `UNIT-093` implemented `stone-category-media-band` as the new category-band section.
+- `Verified`: `UNIT-093` reused `stone-collection-card` as the only collection-card snippet surface.
+- `Verified`: `UNIT-093` implemented `page.stone-runtime-category-media-band.json` as the neutral validation template.
+- `Verified`: `UNIT-093` updated bounded CSS and paired locale schema files only.
+- `Verified`: `state/NEXT_ACTION.md` now points to `UNIT-094`, the bounded verification pass for the category media band slice.
 
 ## Changed Or Seeded Files
 
-- `Verified`: `workspace/plans/phase-3-category-media-band-boundary-v1/PLAN.v1.md`
-- `Verified`: `workspace/plans/phase-3-category-media-band-boundary-v1/ASSUMPTIONS.v1.md`
-- `Verified`: `workspace/plans/phase-3-category-media-band-boundary-v1/CHECKS.v1.md`
-- `Verified`: `workspace/plans/phase-3-category-media-band-boundary-v1/RISKS.v1.md`
-- `Verified`: `workspace/plans/phase-3-category-media-band-boundary-v1/HANDOFF.v1.md`
+- `Verified`: `project/assets/stone-base.css`
+- `Verified`: `project/snippets/stone-collection-card.liquid`
+- `Verified`: `project/sections/stone-category-media-band.liquid`
+- `Verified`: `project/templates/page.stone-runtime-category-media-band.json`
+- `Verified`: `project/locales/he.default.schema.json`
+- `Verified`: `project/locales/en.schema.json`
 - `Verified`: `state/ORCHESTRATION_STATE.md`
 - `Verified`: `state/STATUS.md`
 - `Verified`: `state/NEXT_ACTION.md`
@@ -27,18 +33,18 @@
 
 ## Open Assumptions
 
-- `Verified`: The next runtime slice must stay on the exact category media band six-file boundary and must reuse `stone-collection-card`.
-- `Verified`: The category media band should remain collection-link-only and should stay limited to exactly two explicit collection settings, one lead and one supporting collection.
-- `Inference`: If the category media band cannot stay coherent inside this boundary, the correct move is to stop and author a new docs-only boundary instead of forcing runtime expansion.
+- `Verified`: The category media band slice must remain collection-link-only and must not pick up pricing, product behavior, extra settings, JS, or protected-surface edits.
+- `Verified`: Verification must explicitly confirm exactly two explicit collection settings and shared-snippet reuse.
+- `Inference`: If verification finds drift, the correct move is to fail closed rather than normalize the new surface.
 
 ## Recommended Next Step
 
-- `Verified`: Execute `UNIT-093` from `state/NEXT_ACTION.md` and implement one bounded image-led category-band surface without widening scope.
+- `Verified`: Execute `UNIT-094` from `state/NEXT_ACTION.md` and verify exact scope, shared-snippet reuse, setting limits, locale parity, and absence of protected-surface or heavier-commerce drift.
 
 ## Resume Checks
 
 - `Verified`: Read `workspace/plans/phase-3-category-media-band-boundary-v1/PLAN.v1.md`.
 - `Verified`: Read `state/ORCHESTRATION_STATE.md`, `state/STATUS.md`, `state/NEXT_ACTION.md`, `state/FEATURE_STATUS.md`, `state/PROGRESS.md`, and `state/SESSION_LOG.md`.
-- `Verified`: Confirm the next runtime unit is limited to the exact new six-file boundary.
-- `Verified`: Confirm no extra snippet, extra section, or extra template is introduced inside `UNIT-093`.
-- `Verified`: Run `node HARNESS/checks/harness-check.mjs` after the docs-only planning pass.
+- `Verified`: Confirm runtime changes remain inside the exact approved six runtime files.
+- `Verified`: Confirm `stone-category-media-band` renders via `stone-collection-card` instead of inline duplicated markup.
+- `Verified`: Run `node HARNESS/checks/harness-check.mjs` after verification.

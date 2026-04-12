@@ -1584,3 +1584,55 @@ canvas {
   font-size: clamp(1.25rem, 2vw, 1.8rem);
   line-height: 1.2;
 }
+
+.stone-category-media-band {
+  display: grid;
+  gap: var(--stone-space-4);
+}
+
+.stone-category-media-band--soft {
+  padding: var(--stone-space-4);
+  border-radius: var(--stone-radius-2);
+  background: var(--stone-color-surface);
+}
+
+.stone-category-media-band__intro > *,
+.stone-category-media-band__empty {
+  margin: 0;
+}
+
+.stone-category-media-band__band,
+.stone-category-media-band__aside {
+  display: grid;
+  gap: var(--stone-space-3);
+}
+
+@media screen and (min-width: 64rem) {
+  .stone-category-media-band__band {
+    grid-template-columns: minmax(0, 1.2fr) minmax(18rem, 0.8fr);
+    align-items: stretch;
+  }
+}
+
+.stone-category-media-band__lead,
+.stone-category-media-band__support,
+.stone-category-media-band__intro {
+  min-inline-size: 0;
+}
+
+.stone-collection-card--media-band-lead .stone-collection-card__image {
+  aspect-ratio: 16 / 11;
+}
+
+.stone-collection-card--media-band-lead .stone-collection-card__content {
+  gap: var(--stone-space-3);
+}
+
+.stone-collection-card--media-band-lead .stone-collection-card__title {
+  font-size: clamp(1.3rem, 2vw, 1.9rem);
+  line-height: 1.2;
+}
+
+.stone-collection-card--media-band-support .stone-collection-card__image {
+  aspect-ratio: 5 / 4;
+}

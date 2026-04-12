@@ -1,0 +1,17 @@
+{
+  "sections": {
+    "main": {
+      "type": "stone-category-media-band",
+      "settings": {
+        "heading": "Category media band",
+        "intro": "<p>Use this bounded merchandising surface to validate an image-led collection band without widening into heavier commerce behavior.</p>",
+        "surface_style": "outline",
+        "width_mode": "wide",
+        "spacing_mode": "standard"
+      }
+    }
+  },
+  "order": [
+    "main"
+  ]
+}

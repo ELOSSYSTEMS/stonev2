@@ -1,0 +1,148 @@
+{%- liquid
+  assign stone_heading = section.settings.heading | strip
+  assign stone_intro = section.settings.intro
+  assign stone_intro_plain = stone_intro | strip_html | strip
+  assign stone_surface_style = section.settings.surface_style | default: 'outline'
+  assign stone_lead_collection = section.settings.lead_collection
+  assign stone_supporting_collection = section.settings.supporting_collection
+
+  capture stone_section_content
+    echo '<div class="stone-category-media-band stone-category-media-band--'
+    echo stone_surface_style | escape
+    echo '">' 
+
+    if stone_lead_collection != blank
+      echo '<div class="stone-category-media-band__band">'
+      echo '<div class="stone-category-media-band__lead">'
+      render 'stone-collection-card', collection: stone_lead_collection, surface_style: stone_surface_style, card_emphasis: 'media-band-lead'
+      echo '</div>'
+
+      echo '<div class="stone-category-media-band__aside">'
+      if stone_intro_plain != blank
+        echo '<div class="stone-category-media-band__intro stone-richtext-flow rte">'
+        echo stone_intro
+        echo '</div>'
+      endif
+
+      if stone_supporting_collection != blank
+        echo '<div class="stone-category-media-band__support">'
+        render 'stone-collection-card', collection: stone_supporting_collection, surface_style: 'outline', card_emphasis: 'media-band-support'
+        echo '</div>'
+      endif
+      echo '</div>'
+      echo '</div>'
+    else
+      echo '<p class="stone-category-media-band__empty">'
+      echo 'sections.stone_category_media_band.empty_lead' | t
+      echo '</p>'
+    endif
+
+    echo '</div>'
+  endcapture
+
+  render 'stone-section-shell',
+    section: section,
+    heading: stone_heading,
+    content: stone_section_content,
+    width: section.settings.width_mode,
+    spacing: section.settings.spacing_mode,
+    shell_class: 'stone-category-media-band-shell'
+-%}
+
+{% schema %}
+{
+  "name": "t:sections.stone_category_media_band.name",
+  "tag": "section",
+  "class": "shopify-section--stone-category-media-band",
+  "settings": [
+    {
+      "type": "text",
+      "id": "heading",
+      "label": "t:sections.stone_category_media_band.settings.heading.label",
+      "info": "t:sections.stone_category_media_band.settings.heading.info"
+    },
+    {
+      "type": "richtext",
+      "id": "intro",
+      "label": "t:sections.stone_category_media_band.settings.intro.label",
+      "info": "t:sections.stone_category_media_band.settings.intro.info"
+    },
+    {
+      "type": "collection",
+      "id": "lead_collection",
+      "label": "t:sections.stone_category_media_band.settings.lead_collection.label",
+      "info": "t:sections.stone_category_media_band.settings.lead_collection.info"
+    },
+    {
+      "type": "collection",
+      "id": "supporting_collection",
+      "label": "t:sections.stone_category_media_band.settings.supporting_collection.label",
+      "info": "t:sections.stone_category_media_band.settings.supporting_collection.info"
+    },
+    {
+      "type": "select",
+      "id": "surface_style",
+      "label": "t:sections.stone_category_media_band.settings.surface_style.label",
+      "info": "t:sections.stone_category_media_band.settings.surface_style.info",
+      "default": "outline",
+      "options": [
+        {
+          "value": "outline",
+          "label": "t:sections.stone_category_media_band.settings.surface_style.options.outline.label"
+        },
+        {
+          "value": "soft",
+          "label": "t:sections.stone_category_media_band.settings.surface_style.options.soft.label"
+        }
+      ]
+    },
+    {
+      "type": "select",
+      "id": "width_mode",
+      "label": "t:sections.stone_category_media_band.settings.width_mode.label",
+      "info": "t:sections.stone_category_media_band.settings.width_mode.info",
+      "default": "wide",
+      "options": [
+        {
+          "value": "narrow",
+          "label": "t:sections.stone_category_media_band.settings.width_mode.options.narrow.label"
+        },
+        {
+          "value": "standard",
+          "label": "t:sections.stone_category_media_band.settings.width_mode.options.standard.label"
+        },
+        {
+          "value": "wide",
+          "label": "t:sections.stone_category_media_band.settings.width_mode.options.wide.label"
+        }
+      ]
+    },
+    {
+      "type": "select",
+      "id": "spacing_mode",
+      "label": "t:sections.stone_category_media_band.settings.spacing_mode.label",
+      "info": "t:sections.stone_category_media_band.settings.spacing_mode.info",
+      "default": "standard",
+      "options": [
+        {
+          "value": "compact",
+          "label": "t:sections.stone_category_media_band.settings.spacing_mode.options.compact.label"
+        },
+        {
+          "value": "standard",
+          "label": "t:sections.stone_category_media_band.settings.spacing_mode.options.standard.label"
+        },
+        {
+          "value": "relaxed",
+          "label": "t:sections.stone_category_media_band.settings.spacing_mode.options.relaxed.label"
+        }
+      ]
+    }
+  ],
+  "presets": [
+    {
+      "name": "t:sections.stone_category_media_band.name"
+    }
+  ]
+}
+{% endschema %}
