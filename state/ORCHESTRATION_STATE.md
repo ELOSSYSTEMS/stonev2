@@ -8,14 +8,14 @@
 
 ## Current Phase
 
-- `Verified`: Active roadmap phase: Phase 2 bounded runtime verification readiness after minimal trust FAQ implementation
-- `Verified`: Last completed phase slice: Phase 2 minimal trust FAQ implementation slice
-- `Inference`: Next bounded slice: verify one implementation unit for the completed minimal trust FAQ slice
+- `Verified`: Active roadmap phase: Phase 2 bounded planning readiness after minimal trust FAQ verification
+- `Verified`: Last completed phase slice: Phase 2 minimal trust FAQ verification slice
+- `Inference`: Next bounded slice: author one documentation-only planning unit for the next Phase 2 runtime slice after verified minimal trust FAQ completion
 
 ## Approval State
 
 - `Verified`: Current next action approval: APPROVED
-- `Verified`: Approval basis: `UNIT-034` implemented the bounded minimal trust FAQ slice inside the approved five runtime files, kept the repo shell-stable and non-JS, and advanced the repo to one bounded verification unit
+- `Verified`: Approval basis: `UNIT-035` verified that `UNIT-034` stayed inside the approved five runtime files, reused the shared shell unchanged, stayed bounded and non-JS, kept the template host neutral, and preserved bilingual locale parity, so the repo can advance to one bounded docs-only planning unit
 
 ## Lock State
 
