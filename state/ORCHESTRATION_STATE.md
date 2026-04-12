@@ -8,14 +8,14 @@
 
 ## Current Phase
 
-- `Verified`: Active roadmap phase: Phase 2 controlled-expansion proposal readiness after frontier replan
-- `Verified`: Last completed phase slice: Phase 2 controlled-expansion proposal slice
-- `Inference`: Next bounded slice: await controlled-expansion acceptance or boundary authoring before further runtime work
+- `Verified`: Active roadmap phase: Phase 2 bounded runtime implementation readiness after object-aware boundary approval
+- `Verified`: Last completed phase slice: Phase 2 object-aware content/blog boundary slice
+- `Inference`: Next bounded slice: execute one bounded object-aware content/blog implementation unit under the newly formalized boundary
 
 ## Approval State
 
 - `Verified`: Current next action approval: APPROVED
-- `Verified`: Approval basis: `UNIT-066` authored the docs-only controlled-expansion proposal, recommended one narrow object-aware content/blog expansion, and kept the repo off runtime edits until a new approved boundary exists
+- `Verified`: Approval basis: `UNIT-067` formalized the object-aware content/blog approval boundary, preserved the bounded runtime discipline, and advanced the repo to one newly approved implementation unit
 
 ## Lock State
 

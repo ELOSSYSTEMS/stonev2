@@ -8,20 +8,24 @@
 
 ## Approved Unit
 
-- `UNIT-067` Author the next approval-boundary package for the recommended controlled expansion, or reject it explicitly.
+- `UNIT-068` Execute one bounded object-aware article-highlights implementation slice.
 
 ## Objective
 
-- `Verified`: Decide whether to carry the recommended object-aware content/blog expansion into an approval-boundary package, or reject it and replan again.
-- `Verified`: Keep `UNIT-067` limited to `workspace/plans/`, `state/`, and `workspace/handoff/CURRENT_HANDOFF.md` only.
+- `Verified`: Implement the first approved object-aware content/blog proof under the formalized expanded boundary.
+- `Verified`: Keep `UNIT-068` limited to the exact approved five runtime files plus `state/` and `workspace/handoff/CURRENT_HANDOFF.md` only.
 
 ## Plan Reference
 
-- `Path:` `workspace/plans/phase-2-controlled-expansion-proposal-v1/PLAN.v1.md`
+- `Path:` `workspace/plans/phase-2-object-aware-content-blog-boundary-v1/PLAN.v1.md`
 
 ## Allowed Files Or Surfaces
 
-- `workspace/plans/`
+- `project/assets/stone-base.css`
+- `project/sections/stone-blog-article-highlights.liquid`
+- `project/templates/page.stone-runtime-blog-article-highlights.json`
+- `project/locales/he.default.schema.json`
+- `project/locales/en.schema.json`
 - `state/`
 - `workspace/handoff/CURRENT_HANDOFF.md`
 
@@ -37,4 +41,4 @@
 
 ## Stop Condition
 
-Stop if the next approval-boundary unit starts authorizing runtime work without recording explicit preserved rules, explicit new allowances, and explicit stop conditions; stay docs-only until the new boundary is formalized.
+Stop if implementation needs any runtime file outside the approved five runtime files; stop if it needs protected-surface edits, `project/blocks/`, a new snippet, a second section, a second template, JS, filters, tags, search, pagination, slider behavior, drawer behavior, overlay behavior, commerce semantics, or broader composition, and fail closed instead of broadening scope.

@@ -108,7 +108,8 @@
 - `Verified`: `UNIT-064` rejected runtime execution of the blog-highlights slice because the planned lead-plus-secondary structure is not materially distinct enough from `stone-content-card-strip.liquid` under the current bounded rules.
 - `Verified`: `UNIT-065` formalized the broader frontier conclusion that the current micro-slice runtime runway is locally exhausted under the present constraints and that the next step must be a docs-only controlled-expansion proposal.
 - `Verified`: `UNIT-066` completed that proposal and recommended one narrow read-only object-aware content/blog expansion as the least-risky next frontier.
-- `Inference`: The next high-value unit is a docs-only approval-boundary step, not automatic runtime implementation.
+- `Verified`: `UNIT-067` carried that recommendation into a formal approval boundary with explicit preserved rules, exact new allowance, exact future file scope, and exact stop conditions.
+- `Inference`: The next high-value unit is one tightly bounded implementation slice under that new boundary.
 
 ## Risks And Blocks
 
@@ -130,5 +131,5 @@
 - `Inference`: `UNIT-040` stays distinct from the verified utility prompt by separating trust-oriented copy from grouped native actions instead of using a single contained generic prompt body.
 - `Inference`: `UNIT-043` continues inside the trust-and-support family and introduces a heavier proof surface than the verified trust-help-prompt slice because it depends on static brand-proof presentation.
 - `Verified`: `UNIT-043` did not touch `project/snippets/stone-section-shell.liquid`, `project/layout/theme.liquid`, `project/assets/stone-runtime.js`, `project/config/settings_schema.json`, or `project/blocks/`.
-- `Verified`: Broader runtime build-out remains blocked beyond the approved `UNIT-066` proposal scope until a docs-only approval-boundary step either carries or rejects the recommended expansion.
-- `Inference`: Any newly discovered need for protected-surface edits, `project/blocks/`, JS-driven behavior, a second section, a second template, broader object behavior, product-card behavior, slider behavior, drawer behavior, overlay behavior, or page-composition behavior remains a boundary-authoring concern, not permission to resume runtime edits immediately.
+- `Verified`: Broader runtime build-out remains blocked beyond the approved `UNIT-068` implementation scope under the new object-aware boundary.
+- `Inference`: Any newly discovered need for protected-surface edits, `project/blocks/`, JS-driven behavior, a second section, a second template, broader object behavior, product-card behavior, slider behavior, drawer behavior, overlay behavior, archive/discovery behavior, or page-composition behavior remains a failure signal rather than permission to broaden the first expanded slice.
