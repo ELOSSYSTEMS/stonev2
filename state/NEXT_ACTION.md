@@ -8,12 +8,12 @@
 
 ## Approved Unit
 
-- `UNIT-076` Execute one bounded product context card implementation slice.
+- `UNIT-077` Verify the bounded product context card implementation slice.
 
 ## Objective
 
-- `Verified`: Implement the first approved PDP-companion proof under the formalized boundary.
-- `Verified`: Keep `UNIT-076` limited to the exact approved five runtime files plus `state/` and `workspace/handoff/CURRENT_HANDOFF.md` only.
+- `Verified`: Verify that the completed product context card slice stayed inside the approved five-file runtime boundary, remained read-only, reused the shared shell unchanged, and preserved the newly formalized stop conditions.
+- `Verified`: Keep `UNIT-077` limited to verification evidence, `state/`, and `workspace/handoff/CURRENT_HANDOFF.md` only.
 
 ## Plan Reference
 
@@ -41,4 +41,4 @@
 
 ## Stop Condition
 
-Stop if implementation needs any runtime file outside the approved five runtime files; stop if it needs protected-surface edits, `project/blocks/`, a new snippet, a second section, a second template, buy-box behavior, forms, add-to-cart, quick-add, quick-view, price blocks, variant selectors, inventory messaging, galleries, recommendations, product loops, JS, sliders, drawers, overlays, accordions, tabs, or broader composition, and fail closed instead of broadening scope.
+Stop if verification evidence shows runtime changes outside the approved five files, or reveals protected-surface edits, `project/blocks/`, new snippets, a second section, a second template, buy-box behavior, forms, add-to-cart, quick-add, quick-view, price blocks, variant selectors, inventory messaging, galleries, recommendations, product loops, JS, sliders, drawers, overlays, accordions, tabs, or broader composition, and record failure instead of normalizing scope expansion.

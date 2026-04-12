@@ -8,14 +8,14 @@
 
 ## Current Phase
 
-- `Verified`: Active roadmap phase: Phase 2 bounded runtime implementation readiness after PDP companion boundary approval
-- `Verified`: Last completed phase slice: Phase 2 product context card implementation slice
-- `Inference`: Next bounded slice: execute one bounded PDP-companion implementation unit under the newly formalized boundary
+- `Verified`: Active roadmap phase: Phase 2 bounded runtime verification readiness after product context card implementation
+- `Verified`: Last completed phase slice: Phase 2 product context card verification slice
+- `Inference`: Next bounded slice: verify one bounded PDP-companion implementation unit under the newly formalized boundary
 
 ## Approval State
 
 - `Verified`: Current next action approval: APPROVED
-- `Verified`: Approval basis: `UNIT-075` formalized one bounded PDP-companion approval boundary, preserved the existing bounded runtime discipline, and advanced the repo to one newly approved implementation unit
+- `Verified`: Approval basis: `UNIT-076` implemented the first bounded product context card slice inside the approved five runtime files, preserved the non-JS bounded discipline, and advanced the repo to one verification unit
 
 ## Lock State
 

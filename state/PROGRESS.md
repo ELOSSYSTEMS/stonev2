@@ -2,25 +2,25 @@
 
 ## Current Phase
 
-- `Verified`: Roadmap phase: the bounded PDP-companion boundary unit is complete and the repo is positioned for one bounded PDP-aware implementation unit
+- `Verified`: Roadmap phase: the bounded product context card implementation unit is complete and the repo is positioned for one bounded verification unit
 
 ## Approved Next Action
 
-- `Verified`: `UNIT-076` execute one bounded product context card implementation slice
+- `Verified`: `UNIT-077` verify the bounded product context card implementation slice
 
 ## Last Completed Unit
 
-- `Verified`: Unit ID: `UNIT-075`
-- `Verified`: Summary: authored the docs-only PDP-companion approval-boundary package, fixed the exact distinctness case and new allowance, and advanced the repo to one newly bounded PDP-aware implementation unit
+- `Verified`: Unit ID: `UNIT-076`
+- `Verified`: Summary: implemented the first bounded product context card slice, added one read-only product-aware section and neutral host template, extended the base CSS, and preserved the approved five-file runtime boundary under the new PDP-companion rule
 
 ## Verification Status
 
-- `Verified`: Verdict: PASS for `UNIT-075`; the bounded PDP-companion boundary unit is complete
-- `Verified`: Evidence: `workspace/plans/phase-2-pdp-companion-boundary-v1/PLAN.v1.md`; `workspace/plans/phase-2-pdp-companion-boundary-v1/ASSUMPTIONS.v1.md`; `workspace/plans/phase-2-pdp-companion-boundary-v1/CHECKS.v1.md`; `workspace/plans/phase-2-pdp-companion-boundary-v1/RISKS.v1.md`; `workspace/plans/phase-2-pdp-companion-boundary-v1/HANDOFF.v1.md`; `workspace/plans/phase-2-post-collection-frontier-review-v1/PLAN.v1.md`; `node HARNESS/checks/check-state-artifacts.mjs`; `node HARNESS/checks/check-next-action-scope.mjs`; `node HARNESS/checks/check-plan-exists.mjs`; `node HARNESS/checks/check-handoff-completeness.mjs`; `node HARNESS/checks/check-approval-state.mjs`; `node HARNESS/checks/check-lock-state.mjs`; `node HARNESS/checks/harness-check.mjs`
+- `Verified`: Verdict: PASS for `UNIT-076`; the bounded product context card implementation unit is complete
+- `Verified`: Evidence: `project/assets/stone-base.css`; `project/sections/stone-product-context-card.liquid`; `project/templates/page.stone-runtime-product-context-card.json`; `project/locales/he.default.schema.json`; `project/locales/en.schema.json`; JSON parsing and template-shape validation via `node -`; locale subtree parity via `node -`; `grep` render-call check for `stone-section-shell`; `grep` product-setting check for `all_products[stone_product_handle]`; forbidden-scope grep via `grep`; protected-surface diff via `git status --short`; `node HARNESS/checks/check-state-artifacts.mjs`; `node HARNESS/checks/check-next-action-scope.mjs`; `node HARNESS/checks/check-plan-exists.mjs`; `node HARNESS/checks/check-handoff-completeness.mjs`; `node HARNESS/checks/check-approval-state.mjs`; `node HARNESS/checks/check-lock-state.mjs`; `node HARNESS/checks/harness-check.mjs`
 
 ## Active Blockers
 
-- `Verified`: Broader runtime implementation remains blocked beyond the approved `UNIT-076` implementation scope under the new boundary.
+- `Verified`: Broader runtime implementation remains blocked beyond the approved `UNIT-077` verification scope for the implemented slice.
 - `Inference`: Any discovered need to exceed the formalized collection-companion boundary should be treated as a governance failure rather than permission to normalize scope expansion.
 
 ## Resume Notes

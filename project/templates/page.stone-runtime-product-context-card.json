@@ -1,0 +1,18 @@
+{
+  "sections": {
+    "main": {
+      "type": "stone-product-context-card",
+      "settings": {
+        "heading": "Product context",
+        "intro": "<p>Select one product to validate a restrained product-context support surface.</p>",
+        "product": "",
+        "surface_style": "soft",
+        "width_mode": "standard",
+        "spacing_mode": "standard"
+      }
+    }
+  },
+  "order": [
+    "main"
+  ]
+}
