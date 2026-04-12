@@ -8,14 +8,14 @@
 
 ## Current Phase
 
-- `Verified`: Active roadmap phase: Phase 2 bounded runtime planning readiness after minimal blog highlights planning
-- `Verified`: Last completed phase slice: Phase 2 minimal blog highlights planning slice
-- `Inference`: Next bounded slice: hold at one docs-only boundary until the next runtime slice proves distinct enough to implement
+- `Verified`: Active roadmap phase: Phase 2 bounded runtime planning readiness after blog-highlights rejection
+- `Verified`: Last completed phase slice: Phase 2 blog-highlights distinctness decision slice
+- `Inference`: Next bounded slice: author one docs-only frontier replan after rejecting the current blog-highlights candidate
 
 ## Approval State
 
 - `Verified`: Current next action approval: APPROVED
-- `Verified`: Approval basis: `UNIT-063` authored the bounded minimal blog-highlights plan package, but kept the repo at a guarded docs-only boundary because the next content-and-blog implementation must first prove distinctness from the existing content-card-strip proof
+- `Verified`: Approval basis: `UNIT-064` reviewed distinctness against `stone-content-card-strip.liquid`, rejected the planned blog-highlights runtime slice as insufficiently distinct, and kept the repo on a docs-only replanning path
 
 ## Lock State
 

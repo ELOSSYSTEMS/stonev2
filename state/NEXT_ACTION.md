@@ -8,16 +8,16 @@
 
 ## Approved Unit
 
-- `UNIT-064` Decide whether the bounded Phase 2 minimal blog-highlights slice is distinct enough to implement, or stop and replan.
+- `UNIT-065` Author one docs-only Phase 2 frontier replan package after rejecting the minimal blog-highlights runtime slice.
 
 ## Objective
 
-- `Verified`: Re-evaluate whether the planned minimal blog-highlights slice is materially distinct enough from `stone-content-card-strip.liquid` to justify another bounded runtime implementation unit.
-- `Verified`: Keep `UNIT-064` limited to `workspace/plans/`, `state/`, `workspace/handoff/CURRENT_HANDOFF.md`, and bounded source review only unless distinctness is proven first.
+- `Verified`: Define the next safer governed direction after `UNIT-064` rejected the blog-highlights runtime candidate, and capture that as a docs-only frontier replan package with explicit alternatives, tradeoffs, and stop conditions.
+- `Verified`: Keep `UNIT-065` limited to `workspace/plans/`, `state/`, and `workspace/handoff/CURRENT_HANDOFF.md` only.
 
 ## Plan Reference
 
-- `Path:` `workspace/plans/phase-2-minimal-blog-highlights-v1/PLAN.v1.md`
+- `Path:` `workspace/plans/phase-2-blog-highlights-distinctness-review-v1/PLAN.v1.md`
 
 ## Allowed Files Or Surfaces
 
@@ -37,4 +37,4 @@
 
 ## Stop Condition
 
-Stop if distinctness from `stone-content-card-strip.liquid` cannot be demonstrated clearly enough to justify runtime execution; stop if runtime work would need `project/` edits before that distinctness check is resolved; replan the roadmap instead of improvising another near-duplicate content-and-blog slice.
+Stop if the frontier replan begins authorizing runtime work without first establishing a materially distinct family boundary; stop if the replan needs `project/` edits; replan on docs-only surfaces only.

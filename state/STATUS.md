@@ -104,8 +104,9 @@
 - `Verified`: `UNIT-060` authored the bounded minimal editorial quote plan package that fixes the next runtime slice to one restrained quote-led story-and-editorial proof inside the approved five runtime files.
 - `Verified`: The repo now includes the approved Phase 2 minimal editorial quote runtime slice across the five allowed runtime files only: one restrained static editorial-quote validation section, one neutral alternate page template, one bounded base-layer CSS extension, and paired locale updates.
 - `Verified`: `UNIT-062` verified that the minimal editorial quote runtime slice stayed inside the approved five-file boundary, reused the shared shell unchanged, kept the validation template isolated, remained non-JS, and preserved bilingual locale parity.
-- `Verified`: `UNIT-063` authored the bounded minimal blog-highlights plan package as the least-risky next content-and-blog candidate, but left the repo at a guarded docs-only boundary because distinctness from the content-card-strip proof is not yet fully settled.
-- `Inference`: The next high-value unit is a distinctness decision, not automatic runtime implementation.
+- `Verified`: `UNIT-063` authored the bounded minimal blog-highlights plan package as the least-risky next content-and-blog candidate, but left the repo at a guarded docs-only boundary because distinctness from the content-card-strip proof was unsettled.
+- `Verified`: `UNIT-064` rejected runtime execution of the blog-highlights slice because the planned lead-plus-secondary structure is not materially distinct enough from `stone-content-card-strip.liquid` under the current bounded rules.
+- `Inference`: The next high-value unit is a docs-only frontier replan, not automatic runtime implementation.
 
 ## Risks And Blocks
 
@@ -127,5 +128,5 @@
 - `Inference`: `UNIT-040` stays distinct from the verified utility prompt by separating trust-oriented copy from grouped native actions instead of using a single contained generic prompt body.
 - `Inference`: `UNIT-043` continues inside the trust-and-support family and introduces a heavier proof surface than the verified trust-help-prompt slice because it depends on static brand-proof presentation.
 - `Verified`: `UNIT-043` did not touch `project/snippets/stone-section-shell.liquid`, `project/layout/theme.liquid`, `project/assets/stone-runtime.js`, `project/config/settings_schema.json`, or `project/blocks/`.
-- `Verified`: Broader runtime build-out remains blocked beyond the approved `UNIT-063` planning scope until `UNIT-064` resolves whether the planned blog-highlights slice is distinct enough to justify runtime execution.
-- `Inference`: Any newly discovered need for protected-surface edits, `project/blocks/`, JS-driven behavior, a second section, a second template, live objects, product-card behavior, slider behavior, drawer behavior, overlay behavior, or page-composition behavior remains a replanning trigger rather than permission to expand the next unit.
+- `Verified`: Broader runtime build-out remains blocked beyond the approved `UNIT-064` decision scope until a docs-only frontier replan selects a safer next direction.
+- `Inference`: Any newly discovered need for protected-surface edits, `project/blocks/`, JS-driven behavior, a second section, a second template, live objects, product-card behavior, slider behavior, drawer behavior, overlay behavior, or page-composition behavior remains a replanning trigger rather than permission to revive the rejected slice.
