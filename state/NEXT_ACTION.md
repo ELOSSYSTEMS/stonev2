@@ -3,25 +3,29 @@
 ## Status
 
 - `Verified`: Approval State: APPROVED
-- `Verified`: Execution Class: phase-2-runtime-planning
+- `Verified`: Execution Class: phase-2-runtime-implementation
 - `Verified`: Priority: high
 
 ## Approved Unit
 
-- `UNIT-036` Author one bounded planning unit for the next Phase 2 runtime slice after verified minimal trust FAQ completion.
+- `UNIT-037` Execute the bounded Phase 2 minimal reassurance lane implementation slice.
 
 ## Objective
 
-- `Verified`: Define one documentation-only planning unit for the next bounded Phase 2 runtime slice after the verified minimal trust FAQ proof.
-- `Verified`: Keep `UNIT-036` limited to `workspace/plans/`, `state/`, and `workspace/handoff/CURRENT_HANDOFF.md` only.
+- `Verified`: Implement the approved minimal reassurance lane slice and keep it bounded to one restrained second trust-and-support proof.
+- `Verified`: Keep `UNIT-037` limited to the approved five runtime files plus state and handoff updates only.
 
 ## Plan Reference
 
-- `Path:` `workspace/plans/`
+- `Path:` `workspace/plans/phase-2-minimal-reassurance-lane-v1/PLAN.v1.md`
 
 ## Allowed Files Or Surfaces
 
-- `workspace/plans/`
+- `project/assets/stone-base.css`
+- `project/sections/stone-trust-reassurance-lane.liquid`
+- `project/templates/page.stone-runtime-reassurance-lane.json`
+- `project/locales/he.default.schema.json`
+- `project/locales/en.schema.json`
 - `state/`
 - `workspace/handoff/CURRENT_HANDOFF.md`
 
@@ -37,4 +41,4 @@
 
 ## Stop Condition
 
-Stop if planning requires touching any `project/` runtime file, introduces protected-surface changes, assumes a broad family rollout without a bounded proof, or proposes a next slice without explicit file scope, checks, risks, and rejected broader alternatives; stop and replan instead of broadening scope.
+Stop if implementation needs any file outside `project/assets/stone-base.css`, `project/sections/stone-trust-reassurance-lane.liquid`, `project/templates/page.stone-runtime-reassurance-lane.json`, `project/locales/he.default.schema.json`, `project/locales/en.schema.json`, `state/`, and `workspace/handoff/CURRENT_HANDOFF.md`; stop if protected-surface edits, `project/blocks/`, any new snippet file, any second section file, any second template file, custom JS-driven behavior, logos, testimonials, ratings, contact flows, or broader family work becomes necessary, and replan instead of broadening scope.
