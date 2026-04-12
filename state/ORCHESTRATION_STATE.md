@@ -8,14 +8,14 @@
 
 ## Current Phase
 
-- `Verified`: Active roadmap phase: Phase 3 docs-only frontier planning after verified category media band expansion
-- `Verified`: Last completed phase slice: Phase 3 category media band verification slice
-- `Inference`: Next bounded slice: author the post-category-media-band merchandising frontier review and decide the next honest boundary
+- `Verified`: Active roadmap phase: Phase 3 bounded featured-product expansion after verified post-category-media-band frontier review
+- `Verified`: Last completed phase slice: Phase 3 post-category-media-band merchandising frontier review
+- `Inference`: Next bounded slice: execute one new featured-product showcase surface using the shared product-card contract
 
 ## Approval State
 
 - `Verified`: Current next action approval: APPROVED
-- `Verified`: Approval basis: `UNIT-094` verified that the category media band slice held the exact approved six-file runtime boundary and did not drift into heavier commerce or protected surfaces
+- `Verified`: Approval basis: `UNIT-095` determined that the next honest step is one featured-product showcase section, not further category-discovery tuning or heavier merchandising expansion
 
 ## Lock State
 
