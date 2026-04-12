@@ -5,10 +5,14 @@
   assign stone_selected_collection = section.settings.collection
   assign stone_product_limit = section.settings.product_limit | default: 4
   assign stone_surface_style = section.settings.surface_style | default: 'outline'
+  assign stone_layout_mode = section.settings.layout_mode | default: 'grid'
+  assign stone_rendered_product_count = 0
 
   capture stone_section_content
     echo '<div class="stone-featured-collection-grid stone-featured-collection-grid--'
     echo stone_surface_style | escape
+    echo ' stone-featured-collection-grid--layout-'
+    echo stone_layout_mode | escape
     echo '">' 
 
     if stone_intro_plain != blank
@@ -46,15 +50,47 @@
       echo '</a>'
       echo '</div>'
 
-      echo '<div class="stone-featured-collection-grid__products">'
-      for product in stone_selected_collection.products limit: stone_product_limit
-        render 'stone-product-card',
-          product: product,
-          show_vendor: section.settings.show_vendor,
-          show_price: section.settings.show_price,
-          surface_style: 'outline'
-      endfor
-      echo '</div>'
+      if stone_layout_mode == 'spotlight'
+        echo '<div class="stone-featured-collection-grid__spotlight">'
+        assign stone_rendered_product_count = 0
+        for product in stone_selected_collection.products limit: stone_product_limit
+          assign stone_rendered_product_count = stone_rendered_product_count | plus: 1
+          if forloop.first
+            echo '<div class="stone-featured-collection-grid__lead">'
+            render 'stone-product-card',
+              product: product,
+              show_vendor: section.settings.show_vendor,
+              show_price: section.settings.show_price,
+              show_excerpt: true,
+              surface_style: stone_surface_style,
+              card_emphasis: 'spotlight'
+            echo '</div>'
+            if forloop.last == false
+              echo '<div class="stone-featured-collection-grid__secondary">'
+            endif
+          else
+            render 'stone-product-card',
+              product: product,
+              show_vendor: section.settings.show_vendor,
+              show_price: section.settings.show_price,
+              surface_style: 'outline'
+          endif
+        endfor
+        if stone_rendered_product_count > 1
+          echo '</div>'
+        endif
+        echo '</div>'
+      else
+        echo '<div class="stone-featured-collection-grid__products">'
+        for product in stone_selected_collection.products limit: stone_product_limit
+          render 'stone-product-card',
+            product: product,
+            show_vendor: section.settings.show_vendor,
+            show_price: section.settings.show_price,
+            surface_style: 'outline'
+        endfor
+        echo '</div>'
+      endif
     else
       echo '<p class="stone-featured-collection-grid__empty">'
       echo 'sections.stone_featured_collection_grid.empty_collection' | t
@@ -96,6 +132,23 @@
       "id": "collection",
       "label": "t:sections.stone_featured_collection_grid.settings.collection.label",
       "info": "t:sections.stone_featured_collection_grid.settings.collection.info"
+    },
+    {
+      "type": "select",
+      "id": "layout_mode",
+      "label": "t:sections.stone_featured_collection_grid.settings.layout_mode.label",
+      "info": "t:sections.stone_featured_collection_grid.settings.layout_mode.info",
+      "default": "grid",
+      "options": [
+        {
+          "value": "grid",
+          "label": "t:sections.stone_featured_collection_grid.settings.layout_mode.options.grid.label"
+        },
+        {
+          "value": "spotlight",
+          "label": "t:sections.stone_featured_collection_grid.settings.layout_mode.options.spotlight.label"
+        }
+      ]
     },
     {
       "type": "range",

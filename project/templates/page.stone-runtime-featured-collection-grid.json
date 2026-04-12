@@ -3,9 +3,10 @@
     "main": {
       "type": "stone-featured-collection-grid",
       "settings": {
-        "heading": "Featured collection grid",
-        "intro": "<p>Select one collection to validate a restrained merchandising grid built on the shared product-card contract.</p>",
+        "heading": "Featured collection spotlight",
+        "intro": "<p>Select one collection to validate the first in-family spotlight variant built on the shared product-card contract.</p>",
         "collection": "",
+        "layout_mode": "spotlight",
         "product_limit": 4,
         "show_vendor": true,
         "show_price": true,

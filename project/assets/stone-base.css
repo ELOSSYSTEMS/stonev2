@@ -1303,6 +1303,7 @@ canvas {
   }
 }
 
+
 .stone-featured-collection-grid {
   display: grid;
   gap: var(--stone-space-4);
@@ -1322,6 +1323,7 @@ canvas {
 .stone-featured-collection-grid__empty,
 .stone-product-card__title,
 .stone-product-card__vendor,
+.stone-product-card__excerpt,
 .stone-product-card__price {
   margin: 0;
 }
@@ -1358,6 +1360,7 @@ canvas {
 .stone-featured-collection-grid__meta,
 .stone-featured-collection-grid__description,
 .stone-product-card__vendor,
+.stone-product-card__excerpt,
 .stone-product-card__price {
   color: var(--stone-color-muted);
 }
@@ -1387,10 +1390,23 @@ canvas {
   text-decoration: underline;
 }
 
-.stone-featured-collection-grid__products {
+.stone-featured-collection-grid__products,
+.stone-featured-collection-grid__secondary {
   display: grid;
   gap: var(--stone-space-3);
   grid-template-columns: repeat(auto-fit, minmax(14rem, 1fr));
+}
+
+.stone-featured-collection-grid__spotlight {
+  display: grid;
+  gap: var(--stone-space-3);
+}
+
+@media screen and (min-width: 64rem) {
+  .stone-featured-collection-grid--layout-spotlight .stone-featured-collection-grid__spotlight {
+    grid-template-columns: minmax(0, 1.15fr) minmax(0, 0.85fr);
+    align-items: start;
+  }
 }
 
 .stone-product-card {
@@ -1416,6 +1432,10 @@ canvas {
   object-fit: cover;
 }
 
+.stone-product-card--spotlight .stone-product-card__image {
+  aspect-ratio: 1 / 1;
+}
+
 .stone-product-card__content {
   display: grid;
   gap: var(--stone-space-2);
@@ -1426,3 +1446,13 @@ canvas {
   font-size: 1.05rem;
   line-height: 1.35;
 }
+
+.stone-product-card--spotlight .stone-product-card__content {
+  gap: var(--stone-space-3);
+}
+
+.stone-product-card--spotlight .stone-product-card__title {
+  font-size: clamp(1.2rem, 2vw, 1.75rem);
+  line-height: 1.2;
+}
+

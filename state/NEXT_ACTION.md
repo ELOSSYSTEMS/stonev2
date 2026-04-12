@@ -3,18 +3,18 @@
 ## Status
 
 - `Verified`: Approval State: APPROVED
-- `Verified`: Execution Class: phase-3-runtime-implementation
+- `Verified`: Execution Class: phase-3-runtime-verification
 - `Verified`: Priority: high
 
 ## Approved Unit
 
-- `UNIT-084` Execute the post-foundation merchandising spotlight variant slice.
+- `UNIT-085` Verify the post-foundation merchandising spotlight variant slice.
 
 ## Objective
 
-- `Verified`: Extend the verified merchandising family through one promotion-first spotlight mode inside the existing `stone-featured-collection-grid` family.
-- `Verified`: Keep the shared `stone-product-card` contract as the only product-card snippet surface.
-- `Verified`: Keep the slice non-JS, selected-collection, read-only, and free of commerce-action or protected-surface drift.
+- `Verified`: Verify that `UNIT-084` stayed inside the exact approved six-file runtime boundary.
+- `Verified`: Confirm the spotlight variant remained an in-family extension of `stone-featured-collection-grid` and reused `stone-product-card` as the only product-card snippet surface.
+- `Verified`: Confirm the slice remained non-JS, selected-collection, read-only, and free of protected-surface or heavier-commerce drift.
 
 ## Plan Reference
 
@@ -43,4 +43,4 @@
 
 ## Stop Condition
 
-Stop if implementation needs any runtime file outside the approved six runtime files, a second snippet, a second section, a second template, protected-surface edits, JS changes, collection-template rewrites, product-template rewrites, compare-at pricing logic, badges, urgency logic, rails, carousels, shoppable-media behavior, add-to-cart, product forms, quick-add, quick-view, or any heavier commerce behavior. Fail closed instead of normalizing scope expansion.
+Stop if verification shows any runtime file outside the approved six-file boundary, a second snippet, a second section, a second template, protected-surface edits, JS edits, compare-at pricing logic, badges, urgency logic, rails, carousels, shoppable-media behavior, add-to-cart, product forms, quick-add, quick-view, or any heavier-commerce drift. Fail closed instead of normalizing scope expansion.

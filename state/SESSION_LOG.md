@@ -8,6 +8,43 @@
 
 ### Session Entry
 
+- Timestamp: 2026-04-12 20:23 Asia/Jerusalem
+- Skill or Mode: `project-build`
+- Summary: implemented the post-foundation merchandising spotlight variant by extending the existing merchandising family and shared product-card contract inside the same approved six-file runtime boundary
+- Files changed:
+  - `project/assets/stone-base.css`
+  - `project/snippets/stone-product-card.liquid`
+  - `project/sections/stone-featured-collection-grid.liquid`
+  - `project/templates/page.stone-runtime-featured-collection-grid.json`
+  - `project/locales/he.default.schema.json`
+  - `project/locales/en.schema.json`
+  - `state/ORCHESTRATION_STATE.md`
+  - `state/STATUS.md`
+  - `state/NEXT_ACTION.md`
+  - `state/FEATURE_STATUS.md`
+  - `state/PROGRESS.md`
+  - `state/SESSION_LOG.md`
+  - `workspace/handoff/CURRENT_HANDOFF.md`
+- Checks run:
+  - template and locale validation via `node -`
+  - `grep` render-call checks for `stone-product-card`
+  - `grep` spotlight variant checks for `card_emphasis: 'spotlight'` and `show_excerpt: true`
+  - `grep` selected-collection checks for `section.settings.collection` and `stone_selected_collection.products`
+  - forbidden-scope grep via `grep`
+  - protected-surface diff via `git diff --name-only`
+  - exact runtime boundary validation via `node -`
+  - `node HARNESS/checks/check-state-artifacts.mjs`
+  - `node HARNESS/checks/check-next-action-scope.mjs`
+  - `node HARNESS/checks/check-plan-exists.mjs`
+  - `node HARNESS/checks/check-handoff-completeness.mjs`
+  - `node HARNESS/checks/check-approval-state.mjs`
+  - `node HARNESS/checks/check-lock-state.mjs`
+  - `node HARNESS/checks/harness-check.mjs`
+- Result: PASS
+- Follow-up: execute `UNIT-085` only as the bounded verification pass for the spotlight variant slice
+
+### Session Entry
+
 - Timestamp: 2026-04-12 20:18 Asia/Jerusalem
 - Skill or Mode: `planning`
 - Summary: authored the post-foundation merchandising frontier review, selected one bounded spotlight variant inside the existing merchandising family as the next honest step, and advanced governed state to `UNIT-084`
