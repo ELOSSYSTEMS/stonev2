@@ -1910,12 +1910,87 @@
           }
         }
       }
+    },
+    "stone_category_entry_grid": {
+      "name": "Category entry grid",
+      "collection_label": "Curated categories",
+      "selected_count": "{{ count }} selected collections",
+      "empty_state": "Select up to three collections to validate the bounded category-entry merchandising surface.",
+      "settings": {
+        "heading": {
+          "label": "Section heading",
+          "info": "Optional. Displays a neutral heading above the category-entry grid."
+        },
+        "intro": {
+          "label": "Intro text",
+          "info": "Optional. Adds restrained supporting copy above the curated collection grid."
+        },
+        "collection_primary": {
+          "label": "Primary collection",
+          "info": "Selects the first collection entry."
+        },
+        "collection_secondary": {
+          "label": "Secondary collection",
+          "info": "Selects the second collection entry."
+        },
+        "collection_tertiary": {
+          "label": "Tertiary collection",
+          "info": "Selects the third collection entry."
+        },
+        "surface_style": {
+          "label": "Surface style",
+          "info": "Controls whether the category-entry proof sits directly on the page or inside a soft surface.",
+          "options": {
+            "outline": {
+              "label": "Outline"
+            },
+            "soft": {
+              "label": "Soft"
+            }
+          }
+        },
+        "width_mode": {
+          "label": "Width mode",
+          "info": "Controls the container width for the section shell.",
+          "options": {
+            "narrow": {
+              "label": "Narrow"
+            },
+            "standard": {
+              "label": "Standard"
+            },
+            "wide": {
+              "label": "Wide"
+            }
+          }
+        },
+        "spacing_mode": {
+          "label": "Spacing mode",
+          "info": "Controls the vertical spacing for the section shell.",
+          "options": {
+            "compact": {
+              "label": "Compact"
+            },
+            "standard": {
+              "label": "Balanced"
+            },
+            "relaxed": {
+              "label": "Relaxed"
+            }
+          }
+        }
+      }
     }
   },
   "snippets": {
     "stone_product_card": {
       "view_product": "View product",
       "from_price": "From {{ price }}"
+    },
+    "stone_collection_card": {
+      "collection_label": "Collection",
+      "product_count": "{{ count }} products",
+      "view_collection": "View collection"
     }
   }
 }

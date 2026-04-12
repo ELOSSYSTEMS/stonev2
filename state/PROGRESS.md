@@ -2,29 +2,29 @@
 
 ## Current Phase
 
-- `Verified`: Roadmap phase: the merchandising spotlight variant is verified and the repo is positioned for one bounded category-entry merchandising implementation step.
+- `Verified`: Roadmap phase: the bounded category-entry merchandising implementation slice is complete and awaiting verification.
 
 ## Approved Next Action
 
-- `Verified`: `UNIT-087` execute the category-entry merchandising slice.
+- `Verified`: `UNIT-088` verify the category-entry merchandising slice.
 
 ## Last Completed Unit
 
-- `Verified`: Unit ID: `UNIT-086`
-- `Verified`: Summary: authored the post-spotlight merchandising frontier review, concluded that the next honest move is a distinct category-entry discovery surface, and approved one bounded category-entry implementation boundary.
+- `Verified`: Unit ID: `UNIT-087`
+- `Verified`: Summary: implemented one shared collection-card contract and one category-entry merchandising section that renders up to three explicit selected collections inside the exact approved six-file runtime boundary.
 
 ## Verification Status
 
-- `Verified`: Verdict: PASS for `UNIT-086`; Stone V2 is ready for one additional bounded runtime step that broadens merchandising from product discovery into curated collection discovery.
-- `Verified`: Evidence: `workspace/plans/phase-3-category-entry-boundary-v1/PLAN.v1.md`; `workspace/plans/phase-3-category-entry-boundary-v1/ASSUMPTIONS.v1.md`; `workspace/plans/phase-3-category-entry-boundary-v1/CHECKS.v1.md`; `workspace/plans/phase-3-category-entry-boundary-v1/RISKS.v1.md`; `workspace/plans/phase-3-category-entry-boundary-v1/HANDOFF.v1.md`; `node HARNESS/checks/check-state-artifacts.mjs`; `node HARNESS/checks/check-next-action-scope.mjs`; `node HARNESS/checks/check-plan-exists.mjs`; `node HARNESS/checks/check-handoff-completeness.mjs`; `node HARNESS/checks/check-approval-state.mjs`; `node HARNESS/checks/check-lock-state.mjs`; `node HARNESS/checks/harness-check.mjs`
+- `Verified`: Verdict: implementation PASS for `UNIT-087`; the category-entry slice is ready for bounded verification.
+- `Verified`: Evidence: template and locale parse via `node -`; shared-snippet reuse checks via `grep`; explicit collection-setting checks via `grep`; forbidden-scope grep via `grep`; protected-surface diff via `git diff --name-only`; exact runtime boundary pending formal verify unit.
 
 ## Active Blockers
 
-- `Verified`: The next runtime slice remains bounded to the exact category-entry six-file surface.
-- `Inference`: Any discovered need for blocks, list settings, pricing logic, product-card reuse, JS, protected-surface edits, rails/carousels, or shoppable-media behavior remains a new boundary problem rather than permission to widen `UNIT-087`.
+- `Verified`: Runtime expansion remains paused pending `UNIT-088` verification.
+- `Inference`: Any discovered need for blocks, list settings, pricing logic, product-card behavior, JS, protected-surface edits, rails/carousels, or shoppable-media behavior remains a new boundary problem rather than permission to widen `UNIT-087`.
 
 ## Resume Notes
 
-- `Verified`: Resume from branch `codex/unit-086-post-spotlight-frontier-plan`.
-- `Verified`: `UNIT-087` should establish a distinct category-entry surface, not a third featured-collection-grid variant.
-- `Verified`: Fail closed if the category-entry proof cannot stay coherent inside the exact new six-file boundary.
+- `Verified`: Resume from branch `codex/unit-087-category-entry-impl`.
+- `Verified`: `UNIT-088` must confirm exact six-file runtime scope, shared collection-card reuse, exactly three explicit collection settings, locale parity, and the absence of protected-surface or heavier-commerce drift.
+- `Verified`: Do not authorize further runtime work until `UNIT-088` records PASS or FAIL.

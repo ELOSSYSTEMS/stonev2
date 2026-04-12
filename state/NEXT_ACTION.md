@@ -3,18 +3,18 @@
 ## Status
 
 - `Verified`: Approval State: APPROVED
-- `Verified`: Execution Class: phase-3-runtime-implementation
+- `Verified`: Execution Class: verification
 - `Verified`: Priority: high
 
 ## Approved Unit
 
-- `UNIT-087` Execute the category-entry merchandising slice.
+- `UNIT-088` Verify the category-entry merchandising slice.
 
 ## Objective
 
-- `Verified`: Broaden Stone V2 merchandising from product discovery into curated collection-entry discovery.
-- `Verified`: Establish one shared `stone-collection-card` contract and one category-entry grid section that renders exactly three selected collections.
-- `Verified`: Keep the slice non-JS, collection-link-only, and free of protected-surface or heavier-commerce drift.
+- `Verified`: Verify that the category-entry merchandising slice stayed inside the exact approved six-file runtime boundary.
+- `Verified`: Verify that the new section reuses the shared `stone-collection-card` snippet and remains limited to exactly three explicit collection settings.
+- `Verified`: Verify that the slice remained non-JS, collection-link-only, and free of protected-surface or heavier-commerce drift.
 
 ## Plan Reference
 
@@ -43,4 +43,4 @@
 
 ## Stop Condition
 
-Stop if implementation needs any runtime file outside the approved six runtime files, blocks, list settings, a second snippet, a second section, a second template, protected-surface edits, JS changes, pricing logic, product-card behavior, rails, carousels, shoppable-media behavior, or any heavier-commerce drift. Fail closed instead of normalizing scope expansion.
+Stop if verification finds any runtime file outside the approved six runtime files, any missing shared-snippet reuse, any block/list-setting drift, any pricing or product-card behavior, any JS or protected-surface edits, or any heavier-commerce behavior. Fail closed instead of normalizing drift.

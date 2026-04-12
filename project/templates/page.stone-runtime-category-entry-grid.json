@@ -1,0 +1,17 @@
+{
+  "sections": {
+    "main": {
+      "type": "stone-category-entry-grid",
+      "settings": {
+        "heading": "Category entry grid",
+        "intro": "<p>Use this bounded merchandising surface to validate curated collection discovery without widening into heavier commerce behavior.</p>",
+        "surface_style": "outline",
+        "width_mode": "wide",
+        "spacing_mode": "standard"
+      }
+    }
+  },
+  "order": [
+    "main"
+  ]
+}

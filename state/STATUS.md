@@ -3,7 +3,7 @@
 ## Snapshot
 
 - `Verified`: Repo state: harness foundation populated
-- `Verified`: Storefront runtime state: the bounded Phase 2 proof chain is complete through the verified PDP companion frontier, the broader Phase 3 planning package is complete, the broader merchandising foundation boundary is complete, the first broader merchandising foundation implementation slice is complete and verified, the spotlight-variant family extension is complete and verified, and the next approved step is one bounded category-entry merchandising surface.
+- `Verified`: Storefront runtime state: the broader merchandising foundation slice and spotlight variant are complete and verified, and the distinct category-entry merchandising slice is now implemented within its bounded six-file runtime scope.
 - `Verified`: Architecture authority: the five documents under `docs/architecture/`
 - `Verified`: Current active planning package: `workspace/plans/phase-3-category-entry-boundary-v1/`
 
@@ -17,9 +17,6 @@
 - `Verified`: `workspace/specs/STONEV2_SECTION_FAMILY_LEDGER.md`
 - `Verified`: `workspace/specs/STONEV2_SETTINGS_TAXONOMY.md`
 - `Verified`: `workspace/specs/STONEV2_BILINGUAL_SCHEMA_STRATEGY.md`
-- `Verified`: `workspace/plans/phase-3-broader-merchandising-platform-v1/PLAN.v1.md`
-- `Verified`: `workspace/plans/phase-3-merchandising-foundation-boundary-v1/PLAN.v1.md`
-- `Verified`: `workspace/plans/phase-3-post-foundation-merchandising-frontier-review-v1/PLAN.v1.md`
 - `Verified`: `workspace/plans/phase-3-category-entry-boundary-v1/PLAN.v1.md`
 
 ## Constraints
@@ -31,16 +28,16 @@
 - `Verified`: Preserve Hebrew-first assumptions
 - `Verified`: Treat bilingual Hebrew and English editor support as a core architectural requirement
 - `Verified`: Do not copy code or markup from external reference themes
-- `Verified`: The next approved category-entry step remains non-JS and excludes commerce-action behavior
+- `Verified`: The category-entry slice remains non-JS and collection-link-only
 
 ## Current Outcome
 
-- `Verified`: `UNIT-080` formalized the first honest broader execution boundary with one shared product-card snippet, one featured-collection merchandising section, one neutral validation template, and an exact six-file runtime scope.
-- `Verified`: `UNIT-081` through `UNIT-085` proved the product-discovery side of the merchandising family through one foundational slice and one in-family spotlight extension.
-- `Verified`: `UNIT-086` concludes the next honest expansion is a distinct category-entry discovery surface rather than a third variant inside `stone-featured-collection-grid`.
-- `Inference`: Stone V2 is now positioned to broaden merchandising coverage across object types while still staying in a tightly bounded six-file implementation slice.
+- `Verified`: `UNIT-086` concluded the next honest merchandising expansion is a distinct category-entry discovery surface rather than a third featured-collection-grid variant.
+- `Verified`: `UNIT-087` implemented `project/snippets/stone-collection-card.liquid`, `project/sections/stone-category-entry-grid.liquid`, `project/templates/page.stone-runtime-category-entry-grid.json`, bounded CSS in `project/assets/stone-base.css`, and paired locale updates in `project/locales/he.default.schema.json` and `project/locales/en.schema.json`.
+- `Verified`: `UNIT-087` stayed inside the exact approved six runtime files and kept the section limited to three explicit collection settings.
+- `Inference`: The repo is ready for bounded verification of the category-entry merchandising slice.
 
 ## Risks And Blocks
 
-- `Verified`: Runtime expansion remains bounded to the category-entry six-file surface for `UNIT-087`.
-- `Inference`: Any discovered need for blocks, list settings, pricing logic, product-card behavior, JS, protected-surface edits, rails/carousels, or shoppable-media behavior should trigger a new docs-only boundary decision rather than widening the approved next slice.
+- `Verified`: Runtime expansion remains paused pending `UNIT-088` verification.
+- `Inference`: Any discovered need for blocks, list settings, pricing logic, product-card behavior, JS, protected-surface edits, rails/carousels, or shoppable-media behavior should trigger a new docs-only boundary decision rather than widening the approved slice.

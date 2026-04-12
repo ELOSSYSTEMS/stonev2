@@ -1,0 +1,29 @@
+{%- liquid
+  assign stone_collection = collection
+  assign stone_surface_style = surface_style | default: 'outline'
+  assign stone_description = stone_collection.description | strip_html | strip
+-%}
+{%- if stone_collection != blank -%}
+  <article class="stone-collection-card stone-collection-card--{{ stone_surface_style | escape }}">
+    {%- if stone_collection.featured_image != blank -%}
+      <a class="stone-collection-card__media" href="{{ stone_collection.url | escape }}">
+        {{ stone_collection.featured_image | image_url: width: 1200 | image_tag: class: 'stone-collection-card__image', loading: 'lazy', widths: '320, 480, 640, 960, 1200', sizes: '(min-width: 64rem) 22rem, (min-width: 48rem) 32vw, 100vw' }}
+      </a>
+    {%- endif -%}
+
+    <div class="stone-collection-card__content">
+      <p class="stone-collection-card__eyebrow">{{ 'snippets.stone_collection_card.collection_label' | t }}</p>
+      <h3 class="stone-collection-card__title">
+        <a class="stone-collection-card__title-link" href="{{ stone_collection.url | escape }}">{{ stone_collection.title | escape }}</a>
+      </h3>
+
+      <p class="stone-collection-card__meta">{{ 'snippets.stone_collection_card.product_count' | t: count: stone_collection.all_products_count }}</p>
+
+      {%- if stone_description != blank -%}
+        <p class="stone-collection-card__excerpt">{{ stone_description | truncatewords: 22 | escape }}</p>
+      {%- endif -%}
+
+      <a class="stone-collection-card__link" href="{{ stone_collection.url | escape }}">{{ 'snippets.stone_collection_card.view_collection' | t }}</a>
+    </div>
+  </article>
+{%- endif -%}

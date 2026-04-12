@@ -1910,12 +1910,87 @@
           }
         }
       }
+    },
+    "stone_category_entry_grid": {
+      "name": "גריד כניסות לקטגוריות",
+      "collection_label": "קטגוריות נבחרות",
+      "selected_count": "{{ count }} קולקציות נבחרות",
+      "empty_state": "בחרו עד שלוש קולקציות כדי לאמת את משטח המרצ׳נדייזינג התחום לכניסות קטגוריה.",
+      "settings": {
+        "heading": {
+          "label": "כותרת הסקשן",
+          "info": "אופציונלי. מציג כותרת ניטרלית מעל גריד הקטגוריות."
+        },
+        "intro": {
+          "label": "טקסט פתיחה",
+          "info": "אופציונלי. מוסיף טקסט תומך מרוסן מעל גריד הקולקציות הנבחרות."
+        },
+        "collection_primary": {
+          "label": "קולקציה ראשית",
+          "info": "בוחרת את כניסת הקולקציה הראשונה."
+        },
+        "collection_secondary": {
+          "label": "קולקציה משנית",
+          "info": "בוחרת את כניסת הקולקציה השנייה."
+        },
+        "collection_tertiary": {
+          "label": "קולקציה שלישית",
+          "info": "בוחרת את כניסת הקולקציה השלישית."
+        },
+        "surface_style": {
+          "label": "סגנון משטח",
+          "info": "שולט אם הוכחת הקטגוריות יושבת ישירות על הדף או בתוך משטח רך.",
+          "options": {
+            "outline": {
+              "label": "מסגרת"
+            },
+            "soft": {
+              "label": "רך"
+            }
+          }
+        },
+        "width_mode": {
+          "label": "רוחב",
+          "info": "שולט ברוחב המעטפת של הסקשן.",
+          "options": {
+            "narrow": {
+              "label": "צר"
+            },
+            "standard": {
+              "label": "רגיל"
+            },
+            "wide": {
+              "label": "רחב"
+            }
+          }
+        },
+        "spacing_mode": {
+          "label": "מרווח אנכי",
+          "info": "שולט במרווח האנכי של מעטפת הסקשן.",
+          "options": {
+            "compact": {
+              "label": "קומפקטי"
+            },
+            "standard": {
+              "label": "מאוזן"
+            },
+            "relaxed": {
+              "label": "מרווח"
+            }
+          }
+        }
+      }
     }
   },
   "snippets": {
     "stone_product_card": {
       "view_product": "לצפייה במוצר",
       "from_price": "החל מ־{{ price }}"
+    },
+    "stone_collection_card": {
+      "collection_label": "קולקציה",
+      "product_count": "{{ count }} מוצרים",
+      "view_collection": "לצפייה בקולקציה"
     }
   }
 }
