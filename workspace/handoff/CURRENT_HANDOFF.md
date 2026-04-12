@@ -6,18 +6,23 @@
 - `Verified`: The broader Phase 3 planning package is complete.
 - `Verified`: The broader merchandising foundation boundary package is complete.
 - `Verified`: The first broader merchandising foundation implementation slice is complete and verified.
+- `Verified`: The next approved step is one bounded in-family merchandising spotlight variant.
 
 ## Current State
 
-- `Verified`: `UNIT-079` translated the exhausted micro-slice frontier into a broader Phase 3 merchandising-platform planning package.
 - `Verified`: `UNIT-080` formalized the first broader execution boundary with one shared product-card snippet, one featured-collection merchandising section, one neutral validation template, and an exact six-file runtime scope.
-- `Verified`: `UNIT-081` implemented the new shared merchandising card contract in `project/snippets/stone-product-card.liquid`.
-- `Verified`: `UNIT-081` implemented the first broader merchandising proof in `project/sections/stone-featured-collection-grid.liquid` using read-only selected collection access and product iteration from the chosen collection.
-- `Verified`: `UNIT-082` verified the exact six runtime files, confirmed shared snippet reuse, confirmed selected-collection read-only product iteration, confirmed locale parity, and confirmed no JS, protected-surface, or heavier-commerce drift.
-- `Verified`: `state/NEXT_ACTION.md` now points to `UNIT-083`, the docs-only post-foundation merchandising frontier review.
+- `Verified`: `UNIT-081` implemented the shared merchandising card contract and first featured-collection merchandising proof.
+- `Verified`: `UNIT-082` verified exact boundary compliance, shared snippet reuse, selected-collection read-only access, locale parity, and no protected-surface or heavier-commerce drift.
+- `Verified`: `UNIT-083` rejected premature creation of a second merchandising section file and selected one promotion-first spotlight variant inside the existing merchandising family as the next honest step.
+- `Verified`: `state/NEXT_ACTION.md` now points to `UNIT-084`, the bounded implementation of that spotlight variant.
 
 ## Changed Or Seeded Files
 
+- `Verified`: `workspace/plans/phase-3-post-foundation-merchandising-frontier-review-v1/PLAN.v1.md`
+- `Verified`: `workspace/plans/phase-3-post-foundation-merchandising-frontier-review-v1/ASSUMPTIONS.v1.md`
+- `Verified`: `workspace/plans/phase-3-post-foundation-merchandising-frontier-review-v1/CHECKS.v1.md`
+- `Verified`: `workspace/plans/phase-3-post-foundation-merchandising-frontier-review-v1/RISKS.v1.md`
+- `Verified`: `workspace/plans/phase-3-post-foundation-merchandising-frontier-review-v1/HANDOFF.v1.md`
 - `Verified`: `state/ORCHESTRATION_STATE.md`
 - `Verified`: `state/STATUS.md`
 - `Verified`: `state/NEXT_ACTION.md`
@@ -27,18 +32,18 @@
 
 ## Open Assumptions
 
-- `Verified`: The verified foundation slice remains the current ceiling: no JS, no protected-surface edits, no add-to-cart, no product forms, no quick-add, no quick-view, no drawers, no overlays, no variant selectors, no inventory messaging, and no recommendation behavior.
-- `Verified`: The next unit should remain docs-only and decide whether a second broader merchandising step is justified and, if so, define it explicitly instead of extending runtime work implicitly.
-- `Inference`: The strongest immediate question is whether Stone V2 should next broaden the shared merchandising contract, broaden merchandising layout behavior, or pause runtime work and re-plan at a higher architecture level.
+- `Verified`: The next runtime slice must stay on the same six merchandising-foundation files and must extend the current family rather than creating a new merchandising file.
+- `Verified`: Spotlight emphasis must remain restrained and must not widen into compare-at pricing, sale badging, urgency logic, shoppable media, quick-add, or other heavier commerce behavior.
+- `Inference`: If the variant cannot stay coherent inside the existing family, the correct move is to stop and author a new docs-only boundary instead of forcing runtime expansion.
 
 ## Recommended Next Step
 
-- `Verified`: Execute `UNIT-083` from `state/NEXT_ACTION.md` and author the post-foundation merchandising frontier review without touching `project/` runtime files.
+- `Verified`: Execute `UNIT-084` from `state/NEXT_ACTION.md` and implement one promotion-first spotlight variant inside the existing merchandising family without widening scope.
 
 ## Resume Checks
 
-- `Verified`: Read `workspace/plans/phase-3-merchandising-foundation-boundary-v1/PLAN.v1.md`.
+- `Verified`: Read `workspace/plans/phase-3-post-foundation-merchandising-frontier-review-v1/PLAN.v1.md`.
 - `Verified`: Read `state/ORCHESTRATION_STATE.md`, `state/STATUS.md`, `state/NEXT_ACTION.md`, `state/FEATURE_STATUS.md`, `state/PROGRESS.md`, and `state/SESSION_LOG.md`.
-- `Verified`: Review `git show --stat --name-only --format=fuller HEAD` for the verified `UNIT-081` implementation commit.
-- `Verified`: Confirm no `project/` runtime files are touched during `UNIT-083`.
+- `Verified`: Confirm the next runtime unit is limited to the same six merchandising-foundation runtime files.
+- `Verified`: Confirm no second section, second template, or second snippet is introduced.
 - `Verified`: Run `node HARNESS/checks/harness-check.mjs` after the docs-only planning pass.

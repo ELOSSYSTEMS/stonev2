@@ -8,14 +8,14 @@
 
 ## Current Phase
 
-- `Verified`: Active roadmap phase: Phase 3 docs-only frontier planning after verified merchandising foundation implementation
-- `Verified`: Last completed phase slice: Phase 3 merchandising foundation verification slice
-- `Inference`: Next bounded slice: author the post-foundation merchandising frontier review and decide the next honest broader boundary
+- `Verified`: Active roadmap phase: Phase 3 bounded merchandising family growth after verified foundation
+- `Verified`: Last completed phase slice: Phase 3 post-foundation merchandising frontier review
+- `Inference`: Next bounded slice: execute one in-family spotlight variant inside the existing merchandising family
 
 ## Approval State
 
 - `Verified`: Current next action approval: APPROVED
-- `Verified`: Approval basis: `UNIT-082` verified that the first broader merchandising foundation slice held the exact approved six-file runtime boundary and did not drift into heavier commerce or protected surfaces
+- `Verified`: Approval basis: `UNIT-083` determined that the next honest broader step is one bounded spotlight variant on the verified merchandising family, not a second section file or heavier commerce expansion
 
 ## Lock State
 
