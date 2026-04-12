@@ -2,26 +2,26 @@
 
 ## Current Phase
 
-- `Verified`: Roadmap phase: the bounded object-aware article-highlights implementation unit is complete and the repo is positioned for one bounded verification unit
+- `Verified`: Roadmap phase: the bounded object-aware article-highlights verification unit is complete and the repo is back at a docs-only planning boundary
 
 ## Approved Next Action
 
-- `Verified`: `UNIT-069` verify the bounded object-aware article-highlights implementation slice
+- `Verified`: `UNIT-070` plan the next post-object-aware frontier step, or stop runtime expansion explicitly
 
 ## Last Completed Unit
 
-- `Verified`: Unit ID: `UNIT-068`
-- `Verified`: Summary: implemented the first bounded object-aware article-highlights slice, added one read-only article-highlights section and neutral host template, extended the base CSS, and preserved the approved five-file runtime boundary under the new object-aware rule
+- `Verified`: Unit ID: `UNIT-069`
+- `Verified`: Summary: verified the first bounded object-aware article-highlights slice, confirmed five-file boundary compliance, confirmed read-only object access and non-JS discipline, and returned the repo to a docs-only frontier-planning boundary
 
 ## Verification Status
 
-- `Verified`: Verdict: PASS for `UNIT-068`; the bounded object-aware article-highlights implementation unit is complete
-- `Verified`: Evidence: `project/assets/stone-base.css`; `project/sections/stone-blog-article-highlights.liquid`; `project/templates/page.stone-runtime-blog-article-highlights.json`; `project/locales/he.default.schema.json`; `project/locales/en.schema.json`; JSON parsing and template-shape validation via `node -`; locale subtree parity via `node -`; `grep` render-call check for `stone-section-shell`; forbidden-scope grep via `grep`; protected-surface diff via `git status --short`; `node HARNESS/checks/check-state-artifacts.mjs`; `node HARNESS/checks/check-next-action-scope.mjs`; `node HARNESS/checks/check-plan-exists.mjs`; `node HARNESS/checks/check-handoff-completeness.mjs`; `node HARNESS/checks/check-approval-state.mjs`; `node HARNESS/checks/check-lock-state.mjs`; `node HARNESS/checks/harness-check.mjs`
+- `Verified`: Verdict: PASS for `UNIT-069`; the bounded object-aware article-highlights verification unit is complete
+- `Verified`: Evidence: `git diff --name-only HEAD^ HEAD`; `git diff --name-only HEAD^ HEAD -- project`; `git show --stat --name-only --format=fuller HEAD`; JSON parsing and template-shape validation via `node -`; locale subtree parity via `node -`; `grep` render-call check for `stone-section-shell`; `grep` object-access check for `blogs[stone_blog_handle]`; forbidden-scope grep via `grep`; protected-surface diff via `git diff --name-only HEAD^ HEAD -- project/layout project/assets/stone-runtime.js project/config project/snippets project/blocks`; `node HARNESS/checks/check-state-artifacts.mjs`; `node HARNESS/checks/check-next-action-scope.mjs`; `node HARNESS/checks/check-plan-exists.mjs`; `node HARNESS/checks/check-handoff-completeness.mjs`; `node HARNESS/checks/check-approval-state.mjs`; `node HARNESS/checks/check-lock-state.mjs`; `node HARNESS/checks/harness-check.mjs`
 
 ## Active Blockers
 
-- `Verified`: Broader runtime implementation remains blocked beyond the approved `UNIT-069` verification scope for the implemented slice.
-- `Inference`: Any discovered need to exceed the formalized boundary should be treated as a governance failure rather than permission to normalize scope expansion.
+- `Verified`: Broader runtime implementation remains blocked beyond the approved `UNIT-070` docs-only planning scope until another bounded case is justified.
+- `Inference`: Any discovered need to exceed the formalized boundary should be treated as a reason to pause runtime work and replan, not as permission to normalize scope expansion.
 
 ## Resume Notes
 

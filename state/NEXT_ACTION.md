@@ -8,12 +8,12 @@
 
 ## Approved Unit
 
-- `UNIT-069` Verify the bounded object-aware article-highlights implementation slice.
+- `UNIT-070` Plan the next post-object-aware frontier step, or stop runtime expansion explicitly.
 
 ## Objective
 
-- `Verified`: Verify that the completed object-aware article-highlights slice stayed inside the approved five-file runtime boundary, remained read-only, reused the shared shell unchanged, and preserved the newly formalized stop conditions.
-- `Verified`: Keep `UNIT-069` limited to verification evidence, `state/`, and `workspace/handoff/CURRENT_HANDOFF.md` only.
+- `Verified`: Decide whether the newly verified object-aware article-highlights proof justifies one further bounded expansion candidate, or whether Phase 2 should stop again at the current verified frontier.
+- `Verified`: Keep `UNIT-070` limited to `workspace/plans/`, `state/`, and `workspace/handoff/CURRENT_HANDOFF.md` only.
 
 ## Plan Reference
 
@@ -21,11 +21,7 @@
 
 ## Allowed Files Or Surfaces
 
-- `project/assets/stone-base.css`
-- `project/sections/stone-blog-article-highlights.liquid`
-- `project/templates/page.stone-runtime-blog-article-highlights.json`
-- `project/locales/he.default.schema.json`
-- `project/locales/en.schema.json`
+- `workspace/plans/`
 - `state/`
 - `workspace/handoff/CURRENT_HANDOFF.md`
 
@@ -41,4 +37,4 @@
 
 ## Stop Condition
 
-Stop if verification evidence shows runtime changes outside the approved five files, or reveals protected-surface edits, `project/blocks/`, new snippets, a second section, a second template, JS, filters, tags, search, pagination, slider behavior, drawer behavior, overlay behavior, commerce semantics, or broader composition, and record failure instead of normalizing scope expansion.
+Stop if the next planning unit attempts to normalize broader runtime expansion without recording an exact distinctness case, exact allowed files, preserved rules, and exact stop conditions; stay docs-only unless a new bounded case is justified.

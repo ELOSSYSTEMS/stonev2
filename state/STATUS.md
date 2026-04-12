@@ -109,8 +109,8 @@
 - `Verified`: `UNIT-065` formalized the broader frontier conclusion that the current micro-slice runtime runway is locally exhausted under the present constraints and that the next step must be a docs-only controlled-expansion proposal.
 - `Verified`: `UNIT-066` completed that proposal and recommended one narrow read-only object-aware content/blog expansion as the least-risky next frontier.
 - `Verified`: `UNIT-067` carried that recommendation into a formal approval boundary with explicit preserved rules, exact new allowance, exact future file scope, and exact stop conditions.
-- `Verified`: The repo now includes the first bounded object-aware content/blog runtime slice across the approved five files only: one read-only article-highlights section, one neutral host template, one bounded CSS extension, and paired locale updates.
-- `Inference`: The next high-value unit is one tightly bounded verification slice under that new boundary.
+- `Verified`: `UNIT-069` confirms the repo now includes the first verified bounded object-aware content/blog runtime slice across the approved five files only: one read-only article-highlights section, one neutral host template, one bounded CSS extension, and paired locale updates.
+- `Inference`: The next high-value unit is a docs-only frontier-planning decision, not automatic further runtime expansion.
 
 ## Risks And Blocks
 
@@ -132,5 +132,5 @@
 - `Inference`: `UNIT-040` stays distinct from the verified utility prompt by separating trust-oriented copy from grouped native actions instead of using a single contained generic prompt body.
 - `Inference`: `UNIT-043` continues inside the trust-and-support family and introduces a heavier proof surface than the verified trust-help-prompt slice because it depends on static brand-proof presentation.
 - `Verified`: `UNIT-043` did not touch `project/snippets/stone-section-shell.liquid`, `project/layout/theme.liquid`, `project/assets/stone-runtime.js`, `project/config/settings_schema.json`, or `project/blocks/`.
-- `Verified`: Broader runtime build-out remains blocked beyond the approved `UNIT-069` verification scope for the implemented object-aware article-highlights slice.
-- `Inference`: Any newly discovered need for protected-surface edits, `project/blocks/`, JS-driven behavior, a second section, a second template, broader object behavior, product-card behavior, slider behavior, drawer behavior, overlay behavior, archive/discovery behavior, or page-composition behavior remains a failure signal rather than permission to broaden the implemented slice.
+- `Verified`: Broader runtime build-out remains blocked beyond the approved `UNIT-070` docs-only planning scope until another bounded case is justified.
+- `Inference`: Any newly discovered need for protected-surface edits, `project/blocks/`, JS-driven behavior, a second section, a second template, broader object behavior, product-card behavior, slider behavior, drawer behavior, overlay behavior, archive/discovery behavior, or page-composition behavior remains a planning concern, not permission to resume runtime work automatically.

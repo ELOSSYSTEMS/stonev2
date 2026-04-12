@@ -8,14 +8,14 @@
 
 ## Current Phase
 
-- `Verified`: Active roadmap phase: Phase 2 bounded runtime verification readiness after object-aware article-highlights implementation
-- `Verified`: Last completed phase slice: Phase 2 object-aware article-highlights implementation slice
-- `Inference`: Next bounded slice: verify one bounded object-aware content/blog implementation unit under the newly formalized boundary
+- `Verified`: Active roadmap phase: Phase 2 docs-only planning readiness after verified object-aware article-highlights proof
+- `Verified`: Last completed phase slice: Phase 2 post-object-aware frontier planning slice
+- `Inference`: Next bounded slice: decide whether another bounded expansion remains justified after the first verified object-aware content/blog proof
 
 ## Approval State
 
 - `Verified`: Current next action approval: APPROVED
-- `Verified`: Approval basis: `UNIT-068` implemented the first bounded object-aware article-highlights slice inside the approved five runtime files, preserved the non-JS bounded discipline, and advanced the repo to one verification unit
+- `Verified`: Approval basis: `UNIT-069` verified the first bounded object-aware article-highlights slice, confirmed it stayed inside the approved five runtime files, and returned the repo to a docs-only planning boundary
 
 ## Lock State
 
