@@ -2,26 +2,26 @@
 
 ## Current Phase
 
-- `Verified`: Roadmap phase: the bounded minimal process steps verification unit is complete and the repo is positioned for one bounded runtime planning unit
+- `Verified`: Roadmap phase: the bounded minimal editorial quote planning unit is complete and the repo is positioned for one bounded runtime implementation unit
 
 ## Approved Next Action
 
-- `Verified`: `UNIT-060` author one bounded planning unit for the next Phase 2 runtime slice after verified minimal process steps completion
+- `Verified`: `UNIT-061` execute the bounded Phase 2 minimal editorial quote implementation slice
 
 ## Last Completed Unit
 
-- `Verified`: Unit ID: `UNIT-059`
-- `Verified`: Summary: verified the bounded minimal process steps slice, confirmed it stayed inside the approved five-file runtime boundary, reused the shared shell unchanged, kept the host template isolated, and preserved bilingual locale parity
+- `Verified`: Unit ID: `UNIT-060`
+- `Verified`: Summary: authored the bounded minimal editorial quote plan package, selected the next safe quote-led story/editorial proof after process-steps verification, and preserved a documentation-only boundary before the next runtime implementation unit
 
 ## Verification Status
 
-- `Verified`: Verdict: PASS for `UNIT-059`; the bounded minimal process steps verification unit is complete
-- `Verified`: Evidence: `git diff --name-only HEAD^ HEAD`; `git diff --name-only HEAD^ HEAD -- project`; `git show --stat --name-only --format=fuller HEAD`; JSON parsing and template-shape validation via `node -`; locale subtree parity via `node -`; `grep` render-call check for `stone-section-shell`; forbidden-scope grep via `grep`; protected-surface diff via `git diff --name-only`; `node HARNESS/checks/check-state-artifacts.mjs`; `node HARNESS/checks/check-next-action-scope.mjs`; `node HARNESS/checks/check-plan-exists.mjs`; `node HARNESS/checks/check-handoff-completeness.mjs`; `node HARNESS/checks/check-approval-state.mjs`; `node HARNESS/checks/check-lock-state.mjs`; `node HARNESS/checks/harness-check.mjs`
+- `Verified`: Verdict: PASS for `UNIT-060`; the bounded minimal editorial quote planning unit is complete
+- `Verified`: Evidence: `workspace/plans/phase-2-minimal-editorial-quote-v1/PLAN.v1.md`; `workspace/plans/phase-2-minimal-editorial-quote-v1/ASSUMPTIONS.v1.md`; `workspace/plans/phase-2-minimal-editorial-quote-v1/CHECKS.v1.md`; `workspace/plans/phase-2-minimal-editorial-quote-v1/RISKS.v1.md`; `workspace/plans/phase-2-minimal-editorial-quote-v1/HANDOFF.v1.md`; `node HARNESS/checks/check-state-artifacts.mjs`; `node HARNESS/checks/check-next-action-scope.mjs`; `node HARNESS/checks/check-plan-exists.mjs`; `node HARNESS/checks/check-handoff-completeness.mjs`; `node HARNESS/checks/check-approval-state.mjs`; `node HARNESS/checks/check-lock-state.mjs`; `node HARNESS/checks/harness-check.mjs`
 
 ## Active Blockers
 
-- `Verified`: Broader runtime implementation remains blocked beyond the approved `UNIT-060` planning scope until the next bounded slice is authored.
-- `Inference`: Any next slice that begins requiring protected-surface edits, custom JS, live-object behavior, product-card behavior, slider behavior, drawer behavior, or overlay treatment should be treated as a replanning signal rather than permission to broaden scope.
+- `Verified`: Broader runtime implementation remains blocked beyond the approved `UNIT-061` implementation scope until the planned editorial-quote slice is executed.
+- `Inference`: Any editorial-quote implementation that begins requiring protected-surface edits, custom JS, testimonial-stack behavior, ratings, logos, avatars, accordion behavior, tab behavior, icon systems, illustration dependencies, or campaign framing should be treated as a replanning signal rather than permission to broaden scope.
 
 ## Resume Notes
 
