@@ -8,20 +8,24 @@
 
 ## Approved Unit
 
-- `UNIT-071` Author or reject a docs-only approval boundary for one collection-companion candidate.
+- `UNIT-072` Execute one bounded collection context card implementation slice.
 
 ## Objective
 
-- `Verified`: Decide whether one collection-companion candidate can be carried into a formal bounded approval boundary, or reject that direction and stop Phase 2 runtime expansion explicitly.
-- `Verified`: Keep `UNIT-071` limited to `workspace/plans/`, `state/`, and `workspace/handoff/CURRENT_HANDOFF.md` only.
+- `Verified`: Implement the first approved collection-companion proof under the formalized boundary.
+- `Verified`: Keep `UNIT-072` limited to the exact approved five runtime files plus `state/` and `workspace/handoff/CURRENT_HANDOFF.md` only.
 
 ## Plan Reference
 
-- `Path:` `workspace/plans/phase-2-object-aware-content-blog-boundary-v1/PLAN.v1.md`
+- `Path:` `workspace/plans/phase-2-collection-companion-boundary-v1/PLAN.v1.md`
 
 ## Allowed Files Or Surfaces
 
-- `workspace/plans/`
+- `project/assets/stone-base.css`
+- `project/sections/stone-collection-context-card.liquid`
+- `project/templates/page.stone-runtime-collection-context-card.json`
+- `project/locales/he.default.schema.json`
+- `project/locales/en.schema.json`
 - `state/`
 - `workspace/handoff/CURRENT_HANDOFF.md`
 
@@ -37,4 +41,4 @@
 
 ## Stop Condition
 
-Stop if the next boundary-authoring unit starts authorizing collection-aware runtime work without recording an exact distinctness case, exact allowed files, preserved rules, and exact stop conditions; stay docs-only unless the new boundary is formalized.
+Stop if implementation needs any runtime file outside the approved five runtime files; stop if it needs protected-surface edits, `project/blocks/`, a new snippet, a second section, a second template, product loops, product-card behavior, filters, sorting, tags, pagination, search, toolbar behavior, JS, sliders, drawers, overlays, accordions, tabs, or broader composition, and fail closed instead of broadening scope.

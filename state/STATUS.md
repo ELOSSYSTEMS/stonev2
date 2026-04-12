@@ -111,7 +111,8 @@
 - `Verified`: `UNIT-067` carried that recommendation into a formal approval boundary with explicit preserved rules, exact new allowance, exact future file scope, and exact stop conditions.
 - `Verified`: `UNIT-069` confirms the repo now includes the first verified bounded object-aware content/blog runtime slice across the approved five files only: one read-only article-highlights section, one neutral host template, one bounded CSS extension, and paired locale updates.
 - `Verified`: `UNIT-070` concludes that the controlled-expansion experiment succeeded and that immediate further blog/article runtime slices should not continue automatically.
-- `Inference`: If Phase 2 continues, the next high-value candidate is one collection-companion proof behind a fresh docs-only approval boundary.
+- `Verified`: `UNIT-071` formalizes one bounded collection-companion approval boundary with an exact distinctness case, exact new allowance, exact future file scope, and exact stop conditions.
+- `Inference`: The next high-value unit is one tightly bounded collection-aware implementation slice under that new boundary.
 
 ## Risks And Blocks
 
@@ -133,5 +134,5 @@
 - `Inference`: `UNIT-040` stays distinct from the verified utility prompt by separating trust-oriented copy from grouped native actions instead of using a single contained generic prompt body.
 - `Inference`: `UNIT-043` continues inside the trust-and-support family and introduces a heavier proof surface than the verified trust-help-prompt slice because it depends on static brand-proof presentation.
 - `Verified`: `UNIT-043` did not touch `project/snippets/stone-section-shell.liquid`, `project/layout/theme.liquid`, `project/assets/stone-runtime.js`, `project/config/settings_schema.json`, or `project/blocks/`.
-- `Verified`: Broader runtime build-out remains blocked beyond the approved `UNIT-071` docs-only boundary-authoring scope until a collection-companion case is justified explicitly.
-- `Inference`: Any newly discovered need for protected-surface edits, `project/blocks/`, JS-driven behavior, a second section, a second template, broader object behavior, product-card behavior, slider behavior, drawer behavior, overlay behavior, archive/discovery behavior, or page-composition behavior remains a boundary-authoring concern, not permission to resume runtime work automatically.
+- `Verified`: Broader runtime build-out remains blocked beyond the approved `UNIT-072` implementation scope under the new collection-companion boundary.
+- `Inference`: Any newly discovered need for protected-surface edits, `project/blocks/`, JS-driven behavior, a second section, a second template, broader object behavior, product-card behavior, slider behavior, drawer behavior, overlay behavior, archive/discovery behavior, or page-composition behavior remains a failure signal rather than permission to broaden the first collection-aware slice.

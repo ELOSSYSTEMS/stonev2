@@ -2,26 +2,26 @@
 
 ## Current Phase
 
-- `Verified`: Roadmap phase: the bounded post-object-aware frontier review unit is complete and the repo is positioned for one docs-only boundary-authoring decision
+- `Verified`: Roadmap phase: the bounded collection-companion boundary unit is complete and the repo is positioned for one bounded collection-aware implementation unit
 
 ## Approved Next Action
 
-- `Verified`: `UNIT-071` author or reject a docs-only approval boundary for one collection-companion candidate
+- `Verified`: `UNIT-072` execute one bounded collection context card implementation slice
 
 ## Last Completed Unit
 
-- `Verified`: Unit ID: `UNIT-070`
-- `Verified`: Summary: reviewed the frontier after the first verified object-aware content/blog proof, rejected automatic further blog/article runtime slices, and selected one collection-companion candidate as the only justified next boundary case if Phase 2 continues
+- `Verified`: Unit ID: `UNIT-071`
+- `Verified`: Summary: authored the docs-only collection-companion approval-boundary package, fixed the exact distinctness case and new allowance, and advanced the repo to one newly bounded collection-aware implementation unit
 
 ## Verification Status
 
-- `Verified`: Verdict: PASS for `UNIT-070`; the bounded post-object-aware frontier review unit is complete
-- `Verified`: Evidence: `workspace/plans/phase-2-post-object-aware-frontier-review-v1/PLAN.v1.md`; `workspace/plans/phase-2-post-object-aware-frontier-review-v1/ASSUMPTIONS.v1.md`; `workspace/plans/phase-2-post-object-aware-frontier-review-v1/CHECKS.v1.md`; `workspace/plans/phase-2-post-object-aware-frontier-review-v1/RISKS.v1.md`; `workspace/plans/phase-2-post-object-aware-frontier-review-v1/HANDOFF.v1.md`; `workspace/plans/phase-2-object-aware-content-blog-boundary-v1/PLAN.v1.md`; `node HARNESS/checks/check-state-artifacts.mjs`; `node HARNESS/checks/check-next-action-scope.mjs`; `node HARNESS/checks/check-plan-exists.mjs`; `node HARNESS/checks/check-handoff-completeness.mjs`; `node HARNESS/checks/check-approval-state.mjs`; `node HARNESS/checks/check-lock-state.mjs`; `node HARNESS/checks/harness-check.mjs`
+- `Verified`: Verdict: PASS for `UNIT-071`; the bounded collection-companion boundary unit is complete
+- `Verified`: Evidence: `workspace/plans/phase-2-collection-companion-boundary-v1/PLAN.v1.md`; `workspace/plans/phase-2-collection-companion-boundary-v1/ASSUMPTIONS.v1.md`; `workspace/plans/phase-2-collection-companion-boundary-v1/CHECKS.v1.md`; `workspace/plans/phase-2-collection-companion-boundary-v1/RISKS.v1.md`; `workspace/plans/phase-2-collection-companion-boundary-v1/HANDOFF.v1.md`; `workspace/plans/phase-2-post-object-aware-frontier-review-v1/PLAN.v1.md`; `node HARNESS/checks/check-state-artifacts.mjs`; `node HARNESS/checks/check-next-action-scope.mjs`; `node HARNESS/checks/check-plan-exists.mjs`; `node HARNESS/checks/check-handoff-completeness.mjs`; `node HARNESS/checks/check-approval-state.mjs`; `node HARNESS/checks/check-lock-state.mjs`; `node HARNESS/checks/harness-check.mjs`
 
 ## Active Blockers
 
-- `Verified`: Broader runtime implementation remains blocked beyond the approved `UNIT-071` docs-only boundary-authoring scope until a collection-companion case is justified explicitly.
-- `Inference`: Any discovered need to exceed the currently formalized boundary should be treated as a reason to pause runtime work and replan, not as permission to normalize scope expansion.
+- `Verified`: Broader runtime implementation remains blocked beyond the approved `UNIT-072` implementation scope under the new boundary.
+- `Inference`: Any discovered need to exceed the formalized collection-companion boundary should be treated as a governance failure rather than permission to normalize scope expansion.
 
 ## Resume Notes
 
