@@ -541,6 +541,57 @@ textarea {
   background: var(--stone-color-canvas);
 }
 
+.stone-trust-logo-rail {
+  display: grid;
+  gap: var(--stone-space-4);
+}
+
+.stone-trust-logo-rail--soft {
+  padding: var(--stone-space-4);
+  border-radius: var(--stone-radius-2);
+  background: var(--stone-color-surface);
+}
+
+.stone-trust-logo-rail__intro > *,
+.stone-trust-logo-rail__empty,
+.stone-trust-logo-rail__empty-item {
+  margin: 0;
+}
+
+.stone-trust-logo-rail__items {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(8rem, 1fr));
+  gap: var(--stone-space-3);
+}
+
+.stone-trust-logo-rail__item {
+  display: grid;
+  align-items: center;
+}
+
+.stone-trust-logo-rail__mark {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-block-size: 4.5rem;
+  padding: var(--stone-space-3);
+  border: 1px solid var(--stone-color-border);
+  border-radius: var(--stone-radius-2);
+  background: transparent;
+}
+
+.stone-trust-logo-rail__image {
+  max-inline-size: min(100%, 9rem);
+  max-block-size: 2.5rem;
+  inline-size: auto;
+  block-size: auto;
+}
+
+.stone-trust-logo-rail--muted .stone-trust-logo-rail__image {
+  filter: grayscale(1);
+  opacity: 0.78;
+}
+
 .stone-section-shell__link {
   display: inline-flex;
   align-items: center;

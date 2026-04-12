@@ -1016,6 +1016,90 @@
           }
         }
       }
+    },
+    "stone_trust_logo_rail": {
+      "name": "Trust logo rail",
+      "empty": "Add logo items to validate the restrained proof rail.",
+      "settings": {
+        "heading": {
+          "label": "Section heading",
+          "info": "Optional. Displays a neutral heading above the trust logo rail."
+        },
+        "intro": {
+          "label": "Intro text",
+          "info": "Optional. Displays short neutral proof copy above the logo items."
+        },
+        "surface_style": {
+          "label": "Surface style",
+          "info": "Controls the restrained surface treatment for the logo rail.",
+          "options": {
+            "outline": {
+              "label": "Outline"
+            },
+            "soft": {
+              "label": "Soft surface"
+            }
+          }
+        },
+        "mark_tone": {
+          "label": "Mark tone",
+          "info": "Controls whether proof marks stay muted or keep their original tone.",
+          "options": {
+            "muted": {
+              "label": "Muted"
+            },
+            "original": {
+              "label": "Original tone"
+            }
+          }
+        },
+        "width_mode": {
+          "label": "Width mode",
+          "info": "Controls the neutral container width for the section shell.",
+          "options": {
+            "narrow": {
+              "label": "Narrow"
+            },
+            "standard": {
+              "label": "Standard"
+            },
+            "wide": {
+              "label": "Wide"
+            }
+          }
+        },
+        "spacing_mode": {
+          "label": "Spacing mode",
+          "info": "Controls the neutral vertical spacing of the section shell.",
+          "options": {
+            "compact": {
+              "label": "Compact"
+            },
+            "standard": {
+              "label": "Balanced"
+            },
+            "relaxed": {
+              "label": "Relaxed"
+            }
+          }
+        }
+      },
+      "blocks": {
+        "item": {
+          "name": "Logo item",
+          "empty_image": "Add one proof mark image to complete this item.",
+          "settings": {
+            "image": {
+              "label": "Image",
+              "info": "Upload one static proof mark for this item."
+            },
+            "alt_text": {
+              "label": "Alt text",
+              "info": "Optional. Describe the proof mark for accessibility."
+            }
+          }
+        }
+      }
     }
   }
 }

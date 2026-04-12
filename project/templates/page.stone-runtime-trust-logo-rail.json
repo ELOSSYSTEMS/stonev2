@@ -1,0 +1,50 @@
+{
+  "sections": {
+    "main": {
+      "type": "stone-trust-logo-rail",
+      "settings": {
+        "heading": "Runtime trust logo rail",
+        "intro": "<p>Use this surface for a restrained row of static proof marks only.</p>",
+        "surface_style": "soft",
+        "mark_tone": "muted",
+        "width_mode": "standard",
+        "spacing_mode": "standard"
+      },
+      "blocks": {
+        "item_1": {
+          "type": "item",
+          "settings": {
+            "alt_text": "Partner mark one"
+          }
+        },
+        "item_2": {
+          "type": "item",
+          "settings": {
+            "alt_text": "Partner mark two"
+          }
+        },
+        "item_3": {
+          "type": "item",
+          "settings": {
+            "alt_text": "Partner mark three"
+          }
+        },
+        "item_4": {
+          "type": "item",
+          "settings": {
+            "alt_text": "Partner mark four"
+          }
+        }
+      },
+      "block_order": [
+        "item_1",
+        "item_2",
+        "item_3",
+        "item_4"
+      ]
+    }
+  },
+  "order": [
+    "main"
+  ]
+}
