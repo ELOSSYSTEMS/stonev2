@@ -2,26 +2,26 @@
 
 ## Current Phase
 
-- `Verified`: Roadmap phase: the bounded minimal process steps implementation unit is complete and the repo is positioned for one bounded runtime verification unit
+- `Verified`: Roadmap phase: the bounded minimal process steps verification unit is complete and the repo is positioned for one bounded runtime planning unit
 
 ## Approved Next Action
 
-- `Verified`: `UNIT-059` verify the bounded Phase 2 minimal process steps implementation slice
+- `Verified`: `UNIT-060` author one bounded planning unit for the next Phase 2 runtime slice after verified minimal process steps completion
 
 ## Last Completed Unit
 
-- `Verified`: Unit ID: `UNIT-058`
-- `Verified`: Summary: implemented the bounded minimal process steps slice, added one restrained static ordered editorial section and neutral host template, extended the base CSS with process-step primitives, and preserved the approved five-file runtime boundary
+- `Verified`: Unit ID: `UNIT-059`
+- `Verified`: Summary: verified the bounded minimal process steps slice, confirmed it stayed inside the approved five-file runtime boundary, reused the shared shell unchanged, kept the host template isolated, and preserved bilingual locale parity
 
 ## Verification Status
 
-- `Verified`: Verdict: PASS for `UNIT-058`; the bounded minimal process steps implementation unit is complete
-- `Verified`: Evidence: `project/assets/stone-base.css`; `project/sections/stone-process-steps.liquid`; `project/templates/page.stone-runtime-process-steps.json`; `project/locales/he.default.schema.json`; `project/locales/en.schema.json`; JSON parsing and template-shape validation via `node -`; locale subtree parity via `node -`; `grep` render-call check for `stone-section-shell`; forbidden-scope grep via `grep`; protected-surface diff via `git status --short`; `node HARNESS/checks/check-state-artifacts.mjs`; `node HARNESS/checks/check-next-action-scope.mjs`; `node HARNESS/checks/check-plan-exists.mjs`; `node HARNESS/checks/check-handoff-completeness.mjs`; `node HARNESS/checks/check-approval-state.mjs`; `node HARNESS/checks/check-lock-state.mjs`; `node HARNESS/checks/harness-check.mjs`
+- `Verified`: Verdict: PASS for `UNIT-059`; the bounded minimal process steps verification unit is complete
+- `Verified`: Evidence: `git diff --name-only HEAD^ HEAD`; `git diff --name-only HEAD^ HEAD -- project`; `git show --stat --name-only --format=fuller HEAD`; JSON parsing and template-shape validation via `node -`; locale subtree parity via `node -`; `grep` render-call check for `stone-section-shell`; forbidden-scope grep via `grep`; protected-surface diff via `git diff --name-only`; `node HARNESS/checks/check-state-artifacts.mjs`; `node HARNESS/checks/check-next-action-scope.mjs`; `node HARNESS/checks/check-plan-exists.mjs`; `node HARNESS/checks/check-handoff-completeness.mjs`; `node HARNESS/checks/check-approval-state.mjs`; `node HARNESS/checks/check-lock-state.mjs`; `node HARNESS/checks/harness-check.mjs`
 
 ## Active Blockers
 
-- `Verified`: Broader runtime implementation remains blocked beyond the approved `UNIT-059` verification scope for the implemented minimal process steps slice.
-- `Inference`: Any discovered need to overturn the bounded implementation because of protected-surface edits, custom JS, accordion behavior, tab behavior, icon systems, illustration dependencies, or campaign framing remains a failure signal rather than permission to normalize scope expansion.
+- `Verified`: Broader runtime implementation remains blocked beyond the approved `UNIT-060` planning scope until the next bounded slice is authored.
+- `Inference`: Any next slice that begins requiring protected-surface edits, custom JS, live-object behavior, product-card behavior, slider behavior, drawer behavior, or overlay treatment should be treated as a replanning signal rather than permission to broaden scope.
 
 ## Resume Notes
 
