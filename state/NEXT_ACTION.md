@@ -8,16 +8,16 @@
 
 ## Approved Unit
 
-- `UNIT-065` Author one docs-only Phase 2 frontier replan package after rejecting the minimal blog-highlights runtime slice.
+- `UNIT-066` Author one docs-only controlled-expansion proposal for the next governed runtime frontier.
 
 ## Objective
 
-- `Verified`: Define the next safer governed direction after `UNIT-064` rejected the blog-highlights runtime candidate, and capture that as a docs-only frontier replan package with explicit alternatives, tradeoffs, and stop conditions.
-- `Verified`: Keep `UNIT-065` limited to `workspace/plans/`, `state/`, and `workspace/handoff/CURRENT_HANDOFF.md` only.
+- `Verified`: Define one controlled-expansion proposal for the next governed runtime frontier after the current micro-slice runway was judged locally exhausted.
+- `Verified`: Keep `UNIT-066` limited to `workspace/plans/`, `state/`, and `workspace/handoff/CURRENT_HANDOFF.md` only.
 
 ## Plan Reference
 
-- `Path:` `workspace/plans/phase-2-blog-highlights-distinctness-review-v1/PLAN.v1.md`
+- `Path:` `workspace/plans/phase-2-frontier-replan-v1/PLAN.v1.md`
 
 ## Allowed Files Or Surfaces
 
@@ -37,4 +37,4 @@
 
 ## Stop Condition
 
-Stop if the frontier replan begins authorizing runtime work without first establishing a materially distinct family boundary; stop if the replan needs `project/` edits; replan on docs-only surfaces only.
+Stop if the controlled-expansion proposal starts authorizing runtime work without explicit rule changes, exact allowed surfaces, and exact stop conditions; stop if the proposal needs `project/` edits; stay docs-only.

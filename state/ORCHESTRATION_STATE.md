@@ -8,14 +8,14 @@
 
 ## Current Phase
 
-- `Verified`: Active roadmap phase: Phase 2 bounded runtime planning readiness after blog-highlights rejection
-- `Verified`: Last completed phase slice: Phase 2 blog-highlights distinctness decision slice
-- `Inference`: Next bounded slice: author one docs-only frontier replan after rejecting the current blog-highlights candidate
+- `Verified`: Active roadmap phase: Phase 2 bounded frontier replan readiness after blog-highlights rejection
+- `Verified`: Last completed phase slice: Phase 2 frontier replan slice
+- `Inference`: Next bounded slice: author one docs-only controlled-expansion proposal after the frontier replan
 
 ## Approval State
 
 - `Verified`: Current next action approval: APPROVED
-- `Verified`: Approval basis: `UNIT-064` reviewed distinctness against `stone-content-card-strip.liquid`, rejected the planned blog-highlights runtime slice as insufficiently distinct, and kept the repo on a docs-only replanning path
+- `Verified`: Approval basis: `UNIT-065` formalized the frontier replan, treated the current micro-slice runway as locally exhausted under present rules, and redirected the repo to a docs-only controlled-expansion proposal
 
 ## Lock State
 

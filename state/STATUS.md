@@ -106,7 +106,8 @@
 - `Verified`: `UNIT-062` verified that the minimal editorial quote runtime slice stayed inside the approved five-file boundary, reused the shared shell unchanged, kept the validation template isolated, remained non-JS, and preserved bilingual locale parity.
 - `Verified`: `UNIT-063` authored the bounded minimal blog-highlights plan package as the least-risky next content-and-blog candidate, but left the repo at a guarded docs-only boundary because distinctness from the content-card-strip proof was unsettled.
 - `Verified`: `UNIT-064` rejected runtime execution of the blog-highlights slice because the planned lead-plus-secondary structure is not materially distinct enough from `stone-content-card-strip.liquid` under the current bounded rules.
-- `Inference`: The next high-value unit is a docs-only frontier replan, not automatic runtime implementation.
+- `Verified`: `UNIT-065` formalized the broader frontier conclusion that the current micro-slice runtime runway is locally exhausted under the present constraints and that the next step must be a docs-only controlled-expansion proposal.
+- `Inference`: The next high-value unit is a docs-only controlled-expansion proposal, not automatic runtime implementation.
 
 ## Risks And Blocks
 
@@ -128,5 +129,5 @@
 - `Inference`: `UNIT-040` stays distinct from the verified utility prompt by separating trust-oriented copy from grouped native actions instead of using a single contained generic prompt body.
 - `Inference`: `UNIT-043` continues inside the trust-and-support family and introduces a heavier proof surface than the verified trust-help-prompt slice because it depends on static brand-proof presentation.
 - `Verified`: `UNIT-043` did not touch `project/snippets/stone-section-shell.liquid`, `project/layout/theme.liquid`, `project/assets/stone-runtime.js`, `project/config/settings_schema.json`, or `project/blocks/`.
-- `Verified`: Broader runtime build-out remains blocked beyond the approved `UNIT-064` decision scope until a docs-only frontier replan selects a safer next direction.
-- `Inference`: Any newly discovered need for protected-surface edits, `project/blocks/`, JS-driven behavior, a second section, a second template, live objects, product-card behavior, slider behavior, drawer behavior, overlay behavior, or page-composition behavior remains a replanning trigger rather than permission to revive the rejected slice.
+- `Verified`: Broader runtime build-out remains blocked beyond the approved `UNIT-065` frontier replan scope until a docs-only controlled-expansion proposal is completed.
+- `Inference`: Any newly discovered need for protected-surface edits, `project/blocks/`, JS-driven behavior, a second section, a second template, live objects, product-card behavior, slider behavior, drawer behavior, overlay behavior, or page-composition behavior remains a proposal input, not permission to resume runtime edits immediately.

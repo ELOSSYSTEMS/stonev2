@@ -2,26 +2,26 @@
 
 ## Current Phase
 
-- `Verified`: Roadmap phase: the bounded blog-highlights distinctness decision unit is complete and the repo remains at a guarded docs-only boundary
+- `Verified`: Roadmap phase: the bounded frontier replan unit is complete and the repo remains at a guarded docs-only boundary
 
 ## Approved Next Action
 
-- `Verified`: `UNIT-065` author one docs-only Phase 2 frontier replan package after rejecting the minimal blog-highlights runtime slice
+- `Verified`: `UNIT-066` author one docs-only controlled-expansion proposal for the next governed runtime frontier
 
 ## Last Completed Unit
 
-- `Verified`: Unit ID: `UNIT-064`
-- `Verified`: Summary: reviewed the planned minimal blog-highlights slice against `stone-content-card-strip.liquid`, rejected the candidate as insufficiently distinct under the current bounded proof rules, and redirected the governed run to a docs-only frontier replan
+- `Verified`: Unit ID: `UNIT-065`
+- `Verified`: Summary: authored the docs-only Phase 2 frontier replan package, concluded that the current micro-slice runway is locally exhausted under present rules, and redirected the governed run to a controlled-expansion proposal instead of more fake-small runtime slices
 
 ## Verification Status
 
-- `Verified`: Verdict: PASS for `UNIT-064`; the bounded blog-highlights distinctness decision unit is complete
-- `Verified`: Evidence: `workspace/plans/phase-2-blog-highlights-distinctness-review-v1/PLAN.v1.md`; `workspace/plans/phase-2-blog-highlights-distinctness-review-v1/ASSUMPTIONS.v1.md`; `workspace/plans/phase-2-blog-highlights-distinctness-review-v1/CHECKS.v1.md`; `workspace/plans/phase-2-blog-highlights-distinctness-review-v1/RISKS.v1.md`; `workspace/plans/phase-2-blog-highlights-distinctness-review-v1/HANDOFF.v1.md`; `workspace/plans/phase-2-minimal-blog-highlights-v1/PLAN.v1.md`; `project/sections/stone-content-card-strip.liquid`; `node HARNESS/checks/check-state-artifacts.mjs`; `node HARNESS/checks/check-next-action-scope.mjs`; `node HARNESS/checks/check-plan-exists.mjs`; `node HARNESS/checks/check-handoff-completeness.mjs`; `node HARNESS/checks/check-approval-state.mjs`; `node HARNESS/checks/check-lock-state.mjs`; `node HARNESS/checks/harness-check.mjs`
+- `Verified`: Verdict: PASS for `UNIT-065`; the bounded frontier replan unit is complete
+- `Verified`: Evidence: `workspace/plans/phase-2-frontier-replan-v1/PLAN.v1.md`; `workspace/plans/phase-2-frontier-replan-v1/ASSUMPTIONS.v1.md`; `workspace/plans/phase-2-frontier-replan-v1/CHECKS.v1.md`; `workspace/plans/phase-2-frontier-replan-v1/RISKS.v1.md`; `workspace/plans/phase-2-frontier-replan-v1/HANDOFF.v1.md`; `workspace/plans/phase-2-blog-highlights-distinctness-review-v1/PLAN.v1.md`; `node HARNESS/checks/check-state-artifacts.mjs`; `node HARNESS/checks/check-next-action-scope.mjs`; `node HARNESS/checks/check-plan-exists.mjs`; `node HARNESS/checks/check-handoff-completeness.mjs`; `node HARNESS/checks/check-approval-state.mjs`; `node HARNESS/checks/check-lock-state.mjs`; `node HARNESS/checks/harness-check.mjs`
 
 ## Active Blockers
 
-- `Verified`: Broader runtime implementation remains blocked beyond the approved `UNIT-064` decision scope until `UNIT-065` completes a frontier replan.
-- `Inference`: Any attempted revival of the blog-highlights runtime slice without a stronger family boundary should be treated as a replanning signal rather than permission to broaden scope.
+- `Verified`: Broader runtime implementation remains blocked beyond the approved `UNIT-065` frontier replan scope until `UNIT-066` completes a controlled-expansion proposal.
+- `Inference`: Any attempt to resume runtime work without the controlled-expansion proposal should be treated as a governance failure rather than permission to broaden scope.
 
 ## Resume Notes
 
