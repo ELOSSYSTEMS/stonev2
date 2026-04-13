@@ -8,14 +8,14 @@
 
 ## Current Phase
 
-- `Verified`: Active roadmap phase: Phase 3 docs-only post-featured-product-showcase frontier review
-- `Verified`: Last completed phase slice: Phase 3 featured-product-showcase verification
-- `Inference`: Next bounded slice: re-evaluate the merchandising frontier before authorizing more runtime work
+- `Verified`: Active roadmap phase: Phase 3 bounded product-pair-comparison expansion after verified post-showcase frontier review
+- `Verified`: Last completed phase slice: Phase 3 post-featured-product-showcase frontier review
+- `Inference`: Next bounded slice: execute one new product pair comparison surface using the shared product-card contract
 
 ## Approval State
 
 - `Verified`: Current next action approval: APPROVED
-- `Verified`: Approval basis: `UNIT-097` verified the featured-product showcase slice and advanced the governed run to a docs-only frontier decision
+- `Verified`: Approval basis: `UNIT-098` determined that the next honest step is one product pair comparison section, not another showcase variant or a heavier merchandising expansion
 
 ## Lock State
 
