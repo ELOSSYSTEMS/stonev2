@@ -2,29 +2,29 @@
 
 ## Current Phase
 
-- `Verified`: Roadmap phase: the repo now has an implemented motion-aware shoppable-media proof awaiting bounded verification.
+- `Verified`: Roadmap phase: the first motion-aware shoppable-media proof is now verified and the repo is paused at a post-motion frontier review edge.
 
 ## Approved Next Action
 
-- `Verified`: `UNIT-124` verify the shoppable-media motion story slice.
+- `Verified`: `UNIT-125` author the post-shoppable-media-motion-story frontier review.
 
 ## Last Completed Unit
 
-- `Verified`: Unit ID: `UNIT-123`
-- `Verified`: Summary: implemented one non-JS video-first shoppable-media motion story section with one native video setting, exactly two linked products, exactly four static marker range controls, a neutral host template, unchanged `stone-product-card` reuse, and unchanged `project/assets/stone-runtime.js`.
+- `Verified`: Unit ID: `UNIT-124`
+- `Verified`: Summary: verified the non-JS video-first shoppable-media motion story slice stayed inside the exact five-file runtime boundary, preserved two-product scope and locale parity, and left `stone-product-card` plus all protected surfaces unchanged.
 
 ## Verification Status
 
-- `Verified`: Verdict: implementation PASS for `UNIT-123`; bounded runtime work completed and the dedicated verification unit is now next.
-- `Verified`: Evidence: `project/sections/stone-shoppable-media-motion-story.liquid`; `project/templates/page.stone-runtime-shoppable-media-motion-story.json`; locale parity updates; state and handoff advanced; harness and scope checks executed post-implementation.
+- `Verified`: Verdict: verification PASS for `UNIT-124`; the bounded motion story proof is now fully verified.
+- `Verified`: Evidence: `git diff --name-only a45c58b 62113b2 -- project`; empty protected-surface diff against `a45c58b`; section schema/settings validation via `node -`; locale subtree parity via `node -`; harness and state checks executed during verification.
 
 ## Active Blockers
 
-- `Verified`: `UNIT-124` verification remains outstanding.
-- `Inference`: If the verification pass finds runtime drift, the correct move is to stop and record the failure rather than widen the motion boundary.
+- `Verified`: No further motion runtime slice is approved yet.
+- `Inference`: The next honest move is a docs-only frontier review before any broader motion-system or commerce expansion is considered.
 
 ## Resume Notes
 
-- `Verified`: Resume from branch `codex/unit-123-shoppable-media-motion-story-impl`.
-- `Verified`: `UNIT-124` is the next approved verification slice.
+- `Verified`: Resume from branch `codex/unit-124-shoppable-media-motion-story-verify`.
+- `Verified`: `UNIT-125` is the next approved docs-only planning slice.
 - `Verified`: Do not edit `project/assets/stone-runtime.js`, `project/snippets/stone-product-card.liquid`, `project/layout/theme.liquid`, or `project/config/settings_schema.json`.

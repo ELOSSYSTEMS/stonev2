@@ -8,6 +8,36 @@
 
 ### Session Entry
 
+- Timestamp: 2026-04-13 14:38 Asia/Jerusalem
+- Skill or Mode: `project-verify`
+- Summary: verified the bounded shoppable-media motion story slice, confirmed the exact five-file runtime boundary held, preserved native non-JS video behavior with exactly two linked products, and recorded the repo handoff to a docs-only post-motion frontier review
+- Files changed:
+  - `state/ORCHESTRATION_STATE.md`
+  - `state/STATUS.md`
+  - `state/NEXT_ACTION.md`
+  - `state/FEATURE_STATUS.md`
+  - `state/PROGRESS.md`
+  - `state/SESSION_LOG.md`
+  - `workspace/handoff/CURRENT_HANDOFF.md`
+- Checks run:
+  - `git show --stat --name-only --format=fuller 62113b2`
+  - `git diff --stat a45c58b 62113b2`
+  - `git diff --name-only a45c58b 62113b2 -- project`
+  - empty protected-surface diff via `git diff --name-only a45c58b 62113b2 -- project/assets/stone-runtime.js project/snippets/stone-product-card.liquid project/layout/theme.liquid project/config/settings_schema.json`
+  - section schema, template, and locale parity validation via `node -`
+  - forbidden-scope checks via `rg`
+  - `node HARNESS/checks/check-state-artifacts.mjs`
+  - `node HARNESS/checks/check-next-action-scope.mjs`
+  - `node HARNESS/checks/check-plan-exists.mjs`
+  - `node HARNESS/checks/check-handoff-completeness.mjs`
+  - `node HARNESS/checks/check-approval-state.mjs`
+  - `node HARNESS/checks/check-lock-state.mjs`
+  - `node HARNESS/checks/harness-check.mjs`
+- Result: PASS
+- Follow-up: execute `UNIT-125` as a docs-only post-shoppable-media-motion-story frontier review before any new runtime approval
+
+### Session Entry
+
 - Timestamp: 2026-04-13 14:07 Asia/Jerusalem
 - Skill or Mode: `project-build`
 - Summary: implemented the bounded shoppable-media motion story slice as one non-JS video-first section with exactly two linked products, exactly four static marker controls, a neutral host template, bilingual locale parity, unchanged `stone-product-card` reuse, and unchanged `project/assets/stone-runtime.js`

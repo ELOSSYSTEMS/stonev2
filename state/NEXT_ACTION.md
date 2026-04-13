@@ -3,30 +3,26 @@
 ## Status
 
 - `Verified`: Approval State: APPROVED
-- `Verified`: Execution Class: verification
+- `Verified`: Execution Class: planning
 - `Verified`: Priority: high
 
 ## Approved Unit
 
-- `UNIT-124` Verify the shoppable-media motion story slice.
+- `UNIT-125` Author the post-shoppable-media-motion-story frontier review.
 
 ## Objective
 
-- `Verified`: Verify the first motion-aware shoppable-media proof stayed one non-JS video-first story surface with exactly two linked products.
-- `Verified`: Confirm the implementation stayed inside the exact approved five-file runtime boundary.
-- `Verified`: Confirm `stone-product-card` stayed unchanged and `project/assets/stone-runtime.js` stayed unchanged.
+- `Verified`: Record the honest post-verification verdict for the first motion-aware shoppable-media proof.
+- `Verified`: Determine whether the motion-story lane is locally exhausted or whether another bounded step is justified.
+- `Verified`: Keep the next approved action docs-only until a new boundary is explicitly authorized by evidence.
 
 ## Plan Reference
 
-- `Path:` `workspace/plans/phase-3-shoppable-media-motion-boundary-v1/PLAN.v1.md`
+- `Path:` `workspace/plans/phase-3-shoppable-media-motion-boundary-v1/HANDOFF.v1.md`
 
 ## Allowed Files Or Surfaces
 
-- `project/assets/stone-base.css`
-- `project/sections/stone-shoppable-media-motion-story.liquid`
-- `project/templates/page.stone-runtime-shoppable-media-motion-story.json`
-- `project/locales/he.default.schema.json`
-- `project/locales/en.schema.json`
+- `workspace/plans/`
 - `state/`
 - `workspace/handoff/CURRENT_HANDOFF.md`
 
@@ -42,4 +38,4 @@
 
 ## Stop Condition
 
-Fail verification if the motion slice requires JS, autoplay, looping policy changes, custom playback controls, snippet edits, block files, a third product, loops, heavier commerce actions, or any runtime file outside the exact approved five-file scope. Fail closed instead of normalizing drift.
+Fail closed if the frontier review attempts to approve new runtime work without a fresh bounded distinctness case, or if it normalizes broader motion-system scope beyond the verified motion-story proof.
