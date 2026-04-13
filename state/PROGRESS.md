@@ -2,21 +2,21 @@
 
 ## Current Phase
 
-- `Verified`: Roadmap phase: the bounded shoppable-media runway remains complete, unresolved companion-family work remains explicitly deferred, and the repo is positioned at a docs-only Phase 4 preset-pack boundary planning point rather than another companion-family reopening, a full preset-defaults pass, or direct preset implementation.
+- `Verified`: Roadmap phase: the bounded shoppable-media runway remains complete, unresolved companion-family work remains explicitly deferred, and the repo is positioned at a docs-only Phase 4 preset-pack shared-defaults planning point after the boundary verdict limited preset inputs to resolved shared families and shared settings only.
 
 ## Approved Next Action
 
-- `Verified`: `UNIT-137` author the Phase 4 preset-pack boundary proposal.
+- `Verified`: `UNIT-138` author the Phase 4 preset-pack shared-defaults proposal.
 
 ## Last Completed Unit
 
-- `Verified`: Unit ID: `UNIT-136`
-- `Verified`: Summary: concluded that Phase 4 preset-pack planning may begin now, but only through a docs-only preset-pack boundary proposal that keeps deferred `collection companion` and `PDP companion` work explicit and keeps runtime authorization fail-closed.
+- `Verified`: Unit ID: `UNIT-137`
+- `Verified`: Summary: concluded that preset planning may use only resolved shared families and shared settings now, that companion-dependent preset assumptions must stay blocked or placeholder-bound, and that the next honest move is a docs-only shared-defaults proposal rather than runtime work.
 
 ## Verification Status
 
-- `Verified`: Verdict: planning PASS for `UNIT-136`; Phase 4 preset-pack planning may begin only through a docs-only preset-pack boundary proposal, deferred companion-family work remains explicit, and runtime authorization remains fail-closed.
-- `Verified`: Evidence: `workspace/plans/phase-4-preset-pack-sequencing-proposal-v1/PLAN.v1.md`; proposal assumptions, checks, risks, and handoff artifacts; required harness and state checks; explicit no-`project/`-change verification.
+- `Verified`: Verdict: planning PASS for `UNIT-137`; only resolved shared families and shared settings are admissible preset inputs now, companion-dependent preset assumptions remain blocked or placeholder-bound, and runtime authorization remains fail-closed.
+- `Verified`: Evidence: `workspace/plans/phase-4-preset-pack-boundary-proposal-v1/PLAN.v1.md`; proposal assumptions, checks, risks, and handoff artifacts; required harness and state checks; explicit no-`project/`-change verification.
 
 ## Active Blockers
 
@@ -32,11 +32,12 @@
 - `Verified`: No later `collection companion` reopening is approved from the current evidence.
 - `Verified`: No broader companion-family reopening is approved from the current evidence.
 - `Verified`: Unresolved `collection companion` and `PDP companion` work are explicitly deferred behind later Phase 4 preset-pack planning.
-- `Verified`: No preset-pack boundary proposal may treat deferred companion-family work as implicitly resolved.
-- `Inference`: The next honest move is a docs-only Phase 4 preset-pack boundary proposal rather than another family reopening, a full preset-defaults pass, or direct preset implementation.
+- `Verified`: No preset-pack shared-defaults proposal may treat deferred companion-family work as implicitly resolved.
+- `Verified`: No collection behavior or PDP support behavior domain is approved as a preset-pack input from the current evidence.
+- `Inference`: The next honest move is a docs-only Phase 4 preset-pack shared-defaults proposal rather than another family reopening, direct preset implementation, or any attempt to fill collection/PDP companion assumptions implicitly.
 
 ## Resume Notes
 
-- `Verified`: Resume from branch `codex/unit-136-phase-4-preset-pack-sequencing-plan`.
-- `Verified`: `UNIT-137` is the next approved docs-only planning slice.
+- `Verified`: Resume from branch `codex/unit-137-phase-4-preset-pack-boundary-plan`.
+- `Verified`: `UNIT-138` is the next approved docs-only planning slice.
 - `Verified`: Do not edit `project/assets/stone-runtime.js`, `project/snippets/stone-product-card.liquid`, `project/layout/theme.liquid`, or `project/config/settings_schema.json`.

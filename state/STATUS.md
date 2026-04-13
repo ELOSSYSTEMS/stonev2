@@ -5,7 +5,7 @@
 - `Verified`: Repo state: harness foundation populated
 - `Verified`: Storefront runtime state: bounded merchandising is complete, the first static shoppable-media proof is verified, the first interaction-aware focus proof is verified, the first drawer-style shoppable-media proof is verified, the first overlay-style shoppable-media proof is verified, the first motion-aware shoppable-media boundary is defined, and the first motion-aware shoppable-media story proof is now verified.
 - `Verified`: Architecture authority: the five documents under `docs/architecture/`
-- `Verified`: Current active planning package: `workspace/plans/phase-4-preset-pack-sequencing-proposal-v1/`
+- `Verified`: Current active planning package: `workspace/plans/phase-4-preset-pack-boundary-proposal-v1/`
 
 ## Canonical Inputs
 
@@ -17,7 +17,7 @@
 - `Verified`: `workspace/specs/STONEV2_SECTION_FAMILY_LEDGER.md`
 - `Verified`: `workspace/specs/STONEV2_SETTINGS_TAXONOMY.md`
 - `Verified`: `workspace/specs/STONEV2_BILINGUAL_SCHEMA_STRATEGY.md`
-- `Verified`: `workspace/plans/phase-4-preset-pack-sequencing-proposal-v1/PLAN.v1.md`
+- `Verified`: `workspace/plans/phase-4-preset-pack-boundary-proposal-v1/PLAN.v1.md`
 
 ## Constraints
 
@@ -46,7 +46,8 @@
 - `Verified`: `UNIT-134` concludes that no later `collection companion` or broader companion-family reopening is justified from the current evidence and that any continuation should move only to a docs-only companion roadmap deferral proposal.
 - `Verified`: `UNIT-135` concludes that unresolved `collection companion` and `PDP companion` work should be explicitly deferred behind later Phase 4 preset-pack planning rather than remain only implicitly paused inside Phase 3.
 - `Verified`: `UNIT-136` concludes that Phase 4 preset-pack planning should begin only through a docs-only preset-pack boundary proposal that keeps deferred companion-family work explicit and runtime authorization fail-closed.
-- `Inference`: The repo is now positioned at a docs-only Phase 4 preset-pack boundary question rather than another support-strip step, another collection-companion reopening, another broader companion-family reopening, a full preset-defaults pass, or direct preset-pack implementation.
+- `Verified`: `UNIT-137` concludes that only resolved shared families and shared settings may inform preset planning now, and that companion-dependent preset assumptions must stay blocked or placeholder-bound.
+- `Inference`: The repo is now positioned at a docs-only Phase 4 preset-pack shared-defaults question rather than another companion-family reopening, direct preset implementation, or any attempt to fill collection or PDP companion gaps implicitly.
 
 ## Risks And Blocks
 
@@ -63,4 +64,5 @@
 - `Verified`: No broader companion-family reopening is approved from the current controlled-expansion proposal.
 - `Verified`: Unresolved `collection companion` and `PDP companion` work are explicitly deferred behind later Phase 4 preset-pack planning.
 - `Verified`: No preset-pack boundary proposal may treat deferred companion-family work as implicitly resolved.
-- `Inference`: Any continuation now requires one docs-only Phase 4 preset-pack boundary proposal before any preset-specific defaults pass, preset implementation, or later companion-family reconsideration could be evaluated honestly.
+- `Verified`: No collection behavior or PDP support behavior domain is approved as a preset-pack input from the current evidence.
+- `Inference`: Any continuation now requires one docs-only Phase 4 preset-pack shared-defaults proposal that stays inside admitted shared inputs and leaves companion-dependent assumptions explicit.

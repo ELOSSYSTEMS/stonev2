@@ -20,6 +20,7 @@
 - `Verified`: The post-collection-support-strip controlled expansion proposal is complete and concludes that no later `collection companion` or broader companion-family reopening is justified from the current evidence.
 - `Verified`: The companion roadmap deferral proposal is complete and explicitly defers unresolved `collection companion` and `PDP companion` work behind later Phase 4 preset-pack planning while keeping runtime and preset implementation fail-closed.
 - `Verified`: The Phase 4 preset-pack sequencing proposal is complete and concludes that preset planning may begin only through a docs-only preset-pack boundary proposal that keeps deferred companion-family work explicit and runtime authorization fail-closed.
+- `Verified`: The Phase 4 preset-pack boundary proposal is complete and concludes that only resolved shared families and shared settings may inform preset planning now, while companion-dependent preset assumptions stay blocked or placeholder-bound.
 
 ## Current State
 
@@ -38,7 +39,8 @@
 - `Verified`: `UNIT-134` records that no later `collection companion` or broader companion-family reopening is justified from the current evidence and that only a docs-only companion roadmap deferral proposal remains approved.
 - `Verified`: `UNIT-135` records that unresolved `collection companion` and `PDP companion` work are explicitly deferred behind later Phase 4 preset-pack planning.
 - `Verified`: `UNIT-136` records that Phase 4 preset-pack planning may begin now, but only through a docs-only preset-pack boundary proposal that keeps deferred companion-family work explicit and keeps runtime authorization fail-closed.
-- `Verified`: `state/NEXT_ACTION.md` now points to `UNIT-137`.
+- `Verified`: `UNIT-137` records that preset planning may use only resolved shared families and shared settings now, and that collection-dependent and PDP-dependent preset assumptions must stay blocked or placeholder-bound.
+- `Verified`: `state/NEXT_ACTION.md` now points to `UNIT-138`.
 
 ## Changed Or Seeded Files
 
@@ -107,6 +109,11 @@
 - `Verified`: `workspace/plans/phase-4-preset-pack-sequencing-proposal-v1/CHECKS.v1.md`
 - `Verified`: `workspace/plans/phase-4-preset-pack-sequencing-proposal-v1/RISKS.v1.md`
 - `Verified`: `workspace/plans/phase-4-preset-pack-sequencing-proposal-v1/HANDOFF.v1.md`
+- `Verified`: `workspace/plans/phase-4-preset-pack-boundary-proposal-v1/PLAN.v1.md`
+- `Verified`: `workspace/plans/phase-4-preset-pack-boundary-proposal-v1/ASSUMPTIONS.v1.md`
+- `Verified`: `workspace/plans/phase-4-preset-pack-boundary-proposal-v1/CHECKS.v1.md`
+- `Verified`: `workspace/plans/phase-4-preset-pack-boundary-proposal-v1/RISKS.v1.md`
+- `Verified`: `workspace/plans/phase-4-preset-pack-boundary-proposal-v1/HANDOFF.v1.md`
 - `Verified`: `state/ORCHESTRATION_STATE.md`
 - `Verified`: `state/STATUS.md`
 - `Verified`: `state/NEXT_ACTION.md`
@@ -132,11 +139,12 @@
 - `Verified`: No broader companion-family reopening is approved from the current controlled-expansion proposal.
 - `Verified`: Unresolved `collection companion` and `PDP companion` work are explicitly deferred behind later Phase 4 preset-pack planning.
 - `Verified`: No preset-pack boundary proposal may treat deferred companion-family work as implicitly resolved.
-- `Inference`: The next honest move is a docs-only Phase 4 preset-pack boundary proposal rather than another family reopening, a full preset-defaults pass, or direct preset implementation.
+- `Verified`: No collection behavior or PDP support behavior domain is approved as a preset-pack input from the current evidence.
+- `Inference`: The next honest move is a docs-only Phase 4 preset-pack shared-defaults proposal that stays inside admitted shared inputs and leaves companion-dependent assumptions explicit.
 
 ## Recommended Next Step
 
-- `Verified`: Execute `UNIT-137` as a docs-only Phase 4 preset-pack boundary proposal.
+- `Verified`: Execute `UNIT-138` as a docs-only Phase 4 preset-pack shared-defaults proposal.
 
 ## Resume Checks
 
@@ -154,6 +162,7 @@
 - `Verified`: Treat `UNIT-134` as accepted evidence that no later `collection companion` or broader companion-family reopening is justified from the current evidence and that only a roadmap-deferral planning question remains approved.
 - `Verified`: Treat `UNIT-135` as accepted evidence that unresolved `collection companion` and `PDP companion` work are explicitly deferred behind later Phase 4 preset-pack planning.
 - `Verified`: Treat `UNIT-136` as accepted evidence that Phase 4 preset-pack planning may begin only through a docs-only preset-pack boundary proposal that keeps deferred companion-family work explicit and runtime authorization fail-closed.
+- `Verified`: Treat `UNIT-137` as accepted evidence that only resolved shared families and shared settings may inform preset planning now, and that companion-dependent preset assumptions must stay blocked or placeholder-bound.
 - `Verified`: Run `node HARNESS/checks/harness-check.mjs` during the `UNIT-136` planning pass.
 - `Verified`: Run `node HARNESS/checks/harness-check.mjs` during the `UNIT-137` planning pass.
-- `Verified`: Do not authorize new runtime work, broader companion-family reopening, preset-specific defaults, or preset implementation unless a later higher-boundary docs-only proposal produces a fresh explicit approval package.
+- `Verified`: Do not authorize new runtime work, broader companion-family reopening, collection behavior, PDP support behavior, collection-template starter structure, PDP-template starter structure, or preset implementation unless a later higher-boundary docs-only proposal produces a fresh explicit approval package.

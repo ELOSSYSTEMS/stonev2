@@ -8,19 +8,20 @@
 
 ## Approved Unit
 
-- `UNIT-137` Author the Phase 4 preset-pack boundary proposal.
+- `UNIT-138` Author the Phase 4 preset-pack shared-defaults proposal.
 
 ## Objective
 
-- `Verified`: Determine which resolved shared families and shared settings can inform Phase 4 preset-pack planning now that unresolved `collection companion` and `PDP companion` work remain explicitly deferred.
-- `Verified`: Determine which roadmap-defined preset fields can be planned now versus which must stay blocked or placeholder-bound because deferred companion-family work remains unresolved.
+- `Verified`: Define shared preset defaults for the five roadmap presets only across fields that `UNIT-137` judged ready or partially ready now.
+- `Verified`: Author homepage sequence, tone and density defaults, homepage-safe merchandising emphasis, homepage-safe trust and support assumptions, and matching homepage starter content structure using admitted shared families and shared settings only.
+- `Verified`: Keep collection-dependent and PDP-dependent assumptions explicit, blocked, or placeholder-bound rather than silently filling them in.
 - `Verified`: Keep the work docs-only and fail closed on runtime authorization.
-- `Verified`: Do not treat preset-pack sequencing as implementation approval.
+- `Verified`: Do not treat preset defaults as implementation approval.
 - `Verified`: Do not reopen broader `collection companion` review, broader companion-family review, support-strip implementation admission, collection-derived strip content, collection-template rewrites, archive controls, navigation-system behavior, collection-banner authority, curated-explainer/editorial drift, `PDP companion`, broader motion/media scope, preset-pack implementation, wider JS, heavier commerce, or `product-card behavior` reuse as implicit next steps.
 
 ## Plan Reference
 
-- `Path:` `workspace/plans/phase-4-preset-pack-sequencing-proposal-v1/HANDOFF.v1.md`
+- `Path:` `workspace/plans/phase-4-preset-pack-boundary-proposal-v1/HANDOFF.v1.md`
 
 ## Allowed Files Or Surfaces
 
@@ -40,4 +41,4 @@
 
 ## Stop Condition
 
-Fail closed if the proposal starts authorizing runtime work directly, if it treats deferred `collection companion` or `PDP companion` work as implicitly resolved by Phase 4 planning, if it reopens broader `collection companion` or broader companion-family review without fresh evidence, or if it treats support-strip implementation admission, collection-derived content, collection-template rewrites, collection archive controls, navigation-system behavior, collection-banner authority, curated-explainer/editorial drift, `PDP companion`, broader motion/media scope, preset-pack implementation, wider JS, heavier commerce, or `product-card behavior` reuse as implicitly approved.
+Fail closed if the proposal starts authorizing runtime work directly, if it treats deferred `collection companion` or `PDP companion` work as implicitly resolved by Phase 4 planning, if it fills collection behavior, PDP support behavior, collection-template starter structure, or PDP-template starter structure as if companion-family evidence already exists, or if it reopens broader `collection companion`, broader companion-family review, support-strip implementation admission, collection-derived content, collection-template rewrites, collection archive controls, navigation-system behavior, collection-banner authority, curated-explainer/editorial drift, `PDP companion`, broader motion/media scope, preset-pack implementation, wider JS, heavier commerce, or `product-card behavior` reuse as implicitly approved.
