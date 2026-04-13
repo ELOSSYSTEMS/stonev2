@@ -2,29 +2,29 @@
 
 ## Current Phase
 
-- `Verified`: Roadmap phase: the first drawer-style shoppable-media proof is complete and the repo is positioned for a docs-only overlay-boundary decision.
+- `Verified`: Roadmap phase: the repo now has a docs-only boundary for the first overlay-style shoppable-media proof.
 
 ## Approved Next Action
 
-- `Verified`: `UNIT-118` author the shoppable-media overlay boundary package.
+- `Verified`: `UNIT-119` execute the shoppable-media overlay slice.
 
 ## Last Completed Unit
 
-- `Verified`: Unit ID: `UNIT-117`
-- `Verified`: Summary: authored the post-shoppable-media-drawer frontier review, concluded that the section-scoped drawer proof lane is now locally exhausted, and selected one docs-only overlay-boundary package as the next honest planning step.
+- `Verified`: Unit ID: `UNIT-118`
+- `Verified`: Summary: authored the shoppable-media overlay boundary package, defined one bounded section-scoped layered overlay reveal as the next honest family proof, and authorized one exact six-file runtime package.
 
 ## Verification Status
 
-- `Verified`: Verdict: PASS for `UNIT-117`; the frontier review stayed docs-only and did not authorize runtime edits.
-- `Verified`: Evidence: plan package written under `workspace/plans/phase-3-post-shoppable-media-drawer-frontier-review-v1/`; state and handoff advanced; harness checks pending before commit.
+- `Verified`: Verdict: PASS for `UNIT-118`; the package stayed docs-only and defined explicit future runtime surfaces and stop conditions.
+- `Verified`: Evidence: plan package written under `workspace/plans/phase-3-shoppable-media-overlay-boundary-v1/`; state and handoff advanced; harness checks pending before commit.
 
 ## Active Blockers
 
-- `Verified`: Future runtime shoppable-media continuation remains blocked until an overlay boundary is explicitly defined.
-- `Inference`: If the overlay boundary cannot stay exact and bounded, the correct move is to pause instead of widening scope.
+- `Verified`: Runtime overlay work remains unstarted.
+- `Inference`: If implementation cannot stay section-scoped and six-file bounded, the correct move is to stop rather than widen the overlay boundary.
 
 ## Resume Notes
 
-- `Verified`: Resume from branch `codex/unit-117-post-shoppable-media-drawer-frontier-plan`.
-- `Verified`: `UNIT-118` must stay docs-only and define exact allowed and disallowed overlay-style surfaces before runtime work resumes.
-- `Verified`: Do not modify `project/` in `UNIT-118`.
+- `Verified`: Resume from branch `codex/unit-118-shoppable-media-overlay-boundary-plan`.
+- `Verified`: `UNIT-119` is the next approved runtime slice.
+- `Verified`: Do not edit `project/snippets/stone-product-card.liquid`, `project/layout/theme.liquid`, or `project/config/settings_schema.json`.

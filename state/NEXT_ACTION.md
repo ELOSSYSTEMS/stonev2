@@ -3,26 +3,31 @@
 ## Status
 
 - `Verified`: Approval State: APPROVED
-- `Verified`: Execution Class: docs-planning
+- `Verified`: Execution Class: implementation
 - `Verified`: Priority: high
 
 ## Approved Unit
 
-- `UNIT-118` Author the shoppable-media overlay boundary package.
+- `UNIT-119` Execute the shoppable-media overlay slice.
 
 ## Objective
 
-- `Verified`: Define the smallest honest overlay-style interaction boundary for the shoppable-media family after the verified drawer proof.
-- `Verified`: Keep the unit docs-only.
-- `Verified`: Define exact allowed and disallowed surfaces before any future runtime overlay work is considered.
+- `Verified`: Implement the first overlay-style shoppable-media proof as one section-scoped layered overlay reveal for exactly two linked products.
+- `Verified`: Keep the implementation inside the exact approved six-file runtime boundary.
+- `Verified`: Keep `stone-product-card` unchanged and keep JS local to `project/assets/stone-runtime.js`.
 
 ## Plan Reference
 
-- `Path:` `workspace/plans/phase-3-post-shoppable-media-drawer-frontier-review-v1/PLAN.v1.md`
+- `Path:` `workspace/plans/phase-3-shoppable-media-overlay-boundary-v1/PLAN.v1.md`
 
 ## Allowed Files Or Surfaces
 
-- `workspace/plans/`
+- `project/assets/stone-base.css`
+- `project/assets/stone-runtime.js`
+- `project/sections/stone-shoppable-media-overlay.liquid`
+- `project/templates/page.stone-runtime-shoppable-media-overlay.json`
+- `project/locales/he.default.schema.json`
+- `project/locales/en.schema.json`
 - `state/`
 - `workspace/handoff/CURRENT_HANDOFF.md`
 
@@ -38,4 +43,4 @@
 
 ## Stop Condition
 
-Stop if the boundary package starts authorizing runtime edits directly, hides modal or quick-view behavior inside vague overlay language, or cannot define an exact bounded overlay-style interaction model with explicit stop conditions. Fail closed instead of normalizing expansion.
+Stop if the overlay implementation needs modal semantics, dialog API, body scroll lock, document-level overlay containers, snippet edits, block files, a third product, loops, heavier commerce actions, or JS outside `project/assets/stone-runtime.js`. Fail closed instead of normalizing drift.

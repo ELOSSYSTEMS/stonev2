@@ -8,14 +8,14 @@
 
 ## Current Phase
 
-- `Verified`: Active roadmap phase: Phase 3 docs-only shoppable-media overlay-boundary planning
-- `Verified`: Last completed phase slice: Phase 3 post-shoppable-media-drawer frontier review
-- `Inference`: Next bounded slice: define the smallest honest overlay-style interaction boundary before any future runtime work
+- `Verified`: Active roadmap phase: Phase 3 shoppable-media-overlay implementation planning complete
+- `Verified`: Last completed phase slice: Phase 3 shoppable-media-overlay boundary package
+- `Inference`: Next bounded slice: implement the first overlay-style shoppable-media proof inside the exact approved six-file runtime boundary
 
 ## Approval State
 
 - `Verified`: Current next action approval: APPROVED
-- `Verified`: Approval basis: `UNIT-117` concluded that the drawer proof lane is exhausted and that one docs-only overlay-boundary package is the next honest decision point
+- `Verified`: Approval basis: `UNIT-118` defined the overlay-style interaction boundary and authorized one bounded runtime slice
 
 ## Lock State
 
