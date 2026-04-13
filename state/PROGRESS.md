@@ -2,29 +2,29 @@
 
 ## Current Phase
 
-- `Verified`: Roadmap phase: the category media band slice is verified and the repo is positioned for one bounded featured-product showcase implementation step.
+- `Verified`: Roadmap phase: the bounded featured product showcase implementation slice is complete and awaiting verification.
 
 ## Approved Next Action
 
-- `Verified`: `UNIT-096` execute the featured product showcase slice.
+- `Verified`: `UNIT-097` verify the featured product showcase slice.
 
 ## Last Completed Unit
 
-- `Verified`: Unit ID: `UNIT-095`
-- `Verified`: Summary: authored the post-category-media-band merchandising frontier review, concluded that the next honest move is one featured-product showcase section, and approved one bounded featured-product implementation boundary.
+- `Verified`: Unit ID: `UNIT-096`
+- `Verified`: Summary: implemented one homepage-first featured-product showcase section that reuses `stone-product-card` and stays inside the exact approved six-file runtime boundary.
 
 ## Verification Status
 
-- `Verified`: Verdict: PASS for `UNIT-095`; Stone V2 is ready for one additional bounded runtime step that broadens merchandising object focus without widening into heavier commerce behavior.
-- `Verified`: Evidence: `workspace/plans/phase-3-featured-product-showcase-boundary-v1/PLAN.v1.md`; `workspace/plans/phase-3-featured-product-showcase-boundary-v1/ASSUMPTIONS.v1.md`; `workspace/plans/phase-3-featured-product-showcase-boundary-v1/CHECKS.v1.md`; `workspace/plans/phase-3-featured-product-showcase-boundary-v1/RISKS.v1.md`; `workspace/plans/phase-3-featured-product-showcase-boundary-v1/HANDOFF.v1.md`; `node HARNESS/checks/check-state-artifacts.mjs`; `node HARNESS/checks/check-next-action-scope.mjs`; `node HARNESS/checks/check-plan-exists.mjs`; `node HARNESS/checks/check-handoff-completeness.mjs`; `node HARNESS/checks/check-approval-state.mjs`; `node HARNESS/checks/check-lock-state.mjs`; `node HARNESS/checks/harness-check.mjs`
+- `Verified`: Verdict: implementation PASS for `UNIT-096`; the featured product showcase slice is ready for bounded verification.
+- `Verified`: Evidence: template and locale parse via `node -`; showcase checks via `grep`; explicit product-setting checks via `grep`; forbidden-scope grep via `grep`; protected-surface diff via `git diff --name-only`; exact runtime boundary validation via `node -`.
 
 ## Active Blockers
 
-- `Verified`: The next runtime slice remains bounded to the exact featured-product showcase six-file surface.
-- `Inference`: Any discovered need for extra files, blocks, list settings, product loops, add-to-cart, richer pricing behavior, rails/carousels, shoppable-media behavior, JS, or protected-surface edits remains a new boundary problem rather than permission to widen `UNIT-096`.
+- `Verified`: Runtime expansion remains paused pending `UNIT-097` verification.
+- `Inference`: Any discovered need for extra files, extra settings, product loops, add-to-cart, richer pricing behavior, JS, protected-surface edits, rails/carousels, or shoppable-media behavior remains a new boundary problem rather than permission to widen `UNIT-096`.
 
 ## Resume Notes
 
-- `Verified`: Resume from branch `codex/unit-095-post-category-media-band-frontier-plan`.
-- `Verified`: `UNIT-096` should broaden merchandising object focus with one single-product showcase surface, not continue tuning category discovery.
-- `Verified`: Fail closed if the featured-product showcase cannot stay coherent inside the exact six-file boundary.
+- `Verified`: Resume from branch `codex/unit-096-featured-product-showcase-impl`.
+- `Verified`: `UNIT-097` must confirm exact six-file runtime scope, shared product-card reuse, exactly one explicit product setting, locale parity, and the absence of protected-surface or heavier-commerce drift.
+- `Verified`: Do not authorize further runtime work until `UNIT-097` records PASS or FAIL.

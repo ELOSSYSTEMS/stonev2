@@ -3,7 +3,7 @@
 ## Snapshot
 
 - `Verified`: Repo state: harness foundation populated
-- `Verified`: Storefront runtime state: the broader merchandising foundation slice, spotlight product-discovery variant, verified category-entry slice, verified category-entry spotlight variant, verified category media band slice, and the next approved step is one bounded featured-product showcase surface.
+- `Verified`: Storefront runtime state: the broader merchandising foundation slice, spotlight product-discovery variant, verified category-entry slice, verified category-entry spotlight variant, verified category media band slice, and distinct featured product showcase slice are all now implemented inside bounded six-file scopes.
 - `Verified`: Architecture authority: the five documents under `docs/architecture/`
 - `Verified`: Current active planning package: `workspace/plans/phase-3-featured-product-showcase-boundary-v1/`
 
@@ -28,15 +28,16 @@
 - `Verified`: Preserve Hebrew-first assumptions
 - `Verified`: Treat bilingual Hebrew and English editor support as a core architectural requirement
 - `Verified`: Do not copy code or markup from external reference themes
-- `Verified`: The next approved featured-product showcase step remains non-JS and product-link-only
+- `Verified`: The featured product showcase slice remains non-JS and product-link-only
 
 ## Current Outcome
 
-- `Verified`: `UNIT-092` through `UNIT-094` proved the category-discovery side of the merchandising family through the image-led category media band.
-- `Verified`: `UNIT-095` concludes the next honest move is one single-product showcase section rather than further category-discovery tuning.
-- `Inference`: Stone V2 is now positioned to broaden merchandising object focus while still staying in a tightly bounded six-file implementation slice.
+- `Verified`: `UNIT-095` concluded the next honest move was one featured product showcase section rather than more category-discovery tuning.
+- `Verified`: `UNIT-096` implemented `project/sections/stone-featured-product-showcase.liquid`, `project/templates/page.stone-runtime-featured-product-showcase.json`, bounded CSS in `project/assets/stone-base.css`, scoped `stone-product-card` updates in `project/snippets/stone-product-card.liquid`, and paired locale updates in `project/locales/he.default.schema.json` and `project/locales/en.schema.json`.
+- `Verified`: `UNIT-096` stayed inside the exact approved six runtime files and kept the section limited to one explicit product setting.
+- `Inference`: The repo is ready for bounded verification of the featured product showcase slice.
 
 ## Risks And Blocks
 
-- `Verified`: Runtime expansion remains bounded to the featured-product showcase six-file surface for `UNIT-096`.
-- `Inference`: Any discovered need for extra files, blocks, list settings, product loops, add-to-cart, richer pricing behavior, rails/carousels, shoppable-media behavior, JS, or protected-surface edits should trigger a new docs-only boundary decision rather than widening the approved next slice.
+- `Verified`: Runtime expansion remains paused pending `UNIT-097` verification.
+- `Inference`: Any discovered need for extra files, extra settings, product loops, add-to-cart, richer pricing behavior, JS, protected-surface edits, rails/carousels, or shoppable-media behavior should trigger a new docs-only boundary decision rather than widening the approved slice.

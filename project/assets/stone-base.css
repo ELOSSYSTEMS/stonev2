@@ -1636,3 +1636,36 @@ canvas {
 .stone-collection-card--media-band-support .stone-collection-card__image {
   aspect-ratio: 5 / 4;
 }
+
+.stone-featured-product-showcase {
+  display: grid;
+  gap: var(--stone-space-4);
+}
+
+.stone-featured-product-showcase--soft {
+  padding: var(--stone-space-4);
+  border-radius: var(--stone-radius-2);
+  background: var(--stone-color-surface);
+}
+
+.stone-featured-product-showcase__intro > *,
+.stone-featured-product-showcase__empty {
+  margin: 0;
+}
+
+.stone-featured-product-showcase__card {
+  display: grid;
+}
+
+.stone-product-card--showcase .stone-product-card__image {
+  aspect-ratio: 16 / 11;
+}
+
+.stone-product-card--showcase .stone-product-card__content {
+  gap: var(--stone-space-3);
+}
+
+.stone-product-card--showcase .stone-product-card__title {
+  font-size: clamp(1.35rem, 2vw, 2rem);
+  line-height: 1.2;
+}

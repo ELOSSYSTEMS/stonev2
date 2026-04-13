@@ -2056,6 +2056,74 @@
           }
         }
       }
+    },
+    "stone_featured_product_showcase": {
+      "name": "Featured product showcase",
+      "empty_product": "Select a product to validate the bounded featured product showcase surface.",
+      "settings": {
+        "heading": {
+          "label": "Section heading",
+          "info": "Optional. Displays a neutral heading above the featured product showcase."
+        },
+        "intro": {
+          "label": "Intro text",
+          "info": "Optional. Adds restrained supporting copy above the showcased product."
+        },
+        "product": {
+          "label": "Product",
+          "info": "Selects the product used for the showcase proof."
+        },
+        "show_vendor": {
+          "label": "Show vendor",
+          "info": "Displays the native product vendor inside the shared product card."
+        },
+        "show_price": {
+          "label": "Show price",
+          "info": "Displays the native product price inside the shared product card."
+        },
+        "surface_style": {
+          "label": "Surface style",
+          "info": "Controls whether the showcase sits directly on the page or inside a soft surface.",
+          "options": {
+            "outline": {
+              "label": "Outline"
+            },
+            "soft": {
+              "label": "Soft"
+            }
+          }
+        },
+        "width_mode": {
+          "label": "Width mode",
+          "info": "Controls the container width for the section shell.",
+          "options": {
+            "narrow": {
+              "label": "Narrow"
+            },
+            "standard": {
+              "label": "Standard"
+            },
+            "wide": {
+              "label": "Wide"
+            }
+          }
+        },
+        "spacing_mode": {
+          "label": "Spacing mode",
+          "info": "Controls the vertical spacing for the section shell.",
+          "options": {
+            "compact": {
+              "label": "Compact"
+            },
+            "standard": {
+              "label": "Balanced"
+            },
+            "relaxed": {
+              "label": "Relaxed"
+            }
+          }
+        }
+      }
     }
   },
   "snippets": {

@@ -8,6 +8,35 @@
 
 ### Session Entry
 
+- Timestamp: 2026-04-13 08:37 Asia/Jerusalem
+- Skill or Mode: `project-build`
+- Summary: implemented the bounded featured-product showcase slice, added the new section and template, updated the shared product-card for showcase image sizing, and kept runtime changes inside the approved six-file surface
+- Files changed:
+  - `project/assets/stone-base.css`
+  - `project/snippets/stone-product-card.liquid`
+  - `project/sections/stone-featured-product-showcase.liquid`
+  - `project/templates/page.stone-runtime-featured-product-showcase.json`
+  - `project/locales/he.default.schema.json`
+  - `project/locales/en.schema.json`
+  - `state/ORCHESTRATION_STATE.md`
+  - `state/STATUS.md`
+  - `state/NEXT_ACTION.md`
+  - `state/FEATURE_STATUS.md`
+  - `state/PROGRESS.md`
+  - `state/SESSION_LOG.md`
+  - `workspace/handoff/CURRENT_HANDOFF.md`
+- Checks run:
+  - template and locale parse via `node -`
+  - showcase checks via `grep`
+  - explicit product-setting checks via `grep`
+  - forbidden-scope grep via `grep`
+  - protected-surface diff via `git diff --name-only`
+  - exact runtime boundary validation via `node -`
+- Result: PASS
+- Follow-up: execute `UNIT-097` only as the bounded verification pass for the featured-product showcase slice
+
+### Session Entry
+
 - Timestamp: 2026-04-13 01:32 Asia/Jerusalem
 - Skill or Mode: `project-plan`
 - Summary: authored the post-category-media-band merchandising frontier review, rejected further category-discovery tuning, and approved one bounded featured-product showcase boundary for the next runtime unit

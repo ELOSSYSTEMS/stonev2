@@ -1,0 +1,19 @@
+{
+  "sections": {
+    "main": {
+      "type": "stone-featured-product-showcase",
+      "settings": {
+        "heading": "Featured product showcase",
+        "intro": "<p>Use this bounded merchandising surface to validate one product-first showcase without widening into heavier commerce behavior.</p>",
+        "surface_style": "outline",
+        "width_mode": "wide",
+        "spacing_mode": "standard",
+        "show_vendor": true,
+        "show_price": true
+      }
+    }
+  },
+  "order": [
+    "main"
+  ]
+}

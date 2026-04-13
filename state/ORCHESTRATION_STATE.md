@@ -8,14 +8,14 @@
 
 ## Current Phase
 
-- `Verified`: Active roadmap phase: Phase 3 bounded featured-product expansion after verified post-category-media-band frontier review
-- `Verified`: Last completed phase slice: Phase 3 post-category-media-band merchandising frontier review
-- `Inference`: Next bounded slice: execute one new featured-product showcase surface using the shared product-card contract
+- `Verified`: Active roadmap phase: Phase 3 bounded featured-product showcase verification after implementation
+- `Verified`: Last completed phase slice: Phase 3 featured-product showcase implementation slice
+- `Inference`: Next bounded slice: verify exact scope and drift status for the featured-product showcase slice
 
 ## Approval State
 
 - `Verified`: Current next action approval: APPROVED
-- `Verified`: Approval basis: `UNIT-095` determined that the next honest step is one featured-product showcase section, not further category-discovery tuning or heavier merchandising expansion
+- `Verified`: Approval basis: `UNIT-096` implemented the distinct featured-product showcase surface inside the exact approved six-file runtime boundary and is ready for bounded verification
 
 ## Lock State
 
