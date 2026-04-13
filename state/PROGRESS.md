@@ -2,29 +2,29 @@
 
 ## Current Phase
 
-- `Verified`: Roadmap phase: the first interaction-aware shoppable-media implementation slice is complete and awaiting verification.
+- `Verified`: Roadmap phase: the first interaction-aware shoppable-media slice is verified and the repo is positioned for a docs-only post-focus frontier review.
 
 ## Approved Next Action
 
-- `Verified`: `UNIT-112` verify the shoppable-media focus slice.
+- `Verified`: `UNIT-113` author the post-shoppable-media-focus frontier review.
 
 ## Last Completed Unit
 
-- `Verified`: Unit ID: `UNIT-111`
-- `Verified`: Summary: implemented one interaction-aware shoppable-media focus section with two local marker controls, two unchanged product cards, and local progressive JS inside `project/assets/stone-runtime.js` while staying inside the exact approved six-file runtime boundary.
+- `Verified`: Unit ID: `UNIT-112`
+- `Verified`: Summary: verified that the shoppable-media focus slice stayed inside the exact approved six-file runtime boundary, reused `stone-product-card` unchanged, preserved the exact settings shape, kept JS local to `project/assets/stone-runtime.js`, and avoided protected-surface or heavier interaction drift.
 
 ## Verification Status
 
-- `Verified`: Verdict: implementation PASS for `UNIT-111`; the shoppable-media focus slice is ready for bounded verification.
-- `Verified`: Evidence: template and locale parse via `node -`; settings-shape and scope checks via `grep` and `node -`; forbidden-scope grep via `grep`; protected-surface and disallowed-surface diff via `git diff --name-only`; exact runtime boundary validation via `node -`.
+- `Verified`: Verdict: PASS for `UNIT-112`; the first interaction-aware shoppable-media slice is accepted as a bounded family proof.
+- `Verified`: Evidence: `git show --stat --name-only --format=fuller HEAD`; `git diff --name-only HEAD^ HEAD`; `git diff --name-only HEAD^ HEAD -- project`; template and locale parity via `node -`; shared-snippet and settings-shape checks via `grep` and `node -`; forbidden-scope grep via `grep`; protected-surface and disallowed-surface diff via `git diff --name-only`; exact runtime boundary validation via `node -`; `node HARNESS/checks/check-state-artifacts.mjs`; `node HARNESS/checks/check-next-action-scope.mjs`; `node HARNESS/checks/check-plan-exists.mjs`; `node HARNESS/checks/check-handoff-completeness.mjs`; `node HARNESS/checks/check-approval-state.mjs`; `node HARNESS/checks/check-lock-state.mjs`; `node HARNESS/checks/harness-check.mjs`
 
 ## Active Blockers
 
-- `Verified`: Runtime expansion remains paused pending `UNIT-112` verification.
-- `Inference`: Any discovered need for drawers, overlays, modals, snippet changes, blocks, third-product expansion, loops, or JS outside `project/assets/stone-runtime.js` remains a new boundary problem rather than permission to widen `UNIT-111`.
+- `Verified`: No runtime blocker was found inside the approved shoppable-media focus boundary.
+- `Inference`: The next question is a frontier question, not an implementation question.
 
 ## Resume Notes
 
-- `Verified`: Resume from branch `codex/unit-111-shoppable-media-focus-impl`.
-- `Verified`: `UNIT-112` must confirm exact six-file runtime scope, unchanged snippet reuse, exact settings shape, locale parity, and JS confinement to `project/assets/stone-runtime.js`.
-- `Verified`: Do not authorize further runtime work until `UNIT-112` records PASS or FAIL.
+- `Verified`: Resume from branch `codex/unit-112-shoppable-media-focus-verify`.
+- `Verified`: `UNIT-113` must stay docs-only and decide whether shoppable media still has one honest bounded next move or whether the correct action is to pause and re-plan at a higher boundary.
+- `Verified`: Do not modify `project/` in `UNIT-113`.
