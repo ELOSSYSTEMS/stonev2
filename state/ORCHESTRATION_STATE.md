@@ -8,14 +8,14 @@
 
 ## Current Phase
 
-- `Verified`: Active roadmap phase: Phase 3 companion roadmap deferral proposal completed; repo awaiting a Phase 4 preset-pack sequencing proposal with unresolved companion-family work explicitly deferred
-- `Verified`: Last completed phase slice: Phase 3 companion roadmap deferral proposal
-- `Inference`: Next bounded slice: author a docs-only Phase 4 preset-pack sequencing proposal after unresolved `collection companion` and `PDP companion` work were explicitly deferred behind later preset planning
+- `Verified`: Active roadmap phase: Phase 4 preset-pack sequencing proposal completed; repo awaiting a Phase 4 preset-pack boundary proposal with unresolved companion-family work explicitly deferred
+- `Verified`: Last completed phase slice: Phase 4 preset-pack sequencing proposal
+- `Inference`: Next bounded slice: author a docs-only Phase 4 preset-pack boundary proposal after preset sequencing concluded that planning must begin with an explicit boundary-first pass
 
 ## Approval State
 
 - `Verified`: Current next action approval: APPROVED
-- `Verified`: Approval basis: `UNIT-135` concluded that unresolved `collection companion` and `PDP companion` work are explicitly deferred behind later Phase 4 preset-pack planning and that any continuation must move only to a docs-only Phase 4 preset-pack sequencing proposal as `UNIT-136`
+- `Verified`: Approval basis: `UNIT-136` concluded that Phase 4 preset-pack planning may begin only through a docs-only preset-pack boundary proposal that keeps deferred `collection companion` and `PDP companion` work explicit and runtime authorization fail-closed
 
 ## Lock State
 
