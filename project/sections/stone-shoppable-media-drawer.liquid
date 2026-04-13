@@ -1,0 +1,202 @@
+{%- liquid
+  assign stone_heading = section.settings.heading | strip
+  assign stone_media_image = section.settings.media_image
+  assign stone_first_product_handle = section.settings.first_product
+  assign stone_second_product_handle = section.settings.second_product
+  assign stone_first_product = all_products[stone_first_product_handle]
+  assign stone_second_product = all_products[stone_second_product_handle]
+  assign stone_marker_one_x = section.settings.marker_one_x | default: 28
+  assign stone_marker_one_y = section.settings.marker_one_y | default: 42
+  assign stone_marker_two_x = section.settings.marker_two_x | default: 72
+  assign stone_marker_two_y = section.settings.marker_two_y | default: 58
+  assign stone_ready = false
+
+  if stone_media_image != blank and stone_first_product_handle != blank and stone_second_product_handle != blank and stone_first_product != blank and stone_second_product != blank
+    assign stone_ready = true
+  endif
+
+  capture stone_section_content
+    echo '<div class="stone-shoppable-media-drawer" data-stone-shoppable-drawer data-stone-drawer-open="false">'
+
+    if stone_ready
+      echo '<div class="stone-shoppable-media-drawer__media-wrap">'
+      echo '<figure class="stone-shoppable-media-drawer__media">'
+      echo stone_media_image | image_url: width: 1600 | image_tag: class: 'stone-shoppable-media-drawer__image', loading: 'lazy', widths: '480, 720, 960, 1200, 1600', sizes: '(min-width: 64rem) 72rem, 100vw'
+
+      echo '<button class="stone-shoppable-media-drawer__marker stone-shoppable-media-drawer__marker--one" type="button" data-stone-drawer-control="one" aria-expanded="false" aria-controls="StoneShoppableDrawerPanelOne-'
+      echo section.id | escape
+      echo '" style="inset-inline-start: '
+      echo stone_marker_one_x | escape
+      echo '%; top: '
+      echo stone_marker_one_y | escape
+      echo '%;">1</button>'
+
+      echo '<button class="stone-shoppable-media-drawer__marker stone-shoppable-media-drawer__marker--two" type="button" data-stone-drawer-control="two" aria-expanded="false" aria-controls="StoneShoppableDrawerPanelTwo-'
+      echo section.id | escape
+      echo '" style="inset-inline-start: '
+      echo stone_marker_two_x | escape
+      echo '%; top: '
+      echo stone_marker_two_y | escape
+      echo '%;">2</button>'
+      echo '</figure>'
+      echo '</div>'
+
+      echo '<div class="stone-shoppable-media-drawer__drawer" data-stone-drawer-shell>'
+      echo '<div class="stone-shoppable-media-drawer__drawer-header">'
+      echo '<button class="stone-shoppable-media-drawer__close" type="button" data-stone-drawer-close>'
+      echo 'sections.stone_shoppable_media_drawer.close_label' | t
+      echo '</button>'
+      echo '</div>'
+      echo '<div id="StoneShoppableDrawerPanelOne-'
+      echo section.id | escape
+      echo '" class="stone-shoppable-media-drawer__panel stone-shoppable-media-drawer__panel--one" data-stone-drawer-panel="one">'
+      render 'stone-product-card', product: stone_first_product
+      echo '</div>'
+      echo '<div id="StoneShoppableDrawerPanelTwo-'
+      echo section.id | escape
+      echo '" class="stone-shoppable-media-drawer__panel stone-shoppable-media-drawer__panel--two" data-stone-drawer-panel="two">'
+      render 'stone-product-card', product: stone_second_product
+      echo '</div>'
+      echo '</div>'
+    else
+      echo '<p class="stone-shoppable-media-drawer__empty">'
+      echo 'sections.stone_shoppable_media_drawer.empty_state' | t
+      echo '</p>'
+    endif
+
+    echo '</div>'
+  endcapture
+
+  render 'stone-section-shell',
+    section: section,
+    heading: stone_heading,
+    content: stone_section_content,
+    width: section.settings.width_mode,
+    spacing: section.settings.spacing_mode,
+    shell_class: 'stone-shoppable-media-drawer-shell'
+-%}
+
+{% schema %}
+{
+  "name": "t:sections.stone_shoppable_media_drawer.name",
+  "tag": "section",
+  "class": "shopify-section--stone-shoppable-media-drawer",
+  "settings": [
+    {
+      "type": "text",
+      "id": "heading",
+      "label": "t:sections.stone_shoppable_media_drawer.settings.heading.label",
+      "info": "t:sections.stone_shoppable_media_drawer.settings.heading.info"
+    },
+    {
+      "type": "image_picker",
+      "id": "media_image",
+      "label": "t:sections.stone_shoppable_media_drawer.settings.media_image.label",
+      "info": "t:sections.stone_shoppable_media_drawer.settings.media_image.info"
+    },
+    {
+      "type": "product",
+      "id": "first_product",
+      "label": "t:sections.stone_shoppable_media_drawer.settings.first_product.label",
+      "info": "t:sections.stone_shoppable_media_drawer.settings.first_product.info"
+    },
+    {
+      "type": "product",
+      "id": "second_product",
+      "label": "t:sections.stone_shoppable_media_drawer.settings.second_product.label",
+      "info": "t:sections.stone_shoppable_media_drawer.settings.second_product.info"
+    },
+    {
+      "type": "range",
+      "id": "marker_one_x",
+      "label": "t:sections.stone_shoppable_media_drawer.settings.marker_one_x.label",
+      "info": "t:sections.stone_shoppable_media_drawer.settings.marker_one_x.info",
+      "min": 5,
+      "max": 95,
+      "step": 1,
+      "default": 28,
+      "unit": "%"
+    },
+    {
+      "type": "range",
+      "id": "marker_one_y",
+      "label": "t:sections.stone_shoppable_media_drawer.settings.marker_one_y.label",
+      "info": "t:sections.stone_shoppable_media_drawer.settings.marker_one_y.info",
+      "min": 5,
+      "max": 95,
+      "step": 1,
+      "default": 42,
+      "unit": "%"
+    },
+    {
+      "type": "range",
+      "id": "marker_two_x",
+      "label": "t:sections.stone_shoppable_media_drawer.settings.marker_two_x.label",
+      "info": "t:sections.stone_shoppable_media_drawer.settings.marker_two_x.info",
+      "min": 5,
+      "max": 95,
+      "step": 1,
+      "default": 72,
+      "unit": "%"
+    },
+    {
+      "type": "range",
+      "id": "marker_two_y",
+      "label": "t:sections.stone_shoppable_media_drawer.settings.marker_two_y.label",
+      "info": "t:sections.stone_shoppable_media_drawer.settings.marker_two_y.info",
+      "min": 5,
+      "max": 95,
+      "step": 1,
+      "default": 58,
+      "unit": "%"
+    },
+    {
+      "type": "select",
+      "id": "width_mode",
+      "label": "t:sections.stone_shoppable_media_drawer.settings.width_mode.label",
+      "info": "t:sections.stone_shoppable_media_drawer.settings.width_mode.info",
+      "default": "wide",
+      "options": [
+        {
+          "value": "narrow",
+          "label": "t:sections.stone_shoppable_media_drawer.settings.width_mode.options.narrow.label"
+        },
+        {
+          "value": "standard",
+          "label": "t:sections.stone_shoppable_media_drawer.settings.width_mode.options.standard.label"
+        },
+        {
+          "value": "wide",
+          "label": "t:sections.stone_shoppable_media_drawer.settings.width_mode.options.wide.label"
+        }
+      ]
+    },
+    {
+      "type": "select",
+      "id": "spacing_mode",
+      "label": "t:sections.stone_shoppable_media_drawer.settings.spacing_mode.label",
+      "info": "t:sections.stone_shoppable_media_drawer.settings.spacing_mode.info",
+      "default": "standard",
+      "options": [
+        {
+          "value": "compact",
+          "label": "t:sections.stone_shoppable_media_drawer.settings.spacing_mode.options.compact.label"
+        },
+        {
+          "value": "standard",
+          "label": "t:sections.stone_shoppable_media_drawer.settings.spacing_mode.options.standard.label"
+        },
+        {
+          "value": "relaxed",
+          "label": "t:sections.stone_shoppable_media_drawer.settings.spacing_mode.options.relaxed.label"
+        }
+      ]
+    }
+  ],
+  "presets": [
+    {
+      "name": "t:sections.stone_shoppable_media_drawer.name"
+    }
+  ]
+}
+{% endschema %}

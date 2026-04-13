@@ -55,12 +55,62 @@
     });
   };
 
+  const initializeShoppableMediaDrawer = () => {
+    const sections = document.querySelectorAll("[data-stone-shoppable-drawer]");
+
+    sections.forEach((section) => {
+      const controls = Array.from(
+        section.querySelectorAll("[data-stone-drawer-control]")
+      );
+      const panels = Array.from(
+        section.querySelectorAll("[data-stone-drawer-panel]")
+      );
+      const closeControl = section.querySelector("[data-stone-drawer-close]");
+      const drawerShell = section.querySelector("[data-stone-drawer-shell]");
+
+      if (controls.length !== 2 || panels.length !== 2 || !closeControl || !drawerShell) {
+        return;
+      }
+
+      const setOpenState = (key) => {
+        const isOpen = Boolean(key);
+        section.dataset.stoneDrawerOpen = isOpen ? "true" : "false";
+        drawerShell.hidden = !isOpen;
+
+        controls.forEach((control) => {
+          const isActive = isOpen && control.dataset.stoneDrawerControl === key;
+          control.setAttribute("aria-expanded", isActive ? "true" : "false");
+        });
+
+        panels.forEach((panel) => {
+          const isActive = isOpen && panel.dataset.stoneDrawerPanel === key;
+          panel.dataset.stoneDrawerPanelActive = isActive ? "true" : "false";
+          panel.hidden = !isActive;
+        });
+      };
+
+      controls.forEach((control) => {
+        control.addEventListener("click", () => {
+          setOpenState(control.dataset.stoneDrawerControl || "one");
+        });
+      });
+
+      closeControl.addEventListener("click", () => {
+        setOpenState(null);
+      });
+
+      setOpenState(null);
+      section.dataset.stoneDrawerReady = "true";
+    });
+  };
+
   root.classList.remove("no-js");
   root.classList.add("js");
   body.dataset.stoneInitialized = "true";
   body.dataset.stoneRuntime = "ready";
   applyMotionPreference();
   initializeShoppableMediaFocus();
+  initializeShoppableMediaDrawer();
 
   if (motionQuery) {
     if (typeof motionQuery.addEventListener === "function") {

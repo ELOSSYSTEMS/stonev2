@@ -3,18 +3,18 @@
 ## Status
 
 - `Verified`: Approval State: APPROVED
-- `Verified`: Execution Class: implementation
+- `Verified`: Execution Class: verification
 - `Verified`: Priority: high
 
 ## Approved Unit
 
-- `UNIT-115` Execute the shoppable-media drawer slice.
+- `UNIT-116` Verify the shoppable-media drawer slice.
 
 ## Objective
 
-- `Verified`: Implement the first drawer-style shoppable-media proof as one section-scoped local drawer reveal for exactly two linked products.
-- `Verified`: Keep the implementation inside the exact approved six-file runtime boundary.
-- `Verified`: Keep `stone-product-card` unchanged and keep JS local to `project/assets/stone-runtime.js`.
+- `Verified`: Verify that the shoppable-media drawer slice stayed inside the exact approved six-file runtime boundary.
+- `Verified`: Verify that `stone-shoppable-media-drawer` reuses `stone-product-card` unchanged, stays limited to one image picker, two product settings, and four marker-position range settings, and keeps JS local to `project/assets/stone-runtime.js`.
+- `Verified`: Verify that the slice remained free of protected-surface, global-overlay, or heavier commerce drift.
 
 ## Plan Reference
 
@@ -43,4 +43,4 @@
 
 ## Stop Condition
 
-Stop if the drawer implementation needs global overlay behavior, body scroll lock, modal semantics, snippet edits, block files, a third product, loops, heavier commerce actions, or JS outside `project/assets/stone-runtime.js`. Fail closed instead of normalizing drift.
+Stop if verification finds any runtime file outside the approved six runtime files, any snippet drift, any JS outside `project/assets/stone-runtime.js`, any settings-shape drift, or any global-overlay or heavier commerce behavior. Fail closed instead of normalizing drift.

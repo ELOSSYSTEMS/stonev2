@@ -8,6 +8,34 @@
 
 ### Session Entry
 
+- Timestamp: 2026-04-13 12:56 Asia/Jerusalem
+- Skill or Mode: `project-build`
+- Summary: implemented the bounded shoppable-media-drawer slice, added the new section and template, added local drawer-state JS in `project/assets/stone-runtime.js`, and stayed inside the approved six-file surface
+- Files changed:
+  - `project/assets/stone-base.css`
+  - `project/assets/stone-runtime.js`
+  - `project/sections/stone-shoppable-media-drawer.liquid`
+  - `project/templates/page.stone-runtime-shoppable-media-drawer.json`
+  - `project/locales/he.default.schema.json`
+  - `project/locales/en.schema.json`
+  - `state/ORCHESTRATION_STATE.md`
+  - `state/STATUS.md`
+  - `state/NEXT_ACTION.md`
+  - `state/FEATURE_STATUS.md`
+  - `state/PROGRESS.md`
+  - `state/SESSION_LOG.md`
+  - `workspace/handoff/CURRENT_HANDOFF.md`
+- Checks run:
+  - template and locale parse via `node -`
+  - settings-shape and scope checks via `grep` and `node -`
+  - forbidden-scope grep via `grep`
+  - protected-surface and disallowed-surface diff via `git diff --name-only`
+  - exact runtime boundary validation via `node -`
+- Result: PASS
+- Follow-up: execute `UNIT-116` only as the bounded verification pass for the shoppable-media-drawer slice
+
+### Session Entry
+
 - Timestamp: 2026-04-13 12:41 Asia/Jerusalem
 - Skill or Mode: `project-plan`
 - Summary: authored the shoppable-media drawer boundary package, defined one bounded section-scoped drawer reveal as the next honest family proof, and approved one exact six-file runtime package

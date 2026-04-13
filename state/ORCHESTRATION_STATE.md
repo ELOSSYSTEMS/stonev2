@@ -8,14 +8,14 @@
 
 ## Current Phase
 
-- `Verified`: Active roadmap phase: Phase 3 shoppable-media-drawer implementation planning complete
-- `Verified`: Last completed phase slice: Phase 3 shoppable-media-drawer boundary package
-- `Inference`: Next bounded slice: implement the first drawer-style shoppable-media proof inside the exact approved six-file runtime boundary
+- `Verified`: Active roadmap phase: Phase 3 shoppable-media-drawer verification after implementation
+- `Verified`: Last completed phase slice: Phase 3 shoppable-media-drawer implementation slice
+- `Inference`: Next bounded slice: verify exact scope and drift status for the first drawer-style shoppable-media proof
 
 ## Approval State
 
 - `Verified`: Current next action approval: APPROVED
-- `Verified`: Approval basis: `UNIT-114` defined the drawer-style interaction boundary and authorized one bounded runtime slice
+- `Verified`: Approval basis: `UNIT-115` implemented the first drawer-style shoppable-media surface inside the exact approved six-file runtime boundary and is ready for verification
 
 ## Lock State
 

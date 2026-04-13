@@ -2,29 +2,29 @@
 
 ## Current Phase
 
-- `Verified`: Roadmap phase: the repo now has a docs-only boundary for the first drawer-style shoppable-media proof.
+- `Verified`: Roadmap phase: the first drawer-style shoppable-media implementation slice is complete and awaiting verification.
 
 ## Approved Next Action
 
-- `Verified`: `UNIT-115` execute the shoppable-media drawer slice.
+- `Verified`: `UNIT-116` verify the shoppable-media drawer slice.
 
 ## Last Completed Unit
 
-- `Verified`: Unit ID: `UNIT-114`
-- `Verified`: Summary: authored the shoppable-media drawer boundary package, defined one bounded section-scoped drawer reveal as the next honest family proof, and authorized one exact six-file runtime package.
+- `Verified`: Unit ID: `UNIT-115`
+- `Verified`: Summary: implemented one section-scoped shoppable-media drawer section with two local marker controls, one local close control, two unchanged product cards, and local progressive JS inside `project/assets/stone-runtime.js` while staying inside the exact approved six-file runtime boundary.
 
 ## Verification Status
 
-- `Verified`: Verdict: PASS for `UNIT-114`; the package stayed docs-only and defined explicit future runtime surfaces and stop conditions.
-- `Verified`: Evidence: plan package written under `workspace/plans/phase-3-shoppable-media-drawer-boundary-v1/`; state and handoff advanced; harness checks pending before commit.
+- `Verified`: Verdict: implementation PASS for `UNIT-115`; the shoppable-media drawer slice is ready for bounded verification.
+- `Verified`: Evidence: template and locale parse via `node -`; settings-shape and scope checks via `grep` and `node -`; forbidden-scope grep via `grep`; protected-surface and disallowed-surface diff via `git diff --name-only`; exact runtime boundary validation via `node -`.
 
 ## Active Blockers
 
-- `Verified`: Runtime drawer work remains unstarted.
-- `Inference`: If implementation cannot stay section-scoped and six-file bounded, the correct move is to stop rather than widen the drawer boundary.
+- `Verified`: Runtime expansion remains paused pending `UNIT-116` verification.
+- `Inference`: Any discovered need for global overlay semantics, body scroll lock, snippet changes, blocks, third-product expansion, loops, or JS outside `project/assets/stone-runtime.js` remains a new boundary problem rather than permission to widen `UNIT-115`.
 
 ## Resume Notes
 
-- `Verified`: Resume from branch `codex/unit-114-shoppable-media-drawer-boundary-plan`.
-- `Verified`: `UNIT-115` is the next approved runtime slice.
-- `Verified`: Do not edit `project/snippets/stone-product-card.liquid`, `project/layout/theme.liquid`, or `project/config/settings_schema.json`.
+- `Verified`: Resume from branch `codex/unit-115-shoppable-media-drawer-impl`.
+- `Verified`: `UNIT-116` must confirm exact six-file runtime scope, unchanged snippet reuse, exact settings shape, locale parity, and section-scoped JS confinement.
+- `Verified`: Do not authorize further runtime work until `UNIT-116` records PASS or FAIL.
