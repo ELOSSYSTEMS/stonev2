@@ -12,6 +12,7 @@
 - `Verified`: The post-shoppable-media controlled expansion proposal is complete and keeps runtime fail-closed.
 - `Verified`: The companion-systems controlled expansion proposal is complete and reopens planning only in a collection-first, docs-only form.
 - `Verified`: The collection-companion broader boundary package is complete and keeps the family reopening fail-closed at the planning level.
+- `Verified`: The collection-companion controlled expansion proposal is complete and narrows the next evidence-backed lane to `collection support strip`.
 
 ## Current State
 
@@ -22,7 +23,8 @@
 - `Verified`: `UNIT-126` records that the next honest higher-boundary planning problem is a docs-only Phase 3 companion-systems question rather than another shoppable-media or motion/media step.
 - `Verified`: `UNIT-127` records that companion-family planning may reopen only through a collection-first docs-only boundary and rejects PDP-first or shared-companion reopening as the immediate next move.
 - `Verified`: `UNIT-128` records that one broader collection-companion boundary is justified only as a docs-only planning step and rejects direct runtime-facing authorization.
-- `Verified`: `state/NEXT_ACTION.md` now points to `UNIT-129`.
+- `Verified`: `UNIT-129` records that `collection support strip` is the only evidence-backed narrowed collection-companion lane and rejects banner, curated explainer, and navigation-aid narrowing as the immediate next move.
+- `Verified`: `state/NEXT_ACTION.md` now points to `UNIT-130`.
 
 ## Changed Or Seeded Files
 
@@ -51,6 +53,11 @@
 - `Verified`: `workspace/plans/phase-3-collection-companion-broader-boundary-v1/CHECKS.v1.md`
 - `Verified`: `workspace/plans/phase-3-collection-companion-broader-boundary-v1/RISKS.v1.md`
 - `Verified`: `workspace/plans/phase-3-collection-companion-broader-boundary-v1/HANDOFF.v1.md`
+- `Verified`: `workspace/plans/phase-3-collection-companion-controlled-expansion-proposal-v1/PLAN.v1.md`
+- `Verified`: `workspace/plans/phase-3-collection-companion-controlled-expansion-proposal-v1/ASSUMPTIONS.v1.md`
+- `Verified`: `workspace/plans/phase-3-collection-companion-controlled-expansion-proposal-v1/CHECKS.v1.md`
+- `Verified`: `workspace/plans/phase-3-collection-companion-controlled-expansion-proposal-v1/RISKS.v1.md`
+- `Verified`: `workspace/plans/phase-3-collection-companion-controlled-expansion-proposal-v1/HANDOFF.v1.md`
 - `Verified`: `state/ORCHESTRATION_STATE.md`
 - `Verified`: `state/STATUS.md`
 - `Verified`: `state/NEXT_ACTION.md`
@@ -67,11 +74,12 @@
 - `Verified`: No collection-template or PDP-template runtime work is approved from the current broader boundary.
 - `Verified`: No collection archive controls or navigation-system drift are approved from the current broader boundary.
 - `Verified`: No direct `PDP companion` reopening is approved from the current broader boundary.
-- `Inference`: The next honest move is a docs-only collection-companion controlled expansion proposal before any runtime-facing collection boundary or later PDP-family decision is considered.
+- `Verified`: No collection banner authority or curated collection explainer/editorial drift is approved from the current controlled-expansion proposal.
+- `Inference`: The next honest move is a docs-only collection support strip boundary package before any runtime-facing collection boundary or later PDP-family decision is considered.
 
 ## Recommended Next Step
 
-- `Verified`: Execute `UNIT-129` as a docs-only Phase 3 collection-companion controlled expansion proposal.
+- `Verified`: Execute `UNIT-130` as a docs-only Phase 3 collection support strip boundary package.
 
 ## Resume Checks
 
@@ -81,5 +89,6 @@
 - `Verified`: Treat `UNIT-126` as accepted evidence that the next higher-boundary planning problem became a docs-only companion-systems question.
 - `Verified`: Treat `UNIT-127` as accepted evidence that any reopening must stay collection-first, docs-only, and fail-closed on runtime authorization.
 - `Verified`: Treat `UNIT-128` as accepted evidence that the family may reopen only through another docs-only collection-first proposal rather than a runtime-facing boundary.
-- `Verified`: Run `node HARNESS/checks/harness-check.mjs` during the `UNIT-129` planning pass.
+- `Verified`: Treat `UNIT-129` as accepted evidence that `collection support strip` is the only next narrowed lane justified strongly enough for a separate boundary package.
+- `Verified`: Run `node HARNESS/checks/harness-check.mjs` during the `UNIT-130` planning pass.
 - `Verified`: Do not authorize new runtime work unless a later docs-only proposal or boundary produces a fresh explicit approval package.
