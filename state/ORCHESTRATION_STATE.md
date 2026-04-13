@@ -8,14 +8,14 @@
 
 ## Current Phase
 
-- `Verified`: Active roadmap phase: Phase 3 bounded featured-product showcase verification after implementation
-- `Verified`: Last completed phase slice: Phase 3 featured-product showcase implementation slice
-- `Inference`: Next bounded slice: verify exact scope and drift status for the featured-product showcase slice
+- `Verified`: Active roadmap phase: Phase 3 docs-only post-featured-product-showcase frontier review
+- `Verified`: Last completed phase slice: Phase 3 featured-product-showcase verification
+- `Inference`: Next bounded slice: re-evaluate the merchandising frontier before authorizing more runtime work
 
 ## Approval State
 
 - `Verified`: Current next action approval: APPROVED
-- `Verified`: Approval basis: `UNIT-096` implemented the distinct featured-product showcase surface inside the exact approved six-file runtime boundary and is ready for bounded verification
+- `Verified`: Approval basis: `UNIT-097` verified the featured-product showcase slice and advanced the governed run to a docs-only frontier decision
 
 ## Lock State
 

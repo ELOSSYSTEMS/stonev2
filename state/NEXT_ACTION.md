@@ -3,18 +3,18 @@
 ## Status
 
 - `Verified`: Approval State: APPROVED
-- `Verified`: Execution Class: verification
+- `Verified`: Execution Class: docs-planning
 - `Verified`: Priority: high
 
 ## Approved Unit
 
-- `UNIT-097` Verify the featured product showcase slice.
+- `UNIT-098` Author the post-featured-product-showcase merchandising frontier review.
 
 ## Objective
 
-- `Verified`: Verify that the featured product showcase slice stayed inside the exact approved six-file runtime boundary.
-- `Verified`: Verify that `stone-featured-product-showcase` reuses `stone-product-card`, stays limited to exactly one explicit product setting, and remains product-link-only.
-- `Verified`: Verify that the slice remained non-JS and free of protected-surface or heavier-commerce drift.
+- `Verified`: Re-evaluate the merchandising family after the verified featured-product showcase slice.
+- `Verified`: Decide whether the next honest move is another bounded merchandising-family expansion, a pause, or a shift to a different governed planning problem.
+- `Verified`: Keep this next unit docs-only and fail closed on runtime widening.
 
 ## Plan Reference
 
@@ -22,12 +22,7 @@
 
 ## Allowed Files Or Surfaces
 
-- `project/assets/stone-base.css`
-- `project/snippets/stone-product-card.liquid`
-- `project/sections/stone-featured-product-showcase.liquid`
-- `project/templates/page.stone-runtime-featured-product-showcase.json`
-- `project/locales/he.default.schema.json`
-- `project/locales/en.schema.json`
+- `workspace/plans/`
 - `state/`
 - `workspace/handoff/CURRENT_HANDOFF.md`
 
@@ -43,4 +38,4 @@
 
 ## Stop Condition
 
-Stop if verification finds any runtime file outside the approved six runtime files, any missing shared-snippet reuse, any extra setting or new runtime file, any JS or protected-surface edits, or any heavier-commerce behavior. Fail closed instead of normalizing drift.
+Stop if the frontier review needs runtime edits, protected-surface edits, JS authorization, or any attempt to authorize a new slice without a precise distinctness case, exact scope, explicit disallowed behavior, and exact stop conditions. Fail closed instead of normalizing expansion.

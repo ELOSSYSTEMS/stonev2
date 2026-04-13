@@ -2,29 +2,29 @@
 
 ## Current Phase
 
-- `Verified`: Roadmap phase: the bounded featured product showcase implementation slice is complete and awaiting verification.
+- `Verified`: Roadmap phase: the bounded featured product showcase slice is verified and the repo is positioned for a docs-only post-showcase frontier review.
 
 ## Approved Next Action
 
-- `Verified`: `UNIT-097` verify the featured product showcase slice.
+- `Verified`: `UNIT-098` author the post-featured-product-showcase merchandising frontier review.
 
 ## Last Completed Unit
 
-- `Verified`: Unit ID: `UNIT-096`
-- `Verified`: Summary: implemented one homepage-first featured-product showcase section that reuses `stone-product-card` and stays inside the exact approved six-file runtime boundary.
+- `Verified`: Unit ID: `UNIT-097`
+- `Verified`: Summary: verified that the featured product showcase slice stayed inside the exact approved six-file runtime boundary, reused `stone-product-card`, kept exactly one explicit product setting, and avoided protected-surface or heavier-commerce drift.
 
 ## Verification Status
 
-- `Verified`: Verdict: implementation PASS for `UNIT-096`; the featured product showcase slice is ready for bounded verification.
-- `Verified`: Evidence: template and locale parse via `node -`; showcase checks via `grep`; explicit product-setting checks via `grep`; forbidden-scope grep via `grep`; protected-surface diff via `git diff --name-only`; exact runtime boundary validation via `node -`.
+- `Verified`: Verdict: PASS for `UNIT-097`; the featured product showcase slice is accepted as a bounded merchandising-family proof.
+- `Verified`: Evidence: `git show --stat --name-only --format=fuller HEAD`; `git diff --name-only HEAD^ HEAD`; `git diff --name-only HEAD^ HEAD -- project`; template and locale parity via `node -`; shared-snippet and explicit product-setting checks via `grep` and `node -`; showcase product-card evidence via `grep`; forbidden-scope grep via `grep`; protected-surface diff via `git diff --name-only`; exact runtime boundary validation via `node -`; `node HARNESS/checks/check-state-artifacts.mjs`; `node HARNESS/checks/check-next-action-scope.mjs`; `node HARNESS/checks/check-plan-exists.mjs`; `node HARNESS/checks/check-handoff-completeness.mjs`; `node HARNESS/checks/check-approval-state.mjs`; `node HARNESS/checks/check-lock-state.mjs`; `node HARNESS/checks/harness-check.mjs`
 
 ## Active Blockers
 
-- `Verified`: Runtime expansion remains paused pending `UNIT-097` verification.
-- `Inference`: Any discovered need for extra files, extra settings, product loops, add-to-cart, richer pricing behavior, JS, protected-surface edits, rails/carousels, or shoppable-media behavior remains a new boundary problem rather than permission to widen `UNIT-096`.
+- `Verified`: No runtime blocker was found inside the approved featured-product showcase boundary.
+- `Inference`: The next question is a frontier question, not an implementation question.
 
 ## Resume Notes
 
-- `Verified`: Resume from branch `codex/unit-096-featured-product-showcase-impl`.
-- `Verified`: `UNIT-097` must confirm exact six-file runtime scope, shared product-card reuse, exactly one explicit product setting, locale parity, and the absence of protected-surface or heavier-commerce drift.
-- `Verified`: Do not authorize further runtime work until `UNIT-097` records PASS or FAIL.
+- `Verified`: Resume from branch `codex/unit-097-featured-product-showcase-verify`.
+- `Verified`: `UNIT-098` must stay docs-only and must decide whether merchandising still has one honest bounded next move or whether the correct action is to pause and re-plan at a higher boundary.
+- `Verified`: Do not modify `project/` in `UNIT-098`.
