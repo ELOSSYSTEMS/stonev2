@@ -1,0 +1,19 @@
+{
+  "sections": {
+    "main": {
+      "type": "stone-shoppable-media-motion-story",
+      "settings": {
+        "heading": "Shoppable media motion story",
+        "marker_one_x": 28,
+        "marker_one_y": 42,
+        "marker_two_x": 72,
+        "marker_two_y": 58,
+        "width_mode": "wide",
+        "spacing_mode": "standard"
+      }
+    }
+  },
+  "order": [
+    "main"
+  ]
+}

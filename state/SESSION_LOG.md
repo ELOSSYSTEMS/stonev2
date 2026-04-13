@@ -8,6 +8,40 @@
 
 ### Session Entry
 
+- Timestamp: 2026-04-13 14:07 Asia/Jerusalem
+- Skill or Mode: `project-build`
+- Summary: implemented the bounded shoppable-media motion story slice as one non-JS video-first section with exactly two linked products, exactly four static marker controls, a neutral host template, bilingual locale parity, unchanged `stone-product-card` reuse, and unchanged `project/assets/stone-runtime.js`
+- Files changed:
+  - `project/assets/stone-base.css`
+  - `project/sections/stone-shoppable-media-motion-story.liquid`
+  - `project/templates/page.stone-runtime-shoppable-media-motion-story.json`
+  - `project/locales/he.default.schema.json`
+  - `project/locales/en.schema.json`
+  - `state/ORCHESTRATION_STATE.md`
+  - `state/STATUS.md`
+  - `state/NEXT_ACTION.md`
+  - `state/FEATURE_STATUS.md`
+  - `state/PROGRESS.md`
+  - `state/SESSION_LOG.md`
+  - `workspace/handoff/CURRENT_HANDOFF.md`
+- Checks run:
+  - JSON parsing and template-shape validation via `node -`
+  - locale subtree parity via `node -`
+  - settings-shape, snippet reuse, and protected-surface checks via `grep`
+  - `project/assets/stone-runtime.js` unchanged check via `git diff --exit-code`
+  - protected-surface diff via `git diff --name-only`
+  - `node HARNESS/checks/check-state-artifacts.mjs`
+  - `node HARNESS/checks/check-next-action-scope.mjs`
+  - `node HARNESS/checks/check-plan-exists.mjs`
+  - `node HARNESS/checks/check-handoff-completeness.mjs`
+  - `node HARNESS/checks/check-approval-state.mjs`
+  - `node HARNESS/checks/check-lock-state.mjs`
+  - `node HARNESS/checks/harness-check.mjs`
+- Result: PASS
+- Follow-up: execute `UNIT-124` to verify the completed motion story slice without widening runtime scope
+
+### Session Entry
+
 - Timestamp: 2026-04-13 13:47 Asia/Jerusalem
 - Skill or Mode: `project-plan`
 - Summary: authored the shoppable-media motion boundary package, defined one bounded non-JS video-first story proof as the next honest family move, and approved one exact five-file runtime package

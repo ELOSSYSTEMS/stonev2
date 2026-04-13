@@ -8,14 +8,14 @@
 
 ## Current Phase
 
-- `Verified`: Active roadmap phase: Phase 3 shoppable-media-motion implementation planning complete
-- `Verified`: Last completed phase slice: Phase 3 shoppable-media-motion boundary package
-- `Inference`: Next bounded slice: implement the first motion-aware shoppable-media proof inside the exact approved five-file runtime boundary
+- `Verified`: Active roadmap phase: Phase 3 shoppable-media-motion implementation in verification handoff state
+- `Verified`: Last completed phase slice: Phase 3 shoppable-media-motion story implementation slice
+- `Inference`: Next bounded slice: verify the first motion-aware shoppable-media proof inside the exact approved five-file runtime boundary
 
 ## Approval State
 
 - `Verified`: Current next action approval: APPROVED
-- `Verified`: Approval basis: `UNIT-122` defined the motion-aware media boundary and authorized one bounded runtime slice
+- `Verified`: Approval basis: `UNIT-123` implemented the motion-aware media slice and now hands off to bounded verification as `UNIT-124`
 
 ## Lock State
 

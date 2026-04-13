@@ -2547,6 +2547,75 @@
         }
       }
     }
+    ,
+    "stone_shoppable_media_motion_story": {
+      "name": "Shoppable media motion story",
+      "empty_state": "Select one video and two products to validate the bounded shoppable media motion story surface.",
+      "settings": {
+        "heading": {
+          "label": "Section heading",
+          "info": "Optional. Displays a neutral heading above the video-first media story surface."
+        },
+        "media_video": {
+          "label": "Primary video",
+          "info": "Selects the native inline video used for the motion story surface."
+        },
+        "first_product": {
+          "label": "First product",
+          "info": "Selects the first linked product below the video."
+        },
+        "second_product": {
+          "label": "Second product",
+          "info": "Selects the second linked product below the video."
+        },
+        "marker_one_x": {
+          "label": "Marker 1 horizontal position",
+          "info": "Controls the horizontal position of the first static marker on the video."
+        },
+        "marker_one_y": {
+          "label": "Marker 1 vertical position",
+          "info": "Controls the vertical position of the first static marker on the video."
+        },
+        "marker_two_x": {
+          "label": "Marker 2 horizontal position",
+          "info": "Controls the horizontal position of the second static marker on the video."
+        },
+        "marker_two_y": {
+          "label": "Marker 2 vertical position",
+          "info": "Controls the vertical position of the second static marker on the video."
+        },
+        "width_mode": {
+          "label": "Width mode",
+          "info": "Controls the container width for the section shell.",
+          "options": {
+            "narrow": {
+              "label": "Narrow"
+            },
+            "standard": {
+              "label": "Standard"
+            },
+            "wide": {
+              "label": "Wide"
+            }
+          }
+        },
+        "spacing_mode": {
+          "label": "Spacing mode",
+          "info": "Controls the vertical spacing for the section shell.",
+          "options": {
+            "compact": {
+              "label": "Compact"
+            },
+            "standard": {
+              "label": "Balanced"
+            },
+            "relaxed": {
+              "label": "Relaxed"
+            }
+          }
+        }
+      }
+    }
   },
   "snippets": {
     "stone_product_card": {

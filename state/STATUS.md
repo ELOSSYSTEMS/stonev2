@@ -3,7 +3,7 @@
 ## Snapshot
 
 - `Verified`: Repo state: harness foundation populated
-- `Verified`: Storefront runtime state: bounded merchandising is complete, the first static shoppable-media proof is verified, the first interaction-aware focus proof is verified, the first drawer-style shoppable-media proof is verified, the first overlay-style shoppable-media proof is verified, and the first motion-aware shoppable-media boundary is now defined.
+- `Verified`: Storefront runtime state: bounded merchandising is complete, the first static shoppable-media proof is verified, the first interaction-aware focus proof is verified, the first drawer-style shoppable-media proof is verified, the first overlay-style shoppable-media proof is verified, the first motion-aware shoppable-media boundary is defined, and the first motion-aware shoppable-media story implementation slice now exists pending verification.
 - `Verified`: Architecture authority: the five documents under `docs/architecture/`
 - `Verified`: Current active planning package: `workspace/plans/phase-3-shoppable-media-motion-boundary-v1/`
 
@@ -33,10 +33,10 @@
 ## Current Outcome
 
 - `Verified`: `UNIT-122` defines one bounded motion-aware shoppable-media boundary.
-- `Verified`: `UNIT-122` authorizes `UNIT-123` as one exact five-file runtime slice for `stone-shoppable-media-motion-story` with unchanged `stone-product-card` reuse and unchanged `project/assets/stone-runtime.js`.
-- `Inference`: The repo is now positioned at a safe docs-only planning edge before the next runtime unit.
+- `Verified`: `UNIT-123` implements one exact five-file runtime slice for `stone-shoppable-media-motion-story` with unchanged `stone-product-card` reuse and unchanged `project/assets/stone-runtime.js`.
+- `Inference`: The repo is now positioned at a bounded verification edge before any further motion work.
 
 ## Risks And Blocks
 
-- `Verified`: Runtime motion work is not yet implemented.
-- `Inference`: If `UNIT-123` needs JS or broader media-runtime semantics beyond the exact five files, the correct action is to stop and re-plan.
+- `Verified`: `UNIT-123` still requires a dedicated verification pass before the motion slice can be treated as fully verified.
+- `Inference`: If verification finds JS drift, runtime scope drift, or settings-shape drift beyond the exact five files, the correct action is to fail closed and re-plan.
