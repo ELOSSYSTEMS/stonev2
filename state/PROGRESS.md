@@ -2,29 +2,29 @@
 
 ## Current Phase
 
-- `Verified`: Roadmap phase: the first shoppable-media proof is verified and the non-JS shoppable-media lane is now paused at a docs-only interaction-boundary decision point.
+- `Verified`: Roadmap phase: the first static shoppable-media proof is complete and the repo is positioned for the first interaction-aware shoppable-media runtime proof.
 
 ## Approved Next Action
 
-- `Verified`: `UNIT-110` author the shoppable-media interaction boundary package.
+- `Verified`: `UNIT-111` execute the shoppable-media focus slice.
 
 ## Last Completed Unit
 
-- `Verified`: Unit ID: `UNIT-109`
-- `Verified`: Summary: authored the post-shoppable-media frontier review, concluded that the current non-JS shoppable-media lane is locally exhausted, and approved one docs-only interaction-boundary package as the next honest step.
+- `Verified`: Unit ID: `UNIT-110`
+- `Verified`: Summary: authored the shoppable-media interaction boundary package, concluded that the smallest honest interaction-aware exception is local progressive JS inside `project/assets/stone-runtime.js`, and approved one bounded six-file implementation boundary.
 
 ## Verification Status
 
-- `Verified`: Verdict: PASS for `UNIT-109`; Stone V2 should not continue with another automatic shoppable-media runtime slice under the current bounded protocol.
-- `Verified`: Evidence: `workspace/plans/phase-3-post-shoppable-media-story-frontier-review-v1/PLAN.v1.md`; `workspace/plans/phase-3-post-shoppable-media-story-frontier-review-v1/ASSUMPTIONS.v1.md`; `workspace/plans/phase-3-post-shoppable-media-story-frontier-review-v1/CHECKS.v1.md`; `workspace/plans/phase-3-post-shoppable-media-story-frontier-review-v1/RISKS.v1.md`; `workspace/plans/phase-3-post-shoppable-media-story-frontier-review-v1/HANDOFF.v1.md`; `node HARNESS/checks/check-state-artifacts.mjs`; `node HARNESS/checks/check-next-action-scope.mjs`; `node HARNESS/checks/check-plan-exists.mjs`; `node HARNESS/checks/check-handoff-completeness.mjs`; `node HARNESS/checks/check-approval-state.mjs`; `node HARNESS/checks/check-lock-state.mjs`; `node HARNESS/checks/harness-check.mjs`
+- `Verified`: Verdict: PASS for `UNIT-110`; Stone V2 is ready for one bounded runtime step that proves the first interaction-aware shoppable-media surface without protected-surface expansion.
+- `Verified`: Evidence: `workspace/plans/phase-3-shoppable-media-interaction-boundary-v1/PLAN.v1.md`; `workspace/plans/phase-3-shoppable-media-interaction-boundary-v1/ASSUMPTIONS.v1.md`; `workspace/plans/phase-3-shoppable-media-interaction-boundary-v1/CHECKS.v1.md`; `workspace/plans/phase-3-shoppable-media-interaction-boundary-v1/RISKS.v1.md`; `workspace/plans/phase-3-shoppable-media-interaction-boundary-v1/HANDOFF.v1.md`; `node HARNESS/checks/check-state-artifacts.mjs`; `node HARNESS/checks/check-next-action-scope.mjs`; `node HARNESS/checks/check-plan-exists.mjs`; `node HARNESS/checks/check-handoff-completeness.mjs`; `node HARNESS/checks/check-approval-state.mjs`; `node HARNESS/checks/check-lock-state.mjs`; `node HARNESS/checks/harness-check.mjs`
 
 ## Active Blockers
 
-- `Verified`: No further automatic shoppable-media runtime slice is approved under the current non-JS lane.
-- `Inference`: Any meaningful continuation now requires a docs-only interaction-boundary step first.
+- `Verified`: The next runtime slice remains bounded to the exact shoppable-media-focus six-file surface.
+- `Inference`: Any discovered need for drawers, overlays, modals, snippet changes, blocks, third-product expansion, loops, or JS outside `project/assets/stone-runtime.js` remains a new boundary problem rather than permission to widen `UNIT-111`.
 
 ## Resume Notes
 
-- `Verified`: Resume from branch `codex/unit-109-post-shoppable-media-frontier-plan`.
-- `Verified`: `UNIT-110` must stay docs-only and formalize the smallest honest interaction-aware boundary for future shoppable-media work.
-- `Verified`: Do not modify `project/` in `UNIT-110`.
+- `Verified`: Resume from branch `codex/unit-110-shoppable-media-interaction-boundary-plan`.
+- `Verified`: `UNIT-111` should prove a media-first focus state with two interactive markers and two unchanged product cards.
+- `Verified`: Fail closed if the proof cannot stay coherent inside the exact six-file boundary.

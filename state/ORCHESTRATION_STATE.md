@@ -8,14 +8,14 @@
 
 ## Current Phase
 
-- `Verified`: Active roadmap phase: Phase 3 docs-only shoppable-media interaction-boundary planning
-- `Verified`: Last completed phase slice: Phase 3 post-shoppable-media frontier review
-- `Inference`: Next bounded slice: formalize the smallest honest interaction-aware boundary before any further shoppable-media runtime work
+- `Verified`: Active roadmap phase: Phase 3 first interaction-aware shoppable-media proof after docs-only boundary definition
+- `Verified`: Last completed phase slice: Phase 3 shoppable-media interaction boundary plan
+- `Inference`: Next bounded slice: execute one local progressive-JS shoppable-media focus proof on the approved six-file surface
 
 ## Approval State
 
 - `Verified`: Current next action approval: APPROVED
-- `Verified`: Approval basis: `UNIT-109` concluded that the current non-JS shoppable-media lane is locally exhausted and advanced the governed run to a docs-only interaction-boundary package
+- `Verified`: Approval basis: `UNIT-110` formalized the first safe interaction-aware shoppable-media boundary and approved one bounded runtime implementation step
 
 ## Lock State
 
