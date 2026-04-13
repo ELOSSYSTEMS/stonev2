@@ -3,9 +3,9 @@
 ## Snapshot
 
 - `Verified`: Repo state: harness foundation populated
-- `Verified`: Storefront runtime state: bounded merchandising is complete, the first static shoppable-media proof is verified, and the first interaction-aware shoppable-media focus proof is verified.
+- `Verified`: Storefront runtime state: bounded merchandising is complete, the first static shoppable-media proof is verified, the first interaction-aware focus proof is verified, and the first drawer-style shoppable-media boundary is now defined.
 - `Verified`: Architecture authority: the five documents under `docs/architecture/`
-- `Verified`: Current active planning package: `workspace/plans/phase-3-post-shoppable-media-focus-frontier-review-v1/`
+- `Verified`: Current active planning package: `workspace/plans/phase-3-shoppable-media-drawer-boundary-v1/`
 
 ## Canonical Inputs
 
@@ -17,7 +17,7 @@
 - `Verified`: `workspace/specs/STONEV2_SECTION_FAMILY_LEDGER.md`
 - `Verified`: `workspace/specs/STONEV2_SETTINGS_TAXONOMY.md`
 - `Verified`: `workspace/specs/STONEV2_BILINGUAL_SCHEMA_STRATEGY.md`
-- `Verified`: `workspace/plans/phase-3-post-shoppable-media-focus-frontier-review-v1/PLAN.v1.md`
+- `Verified`: `workspace/plans/phase-3-shoppable-media-drawer-boundary-v1/PLAN.v1.md`
 
 ## Constraints
 
@@ -28,15 +28,15 @@
 - `Verified`: Preserve Hebrew-first assumptions
 - `Verified`: Treat bilingual Hebrew and English editor support as a core architectural requirement
 - `Verified`: Do not copy code or markup from external reference themes
-- `Verified`: The next approved step is docs-only and does not authorize runtime drawer work yet
+- `Verified`: Any future drawer proof must remain section-scoped, progressive, and lighter than global overlay behavior
 
 ## Current Outcome
 
-- `Verified`: `UNIT-113` concludes that the verified local-focus shoppable-media proof lane is locally exhausted.
-- `Verified`: `UNIT-113` selects one docs-only drawer-boundary package as the next honest planning step inside the shoppable-media family.
-- `Inference`: The next frontier question is whether a bounded in-section drawer reveal can stay local and lighter than global overlay behavior.
+- `Verified`: `UNIT-114` defines one bounded drawer-style shoppable-media boundary.
+- `Verified`: `UNIT-114` authorizes `UNIT-115` as one exact six-file runtime slice for `stone-shoppable-media-drawer` with local JS only in `project/assets/stone-runtime.js` and unchanged `stone-product-card` reuse.
+- `Inference`: The repo is now positioned at a safe docs-only planning edge before the next runtime unit.
 
 ## Risks And Blocks
 
-- `Verified`: Runtime continuation remains blocked until a drawer boundary is explicitly authored.
-- `Inference`: If drawer behavior requires global overlay semantics, the correct move is to stop and re-plan at a higher boundary.
+- `Verified`: Runtime drawer work is not yet implemented.
+- `Inference`: If `UNIT-115` needs global overlay semantics or scope beyond the exact six files, the correct action is to stop and re-plan.

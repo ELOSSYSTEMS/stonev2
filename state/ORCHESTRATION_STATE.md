@@ -8,14 +8,14 @@
 
 ## Current Phase
 
-- `Verified`: Active roadmap phase: Phase 3 docs-only shoppable-media drawer-boundary planning
-- `Verified`: Last completed phase slice: Phase 3 post-shoppable-media-focus frontier review
-- `Inference`: Next bounded slice: define the smallest honest drawer-style interaction boundary before any future runtime work
+- `Verified`: Active roadmap phase: Phase 3 shoppable-media-drawer implementation planning complete
+- `Verified`: Last completed phase slice: Phase 3 shoppable-media-drawer boundary package
+- `Inference`: Next bounded slice: implement the first drawer-style shoppable-media proof inside the exact approved six-file runtime boundary
 
 ## Approval State
 
 - `Verified`: Current next action approval: APPROVED
-- `Verified`: Approval basis: `UNIT-113` concluded that the local-focus proof lane is exhausted and that one docs-only drawer-boundary package is the next honest decision point
+- `Verified`: Approval basis: `UNIT-114` defined the drawer-style interaction boundary and authorized one bounded runtime slice
 
 ## Lock State
 
