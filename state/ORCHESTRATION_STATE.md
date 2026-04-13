@@ -8,14 +8,14 @@
 
 ## Current Phase
 
-- `Verified`: Active roadmap phase: Phase 3 collection support strip runtime boundary completed; repo awaiting a post-runtime-boundary frontier review
-- `Verified`: Last completed phase slice: Phase 3 collection support strip runtime boundary
-- `Inference`: Next bounded slice: author a docs-only Phase 3 post-collection-support-strip runtime-boundary frontier review after the boundary verdict
+- `Verified`: Active roadmap phase: Phase 3 post-collection-support-strip runtime-boundary frontier review completed; repo awaiting a post-collection-support-strip controlled expansion proposal
+- `Verified`: Last completed phase slice: Phase 3 post-collection-support-strip runtime-boundary frontier review
+- `Inference`: Next bounded slice: author a docs-only Phase 3 post-collection-support-strip controlled expansion proposal after the support-strip lane was judged locally exhausted
 
 ## Approval State
 
 - `Verified`: Current next action approval: APPROVED
-- `Verified`: Approval basis: `UNIT-132` concluded that one exact docs-only runtime-facing `collection support strip` boundary can now be stated only for an editor-authored collection-page-hosted support strip, while runtime implementation and implementation-surface authorization still fail closed, and now hands off to a docs-only post-runtime-boundary frontier review as `UNIT-133`
+- `Verified`: Approval basis: `UNIT-133` concluded that support-strip planning is locally exhausted at the docs-only contract-definition edge, that no support-strip implementation-admission proposal is justified from the current evidence, and that any continuation must move only to a docs-only higher-boundary controlled-expansion proposal as `UNIT-134`
 
 ## Lock State
 

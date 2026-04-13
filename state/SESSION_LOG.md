@@ -8,6 +8,36 @@
 
 ### Session Entry
 
+- Timestamp: 2026-04-13 20:31 Asia/Jerusalem
+- Skill or Mode: `project-plan`
+- Summary: authored the post-collection-support-strip runtime-boundary frontier review, concluded that the support-strip lane is locally exhausted at the contract-definition edge, rejected any support-strip implementation-admission proposal from the current evidence, and synchronized governed state for a higher-boundary controlled-expansion proposal
+- Files changed:
+  - `workspace/plans/phase-3-post-collection-support-strip-runtime-boundary-frontier-review-v1/PLAN.v1.md`
+  - `workspace/plans/phase-3-post-collection-support-strip-runtime-boundary-frontier-review-v1/ASSUMPTIONS.v1.md`
+  - `workspace/plans/phase-3-post-collection-support-strip-runtime-boundary-frontier-review-v1/CHECKS.v1.md`
+  - `workspace/plans/phase-3-post-collection-support-strip-runtime-boundary-frontier-review-v1/RISKS.v1.md`
+  - `workspace/plans/phase-3-post-collection-support-strip-runtime-boundary-frontier-review-v1/HANDOFF.v1.md`
+  - `state/ORCHESTRATION_STATE.md`
+  - `state/STATUS.md`
+  - `state/NEXT_ACTION.md`
+  - `state/FEATURE_STATUS.md`
+  - `state/PROGRESS.md`
+  - `state/SESSION_LOG.md`
+  - `workspace/handoff/CURRENT_HANDOFF.md`
+- Checks run:
+  - `git diff --name-only -- project`
+  - `node HARNESS/checks/check-state-artifacts.mjs`
+  - `node HARNESS/checks/check-next-action-scope.mjs`
+  - `node HARNESS/checks/check-plan-exists.mjs`
+  - `node HARNESS/checks/check-handoff-completeness.mjs`
+  - `node HARNESS/checks/check-approval-state.mjs`
+  - `node HARNESS/checks/check-lock-state.mjs`
+  - `node HARNESS/checks/harness-check.mjs`
+- Result: PASS
+- Follow-up: execute `UNIT-134` only as a docs-only Phase 3 post-collection-support-strip controlled expansion proposal, and fail closed if it revives support-strip implementation admission or normalizes collection-derived content, collection-template rewrites, archive controls, navigation-system behavior, collection-banner authority, curated-explainer/editorial drift, `PDP companion`, broader motion/media, preset-pack implementation, wider JS, heavier commerce, or `product-card behavior` reuse
+
+### Session Entry
+
 - Timestamp: 2026-04-13 20:08 Asia/Jerusalem
 - Skill or Mode: `project-plan`
 - Summary: authored the Phase 3 collection support strip runtime-facing boundary package, stated one exact future support-strip contract for an editor-authored collection-page-hosted strip, kept runtime implementation and implementation-surface authorization fail-closed, and synchronized governed state for a docs-only post-boundary frontier review

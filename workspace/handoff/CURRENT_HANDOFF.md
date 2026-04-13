@@ -16,6 +16,7 @@
 - `Verified`: The collection support strip boundary package is complete and defines one exact docs-only support-strip case while keeping runtime authorization fail-closed.
 - `Verified`: The collection support strip runtime-readiness proposal is complete and justifies one later docs-only runtime-facing boundary package while still keeping runtime implementation fail-closed.
 - `Verified`: The collection support strip runtime boundary package is complete and states one exact future support-strip contract for an editor-authored collection-page-hosted strip while still keeping runtime implementation and implementation-surface authorization fail-closed.
+- `Verified`: The post-collection-support-strip runtime-boundary frontier review is complete and concludes that the support-strip lane is locally exhausted at the docs-only contract-definition edge.
 
 ## Current State
 
@@ -30,7 +31,8 @@
 - `Verified`: `UNIT-130` records that one exact docs-only `collection support strip` boundary can be defined, but a runtime-facing boundary is not yet approved.
 - `Verified`: `UNIT-131` records that one later docs-only runtime-facing `collection support strip` boundary is justified only for an editor-authored collection-page-hosted support strip, but runtime implementation is not approved.
 - `Verified`: `UNIT-132` records that one exact docs-only runtime-facing `collection support strip` boundary can now be stated, but runtime implementation, runtime file scope, schema scope, and host-surface selection remain unapproved.
-- `Verified`: `state/NEXT_ACTION.md` now points to `UNIT-133`.
+- `Verified`: `UNIT-133` records that support-strip planning is locally exhausted at the docs-only contract-definition edge and that no support-strip implementation-admission proposal is justified from the current evidence.
+- `Verified`: `state/NEXT_ACTION.md` now points to `UNIT-134`.
 
 ## Changed Or Seeded Files
 
@@ -79,6 +81,11 @@
 - `Verified`: `workspace/plans/phase-3-collection-support-strip-runtime-boundary-v1/CHECKS.v1.md`
 - `Verified`: `workspace/plans/phase-3-collection-support-strip-runtime-boundary-v1/RISKS.v1.md`
 - `Verified`: `workspace/plans/phase-3-collection-support-strip-runtime-boundary-v1/HANDOFF.v1.md`
+- `Verified`: `workspace/plans/phase-3-post-collection-support-strip-runtime-boundary-frontier-review-v1/PLAN.v1.md`
+- `Verified`: `workspace/plans/phase-3-post-collection-support-strip-runtime-boundary-frontier-review-v1/ASSUMPTIONS.v1.md`
+- `Verified`: `workspace/plans/phase-3-post-collection-support-strip-runtime-boundary-frontier-review-v1/CHECKS.v1.md`
+- `Verified`: `workspace/plans/phase-3-post-collection-support-strip-runtime-boundary-frontier-review-v1/RISKS.v1.md`
+- `Verified`: `workspace/plans/phase-3-post-collection-support-strip-runtime-boundary-frontier-review-v1/HANDOFF.v1.md`
 - `Verified`: `state/ORCHESTRATION_STATE.md`
 - `Verified`: `state/STATUS.md`
 - `Verified`: `state/NEXT_ACTION.md`
@@ -99,11 +106,12 @@
 - `Verified`: No runtime implementation is approved from the current runtime-readiness proposal.
 - `Verified`: No collection-derived strip contract or `product-card behavior` reuse is approved from the current runtime-readiness proposal.
 - `Verified`: No runtime implementation, runtime file scope, schema scope, or host-surface selection is approved from the current runtime-boundary package.
-- `Inference`: The next honest move is a docs-only post-collection-support-strip runtime-boundary frontier review before any runtime implementation-admission or later PDP-family decision is considered.
+- `Verified`: No support-strip implementation-admission proposal is approved from the current frontier review.
+- `Inference`: The next honest move is a docs-only post-collection-support-strip controlled expansion proposal before any broader companion-family reopening or later PDP-family decision is considered.
 
 ## Recommended Next Step
 
-- `Verified`: Execute `UNIT-133` as a docs-only Phase 3 post-collection-support-strip runtime-boundary frontier review.
+- `Verified`: Execute `UNIT-134` as a docs-only Phase 3 post-collection-support-strip controlled expansion proposal.
 
 ## Resume Checks
 
@@ -117,5 +125,6 @@
 - `Verified`: Treat `UNIT-130` as accepted evidence that one exact docs-only support-strip case can be defined but still does not justify runtime authorization.
 - `Verified`: Treat `UNIT-131` as accepted evidence that one later docs-only runtime-facing boundary is justified only for an editor-authored collection-page-hosted support strip and still does not justify runtime implementation.
 - `Verified`: Treat `UNIT-132` as accepted evidence that one exact docs-only runtime-facing boundary can now be stated while runtime implementation and implementation-surface authorization remain fail-closed.
-- `Verified`: Run `node HARNESS/checks/harness-check.mjs` during the `UNIT-133` planning pass.
-- `Verified`: Do not authorize new runtime work unless a later docs-only proposal or boundary produces a fresh explicit approval package.
+- `Verified`: Treat `UNIT-133` as accepted evidence that support-strip planning is locally exhausted at the docs-only contract-definition edge and does not justify a support-strip implementation-admission step.
+- `Verified`: Run `node HARNESS/checks/harness-check.mjs` during the `UNIT-134` planning pass.
+- `Verified`: Do not authorize new runtime work unless a later higher-boundary docs-only proposal produces a fresh explicit approval package.
