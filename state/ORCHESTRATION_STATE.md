@@ -8,14 +8,14 @@
 
 ## Current Phase
 
-- `Verified`: Active roadmap phase: Phase 3 first shoppable-media proof after docs-only controlled boundary definition
-- `Verified`: Last completed phase slice: Phase 3 shoppable-media controlled boundary plan
-- `Inference`: Next bounded slice: execute one non-JS media-first story proof on the approved five-file surface
+- `Verified`: Active roadmap phase: Phase 3 shoppable-media-story verification after implementation
+- `Verified`: Last completed phase slice: Phase 3 shoppable-media-story implementation slice
+- `Inference`: Next bounded slice: verify exact scope and drift status for the first shoppable-media proof
 
 ## Approval State
 
 - `Verified`: Current next action approval: APPROVED
-- `Verified`: Approval basis: `UNIT-106` formalized the first safe shoppable-media boundary and approved one bounded runtime implementation step
+- `Verified`: Approval basis: `UNIT-107` implemented the first bounded shoppable-media surface inside the exact approved five-file runtime boundary and is ready for verification
 
 ## Lock State
 

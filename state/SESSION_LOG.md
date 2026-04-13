@@ -8,6 +8,34 @@
 
 ### Session Entry
 
+- Timestamp: 2026-04-13 11:56 Asia/Jerusalem
+- Skill or Mode: `project-build`
+- Summary: implemented the bounded shoppable-media-story slice, added the new section and template, kept product-card reuse unchanged, and stayed inside the approved five-file surface
+- Files changed:
+  - `project/assets/stone-base.css`
+  - `project/sections/stone-shoppable-media-story.liquid`
+  - `project/templates/page.stone-runtime-shoppable-media-story.json`
+  - `project/locales/he.default.schema.json`
+  - `project/locales/en.schema.json`
+  - `state/ORCHESTRATION_STATE.md`
+  - `state/STATUS.md`
+  - `state/NEXT_ACTION.md`
+  - `state/FEATURE_STATUS.md`
+  - `state/PROGRESS.md`
+  - `state/SESSION_LOG.md`
+  - `workspace/handoff/CURRENT_HANDOFF.md`
+- Checks run:
+  - template and locale parse via `node -`
+  - settings-shape checks via `grep` and `node -`
+  - shared-snippet reuse checks via `grep`
+  - forbidden-scope grep via `grep`
+  - protected-surface and disallowed-surface diff via `git diff --name-only`
+  - exact runtime boundary validation via `node -`
+- Result: PASS
+- Follow-up: execute `UNIT-108` only as the bounded verification pass for the shoppable-media story slice
+
+### Session Entry
+
 - Timestamp: 2026-04-13 11:50 Asia/Jerusalem
 - Skill or Mode: `project-plan`
 - Summary: authored the shoppable-media controlled boundary package, concluded that the first safe proof is a non-JS media-first story surface, and approved one bounded five-file runtime package

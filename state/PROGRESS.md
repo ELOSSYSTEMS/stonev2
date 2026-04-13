@@ -2,29 +2,29 @@
 
 ## Current Phase
 
-- `Verified`: Roadmap phase: bounded merchandising is complete and the repo is now positioned for the first bounded shoppable-media runtime proof.
+- `Verified`: Roadmap phase: the first bounded shoppable-media implementation slice is complete and awaiting verification.
 
 ## Approved Next Action
 
-- `Verified`: `UNIT-107` execute the shoppable media story slice.
+- `Verified`: `UNIT-108` verify the shoppable media story slice.
 
 ## Last Completed Unit
 
-- `Verified`: Unit ID: `UNIT-106`
-- `Verified`: Summary: authored the shoppable-media controlled boundary package, concluded that the first safe shoppable-media proof is a non-JS media-first story surface, and approved one bounded five-file implementation boundary.
+- `Verified`: Unit ID: `UNIT-107`
+- `Verified`: Summary: implemented one media-first shoppable-media story section with two static linked markers and two reused product cards while staying inside the exact approved five-file runtime boundary.
 
 ## Verification Status
 
-- `Verified`: Verdict: PASS for `UNIT-106`; Stone V2 is ready for one bounded runtime step that proves the first shoppable-media family surface without JS or protected-surface expansion.
-- `Verified`: Evidence: `workspace/plans/phase-3-shoppable-media-story-boundary-v1/PLAN.v1.md`; `workspace/plans/phase-3-shoppable-media-story-boundary-v1/ASSUMPTIONS.v1.md`; `workspace/plans/phase-3-shoppable-media-story-boundary-v1/CHECKS.v1.md`; `workspace/plans/phase-3-shoppable-media-story-boundary-v1/RISKS.v1.md`; `workspace/plans/phase-3-shoppable-media-story-boundary-v1/HANDOFF.v1.md`; `node HARNESS/checks/check-state-artifacts.mjs`; `node HARNESS/checks/check-next-action-scope.mjs`; `node HARNESS/checks/check-plan-exists.mjs`; `node HARNESS/checks/check-handoff-completeness.mjs`; `node HARNESS/checks/check-approval-state.mjs`; `node HARNESS/checks/check-lock-state.mjs`; `node HARNESS/checks/harness-check.mjs`
+- `Verified`: Verdict: implementation PASS for `UNIT-107`; the shoppable media story slice is ready for bounded verification.
+- `Verified`: Evidence: template and locale parse via `node -`; settings-shape checks via `grep` and `node -`; shared-snippet reuse checks via `grep`; forbidden-scope grep via `grep`; protected-surface and disallowed-surface diff via `git diff --name-only`; exact runtime boundary validation via `node -`.
 
 ## Active Blockers
 
-- `Verified`: The next runtime slice remains bounded to the exact shoppable-media-story five-file surface.
-- `Inference`: Any discovered need for JS, protected-surface edits, snippet changes, blocks, third-product expansion, loops, drawers, overlays, or heavier interaction remains a new boundary problem rather than permission to widen `UNIT-107`.
+- `Verified`: Runtime expansion remains paused pending `UNIT-108` verification.
+- `Inference`: Any discovered need for JS, snippet changes, blocks, drawers, overlays, protected-surface edits, third-product expansion, or heavier interaction remains a new boundary problem rather than permission to widen `UNIT-107`.
 
 ## Resume Notes
 
-- `Verified`: Resume from branch `codex/unit-106-shoppable-media-boundary-plan`.
-- `Verified`: `UNIT-107` should prove a media-first story surface with two static linked markers and two reused product cards.
-- `Verified`: Fail closed if the proof cannot stay coherent inside the exact five-file boundary.
+- `Verified`: Resume from branch `codex/unit-107-shoppable-media-story-impl`.
+- `Verified`: `UNIT-108` must confirm exact five-file runtime scope, unchanged snippet reuse, exact settings shape, locale parity, and the absence of protected-surface or heavier shoppable-media drift.
+- `Verified`: Do not authorize further runtime work until `UNIT-108` records PASS or FAIL.

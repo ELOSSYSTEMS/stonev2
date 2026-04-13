@@ -3,18 +3,18 @@
 ## Status
 
 - `Verified`: Approval State: APPROVED
-- `Verified`: Execution Class: phase-3-runtime-implementation
+- `Verified`: Execution Class: verification
 - `Verified`: Priority: high
 
 ## Approved Unit
 
-- `UNIT-107` Execute the shoppable media story slice.
+- `UNIT-108` Verify the shoppable media story slice.
 
 ## Objective
 
-- `Verified`: Prove the first non-JS shoppable-media surface for Stone V2.
-- `Verified`: Keep the section media-first, product-link-only, and free of protected-surface or interaction-substrate drift.
-- `Verified`: Reuse `stone-product-card` unchanged for exactly two linked products.
+- `Verified`: Verify that the shoppable media story slice stayed inside the exact approved five-file runtime boundary.
+- `Verified`: Verify that `stone-shoppable-media-story` reuses `stone-product-card` unchanged, stays limited to one image picker, two product settings, and four marker-position range settings, and remains non-JS.
+- `Verified`: Verify that the slice remained free of protected-surface or interaction-substrate drift.
 
 ## Plan Reference
 
@@ -42,4 +42,4 @@
 
 ## Stop Condition
 
-Stop if implementation needs JS, protected-surface edits, drawer behavior, overlay behavior, snippet edits, block files, a third product, loops, or heavier shoppable-media interaction. Fail closed instead of normalizing expansion.
+Stop if verification finds any runtime file outside the approved five runtime files, any snippet drift, any JS or protected-surface edits, any settings-shape drift, or any heavier shoppable-media interaction. Fail closed instead of normalizing drift.

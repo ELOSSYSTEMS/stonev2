@@ -1739,3 +1739,57 @@ canvas {
 .stone-product-card--curated .stone-product-card__content {
   gap: var(--stone-space-3);
 }
+
+.stone-shoppable-media-story {
+  display: grid;
+  gap: var(--stone-space-4);
+}
+
+.stone-shoppable-media-story__media-wrap {
+  position: relative;
+}
+
+.stone-shoppable-media-story__media {
+  position: relative;
+  margin: 0;
+}
+
+.stone-shoppable-media-story__image {
+  display: block;
+  width: 100%;
+  height: auto;
+  border-radius: var(--stone-radius-2);
+}
+
+.stone-shoppable-media-story__marker {
+  position: absolute;
+  transform: translate(-50%, -50%);
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  inline-size: 2.25rem;
+  block-size: 2.25rem;
+  border-radius: 999px;
+  border: 1px solid var(--stone-color-border-strong);
+  background: rgba(255, 255, 255, 0.92);
+  color: var(--stone-color-ink);
+  font-size: 0.95rem;
+  font-weight: 600;
+  text-decoration: none;
+  box-shadow: 0 0.5rem 1.5rem rgba(0, 0, 0, 0.12);
+}
+
+.stone-shoppable-media-story__products {
+  display: grid;
+  gap: var(--stone-space-4);
+}
+
+@media screen and (min-width: 48rem) {
+  .stone-shoppable-media-story__products {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+.stone-shoppable-media-story__empty {
+  margin: 0;
+}
