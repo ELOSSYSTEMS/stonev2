@@ -8,14 +8,14 @@
 
 ## Current Phase
 
-- `Verified`: Active roadmap phase: Phase 3 collection support strip boundary completed; repo awaiting a collection support strip runtime readiness proposal
-- `Verified`: Last completed phase slice: Phase 3 collection support strip boundary
-- `Inference`: Next bounded slice: author a docs-only Phase 3 collection support strip runtime readiness proposal after the exact boundary verdict
+- `Verified`: Active roadmap phase: Phase 3 collection support strip runtime readiness proposal completed; repo awaiting a collection support strip runtime-facing boundary package
+- `Verified`: Last completed phase slice: Phase 3 collection support strip runtime readiness proposal
+- `Inference`: Next bounded slice: author a docs-only Phase 3 collection support strip runtime-facing boundary package after the readiness verdict
 
 ## Approval State
 
 - `Verified`: Current next action approval: APPROVED
-- `Verified`: Approval basis: `UNIT-130` concluded that one exact docs-only `collection support strip` boundary can be defined, but runtime authorization still fails closed and now hands off to a docs-only collection support strip runtime readiness proposal as `UNIT-131`
+- `Verified`: Approval basis: `UNIT-131` concluded that one later docs-only runtime-facing `collection support strip` boundary is justified only for an editor-authored collection-page-hosted support strip, while runtime implementation still fails closed, and now hands off to a docs-only runtime-facing boundary package as `UNIT-132`
 
 ## Lock State
 

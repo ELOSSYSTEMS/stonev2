@@ -5,7 +5,7 @@
 - `Verified`: Repo state: harness foundation populated
 - `Verified`: Storefront runtime state: bounded merchandising is complete, the first static shoppable-media proof is verified, the first interaction-aware focus proof is verified, the first drawer-style shoppable-media proof is verified, the first overlay-style shoppable-media proof is verified, the first motion-aware shoppable-media boundary is defined, and the first motion-aware shoppable-media story proof is now verified.
 - `Verified`: Architecture authority: the five documents under `docs/architecture/`
-- `Verified`: Current active planning package: `workspace/plans/phase-3-collection-support-strip-boundary-v1/`
+- `Verified`: Current active planning package: `workspace/plans/phase-3-collection-support-strip-runtime-readiness-proposal-v1/`
 
 ## Canonical Inputs
 
@@ -17,7 +17,7 @@
 - `Verified`: `workspace/specs/STONEV2_SECTION_FAMILY_LEDGER.md`
 - `Verified`: `workspace/specs/STONEV2_SETTINGS_TAXONOMY.md`
 - `Verified`: `workspace/specs/STONEV2_BILINGUAL_SCHEMA_STRATEGY.md`
-- `Verified`: `workspace/plans/phase-3-collection-support-strip-boundary-v1/PLAN.v1.md`
+- `Verified`: `workspace/plans/phase-3-collection-support-strip-runtime-readiness-proposal-v1/PLAN.v1.md`
 
 ## Constraints
 
@@ -40,8 +40,8 @@
 - `Verified`: `UNIT-127` concludes that companion-family planning may reopen only in a docs-only, collection-first, fail-closed form.
 - `Verified`: `UNIT-128` concludes that one broader collection-companion boundary is justified, but only as a docs-only planning boundary that still blocks direct runtime approval.
 - `Verified`: `UNIT-129` concludes that `collection support strip` is the only evidence-backed narrowed collection-companion lane for the next docs-only step.
-- `Verified`: `UNIT-130` concludes that one exact docs-only `collection support strip` boundary can be defined, but runtime authorization still fails closed and the next honest move remains another planning pass.
-- `Inference`: The repo is now positioned at a docs-only collection support strip runtime-readiness proposal rather than a direct runtime-facing collection boundary, a banner/explainer reopening, or broader collection-system continuation.
+- `Verified`: `UNIT-131` concludes that one later docs-only runtime-facing `collection support strip` boundary is justified, but runtime implementation still fails closed and the only future contract ready enough is editor-authored collection-page-hosted support content.
+- `Inference`: The repo is now positioned at a docs-only collection support strip runtime-facing boundary package rather than a direct runtime implementation step, a collection-derived support-strip contract, a banner/explainer reopening, or broader collection-system continuation.
 
 ## Risks And Blocks
 
@@ -50,6 +50,6 @@
 - `Verified`: No collection-template or PDP-template runtime work is approved from the current broader boundary.
 - `Verified`: No collection archive controls, navigation-system drift, or direct `PDP companion` reopening are approved from the current broader boundary.
 - `Verified`: No collection banner authority or curated collection explainer/editorial drift is approved from the current controlled-expansion proposal.
-- `Verified`: No runtime-facing collection support strip implementation boundary is approved from the current exact boundary package.
-- `Verified`: No `product-card behavior` reuse is approved from the current exact boundary package.
-- `Inference`: Any continuation now requires one docs-only collection support strip runtime-readiness proposal before any later runtime-facing or PDP-family decision could be considered.
+- `Verified`: No runtime implementation is approved from the current collection support strip runtime-readiness proposal.
+- `Verified`: No collection-derived strip contract or `product-card behavior` reuse is approved from the current collection support strip runtime-readiness proposal.
+- `Inference`: Any continuation now requires one docs-only collection support strip runtime-facing boundary package before any later implementation or PDP-family decision could be considered.

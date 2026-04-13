@@ -8,17 +8,18 @@
 
 ## Approved Unit
 
-- `UNIT-131` Author the Phase 3 collection support strip runtime readiness proposal.
+- `UNIT-132` Author the Phase 3 collection support strip runtime-facing boundary package.
 
 ## Objective
 
-- `Verified`: Determine whether a later runtime-facing `collection support strip` boundary is justified after the exact docs-only support-strip case has been defined.
+- `Verified`: Define whether one exact runtime-facing `collection support strip` boundary can be stated for an editor-authored collection-page-hosted support strip without authorizing runtime implementation.
 - `Verified`: Keep the work docs-only and fail closed on runtime authorization.
 - `Verified`: Do not normalize collection-template rewrites, archive controls, navigation-system behavior, collection-banner authority, curated-explainer/editorial drift, `PDP companion`, broader motion/media scope, preset-pack implementation, wider JS, heavier commerce, or `product-card behavior` reuse as implicit next steps.
+- `Verified`: Keep `support-strip visibility` narrow and reference-only, and keep the strip contract editor-authored rather than collection-derived.
 
 ## Plan Reference
 
-- `Path:` `workspace/plans/phase-3-collection-support-strip-boundary-v1/HANDOFF.v1.md`
+- `Path:` `workspace/plans/phase-3-collection-support-strip-runtime-readiness-proposal-v1/HANDOFF.v1.md`
 
 ## Allowed Files Or Surfaces
 
@@ -38,4 +39,4 @@
 
 ## Stop Condition
 
-Fail closed if the proposal starts authorizing runtime work directly, or if it treats collection-template rewrites, collection archive controls, navigation-system behavior, collection-banner authority, curated-explainer/editorial drift, `PDP companion`, broader motion/media scope, preset-pack implementation, wider JS, heavier commerce, or `product-card behavior` reuse as implicitly approved.
+Fail closed if the boundary package starts authorizing runtime work directly, or if it treats collection-derived content, collection-template rewrites, collection archive controls, navigation-system behavior, collection-banner authority, curated-explainer/editorial drift, `PDP companion`, broader motion/media scope, preset-pack implementation, wider JS, heavier commerce, or `product-card behavior` reuse as implicitly approved.
