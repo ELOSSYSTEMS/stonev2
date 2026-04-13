@@ -5,7 +5,7 @@
 - `Verified`: Repo state: harness foundation populated
 - `Verified`: Storefront runtime state: bounded merchandising is complete, the first static shoppable-media proof is verified, the first interaction-aware focus proof is verified, the first drawer-style shoppable-media proof is verified, the first overlay-style shoppable-media proof is verified, the first motion-aware shoppable-media boundary is defined, and the first motion-aware shoppable-media story proof is now verified.
 - `Verified`: Architecture authority: the five documents under `docs/architecture/`
-- `Verified`: Current active planning package: `workspace/plans/phase-3-companion-systems-controlled-expansion-proposal-v1/`
+- `Verified`: Current active planning package: `workspace/plans/phase-3-collection-companion-broader-boundary-v1/`
 
 ## Canonical Inputs
 
@@ -17,7 +17,7 @@
 - `Verified`: `workspace/specs/STONEV2_SECTION_FAMILY_LEDGER.md`
 - `Verified`: `workspace/specs/STONEV2_SETTINGS_TAXONOMY.md`
 - `Verified`: `workspace/specs/STONEV2_BILINGUAL_SCHEMA_STRATEGY.md`
-- `Verified`: `workspace/plans/phase-3-companion-systems-controlled-expansion-proposal-v1/PLAN.v1.md`
+- `Verified`: `workspace/plans/phase-3-collection-companion-broader-boundary-v1/PLAN.v1.md`
 
 ## Constraints
 
@@ -38,12 +38,13 @@
 - `Verified`: `UNIT-125` concludes that the bounded shoppable-media motion-story lane is locally exhausted and does not authorize another automatic runtime slice.
 - `Verified`: `UNIT-126` concludes that the next honest higher-boundary planning problem is a docs-only Phase 3 companion-systems planning question.
 - `Verified`: `UNIT-127` concludes that companion-family planning may reopen only in a docs-only, collection-first, fail-closed form.
-- `Inference`: The repo is now positioned at a docs-only collection-companion broader-boundary decision point rather than another local shoppable-media proof or a shared companion reopening.
+- `Verified`: `UNIT-128` concludes that one broader collection-companion boundary is justified, but only as a docs-only planning boundary that still blocks direct runtime approval.
+- `Inference`: The repo is now positioned at a docs-only collection-companion controlled-expansion proposal step rather than another shoppable-media continuation, a shared companion reopening, or a runtime-facing collection boundary.
 
 ## Risks And Blocks
 
 - `Verified`: No broader motion-system runtime work is approved beyond the verified motion story proof.
 - `Verified`: No autoplay, no looping requirement, no custom controls, no wider JS scope, and no heavier commerce expansion are approved from the current frontier review.
-- `Verified`: No collection-template or PDP-template runtime work is approved from the current proposal.
-- `Verified`: No direct `PDP companion` reopening is approved from the current proposal.
-- `Inference`: Any continuation now requires one docs-only collection-companion broader boundary pass before any later companion-family decision could be considered.
+- `Verified`: No collection-template or PDP-template runtime work is approved from the current broader boundary.
+- `Verified`: No collection archive controls, navigation-system drift, or direct `PDP companion` reopening are approved from the current broader boundary.
+- `Inference`: Any continuation now requires one docs-only collection-companion controlled expansion proposal before any later runtime-facing or PDP-family decision could be considered.
