@@ -2,29 +2,29 @@
 
 ## Current Phase
 
-- `Verified`: Roadmap phase: the first drawer-style shoppable-media slice is verified and the repo is positioned for a docs-only post-drawer frontier review.
+- `Verified`: Roadmap phase: the first drawer-style shoppable-media proof is complete and the repo is positioned for a docs-only overlay-boundary decision.
 
 ## Approved Next Action
 
-- `Verified`: `UNIT-117` author the post-shoppable-media-drawer frontier review.
+- `Verified`: `UNIT-118` author the shoppable-media overlay boundary package.
 
 ## Last Completed Unit
 
-- `Verified`: Unit ID: `UNIT-116`
-- `Verified`: Summary: verified that the shoppable-media drawer slice stayed inside the exact approved six-file runtime boundary, reused `stone-product-card` unchanged, preserved the exact settings shape, kept JS local to `project/assets/stone-runtime.js`, and avoided protected-surface, global-overlay, or heavier commerce drift.
+- `Verified`: Unit ID: `UNIT-117`
+- `Verified`: Summary: authored the post-shoppable-media-drawer frontier review, concluded that the section-scoped drawer proof lane is now locally exhausted, and selected one docs-only overlay-boundary package as the next honest planning step.
 
 ## Verification Status
 
-- `Verified`: Verdict: PASS for `UNIT-116`; the first drawer-style shoppable-media slice is accepted as a bounded family proof.
-- `Verified`: Evidence: `git show --stat --name-only --format=fuller HEAD`; `git diff --name-only HEAD^ HEAD`; `git diff --name-only HEAD^ HEAD -- project`; template and locale parity via `node -`; shared-snippet and settings-shape checks via `grep` and `node -`; forbidden-scope grep via `grep`; protected-surface and disallowed-surface diff via `git diff --name-only`; exact runtime boundary validation via `node -`; `node HARNESS/checks/check-state-artifacts.mjs`; `node HARNESS/checks/check-next-action-scope.mjs`; `node HARNESS/checks/check-plan-exists.mjs`; `node HARNESS/checks/check-handoff-completeness.mjs`; `node HARNESS/checks/check-approval-state.mjs`; `node HARNESS/checks/check-lock-state.mjs`; `node HARNESS/checks/harness-check.mjs`
+- `Verified`: Verdict: PASS for `UNIT-117`; the frontier review stayed docs-only and did not authorize runtime edits.
+- `Verified`: Evidence: plan package written under `workspace/plans/phase-3-post-shoppable-media-drawer-frontier-review-v1/`; state and handoff advanced; harness checks pending before commit.
 
 ## Active Blockers
 
-- `Verified`: No runtime blocker was found inside the approved shoppable-media drawer boundary.
-- `Inference`: The next question is a frontier question, not an implementation question.
+- `Verified`: Future runtime shoppable-media continuation remains blocked until an overlay boundary is explicitly defined.
+- `Inference`: If the overlay boundary cannot stay exact and bounded, the correct move is to pause instead of widening scope.
 
 ## Resume Notes
 
-- `Verified`: Resume from branch `codex/unit-116-shoppable-media-drawer-verify`.
-- `Verified`: `UNIT-117` must stay docs-only and decide whether shoppable media still has one honest bounded next move or whether the correct action is to pause and re-plan at a higher boundary.
-- `Verified`: Do not modify `project/` in `UNIT-117`.
+- `Verified`: Resume from branch `codex/unit-117-post-shoppable-media-drawer-frontier-plan`.
+- `Verified`: `UNIT-118` must stay docs-only and define exact allowed and disallowed overlay-style surfaces before runtime work resumes.
+- `Verified`: Do not modify `project/` in `UNIT-118`.
