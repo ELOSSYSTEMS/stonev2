@@ -8,17 +8,17 @@
 
 ## Approved Unit
 
-- `UNIT-105` Author the post-merchandising controlled-expansion proposal.
+- `UNIT-106` Author the shoppable-media controlled boundary package.
 
 ## Objective
 
-- `Verified`: Formalize the next honest higher-boundary planning problem after the bounded merchandising runway.
+- `Verified`: Formalize the next honest higher-boundary planning problem for Stone V2 shoppable media.
 - `Verified`: Keep the work docs-only.
-- `Verified`: Do not authorize runtime implementation until a larger boundary is made explicit.
+- `Verified`: Do not authorize runtime implementation until exact allowed and disallowed surfaces are explicit.
 
 ## Plan Reference
 
-- `Path:` `workspace/plans/phase-3-post-curated-product-frontier-review-v1/PLAN.v1.md`
+- `Path:` `workspace/plans/phase-3-post-merchandising-controlled-expansion-proposal-v1/PLAN.v1.md`
 
 ## Allowed Files Or Surfaces
 
@@ -38,4 +38,4 @@
 
 ## Stop Condition
 
-Stop if the proposal starts authorizing runtime edits directly, tries to smuggle in another small merchandising runtime slice, or weakens the earlier disallowed-scope rules. Fail closed instead of normalizing expansion.
+Stop if the boundary package starts authorizing runtime edits directly, assumes JS or protected-surface access without making them explicit boundary questions, or tries to reopen small merchandising runtime slices. Fail closed instead of normalizing expansion.
