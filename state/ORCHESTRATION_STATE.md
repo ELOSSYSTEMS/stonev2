@@ -8,14 +8,14 @@
 
 ## Current Phase
 
-- `Verified`: Active roadmap phase: Phase 3 collection-companion controlled expansion proposal completed; repo awaiting a collection support strip boundary package
-- `Verified`: Last completed phase slice: Phase 3 collection-companion controlled expansion proposal
-- `Inference`: Next bounded slice: author a docs-only Phase 3 collection support strip boundary package after the controlled-expansion verdict
+- `Verified`: Active roadmap phase: Phase 3 collection support strip boundary completed; repo awaiting a collection support strip runtime readiness proposal
+- `Verified`: Last completed phase slice: Phase 3 collection support strip boundary
+- `Inference`: Next bounded slice: author a docs-only Phase 3 collection support strip runtime readiness proposal after the exact boundary verdict
 
 ## Approval State
 
 - `Verified`: Current next action approval: APPROVED
-- `Verified`: Approval basis: `UNIT-129` concluded that `collection support strip` is the only evidence-backed narrowed collection-companion lane and now hands off to a docs-only collection support strip boundary package as `UNIT-130`
+- `Verified`: Approval basis: `UNIT-130` concluded that one exact docs-only `collection support strip` boundary can be defined, but runtime authorization still fails closed and now hands off to a docs-only collection support strip runtime readiness proposal as `UNIT-131`
 
 ## Lock State
 
