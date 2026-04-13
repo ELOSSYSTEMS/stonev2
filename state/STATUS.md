@@ -5,7 +5,7 @@
 - `Verified`: Repo state: harness foundation populated
 - `Verified`: Storefront runtime state: bounded merchandising is complete, the first static shoppable-media proof is verified, the first interaction-aware focus proof is verified, the first drawer-style shoppable-media proof is verified, the first overlay-style shoppable-media proof is verified, the first motion-aware shoppable-media boundary is defined, and the first motion-aware shoppable-media story proof is now verified.
 - `Verified`: Architecture authority: the five documents under `docs/architecture/`
-- `Verified`: Current active planning package: `workspace/plans/phase-3-collection-support-strip-runtime-readiness-proposal-v1/`
+- `Verified`: Current active planning package: `workspace/plans/phase-3-collection-support-strip-runtime-boundary-v1/`
 
 ## Canonical Inputs
 
@@ -17,7 +17,7 @@
 - `Verified`: `workspace/specs/STONEV2_SECTION_FAMILY_LEDGER.md`
 - `Verified`: `workspace/specs/STONEV2_SETTINGS_TAXONOMY.md`
 - `Verified`: `workspace/specs/STONEV2_BILINGUAL_SCHEMA_STRATEGY.md`
-- `Verified`: `workspace/plans/phase-3-collection-support-strip-runtime-readiness-proposal-v1/PLAN.v1.md`
+- `Verified`: `workspace/plans/phase-3-collection-support-strip-runtime-boundary-v1/PLAN.v1.md`
 
 ## Constraints
 
@@ -41,7 +41,8 @@
 - `Verified`: `UNIT-128` concludes that one broader collection-companion boundary is justified, but only as a docs-only planning boundary that still blocks direct runtime approval.
 - `Verified`: `UNIT-129` concludes that `collection support strip` is the only evidence-backed narrowed collection-companion lane for the next docs-only step.
 - `Verified`: `UNIT-131` concludes that one later docs-only runtime-facing `collection support strip` boundary is justified, but runtime implementation still fails closed and the only future contract ready enough is editor-authored collection-page-hosted support content.
-- `Inference`: The repo is now positioned at a docs-only collection support strip runtime-facing boundary package rather than a direct runtime implementation step, a collection-derived support-strip contract, a banner/explainer reopening, or broader collection-system continuation.
+- `Verified`: `UNIT-132` concludes that one exact docs-only runtime-facing `collection support strip` boundary can now be stated for an editor-authored collection-page-hosted support strip, while runtime implementation, runtime file scope, schema scope, and host-surface selection still fail closed.
+- `Inference`: The repo is now positioned at a docs-only post-runtime-boundary frontier review rather than a direct runtime implementation step, a collection-derived support-strip contract, a banner/explainer reopening, or broader collection-system continuation.
 
 ## Risks And Blocks
 
@@ -52,4 +53,5 @@
 - `Verified`: No collection banner authority or curated collection explainer/editorial drift is approved from the current controlled-expansion proposal.
 - `Verified`: No runtime implementation is approved from the current collection support strip runtime-readiness proposal.
 - `Verified`: No collection-derived strip contract or `product-card behavior` reuse is approved from the current collection support strip runtime-readiness proposal.
-- `Inference`: Any continuation now requires one docs-only collection support strip runtime-facing boundary package before any later implementation or PDP-family decision could be considered.
+- `Verified`: No runtime implementation, runtime file scope, schema scope, or host-surface selection is approved from the current collection support strip runtime boundary package.
+- `Inference`: Any continuation now requires one docs-only post-collection-support-strip runtime-boundary frontier review before any later implementation-admission or PDP-family decision could be considered.
