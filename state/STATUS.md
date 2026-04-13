@@ -3,7 +3,7 @@
 ## Snapshot
 
 - `Verified`: Repo state: harness foundation populated
-- `Verified`: Storefront runtime state: bounded merchandising is complete through verified curated-product-trio work, and the first shoppable-media family surface is now implemented inside the approved five-file runtime boundary.
+- `Verified`: Storefront runtime state: bounded merchandising is complete through verified curated-product-trio work, and the first shoppable-media family surface is now verified.
 - `Verified`: Architecture authority: the five documents under `docs/architecture/`
 - `Verified`: Current active planning package: `workspace/plans/phase-3-shoppable-media-story-boundary-v1/`
 
@@ -28,17 +28,15 @@
 - `Verified`: Preserve Hebrew-first assumptions
 - `Verified`: Treat bilingual Hebrew and English editor support as a core architectural requirement
 - `Verified`: Do not copy code or markup from external reference themes
-- `Verified`: No JS is approved for the first shoppable-media proof
-- `Verified`: No protected-surface or snippet exception is approved for the first shoppable-media proof
+- `Verified`: The first shoppable-media proof remains non-JS and free of protected-surface exceptions
 
 ## Current Outcome
 
-- `Verified`: `UNIT-107` implemented `project/sections/stone-shoppable-media-story.liquid`, `project/templates/page.stone-runtime-shoppable-media-story.json`, bounded CSS in `project/assets/stone-base.css`, and paired locale updates in `project/locales/he.default.schema.json` and `project/locales/en.schema.json`.
-- `Verified`: `UNIT-107` stayed inside the exact approved five runtime files and reused `stone-product-card` unchanged.
-- `Verified`: `UNIT-107` stayed limited to one image picker, two product settings, and four marker-position range settings.
-- `Inference`: The repo is ready for bounded verification of the first shoppable-media family proof.
+- `Verified`: `UNIT-107` implemented the first shoppable-media story slice inside the exact approved five-file runtime boundary.
+- `Verified`: `UNIT-108` confirms exact five-file boundary compliance, unchanged `stone-product-card` reuse, exact settings shape, locale parity, and no protected-surface or heavier shoppable-media drift.
+- `Inference`: The repo is ready for a docs-only post-shoppable-media frontier review before any further family expansion.
 
 ## Risks And Blocks
 
-- `Verified`: Runtime expansion remains paused pending `UNIT-108` verification.
-- `Inference`: Any discovered need for JS, snippet changes, blocks, drawers, overlays, protected-surface edits, third-product expansion, or heavier interaction should trigger a new docs-only boundary decision rather than widening the approved slice.
+- `Verified`: The next approved step is docs-only.
+- `Inference`: Any future continuation must first prove a new distinctness case rather than assuming shoppable media should keep expanding automatically.
