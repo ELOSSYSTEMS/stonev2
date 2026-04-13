@@ -3,18 +3,18 @@
 ## Status
 
 - `Verified`: Approval State: APPROVED
-- `Verified`: Execution Class: implementation
+- `Verified`: Execution Class: verification
 - `Verified`: Priority: high
 
 ## Approved Unit
 
-- `UNIT-119` Execute the shoppable-media overlay slice.
+- `UNIT-120` Verify the shoppable-media overlay slice.
 
 ## Objective
 
-- `Verified`: Implement the first overlay-style shoppable-media proof as one section-scoped layered overlay reveal for exactly two linked products.
-- `Verified`: Keep the implementation inside the exact approved six-file runtime boundary.
-- `Verified`: Keep `stone-product-card` unchanged and keep JS local to `project/assets/stone-runtime.js`.
+- `Verified`: Verify that the shoppable-media overlay slice stayed inside the exact approved six-file runtime boundary.
+- `Verified`: Verify that `stone-shoppable-media-overlay` reuses `stone-product-card` unchanged, stays limited to one image picker, two product settings, and four marker-position range settings, and keeps JS local to `project/assets/stone-runtime.js`.
+- `Verified`: Verify that the slice remained free of protected-surface, modal, quick-view, or heavier commerce drift.
 
 ## Plan Reference
 
@@ -43,4 +43,4 @@
 
 ## Stop Condition
 
-Stop if the overlay implementation needs modal semantics, dialog API, body scroll lock, document-level overlay containers, snippet edits, block files, a third product, loops, heavier commerce actions, or JS outside `project/assets/stone-runtime.js`. Fail closed instead of normalizing drift.
+Stop if verification finds any runtime file outside the approved six runtime files, any snippet drift, any JS outside `project/assets/stone-runtime.js`, any settings-shape drift, or any modal, quick-view, or heavier commerce behavior. Fail closed instead of normalizing drift.

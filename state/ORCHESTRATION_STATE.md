@@ -8,14 +8,14 @@
 
 ## Current Phase
 
-- `Verified`: Active roadmap phase: Phase 3 shoppable-media-overlay implementation planning complete
-- `Verified`: Last completed phase slice: Phase 3 shoppable-media-overlay boundary package
-- `Inference`: Next bounded slice: implement the first overlay-style shoppable-media proof inside the exact approved six-file runtime boundary
+- `Verified`: Active roadmap phase: Phase 3 shoppable-media-overlay verification after implementation
+- `Verified`: Last completed phase slice: Phase 3 shoppable-media-overlay implementation slice
+- `Inference`: Next bounded slice: verify exact scope and drift status for the first overlay-style shoppable-media proof
 
 ## Approval State
 
 - `Verified`: Current next action approval: APPROVED
-- `Verified`: Approval basis: `UNIT-118` defined the overlay-style interaction boundary and authorized one bounded runtime slice
+- `Verified`: Approval basis: `UNIT-119` implemented the first overlay-style shoppable-media surface inside the exact approved six-file runtime boundary and is ready for verification
 
 ## Lock State
 

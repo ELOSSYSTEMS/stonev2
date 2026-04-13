@@ -1932,3 +1932,96 @@ canvas {
 .stone-shoppable-media-drawer__empty {
   margin: 0;
 }
+
+.stone-shoppable-media-overlay {
+  display: grid;
+  gap: var(--stone-space-4);
+}
+
+.stone-shoppable-media-overlay__media-wrap {
+  position: relative;
+}
+
+.stone-shoppable-media-overlay__media {
+  position: relative;
+  margin: 0;
+}
+
+.stone-shoppable-media-overlay__image {
+  display: block;
+  width: 100%;
+  height: auto;
+  border-radius: var(--stone-radius-2);
+}
+
+.stone-shoppable-media-overlay__marker {
+  position: absolute;
+  transform: translate(-50%, -50%);
+  z-index: 2;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  inline-size: 2.25rem;
+  block-size: 2.25rem;
+  border-radius: 999px;
+  border: 1px solid var(--stone-color-border-strong);
+  background: rgba(255, 255, 255, 0.92);
+  color: var(--stone-color-ink);
+  font-size: 0.95rem;
+  font-weight: 600;
+  cursor: pointer;
+  box-shadow: 0 0.5rem 1.5rem rgba(0, 0, 0, 0.12);
+}
+
+.stone-shoppable-media-overlay__marker[aria-expanded='true'] {
+  background: var(--stone-color-ink);
+  color: var(--stone-color-surface-contrast, #fff);
+}
+
+.stone-shoppable-media-overlay__layer {
+  position: absolute;
+  inset: auto var(--stone-space-3) var(--stone-space-3) var(--stone-space-3);
+  z-index: 3;
+  display: grid;
+}
+
+.stone-shoppable-media-overlay__panel-shell {
+  display: grid;
+  gap: var(--stone-space-3);
+  padding: var(--stone-space-4);
+  border: 1px solid rgba(255, 255, 255, 0.22);
+  border-radius: var(--stone-radius-2);
+  background: rgba(17, 17, 17, 0.88);
+  color: var(--stone-color-surface-contrast, #fff);
+  backdrop-filter: blur(0.75rem);
+}
+
+.stone-shoppable-media-overlay__panel-header {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.stone-shoppable-media-overlay__close {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-block-size: 2.5rem;
+  padding-inline: 0.9rem;
+  border: 1px solid rgba(255, 255, 255, 0.24);
+  border-radius: 999px;
+  background: transparent;
+  color: inherit;
+  cursor: pointer;
+}
+
+.stone-shoppable-media-overlay__panel[data-stone-overlay-panel-active='false'] {
+  display: none;
+}
+
+.js .stone-shoppable-media-overlay[data-stone-overlay-open='false'] .stone-shoppable-media-overlay__layer {
+  display: none;
+}
+
+.stone-shoppable-media-overlay__empty {
+  margin: 0;
+}

@@ -2,29 +2,29 @@
 
 ## Current Phase
 
-- `Verified`: Roadmap phase: the repo now has a docs-only boundary for the first overlay-style shoppable-media proof.
+- `Verified`: Roadmap phase: the first overlay-style shoppable-media implementation slice is complete and awaiting verification.
 
 ## Approved Next Action
 
-- `Verified`: `UNIT-119` execute the shoppable-media overlay slice.
+- `Verified`: `UNIT-120` verify the shoppable-media overlay slice.
 
 ## Last Completed Unit
 
-- `Verified`: Unit ID: `UNIT-118`
-- `Verified`: Summary: authored the shoppable-media overlay boundary package, defined one bounded section-scoped layered overlay reveal as the next honest family proof, and authorized one exact six-file runtime package.
+- `Verified`: Unit ID: `UNIT-119`
+- `Verified`: Summary: implemented one section-scoped shoppable-media overlay section with two local marker controls, one local close control, two unchanged product cards, and local progressive JS inside `project/assets/stone-runtime.js` while staying inside the exact approved six-file runtime boundary.
 
 ## Verification Status
 
-- `Verified`: Verdict: PASS for `UNIT-118`; the package stayed docs-only and defined explicit future runtime surfaces and stop conditions.
-- `Verified`: Evidence: plan package written under `workspace/plans/phase-3-shoppable-media-overlay-boundary-v1/`; state and handoff advanced; harness checks pending before commit.
+- `Verified`: Verdict: implementation PASS for `UNIT-119`; the shoppable-media overlay slice is ready for bounded verification.
+- `Verified`: Evidence: template and locale parse via `node -`; settings-shape and scope checks via `grep` and `node -`; forbidden-scope grep via `grep`; protected-surface and disallowed-surface diff via `git diff --name-only`; exact runtime boundary validation via `node -`.
 
 ## Active Blockers
 
-- `Verified`: Runtime overlay work remains unstarted.
-- `Inference`: If implementation cannot stay section-scoped and six-file bounded, the correct move is to stop rather than widen the overlay boundary.
+- `Verified`: Runtime expansion remains paused pending `UNIT-120` verification.
+- `Inference`: Any discovered need for modal semantics, dialog API, document-level overlay containers, snippet changes, blocks, third-product expansion, loops, or JS outside `project/assets/stone-runtime.js` remains a new boundary problem rather than permission to widen `UNIT-119`.
 
 ## Resume Notes
 
-- `Verified`: Resume from branch `codex/unit-118-shoppable-media-overlay-boundary-plan`.
-- `Verified`: `UNIT-119` is the next approved runtime slice.
-- `Verified`: Do not edit `project/snippets/stone-product-card.liquid`, `project/layout/theme.liquid`, or `project/config/settings_schema.json`.
+- `Verified`: Resume from branch `codex/unit-119-shoppable-media-overlay-impl`.
+- `Verified`: `UNIT-120` must confirm exact six-file runtime scope, unchanged snippet reuse, exact settings shape, locale parity, and section-scoped JS confinement.
+- `Verified`: Do not authorize further runtime work until `UNIT-120` records PASS or FAIL.

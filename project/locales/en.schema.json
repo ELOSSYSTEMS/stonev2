@@ -2477,6 +2477,75 @@
           }
         }
       }
+    },
+    "stone_shoppable_media_overlay": {
+      "name": "Shoppable media overlay",
+      "close_label": "Close product layer",
+      "empty_state": "Select one image and two products to validate the bounded shoppable media overlay surface.",
+      "settings": {
+        "heading": {
+          "label": "Section heading",
+          "info": "Optional. Displays a neutral heading above the media surface."
+        },
+        "media_image": {
+          "label": "Primary image",
+          "info": "Selects the still image used for the overlay surface."
+        },
+        "first_product": {
+          "label": "First product",
+          "info": "Selects the first linked product."
+        },
+        "second_product": {
+          "label": "Second product",
+          "info": "Selects the second linked product."
+        },
+        "marker_one_x": {
+          "label": "Marker 1 horizontal position",
+          "info": "Controls the horizontal position of the first marker on the image."
+        },
+        "marker_one_y": {
+          "label": "Marker 1 vertical position",
+          "info": "Controls the vertical position of the first marker on the image."
+        },
+        "marker_two_x": {
+          "label": "Marker 2 horizontal position",
+          "info": "Controls the horizontal position of the second marker on the image."
+        },
+        "marker_two_y": {
+          "label": "Marker 2 vertical position",
+          "info": "Controls the vertical position of the second marker on the image."
+        },
+        "width_mode": {
+          "label": "Width mode",
+          "info": "Controls the container width for the section shell.",
+          "options": {
+            "narrow": {
+              "label": "Narrow"
+            },
+            "standard": {
+              "label": "Standard"
+            },
+            "wide": {
+              "label": "Wide"
+            }
+          }
+        },
+        "spacing_mode": {
+          "label": "Spacing mode",
+          "info": "Controls the vertical spacing for the section shell.",
+          "options": {
+            "compact": {
+              "label": "Compact"
+            },
+            "standard": {
+              "label": "Balanced"
+            },
+            "relaxed": {
+              "label": "Relaxed"
+            }
+          }
+        }
+      }
     }
   },
   "snippets": {

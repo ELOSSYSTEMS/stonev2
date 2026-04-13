@@ -104,6 +104,57 @@
     });
   };
 
+
+
+  const initializeShoppableMediaOverlay = () => {
+    const sections = document.querySelectorAll("[data-stone-shoppable-overlay]");
+
+    sections.forEach((section) => {
+      const controls = Array.from(
+        section.querySelectorAll("[data-stone-overlay-control]")
+      );
+      const panels = Array.from(
+        section.querySelectorAll("[data-stone-overlay-panel]")
+      );
+      const closeControl = section.querySelector("[data-stone-overlay-close]");
+      const overlayLayer = section.querySelector("[data-stone-overlay-layer]");
+
+      if (controls.length !== 2 || panels.length !== 2 || !closeControl || !overlayLayer) {
+        return;
+      }
+
+      const setOpenState = (key) => {
+        const isOpen = Boolean(key);
+        section.dataset.stoneOverlayOpen = isOpen ? "true" : "false";
+        overlayLayer.hidden = !isOpen;
+
+        controls.forEach((control) => {
+          const isActive = isOpen && control.dataset.stoneOverlayControl === key;
+          control.setAttribute("aria-expanded", isActive ? "true" : "false");
+        });
+
+        panels.forEach((panel) => {
+          const isActive = isOpen && panel.dataset.stoneOverlayPanel === key;
+          panel.dataset.stoneOverlayPanelActive = isActive ? "true" : "false";
+          panel.hidden = !isActive;
+        });
+      };
+
+      controls.forEach((control) => {
+        control.addEventListener("click", () => {
+          setOpenState(control.dataset.stoneOverlayControl || "one");
+        });
+      });
+
+      closeControl.addEventListener("click", () => {
+        setOpenState(null);
+      });
+
+      setOpenState(null);
+      section.dataset.stoneOverlayReady = "true";
+    });
+  };
+
   root.classList.remove("no-js");
   root.classList.add("js");
   body.dataset.stoneInitialized = "true";
@@ -111,6 +162,7 @@
   applyMotionPreference();
   initializeShoppableMediaFocus();
   initializeShoppableMediaDrawer();
+  initializeShoppableMediaOverlay();
 
   if (motionQuery) {
     if (typeof motionQuery.addEventListener === "function") {
