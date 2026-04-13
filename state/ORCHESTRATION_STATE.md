@@ -8,14 +8,14 @@
 
 ## Current Phase
 
-- `Verified`: Active roadmap phase: Phase 3 docs-only post-shoppable-media-overlay frontier review
-- `Verified`: Last completed phase slice: Phase 3 shoppable-media-overlay verification
-- `Inference`: Next bounded slice: re-evaluate the shoppable-media frontier before authorizing more runtime work
+- `Verified`: Active roadmap phase: Phase 3 docs-only shoppable-media motion-boundary planning
+- `Verified`: Last completed phase slice: Phase 3 post-shoppable-media-overlay frontier review
+- `Inference`: Next bounded slice: define the smallest honest motion-aware boundary before any future runtime work
 
 ## Approval State
 
 - `Verified`: Current next action approval: APPROVED
-- `Verified`: Approval basis: `UNIT-120` verified the first overlay-style shoppable-media proof and advanced the governed run to a docs-only frontier decision
+- `Verified`: Approval basis: `UNIT-121` concluded that the still-image interaction lane is exhausted and that one docs-only motion-boundary package is the next honest decision point
 
 ## Lock State
 

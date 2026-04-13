@@ -8,17 +8,17 @@
 
 ## Approved Unit
 
-- `UNIT-121` Author the post-shoppable-media-overlay frontier review.
+- `UNIT-122` Author the shoppable-media motion boundary package.
 
 ## Objective
 
-- `Verified`: Re-evaluate the shoppable-media family after the verified first overlay-style proof.
-- `Verified`: Decide whether the next honest move is another bounded shoppable-media expansion, a pause, or a shift to a different governed planning problem.
-- `Verified`: Keep this next unit docs-only and fail closed on runtime widening.
+- `Verified`: Define the smallest honest motion-aware or video-aware boundary for the shoppable-media family after the verified overlay proof.
+- `Verified`: Keep the unit docs-only.
+- `Verified`: Define exact allowed and disallowed surfaces before any future runtime motion work is considered.
 
 ## Plan Reference
 
-- `Path:` `workspace/plans/phase-3-shoppable-media-overlay-boundary-v1/PLAN.v1.md`
+- `Path:` `workspace/plans/phase-3-post-shoppable-media-overlay-frontier-review-v1/PLAN.v1.md`
 
 ## Allowed Files Or Surfaces
 
@@ -38,4 +38,4 @@
 
 ## Stop Condition
 
-Stop if the frontier review needs runtime edits, JS authorization beyond the bounded section-scoped overlay model, protected-surface authorization, or any attempt to authorize a new slice without a precise distinctness case, explicit surface rules, and exact stop conditions. Fail closed instead of normalizing expansion.
+Stop if the boundary package starts authorizing runtime edits directly, hides autoplay or broader media-runtime behavior inside vague motion language, or cannot define an exact bounded motion-aware interaction model with explicit stop conditions. Fail closed instead of normalizing expansion.

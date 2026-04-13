@@ -3,9 +3,9 @@
 ## Snapshot
 
 - `Verified`: Repo state: harness foundation populated
-- `Verified`: Storefront runtime state: bounded merchandising is complete, the first static shoppable-media proof is verified, the first interaction-aware focus proof is verified, the first drawer-style proof is verified, and the first overlay-style shoppable-media family surface is now verified.
+- `Verified`: Storefront runtime state: bounded merchandising is complete, the first static shoppable-media proof is verified, the first interaction-aware focus proof is verified, the first drawer-style shoppable-media proof is verified, and the first overlay-style shoppable-media proof is verified.
 - `Verified`: Architecture authority: the five documents under `docs/architecture/`
-- `Verified`: Current active planning package: `workspace/plans/phase-3-shoppable-media-overlay-boundary-v1/`
+- `Verified`: Current active planning package: `workspace/plans/phase-3-post-shoppable-media-overlay-frontier-review-v1/`
 
 ## Canonical Inputs
 
@@ -17,7 +17,7 @@
 - `Verified`: `workspace/specs/STONEV2_SECTION_FAMILY_LEDGER.md`
 - `Verified`: `workspace/specs/STONEV2_SETTINGS_TAXONOMY.md`
 - `Verified`: `workspace/specs/STONEV2_BILINGUAL_SCHEMA_STRATEGY.md`
-- `Verified`: `workspace/plans/phase-3-shoppable-media-overlay-boundary-v1/PLAN.v1.md`
+- `Verified`: `workspace/plans/phase-3-post-shoppable-media-overlay-frontier-review-v1/PLAN.v1.md`
 
 ## Constraints
 
@@ -28,15 +28,15 @@
 - `Verified`: Preserve Hebrew-first assumptions
 - `Verified`: Treat bilingual Hebrew and English editor support as a core architectural requirement
 - `Verified`: Do not copy code or markup from external reference themes
-- `Verified`: The first overlay-style shoppable-media proof remains bounded to local JS in `project/assets/stone-runtime.js`
+- `Verified`: The next approved step is docs-only and does not authorize runtime motion work yet
 
 ## Current Outcome
 
-- `Verified`: `UNIT-119` implemented the first overlay-style shoppable-media overlay slice inside the exact approved six-file runtime boundary.
-- `Verified`: `UNIT-120` confirms exact six-file boundary compliance, unchanged `stone-product-card` reuse, exact settings shape, locale parity, and JS confinement to `project/assets/stone-runtime.js`.
-- `Inference`: The repo is ready for a docs-only post-overlay frontier review before any further family expansion.
+- `Verified`: `UNIT-121` concludes that the verified still-image shoppable-media interaction proof lane is locally exhausted.
+- `Verified`: `UNIT-121` selects one docs-only motion-boundary package as the next honest planning step inside the shoppable-media family.
+- `Inference`: The next frontier question is whether a bounded motion-aware media reveal can stay exact enough to avoid broader media-system drift.
 
 ## Risks And Blocks
 
-- `Verified`: The next approved step is docs-only.
-- `Inference`: Any future continuation must first prove a new distinctness case rather than assuming shoppable media should keep expanding automatically.
+- `Verified`: Runtime continuation remains blocked until a motion boundary is explicitly authored.
+- `Inference`: If motion behavior requires heavier media-runtime semantics, the correct move is to stop and re-plan at a higher boundary.
