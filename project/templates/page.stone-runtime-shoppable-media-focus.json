@@ -1,0 +1,19 @@
+{
+  "sections": {
+    "main": {
+      "type": "stone-shoppable-media-focus",
+      "settings": {
+        "heading": "Shoppable media focus",
+        "marker_one_x": 28,
+        "marker_one_y": 42,
+        "marker_two_x": 72,
+        "marker_two_y": 58,
+        "width_mode": "wide",
+        "spacing_mode": "standard"
+      }
+    }
+  },
+  "order": [
+    "main"
+  ]
+}

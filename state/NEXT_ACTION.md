@@ -3,18 +3,18 @@
 ## Status
 
 - `Verified`: Approval State: APPROVED
-- `Verified`: Execution Class: phase-3-runtime-implementation
+- `Verified`: Execution Class: verification
 - `Verified`: Priority: high
 
 ## Approved Unit
 
-- `UNIT-111` Execute the shoppable-media focus slice.
+- `UNIT-112` Verify the shoppable-media focus slice.
 
 ## Objective
 
-- `Verified`: Prove the first interaction-aware shoppable-media surface for Stone V2.
-- `Verified`: Keep interaction local, bounded, and free of protected-surface or heavier interaction drift.
-- `Verified`: Reuse `stone-product-card` unchanged for exactly two linked products.
+- `Verified`: Verify that the shoppable-media focus slice stayed inside the exact approved six-file runtime boundary.
+- `Verified`: Verify that `stone-shoppable-media-focus` reuses `stone-product-card` unchanged, stays limited to one image picker, two product settings, and four marker-position range settings, and keeps JS local to `project/assets/stone-runtime.js`.
+- `Verified`: Verify that the slice remained free of protected-surface or heavier interaction drift.
 
 ## Plan Reference
 
@@ -43,4 +43,4 @@
 
 ## Stop Condition
 
-Stop if implementation needs drawers, overlays, modals, snippet edits, block files, a third product, loops, heavier interaction, or JS outside `project/assets/stone-runtime.js`. Fail closed instead of normalizing expansion.
+Stop if verification finds any runtime file outside the approved six runtime files, any snippet drift, any JS outside `project/assets/stone-runtime.js`, any settings-shape drift, or any heavier shoppable-media interaction. Fail closed instead of normalizing drift.

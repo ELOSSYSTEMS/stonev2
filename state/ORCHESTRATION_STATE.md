@@ -8,14 +8,14 @@
 
 ## Current Phase
 
-- `Verified`: Active roadmap phase: Phase 3 first interaction-aware shoppable-media proof after docs-only boundary definition
-- `Verified`: Last completed phase slice: Phase 3 shoppable-media interaction boundary plan
-- `Inference`: Next bounded slice: execute one local progressive-JS shoppable-media focus proof on the approved six-file surface
+- `Verified`: Active roadmap phase: Phase 3 shoppable-media-focus verification after implementation
+- `Verified`: Last completed phase slice: Phase 3 shoppable-media-focus implementation slice
+- `Inference`: Next bounded slice: verify exact scope and drift status for the first interaction-aware shoppable-media proof
 
 ## Approval State
 
 - `Verified`: Current next action approval: APPROVED
-- `Verified`: Approval basis: `UNIT-110` formalized the first safe interaction-aware shoppable-media boundary and approved one bounded runtime implementation step
+- `Verified`: Approval basis: `UNIT-111` implemented the first interaction-aware shoppable-media surface inside the exact approved six-file runtime boundary and is ready for verification
 
 ## Lock State
 
