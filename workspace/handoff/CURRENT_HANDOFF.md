@@ -18,6 +18,7 @@
 - `Verified`: The collection support strip runtime boundary package is complete and states one exact future support-strip contract for an editor-authored collection-page-hosted strip while still keeping runtime implementation and implementation-surface authorization fail-closed.
 - `Verified`: The post-collection-support-strip runtime-boundary frontier review is complete and concludes that the support-strip lane is locally exhausted at the docs-only contract-definition edge.
 - `Verified`: The post-collection-support-strip controlled expansion proposal is complete and concludes that no later `collection companion` or broader companion-family reopening is justified from the current evidence.
+- `Verified`: The companion roadmap deferral proposal is complete and explicitly defers unresolved `collection companion` and `PDP companion` work behind later Phase 4 preset-pack planning while keeping runtime and preset implementation fail-closed.
 
 ## Current State
 
@@ -34,7 +35,8 @@
 - `Verified`: `UNIT-132` records that one exact docs-only runtime-facing `collection support strip` boundary can now be stated, but runtime implementation, runtime file scope, schema scope, and host-surface selection remain unapproved.
 - `Verified`: `UNIT-133` records that support-strip planning is locally exhausted at the docs-only contract-definition edge and that no support-strip implementation-admission proposal is justified from the current evidence.
 - `Verified`: `UNIT-134` records that no later `collection companion` or broader companion-family reopening is justified from the current evidence and that only a docs-only companion roadmap deferral proposal remains approved.
-- `Verified`: `state/NEXT_ACTION.md` now points to `UNIT-135`.
+- `Verified`: `UNIT-135` records that unresolved `collection companion` and `PDP companion` work are explicitly deferred behind later Phase 4 preset-pack planning.
+- `Verified`: `state/NEXT_ACTION.md` now points to `UNIT-136`.
 
 ## Changed Or Seeded Files
 
@@ -93,6 +95,11 @@
 - `Verified`: `workspace/plans/phase-3-post-collection-support-strip-controlled-expansion-proposal-v1/CHECKS.v1.md`
 - `Verified`: `workspace/plans/phase-3-post-collection-support-strip-controlled-expansion-proposal-v1/RISKS.v1.md`
 - `Verified`: `workspace/plans/phase-3-post-collection-support-strip-controlled-expansion-proposal-v1/HANDOFF.v1.md`
+- `Verified`: `workspace/plans/phase-3-companion-roadmap-deferral-proposal-v1/PLAN.v1.md`
+- `Verified`: `workspace/plans/phase-3-companion-roadmap-deferral-proposal-v1/ASSUMPTIONS.v1.md`
+- `Verified`: `workspace/plans/phase-3-companion-roadmap-deferral-proposal-v1/CHECKS.v1.md`
+- `Verified`: `workspace/plans/phase-3-companion-roadmap-deferral-proposal-v1/RISKS.v1.md`
+- `Verified`: `workspace/plans/phase-3-companion-roadmap-deferral-proposal-v1/HANDOFF.v1.md`
 - `Verified`: `state/ORCHESTRATION_STATE.md`
 - `Verified`: `state/STATUS.md`
 - `Verified`: `state/NEXT_ACTION.md`
@@ -116,11 +123,12 @@
 - `Verified`: No support-strip implementation-admission proposal is approved from the current frontier review.
 - `Verified`: No later `collection companion` reopening is approved from the current controlled-expansion proposal.
 - `Verified`: No broader companion-family reopening is approved from the current controlled-expansion proposal.
-- `Inference`: The next honest move is a docs-only companion roadmap deferral proposal rather than another family reopening.
+- `Verified`: Unresolved `collection companion` and `PDP companion` work are explicitly deferred behind later Phase 4 preset-pack planning.
+- `Inference`: The next honest move is a docs-only Phase 4 preset-pack sequencing proposal rather than another family reopening or direct preset implementation.
 
 ## Recommended Next Step
 
-- `Verified`: Execute `UNIT-135` as a docs-only Phase 3 companion roadmap deferral proposal.
+- `Verified`: Execute `UNIT-136` as a docs-only Phase 4 preset-pack sequencing proposal.
 
 ## Resume Checks
 
@@ -136,5 +144,6 @@
 - `Verified`: Treat `UNIT-132` as accepted evidence that one exact docs-only runtime-facing boundary can now be stated while runtime implementation and implementation-surface authorization remain fail-closed.
 - `Verified`: Treat `UNIT-133` as accepted evidence that support-strip planning is locally exhausted at the docs-only contract-definition edge and does not justify a support-strip implementation-admission step.
 - `Verified`: Treat `UNIT-134` as accepted evidence that no later `collection companion` or broader companion-family reopening is justified from the current evidence and that only a roadmap-deferral planning question remains approved.
-- `Verified`: Run `node HARNESS/checks/harness-check.mjs` during the `UNIT-135` planning pass.
+- `Verified`: Treat `UNIT-135` as accepted evidence that unresolved `collection companion` and `PDP companion` work are explicitly deferred behind later Phase 4 preset-pack planning.
+- `Verified`: Run `node HARNESS/checks/harness-check.mjs` during the `UNIT-136` planning pass.
 - `Verified`: Do not authorize new runtime work, broader companion-family reopening, or preset implementation unless a later higher-boundary docs-only proposal produces a fresh explicit approval package.

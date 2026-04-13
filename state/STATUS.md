@@ -5,7 +5,7 @@
 - `Verified`: Repo state: harness foundation populated
 - `Verified`: Storefront runtime state: bounded merchandising is complete, the first static shoppable-media proof is verified, the first interaction-aware focus proof is verified, the first drawer-style shoppable-media proof is verified, the first overlay-style shoppable-media proof is verified, the first motion-aware shoppable-media boundary is defined, and the first motion-aware shoppable-media story proof is now verified.
 - `Verified`: Architecture authority: the five documents under `docs/architecture/`
-- `Verified`: Current active planning package: `workspace/plans/phase-3-post-collection-support-strip-controlled-expansion-proposal-v1/`
+- `Verified`: Current active planning package: `workspace/plans/phase-3-companion-roadmap-deferral-proposal-v1/`
 
 ## Canonical Inputs
 
@@ -17,7 +17,7 @@
 - `Verified`: `workspace/specs/STONEV2_SECTION_FAMILY_LEDGER.md`
 - `Verified`: `workspace/specs/STONEV2_SETTINGS_TAXONOMY.md`
 - `Verified`: `workspace/specs/STONEV2_BILINGUAL_SCHEMA_STRATEGY.md`
-- `Verified`: `workspace/plans/phase-3-post-collection-support-strip-controlled-expansion-proposal-v1/PLAN.v1.md`
+- `Verified`: `workspace/plans/phase-3-companion-roadmap-deferral-proposal-v1/PLAN.v1.md`
 
 ## Constraints
 
@@ -44,7 +44,8 @@
 - `Verified`: `UNIT-132` concludes that one exact docs-only runtime-facing `collection support strip` boundary can now be stated for an editor-authored collection-page-hosted support strip, while runtime implementation, runtime file scope, schema scope, and host-surface selection still fail closed.
 - `Verified`: `UNIT-133` concludes that support-strip planning is locally exhausted at the docs-only contract-definition edge and that no support-strip implementation-admission proposal is justified from the current evidence.
 - `Verified`: `UNIT-134` concludes that no later `collection companion` or broader companion-family reopening is justified from the current evidence and that any continuation should move only to a docs-only companion roadmap deferral proposal.
-- `Inference`: The repo is now positioned at a roadmap-ordering question rather than another support-strip step, another collection-companion reopening, another broader companion-family reopening, or direct preset-pack implementation.
+- `Verified`: `UNIT-135` concludes that unresolved `collection companion` and `PDP companion` work should be explicitly deferred behind later Phase 4 preset-pack planning rather than remain only implicitly paused inside Phase 3.
+- `Inference`: The repo is now positioned at a docs-only Phase 4 preset-pack sequencing question rather than another support-strip step, another collection-companion reopening, another broader companion-family reopening, or direct preset-pack implementation.
 
 ## Risks And Blocks
 
@@ -59,4 +60,5 @@
 - `Verified`: No support-strip implementation-admission proposal is approved from the current frontier review.
 - `Verified`: No later `collection companion` reopening is approved from the current controlled-expansion proposal.
 - `Verified`: No broader companion-family reopening is approved from the current controlled-expansion proposal.
-- `Inference`: Any continuation now requires one docs-only roadmap-deferral proposal before preset sequencing or later companion-family reconsideration could be evaluated honestly.
+- `Verified`: Unresolved `collection companion` and `PDP companion` work are explicitly deferred behind later Phase 4 preset-pack planning.
+- `Inference`: Any continuation now requires one docs-only Phase 4 preset-pack sequencing proposal before preset implementation or any later companion-family reconsideration could be evaluated honestly.

@@ -8,18 +8,18 @@
 
 ## Approved Unit
 
-- `UNIT-135` Author the Phase 3 companion roadmap deferral proposal.
+- `UNIT-136` Author the Phase 4 preset-pack sequencing proposal.
 
 ## Objective
 
-- `Verified`: Determine whether unresolved `collection companion` and `PDP companion` work should now remain paused inside Phase 3 or be explicitly deferred behind Phase 4 preset-pack planning.
+- `Verified`: Determine how Phase 4 preset-pack planning should begin now that unresolved `collection companion` and `PDP companion` work are explicitly deferred behind later preset planning.
 - `Verified`: Keep the work docs-only and fail closed on runtime authorization.
+- `Verified`: Do not treat preset-pack sequencing as implementation approval.
 - `Verified`: Do not reopen broader `collection companion` review, broader companion-family review, support-strip implementation admission, collection-derived strip content, collection-template rewrites, archive controls, navigation-system behavior, collection-banner authority, curated-explainer/editorial drift, `PDP companion`, broader motion/media scope, preset-pack implementation, wider JS, heavier commerce, or `product-card behavior` reuse as implicit next steps.
-- `Verified`: Compare explicit pause versus explicit roadmap deferral semantics without treating preset-pack sequencing as implementation approval.
 
 ## Plan Reference
 
-- `Path:` `workspace/plans/phase-3-post-collection-support-strip-controlled-expansion-proposal-v1/HANDOFF.v1.md`
+- `Path:` `workspace/plans/phase-3-companion-roadmap-deferral-proposal-v1/HANDOFF.v1.md`
 
 ## Allowed Files Or Surfaces
 

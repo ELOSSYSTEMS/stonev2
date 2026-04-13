@@ -8,14 +8,14 @@
 
 ## Current Phase
 
-- `Verified`: Active roadmap phase: Phase 3 post-collection-support-strip controlled expansion proposal completed; repo awaiting a companion roadmap deferral proposal rather than another companion-family reopening
-- `Verified`: Last completed phase slice: Phase 3 post-collection-support-strip controlled expansion proposal
-- `Inference`: Next bounded slice: author a docs-only Phase 3 companion roadmap deferral proposal after the collection-first companion reopening path was judged exhausted at the support-strip contract-definition edge
+- `Verified`: Active roadmap phase: Phase 3 companion roadmap deferral proposal completed; repo awaiting a Phase 4 preset-pack sequencing proposal with unresolved companion-family work explicitly deferred
+- `Verified`: Last completed phase slice: Phase 3 companion roadmap deferral proposal
+- `Inference`: Next bounded slice: author a docs-only Phase 4 preset-pack sequencing proposal after unresolved `collection companion` and `PDP companion` work were explicitly deferred behind later preset planning
 
 ## Approval State
 
 - `Verified`: Current next action approval: APPROVED
-- `Verified`: Approval basis: `UNIT-134` concluded that no later `collection companion` or broader companion-family reopening is justified from the current evidence and that any continuation must move only to a docs-only companion roadmap deferral proposal as `UNIT-135`
+- `Verified`: Approval basis: `UNIT-135` concluded that unresolved `collection companion` and `PDP companion` work are explicitly deferred behind later Phase 4 preset-pack planning and that any continuation must move only to a docs-only Phase 4 preset-pack sequencing proposal as `UNIT-136`
 
 ## Lock State
 
