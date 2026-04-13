@@ -3,7 +3,7 @@
 ## Snapshot
 
 - `Verified`: Repo state: harness foundation populated
-- `Verified`: Storefront runtime state: bounded merchandising is complete, the first static shoppable-media proof is verified, the first interaction-aware shoppable-media focus proof is verified, the first drawer-style shoppable-media proof is verified, and the first overlay-style shoppable-media surface is now implemented inside the approved six-file runtime boundary.
+- `Verified`: Storefront runtime state: bounded merchandising is complete, the first static shoppable-media proof is verified, the first interaction-aware focus proof is verified, the first drawer-style proof is verified, and the first overlay-style shoppable-media family surface is now verified.
 - `Verified`: Architecture authority: the five documents under `docs/architecture/`
 - `Verified`: Current active planning package: `workspace/plans/phase-3-shoppable-media-overlay-boundary-v1/`
 
@@ -28,17 +28,15 @@
 - `Verified`: Preserve Hebrew-first assumptions
 - `Verified`: Treat bilingual Hebrew and English editor support as a core architectural requirement
 - `Verified`: Do not copy code or markup from external reference themes
-- `Verified`: JS is allowed only in `project/assets/stone-runtime.js` for this proof
-- `Verified`: No protected-surface or snippet exception is approved for this proof
+- `Verified`: The first overlay-style shoppable-media proof remains bounded to local JS in `project/assets/stone-runtime.js`
 
 ## Current Outcome
 
-- `Verified`: `UNIT-119` implemented `project/sections/stone-shoppable-media-overlay.liquid`, `project/templates/page.stone-runtime-shoppable-media-overlay.json`, bounded CSS in `project/assets/stone-base.css`, local progressive JS in `project/assets/stone-runtime.js`, and paired locale updates in `project/locales/he.default.schema.json` and `project/locales/en.schema.json`.
-- `Verified`: `UNIT-119` stayed inside the exact approved six runtime files and reused `stone-product-card` unchanged.
-- `Verified`: `UNIT-119` stayed limited to one image picker, two product settings, and four marker-position range settings.
-- `Inference`: The repo is ready for bounded verification of the first overlay-style shoppable-media family proof.
+- `Verified`: `UNIT-119` implemented the first overlay-style shoppable-media overlay slice inside the exact approved six-file runtime boundary.
+- `Verified`: `UNIT-120` confirms exact six-file boundary compliance, unchanged `stone-product-card` reuse, exact settings shape, locale parity, and JS confinement to `project/assets/stone-runtime.js`.
+- `Inference`: The repo is ready for a docs-only post-overlay frontier review before any further family expansion.
 
 ## Risks And Blocks
 
-- `Verified`: Runtime expansion remains paused pending `UNIT-120` verification.
-- `Inference`: Any discovered need for modal semantics, dialog API, document-level overlay containers, snippet changes, blocks, third-product expansion, loops, or JS outside `project/assets/stone-runtime.js` should trigger a new docs-only boundary decision rather than widening the approved slice.
+- `Verified`: The next approved step is docs-only.
+- `Inference`: Any future continuation must first prove a new distinctness case rather than assuming shoppable media should keep expanding automatically.

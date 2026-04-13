@@ -8,6 +8,38 @@
 
 ### Session Entry
 
+- Timestamp: 2026-04-13 13:35 Asia/Jerusalem
+- Skill or Mode: `project-verify`
+- Summary: verified the shoppable-media-overlay slice, confirmed exact six-file scope, unchanged product-card reuse, exact settings shape, locale parity, and JS confinement to `project/assets/stone-runtime.js`
+- Files changed:
+  - `state/ORCHESTRATION_STATE.md`
+  - `state/STATUS.md`
+  - `state/NEXT_ACTION.md`
+  - `state/FEATURE_STATUS.md`
+  - `state/PROGRESS.md`
+  - `state/SESSION_LOG.md`
+  - `workspace/handoff/CURRENT_HANDOFF.md`
+- Checks run:
+  - `git show --stat --name-only --format=fuller HEAD`
+  - `git diff --name-only HEAD^ HEAD`
+  - `git diff --name-only HEAD^ HEAD -- project`
+  - template and locale parity via `node -`
+  - shared-snippet and settings-shape checks via `grep` and `node -`
+  - forbidden-scope grep via `grep`
+  - protected-surface and disallowed-surface diff via `git diff --name-only`
+  - exact runtime boundary validation via `node -`
+  - `node HARNESS/checks/check-state-artifacts.mjs`
+  - `node HARNESS/checks/check-next-action-scope.mjs`
+  - `node HARNESS/checks/check-plan-exists.mjs`
+  - `node HARNESS/checks/check-handoff-completeness.mjs`
+  - `node HARNESS/checks/check-approval-state.mjs`
+  - `node HARNESS/checks/check-lock-state.mjs`
+  - `node HARNESS/checks/harness-check.mjs`
+- Result: PASS
+- Follow-up: execute `UNIT-121` only as the docs-only post-shoppable-media-overlay frontier review
+
+### Session Entry
+
 - Timestamp: 2026-04-13 13:27 Asia/Jerusalem
 - Skill or Mode: `project-build`
 - Summary: implemented the bounded shoppable-media-overlay slice, added the new section and template, added local overlay-state JS in `project/assets/stone-runtime.js`, and stayed inside the approved six-file surface
