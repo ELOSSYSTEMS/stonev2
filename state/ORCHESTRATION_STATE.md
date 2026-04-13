@@ -8,14 +8,14 @@
 
 ## Current Phase
 
-- `Verified`: Active roadmap phase: Phase 3 docs-only post-curated-product-trio frontier review
-- `Verified`: Last completed phase slice: Phase 3 curated-product-trio verification
-- `Inference`: Next bounded slice: re-evaluate the merchandising frontier before authorizing more runtime work
+- `Verified`: Active roadmap phase: Phase 3 docs-only post-merchandising controlled-expansion planning
+- `Verified`: Last completed phase slice: Phase 3 post-curated-product frontier review
+- `Inference`: Next bounded slice: formalize the next higher-boundary planning problem before any further runtime work
 
 ## Approval State
 
 - `Verified`: Current next action approval: APPROVED
-- `Verified`: Approval basis: `UNIT-103` verified the curated product trio slice and advanced the governed run to a docs-only frontier decision
+- `Verified`: Approval basis: `UNIT-104` concluded that the current bounded merchandising lane is locally exhausted and advanced the governed run to a docs-only controlled-expansion proposal
 
 ## Lock State
 

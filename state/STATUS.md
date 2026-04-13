@@ -5,7 +5,7 @@
 - `Verified`: Repo state: harness foundation populated
 - `Verified`: Storefront runtime state: the broader merchandising foundation slice, spotlight product-discovery variant, verified category-entry slice, verified category-entry spotlight variant, verified category media band slice, verified featured product showcase slice, verified product pair comparison slice, and verified curated product trio slice are now all proven bounded merchandising-family surfaces.
 - `Verified`: Architecture authority: the five documents under `docs/architecture/`
-- `Verified`: Current active planning package: `workspace/plans/phase-3-curated-product-trio-boundary-v1/`
+- `Verified`: Current active planning package: `workspace/plans/phase-3-post-curated-product-frontier-review-v1/`
 
 ## Canonical Inputs
 
@@ -17,7 +17,7 @@
 - `Verified`: `workspace/specs/STONEV2_SECTION_FAMILY_LEDGER.md`
 - `Verified`: `workspace/specs/STONEV2_SETTINGS_TAXONOMY.md`
 - `Verified`: `workspace/specs/STONEV2_BILINGUAL_SCHEMA_STRATEGY.md`
-- `Verified`: `workspace/plans/phase-3-curated-product-trio-boundary-v1/PLAN.v1.md`
+- `Verified`: `workspace/plans/phase-3-post-curated-product-frontier-review-v1/PLAN.v1.md`
 
 ## Constraints
 
@@ -28,15 +28,15 @@
 - `Verified`: Preserve Hebrew-first assumptions
 - `Verified`: Treat bilingual Hebrew and English editor support as a core architectural requirement
 - `Verified`: Do not copy code or markup from external reference themes
-- `Verified`: The verified curated product trio slice remains non-JS and product-link-only
+- `Verified`: No further automatic merchandising runtime slice is approved under the current bounded lane
 
 ## Current Outcome
 
-- `Verified`: `UNIT-102` implemented the curated product trio slice inside the exact approved six-file runtime boundary.
-- `Verified`: `UNIT-103` confirms exact six-file boundary compliance, shared `stone-product-card` reuse, exactly three explicit product settings, locale parity, and no protected-surface or heavier-commerce drift.
-- `Inference`: The repo is ready for a docs-only post-curated-product frontier review before any further runtime expansion.
+- `Verified`: `UNIT-104` concludes that the current bounded merchandising lane is locally exhausted after the verified curated product trio slice.
+- `Verified`: The next honest move is a docs-only post-merchandising controlled-expansion proposal rather than another small runtime slice.
+- `Inference`: Stone V2 is now at a safe pause point for bounded merchandising runtime.
 
 ## Risks And Blocks
 
-- `Verified`: The next approved step is docs-only.
-- `Inference`: Any future runtime continuation must first prove a new distinctness case rather than assuming the merchandising family should keep expanding automatically.
+- `Verified`: Another automatic merchandising runtime slice is blocked by governance.
+- `Inference`: Any future continuation must first establish a higher-boundary planning package before runtime work resumes.

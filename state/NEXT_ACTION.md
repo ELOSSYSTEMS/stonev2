@@ -8,17 +8,17 @@
 
 ## Approved Unit
 
-- `UNIT-104` Author the post-curated-product-trio merchandising frontier review.
+- `UNIT-105` Author the post-merchandising controlled-expansion proposal.
 
 ## Objective
 
-- `Verified`: Re-evaluate the merchandising family after the verified curated product trio slice.
-- `Verified`: Decide whether the next honest move is another bounded merchandising-family expansion, a pause, or a shift to a different governed planning problem.
-- `Verified`: Keep this next unit docs-only and fail closed on runtime widening.
+- `Verified`: Formalize the next honest higher-boundary planning problem after the bounded merchandising runway.
+- `Verified`: Keep the work docs-only.
+- `Verified`: Do not authorize runtime implementation until a larger boundary is made explicit.
 
 ## Plan Reference
 
-- `Path:` `workspace/plans/phase-3-curated-product-trio-boundary-v1/PLAN.v1.md`
+- `Path:` `workspace/plans/phase-3-post-curated-product-frontier-review-v1/PLAN.v1.md`
 
 ## Allowed Files Or Surfaces
 
@@ -38,4 +38,4 @@
 
 ## Stop Condition
 
-Stop if the frontier review needs runtime edits, protected-surface edits, JS authorization, or any attempt to authorize a new slice without a precise distinctness case, exact scope, explicit disallowed behavior, and exact stop conditions. Fail closed instead of normalizing expansion.
+Stop if the proposal starts authorizing runtime edits directly, tries to smuggle in another small merchandising runtime slice, or weakens the earlier disallowed-scope rules. Fail closed instead of normalizing expansion.

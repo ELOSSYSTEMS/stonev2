@@ -2,29 +2,29 @@
 
 ## Current Phase
 
-- `Verified`: Roadmap phase: the bounded curated product trio slice is verified and the repo is positioned for a docs-only post-curated-product frontier review.
+- `Verified`: Roadmap phase: the curated product trio slice is verified and the bounded merchandising runway is now paused at a docs-only post-frontier decision point.
 
 ## Approved Next Action
 
-- `Verified`: `UNIT-104` author the post-curated-product-trio merchandising frontier review.
+- `Verified`: `UNIT-105` author the post-merchandising controlled-expansion proposal.
 
 ## Last Completed Unit
 
-- `Verified`: Unit ID: `UNIT-103`
-- `Verified`: Summary: verified that the curated product trio slice stayed inside the exact approved six-file runtime boundary, reused `stone-product-card`, kept exactly three explicit product settings, and avoided protected-surface or heavier-commerce drift.
+- `Verified`: Unit ID: `UNIT-104`
+- `Verified`: Summary: authored the post-curated-product frontier review, concluded that the current bounded merchandising lane is locally exhausted, and approved one docs-only controlled-expansion proposal as the next honest step.
 
 ## Verification Status
 
-- `Verified`: Verdict: PASS for `UNIT-103`; the curated product trio slice is accepted as a bounded merchandising-family proof.
-- `Verified`: Evidence: `git show --stat --name-only --format=fuller HEAD`; `git diff --name-only HEAD^ HEAD`; `git diff --name-only HEAD^ HEAD -- project`; template and locale parity via `node -`; shared-snippet and explicit product-setting checks via `grep` and `node -`; curated product-card evidence via `grep`; forbidden-scope grep via `grep`; protected-surface diff via `git diff --name-only`; exact runtime boundary validation via `node -`; `node HARNESS/checks/check-state-artifacts.mjs`; `node HARNESS/checks/check-next-action-scope.mjs`; `node HARNESS/checks/check-plan-exists.mjs`; `node HARNESS/checks/check-handoff-completeness.mjs`; `node HARNESS/checks/check-approval-state.mjs`; `node HARNESS/checks/check-lock-state.mjs`; `node HARNESS/checks/harness-check.mjs`
+- `Verified`: Verdict: PASS for `UNIT-104`; Stone V2 should not continue with another automatic merchandising runtime slice under the current bounded protocol.
+- `Verified`: Evidence: `workspace/plans/phase-3-post-curated-product-frontier-review-v1/PLAN.v1.md`; `workspace/plans/phase-3-post-curated-product-frontier-review-v1/ASSUMPTIONS.v1.md`; `workspace/plans/phase-3-post-curated-product-frontier-review-v1/CHECKS.v1.md`; `workspace/plans/phase-3-post-curated-product-frontier-review-v1/RISKS.v1.md`; `workspace/plans/phase-3-post-curated-product-frontier-review-v1/HANDOFF.v1.md`; `node HARNESS/checks/check-state-artifacts.mjs`; `node HARNESS/checks/check-next-action-scope.mjs`; `node HARNESS/checks/check-plan-exists.mjs`; `node HARNESS/checks/check-handoff-completeness.mjs`; `node HARNESS/checks/check-approval-state.mjs`; `node HARNESS/checks/check-lock-state.mjs`; `node HARNESS/checks/harness-check.mjs`
 
 ## Active Blockers
 
-- `Verified`: No runtime blocker was found inside the approved curated product trio boundary.
-- `Inference`: The next question is a frontier question, not an implementation question.
+- `Verified`: No further automatic runtime merchandising slice is approved.
+- `Inference`: Any meaningful continuation now requires a higher-boundary docs-only planning step first.
 
 ## Resume Notes
 
-- `Verified`: Resume from branch `codex/unit-103-curated-product-trio-verify`.
-- `Verified`: `UNIT-104` must stay docs-only and must decide whether merchandising still has one honest bounded next move or whether the correct action is to pause and re-plan at a higher boundary.
-- `Verified`: Do not modify `project/` in `UNIT-104`.
+- `Verified`: Resume from branch `codex/unit-104-post-curated-product-frontier-plan`.
+- `Verified`: `UNIT-105` must stay docs-only and formalize the next higher-boundary planning problem after the bounded merchandising runway.
+- `Verified`: Do not modify `project/` in `UNIT-105`.
