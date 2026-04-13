@@ -8,17 +8,17 @@
 
 ## Approved Unit
 
-- `UNIT-109` Author the post-shoppable-media-story frontier review.
+- `UNIT-110` Author the shoppable-media interaction boundary package.
 
 ## Objective
 
-- `Verified`: Re-evaluate the shoppable-media family after the verified first proof.
-- `Verified`: Decide whether the next honest move is another bounded shoppable-media expansion, a pause, or a shift to a different governed planning problem.
-- `Verified`: Keep this next unit docs-only and fail closed on runtime widening.
+- `Verified`: Formalize the smallest honest interaction-aware boundary for future shoppable-media work.
+- `Verified`: Keep the work docs-only.
+- `Verified`: Do not authorize runtime implementation until explicit interaction rules and exact surfaces are defined.
 
 ## Plan Reference
 
-- `Path:` `workspace/plans/phase-3-shoppable-media-story-boundary-v1/PLAN.v1.md`
+- `Path:` `workspace/plans/phase-3-post-shoppable-media-story-frontier-review-v1/PLAN.v1.md`
 
 ## Allowed Files Or Surfaces
 
@@ -38,4 +38,4 @@
 
 ## Stop Condition
 
-Stop if the frontier review needs runtime edits, JS authorization, protected-surface authorization, or any attempt to authorize a new slice without a precise distinctness case, explicit surface rules, and exact stop conditions. Fail closed instead of normalizing expansion.
+Stop if the boundary package starts authorizing runtime edits directly, hides JS or protected-surface exceptions inside vague wording, or tries to force another non-JS shoppable-media runtime slice. Fail closed instead of normalizing expansion.

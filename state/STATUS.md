@@ -3,9 +3,9 @@
 ## Snapshot
 
 - `Verified`: Repo state: harness foundation populated
-- `Verified`: Storefront runtime state: bounded merchandising is complete through verified curated-product-trio work, and the first shoppable-media family surface is now verified.
+- `Verified`: Storefront runtime state: bounded merchandising is complete through verified curated-product-trio work, and the first shoppable-media family surface is verified.
 - `Verified`: Architecture authority: the five documents under `docs/architecture/`
-- `Verified`: Current active planning package: `workspace/plans/phase-3-shoppable-media-story-boundary-v1/`
+- `Verified`: Current active planning package: `workspace/plans/phase-3-post-shoppable-media-story-frontier-review-v1/`
 
 ## Canonical Inputs
 
@@ -17,7 +17,7 @@
 - `Verified`: `workspace/specs/STONEV2_SECTION_FAMILY_LEDGER.md`
 - `Verified`: `workspace/specs/STONEV2_SETTINGS_TAXONOMY.md`
 - `Verified`: `workspace/specs/STONEV2_BILINGUAL_SCHEMA_STRATEGY.md`
-- `Verified`: `workspace/plans/phase-3-shoppable-media-story-boundary-v1/PLAN.v1.md`
+- `Verified`: `workspace/plans/phase-3-post-shoppable-media-story-frontier-review-v1/PLAN.v1.md`
 
 ## Constraints
 
@@ -28,15 +28,15 @@
 - `Verified`: Preserve Hebrew-first assumptions
 - `Verified`: Treat bilingual Hebrew and English editor support as a core architectural requirement
 - `Verified`: Do not copy code or markup from external reference themes
-- `Verified`: The first shoppable-media proof remains non-JS and free of protected-surface exceptions
+- `Verified`: No further automatic shoppable-media runtime slice is approved under the current non-JS lane
 
 ## Current Outcome
 
-- `Verified`: `UNIT-107` implemented the first shoppable-media story slice inside the exact approved five-file runtime boundary.
-- `Verified`: `UNIT-108` confirms exact five-file boundary compliance, unchanged `stone-product-card` reuse, exact settings shape, locale parity, and no protected-surface or heavier shoppable-media drift.
-- `Inference`: The repo is ready for a docs-only post-shoppable-media frontier review before any further family expansion.
+- `Verified`: `UNIT-109` concludes that the current non-JS shoppable-media lane is locally exhausted after the verified media-first story proof.
+- `Verified`: The next honest move is one docs-only shoppable-media interaction boundary package rather than another small static runtime slice.
+- `Inference`: Stone V2 is now at a safe docs-only pause point for shoppable-media runtime.
 
 ## Risks And Blocks
 
-- `Verified`: The next approved step is docs-only.
-- `Inference`: Any future continuation must first prove a new distinctness case rather than assuming shoppable media should keep expanding automatically.
+- `Verified`: Another automatic shoppable-media runtime slice is blocked by governance.
+- `Inference`: Any future continuation must first establish a shoppable-media interaction boundary package before runtime work resumes.

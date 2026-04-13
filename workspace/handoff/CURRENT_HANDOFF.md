@@ -3,17 +3,22 @@
 ## Summary
 
 - `Verified`: Bounded merchandising is complete and paused.
-- `Verified`: The first shoppable-media family surface is implemented and verified.
-- `Verified`: The next approved step is a docs-only post-shoppable-media frontier review.
+- `Verified`: The first shoppable-media family surface is complete and verified.
+- `Verified`: The current non-JS shoppable-media lane is now paused.
+- `Verified`: The next approved step is one docs-only shoppable-media interaction boundary package.
 
 ## Current State
 
-- `Verified`: `UNIT-107` implemented `stone-shoppable-media-story` as the first bounded shoppable-media section.
-- `Verified`: `UNIT-108` verified exact five-file scope, unchanged `stone-product-card` reuse, exact settings shape, locale parity, and the absence of protected-surface or heavier shoppable-media drift.
-- `Verified`: `state/NEXT_ACTION.md` now points to `UNIT-109`, the docs-only post-shoppable-media-story frontier review.
+- `Verified`: `UNIT-109` concluded that the current non-JS shoppable-media lane is locally exhausted and should not auto-continue into another runtime slice.
+- `Verified`: `state/NEXT_ACTION.md` now points to `UNIT-110`, the docs-only shoppable-media interaction boundary package.
 
 ## Changed Or Seeded Files
 
+- `Verified`: `workspace/plans/phase-3-post-shoppable-media-story-frontier-review-v1/PLAN.v1.md`
+- `Verified`: `workspace/plans/phase-3-post-shoppable-media-story-frontier-review-v1/ASSUMPTIONS.v1.md`
+- `Verified`: `workspace/plans/phase-3-post-shoppable-media-story-frontier-review-v1/CHECKS.v1.md`
+- `Verified`: `workspace/plans/phase-3-post-shoppable-media-story-frontier-review-v1/RISKS.v1.md`
+- `Verified`: `workspace/plans/phase-3-post-shoppable-media-story-frontier-review-v1/HANDOFF.v1.md`
 - `Verified`: `state/ORCHESTRATION_STATE.md`
 - `Verified`: `state/STATUS.md`
 - `Verified`: `state/NEXT_ACTION.md`
@@ -24,17 +29,17 @@
 
 ## Open Assumptions
 
-- `Verified`: The first shoppable-media proof is complete and verified.
-- `Inference`: The next honest move is not automatic runtime continuation; it requires a docs-only distinctness review first.
-- `Verified`: `UNIT-109` must not modify `project/`.
+- `Verified`: No further automatic non-JS shoppable-media runtime slice is approved from this point.
+- `Verified`: `UNIT-110` must stay docs-only and formalize the smallest honest interaction-aware boundary.
+- `Inference`: Runtime continuation should remain paused until that interaction boundary package exists.
 
 ## Recommended Next Step
 
-- `Verified`: Execute `UNIT-109` from `state/NEXT_ACTION.md` and decide whether shoppable media still has one honest bounded next move or whether the correct action is to pause and re-plan at a higher boundary.
+- `Verified`: Execute `UNIT-110` from `state/NEXT_ACTION.md` and formalize the shoppable-media interaction boundary package.
 
 ## Resume Checks
 
-- `Verified`: Read `workspace/plans/phase-3-shoppable-media-story-boundary-v1/PLAN.v1.md`.
+- `Verified`: Read `workspace/plans/phase-3-post-shoppable-media-story-frontier-review-v1/PLAN.v1.md`.
 - `Verified`: Read `state/ORCHESTRATION_STATE.md`, `state/STATUS.md`, `state/NEXT_ACTION.md`, `state/FEATURE_STATUS.md`, `state/PROGRESS.md`, and `state/SESSION_LOG.md`.
-- `Verified`: Confirm `UNIT-109` is docs-only and touches only `workspace/plans/`, `state/`, and `workspace/handoff/CURRENT_HANDOFF.md`.
-- `Verified`: Run `node HARNESS/checks/harness-check.mjs` after the docs-only frontier review.
+- `Verified`: Confirm `UNIT-110` is docs-only and touches only `workspace/plans/`, `state/`, and `workspace/handoff/CURRENT_HANDOFF.md`.
+- `Verified`: Run `node HARNESS/checks/harness-check.mjs` after the docs-only interaction package.
