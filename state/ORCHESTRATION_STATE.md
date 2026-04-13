@@ -8,14 +8,14 @@
 
 ## Current Phase
 
-- `Verified`: Active roadmap phase: Phase 3 bounded curated-product-trio expansion after verified post-comparison frontier review
-- `Verified`: Last completed phase slice: Phase 3 post-product-pair-comparison frontier review
-- `Inference`: Next bounded slice: execute one new curated multi-product surface using the shared product-card contract
+- `Verified`: Active roadmap phase: Phase 3 bounded curated-product-trio verification after implementation
+- `Verified`: Last completed phase slice: Phase 3 curated-product-trio implementation slice
+- `Inference`: Next bounded slice: verify exact scope and drift status for the curated product trio slice
 
 ## Approval State
 
 - `Verified`: Current next action approval: APPROVED
-- `Verified`: Approval basis: `UNIT-101` determined that the next honest step is one curated product trio section, not another comparison variant or a heavier merchandising expansion
+- `Verified`: Approval basis: `UNIT-102` implemented the distinct curated product trio surface inside the exact approved six-file runtime boundary and is ready for bounded verification
 
 ## Lock State
 

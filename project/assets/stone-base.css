@@ -1704,3 +1704,38 @@ canvas {
 .stone-product-card--comparison .stone-product-card__content {
   gap: var(--stone-space-3);
 }
+
+.stone-curated-product-trio {
+  display: grid;
+  gap: var(--stone-space-4);
+}
+
+.stone-curated-product-trio--soft {
+  padding: var(--stone-space-4);
+  border-radius: var(--stone-radius-2);
+  background: var(--stone-color-surface);
+}
+
+.stone-curated-product-trio__intro > *,
+.stone-curated-product-trio__empty {
+  margin: 0;
+}
+
+.stone-curated-product-trio__grid {
+  display: grid;
+  gap: var(--stone-space-4);
+}
+
+@media screen and (min-width: 48rem) {
+  .stone-curated-product-trio__grid {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+}
+
+.stone-product-card--curated .stone-product-card__image {
+  aspect-ratio: 4 / 5;
+}
+
+.stone-product-card--curated .stone-product-card__content {
+  gap: var(--stone-space-3);
+}

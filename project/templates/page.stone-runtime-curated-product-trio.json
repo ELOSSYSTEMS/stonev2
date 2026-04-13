@@ -1,0 +1,19 @@
+{
+  "sections": {
+    "main": {
+      "type": "stone-curated-product-trio",
+      "settings": {
+        "heading": "Curated product trio",
+        "intro": "<p>Use this bounded merchandising surface to validate a restrained editor-curated three-product composition without widening into heavier commerce behavior.</p>",
+        "surface_style": "outline",
+        "width_mode": "wide",
+        "spacing_mode": "standard",
+        "show_vendor": true,
+        "show_price": true
+      }
+    }
+  },
+  "order": [
+    "main"
+  ]
+}

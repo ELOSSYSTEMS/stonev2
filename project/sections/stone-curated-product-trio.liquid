@@ -1,0 +1,188 @@
+{%- liquid
+  assign stone_heading = section.settings.heading | strip
+  assign stone_intro = section.settings.intro
+  assign stone_intro_plain = stone_intro | strip_html | strip
+  assign stone_first_product_handle = section.settings.first_product
+  assign stone_second_product_handle = section.settings.second_product
+  assign stone_third_product_handle = section.settings.third_product
+  assign stone_first_product = all_products[stone_first_product_handle]
+  assign stone_second_product = all_products[stone_second_product_handle]
+  assign stone_third_product = all_products[stone_third_product_handle]
+  assign stone_surface_style = section.settings.surface_style | default: 'outline'
+
+  capture stone_section_content
+    echo '<div class="stone-curated-product-trio stone-curated-product-trio--'
+    echo stone_surface_style | escape
+    echo '">' 
+
+    if stone_intro_plain != blank
+      echo '<div class="stone-curated-product-trio__intro stone-richtext-flow rte">'
+      echo stone_intro
+      echo '</div>'
+    endif
+
+    if stone_first_product_handle != blank and stone_second_product_handle != blank and stone_third_product_handle != blank and stone_first_product != blank and stone_second_product != blank and stone_third_product != blank
+      echo '<div class="stone-curated-product-trio__grid">'
+      echo '<div class="stone-curated-product-trio__item stone-curated-product-trio__item--first">'
+      render 'stone-product-card',
+        product: stone_first_product,
+        show_vendor: section.settings.show_vendor,
+        show_price: section.settings.show_price,
+        show_excerpt: true,
+        surface_style: stone_surface_style,
+        card_emphasis: 'curated'
+      echo '</div>'
+      echo '<div class="stone-curated-product-trio__item stone-curated-product-trio__item--second">'
+      render 'stone-product-card',
+        product: stone_second_product,
+        show_vendor: section.settings.show_vendor,
+        show_price: section.settings.show_price,
+        show_excerpt: true,
+        surface_style: stone_surface_style,
+        card_emphasis: 'curated'
+      echo '</div>'
+      echo '<div class="stone-curated-product-trio__item stone-curated-product-trio__item--third">'
+      render 'stone-product-card',
+        product: stone_third_product,
+        show_vendor: section.settings.show_vendor,
+        show_price: section.settings.show_price,
+        show_excerpt: true,
+        surface_style: stone_surface_style,
+        card_emphasis: 'curated'
+      echo '</div>'
+      echo '</div>'
+    else
+      echo '<p class="stone-curated-product-trio__empty">'
+      echo 'sections.stone_curated_product_trio.empty_products' | t
+      echo '</p>'
+    endif
+
+    echo '</div>'
+  endcapture
+
+  render 'stone-section-shell',
+    section: section,
+    heading: stone_heading,
+    content: stone_section_content,
+    width: section.settings.width_mode,
+    spacing: section.settings.spacing_mode,
+    shell_class: 'stone-curated-product-trio-shell'
+-%}
+
+{% schema %}
+{
+  "name": "t:sections.stone_curated_product_trio.name",
+  "tag": "section",
+  "class": "shopify-section--stone-curated-product-trio",
+  "settings": [
+    {
+      "type": "text",
+      "id": "heading",
+      "label": "t:sections.stone_curated_product_trio.settings.heading.label",
+      "info": "t:sections.stone_curated_product_trio.settings.heading.info"
+    },
+    {
+      "type": "richtext",
+      "id": "intro",
+      "label": "t:sections.stone_curated_product_trio.settings.intro.label",
+      "info": "t:sections.stone_curated_product_trio.settings.intro.info"
+    },
+    {
+      "type": "product",
+      "id": "first_product",
+      "label": "t:sections.stone_curated_product_trio.settings.first_product.label",
+      "info": "t:sections.stone_curated_product_trio.settings.first_product.info"
+    },
+    {
+      "type": "product",
+      "id": "second_product",
+      "label": "t:sections.stone_curated_product_trio.settings.second_product.label",
+      "info": "t:sections.stone_curated_product_trio.settings.second_product.info"
+    },
+    {
+      "type": "product",
+      "id": "third_product",
+      "label": "t:sections.stone_curated_product_trio.settings.third_product.label",
+      "info": "t:sections.stone_curated_product_trio.settings.third_product.info"
+    },
+    {
+      "type": "checkbox",
+      "id": "show_vendor",
+      "label": "t:sections.stone_curated_product_trio.settings.show_vendor.label",
+      "info": "t:sections.stone_curated_product_trio.settings.show_vendor.info",
+      "default": true
+    },
+    {
+      "type": "checkbox",
+      "id": "show_price",
+      "label": "t:sections.stone_curated_product_trio.settings.show_price.label",
+      "info": "t:sections.stone_curated_product_trio.settings.show_price.info",
+      "default": true
+    },
+    {
+      "type": "select",
+      "id": "surface_style",
+      "label": "t:sections.stone_curated_product_trio.settings.surface_style.label",
+      "info": "t:sections.stone_curated_product_trio.settings.surface_style.info",
+      "default": "outline",
+      "options": [
+        {
+          "value": "outline",
+          "label": "t:sections.stone_curated_product_trio.settings.surface_style.options.outline.label"
+        },
+        {
+          "value": "soft",
+          "label": "t:sections.stone_curated_product_trio.settings.surface_style.options.soft.label"
+        }
+      ]
+    },
+    {
+      "type": "select",
+      "id": "width_mode",
+      "label": "t:sections.stone_curated_product_trio.settings.width_mode.label",
+      "info": "t:sections.stone_curated_product_trio.settings.width_mode.info",
+      "default": "wide",
+      "options": [
+        {
+          "value": "narrow",
+          "label": "t:sections.stone_curated_product_trio.settings.width_mode.options.narrow.label"
+        },
+        {
+          "value": "standard",
+          "label": "t:sections.stone_curated_product_trio.settings.width_mode.options.standard.label"
+        },
+        {
+          "value": "wide",
+          "label": "t:sections.stone_curated_product_trio.settings.width_mode.options.wide.label"
+        }
+      ]
+    },
+    {
+      "type": "select",
+      "id": "spacing_mode",
+      "label": "t:sections.stone_curated_product_trio.settings.spacing_mode.label",
+      "info": "t:sections.stone_curated_product_trio.settings.spacing_mode.info",
+      "default": "standard",
+      "options": [
+        {
+          "value": "compact",
+          "label": "t:sections.stone_curated_product_trio.settings.spacing_mode.options.compact.label"
+        },
+        {
+          "value": "standard",
+          "label": "t:sections.stone_curated_product_trio.settings.spacing_mode.options.standard.label"
+        },
+        {
+          "value": "relaxed",
+          "label": "t:sections.stone_curated_product_trio.settings.spacing_mode.options.relaxed.label"
+        }
+      ]
+    }
+  ],
+  "presets": [
+    {
+      "name": "t:sections.stone_curated_product_trio.name"
+    }
+  ]
+}
+{% endschema %}

@@ -3,18 +3,18 @@
 ## Status
 
 - `Verified`: Approval State: APPROVED
-- `Verified`: Execution Class: phase-3-runtime-implementation
+- `Verified`: Execution Class: verification
 - `Verified`: Priority: high
 
 ## Approved Unit
 
-- `UNIT-102` Execute the curated product trio slice.
+- `UNIT-103` Verify the curated product trio slice.
 
 ## Objective
 
-- `Verified`: Broaden Stone V2 merchandising into one editor-curated multi-product surface.
-- `Verified`: Reuse `stone-product-card` as the only product-card snippet surface.
-- `Verified`: Keep the slice non-JS, product-link-only, and free of protected-surface or heavier-commerce drift.
+- `Verified`: Verify that the curated product trio slice stayed inside the exact approved six-file runtime boundary.
+- `Verified`: Verify that `stone-curated-product-trio` reuses `stone-product-card`, stays limited to exactly three explicit product settings, and remains product-link-only.
+- `Verified`: Verify that the slice remained non-JS and free of protected-surface or heavier-commerce drift.
 
 ## Plan Reference
 
@@ -43,4 +43,4 @@
 
 ## Stop Condition
 
-Stop if implementation needs any runtime file outside the approved six runtime files, any new snippet, extra section files, extra template files, blocks, list settings, collection or product loops, add-to-cart, pricing expansion beyond the current shared product-card contract, recommendation behavior, rails, carousels, shoppable-media behavior, JS changes, or protected-surface edits. Fail closed instead of normalizing scope expansion.
+Stop if verification finds any runtime file outside the approved six runtime files, any missing shared-snippet reuse, any extra product setting or new runtime file, any JS or protected-surface edits, or any heavier-commerce behavior. Fail closed instead of normalizing drift.

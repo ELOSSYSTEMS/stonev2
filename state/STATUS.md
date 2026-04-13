@@ -3,7 +3,7 @@
 ## Snapshot
 
 - `Verified`: Repo state: harness foundation populated
-- `Verified`: Storefront runtime state: the broader merchandising foundation slice, spotlight product-discovery variant, verified category-entry slice, verified category-entry spotlight variant, verified category media band slice, verified featured-product showcase slice, and verified product pair comparison slice are all proven bounded merchandising-family surfaces.
+- `Verified`: Storefront runtime state: the broader merchandising foundation slice, spotlight product-discovery variant, verified category-entry slice, verified category-entry spotlight variant, verified category media band slice, verified featured-product showcase slice, verified product pair comparison slice, and distinct curated product trio slice are all now implemented inside bounded six-file scopes.
 - `Verified`: Architecture authority: the five documents under `docs/architecture/`
 - `Verified`: Current active planning package: `workspace/plans/phase-3-curated-product-trio-boundary-v1/`
 
@@ -28,15 +28,16 @@
 - `Verified`: Preserve Hebrew-first assumptions
 - `Verified`: Treat bilingual Hebrew and English editor support as a core architectural requirement
 - `Verified`: Do not copy code or markup from external reference themes
-- `Verified`: The next approved curated product trio step remains non-JS and product-link-only
+- `Verified`: The curated product trio slice remains non-JS and product-link-only
 
 ## Current Outcome
 
-- `Verified`: `UNIT-099` and `UNIT-100` proved the paired-product comparison side of the merchandising family.
-- `Verified`: `UNIT-101` concludes the next honest move is one editor-curated product trio rather than another comparison variant or a heavier merchandising jump.
-- `Inference`: Stone V2 is now positioned to broaden merchandising into a restrained curated multi-product surface while still staying in a tightly bounded six-file implementation slice.
+- `Verified`: `UNIT-101` concluded the next honest move was one curated product trio section rather than another comparison variant.
+- `Verified`: `UNIT-102` implemented `project/sections/stone-curated-product-trio.liquid`, `project/templates/page.stone-runtime-curated-product-trio.json`, bounded CSS in `project/assets/stone-base.css`, scoped `stone-product-card` updates in `project/snippets/stone-product-card.liquid`, and paired locale updates in `project/locales/he.default.schema.json` and `project/locales/en.schema.json`.
+- `Verified`: `UNIT-102` stayed inside the exact approved six runtime files and kept the section limited to exactly three explicit product settings.
+- `Inference`: The repo is ready for bounded verification of the curated product trio slice.
 
 ## Risks And Blocks
 
-- `Verified`: Runtime expansion remains bounded to the curated-product-trio six-file surface for `UNIT-102`.
-- `Inference`: Any discovered need for extra files, blocks, list settings, loops, recommendation behavior, rails/carousels, shoppable-media behavior, JS, or protected-surface edits should trigger a new docs-only boundary decision rather than widening the approved slice.
+- `Verified`: Runtime expansion remains paused pending `UNIT-103` verification.
+- `Inference`: Any discovered need for extra files, extra settings, loops, recommendation behavior, rails/carousels, shoppable-media behavior, JS, protected-surface edits, or heavier commerce behavior should trigger a new docs-only boundary decision rather than widening the approved slice.
