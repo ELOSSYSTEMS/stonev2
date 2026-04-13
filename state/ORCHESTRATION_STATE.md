@@ -8,14 +8,14 @@
 
 ## Current Phase
 
-- `Verified`: Active roadmap phase: Phase 3 shoppable-media-motion verification completed; repo awaiting post-motion frontier review
-- `Verified`: Last completed phase slice: Phase 3 shoppable-media-motion story verification slice
-- `Inference`: Next bounded slice: author a docs-only frontier review for the verified motion-aware shoppable-media proof
+- `Verified`: Active roadmap phase: Phase 3 post-shoppable-media-motion frontier review completed; repo awaiting controlled-expansion proposal
+- `Verified`: Last completed phase slice: Phase 3 post-shoppable-media-motion frontier review
+- `Inference`: Next bounded slice: author a docs-only controlled-expansion proposal after the bounded shoppable-media runway
 
 ## Approval State
 
 - `Verified`: Current next action approval: APPROVED
-- `Verified`: Approval basis: `UNIT-124` verified the bounded motion-aware media slice and now hands off to a docs-only frontier review as `UNIT-125`
+- `Verified`: Approval basis: `UNIT-125` concluded that the bounded shoppable-media motion-story lane is locally exhausted and now hands off to a docs-only controlled-expansion proposal as `UNIT-126`
 
 ## Lock State
 

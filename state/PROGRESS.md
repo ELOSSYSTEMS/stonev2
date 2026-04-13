@@ -2,29 +2,29 @@
 
 ## Current Phase
 
-- `Verified`: Roadmap phase: the first motion-aware shoppable-media proof is now verified and the repo is paused at a post-motion frontier review edge.
+- `Verified`: Roadmap phase: the bounded shoppable-media motion-story lane is now frontier-reviewed and the repo is paused at a post-shoppable-media controlled-expansion decision point.
 
 ## Approved Next Action
 
-- `Verified`: `UNIT-125` author the post-shoppable-media-motion-story frontier review.
+- `Verified`: `UNIT-126` author the post-shoppable-media controlled expansion proposal.
 
 ## Last Completed Unit
 
-- `Verified`: Unit ID: `UNIT-124`
-- `Verified`: Summary: verified the non-JS video-first shoppable-media motion story slice stayed inside the exact five-file runtime boundary, preserved two-product scope and locale parity, and left `stone-product-card` plus all protected surfaces unchanged.
+- `Verified`: Unit ID: `UNIT-125`
+- `Verified`: Summary: recorded that the bounded shoppable-media motion-story lane is locally exhausted after the verified native non-JS video proof and approved only a docs-only controlled-expansion proposal as the next step.
 
 ## Verification Status
 
-- `Verified`: Verdict: verification PASS for `UNIT-124`; the bounded motion story proof is now fully verified.
-- `Verified`: Evidence: `git diff --name-only a45c58b 62113b2 -- project`; empty protected-surface diff against `a45c58b`; section schema/settings validation via `node -`; locale subtree parity via `node -`; harness and state checks executed during verification.
+- `Verified`: Verdict: planning PASS for `UNIT-125`; no new runtime work is approved from the motion-story frontier review.
+- `Verified`: Evidence: `workspace/plans/phase-3-post-shoppable-media-motion-story-frontier-review-v1/PLAN.v1.md`; companion assumptions, checks, risks, and handoff artifacts; required harness and state checks.
 
 ## Active Blockers
 
-- `Verified`: No further motion runtime slice is approved yet.
-- `Inference`: The next honest move is a docs-only frontier review before any broader motion-system or commerce expansion is considered.
+- `Verified`: No further shoppable-media runtime slice is approved.
+- `Inference`: The next honest move is a docs-only controlled-expansion proposal before any broader planning direction is chosen.
 
 ## Resume Notes
 
-- `Verified`: Resume from branch `codex/unit-124-shoppable-media-motion-story-verify`.
-- `Verified`: `UNIT-125` is the next approved docs-only planning slice.
+- `Verified`: Resume from branch `codex/unit-125-post-shoppable-media-motion-story-frontier-plan`.
+- `Verified`: `UNIT-126` is the next approved docs-only planning slice.
 - `Verified`: Do not edit `project/assets/stone-runtime.js`, `project/snippets/stone-product-card.liquid`, `project/layout/theme.liquid`, or `project/config/settings_schema.json`.

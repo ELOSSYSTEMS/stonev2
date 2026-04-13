@@ -8,17 +8,17 @@
 
 ## Approved Unit
 
-- `UNIT-125` Author the post-shoppable-media-motion-story frontier review.
+- `UNIT-126` Author the post-shoppable-media controlled expansion proposal.
 
 ## Objective
 
-- `Verified`: Record the honest post-verification verdict for the first motion-aware shoppable-media proof.
-- `Verified`: Determine whether the motion-story lane is locally exhausted or whether another bounded step is justified.
-- `Verified`: Keep the next approved action docs-only until a new boundary is explicitly authorized by evidence.
+- `Verified`: Determine the next honest higher-boundary planning problem, if any, after the bounded shoppable-media runway was judged locally exhausted.
+- `Verified`: Keep the work docs-only and fail closed on runtime authorization.
+- `Verified`: Do not normalize broader motion-system scope, autoplay, looping, custom controls, wider JS, or heavier commerce as implicit next steps.
 
 ## Plan Reference
 
-- `Path:` `workspace/plans/phase-3-shoppable-media-motion-boundary-v1/HANDOFF.v1.md`
+- `Path:` `workspace/plans/phase-3-post-shoppable-media-motion-story-frontier-review-v1/HANDOFF.v1.md`
 
 ## Allowed Files Or Surfaces
 
@@ -38,4 +38,4 @@
 
 ## Stop Condition
 
-Fail closed if the frontier review attempts to approve new runtime work without a fresh bounded distinctness case, or if it normalizes broader motion-system scope beyond the verified motion-story proof.
+Fail closed if the proposal starts authorizing runtime work directly, or if it treats broader motion-system scope, autoplay, looping, custom controls, wider JS, or heavier commerce as implicitly approved.
