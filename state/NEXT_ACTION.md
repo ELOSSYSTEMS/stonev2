@@ -3,26 +3,31 @@
 ## Status
 
 - `Verified`: Approval State: APPROVED
-- `Verified`: Execution Class: docs-planning
+- `Verified`: Execution Class: phase-3-runtime-implementation
 - `Verified`: Priority: high
 
 ## Approved Unit
 
-- `UNIT-101` Author the post-product-pair-comparison merchandising frontier review.
+- `UNIT-102` Execute the curated product trio slice.
 
 ## Objective
 
-- `Verified`: Re-evaluate the merchandising family after the verified product pair comparison slice.
-- `Verified`: Decide whether the next honest move is another bounded merchandising-family expansion, a pause, or a shift to a different governed planning problem.
-- `Verified`: Keep this next unit docs-only and fail closed on runtime widening.
+- `Verified`: Broaden Stone V2 merchandising into one editor-curated multi-product surface.
+- `Verified`: Reuse `stone-product-card` as the only product-card snippet surface.
+- `Verified`: Keep the slice non-JS, product-link-only, and free of protected-surface or heavier-commerce drift.
 
 ## Plan Reference
 
-- `Path:` `workspace/plans/phase-3-product-pair-comparison-boundary-v1/PLAN.v1.md`
+- `Path:` `workspace/plans/phase-3-curated-product-trio-boundary-v1/PLAN.v1.md`
 
 ## Allowed Files Or Surfaces
 
-- `workspace/plans/`
+- `project/assets/stone-base.css`
+- `project/snippets/stone-product-card.liquid`
+- `project/sections/stone-curated-product-trio.liquid`
+- `project/templates/page.stone-runtime-curated-product-trio.json`
+- `project/locales/he.default.schema.json`
+- `project/locales/en.schema.json`
 - `state/`
 - `workspace/handoff/CURRENT_HANDOFF.md`
 
@@ -38,4 +43,4 @@
 
 ## Stop Condition
 
-Stop if the frontier review needs runtime edits, protected-surface edits, JS authorization, or any attempt to authorize a new slice without a precise distinctness case, exact scope, explicit disallowed behavior, and exact stop conditions. Fail closed instead of normalizing expansion.
+Stop if implementation needs any runtime file outside the approved six runtime files, any new snippet, extra section files, extra template files, blocks, list settings, collection or product loops, add-to-cart, pricing expansion beyond the current shared product-card contract, recommendation behavior, rails, carousels, shoppable-media behavior, JS changes, or protected-surface edits. Fail closed instead of normalizing scope expansion.

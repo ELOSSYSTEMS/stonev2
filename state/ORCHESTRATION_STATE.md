@@ -8,14 +8,14 @@
 
 ## Current Phase
 
-- `Verified`: Active roadmap phase: Phase 3 docs-only post-product-pair-comparison frontier review
-- `Verified`: Last completed phase slice: Phase 3 product-pair-comparison verification
-- `Inference`: Next bounded slice: re-evaluate the merchandising frontier before authorizing more runtime work
+- `Verified`: Active roadmap phase: Phase 3 bounded curated-product-trio expansion after verified post-comparison frontier review
+- `Verified`: Last completed phase slice: Phase 3 post-product-pair-comparison frontier review
+- `Inference`: Next bounded slice: execute one new curated multi-product surface using the shared product-card contract
 
 ## Approval State
 
 - `Verified`: Current next action approval: APPROVED
-- `Verified`: Approval basis: `UNIT-100` verified the product pair comparison slice and advanced the governed run to a docs-only frontier decision
+- `Verified`: Approval basis: `UNIT-101` determined that the next honest step is one curated product trio section, not another comparison variant or a heavier merchandising expansion
 
 ## Lock State
 
