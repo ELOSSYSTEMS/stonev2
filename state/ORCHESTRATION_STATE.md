@@ -8,14 +8,14 @@
 
 ## Current Phase
 
-- `Verified`: Active roadmap phase: Phase 3 post-shoppable-media controlled expansion proposal completed; repo awaiting companion-systems planning proposal
-- `Verified`: Last completed phase slice: Phase 3 post-shoppable-media controlled expansion proposal
-- `Inference`: Next bounded slice: author a docs-only Phase 3 companion-systems controlled expansion proposal after the bounded shoppable-media runway
+- `Verified`: Active roadmap phase: Phase 3 companion-systems controlled expansion proposal completed; repo awaiting a collection-companion broader boundary package
+- `Verified`: Last completed phase slice: Phase 3 companion-systems controlled expansion proposal
+- `Inference`: Next bounded slice: author a docs-only Phase 3 collection-companion broader boundary package after the collection-first companion reopening verdict
 
 ## Approval State
 
 - `Verified`: Current next action approval: APPROVED
-- `Verified`: Approval basis: `UNIT-126` concluded that the bounded shoppable-media runway is locally exhausted and now hands off to a docs-only Phase 3 companion-systems planning proposal as `UNIT-127`
+- `Verified`: Approval basis: `UNIT-127` concluded that companion-family planning may reopen only in a docs-only, collection-first form and now hands off to a broader collection-companion boundary package as `UNIT-128`
 
 ## Lock State
 

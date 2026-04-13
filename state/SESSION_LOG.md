@@ -8,6 +8,37 @@
 
 ### Session Entry
 
+- Timestamp: 2026-04-13 16:05 Asia/Jerusalem
+- Skill or Mode: `project-plan`
+- Summary: authored the Phase 3 companion-systems controlled expansion proposal, concluded that companion-family planning may reopen only in a collection-first docs-only form, rejected PDP-first and shared-companion reopening, and synchronized governed state for the next collection-companion boundary decision
+- Files changed:
+  - `workspace/plans/phase-3-companion-systems-controlled-expansion-proposal-v1/PLAN.v1.md`
+  - `workspace/plans/phase-3-companion-systems-controlled-expansion-proposal-v1/ASSUMPTIONS.v1.md`
+  - `workspace/plans/phase-3-companion-systems-controlled-expansion-proposal-v1/CHECKS.v1.md`
+  - `workspace/plans/phase-3-companion-systems-controlled-expansion-proposal-v1/RISKS.v1.md`
+  - `workspace/plans/phase-3-companion-systems-controlled-expansion-proposal-v1/HANDOFF.v1.md`
+  - `state/ORCHESTRATION_STATE.md`
+  - `state/STATUS.md`
+  - `state/NEXT_ACTION.md`
+  - `state/FEATURE_STATUS.md`
+  - `state/PROGRESS.md`
+  - `state/SESSION_LOG.md`
+  - `workspace/handoff/CURRENT_HANDOFF.md`
+- Checks run:
+  - `node HARNESS/checks/check-state-artifacts.mjs`
+  - `node HARNESS/checks/check-next-action-scope.mjs`
+  - `node HARNESS/checks/check-plan-exists.mjs`
+  - `node HARNESS/checks/check-handoff-completeness.mjs`
+  - `node HARNESS/checks/check-approval-state.mjs`
+  - `node HARNESS/checks/check-lock-state.mjs`
+  - `node HARNESS/checks/harness-check.mjs`
+  - `git diff --name-only -- project`
+  - `git status --short`
+- Result: PASS
+- Follow-up: execute `UNIT-128` only as a docs-only Phase 3 collection-companion broader boundary package, and fail closed if the boundary starts authorizing collection-template rewrites, broader JS, or heavier commerce directly
+
+### Session Entry
+
 - Timestamp: 2026-04-13 15:20 Asia/Jerusalem
 - Skill or Mode: `project-plan`
 - Summary: authored the post-shoppable-media controlled expansion proposal, rejected further shoppable-media or broader media continuation, and selected a docs-only Phase 3 companion-systems planning proposal as the next approved step

@@ -8,17 +8,17 @@
 
 ## Approved Unit
 
-- `UNIT-127` Author the Phase 3 companion-systems controlled expansion proposal.
+- `UNIT-128` Author the Phase 3 collection-companion broader boundary package.
 
 ## Objective
 
-- `Verified`: Determine whether Stone V2 should reopen `collection companion` and `PDP companion` work as a broader Phase 3 planning track, and which family, if any, should go first.
+- `Verified`: Define whether one broader `collection companion` boundary is justified as the first reopened Phase 3 companion-family planning step.
 - `Verified`: Keep the work docs-only and fail closed on runtime authorization.
-- `Verified`: Do not normalize broader motion/media scope, template-coupled runtime work, preset-pack implementation, wider JS, or heavier commerce as implicit next steps.
+- `Verified`: Do not reopen `PDP companion` implicitly, and do not normalize collection-template rewrites, broader motion/media scope, preset-pack implementation, wider JS, or heavier commerce as implicit next steps.
 
 ## Plan Reference
 
-- `Path:` `workspace/plans/phase-3-post-shoppable-media-controlled-expansion-proposal-v1/HANDOFF.v1.md`
+- `Path:` `workspace/plans/phase-3-companion-systems-controlled-expansion-proposal-v1/HANDOFF.v1.md`
 
 ## Allowed Files Or Surfaces
 
@@ -38,4 +38,4 @@
 
 ## Stop Condition
 
-Fail closed if the proposal starts authorizing runtime work directly, or if it treats broader motion/media scope, collection-template or PDP-template runtime work, preset-pack implementation, wider JS, or heavier commerce as implicitly approved.
+Fail closed if the boundary starts authorizing runtime work directly, or if it treats collection-template rewrites, PDP-template rewrites, broader motion/media scope, preset-pack implementation, wider JS, or heavier commerce as implicitly approved.
