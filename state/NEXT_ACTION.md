@@ -3,26 +3,30 @@
 ## Status
 
 - `Verified`: Approval State: APPROVED
-- `Verified`: Execution Class: docs-planning
+- `Verified`: Execution Class: phase-3-runtime-implementation
 - `Verified`: Priority: high
 
 ## Approved Unit
 
-- `UNIT-106` Author the shoppable-media controlled boundary package.
+- `UNIT-107` Execute the shoppable media story slice.
 
 ## Objective
 
-- `Verified`: Formalize the next honest higher-boundary planning problem for Stone V2 shoppable media.
-- `Verified`: Keep the work docs-only.
-- `Verified`: Do not authorize runtime implementation until exact allowed and disallowed surfaces are explicit.
+- `Verified`: Prove the first non-JS shoppable-media surface for Stone V2.
+- `Verified`: Keep the section media-first, product-link-only, and free of protected-surface or interaction-substrate drift.
+- `Verified`: Reuse `stone-product-card` unchanged for exactly two linked products.
 
 ## Plan Reference
 
-- `Path:` `workspace/plans/phase-3-post-merchandising-controlled-expansion-proposal-v1/PLAN.v1.md`
+- `Path:` `workspace/plans/phase-3-shoppable-media-story-boundary-v1/PLAN.v1.md`
 
 ## Allowed Files Or Surfaces
 
-- `workspace/plans/`
+- `project/assets/stone-base.css`
+- `project/sections/stone-shoppable-media-story.liquid`
+- `project/templates/page.stone-runtime-shoppable-media-story.json`
+- `project/locales/he.default.schema.json`
+- `project/locales/en.schema.json`
 - `state/`
 - `workspace/handoff/CURRENT_HANDOFF.md`
 
@@ -38,4 +42,4 @@
 
 ## Stop Condition
 
-Stop if the boundary package starts authorizing runtime edits directly, assumes JS or protected-surface access without making them explicit boundary questions, or tries to reopen small merchandising runtime slices. Fail closed instead of normalizing expansion.
+Stop if implementation needs JS, protected-surface edits, drawer behavior, overlay behavior, snippet edits, block files, a third product, loops, or heavier shoppable-media interaction. Fail closed instead of normalizing expansion.

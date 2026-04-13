@@ -2,22 +2,22 @@
 
 ## Summary
 
-- `Verified`: The bounded merchandising runway is complete and paused.
-- `Verified`: No further automatic merchandising runtime slice is approved.
-- `Verified`: The next approved step is one docs-only shoppable-media controlled boundary package.
+- `Verified`: Bounded merchandising is complete and paused.
+- `Verified`: The next approved family proof is the first bounded shoppable-media surface.
+- `Verified`: The next approved step is runtime, but only inside the exact non-JS shoppable-media-story boundary.
 
 ## Current State
 
-- `Verified`: `UNIT-105` concluded that the next honest higher-boundary planning problem is shoppable media.
-- `Verified`: `state/NEXT_ACTION.md` now points to `UNIT-106`, the docs-only shoppable-media controlled boundary package.
+- `Verified`: `UNIT-106` concluded that the first safe shoppable-media proof is one media-first story surface with two static linked markers and two reused product cards.
+- `Verified`: `state/NEXT_ACTION.md` now points to `UNIT-107`, the bounded implementation of that shoppable-media story slice.
 
 ## Changed Or Seeded Files
 
-- `Verified`: `workspace/plans/phase-3-post-merchandising-controlled-expansion-proposal-v1/PLAN.v1.md`
-- `Verified`: `workspace/plans/phase-3-post-merchandising-controlled-expansion-proposal-v1/ASSUMPTIONS.v1.md`
-- `Verified`: `workspace/plans/phase-3-post-merchandising-controlled-expansion-proposal-v1/CHECKS.v1.md`
-- `Verified`: `workspace/plans/phase-3-post-merchandising-controlled-expansion-proposal-v1/RISKS.v1.md`
-- `Verified`: `workspace/plans/phase-3-post-merchandising-controlled-expansion-proposal-v1/HANDOFF.v1.md`
+- `Verified`: `workspace/plans/phase-3-shoppable-media-story-boundary-v1/PLAN.v1.md`
+- `Verified`: `workspace/plans/phase-3-shoppable-media-story-boundary-v1/ASSUMPTIONS.v1.md`
+- `Verified`: `workspace/plans/phase-3-shoppable-media-story-boundary-v1/CHECKS.v1.md`
+- `Verified`: `workspace/plans/phase-3-shoppable-media-story-boundary-v1/RISKS.v1.md`
+- `Verified`: `workspace/plans/phase-3-shoppable-media-story-boundary-v1/HANDOFF.v1.md`
 - `Verified`: `state/ORCHESTRATION_STATE.md`
 - `Verified`: `state/STATUS.md`
 - `Verified`: `state/NEXT_ACTION.md`
@@ -28,17 +28,18 @@
 
 ## Open Assumptions
 
-- `Verified`: `UNIT-106` must stay docs-only.
-- `Verified`: `UNIT-106` must define exact allowed and disallowed surfaces before any future shoppable-media runtime proof can exist.
-- `Inference`: Runtime continuation should remain paused until that boundary package exists.
+- `Verified`: `UNIT-107` must remain non-JS and inside the exact five runtime files.
+- `Verified`: `stone-product-card` must be reused unchanged.
+- `Verified`: The first proof must stay limited to one image, two static markers, and two explicit products.
+- `Inference`: If implementation needs snippet edits, JS, drawers, overlays, blocks, or heavier interaction, the correct move is to stop and re-plan.
 
 ## Recommended Next Step
 
-- `Verified`: Execute `UNIT-106` from `state/NEXT_ACTION.md` and author the shoppable-media controlled boundary package.
+- `Verified`: Execute `UNIT-107` from `state/NEXT_ACTION.md` and implement the bounded shoppable-media story slice without widening scope.
 
 ## Resume Checks
 
-- `Verified`: Read `workspace/plans/phase-3-post-merchandising-controlled-expansion-proposal-v1/PLAN.v1.md`.
+- `Verified`: Read `workspace/plans/phase-3-shoppable-media-story-boundary-v1/PLAN.v1.md`.
 - `Verified`: Read `state/ORCHESTRATION_STATE.md`, `state/STATUS.md`, `state/NEXT_ACTION.md`, `state/FEATURE_STATUS.md`, `state/PROGRESS.md`, and `state/SESSION_LOG.md`.
-- `Verified`: Confirm `UNIT-106` is docs-only and touches only `workspace/plans/`, `state/`, and `workspace/handoff/CURRENT_HANDOFF.md`.
+- `Verified`: Confirm the next runtime unit is limited to the exact five-file boundary and does not modify snippets or JS.
 - `Verified`: Run `node HARNESS/checks/harness-check.mjs` after the docs-only boundary package.

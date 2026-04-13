@@ -3,9 +3,9 @@
 ## Snapshot
 
 - `Verified`: Repo state: harness foundation populated
-- `Verified`: Storefront runtime state: the broader merchandising foundation slice, spotlight product-discovery variant, verified category-entry slice, verified category-entry spotlight variant, verified category media band slice, verified featured-product showcase slice, verified product pair comparison slice, and verified curated product trio slice are all proven bounded merchandising-family surfaces.
+- `Verified`: Storefront runtime state: the bounded merchandising family is complete through verified curated-product-trio work, and the next approved family proof is the first bounded shoppable-media surface.
 - `Verified`: Architecture authority: the five documents under `docs/architecture/`
-- `Verified`: Current active planning package: `workspace/plans/phase-3-post-merchandising-controlled-expansion-proposal-v1/`
+- `Verified`: Current active planning package: `workspace/plans/phase-3-shoppable-media-story-boundary-v1/`
 
 ## Canonical Inputs
 
@@ -17,7 +17,7 @@
 - `Verified`: `workspace/specs/STONEV2_SECTION_FAMILY_LEDGER.md`
 - `Verified`: `workspace/specs/STONEV2_SETTINGS_TAXONOMY.md`
 - `Verified`: `workspace/specs/STONEV2_BILINGUAL_SCHEMA_STRATEGY.md`
-- `Verified`: `workspace/plans/phase-3-post-merchandising-controlled-expansion-proposal-v1/PLAN.v1.md`
+- `Verified`: `workspace/plans/phase-3-shoppable-media-story-boundary-v1/PLAN.v1.md`
 
 ## Constraints
 
@@ -28,16 +28,16 @@
 - `Verified`: Preserve Hebrew-first assumptions
 - `Verified`: Treat bilingual Hebrew and English editor support as a core architectural requirement
 - `Verified`: Do not copy code or markup from external reference themes
-- `Verified`: No further automatic merchandising runtime slice is approved
-- `Verified`: No shoppable-media runtime work is approved yet
+- `Verified`: No JS is approved for the first shoppable-media proof
+- `Verified`: No protected-surface exception is approved for the first shoppable-media proof
 
 ## Current Outcome
 
-- `Verified`: `UNIT-105` concludes that the next honest higher-boundary planning problem after merchandising is shoppable media.
-- `Verified`: The next approved move is one docs-only shoppable-media controlled boundary package.
-- `Inference`: Stone V2 is at a safe docs-only pause point before any interaction-aware family expansion.
+- `Verified`: `UNIT-106` concludes that the first honest shoppable-media proof is a non-JS media-first story surface with two static linked markers and two reused product cards.
+- `Verified`: The next approved move is one bounded runtime implementation on an exact five-file surface.
+- `Inference`: Stone V2 is now positioned to prove the first shoppable-media family surface without interaction-substrate drift.
 
 ## Risks And Blocks
 
-- `Verified`: Runtime continuation remains blocked pending a shoppable-media controlled boundary package.
-- `Inference`: Any future continuation must first define exact allowed and disallowed surfaces for a shoppable-media proof before runtime work resumes.
+- `Verified`: Runtime expansion is bounded to the shoppable-media-story five-file surface for `UNIT-107`.
+- `Inference`: Any discovered need for JS, protected-surface edits, snippet changes, blocks, third-product expansion, loops, drawers, overlays, or heavier interaction should trigger a new docs-only boundary decision rather than widening the approved slice.

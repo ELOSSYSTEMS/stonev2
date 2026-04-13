@@ -8,14 +8,14 @@
 
 ## Current Phase
 
-- `Verified`: Active roadmap phase: Phase 3 docs-only shoppable-media controlled-boundary planning
-- `Verified`: Last completed phase slice: Phase 3 post-merchandising controlled-expansion proposal
-- `Inference`: Next bounded slice: formalize exact allowed and disallowed surfaces for a future shoppable-media proof
+- `Verified`: Active roadmap phase: Phase 3 first shoppable-media proof after docs-only controlled boundary definition
+- `Verified`: Last completed phase slice: Phase 3 shoppable-media controlled boundary plan
+- `Inference`: Next bounded slice: execute one non-JS media-first story proof on the approved five-file surface
 
 ## Approval State
 
 - `Verified`: Current next action approval: APPROVED
-- `Verified`: Approval basis: `UNIT-105` recommended shoppable media as the next honest higher-boundary planning problem and advanced the governed run to a docs-only boundary-definition step
+- `Verified`: Approval basis: `UNIT-106` formalized the first safe shoppable-media boundary and approved one bounded runtime implementation step
 
 ## Lock State
 
