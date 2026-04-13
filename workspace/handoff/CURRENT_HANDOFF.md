@@ -6,42 +6,47 @@
 - `Verified`: The category-entry discovery surface is complete through verified balanced-grid and spotlight variants.
 - `Verified`: The category media band surface is complete and verified.
 - `Verified`: The featured-product showcase surface is complete and verified.
-- `Verified`: The next approved step is one bounded product pair comparison surface.
+- `Verified`: The new product pair comparison surface is now implemented inside a bounded six-file runtime slice.
+- `Verified`: Verification is the only approved next step.
 
 ## Current State
 
-- `Verified`: `UNIT-098` concluded that the next honest move is one product pair comparison section, not another showcase variant.
-- `Verified`: `state/NEXT_ACTION.md` now points to `UNIT-099`, the bounded implementation of that product pair comparison slice.
+- `Verified`: `UNIT-098` approved one product pair comparison section instead of another showcase variant.
+- `Verified`: `UNIT-099` implemented `stone-product-pair-comparison` as the new paired-product merchandising section.
+- `Verified`: `UNIT-099` reused `stone-product-card` as the only product-card snippet surface.
+- `Verified`: `UNIT-099` implemented `page.stone-runtime-product-pair-comparison.json` as the neutral validation template.
+- `Verified`: `UNIT-099` updated bounded CSS and paired locale schema files only.
+- `Verified`: `state/NEXT_ACTION.md` now points to `UNIT-100`, the bounded verification pass for the product pair comparison slice.
 
 ## Changed Or Seeded Files
 
-- `Verified`: `workspace/plans/phase-3-product-pair-comparison-boundary-v1/PLAN.v1.md`
-- `Verified`: `workspace/plans/phase-3-product-pair-comparison-boundary-v1/ASSUMPTIONS.v1.md`
-- `Verified`: `workspace/plans/phase-3-product-pair-comparison-boundary-v1/CHECKS.v1.md`
-- `Verified`: `workspace/plans/phase-3-product-pair-comparison-boundary-v1/RISKS.v1.md`
-- `Verified`: `workspace/plans/phase-3-product-pair-comparison-boundary-v1/HANDOFF.v1.md`
+- `Verified`: `project/assets/stone-base.css`
+- `Verified`: `project/snippets/stone-product-card.liquid`
+- `Verified`: `project/sections/stone-product-pair-comparison.liquid`
+- `Verified`: `project/templates/page.stone-runtime-product-pair-comparison.json`
+- `Verified`: `project/locales/he.default.schema.json`
+- `Verified`: `project/locales/en.schema.json`
 - `Verified`: `state/ORCHESTRATION_STATE.md`
 - `Verified`: `state/STATUS.md`
 - `Verified`: `state/NEXT_ACTION.md`
 - `Verified`: `state/FEATURE_STATUS.md`
 - `Verified`: `state/PROGRESS.md`
 - `Verified`: `state/SESSION_LOG.md`
-- `Verified`: `workspace/handoff/CURRENT_HANDOFF.md`
 
 ## Open Assumptions
 
-- `Verified`: The next runtime slice must stay on the exact product-pair-comparison six-file boundary and must reuse `stone-product-card`.
-- `Verified`: The product pair comparison should remain product-link-only and should stay limited to exactly two explicit product settings.
-- `Inference`: If the product pair comparison cannot stay coherent inside this boundary, the correct move is to stop and author a new docs-only boundary instead of forcing runtime expansion.
+- `Verified`: The product pair comparison slice must remain product-link-only and must not pick up add-to-cart, product-form behavior, product loops, comparison-table mechanics, extra settings, JS, or protected-surface edits.
+- `Verified`: Verification must explicitly confirm exactly two explicit product settings and shared-snippet reuse.
+- `Inference`: If verification finds drift, the correct move is to fail closed rather than normalize the new surface.
 
 ## Recommended Next Step
 
-- `Verified`: Execute `UNIT-099` from `state/NEXT_ACTION.md` and implement one bounded product pair comparison surface without widening scope.
+- `Verified`: Execute `UNIT-100` from `state/NEXT_ACTION.md` and verify exact scope, shared-snippet reuse, setting limits, locale parity, and absence of protected-surface or heavier-commerce drift.
 
 ## Resume Checks
 
 - `Verified`: Read `workspace/plans/phase-3-product-pair-comparison-boundary-v1/PLAN.v1.md`.
 - `Verified`: Read `state/ORCHESTRATION_STATE.md`, `state/STATUS.md`, `state/NEXT_ACTION.md`, `state/FEATURE_STATUS.md`, `state/PROGRESS.md`, and `state/SESSION_LOG.md`.
-- `Verified`: Confirm the next runtime unit is limited to the exact new six-file boundary.
-- `Verified`: Confirm no extra snippet, extra section, or extra template is introduced inside `UNIT-099`.
-- `Verified`: Run `node HARNESS/checks/harness-check.mjs` after the docs-only planning pass.
+- `Verified`: Confirm runtime changes remain inside the exact approved six runtime files.
+- `Verified`: Confirm `stone-product-pair-comparison` renders via `stone-product-card` instead of inline duplicated markup.
+- `Verified`: Run `node HARNESS/checks/harness-check.mjs` after verification.

@@ -1,0 +1,19 @@
+{
+  "sections": {
+    "main": {
+      "type": "stone-product-pair-comparison",
+      "settings": {
+        "heading": "Product pair comparison",
+        "intro": "<p>Use this bounded merchandising surface to validate a restrained side-by-side product comparison without widening into heavier commerce behavior.</p>",
+        "surface_style": "outline",
+        "width_mode": "wide",
+        "spacing_mode": "standard",
+        "show_vendor": true,
+        "show_price": true
+      }
+    }
+  },
+  "order": [
+    "main"
+  ]
+}

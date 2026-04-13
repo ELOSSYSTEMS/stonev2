@@ -2124,6 +2124,78 @@
           }
         }
       }
+    },
+    "stone_product_pair_comparison": {
+      "name": "Product pair comparison",
+      "empty_products": "Select two products to validate the bounded product pair comparison surface.",
+      "settings": {
+        "heading": {
+          "label": "Section heading",
+          "info": "Optional. Displays a neutral heading above the product pair comparison."
+        },
+        "intro": {
+          "label": "Intro text",
+          "info": "Optional. Adds restrained supporting copy above the compared products."
+        },
+        "first_product": {
+          "label": "First product",
+          "info": "Selects the first product in the comparison pair."
+        },
+        "second_product": {
+          "label": "Second product",
+          "info": "Selects the second product in the comparison pair."
+        },
+        "show_vendor": {
+          "label": "Show vendor",
+          "info": "Displays the native product vendor inside each shared product card."
+        },
+        "show_price": {
+          "label": "Show price",
+          "info": "Displays the native product price inside each shared product card."
+        },
+        "surface_style": {
+          "label": "Surface style",
+          "info": "Controls whether the comparison sits directly on the page or inside a soft surface.",
+          "options": {
+            "outline": {
+              "label": "Outline"
+            },
+            "soft": {
+              "label": "Soft"
+            }
+          }
+        },
+        "width_mode": {
+          "label": "Width mode",
+          "info": "Controls the container width for the section shell.",
+          "options": {
+            "narrow": {
+              "label": "Narrow"
+            },
+            "standard": {
+              "label": "Standard"
+            },
+            "wide": {
+              "label": "Wide"
+            }
+          }
+        },
+        "spacing_mode": {
+          "label": "Spacing mode",
+          "info": "Controls the vertical spacing for the section shell.",
+          "options": {
+            "compact": {
+              "label": "Compact"
+            },
+            "standard": {
+              "label": "Balanced"
+            },
+            "relaxed": {
+              "label": "Relaxed"
+            }
+          }
+        }
+      }
     }
   },
   "snippets": {

@@ -2,29 +2,29 @@
 
 ## Current Phase
 
-- `Verified`: Roadmap phase: the featured-product showcase slice is verified and the repo is positioned for one bounded product pair comparison implementation step.
+- `Verified`: Roadmap phase: the bounded product pair comparison implementation slice is complete and awaiting verification.
 
 ## Approved Next Action
 
-- `Verified`: `UNIT-099` execute the product pair comparison slice.
+- `Verified`: `UNIT-100` verify the product pair comparison slice.
 
 ## Last Completed Unit
 
-- `Verified`: Unit ID: `UNIT-098`
-- `Verified`: Summary: authored the post-featured-product-showcase merchandising frontier review, concluded that the next honest move is one product pair comparison section, and approved one bounded comparison-friendly implementation boundary.
+- `Verified`: Unit ID: `UNIT-099`
+- `Verified`: Summary: implemented one homepage-first product pair comparison section that reuses `stone-product-card` and stays inside the exact approved six-file runtime boundary.
 
 ## Verification Status
 
-- `Verified`: Verdict: PASS for `UNIT-098`; Stone V2 is ready for one additional bounded runtime step that broadens merchandising into paired-product contrast without widening into heavier commerce behavior.
-- `Verified`: Evidence: `workspace/plans/phase-3-product-pair-comparison-boundary-v1/PLAN.v1.md`; `workspace/plans/phase-3-product-pair-comparison-boundary-v1/ASSUMPTIONS.v1.md`; `workspace/plans/phase-3-product-pair-comparison-boundary-v1/CHECKS.v1.md`; `workspace/plans/phase-3-product-pair-comparison-boundary-v1/RISKS.v1.md`; `workspace/plans/phase-3-product-pair-comparison-boundary-v1/HANDOFF.v1.md`; `node HARNESS/checks/check-state-artifacts.mjs`; `node HARNESS/checks/check-next-action-scope.mjs`; `node HARNESS/checks/check-plan-exists.mjs`; `node HARNESS/checks/check-handoff-completeness.mjs`; `node HARNESS/checks/check-approval-state.mjs`; `node HARNESS/checks/check-lock-state.mjs`; `node HARNESS/checks/harness-check.mjs`
+- `Verified`: Verdict: implementation PASS for `UNIT-099`; the product pair comparison slice is ready for bounded verification.
+- `Verified`: Evidence: template and locale parse via `node -`; comparison checks via `grep`; explicit product-setting checks via `grep` and `node -`; forbidden-scope grep via `grep`; protected-surface diff via `git diff --name-only`; exact runtime boundary validation via `node -`.
 
 ## Active Blockers
 
-- `Verified`: The next runtime slice remains bounded to the exact product-pair-comparison six-file surface.
-- `Inference`: Any discovered need for extra files, blocks, list settings, product loops, comparison-table mechanics, add-to-cart, richer pricing behavior, rails/carousels, shoppable-media behavior, JS, or protected-surface edits remains a new boundary problem rather than permission to widen `UNIT-099`.
+- `Verified`: Runtime expansion remains paused pending `UNIT-100` verification.
+- `Inference`: Any discovered need for extra files, extra settings, product loops, comparison-table mechanics, add-to-cart, richer pricing behavior, JS, protected-surface edits, rails/carousels, or shoppable-media behavior remains a new boundary problem rather than permission to widen `UNIT-099`.
 
 ## Resume Notes
 
-- `Verified`: Resume from branch `codex/unit-098-post-featured-product-showcase-frontier-plan`.
-- `Verified`: `UNIT-099` should broaden merchandising into paired-product contrast, not another showcase variant or a curated rail.
-- `Verified`: Fail closed if the product pair comparison cannot stay coherent inside the exact six-file boundary.
+- `Verified`: Resume from branch `codex/unit-099-product-pair-comparison-impl`.
+- `Verified`: `UNIT-100` must confirm exact six-file runtime scope, shared product-card reuse, exactly two explicit product settings, locale parity, and the absence of protected-surface or heavier-commerce drift.
+- `Verified`: Do not authorize further runtime work until `UNIT-100` records PASS or FAIL.

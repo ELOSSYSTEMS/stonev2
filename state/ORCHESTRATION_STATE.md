@@ -8,14 +8,14 @@
 
 ## Current Phase
 
-- `Verified`: Active roadmap phase: Phase 3 bounded product-pair-comparison expansion after verified post-showcase frontier review
-- `Verified`: Last completed phase slice: Phase 3 post-featured-product-showcase frontier review
-- `Inference`: Next bounded slice: execute one new product pair comparison surface using the shared product-card contract
+- `Verified`: Active roadmap phase: Phase 3 bounded product-pair-comparison verification after implementation
+- `Verified`: Last completed phase slice: Phase 3 product-pair-comparison implementation slice
+- `Inference`: Next bounded slice: verify exact scope and drift status for the product pair comparison slice
 
 ## Approval State
 
 - `Verified`: Current next action approval: APPROVED
-- `Verified`: Approval basis: `UNIT-098` determined that the next honest step is one product pair comparison section, not another showcase variant or a heavier merchandising expansion
+- `Verified`: Approval basis: `UNIT-099` implemented the distinct product pair comparison surface inside the exact approved six-file runtime boundary and is ready for bounded verification
 
 ## Lock State
 

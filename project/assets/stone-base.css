@@ -1669,3 +1669,38 @@ canvas {
   font-size: clamp(1.35rem, 2vw, 2rem);
   line-height: 1.2;
 }
+
+.stone-product-pair-comparison {
+  display: grid;
+  gap: var(--stone-space-4);
+}
+
+.stone-product-pair-comparison--soft {
+  padding: var(--stone-space-4);
+  border-radius: var(--stone-radius-2);
+  background: var(--stone-color-surface);
+}
+
+.stone-product-pair-comparison__intro > *,
+.stone-product-pair-comparison__empty {
+  margin: 0;
+}
+
+.stone-product-pair-comparison__grid {
+  display: grid;
+  gap: var(--stone-space-4);
+}
+
+@media screen and (min-width: 48rem) {
+  .stone-product-pair-comparison__grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+.stone-product-card--comparison .stone-product-card__image {
+  aspect-ratio: 4 / 3;
+}
+
+.stone-product-card--comparison .stone-product-card__content {
+  gap: var(--stone-space-3);
+}
