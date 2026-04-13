@@ -2,29 +2,29 @@
 
 ## Current Phase
 
-- `Verified`: Roadmap phase: the bounded product pair comparison implementation slice is complete and awaiting verification.
+- `Verified`: Roadmap phase: the bounded product pair comparison slice is verified and the repo is positioned for a docs-only post-comparison frontier review.
 
 ## Approved Next Action
 
-- `Verified`: `UNIT-100` verify the product pair comparison slice.
+- `Verified`: `UNIT-101` author the post-product-pair-comparison merchandising frontier review.
 
 ## Last Completed Unit
 
-- `Verified`: Unit ID: `UNIT-099`
-- `Verified`: Summary: implemented one homepage-first product pair comparison section that reuses `stone-product-card` and stays inside the exact approved six-file runtime boundary.
+- `Verified`: Unit ID: `UNIT-100`
+- `Verified`: Summary: verified that the product pair comparison slice stayed inside the exact approved six-file runtime boundary, reused `stone-product-card`, kept exactly two explicit product settings, and avoided protected-surface or heavier-commerce drift.
 
 ## Verification Status
 
-- `Verified`: Verdict: implementation PASS for `UNIT-099`; the product pair comparison slice is ready for bounded verification.
-- `Verified`: Evidence: template and locale parse via `node -`; comparison checks via `grep`; explicit product-setting checks via `grep` and `node -`; forbidden-scope grep via `grep`; protected-surface diff via `git diff --name-only`; exact runtime boundary validation via `node -`.
+- `Verified`: Verdict: PASS for `UNIT-100`; the product pair comparison slice is accepted as a bounded merchandising-family proof.
+- `Verified`: Evidence: `git show --stat --name-only --format=fuller HEAD`; `git diff --name-only HEAD^ HEAD`; `git diff --name-only HEAD^ HEAD -- project`; template and locale parity via `node -`; shared-snippet and explicit product-setting checks via `grep` and `node -`; comparison product-card evidence via `grep`; forbidden-scope grep via `grep`; protected-surface diff via `git diff --name-only`; exact runtime boundary validation via `node -`; `node HARNESS/checks/check-state-artifacts.mjs`; `node HARNESS/checks/check-next-action-scope.mjs`; `node HARNESS/checks/check-plan-exists.mjs`; `node HARNESS/checks/check-handoff-completeness.mjs`; `node HARNESS/checks/check-approval-state.mjs`; `node HARNESS/checks/check-lock-state.mjs`; `node HARNESS/checks/harness-check.mjs`
 
 ## Active Blockers
 
-- `Verified`: Runtime expansion remains paused pending `UNIT-100` verification.
-- `Inference`: Any discovered need for extra files, extra settings, product loops, comparison-table mechanics, add-to-cart, richer pricing behavior, JS, protected-surface edits, rails/carousels, or shoppable-media behavior remains a new boundary problem rather than permission to widen `UNIT-099`.
+- `Verified`: No runtime blocker was found inside the approved product pair comparison boundary.
+- `Inference`: The next question is a frontier question, not an implementation question.
 
 ## Resume Notes
 
-- `Verified`: Resume from branch `codex/unit-099-product-pair-comparison-impl`.
-- `Verified`: `UNIT-100` must confirm exact six-file runtime scope, shared product-card reuse, exactly two explicit product settings, locale parity, and the absence of protected-surface or heavier-commerce drift.
-- `Verified`: Do not authorize further runtime work until `UNIT-100` records PASS or FAIL.
+- `Verified`: Resume from branch `codex/unit-100-product-pair-comparison-verify`.
+- `Verified`: `UNIT-101` must stay docs-only and must decide whether merchandising still has one honest bounded next move or whether the correct action is to pause and re-plan at a higher boundary.
+- `Verified`: Do not modify `project/` in `UNIT-101`.

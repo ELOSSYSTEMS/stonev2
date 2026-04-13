@@ -8,14 +8,14 @@
 
 ## Current Phase
 
-- `Verified`: Active roadmap phase: Phase 3 bounded product-pair-comparison verification after implementation
-- `Verified`: Last completed phase slice: Phase 3 product-pair-comparison implementation slice
-- `Inference`: Next bounded slice: verify exact scope and drift status for the product pair comparison slice
+- `Verified`: Active roadmap phase: Phase 3 docs-only post-product-pair-comparison frontier review
+- `Verified`: Last completed phase slice: Phase 3 product-pair-comparison verification
+- `Inference`: Next bounded slice: re-evaluate the merchandising frontier before authorizing more runtime work
 
 ## Approval State
 
 - `Verified`: Current next action approval: APPROVED
-- `Verified`: Approval basis: `UNIT-099` implemented the distinct product pair comparison surface inside the exact approved six-file runtime boundary and is ready for bounded verification
+- `Verified`: Approval basis: `UNIT-100` verified the product pair comparison slice and advanced the governed run to a docs-only frontier decision
 
 ## Lock State
 
