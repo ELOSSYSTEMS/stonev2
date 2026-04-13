@@ -8,17 +8,17 @@
 
 ## Approved Unit
 
-- `UNIT-126` Author the post-shoppable-media controlled expansion proposal.
+- `UNIT-127` Author the Phase 3 companion-systems controlled expansion proposal.
 
 ## Objective
 
-- `Verified`: Determine the next honest higher-boundary planning problem, if any, after the bounded shoppable-media runway was judged locally exhausted.
+- `Verified`: Determine whether Stone V2 should reopen `collection companion` and `PDP companion` work as a broader Phase 3 planning track, and which family, if any, should go first.
 - `Verified`: Keep the work docs-only and fail closed on runtime authorization.
-- `Verified`: Do not normalize broader motion-system scope, autoplay, looping, custom controls, wider JS, or heavier commerce as implicit next steps.
+- `Verified`: Do not normalize broader motion/media scope, template-coupled runtime work, preset-pack implementation, wider JS, or heavier commerce as implicit next steps.
 
 ## Plan Reference
 
-- `Path:` `workspace/plans/phase-3-post-shoppable-media-motion-story-frontier-review-v1/HANDOFF.v1.md`
+- `Path:` `workspace/plans/phase-3-post-shoppable-media-controlled-expansion-proposal-v1/HANDOFF.v1.md`
 
 ## Allowed Files Or Surfaces
 
@@ -38,4 +38,4 @@
 
 ## Stop Condition
 
-Fail closed if the proposal starts authorizing runtime work directly, or if it treats broader motion-system scope, autoplay, looping, custom controls, wider JS, or heavier commerce as implicitly approved.
+Fail closed if the proposal starts authorizing runtime work directly, or if it treats broader motion/media scope, collection-template or PDP-template runtime work, preset-pack implementation, wider JS, or heavier commerce as implicitly approved.
