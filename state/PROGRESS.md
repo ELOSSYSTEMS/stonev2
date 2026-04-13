@@ -2,29 +2,29 @@
 
 ## Current Phase
 
-- `Verified`: Roadmap phase: the bounded curated product trio implementation slice is complete and awaiting verification.
+- `Verified`: Roadmap phase: the bounded curated product trio slice is verified and the repo is positioned for a docs-only post-curated-product frontier review.
 
 ## Approved Next Action
 
-- `Verified`: `UNIT-103` verify the curated product trio slice.
+- `Verified`: `UNIT-104` author the post-curated-product-trio merchandising frontier review.
 
 ## Last Completed Unit
 
-- `Verified`: Unit ID: `UNIT-102`
-- `Verified`: Summary: implemented one homepage-first curated product trio section that reuses `stone-product-card` and stays inside the exact approved six-file runtime boundary.
+- `Verified`: Unit ID: `UNIT-103`
+- `Verified`: Summary: verified that the curated product trio slice stayed inside the exact approved six-file runtime boundary, reused `stone-product-card`, kept exactly three explicit product settings, and avoided protected-surface or heavier-commerce drift.
 
 ## Verification Status
 
-- `Verified`: Verdict: implementation PASS for `UNIT-102`; the curated product trio slice is ready for bounded verification.
-- `Verified`: Evidence: template and locale parse via `node -`; curated-trio checks via `grep`; explicit product-setting checks via `grep` and `node -`; forbidden-scope grep via `grep`; protected-surface diff via `git diff --name-only`; exact runtime boundary validation via `node -`.
+- `Verified`: Verdict: PASS for `UNIT-103`; the curated product trio slice is accepted as a bounded merchandising-family proof.
+- `Verified`: Evidence: `git show --stat --name-only --format=fuller HEAD`; `git diff --name-only HEAD^ HEAD`; `git diff --name-only HEAD^ HEAD -- project`; template and locale parity via `node -`; shared-snippet and explicit product-setting checks via `grep` and `node -`; curated product-card evidence via `grep`; forbidden-scope grep via `grep`; protected-surface diff via `git diff --name-only`; exact runtime boundary validation via `node -`; `node HARNESS/checks/check-state-artifacts.mjs`; `node HARNESS/checks/check-next-action-scope.mjs`; `node HARNESS/checks/check-plan-exists.mjs`; `node HARNESS/checks/check-handoff-completeness.mjs`; `node HARNESS/checks/check-approval-state.mjs`; `node HARNESS/checks/check-lock-state.mjs`; `node HARNESS/checks/harness-check.mjs`
 
 ## Active Blockers
 
-- `Verified`: Runtime expansion remains paused pending `UNIT-103` verification.
-- `Inference`: Any discovered need for extra files, extra settings, loops, recommendation behavior, rails/carousels, shoppable-media behavior, JS, protected-surface edits, or heavier commerce behavior remains a new boundary problem rather than permission to widen `UNIT-102`.
+- `Verified`: No runtime blocker was found inside the approved curated product trio boundary.
+- `Inference`: The next question is a frontier question, not an implementation question.
 
 ## Resume Notes
 
-- `Verified`: Resume from branch `codex/unit-102-curated-product-trio-impl`.
-- `Verified`: `UNIT-103` must confirm exact six-file runtime scope, shared product-card reuse, exactly three explicit product settings, locale parity, and the absence of protected-surface or heavier-commerce drift.
-- `Verified`: Do not authorize further runtime work until `UNIT-103` records PASS or FAIL.
+- `Verified`: Resume from branch `codex/unit-103-curated-product-trio-verify`.
+- `Verified`: `UNIT-104` must stay docs-only and must decide whether merchandising still has one honest bounded next move or whether the correct action is to pause and re-plan at a higher boundary.
+- `Verified`: Do not modify `project/` in `UNIT-104`.
