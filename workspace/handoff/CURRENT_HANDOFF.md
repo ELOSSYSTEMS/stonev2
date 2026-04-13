@@ -4,25 +4,18 @@
 
 - `Verified`: Bounded merchandising is complete and paused.
 - `Verified`: The first static shoppable-media family surface is verified.
-- `Verified`: The first interaction-aware shoppable-media family surface is verified.
-- `Verified`: The first drawer-style shoppable-media family surface is now implemented inside a bounded six-file runtime slice.
-- `Verified`: Verification is the only approved next step.
+- `Verified`: The first interaction-aware shoppable-media focus proof is verified.
+- `Verified`: The first drawer-style shoppable-media family surface is implemented and verified.
+- `Verified`: The next approved step is a docs-only post-drawer frontier review.
 
 ## Current State
 
-- `Verified`: `UNIT-114` approved one bounded section-scoped drawer reveal surface with local progressive JS only in `project/assets/stone-runtime.js`.
-- `Verified`: `UNIT-115` implemented `stone-shoppable-media-drawer` on the exact approved six-file surface.
-- `Verified`: `UNIT-115` reused `stone-product-card` unchanged.
-- `Verified`: `state/NEXT_ACTION.md` now points to `UNIT-116`, the bounded verification pass for the shoppable-media drawer slice.
+- `Verified`: `UNIT-115` implemented `stone-shoppable-media-drawer` as the first bounded drawer-style shoppable-media section.
+- `Verified`: `UNIT-116` verified exact six-file scope, unchanged `stone-product-card` reuse, exact settings shape, locale parity, and JS confinement to `project/assets/stone-runtime.js`.
+- `Verified`: `state/NEXT_ACTION.md` now points to `UNIT-117`, the docs-only post-shoppable-media-drawer frontier review.
 
 ## Changed Or Seeded Files
 
-- `Verified`: `project/assets/stone-base.css`
-- `Verified`: `project/assets/stone-runtime.js`
-- `Verified`: `project/sections/stone-shoppable-media-drawer.liquid`
-- `Verified`: `project/templates/page.stone-runtime-shoppable-media-drawer.json`
-- `Verified`: `project/locales/he.default.schema.json`
-- `Verified`: `project/locales/en.schema.json`
 - `Verified`: `state/ORCHESTRATION_STATE.md`
 - `Verified`: `state/STATUS.md`
 - `Verified`: `state/NEXT_ACTION.md`
@@ -33,18 +26,17 @@
 
 ## Open Assumptions
 
-- `Verified`: The first drawer-style shoppable-media proof must keep JS local to `project/assets/stone-runtime.js` and must not edit snippets.
-- `Verified`: Verification must explicitly confirm one image picker, two product settings, four marker-position range settings, and exact six-file runtime scope.
-- `Inference`: If verification finds drift, the correct move is to fail closed rather than normalize the new surface.
+- `Verified`: The first drawer-style shoppable-media proof is complete and verified.
+- `Inference`: The next honest move is not automatic runtime continuation; it requires a docs-only distinctness review first.
+- `Verified`: `UNIT-117` must not modify `project/`.
 
 ## Recommended Next Step
 
-- `Verified`: Execute `UNIT-116` from `state/NEXT_ACTION.md` and verify exact scope, unchanged snippet reuse, settings-shape compliance, locale parity, and JS confinement.
+- `Verified`: Execute `UNIT-117` from `state/NEXT_ACTION.md` and decide whether shoppable media still has one honest bounded next move or whether the correct action is to pause and re-plan at a higher boundary.
 
 ## Resume Checks
 
 - `Verified`: Read `workspace/plans/phase-3-shoppable-media-drawer-boundary-v1/PLAN.v1.md`.
 - `Verified`: Read `state/ORCHESTRATION_STATE.md`, `state/STATUS.md`, `state/NEXT_ACTION.md`, `state/FEATURE_STATUS.md`, `state/PROGRESS.md`, and `state/SESSION_LOG.md`.
-- `Verified`: Confirm runtime changes remain inside the exact approved six runtime files.
-- `Verified`: Confirm `stone-product-card` remains unchanged.
-- `Verified`: Run `node HARNESS/checks/harness-check.mjs` after verification.
+- `Verified`: Confirm `UNIT-117` is docs-only and touches only `workspace/plans/`, `state/`, and `workspace/handoff/CURRENT_HANDOFF.md`.
+- `Verified`: Run `node HARNESS/checks/harness-check.mjs` after the docs-only frontier review.

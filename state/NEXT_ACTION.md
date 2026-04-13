@@ -3,18 +3,18 @@
 ## Status
 
 - `Verified`: Approval State: APPROVED
-- `Verified`: Execution Class: verification
+- `Verified`: Execution Class: docs-planning
 - `Verified`: Priority: high
 
 ## Approved Unit
 
-- `UNIT-116` Verify the shoppable-media drawer slice.
+- `UNIT-117` Author the post-shoppable-media-drawer frontier review.
 
 ## Objective
 
-- `Verified`: Verify that the shoppable-media drawer slice stayed inside the exact approved six-file runtime boundary.
-- `Verified`: Verify that `stone-shoppable-media-drawer` reuses `stone-product-card` unchanged, stays limited to one image picker, two product settings, and four marker-position range settings, and keeps JS local to `project/assets/stone-runtime.js`.
-- `Verified`: Verify that the slice remained free of protected-surface, global-overlay, or heavier commerce drift.
+- `Verified`: Re-evaluate the shoppable-media family after the verified first drawer-style proof.
+- `Verified`: Decide whether the next honest move is another bounded shoppable-media expansion, a pause, or a shift to a different governed planning problem.
+- `Verified`: Keep this next unit docs-only and fail closed on runtime widening.
 
 ## Plan Reference
 
@@ -22,12 +22,7 @@
 
 ## Allowed Files Or Surfaces
 
-- `project/assets/stone-base.css`
-- `project/assets/stone-runtime.js`
-- `project/sections/stone-shoppable-media-drawer.liquid`
-- `project/templates/page.stone-runtime-shoppable-media-drawer.json`
-- `project/locales/he.default.schema.json`
-- `project/locales/en.schema.json`
+- `workspace/plans/`
 - `state/`
 - `workspace/handoff/CURRENT_HANDOFF.md`
 
@@ -43,4 +38,4 @@
 
 ## Stop Condition
 
-Stop if verification finds any runtime file outside the approved six runtime files, any snippet drift, any JS outside `project/assets/stone-runtime.js`, any settings-shape drift, or any global-overlay or heavier commerce behavior. Fail closed instead of normalizing drift.
+Stop if the frontier review needs runtime edits, JS authorization beyond the bounded section-scoped drawer model, protected-surface authorization, or any attempt to authorize a new slice without a precise distinctness case, explicit surface rules, and exact stop conditions. Fail closed instead of normalizing expansion.
