@@ -3,26 +3,30 @@
 ## Status
 
 - `Verified`: Approval State: APPROVED
-- `Verified`: Execution Class: docs-planning
+- `Verified`: Execution Class: implementation
 - `Verified`: Priority: high
 
 ## Approved Unit
 
-- `UNIT-122` Author the shoppable-media motion boundary package.
+- `UNIT-123` Execute the shoppable-media motion story slice.
 
 ## Objective
 
-- `Verified`: Define the smallest honest motion-aware or video-aware boundary for the shoppable-media family after the verified overlay proof.
-- `Verified`: Keep the unit docs-only.
-- `Verified`: Define exact allowed and disallowed surfaces before any future runtime motion work is considered.
+- `Verified`: Implement the first motion-aware shoppable-media proof as one non-JS video-first story surface with exactly two linked products.
+- `Verified`: Keep the implementation inside the exact approved five-file runtime boundary.
+- `Verified`: Keep `stone-product-card` unchanged and keep `project/assets/stone-runtime.js` unchanged.
 
 ## Plan Reference
 
-- `Path:` `workspace/plans/phase-3-post-shoppable-media-overlay-frontier-review-v1/PLAN.v1.md`
+- `Path:` `workspace/plans/phase-3-shoppable-media-motion-boundary-v1/PLAN.v1.md`
 
 ## Allowed Files Or Surfaces
 
-- `workspace/plans/`
+- `project/assets/stone-base.css`
+- `project/sections/stone-shoppable-media-motion-story.liquid`
+- `project/templates/page.stone-runtime-shoppable-media-motion-story.json`
+- `project/locales/he.default.schema.json`
+- `project/locales/en.schema.json`
 - `state/`
 - `workspace/handoff/CURRENT_HANDOFF.md`
 
@@ -38,4 +42,4 @@
 
 ## Stop Condition
 
-Stop if the boundary package starts authorizing runtime edits directly, hides autoplay or broader media-runtime behavior inside vague motion language, or cannot define an exact bounded motion-aware interaction model with explicit stop conditions. Fail closed instead of normalizing expansion.
+Stop if the motion implementation needs JS, autoplay, looping policy changes, custom playback controls, snippet edits, block files, a third product, loops, heavier commerce actions, or any runtime file outside the exact approved five-file scope. Fail closed instead of normalizing drift.
