@@ -8,14 +8,14 @@
 
 ## Current Phase
 
-- `Verified`: Active roadmap phase: Phase 4 preset-pack shared-defaults proposal completed; repo awaiting a docs-only Phase 4 homepage-first preset-pack implementation-boundary proposal constrained to shared homepage surfaces and explicit companion-family placeholders
-- `Verified`: Last completed phase slice: Phase 4 preset-pack shared-defaults proposal
-- `Inference`: Next bounded slice: author a docs-only Phase 4 homepage-first preset-pack implementation-boundary proposal after the shared-defaults verdict proved the five presets can stay coherent on homepage-first surfaces without consuming blocked collection or PDP domains
+- `Verified`: Active roadmap phase: Phase 4 homepage-first preset-pack implementation-boundary proposal completed; repo awaiting a docs-only Phase 4 post-homepage-first preset-pack implementation-boundary frontier review that keeps runtime authorization and blocked companion-family domains fail-closed
+- `Verified`: Last completed phase slice: Phase 4 homepage-first preset-pack implementation-boundary proposal
+- `Inference`: Next bounded slice: author a docs-only Phase 4 post-homepage-first preset-pack implementation-boundary frontier review now that one exact homepage-only preset composition/defaults contract has been stated without approving implementation
 
 ## Approval State
 
 - `Verified`: Current next action approval: APPROVED
-- `Verified`: Approval basis: `UNIT-138` concluded that the five roadmap presets can now receive homepage-first shared defaults through admitted shared families and shared settings only, while deferred `collection companion` and `PDP companion` dependencies remain explicit and blocked
+- `Verified`: Approval basis: `UNIT-139` concluded that one exact homepage-only preset-pack runtime-facing boundary can now be stated as a future contract while runtime implementation, collection/PDP behavior domains, and collection/PDP starter structures remain fail-closed
 
 ## Lock State
 
