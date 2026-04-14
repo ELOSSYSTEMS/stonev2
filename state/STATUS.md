@@ -50,7 +50,8 @@
 - `Verified`: `UNIT-138` concludes that the five roadmap presets can now be expressed coherently through homepage-first shared defaults only, while collection-dependent and PDP-dependent assumptions remain blocked or placeholder-bound.
 - `Verified`: `UNIT-139` concludes that one exact homepage-only preset-pack runtime-facing boundary can now be stated as a future homepage composition/defaults contract, while runtime implementation, runtime file scope, schema scope, and blocked collection/PDP domains remain fail-closed.
 - `Verified`: `UNIT-140` concludes that homepage-first preset-pack planning is locally exhausted at the docs-only contract-definition edge and that no later implementation-admission proposal is justified from the current evidence.
-- `Inference`: The repo is now paused at the Phase 4 homepage-first preset-pack frontier rather than positioned for direct preset implementation or another follow-on planning package.
+- `Verified`: `UNIT-141` maintains the governed pause at the Phase 4 homepage-first preset-pack contract-definition frontier without changing the admitted homepage-only contract or authorizing any new planning or implementation-admission review.
+- `Inference`: The repo remains paused at the Phase 4 homepage-first preset-pack frontier rather than positioned for direct preset implementation or another follow-on planning package.
 
 ## Risks And Blocks
 

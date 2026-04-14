@@ -2,7 +2,7 @@
 
 ## Current Phase
 
-- `Verified`: Roadmap phase: the bounded shoppable-media runway remains complete, unresolved companion-family work remains explicitly deferred, and the repo is now paused at the docs-only Phase 4 homepage-first preset-pack contract-definition frontier after the frontier review rejected any later implementation-admission proposal.
+- `Verified`: Roadmap phase: the bounded shoppable-media runway remains complete, unresolved companion-family work remains explicitly deferred, and the repo remains paused at the docs-only Phase 4 homepage-first preset-pack contract-definition frontier after `UNIT-141` preserved the post-`UNIT-140` governed pause unchanged.
 
 ## Approved Next Action
 
@@ -10,13 +10,13 @@
 
 ## Last Completed Unit
 
-- `Verified`: Unit ID: `UNIT-140`
-- `Verified`: Summary: concluded that homepage-first preset-pack planning is locally exhausted at the docs-only contract-definition edge, that no later implementation-admission proposal is justified from the current evidence, and that the repo should remain paused until fresh canonical evidence appears.
+- `Verified`: Unit ID: `UNIT-141`
+- `Verified`: Summary: maintained the governed pause at the homepage-first preset-pack contract-definition frontier, preserved the exact homepage-only preset composition/defaults contract from `UNIT-139` and `UNIT-140`, and left all blocked collection/PDP domains and runtime authorization fail-closed.
 
 ## Verification Status
 
-- `Verified`: Verdict: planning PASS for `UNIT-140`; homepage-first preset-pack planning is now locally exhausted at the docs-only contract-definition edge, no later implementation-admission proposal is justified from the current evidence, and the next approved action is a governed pause.
-- `Verified`: Evidence: `workspace/plans/phase-4-post-homepage-first-preset-pack-implementation-boundary-frontier-review-v1/PLAN.v1.md`; review assumptions, checks, risks, and handoff artifacts; required harness and state checks; explicit no-`project/`-change verification.
+- `Verified`: Verdict: governance-pause PASS for `UNIT-141`; the homepage-first preset-pack frontier remains paused with no new planning or implementation-admission approval, and `state/NEXT_ACTION.md` correctly remains pinned to the same pause-only governed state.
+- `Verified`: Evidence: `state/NEXT_ACTION.md`; `workspace/plans/phase-4-post-homepage-first-preset-pack-implementation-boundary-frontier-review-v1/HANDOFF.v1.md`; updated state and handoff artifacts; required harness and state checks; explicit no-`project/`-change verification.
 
 ## Active Blockers
 
@@ -38,7 +38,7 @@
 - `Verified`: No collection-template starter structure or PDP-template starter structure is approved from the current shared-defaults evidence.
 - `Verified`: No later preset-pack implementation-admission proposal is approved from the current evidence.
 - `Verified`: No further preset-pack planning unit is approved from the current evidence.
-- `Inference`: The honest next state is a governed pause rather than direct preset implementation or any attempt to fill collection/PDP companion assumptions implicitly.
+- `Inference`: The honest next state remains a governed pause rather than direct preset implementation or any attempt to fill collection/PDP companion assumptions implicitly.
 
 ## Resume Notes
 

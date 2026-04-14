@@ -8,14 +8,14 @@
 
 ## Current Phase
 
-- `Verified`: Active roadmap phase: Phase 4 homepage-first preset-pack implementation-boundary frontier review completed; repo now paused at the homepage-only preset-pack contract-definition frontier with runtime authorization and blocked companion-family domains still fail-closed
+- `Verified`: Active roadmap phase: Phase 4 homepage-first preset-pack implementation-boundary frontier review completed; `UNIT-141` maintained the resulting governed pause at the homepage-only preset-pack contract-definition frontier with runtime authorization and blocked companion-family domains still fail-closed
 - `Verified`: Last completed phase slice: Phase 4 post-homepage-first preset-pack implementation-boundary frontier review
-- `Inference`: No new bounded slice is justified from the current evidence; fresh canonical evidence would be required before preset-pack planning or implementation-admission review can reopen honestly
+- `Inference`: No new bounded slice is justified from the current evidence; fresh canonical evidence would still be required before preset-pack planning or implementation-admission review can reopen honestly
 
 ## Approval State
 
 - `Verified`: Current next action approval: CONDITIONALLY_APPROVED
-- `Verified`: Approval basis: `UNIT-140` concluded that homepage-first preset-pack planning is locally exhausted at the docs-only contract-definition edge, that no later implementation-admission proposal is justified from the current evidence, and that the next approved action is a governed pause until fresh canonical evidence appears
+- `Verified`: Approval basis: `UNIT-140` concluded that homepage-first preset-pack planning is locally exhausted at the docs-only contract-definition edge, and `UNIT-141` maintained the resulting governed pause without admitting any new planning or implementation-authority scope
 
 ## Lock State
 

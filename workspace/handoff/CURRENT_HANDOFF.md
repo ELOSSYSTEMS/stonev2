@@ -46,7 +46,8 @@
 - `Verified`: `UNIT-138` records homepage-first shared defaults for `jewelry`, `apparel`, `electronics`, `beauty`, and `home-lifestyle` using admitted shared families and shared settings only, while keeping collection-template and PDP-template assumptions explicit placeholders.
 - `Verified`: `UNIT-139` records that one exact homepage-only preset-pack runtime-facing boundary can now be stated as a future homepage composition/defaults contract, while runtime implementation, runtime file scope, schema scope, and blocked collection/PDP domains remain fail-closed.
 - `Verified`: `UNIT-140` records that homepage-first preset-pack planning is locally exhausted at the docs-only contract-definition edge, that no later implementation-admission proposal is justified from the current evidence, and that the repo should remain paused until fresh canonical evidence appears.
-- `Verified`: `state/NEXT_ACTION.md` now points to `UNIT-141` as a governed pause state rather than a new planning or runtime unit.
+- `Verified`: `UNIT-141` preserves that governed pause without altering the admitted homepage-only preset composition/defaults contract or reopening any blocked collection/PDP domain.
+- `Verified`: `state/NEXT_ACTION.md` remains pinned to `UNIT-141` as the active governed pause state rather than advancing to a new planning or runtime unit.
 
 ## Changed Or Seeded Files
 
@@ -160,7 +161,7 @@
 - `Verified`: No homepage-only preset-pack implementation-boundary proposal may treat its contract as implementation approval.
 - `Verified`: No later preset-pack implementation-admission proposal is approved from the current evidence.
 - `Verified`: No further preset-pack planning unit is approved from the current evidence.
-- `Inference`: The honest next state is a governed pause that preserves the homepage-only preset contract without consuming blocked companion domains.
+- `Inference`: The honest next state remains a governed pause that preserves the homepage-only preset contract without consuming blocked companion domains.
 
 ## Recommended Next Step
 
