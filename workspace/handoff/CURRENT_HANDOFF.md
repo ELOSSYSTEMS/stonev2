@@ -23,6 +23,7 @@
 - `Verified`: The Phase 4 preset-pack boundary proposal is complete and concludes that only resolved shared families and shared settings may inform preset planning now, while companion-dependent preset assumptions stay blocked or placeholder-bound.
 - `Verified`: The Phase 4 preset-pack shared-defaults proposal is complete and concludes that the five roadmap presets can now be expressed coherently through homepage-first shared defaults only, while collection-dependent and PDP-dependent assumptions remain blocked or placeholder-bound.
 - `Verified`: The Phase 4 homepage-first preset-pack implementation-boundary proposal is complete and concludes that one exact homepage-only preset-pack runtime-facing boundary can now be stated as a future homepage composition/defaults contract, while runtime implementation and blocked collection/PDP domains remain fail-closed.
+- `Verified`: The Phase 4 post-homepage-first preset-pack implementation-boundary frontier review is complete and concludes that homepage-first preset-pack planning is locally exhausted at the docs-only contract-definition edge and that no later implementation-admission proposal is justified from the current evidence.
 
 ## Current State
 
@@ -44,7 +45,8 @@
 - `Verified`: `UNIT-137` records that preset planning may use only resolved shared families and shared settings now, and that collection-dependent and PDP-dependent preset assumptions must stay blocked or placeholder-bound.
 - `Verified`: `UNIT-138` records homepage-first shared defaults for `jewelry`, `apparel`, `electronics`, `beauty`, and `home-lifestyle` using admitted shared families and shared settings only, while keeping collection-template and PDP-template assumptions explicit placeholders.
 - `Verified`: `UNIT-139` records that one exact homepage-only preset-pack runtime-facing boundary can now be stated as a future homepage composition/defaults contract, while runtime implementation, runtime file scope, schema scope, and blocked collection/PDP domains remain fail-closed.
-- `Verified`: `state/NEXT_ACTION.md` now points to `UNIT-140`.
+- `Verified`: `UNIT-140` records that homepage-first preset-pack planning is locally exhausted at the docs-only contract-definition edge, that no later implementation-admission proposal is justified from the current evidence, and that the repo should remain paused until fresh canonical evidence appears.
+- `Verified`: `state/NEXT_ACTION.md` now points to `UNIT-141` as a governed pause state rather than a new planning or runtime unit.
 
 ## Changed Or Seeded Files
 
@@ -156,11 +158,14 @@
 - `Verified`: No collection behavior or PDP support behavior domain is approved as a preset-pack input from the current evidence.
 - `Verified`: No collection-template starter structure or PDP-template starter structure is approved from the shared-defaults evidence.
 - `Verified`: No homepage-only preset-pack implementation-boundary proposal may treat its contract as implementation approval.
-- `Inference`: The next honest move is a docs-only Phase 4 post-homepage-first preset-pack implementation-boundary frontier review that tests whether preset planning is locally exhausted at the contract-definition edge without consuming blocked companion domains.
+- `Verified`: No later preset-pack implementation-admission proposal is approved from the current evidence.
+- `Verified`: No further preset-pack planning unit is approved from the current evidence.
+- `Inference`: The honest next state is a governed pause that preserves the homepage-only preset contract without consuming blocked companion domains.
 
 ## Recommended Next Step
 
-- `Verified`: Execute `UNIT-140` as a docs-only Phase 4 post-homepage-first preset-pack implementation-boundary frontier review.
+- `Verified`: Maintain the governed pause recorded as `UNIT-141`.
+- `Verified`: Do not reopen preset-pack planning or any implementation-admission review without fresh canonical evidence.
 
 ## Resume Checks
 
@@ -181,8 +186,10 @@
 - `Verified`: Treat `UNIT-137` as accepted evidence that only resolved shared families and shared settings may inform preset planning now, and that companion-dependent preset assumptions must stay blocked or placeholder-bound.
 - `Verified`: Treat `UNIT-138` as accepted evidence that the five roadmap presets can now be expressed coherently through homepage-first shared defaults only, while collection-template and PDP-template assumptions remain blocked or placeholder-bound.
 - `Verified`: Treat `UNIT-139` as accepted evidence that one exact homepage-only preset-pack runtime-facing boundary can now be stated as a future homepage composition/defaults contract while runtime implementation and blocked collection/PDP domains remain fail-closed.
+- `Verified`: Treat `UNIT-140` as accepted evidence that homepage-first preset-pack planning is locally exhausted at the contract-definition edge and that no later implementation-admission proposal is justified from the current evidence.
 - `Verified`: Run `node HARNESS/checks/harness-check.mjs` during the `UNIT-136` planning pass.
 - `Verified`: Run `node HARNESS/checks/harness-check.mjs` during the `UNIT-137` planning pass.
 - `Verified`: Run `node HARNESS/checks/harness-check.mjs` during the `UNIT-138` planning pass.
 - `Verified`: Run `node HARNESS/checks/harness-check.mjs` during the `UNIT-139` planning pass.
-- `Verified`: Do not authorize new runtime work, broader companion-family reopening, collection behavior, PDP support behavior, collection-template starter structure, PDP-template starter structure, or preset implementation unless a later higher-boundary docs-only proposal produces a fresh explicit approval package.
+- `Verified`: Run `node HARNESS/checks/harness-check.mjs` during the `UNIT-140` planning pass.
+- `Verified`: Do not authorize new runtime work, broader companion-family reopening, collection behavior, PDP support behavior, collection-template starter structure, PDP-template starter structure, preset implementation, or implementation-admission review unless fresh canonical evidence produces a new explicit approval package.

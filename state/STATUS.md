@@ -5,7 +5,7 @@
 - `Verified`: Repo state: harness foundation populated
 - `Verified`: Storefront runtime state: bounded merchandising is complete, the first static shoppable-media proof is verified, the first interaction-aware focus proof is verified, the first drawer-style shoppable-media proof is verified, the first overlay-style shoppable-media proof is verified, the first motion-aware shoppable-media boundary is defined, and the first motion-aware shoppable-media story proof is now verified.
 - `Verified`: Architecture authority: the five documents under `docs/architecture/`
-- `Verified`: Current active planning package: `workspace/plans/phase-4-homepage-first-preset-pack-implementation-boundary-proposal-v1/`
+- `Verified`: Current active planning package: `workspace/plans/phase-4-post-homepage-first-preset-pack-implementation-boundary-frontier-review-v1/`
 
 ## Canonical Inputs
 
@@ -49,7 +49,8 @@
 - `Verified`: `UNIT-137` concludes that only resolved shared families and shared settings may inform preset planning now, and that companion-dependent preset assumptions must stay blocked or placeholder-bound.
 - `Verified`: `UNIT-138` concludes that the five roadmap presets can now be expressed coherently through homepage-first shared defaults only, while collection-dependent and PDP-dependent assumptions remain blocked or placeholder-bound.
 - `Verified`: `UNIT-139` concludes that one exact homepage-only preset-pack runtime-facing boundary can now be stated as a future homepage composition/defaults contract, while runtime implementation, runtime file scope, schema scope, and blocked collection/PDP domains remain fail-closed.
-- `Inference`: The repo is now positioned at a docs-only Phase 4 post-homepage-first preset-pack implementation-boundary frontier-review question rather than direct preset implementation or any attempt to fill collection or PDP companion gaps implicitly.
+- `Verified`: `UNIT-140` concludes that homepage-first preset-pack planning is locally exhausted at the docs-only contract-definition edge and that no later implementation-admission proposal is justified from the current evidence.
+- `Inference`: The repo is now paused at the Phase 4 homepage-first preset-pack frontier rather than positioned for direct preset implementation or another follow-on planning package.
 
 ## Risks And Blocks
 
@@ -70,4 +71,6 @@
 - `Verified`: No homepage-first preset-pack implementation-boundary proposal may treat its contract definition as runtime implementation approval.
 - `Verified`: No collection behavior or PDP support behavior domain is approved as a preset-pack input from the current evidence.
 - `Verified`: No collection-template starter structure or PDP-template starter structure is approved from the current shared-defaults evidence.
-- `Inference`: Any continuation now requires one docs-only Phase 4 post-homepage-first preset-pack implementation-boundary frontier review that tests whether preset planning is locally exhausted at the contract-definition edge and whether any later implementation-admission proposal is justified at all.
+- `Verified`: No later preset-pack implementation-admission proposal is approved from the current evidence.
+- `Verified`: No further preset-pack planning unit is approved from the current evidence.
+- `Inference`: Any continuation now requires fresh canonical evidence before preset-pack planning or implementation-admission review can reopen honestly.

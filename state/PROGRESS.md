@@ -2,21 +2,21 @@
 
 ## Current Phase
 
-- `Verified`: Roadmap phase: the bounded shoppable-media runway remains complete, unresolved companion-family work remains explicitly deferred, and the repo is positioned at a docs-only Phase 4 post-homepage-first preset-pack implementation-boundary frontier-review point after the implementation-boundary verdict stated one exact homepage-only preset composition/defaults contract.
+- `Verified`: Roadmap phase: the bounded shoppable-media runway remains complete, unresolved companion-family work remains explicitly deferred, and the repo is now paused at the docs-only Phase 4 homepage-first preset-pack contract-definition frontier after the frontier review rejected any later implementation-admission proposal.
 
 ## Approved Next Action
 
-- `Verified`: `UNIT-140` author the Phase 4 post-homepage-first preset-pack implementation-boundary frontier review.
+- `Verified`: `UNIT-141` maintain a governed pause at the Phase 4 homepage-first preset-pack contract-definition frontier until fresh canonical evidence justifies any new planning or implementation-admission review.
 
 ## Last Completed Unit
 
-- `Verified`: Unit ID: `UNIT-139`
-- `Verified`: Summary: concluded that one exact homepage-only preset-pack runtime-facing boundary can now be stated as a future homepage composition/defaults contract, while runtime implementation and blocked collection/PDP domains remain fail-closed.
+- `Verified`: Unit ID: `UNIT-140`
+- `Verified`: Summary: concluded that homepage-first preset-pack planning is locally exhausted at the docs-only contract-definition edge, that no later implementation-admission proposal is justified from the current evidence, and that the repo should remain paused until fresh canonical evidence appears.
 
 ## Verification Status
 
-- `Verified`: Verdict: planning PASS for `UNIT-139`; one exact homepage-only preset-pack runtime-facing boundary is now stated as a docs-only future contract, while runtime authorization, runtime file scope, schema scope, and blocked collection/PDP domains remain fail-closed.
-- `Verified`: Evidence: `workspace/plans/phase-4-homepage-first-preset-pack-implementation-boundary-proposal-v1/PLAN.v1.md`; proposal assumptions, checks, risks, and handoff artifacts; required harness and state checks; explicit no-`project/`-change verification.
+- `Verified`: Verdict: planning PASS for `UNIT-140`; homepage-first preset-pack planning is now locally exhausted at the docs-only contract-definition edge, no later implementation-admission proposal is justified from the current evidence, and the next approved action is a governed pause.
+- `Verified`: Evidence: `workspace/plans/phase-4-post-homepage-first-preset-pack-implementation-boundary-frontier-review-v1/PLAN.v1.md`; review assumptions, checks, risks, and handoff artifacts; required harness and state checks; explicit no-`project/`-change verification.
 
 ## Active Blockers
 
@@ -36,10 +36,12 @@
 - `Verified`: No homepage-only preset-pack implementation-boundary proposal may treat its contract as implementation approval.
 - `Verified`: No collection behavior or PDP support behavior domain is approved as a preset-pack input from the current evidence.
 - `Verified`: No collection-template starter structure or PDP-template starter structure is approved from the current shared-defaults evidence.
-- `Inference`: The next honest move is a docs-only Phase 4 post-homepage-first preset-pack implementation-boundary frontier review rather than direct preset implementation or any attempt to fill collection/PDP companion assumptions implicitly.
+- `Verified`: No later preset-pack implementation-admission proposal is approved from the current evidence.
+- `Verified`: No further preset-pack planning unit is approved from the current evidence.
+- `Inference`: The honest next state is a governed pause rather than direct preset implementation or any attempt to fill collection/PDP companion assumptions implicitly.
 
 ## Resume Notes
 
-- `Verified`: Resume from branch `codex/unit-138-phase-4-preset-pack-shared-defaults-plan`.
-- `Verified`: `UNIT-140` is the next approved docs-only planning slice.
+- `Verified`: Resume from branch `codex/unit-140-phase-4-post-homepage-first-preset-pack-implementation-boundary-frontier-plan`.
+- `Verified`: `UNIT-141` is a governed pause state rather than a new planning slice.
 - `Verified`: Do not edit `project/assets/stone-runtime.js`, `project/snippets/stone-product-card.liquid`, `project/layout/theme.liquid`, or `project/config/settings_schema.json`.

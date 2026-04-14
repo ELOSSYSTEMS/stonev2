@@ -8,14 +8,14 @@
 
 ## Current Phase
 
-- `Verified`: Active roadmap phase: Phase 4 homepage-first preset-pack implementation-boundary proposal completed; repo awaiting a docs-only Phase 4 post-homepage-first preset-pack implementation-boundary frontier review that keeps runtime authorization and blocked companion-family domains fail-closed
-- `Verified`: Last completed phase slice: Phase 4 homepage-first preset-pack implementation-boundary proposal
-- `Inference`: Next bounded slice: author a docs-only Phase 4 post-homepage-first preset-pack implementation-boundary frontier review now that one exact homepage-only preset composition/defaults contract has been stated without approving implementation
+- `Verified`: Active roadmap phase: Phase 4 homepage-first preset-pack implementation-boundary frontier review completed; repo now paused at the homepage-only preset-pack contract-definition frontier with runtime authorization and blocked companion-family domains still fail-closed
+- `Verified`: Last completed phase slice: Phase 4 post-homepage-first preset-pack implementation-boundary frontier review
+- `Inference`: No new bounded slice is justified from the current evidence; fresh canonical evidence would be required before preset-pack planning or implementation-admission review can reopen honestly
 
 ## Approval State
 
-- `Verified`: Current next action approval: APPROVED
-- `Verified`: Approval basis: `UNIT-139` concluded that one exact homepage-only preset-pack runtime-facing boundary can now be stated as a future contract while runtime implementation, collection/PDP behavior domains, and collection/PDP starter structures remain fail-closed
+- `Verified`: Current next action approval: CONDITIONALLY_APPROVED
+- `Verified`: Approval basis: `UNIT-140` concluded that homepage-first preset-pack planning is locally exhausted at the docs-only contract-definition edge, that no later implementation-admission proposal is justified from the current evidence, and that the next approved action is a governed pause until fresh canonical evidence appears
 
 ## Lock State
 
