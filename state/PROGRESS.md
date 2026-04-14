@@ -2,21 +2,21 @@
 
 ## Current Phase
 
-- `Verified`: Roadmap phase: the bounded shoppable-media runway remains complete, unresolved companion-family work remains explicitly deferred, and the repo is positioned at a docs-only Phase 4 preset-pack shared-defaults planning point after the boundary verdict limited preset inputs to resolved shared families and shared settings only.
+- `Verified`: Roadmap phase: the bounded shoppable-media runway remains complete, unresolved companion-family work remains explicitly deferred, and the repo is positioned at a docs-only Phase 4 homepage-first preset-pack implementation-boundary planning point after the shared-defaults verdict defined the five presets only through admitted shared homepage-first inputs.
 
 ## Approved Next Action
 
-- `Verified`: `UNIT-138` author the Phase 4 preset-pack shared-defaults proposal.
+- `Verified`: `UNIT-139` author the Phase 4 homepage-first preset-pack implementation-boundary proposal.
 
 ## Last Completed Unit
 
-- `Verified`: Unit ID: `UNIT-137`
-- `Verified`: Summary: concluded that preset planning may use only resolved shared families and shared settings now, that companion-dependent preset assumptions must stay blocked or placeholder-bound, and that the next honest move is a docs-only shared-defaults proposal rather than runtime work.
+- `Verified`: Unit ID: `UNIT-138`
+- `Verified`: Summary: concluded that the five roadmap presets can now be expressed through homepage-first shared defaults using admitted shared families and shared settings only, while collection-dependent and PDP-dependent assumptions remain blocked or placeholder-bound.
 
 ## Verification Status
 
-- `Verified`: Verdict: planning PASS for `UNIT-137`; only resolved shared families and shared settings are admissible preset inputs now, companion-dependent preset assumptions remain blocked or placeholder-bound, and runtime authorization remains fail-closed.
-- `Verified`: Evidence: `workspace/plans/phase-4-preset-pack-boundary-proposal-v1/PLAN.v1.md`; proposal assumptions, checks, risks, and handoff artifacts; required harness and state checks; explicit no-`project/`-change verification.
+- `Verified`: Verdict: planning PASS for `UNIT-138`; the five roadmap presets now have homepage-first shared defaults inside admitted shared inputs only, companion-dependent assumptions remain blocked or placeholder-bound, and runtime authorization remains fail-closed.
+- `Verified`: Evidence: `workspace/plans/phase-4-preset-pack-shared-defaults-proposal-v1/PLAN.v1.md`; proposal assumptions, checks, risks, and handoff artifacts; required harness and state checks; explicit no-`project/`-change verification.
 
 ## Active Blockers
 
@@ -34,10 +34,11 @@
 - `Verified`: Unresolved `collection companion` and `PDP companion` work are explicitly deferred behind later Phase 4 preset-pack planning.
 - `Verified`: No preset-pack shared-defaults proposal may treat deferred companion-family work as implicitly resolved.
 - `Verified`: No collection behavior or PDP support behavior domain is approved as a preset-pack input from the current evidence.
-- `Inference`: The next honest move is a docs-only Phase 4 preset-pack shared-defaults proposal rather than another family reopening, direct preset implementation, or any attempt to fill collection/PDP companion assumptions implicitly.
+- `Verified`: No collection-template starter structure or PDP-template starter structure is approved from the current shared-defaults evidence.
+- `Inference`: The next honest move is a docs-only Phase 4 homepage-first preset-pack implementation-boundary proposal rather than another family reopening, direct preset implementation, or any attempt to fill collection/PDP companion assumptions implicitly.
 
 ## Resume Notes
 
-- `Verified`: Resume from branch `codex/unit-137-phase-4-preset-pack-boundary-plan`.
-- `Verified`: `UNIT-138` is the next approved docs-only planning slice.
+- `Verified`: Resume from branch `codex/unit-138-phase-4-preset-pack-shared-defaults-plan`.
+- `Verified`: `UNIT-139` is the next approved docs-only planning slice.
 - `Verified`: Do not edit `project/assets/stone-runtime.js`, `project/snippets/stone-product-card.liquid`, `project/layout/theme.liquid`, or `project/config/settings_schema.json`.

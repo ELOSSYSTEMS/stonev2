@@ -8,14 +8,14 @@
 
 ## Current Phase
 
-- `Verified`: Active roadmap phase: Phase 4 preset-pack boundary proposal completed; repo awaiting a Phase 4 preset-pack shared-defaults proposal constrained to resolved shared inputs and explicit companion-family placeholders
-- `Verified`: Last completed phase slice: Phase 4 preset-pack boundary proposal
-- `Inference`: Next bounded slice: author a docs-only Phase 4 preset-pack shared-defaults proposal after the boundary verdict admitted only resolved shared families and shared settings
+- `Verified`: Active roadmap phase: Phase 4 preset-pack shared-defaults proposal completed; repo awaiting a docs-only Phase 4 homepage-first preset-pack implementation-boundary proposal constrained to shared homepage surfaces and explicit companion-family placeholders
+- `Verified`: Last completed phase slice: Phase 4 preset-pack shared-defaults proposal
+- `Inference`: Next bounded slice: author a docs-only Phase 4 homepage-first preset-pack implementation-boundary proposal after the shared-defaults verdict proved the five presets can stay coherent on homepage-first surfaces without consuming blocked collection or PDP domains
 
 ## Approval State
 
 - `Verified`: Current next action approval: APPROVED
-- `Verified`: Approval basis: `UNIT-137` concluded that preset planning may proceed only through admitted shared families and shared settings while deferred `collection companion` and `PDP companion` dependencies remain explicit and blocked
+- `Verified`: Approval basis: `UNIT-138` concluded that the five roadmap presets can now receive homepage-first shared defaults through admitted shared families and shared settings only, while deferred `collection companion` and `PDP companion` dependencies remain explicit and blocked
 
 ## Lock State
 
