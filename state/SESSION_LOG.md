@@ -4809,3 +4809,40 @@
   - `node HARNESS/checks/harness-check.mjs`
 - Result: PASS
 - Follow-up: execute `UNIT-163` only as docs-only editorial/search host boundary authoring and commit before moving on
+### Session Entry
+
+- Timestamp: 2026-04-23 23:51 Asia/Jerusalem
+- Skill or Mode: `project-plan`
+- Summary: executed `UNIT-163`, completed the docs-only editorial/search host boundary package, recorded absent canonical blog/article/search hosts, reused existing editorial and shell-search evidence, admitted only a later docs-only editorial/search host runtime-boundary package, and kept predictive search, broader editorial growth, cart, preset, and hardening blocked
+- Files changed:
+  - `workspace/plans/phase-4-editorial-and-search-host-boundary-v1/PLAN.v1.md`
+  - `workspace/plans/phase-4-editorial-and-search-host-boundary-v1/ASSUMPTIONS.v1.md`
+  - `workspace/plans/phase-4-editorial-and-search-host-boundary-v1/CHECKS.v1.md`
+  - `workspace/plans/phase-4-editorial-and-search-host-boundary-v1/RISKS.v1.md`
+  - `workspace/plans/phase-4-editorial-and-search-host-boundary-v1/HANDOFF.v1.md`
+  - `workspace/plans/phase-4-editorial-search-host-runtime-boundary-v1/`
+  - `state/ORCHESTRATION_STATE.md`
+  - `state/STATUS.md`
+  - `state/NEXT_ACTION.md`
+  - `state/FEATURE_STATUS.md`
+  - `state/PROGRESS.md`
+  - `state/SESSION_LOG.md`
+  - `workspace/handoff/CURRENT_HANDOFF.md`
+- Checks run:
+  - `git status --short`
+  - `project/templates/blog.json` absence check
+  - `project/templates/article.json` absence check
+  - `project/templates/search.json` absence check
+  - `stone-blog-article-highlights` review
+  - shell search-entry review
+  - architecture/spec editorial and search references review
+  - `git diff --name-only -- project`
+  - `node HARNESS/checks/check-state-artifacts.mjs`
+  - `node HARNESS/checks/check-next-action-scope.mjs`
+  - `node HARNESS/checks/check-plan-exists.mjs`
+  - `node HARNESS/checks/check-handoff-completeness.mjs`
+  - `node HARNESS/checks/check-approval-state.mjs`
+  - `node HARNESS/checks/check-lock-state.mjs`
+  - `node HARNESS/checks/harness-check.mjs`
+- Result: PASS
+- Follow-up: execute `UNIT-164` only as docs-only editorial/search host runtime-boundary authoring and commit before moving on

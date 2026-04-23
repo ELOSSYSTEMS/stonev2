@@ -2,28 +2,28 @@
 
 ## Current Phase
 
-- `Verified`: Roadmap phase: editorial/search host boundary is approved as a docs-only decision package after verified homepage, shell/navigation, collection, and PDP hosts.
+- `Verified`: Roadmap phase: editorial/search host runtime-boundary authoring is approved as a docs-only decision package.
 
 ## Approved Next Action
 
-- `Verified`: `UNIT-163` is explicitly approved as the next docs-only editorial/search host boundary lane because `UNIT-162` passed.
+- `Verified`: `UNIT-164` is explicitly approved as the next docs-only editorial/search host runtime-boundary lane because `UNIT-163` passed.
 
 ## Last Completed Unit
 
-- `Verified`: Unit ID: `UNIT-162`
-- `Verified`: Summary: verified the exact five-file no-JS PDP host/product-form runtime proof, confirmed JSON and section schema validity, confirmed PDP locale parity, confirmed no JavaScript/product-card/AJAX/cart/recommendation drift, and routed only to docs-only editorial/search host boundary authoring.
+- `Verified`: Unit ID: `UNIT-163`
+- `Verified`: Summary: completed the docs-only editorial/search host boundary package, recorded missing blog/article/search canonical hosts, rejected broad editorial/search expansion, admitted only a docs-only runtime-boundary next step, and kept predictive search, JavaScript result behavior, broader editorial growth, cart, preset, and hardening blocked.
 
 ## Verification Status
 
-- `Verified`: Verdict: `UNIT-162` PASS
-- `Verified`: Evidence: `git show --name-only --format=fuller HEAD`; `git diff --name-only HEAD^ HEAD -- project`; protected-surface diff check; JSON parsing; section schema parsing; PDP locale parity check; forbidden-pattern search; `node HARNESS/checks/harness-check.mjs`
+- `Verified`: Verdict: `UNIT-163` PASS
+- `Verified`: Evidence: `project/templates/blog.json`, `project/templates/article.json`, and `project/templates/search.json` absence checks; `stone-blog-article-highlights` review; shell search-entry review; architecture/spec references; `git diff --name-only -- project`; required harness checks
 
 ## Active Blockers
 
-- `Verified`: No editorial/search runtime implementation is approved.
-- `Verified`: No predictive-search behavior is approved.
+- `Verified`: No editorial/search runtime implementation is approved yet.
+- `Verified`: No predictive-search or JavaScript result behavior is approved.
 - `Verified`: No broader editorial-family expansion, cart, preset, or hardening lane is approved.
 
 ## Resume Notes
 
-- `Verified`: Execute `UNIT-163` as docs-only editorial/search host boundary authoring.
+- `Verified`: Execute `UNIT-164` as docs-only editorial/search host runtime-boundary authoring.

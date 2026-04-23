@@ -3,28 +3,27 @@
 ## Status
 
 - `Verified`: Approval State: APPROVED
-- `Verified`: Execution Class: docs-only editorial and search host boundary
+- `Verified`: Execution Class: docs-only editorial/search host runtime boundary
 - `Verified`: Priority: high
 
 ## Approved Unit
 
-- `Verified`: `UNIT-162` passed and now admits only `UNIT-163` as docs-only editorial/search host boundary authoring.
+- `Verified`: `UNIT-163` passed and now admits only `UNIT-164` as docs-only editorial/search host runtime-boundary authoring.
 
 ## Objective
 
-- `Verified`: Record exact host needs for blog, article, and search surfaces.
-- `Verified`: Decide whether one later bounded editorial/search host package is justified after verified homepage, shell/navigation, collection, and PDP hosts.
-- `Verified`: Reuse current editorial/object-aware primitives where possible.
-- `Verified`: Keep predictive-search behavior, broader editorial-family expansion, cart, preset realization, and hardening out of scope.
-- `Verified`: Do not authorize runtime edits from this boundary unit.
+- `Verified`: State one exact future blog/article/search host runtime boundary or stop in a governed block.
+- `Verified`: Keep this unit docs-only.
+- `Verified`: Decide whether a later no-JS editorial/search host proof can be constrained to canonical blog, article, and search hosts plus main sections, shared CSS, and bilingual labels.
+- `Verified`: Keep predictive search, JavaScript result behavior, search merchandising, broader editorial-family growth, cart, preset realization, and hardening blocked.
 
 ## Plan Reference
 
-- `Path:` `workspace/plans/phase-4-editorial-and-search-host-boundary-v1/HANDOFF.v1.md`
+- `Path:` `workspace/plans/phase-4-editorial-search-host-runtime-boundary-v1/HANDOFF.v1.md`
 
 ## Allowed Files Or Surfaces
 
-- `workspace/plans/phase-4-editorial-and-search-host-boundary-v1/`
+- `workspace/plans/phase-4-editorial-search-host-runtime-boundary-v1/`
 - `state/`
 - `workspace/handoff/CURRENT_HANDOFF.md`
 
@@ -40,4 +39,4 @@
 
 ## Stop Condition
 
-Fail closed if `UNIT-163` attempts project runtime edits, treats predictive search as approved, opens broader editorial-family growth, routes directly to implementation without a bounded host package, or routes into cart, preset, or hardening work prematurely.
+Fail closed if `UNIT-164` attempts project runtime edits, cannot state an exact future runtime file boundary, admits predictive search or JavaScript result behavior, opens broader editorial-family growth, or routes directly into implementation without a bounded proof unit.

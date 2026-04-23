@@ -1,9 +1,11 @@
 # Phase 4 Editorial And Search Host Boundary Checks v1
 
-- `Verified`: Create all five planning artifacts inside `workspace/plans/phase-4-editorial-and-search-host-boundary-v1/`.
+- `Verified`: Complete all five planning artifacts inside `workspace/plans/phase-4-editorial-and-search-host-boundary-v1/`.
+- `Verified`: Seed only the docs-only next boundary package under `workspace/plans/phase-4-editorial-search-host-runtime-boundary-v1/`.
 - `Verified`: Keep all edits docs-only in `workspace/plans/`, `state/`, and `workspace/handoff/CURRENT_HANDOFF.md`.
 - `Verified`: Record exact blog, article, and search host needs.
 - `Verified`: Record reusable existing editorial primitives.
+- `Verified`: Keep predictive-search behavior and broader editorial-family expansion out of scope.
 - `Verified`: Verify that no `project/` runtime files changed.
 - `Verified`: Run `git diff --name-only -- project`.
 - `Verified`: Run `node HARNESS/checks/check-state-artifacts.mjs`.
