@@ -8,22 +8,22 @@
 
 ## Approved Unit
 
-- `Verified`: `UNIT-166` passed and now admits only `UNIT-167` as docs-only preset-pack realization boundary authoring.
+- `Verified`: `UNIT-167` passed and now admits only `UNIT-168` as docs-only preset-pack runtime-boundary authoring.
 
 ## Objective
 
-- `Verified`: Decide which parts of the five roadmap presets can now move from contract language into runtime-realizable shared settings and host assignments.
-- `Verified`: Record which preset fields remain blocked or placeholder-bound.
-- `Verified`: Keep per-preset architecture sprawl, bespoke section files, predictive search, cart behavior, and hardening out of scope.
+- `Verified`: State one exact future preset-pack runtime file boundary or stop in a governed block.
+- `Verified`: Define which shared settings domains can carry preset identity, preset defaults, and host assignments.
+- `Verified`: Keep implementation, per-preset architecture, predictive search, cart behavior, checkout/billing-sensitive behavior, recommendations, companion behavior, and hardening out of scope.
 - `Verified`: Do not authorize runtime edits from this boundary unit.
 
 ## Plan Reference
 
-- `Path:` `workspace/plans/phase-4-preset-pack-realization-boundary-v1/HANDOFF.v1.md`
+- `Path:` `workspace/plans/phase-4-preset-pack-runtime-boundary-v1/HANDOFF.v1.md`
 
 ## Allowed Files Or Surfaces
 
-- `workspace/plans/phase-4-preset-pack-realization-boundary-v1/`
+- `workspace/plans/phase-4-preset-pack-runtime-boundary-v1/`
 - `state/`
 - `workspace/handoff/CURRENT_HANDOFF.md`
 
@@ -39,4 +39,4 @@
 
 ## Stop Condition
 
-Fail closed if `UNIT-167` attempts project runtime edits, treats preset realization as broad rollout, creates per-preset architecture sprawl, reopens predictive search or cart behavior, routes directly to implementation without a bounded package, or routes into hardening prematurely.
+Fail closed if `UNIT-168` attempts project runtime edits, cannot state an exact future file boundary, treats preset realization as broad rollout, creates per-preset architecture sprawl, reopens predictive search or cart behavior, routes directly to implementation without exact checks, or routes into hardening prematurely.

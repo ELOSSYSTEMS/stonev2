@@ -9,12 +9,12 @@
 ## Current Phase
 
 - `Verified`: Active roadmap phase: Phase 4 preset-pack realization boundary after verified canonical host proofs
-- `Verified`: Last completed phase slice: Phase 4 editorial/search host runtime proof verification (`UNIT-166`)
+- `Verified`: Last completed phase slice: Phase 4 preset-pack realization boundary (`UNIT-167`)
 
 ## Approval State
 
 - `Verified`: Current next action approval: APPROVED
-- `Verified`: Approval basis: `UNIT-166` verified the exact nine-file no-JS editorial/search host runtime proof and found no JavaScript or predictive-search drift; only a docs-only preset-pack realization boundary is now admitted.
+- `Verified`: Approval basis: `UNIT-167` recorded the preset fields and host assignments that can move into a later runtime-boundary package while keeping implementation, per-preset architecture, predictive search, cart behavior, companion behavior, and hardening blocked.
 
 ## Lock State
 

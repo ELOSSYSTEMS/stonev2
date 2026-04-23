@@ -1,6 +1,8 @@
 # Phase 4 Preset-Pack Realization Boundary Handoff v1
 
-- `Verified`: This pre-authored package is conditional on prior host lanes being completed and verified first.
-- `Verified`: The package must decide which preset fields can move from contract language into runtime realization.
-- `Verified`: The package must keep blocked collection/PDP starter structures and per-preset architecture sprawl explicit unless separately justified.
-- `Inference`: If justified, the output should be one later preset-realization lane rather than immediate broad rollout.
+- `Verified`: This package is docs-only and does not authorize runtime edits.
+- `Verified`: Canonical homepage, shell/navigation, collection, product, blog, article, and search host proofs are now available as prerequisites.
+- `Verified`: Preset identity, homepage sequence defaults, tone and density defaults, shared merchandising emphasis, shared trust/support assumptions, and host assignment defaults can move into a later runtime-boundary package.
+- `Verified`: Per-preset templates, per-preset section files, predictive search, cart behavior, checkout/billing-sensitive behavior, recommendations, collection companion behavior, PDP companion behavior, and hardening remain blocked.
+- `Verified`: The next unit should author one docs-only preset-pack runtime-boundary package that states exact future runtime files, exact settings domains, blocked fields, and checks.
+- `Inference`: Implementation should remain blocked until that runtime-boundary package passes.

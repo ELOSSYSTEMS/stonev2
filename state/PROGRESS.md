@@ -2,21 +2,21 @@
 
 ## Current Phase
 
-- `Verified`: Roadmap phase: preset-pack realization boundary is approved as a docs-only decision package after verified host proofs.
+- `Verified`: Roadmap phase: preset-pack runtime-boundary authoring is approved as a docs-only decision package after verified host proofs and preset realization boundary.
 
 ## Approved Next Action
 
-- `Verified`: `UNIT-167` is explicitly approved as the next docs-only preset-pack realization boundary lane because `UNIT-166` passed.
+- `Verified`: `UNIT-168` is explicitly approved as the next docs-only preset-pack runtime-boundary lane because `UNIT-167` passed.
 
 ## Last Completed Unit
 
-- `Verified`: Unit ID: `UNIT-166`
-- `Verified`: Summary: verified the exact nine-file no-JS editorial/search host runtime proof, confirmed JSON and section schema validity, confirmed locale parity, confirmed no JavaScript or predictive-search drift, and routed only to docs-only preset-pack realization boundary authoring.
+- `Verified`: Unit ID: `UNIT-167`
+- `Verified`: Summary: authored the docs-only preset-pack realization boundary, recorded runtime-realizable preset fields and host assignment boundaries, kept blocked fields explicit, and seeded only a later docs-only preset-pack runtime-boundary package.
 
 ## Verification Status
 
-- `Verified`: Verdict: `UNIT-166` PASS
-- `Verified`: Evidence: `git show --name-only --format=fuller HEAD`; `git diff --name-only HEAD^ HEAD -- project`; protected JavaScript diff check; JSON parsing; section schema parsing; editorial/search locale parity check; forbidden-pattern search; `node HARNESS/checks/harness-check.mjs`
+- `Verified`: Verdict: `UNIT-167` PASS
+- `Verified`: Evidence: `workspace/plans/phase-4-preset-pack-realization-boundary-v1/PLAN.v1.md`; `workspace/plans/phase-4-preset-pack-runtime-boundary-v1/HANDOFF.v1.md`; `git diff --name-only -- project`; required harness checks
 
 ## Active Blockers
 
@@ -26,4 +26,4 @@
 
 ## Resume Notes
 
-- `Verified`: Execute `UNIT-167` as docs-only preset-pack realization boundary authoring.
+- `Verified`: Execute `UNIT-168` as docs-only preset-pack runtime-boundary authoring.
