@@ -8,13 +8,13 @@
 
 ## Current Phase
 
-- `Verified`: Active roadmap phase: Phase 4 no-JS PDP host/product-form runtime proof after bounded boundary authoring
-- `Verified`: Last completed phase slice: Phase 4 PDP host/behavior runtime-boundary authoring (`UNIT-160`)
+- `Verified`: Active roadmap phase: Phase 4 PDP host/product-form runtime proof verification after bounded implementation (`UNIT-161`)
+- `Verified`: Last completed phase slice: Phase 4 no-JS PDP host/product-form runtime proof implementation (`UNIT-161`)
 
 ## Approval State
 
 - `Verified`: Current next action approval: APPROVED
-- `Verified`: Approval basis: `UNIT-160` stated the exact five-file no-JS PDP host/product-form runtime proof boundary and kept companion, JavaScript, cart drawer, recommendation, search, preset, and hardening domains blocked.
+- `Verified`: Approval basis: `UNIT-161` passed inside the exact five-file no-JS PDP host/product-form runtime proof boundary and now requires verification before any further lane can reopen.
 
 ## Lock State
 

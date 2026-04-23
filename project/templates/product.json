@@ -1,0 +1,18 @@
+{
+  "sections": {
+    "main": {
+      "type": "stone-main-product",
+      "settings": {
+        "show_vendor": true,
+        "show_type": true,
+        "show_quantity": true,
+        "show_description": true,
+        "width_mode": "wide",
+        "spacing_mode": "standard"
+      }
+    }
+  },
+  "order": [
+    "main"
+  ]
+}

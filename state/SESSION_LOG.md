@@ -4743,3 +4743,38 @@
   - `node HARNESS/checks/harness-check.mjs`
 - Result: PASS
 - Follow-up: execute `UNIT-161` only as the exact five-file no-JS PDP host/product-form runtime proof and commit before moving on
+### Session Entry
+
+- Timestamp: 2026-04-23 23:47 Asia/Jerusalem
+- Skill or Mode: `project-build`
+- Summary: executed `UNIT-161`, implemented the exact five-file no-JS PDP host/product-form runtime proof, added canonical `product.json`, one native main product section, static product media, metadata, current variant price, variant and quantity controls, native product form, unavailable/sold-out messaging, CSS support, and bilingual labels while keeping JavaScript, product-card edits, AJAX cart, cart drawer, companion, recommendation, search, preset, and hardening domains out of scope
+- Files changed:
+  - `project/templates/product.json`
+  - `project/sections/stone-main-product.liquid`
+  - `project/assets/stone-base.css`
+  - `project/locales/he.default.schema.json`
+  - `project/locales/en.schema.json`
+  - `state/ORCHESTRATION_STATE.md`
+  - `state/STATUS.md`
+  - `state/NEXT_ACTION.md`
+  - `state/FEATURE_STATUS.md`
+  - `state/PROGRESS.md`
+  - `state/SESSION_LOG.md`
+  - `workspace/handoff/CURRENT_HANDOFF.md`
+- Checks run:
+  - `git status --short -- project`
+  - `git ls-files --others --exclude-standard -- project`
+  - JSON parsing for `project/templates/product.json`, `project/locales/en.schema.json`, and `project/locales/he.default.schema.json`
+  - section schema parsing for `project/sections/stone-main-product.liquid`
+  - locale parity for `sections.stone_main_product`
+  - no diff for `project/assets/stone-runtime.js` or `project/snippets/stone-product-card.liquid`
+  - no forbidden AJAX/cart/recommendation pattern search hit in `project/`
+  - `node HARNESS/checks/check-state-artifacts.mjs`
+  - `node HARNESS/checks/check-next-action-scope.mjs`
+  - `node HARNESS/checks/check-plan-exists.mjs`
+  - `node HARNESS/checks/check-handoff-completeness.mjs`
+  - `node HARNESS/checks/check-approval-state.mjs`
+  - `node HARNESS/checks/check-lock-state.mjs`
+  - `node HARNESS/checks/harness-check.mjs`
+- Result: PASS
+- Follow-up: execute `UNIT-162` only as verification/frontier review of the five-file no-JS PDP proof and commit before moving on

@@ -3,7 +3,7 @@
 ## Snapshot
 
 - `Verified`: Repo state: harness foundation populated
-- `Verified`: Storefront runtime state: bounded section-family runtime slices exist, one verified homepage `index.json` host exists, one verified no-JS global shell/navigation proof exists, and one verified no-JS collection host/product-grid proof exists.
+- `Verified`: Storefront runtime state: bounded section-family runtime slices exist, one verified homepage `index.json` host exists, one verified no-JS global shell/navigation proof exists, one verified no-JS collection host/product-grid proof exists, and one PDP host/product-form proof now exists pending verification.
 - `Verified`: Architecture authority: the five documents under `docs/architecture/`
 - `Verified`: Current decision package: `workspace/plans/phase-4-pdp-host-behavior-runtime-proof-v1/`
 
@@ -29,12 +29,12 @@
 
 ## Current Outcome
 
-- `Verified`: `UNIT-159` passed as docs-only PDP host/behavior reopen evidence and admitted only a docs-only PDP runtime-boundary package.
 - `Verified`: `UNIT-160` passed by stating the exact five-file no-JS PDP host/product-form runtime proof boundary.
-- `Verified`: `UNIT-161` is approved only as that exact runtime proof.
+- `Verified`: `UNIT-161` passed by implementing that exact no-JS PDP host/product-form proof.
+- `Verified`: `UNIT-162` is approved only as verification/frontier review.
 
 ## Risks And Blocks
 
-- `Verified`: No runtime files outside the exact five-file PDP proof boundary are approved.
+- `Verified`: No runtime work outside verification of the exact five-file `UNIT-161` boundary is approved.
 - `Verified`: No JavaScript, AJAX cart, cart drawer, product-card snippet edit, `PDP companion`, recommendation, complementary-product, subscription, pickup/inventory, search, preset, or hardening behavior is approved.
-- `Inference`: The next honest step is implementation of the narrow proof followed by verification, not further PDP expansion.
+- `Inference`: The next honest step is verification/frontier review, not immediate PDP companion/cart/search reopening.

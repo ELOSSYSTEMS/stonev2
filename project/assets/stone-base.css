@@ -2470,3 +2470,126 @@ canvas {
     grid-template-columns: repeat(3, minmax(0, 1fr));
   }
 }
+
+.stone-main-product {
+  display: grid;
+  gap: var(--stone-space-5);
+}
+
+.stone-main-product__media-panel {
+  display: grid;
+  min-block-size: 18rem;
+  place-items: center;
+  border: 1px solid var(--stone-color-border);
+  border-radius: var(--stone-radius-2);
+  background: var(--stone-color-surface);
+  overflow: hidden;
+}
+
+.stone-main-product__image {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.stone-main-product__media-empty {
+  padding: var(--stone-space-5);
+  color: var(--stone-color-muted);
+  text-align: center;
+}
+
+.stone-main-product__content {
+  display: grid;
+  align-content: start;
+  gap: var(--stone-space-4);
+}
+
+.stone-main-product__eyebrow,
+.stone-main-product__title,
+.stone-main-product__meta,
+.stone-main-product__price {
+  margin: 0;
+}
+
+.stone-main-product__eyebrow {
+  color: var(--stone-color-muted);
+  font-size: 0.85rem;
+  font-weight: 700;
+  letter-spacing: 0;
+  text-transform: uppercase;
+}
+
+.stone-main-product__title {
+  font-size: clamp(2rem, 5vw, 4rem);
+  line-height: 1;
+}
+
+.stone-main-product__meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--stone-space-2);
+  color: var(--stone-color-muted);
+}
+
+.stone-main-product__price {
+  font-size: 1.25rem;
+  font-weight: 700;
+}
+
+.stone-main-product__form {
+  display: grid;
+  gap: var(--stone-space-3);
+  padding: var(--stone-space-4);
+  border: 1px solid var(--stone-color-border);
+  border-radius: var(--stone-radius-2);
+}
+
+.stone-main-product__field {
+  display: grid;
+  gap: var(--stone-space-2);
+}
+
+.stone-main-product__label {
+  font-weight: 700;
+}
+
+.stone-main-product__select,
+.stone-main-product__quantity {
+  min-block-size: 2.75rem;
+  padding-inline: 0.75rem;
+  border: 1px solid var(--stone-color-border);
+  border-radius: var(--stone-radius-1);
+  background: transparent;
+  color: inherit;
+}
+
+.stone-main-product__submit {
+  min-block-size: 3rem;
+  padding-inline: 1rem;
+  border: 1px solid var(--stone-color-border-strong);
+  border-radius: var(--stone-radius-1);
+  background: var(--stone-color-brand);
+  color: var(--stone-color-canvas);
+  cursor: pointer;
+  font-weight: 700;
+}
+
+.stone-main-product__submit:disabled {
+  cursor: not-allowed;
+  opacity: 0.55;
+}
+
+.stone-main-product__form-errors {
+  color: var(--stone-color-danger, #8a1f11);
+}
+
+.stone-main-product__description {
+  max-inline-size: 42rem;
+}
+
+@media screen and (min-width: 64rem) {
+  .stone-main-product {
+    grid-template-columns: minmax(0, 1.15fr) minmax(20rem, 0.85fr);
+    align-items: start;
+  }
+}

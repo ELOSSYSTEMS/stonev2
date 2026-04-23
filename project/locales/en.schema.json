@@ -2786,6 +2786,64 @@
           }
         }
       }
+    },
+    "stone_main_product": {
+      "name": "Main product",
+      "product_label": "Product",
+      "no_media": "No product media is available.",
+      "variant_label": "Variant",
+      "quantity_label": "Quantity",
+      "add_to_cart": "Add to cart",
+      "sold_out": "Sold out",
+      "unavailable": "Unavailable",
+      "settings": {
+        "show_vendor": {
+          "label": "Show vendor",
+          "info": "Displays the native product vendor above the product form."
+        },
+        "show_type": {
+          "label": "Show product type",
+          "info": "Displays the native product type above the product form."
+        },
+        "show_quantity": {
+          "label": "Show quantity",
+          "info": "Displays a native no-JS quantity field inside the product form."
+        },
+        "show_description": {
+          "label": "Show description",
+          "info": "Displays the native product description below the product form."
+        },
+        "width_mode": {
+          "label": "Width mode",
+          "info": "Controls the container width for the PDP host proof.",
+          "options": {
+            "narrow": {
+              "label": "Narrow"
+            },
+            "standard": {
+              "label": "Standard"
+            },
+            "wide": {
+              "label": "Wide"
+            }
+          }
+        },
+        "spacing_mode": {
+          "label": "Spacing mode",
+          "info": "Controls the vertical spacing for the PDP host proof.",
+          "options": {
+            "compact": {
+              "label": "Compact"
+            },
+            "standard": {
+              "label": "Balanced"
+            },
+            "relaxed": {
+              "label": "Relaxed"
+            }
+          }
+        }
+      }
     }
   },
   "snippets": {

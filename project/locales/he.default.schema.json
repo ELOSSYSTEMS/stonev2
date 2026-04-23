@@ -2786,6 +2786,64 @@
           }
         }
       }
+    },
+    "stone_main_product": {
+      "name": "מוצר ראשי",
+      "product_label": "מוצר",
+      "no_media": "אין מדיה זמינה למוצר.",
+      "variant_label": "וריאנט",
+      "quantity_label": "כמות",
+      "add_to_cart": "הוספה לעגלה",
+      "sold_out": "אזל מהמלאי",
+      "unavailable": "לא זמין",
+      "settings": {
+        "show_vendor": {
+          "label": "הצגת ספק",
+          "info": "מציג את ספק המוצר הטבעי מעל טופס המוצר."
+        },
+        "show_type": {
+          "label": "הצגת סוג מוצר",
+          "info": "מציג את סוג המוצר הטבעי מעל טופס המוצר."
+        },
+        "show_quantity": {
+          "label": "הצגת כמות",
+          "info": "מציג שדה כמות טבעי ללא JavaScript בתוך טופס המוצר."
+        },
+        "show_description": {
+          "label": "הצגת תיאור",
+          "info": "מציג את תיאור המוצר הטבעי מתחת לטופס המוצר."
+        },
+        "width_mode": {
+          "label": "מצב רוחב",
+          "info": "שולט ברוחב הקונטיינר של הוכחת מארח עמוד המוצר.",
+          "options": {
+            "narrow": {
+              "label": "צר"
+            },
+            "standard": {
+              "label": "סטנדרטי"
+            },
+            "wide": {
+              "label": "רחב"
+            }
+          }
+        },
+        "spacing_mode": {
+          "label": "מצב ריווח",
+          "info": "שולט בריווח האנכי של הוכחת מארח עמוד המוצר.",
+          "options": {
+            "compact": {
+              "label": "צפוף"
+            },
+            "standard": {
+              "label": "מאוזן"
+            },
+            "relaxed": {
+              "label": "מרווח"
+            }
+          }
+        }
+      }
     }
   },
   "snippets": {
