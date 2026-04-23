@@ -1,0 +1,38 @@
+{
+  "url": "https://salt-yard.myshopify.com/pages/materials-care",
+  "title": "Materials & Care – Symmetry Theme Salt Yard",
+  "bodyClasses": "template-page\n swatch-source-theme swatch-method-variant-images swatch-style-icon_square cc-animate-enabled",
+  "headings": [
+    "Materials & Care",
+    "Sign up and get 10% off your first order"
+  ],
+  "customElements": [
+    "announcement-bar",
+    "cart-drawer",
+    "cart-form",
+    "countdown-timer",
+    "country-selector",
+    "main-navigation",
+    "main-search",
+    "mobile-disclosure",
+    "page-header",
+    "pop-up",
+    "product-block",
+    "search-suggestions",
+    "shopify-account",
+    "shopify-store"
+  ],
+  "mainOuterHtml": "<main id=\"content\" role=\"main\">\n    <div class=\"container cf\">\n\n      <div id=\"shopify-section-template--26857880158281__main\" class=\"shopify-section page-section-spacing\"><div class=\"container container--reading-width\"><div class=\"page-header\">\n      <h1 class=\"majortitle\">Materials &amp; Care</h1>\n    </div><div class=\"rte cf\">Our cotton is grown on soil that is free of toxic pesticides and fertilizers. Our fabric is dyed and finished without the use of heavy metals or allergenic disperse dyes.<br><br>- Wash at 30 degrees with similar colours<br>- Lay flat to dry<br>- Iron on the inside if necessary</div>\n</div>\n\n\n\n\n</div>\n\n    </div>\n  </main>",
+  "sections": [
+    {
+      "index": 1,
+      "id": null,
+      "tag": "div",
+      "classes": "container cf",
+      "headingSample": [
+        "Materials & Care"
+      ],
+      "outerHTML": "<div class=\"container cf\">\n\n      <div id=\"shopify-section-template--26857880158281__main\" class=\"shopify-section page-section-spacing\"><div class=\"container container--reading-width\"><div class=\"page-header\">\n      <h1 class=\"majortitle\">Materials &amp; Care</h1>\n    </div><div class=\"rte cf\">Our cotton is grown on soil that is free of toxic pesticides and fertilizers. Our fabric is dyed and finished without the use of heavy metals or allergenic disperse dyes.<br><br>- Wash at 30 degrees with similar colours<br>- Lay flat to dry<br>- Iron on the inside if necessary</div>\n</div>\n\n\n\n\n</div>\n\n    </div>"
+    }
+  ]
+}

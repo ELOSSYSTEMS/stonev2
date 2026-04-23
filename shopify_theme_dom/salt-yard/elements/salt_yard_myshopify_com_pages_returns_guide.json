@@ -1,0 +1,33 @@
+{
+  "pageUrl": "https://salt-yard.myshopify.com/pages/returns-guide",
+  "pageTitle": "Returns Guide – Symmetry Theme Salt Yard",
+  "pageSlug": "salt_yard_myshopify_com_pages_returns_guide",
+  "sections": [
+    {
+      "refId": "salt_yard_myshopify_com_pages_returns_guide__section_01",
+      "index": 1,
+      "selectorHint": "div.container.cf",
+      "typeGuess": "hero",
+      "patternTags": [
+        "hero-candidate",
+        "top-of-page",
+        "image-heavy",
+        "cta-cluster",
+        "product-commerce",
+        "editorial-media"
+      ],
+      "headingSample": [
+        "Returns Guide",
+        "Our Returns Policy",
+        "Create a returns lable",
+        "Print your label",
+        "Bag it up",
+        "Drop it off"
+      ],
+      "textSample": "#section-id-template--26857916727369__image_with_text_overlay_iYAxUc .height--fixed { --image-height: 320px; } @media (min-width: 768px) { #section-id-template--26857916727369__image_with_text_overlay_iYAxUc .height--fixed { --image-height: 600px; } } #section-id-template--268579",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_pages_returns_guide/salt_yard_myshopify_com_pages_returns_guide__section_01.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/pages/salt_yard_myshopify_com_pages_returns_guide.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/pages/salt_yard_myshopify_com_pages_returns_guide.json"
+    }
+  ]
+}

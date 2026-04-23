@@ -1,0 +1,96 @@
+{
+  "themeSlug": "allbirds",
+  "url": "https://www.allbirds.com",
+  "origin": "https://www.allbirds.com",
+  "mode": "templates",
+  "clean": true,
+  "screenshots": "home",
+  "discoveredCount": 278,
+  "scrapedCount": 4,
+  "inspirationReferenceCount": 24,
+  "outputDir": "/home/elos/.openclaw/workspace/shopify_theme_dom/allbirds",
+  "trashedOutput": "/home/elos/.openclaw/workspace/.trash/shopify-theme-dom/2026-04-09T16-22-43-278Z_allbirds",
+  "generatedAt": "2026-04-09T16:26:49.598Z",
+  "pages": [
+    {
+      "url": "https://www.allbirds.com/",
+      "slug": "www_allbirds_com",
+      "title": "Allbirds: Comfortable, Sustainable Shoes & Apparel",
+      "type": "home",
+      "headings": [
+        "Men's Shoes",
+        "Customer Favorites",
+        "Apparel & Accessories",
+        "Socks",
+        "Men's Apparel",
+        "Accessories",
+        "Final Few",
+        "Women's Shoes"
+      ],
+      "sections": 6,
+      "screenshot": "/home/elos/.openclaw/workspace/shopify_theme_dom/allbirds/screens/www_allbirds_com.png",
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/allbirds/elements/www_allbirds_com.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/allbirds/elements/www_allbirds_com.json"
+    },
+    {
+      "url": "https://www.allbirds.com/products/mens-wool-runners-natural-black",
+      "slug": "www_allbirds_com_products_mens_wool_runners_natural_black",
+      "title": "Men's Wool Runners - Black - Everyday Sneakers | Allbirds",
+      "type": "product",
+      "headings": [
+        "Men's Shoes",
+        "Customer Favorites",
+        "Apparel & Accessories",
+        "Socks",
+        "Men's Apparel",
+        "Accessories",
+        "Final Few",
+        "Women's Shoes"
+      ],
+      "sections": 9,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/allbirds/elements/www_allbirds_com_products_mens_wool_runners_natural_black.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/allbirds/elements/www_allbirds_com_products_mens_wool_runners_natural_black.json"
+    },
+    {
+      "url": "https://www.allbirds.com/collections/mens",
+      "slug": "www_allbirds_com_collections_mens",
+      "title": "Allbirds: Sustainable Men’s Shoes, Wear-All-Day Comfort",
+      "type": "collection",
+      "headings": [
+        "Men's Shoes",
+        "Customer Favorites",
+        "Apparel & Accessories",
+        "Socks",
+        "Men's Apparel",
+        "Accessories",
+        "Final Few",
+        "Women's Shoes"
+      ],
+      "sections": 3,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/allbirds/elements/www_allbirds_com_collections_mens.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/allbirds/elements/www_allbirds_com_collections_mens.json"
+    },
+    {
+      "url": "https://www.allbirds.com/pages/our-story",
+      "slug": "www_allbirds_com_pages_our_story",
+      "title": "Our Story | Sustainable Shoes & Apparel | Allbirds",
+      "type": "page",
+      "headings": [
+        "Men's Shoes",
+        "Customer Favorites",
+        "Apparel & Accessories",
+        "Socks",
+        "Men's Apparel",
+        "Accessories",
+        "Final Few",
+        "Women's Shoes"
+      ],
+      "sections": 6,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/allbirds/elements/www_allbirds_com_pages_our_story.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/allbirds/elements/www_allbirds_com_pages_our_story.json"
+    }
+  ]
+}

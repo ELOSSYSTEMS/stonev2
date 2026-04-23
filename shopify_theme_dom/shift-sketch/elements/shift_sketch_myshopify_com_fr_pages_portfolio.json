@@ -1,0 +1,29 @@
+{
+  "pageUrl": "https://shift-sketch.myshopify.com/fr/pages/portfolio",
+  "pageTitle": "Portefeuille – Shift Sketch",
+  "pageSlug": "shift_sketch_myshopify_com_fr_pages_portfolio",
+  "sections": [
+    {
+      "refId": "shift_sketch_myshopify_com_fr_pages_portfolio__section_01",
+      "index": 1,
+      "selectorHint": "#shopify-section-template--28054251078007__portfolio_CAPTRc",
+      "typeGuess": "hero",
+      "patternTags": [
+        "hero-candidate",
+        "top-of-page",
+        "image-heavy",
+        "cta-cluster",
+        "category-navigation",
+        "editorial-media"
+      ],
+      "headingSample": [
+        "Objectif principal",
+        "Objectif principal"
+      ],
+      "textSample": "#shopify-section-template--28054251078007__portfolio_CAPTRc { padding-top: 0; padding-bottom: 6rem; } @media screen and (min-width: 750px) { #shopify-section-template--28054251078007__portfolio_CAPTRc { padding-top: 0; padding-bottom: 8rem; } } @media screen and (min-width: 1440p",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/shift-sketch/elements/shift_sketch_myshopify_com_fr_pages_portfolio/shift_sketch_myshopify_com_fr_pages_portfolio__section_01.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/shift-sketch/pages/shift_sketch_myshopify_com_fr_pages_portfolio.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/shift-sketch/pages/shift_sketch_myshopify_com_fr_pages_portfolio.json"
+    }
+  ]
+}

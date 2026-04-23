@@ -1,0 +1,25 @@
+{
+  "pageUrl": "https://zap-main.myshopify.com/search",
+  "pageTitle": "Search",
+  "pageSlug": "zap_main_myshopify_com_search",
+  "sections": [
+    {
+      "refId": "zap_main_myshopify_com_search__section_01",
+      "index": 1,
+      "selectorHint": "#shopify-section-template--25743036416319__main-search",
+      "typeGuess": "cta-section",
+      "patternTags": [
+        "top-of-page",
+        "cta-cluster",
+        "category-navigation"
+      ],
+      "headingSample": [
+        "Search"
+      ],
+      "textSample": "#shopify-section-template--25743036416319__main-search { padding-top: 5.6rem; padding-bottom: 5.6rem; } @media screen and (min-width: 750px) { #shopify-section-template--25743036416319__main-search { padding-top: 7.2rem; padding-bottom: 7.2rem; } } @media screen and (min-width: 1",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_search/zap_main_myshopify_com_search__section_01.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/pages/zap_main_myshopify_com_search.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/pages/zap_main_myshopify_com_search.json"
+    }
+  ]
+}

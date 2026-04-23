@@ -1,0 +1,59 @@
+{
+  "pageUrl": "https://zap-main.myshopify.com/pages/image-collage",
+  "pageTitle": "Image collage",
+  "pageSlug": "zap_main_myshopify_com_pages_image_collage",
+  "sections": [
+    {
+      "refId": "zap_main_myshopify_com_pages_image_collage__section_01",
+      "index": 1,
+      "selectorHint": "#shopify-section-template--26224010985791__main",
+      "typeGuess": "content-section",
+      "patternTags": [
+        "top-of-page"
+      ],
+      "headingSample": [
+        "Image collage"
+      ],
+      "textSample": ".section-template--26224010985791__main-padding { padding-top: 0; padding-bottom: 4rem; } @media screen and (min-width: 750px) { .section-template--26224010985791__main-padding { padding-top: 0; padding-bottom: 5rem; } } @media screen and (min-width: 1360px) { .section-template--",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_pages_image_collage/zap_main_myshopify_com_pages_image_collage__section_01.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/pages/zap_main_myshopify_com_pages_image_collage.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/pages/zap_main_myshopify_com_pages_image_collage.json"
+    },
+    {
+      "refId": "zap_main_myshopify_com_pages_image_collage__section_02",
+      "index": 2,
+      "selectorHint": "#shopify-section-template--26224010985791__image_collage_rCdJLi",
+      "typeGuess": "editorial-media",
+      "patternTags": [
+        "image-heavy",
+        "editorial-media"
+      ],
+      "headingSample": [
+        "Our Mission",
+        "“We’re here to create with intention — not just to make things, but to make them matter.”"
+      ],
+      "textSample": "#shopify-section-template--26224010985791__image_collage_rCdJLi { padding-top: 0; padding-bottom: 0; } @media screen and (min-width: 750px) { #shopify-section-template--26224010985791__image_collage_rCdJLi { padding-top: 0; padding-bottom: 0; } } @media screen and (min-width: 136",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_pages_image_collage/zap_main_myshopify_com_pages_image_collage__section_02.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/pages/zap_main_myshopify_com_pages_image_collage.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/pages/zap_main_myshopify_com_pages_image_collage.json"
+    },
+    {
+      "refId": "zap_main_myshopify_com_pages_image_collage__section_03",
+      "index": 3,
+      "selectorHint": "#shopify-section-template--26224010985791__image_collage_KzRk7f",
+      "typeGuess": "editorial-media",
+      "patternTags": [
+        "image-heavy",
+        "editorial-media"
+      ],
+      "headingSample": [
+        "Our Mission",
+        "“We’re here to create with intention — not just to make things, but to make them matter.”"
+      ],
+      "textSample": "#shopify-section-template--26224010985791__image_collage_KzRk7f { padding-top: 0; padding-bottom: 0; } @media screen and (min-width: 750px) { #shopify-section-template--26224010985791__image_collage_KzRk7f { padding-top: 0; padding-bottom: 0; } } @media screen and (min-width: 136",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_pages_image_collage/zap_main_myshopify_com_pages_image_collage__section_03.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/pages/zap_main_myshopify_com_pages_image_collage.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/pages/zap_main_myshopify_com_pages_image_collage.json"
+    }
+  ]
+}

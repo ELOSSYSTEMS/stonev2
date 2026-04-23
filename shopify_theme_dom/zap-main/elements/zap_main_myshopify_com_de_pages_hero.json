@@ -1,0 +1,57 @@
+{
+  "pageUrl": "https://zap-main.myshopify.com/de/pages/hero",
+  "pageTitle": "Hero",
+  "pageSlug": "zap_main_myshopify_com_de_pages_hero",
+  "sections": [
+    {
+      "refId": "zap_main_myshopify_com_de_pages_hero__section_01",
+      "index": 1,
+      "selectorHint": "#shopify-section-template--26224001122623__main",
+      "typeGuess": "content-section",
+      "patternTags": [
+        "top-of-page"
+      ],
+      "headingSample": [
+        "Hero"
+      ],
+      "textSample": ".section-template--26224001122623__main-padding { padding-top: 4rem; padding-bottom: 0; } @media screen and (min-width: 750px) { .section-template--26224001122623__main-padding { padding-top: 5rem; padding-bottom: 0; } } @media screen and (min-width: 1360px) { .section-template--",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_de_pages_hero/zap_main_myshopify_com_de_pages_hero__section_01.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/pages/zap_main_myshopify_com_de_pages_hero.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/pages/zap_main_myshopify_com_de_pages_hero.json"
+    },
+    {
+      "refId": "zap_main_myshopify_com_de_pages_hero__section_02",
+      "index": 2,
+      "selectorHint": "#shopify-section-template--26224001122623__hero_68qAB8",
+      "typeGuess": "editorial-media",
+      "patternTags": [
+        "image-heavy",
+        "category-navigation",
+        "editorial-media"
+      ],
+      "headingSample": [
+        "Cold Brew"
+      ],
+      "textSample": "#shopify-section-template--26224001122623__hero_68qAB8 .hero::before { content: \"\"; display: block; width: 0; padding-bottom: 100vh; } @media screen and (min-width: 576px) { #shopify-section-template--26224001122623__hero_68qAB8 .hero::before { content: \"\"; display: block; width:",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_de_pages_hero/zap_main_myshopify_com_de_pages_hero__section_02.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/pages/zap_main_myshopify_com_de_pages_hero.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/pages/zap_main_myshopify_com_de_pages_hero.json"
+    },
+    {
+      "refId": "zap_main_myshopify_com_de_pages_hero__section_03",
+      "index": 3,
+      "selectorHint": "#shopify-section-template--26224001122623__hero_QNRzbH",
+      "typeGuess": "editorial-media",
+      "patternTags": [
+        "editorial-media"
+      ],
+      "headingSample": [
+        "Great health starts with a single sip"
+      ],
+      "textSample": "#shopify-section-template--26224001122623__hero_QNRzbH .hero::before { content: \"\"; display: block; width: 0; padding-bottom: 100vh; } @media screen and (min-width: 576px) { #shopify-section-template--26224001122623__hero_QNRzbH .hero::before { content: \"\"; display: block; width:",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_de_pages_hero/zap_main_myshopify_com_de_pages_hero__section_03.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/pages/zap_main_myshopify_com_de_pages_hero.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/pages/zap_main_myshopify_com_de_pages_hero.json"
+    }
+  ]
+}

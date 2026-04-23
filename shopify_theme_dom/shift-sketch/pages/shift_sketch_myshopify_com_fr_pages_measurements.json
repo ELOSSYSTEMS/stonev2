@@ -1,0 +1,41 @@
+{
+  "url": "https://shift-sketch.myshopify.com/fr/pages/measurements",
+  "title": "Mesures – Shift Sketch",
+  "bodyClasses": "template-page template-page",
+  "headings": [
+    "Mesures",
+    "Boutique",
+    "Boutique",
+    "Explorer",
+    "Explorer",
+    "Légal",
+    "Légal",
+    "Suivez-nous",
+    "Abonnez-vous à notre newsletter"
+  ],
+  "customElements": [
+    "cart-drawer",
+    "cart-drawer-items",
+    "header-drawer",
+    "header-search",
+    "menu-drawer",
+    "modal-localization-form",
+    "modal-region-selector",
+    "predictive-search",
+    "shop-cart-sync",
+    "sticky-header"
+  ],
+  "mainOuterHtml": "<main id=\"MainContent\" class=\"content-for-layout focus-none\" role=\"main\" tabindex=\"-1\">\n      <section id=\"shopify-section-template--27266934047095__page_info\" class=\"shopify-section page-section\"><link href=\"//shift-sketch.myshopify.com/cdn/shop/t/2/assets/section-main-page.css?v=122541859386650611581774270656\" rel=\"stylesheet\" type=\"text/css\" media=\"all\">\n\n<div class=\"page-section-wrapper container align-left\">\n  <div class=\"page-header\">\n    <div class=\"page-header__inner\">\n      <h1 class=\"page-header__inner-title h5\">Mesures </h1>\n    </div>\n  </div><div class=\"rte\">\n      <h6 style=\"font-weight: 500; font-size: 14px; margin-bottom: 20px;\"> Dimensions et poids </h6>\n\n<div style=\"display: flex; justify-content: space-between; border-bottom: 1px solid #e5e5e5; padding-bottom: 12px; margin-bottom: 12px;\">\n\n <span style=\"font-weight: 500; font-size: 12px;\">Paramètres</span> <span style=\"font-weight: 500; font-size: 12px;\">Dimensions</span> \n\n</div>\n\n<div style=\"display: flex; justify-content: space-between; margin-bottom: 8px;\">\n\n <span style=\"font-weight: 400; font-size: 12px;\">Profondeur</span> <span style=\"font-weight: 400; font-size: 12px;\">21½\"</span> \n\n</div>\n\n<div style=\"display: flex; justify-content: space-between; margin-bottom: 8px;\"> \n<span style=\"font-weight: 400; font-size: 12px;\">Hauteur</span> <span style=\"font-weight: 400; font-size: 12px;\">17¼\"</span> \n\n</div>\n\n<div style=\"display: flex; justify-content: space-between; margin-bottom: 8px;\">\n\n <span style=\"font-weight: 400; font-size: 12px;\">Largeur</span> <span style=\"font-weight: 400; font-size: 12px;\">21½\"</span>\n\n</div>\n\n<div style=\"display: flex; justify-content: space-between;\">\n\n<span style=\"font-weight: 400; font-size: 12px;\">Poids</span> <span style=\"font-weight: 400; font-size: 12px;\">15 lb</span>\n\n</div>\n    </div></div>\n\n\n</section>\n    </main>",
+  "sections": [
+    {
+      "index": 1,
+      "id": "shopify-section-template--27266934047095__page_info",
+      "tag": "section",
+      "classes": "shopify-section page-section",
+      "headingSample": [
+        "Mesures"
+      ],
+      "outerHTML": "<section id=\"shopify-section-template--27266934047095__page_info\" class=\"shopify-section page-section\"><link href=\"//shift-sketch.myshopify.com/cdn/shop/t/2/assets/section-main-page.css?v=122541859386650611581774270656\" rel=\"stylesheet\" type=\"text/css\" media=\"all\">\n\n<div class=\"page-section-wrapper container align-left\">\n  <div class=\"page-header\">\n    <div class=\"page-header__inner\">\n      <h1 class=\"page-header__inner-title h5\">Mesures </h1>\n    </div>\n  </div><div class=\"rte\">\n      <h6 style=\"font-weight: 500; font-size: 14px; margin-bottom: 20px;\"> Dimensions et poids </h6>\n\n<div style=\"display: flex; justify-content: space-between; border-bottom: 1px solid #e5e5e5; padding-bottom: 12px; margin-bottom: 12px;\">\n\n <span style=\"font-weight: 500; font-size: 12px;\">Paramètres</span> <span style=\"font-weight: 500; font-size: 12px;\">Dimensions</span> \n\n</div>\n\n<div style=\"display: flex; justify-content: space-between; margin-bottom: 8px;\">\n\n <span style=\"font-weight: 400; font-size: 12px;\">Profondeur</span> <span style=\"font-weight: 400; font-size: 12px;\">21½\"</span> \n\n</div>\n\n<div style=\"display: flex; justify-content: space-between; margin-bottom: 8px;\"> \n<span style=\"font-weight: 400; font-size: 12px;\">Hauteur</span> <span style=\"font-weight: 400; font-size: 12px;\">17¼\"</span> \n\n</div>\n\n<div style=\"display: flex; justify-content: space-between; margin-bottom: 8px;\">\n\n <span style=\"font-weight: 400; font-size: 12px;\">Largeur</span> <span style=\"font-weight: 400; font-size: 12px;\">21½\"</span>\n\n</div>\n\n<div style=\"display: flex; justify-content: space-between;\">\n\n<span style=\"font-weight: 400; font-size: 12px;\">Poids</span> <span style=\"font-weight: 400; font-size: 12px;\">15 lb</span>\n\n</div>\n    </div></div>\n\n\n</section>"
+    }
+  ]
+}

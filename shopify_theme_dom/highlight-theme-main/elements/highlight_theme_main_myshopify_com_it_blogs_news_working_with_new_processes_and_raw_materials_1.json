@@ -1,0 +1,55 @@
+{
+  "pageUrl": "https://highlight-theme-main.myshopify.com/it/blogs/news/working-with-new-processes-and-raw-materials-1",
+  "pageTitle": "Le Magasin di Valise Christmas. Berlino, Germania, a partire dal 7 nov – Highlight Theme",
+  "pageSlug": "highlight_theme_main_myshopify_com_it_blogs_news_working_with_new_processes_and_raw_materials_1",
+  "sections": [
+    {
+      "refId": "highlight_theme_main_myshopify_com_it_blogs_news_working_with_new_processes_and_raw_materials_1__section_01",
+      "index": 1,
+      "selectorHint": "#shopify-section-template--15096770527393__main",
+      "typeGuess": "editorial-media",
+      "patternTags": [
+        "top-of-page",
+        "cta-cluster",
+        "product-commerce",
+        "editorial-media"
+      ],
+      "headingSample": [
+        "Le Magasin di Valise Christmas. Berlino, Germania, a partire dal 7 novembre 2019",
+        "Commenti (0)",
+        "Scriva un commento"
+      ],
+      "textSample": "Le Magasin di Valise Christmas. Berlino, Germania, a partire dal 7 novembre 2019 Mar 18, 2021da Ruben Bristian La Valise Creative Consultancy ritorna con un'esperienza di co-retail che mette in evidenza marchi di lifestyle eccezionali selezionati e curati per la stagione dello sh",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/highlight-theme-main/elements/highlight_theme_main_myshopify_com_it_blogs_news_working_with_new_processes_and_raw_materials_1/highlight_theme_main_myshopify_com_it_blogs_news_working_with_new_processes_and_raw_materials_1__section_01.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/highlight-theme-main/pages/highlight_theme_main_myshopify_com_it_blogs_news_working_with_new_processes_and_raw_materials_1.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/highlight-theme-main/pages/highlight_theme_main_myshopify_com_it_blogs_news_working_with_new_processes_and_raw_materials_1.json"
+    },
+    {
+      "refId": "highlight_theme_main_myshopify_com_it_blogs_news_working_with_new_processes_and_raw_materials_1__section_02",
+      "index": 2,
+      "selectorHint": "#shopify-section-sections--16050587173025__text-columns-with-icons",
+      "typeGuess": "content-section",
+      "patternTags": [],
+      "headingSample": [],
+      "textSample": "Same Day Dispatch All orders placed before 4pm Monday to Friday are dispatched same day. Free & Fast Delivery A free fully-trackable 2-day delivery service on all orders over $150. Exchanges & Returns You have 30 days from the shipping date to return your purchase FREE OF CHARGE.",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/highlight-theme-main/elements/highlight_theme_main_myshopify_com_it_blogs_news_working_with_new_processes_and_raw_materials_1/highlight_theme_main_myshopify_com_it_blogs_news_working_with_new_processes_and_raw_materials_1__section_02.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/highlight-theme-main/pages/highlight_theme_main_myshopify_com_it_blogs_news_working_with_new_processes_and_raw_materials_1.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/highlight-theme-main/pages/highlight_theme_main_myshopify_com_it_blogs_news_working_with_new_processes_and_raw_materials_1.json"
+    },
+    {
+      "refId": "highlight_theme_main_myshopify_com_it_blogs_news_working_with_new_processes_and_raw_materials_1__section_03",
+      "index": 3,
+      "selectorHint": "#shopify-section-sections--16050587173025__footer",
+      "typeGuess": "cta-section",
+      "patternTags": [
+        "cta-cluster",
+        "card-grid"
+      ],
+      "headingSample": [],
+      "textSample": "About MARCH does not invent new things but improves existing ones. LINKS Ricerca Aiuto/FAQ Taglie e vestibilità Spedizione e resi Contatti Newsletter Inserisci la tua e-mail Invia Invite customers to join your newsletter.Link to your privacy policy. Lingua Italiano English Españo",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/highlight-theme-main/elements/highlight_theme_main_myshopify_com_it_blogs_news_working_with_new_processes_and_raw_materials_1/highlight_theme_main_myshopify_com_it_blogs_news_working_with_new_processes_and_raw_materials_1__section_03.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/highlight-theme-main/pages/highlight_theme_main_myshopify_com_it_blogs_news_working_with_new_processes_and_raw_materials_1.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/highlight-theme-main/pages/highlight_theme_main_myshopify_com_it_blogs_news_working_with_new_processes_and_raw_materials_1.json"
+    }
+  ]
+}

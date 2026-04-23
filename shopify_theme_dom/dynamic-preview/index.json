@@ -1,0 +1,2571 @@
+{
+  "themeSlug": "dynamic-preview",
+  "url": "https://dynamic-preview.myshopify.com/",
+  "origin": "https://dynamic-preview.myshopify.com",
+  "mode": "full",
+  "clean": true,
+  "screenshots": "home",
+  "discoveredCount": 134,
+  "scrapedCount": 134,
+  "inspirationReferenceCount": 373,
+  "outputDir": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview",
+  "trashedOutput": null,
+  "generatedAt": "2026-04-09T18:40:55.819Z",
+  "pages": [
+    {
+      "url": "https://dynamic-preview.myshopify.com/",
+      "slug": "dynamic_preview_myshopify_com",
+      "title": "Dynamic",
+      "type": "home",
+      "headings": [
+        "The Best Skin Serums for a Healthy Glow",
+        "The Best Skin Serums for a Healthy Glow",
+        "The Best Skin Serums for a Healthy Glow",
+        "Exclusive Collection",
+        "Latest Arrivals",
+        "Ellara Story",
+        "Featured Products",
+        "Your Skin, Reveal Your Glow"
+      ],
+      "sections": 22,
+      "screenshot": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/screens/dynamic_preview_myshopify_com.png",
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com.json"
+    },
+    {
+      "url": "https://dynamic-preview.myshopify.com/sitemap_products_1.xml",
+      "slug": "dynamic_preview_myshopify_com_sitemap_products_1_xml",
+      "title": "",
+      "type": "other",
+      "headings": [],
+      "sections": 0,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_sitemap_products_1_xml.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_sitemap_products_1_xml.json"
+    },
+    {
+      "url": "https://dynamic-preview.myshopify.com/sitemap_pages_1.xml",
+      "slug": "dynamic_preview_myshopify_com_sitemap_pages_1_xml",
+      "title": "",
+      "type": "other",
+      "headings": [],
+      "sections": 0,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_sitemap_pages_1_xml.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_sitemap_pages_1_xml.json"
+    },
+    {
+      "url": "https://dynamic-preview.myshopify.com/sitemap_collections_1.xml",
+      "slug": "dynamic_preview_myshopify_com_sitemap_collections_1_xml",
+      "title": "",
+      "type": "other",
+      "headings": [],
+      "sections": 0,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_sitemap_collections_1_xml.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_sitemap_collections_1_xml.json"
+    },
+    {
+      "url": "https://dynamic-preview.myshopify.com/sitemap_blogs_1.xml",
+      "slug": "dynamic_preview_myshopify_com_sitemap_blogs_1_xml",
+      "title": "",
+      "type": "other",
+      "headings": [],
+      "sections": 0,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_sitemap_blogs_1_xml.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_sitemap_blogs_1_xml.json"
+    },
+    {
+      "url": "https://dynamic-preview.myshopify.com/pt/sitemap_products_1.xml",
+      "slug": "dynamic_preview_myshopify_com_pt_sitemap_products_1_xml",
+      "title": "",
+      "type": "other",
+      "headings": [],
+      "sections": 0,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_pt_sitemap_products_1_xml.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_pt_sitemap_products_1_xml.json"
+    },
+    {
+      "url": "https://dynamic-preview.myshopify.com/pt/sitemap_pages_1.xml",
+      "slug": "dynamic_preview_myshopify_com_pt_sitemap_pages_1_xml",
+      "title": "",
+      "type": "other",
+      "headings": [],
+      "sections": 0,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_pt_sitemap_pages_1_xml.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_pt_sitemap_pages_1_xml.json"
+    },
+    {
+      "url": "https://dynamic-preview.myshopify.com/pt/sitemap_collections_1.xml",
+      "slug": "dynamic_preview_myshopify_com_pt_sitemap_collections_1_xml",
+      "title": "",
+      "type": "other",
+      "headings": [],
+      "sections": 0,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_pt_sitemap_collections_1_xml.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_pt_sitemap_collections_1_xml.json"
+    },
+    {
+      "url": "https://dynamic-preview.myshopify.com/pt/sitemap_blogs_1.xml",
+      "slug": "dynamic_preview_myshopify_com_pt_sitemap_blogs_1_xml",
+      "title": "",
+      "type": "other",
+      "headings": [],
+      "sections": 0,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_pt_sitemap_blogs_1_xml.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_pt_sitemap_blogs_1_xml.json"
+    },
+    {
+      "url": "https://dynamic-preview.myshopify.com/products/body-lotion-for-dry",
+      "slug": "dynamic_preview_myshopify_com_products_body_lotion_for_dry",
+      "title": "Body Lotion for Dry – Dynamic",
+      "type": "product",
+      "headings": [
+        "Body Lotion for Dry",
+        "Our Passion",
+        "You may also like",
+        "Newsletter",
+        "About Dynamic",
+        "Shop",
+        "Quick links",
+        "Customer Care"
+      ],
+      "sections": 4,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_products_body_lotion_for_dry.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_products_body_lotion_for_dry.json"
+    },
+    {
+      "url": "https://dynamic-preview.myshopify.com/products/body-lotion-for-dry-flaky-skin",
+      "slug": "dynamic_preview_myshopify_com_products_body_lotion_for_dry_flaky_skin",
+      "title": "Body Lotion for Dry & Flaky Skin – Dynamic",
+      "type": "product",
+      "headings": [
+        "Body Lotion for Dry & Flaky Skin",
+        "Our Passion",
+        "You may also like",
+        "Newsletter",
+        "About Dynamic",
+        "Shop",
+        "Quick links",
+        "Customer Care"
+      ],
+      "sections": 4,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_products_body_lotion_for_dry_flaky_skin.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_products_body_lotion_for_dry_flaky_skin.json"
+    },
+    {
+      "url": "https://dynamic-preview.myshopify.com/products/brightening-serum",
+      "slug": "dynamic_preview_myshopify_com_products_brightening_serum",
+      "title": "Brightening Serum – Dynamic",
+      "type": "product",
+      "headings": [
+        "Brightening Serum",
+        "Our Passion",
+        "You may also like",
+        "Newsletter",
+        "About Dynamic",
+        "Shop",
+        "Quick links",
+        "Customer Care"
+      ],
+      "sections": 4,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_products_brightening_serum.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_products_brightening_serum.json"
+    },
+    {
+      "url": "https://dynamic-preview.myshopify.com/products/comfort-matte-bullet-lipstick",
+      "slug": "dynamic_preview_myshopify_com_products_comfort_matte_bullet_lipstick",
+      "title": "Comfort Matte Bullet Lipstick – Dynamic",
+      "type": "product",
+      "headings": [
+        "Comfort Matte Bullet Lipstick",
+        "Our Passion",
+        "You may also like",
+        "Newsletter",
+        "About Dynamic",
+        "Shop",
+        "Quick links",
+        "Customer Care"
+      ],
+      "sections": 4,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_products_comfort_matte_bullet_lipstick.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_products_comfort_matte_bullet_lipstick.json"
+    },
+    {
+      "url": "https://dynamic-preview.myshopify.com/products/glass-skin-overnight-mask",
+      "slug": "dynamic_preview_myshopify_com_products_glass_skin_overnight_mask",
+      "title": "Glass Skin Overnight Mask – Dynamic",
+      "type": "product",
+      "headings": [
+        "Glass Skin Overnight Mask",
+        "Our Passion",
+        "You may also like",
+        "Newsletter",
+        "About Dynamic",
+        "Shop",
+        "Quick links",
+        "Customer Care"
+      ],
+      "sections": 4,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_products_glass_skin_overnight_mask.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_products_glass_skin_overnight_mask.json"
+    },
+    {
+      "url": "https://dynamic-preview.myshopify.com/products/light-pink-lipstick",
+      "slug": "dynamic_preview_myshopify_com_products_light_pink_lipstick",
+      "title": "Light pink lipstick – Dynamic",
+      "type": "product",
+      "headings": [
+        "Light pink lipstick",
+        "Our Passion",
+        "You may also like",
+        "Newsletter",
+        "About Dynamic",
+        "Shop",
+        "Quick links",
+        "Customer Care"
+      ],
+      "sections": 4,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_products_light_pink_lipstick.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_products_light_pink_lipstick.json"
+    },
+    {
+      "url": "https://dynamic-preview.myshopify.com/products/luminous-balance-toner",
+      "slug": "dynamic_preview_myshopify_com_products_luminous_balance_toner",
+      "title": "Luminous Balance Toner – Dynamic",
+      "type": "product",
+      "headings": [
+        "Luminous Balance Toner",
+        "Our Passion",
+        "You may also like",
+        "Newsletter",
+        "About Dynamic",
+        "Shop",
+        "Quick links",
+        "Customer Care"
+      ],
+      "sections": 4,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_products_luminous_balance_toner.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_products_luminous_balance_toner.json"
+    },
+    {
+      "url": "https://dynamic-preview.myshopify.com/products/luxury-face-creams",
+      "slug": "dynamic_preview_myshopify_com_products_luxury_face_creams",
+      "title": "Luxury Face Creams – Dynamic",
+      "type": "product",
+      "headings": [
+        "Luxury Face Creams",
+        "Have a look at these products",
+        "Our Passion",
+        "You may also like",
+        "Newsletter",
+        "About Dynamic",
+        "Shop",
+        "Quick links"
+      ],
+      "sections": 4,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_products_luxury_face_creams.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_products_luxury_face_creams.json"
+    },
+    {
+      "url": "https://dynamic-preview.myshopify.com/products/luxury-face-creams-1",
+      "slug": "dynamic_preview_myshopify_com_products_luxury_face_creams_1",
+      "title": "Luxury Face Creams – Dynamic",
+      "type": "product",
+      "headings": [
+        "Luxury Face Creams",
+        "Our Passion",
+        "You may also like",
+        "Newsletter",
+        "About Dynamic",
+        "Shop",
+        "Quick links",
+        "Customer Care"
+      ],
+      "sections": 4,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_products_luxury_face_creams_1.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_products_luxury_face_creams_1.json"
+    },
+    {
+      "url": "https://dynamic-preview.myshopify.com/products/luxury-face-creams-copy",
+      "slug": "dynamic_preview_myshopify_com_products_luxury_face_creams_copy",
+      "title": "Nail polish sits brown – Dynamic",
+      "type": "product",
+      "headings": [
+        "Nail polish sits brown",
+        "Our Passion",
+        "You may also like",
+        "Newsletter",
+        "About Dynamic",
+        "Shop",
+        "Quick links",
+        "Customer Care"
+      ],
+      "sections": 4,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_products_luxury_face_creams_copy.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_products_luxury_face_creams_copy.json"
+    },
+    {
+      "url": "https://dynamic-preview.myshopify.com/products/opulencedevelopment",
+      "slug": "dynamic_preview_myshopify_com_products_opulencedevelopment",
+      "title": "Gift Card - The Perfect Gift for Any Occasion – Dynamic",
+      "type": "product",
+      "headings": [
+        "opulencedevelopment",
+        "Our Passion",
+        "You may also like",
+        "Newsletter",
+        "About Dynamic",
+        "Shop",
+        "Quick links",
+        "Customer Care"
+      ],
+      "sections": 4,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_products_opulencedevelopment.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_products_opulencedevelopment.json"
+    },
+    {
+      "url": "https://dynamic-preview.myshopify.com/products/perfect-cover-concealer-1",
+      "slug": "dynamic_preview_myshopify_com_products_perfect_cover_concealer_1",
+      "title": "Perfect Cover Concealer – Dynamic",
+      "type": "product",
+      "headings": [
+        "Perfect Cover Concealer",
+        "Our Passion",
+        "You may also like",
+        "Newsletter",
+        "About Dynamic",
+        "Shop",
+        "Quick links",
+        "Customer Care"
+      ],
+      "sections": 4,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_products_perfect_cover_concealer_1.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_products_perfect_cover_concealer_1.json"
+    },
+    {
+      "url": "https://dynamic-preview.myshopify.com/products/perfect-finish-foundation",
+      "slug": "dynamic_preview_myshopify_com_products_perfect_finish_foundation",
+      "title": "Perfect Finish Foundation – Dynamic",
+      "type": "product",
+      "headings": [
+        "Perfect Finish Foundation",
+        "Our Passion",
+        "You may also like",
+        "Newsletter",
+        "About Dynamic",
+        "Shop",
+        "Quick links",
+        "Customer Care"
+      ],
+      "sections": 4,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_products_perfect_finish_foundation.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_products_perfect_finish_foundation.json"
+    },
+    {
+      "url": "https://dynamic-preview.myshopify.com/products/powerplay-priming-concealer",
+      "slug": "dynamic_preview_myshopify_com_products_powerplay_priming_concealer",
+      "title": "Powerplay Priming Concealer – Dynamic",
+      "type": "product",
+      "headings": [
+        "Powerplay Priming Concealer",
+        "Our Passion",
+        "You may also like",
+        "Newsletter",
+        "About Dynamic",
+        "Shop",
+        "Quick links",
+        "Customer Care"
+      ],
+      "sections": 4,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_products_powerplay_priming_concealer.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_products_powerplay_priming_concealer.json"
+    },
+    {
+      "url": "https://dynamic-preview.myshopify.com/products/pure-argan-milk-intensive-hydrating-treatment",
+      "slug": "dynamic_preview_myshopify_com_products_pure_argan_milk_intensive_hydrating_treatment",
+      "title": "Pure Argan Milk Intensive Hydrating Treatment – Dynamic",
+      "type": "product",
+      "headings": [
+        "Pure Argan Milk Intensive Hydrating Treatment",
+        "Have a look at these products",
+        "Our Passion",
+        "You may also like",
+        "Newsletter",
+        "About Dynamic",
+        "Shop",
+        "Quick links"
+      ],
+      "sections": 4,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_products_pure_argan_milk_intensive_hydrating_treatment.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_products_pure_argan_milk_intensive_hydrating_treatment.json"
+    },
+    {
+      "url": "https://dynamic-preview.myshopify.com/products/rewind-concealer",
+      "slug": "dynamic_preview_myshopify_com_products_rewind_concealer",
+      "title": "Rewind Concealer – Dynamic",
+      "type": "product",
+      "headings": [
+        "Rewind Concealer",
+        "Have a look at these products",
+        "Our Passion",
+        "You may also like",
+        "Newsletter",
+        "About Dynamic",
+        "Shop",
+        "Quick links"
+      ],
+      "sections": 4,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_products_rewind_concealer.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_products_rewind_concealer.json"
+    },
+    {
+      "url": "https://dynamic-preview.myshopify.com/products/hydrating-face-serum",
+      "slug": "dynamic_preview_myshopify_com_products_hydrating_face_serum",
+      "title": "Hydrating Face Serum - Deep Moisture & Nourishment – Dynamic",
+      "type": "product",
+      "headings": [
+        "Hydrating Face Serum",
+        "Our Passion",
+        "You may also like",
+        "Newsletter",
+        "About Dynamic",
+        "Shop",
+        "Quick links",
+        "Customer Care"
+      ],
+      "sections": 4,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_products_hydrating_face_serum.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_products_hydrating_face_serum.json"
+    },
+    {
+      "url": "https://dynamic-preview.myshopify.com/products/matte-lipstick-collection",
+      "slug": "dynamic_preview_myshopify_com_products_matte_lipstick_collection",
+      "title": "Matte Lipstick - Long-Lasting Vibrant Color – Dynamic",
+      "type": "product",
+      "headings": [
+        "Matte Lipstick Collection",
+        "Our Passion",
+        "You may also like",
+        "Newsletter",
+        "About Dynamic",
+        "Shop",
+        "Quick links",
+        "Customer Care"
+      ],
+      "sections": 4,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_products_matte_lipstick_collection.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_products_matte_lipstick_collection.json"
+    },
+    {
+      "url": "https://dynamic-preview.myshopify.com/products/nourishing-night-cream",
+      "slug": "dynamic_preview_myshopify_com_products_nourishing_night_cream",
+      "title": "Nourishing Night Cream - Overnight Skin Rejuvenation – Dynamic",
+      "type": "product",
+      "headings": [
+        "Nourishing Night Cream",
+        "Our Passion",
+        "You may also like",
+        "Newsletter",
+        "About Dynamic",
+        "Shop",
+        "Quick links",
+        "Customer Care"
+      ],
+      "sections": 4,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_products_nourishing_night_cream.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_products_nourishing_night_cream.json"
+    },
+    {
+      "url": "https://dynamic-preview.myshopify.com/products/volumizing-mascara",
+      "slug": "dynamic_preview_myshopify_com_products_volumizing_mascara",
+      "title": "Volumizing Mascara - Dramatic Lashes All Day – Dynamic",
+      "type": "product",
+      "headings": [
+        "Volumizing Mascara",
+        "Our Passion",
+        "You may also like",
+        "Newsletter",
+        "About Dynamic",
+        "Shop",
+        "Quick links",
+        "Customer Care"
+      ],
+      "sections": 4,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_products_volumizing_mascara.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_products_volumizing_mascara.json"
+    },
+    {
+      "url": "https://dynamic-preview.myshopify.com/products/gentle-cleansing-foam",
+      "slug": "dynamic_preview_myshopify_com_products_gentle_cleansing_foam",
+      "title": "Gentle Cleansing Foam - Daily Face Cleanser – Dynamic",
+      "type": "product",
+      "headings": [
+        "Gentle Cleansing Foam",
+        "Our Passion",
+        "You may also like",
+        "Newsletter",
+        "About Dynamic",
+        "Shop",
+        "Quick links",
+        "Customer Care"
+      ],
+      "sections": 4,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_products_gentle_cleansing_foam.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_products_gentle_cleansing_foam.json"
+    },
+    {
+      "url": "https://dynamic-preview.myshopify.com/products/face-roller",
+      "slug": "dynamic_preview_myshopify_com_products_face_roller",
+      "title": "Face Roller - Facial Massage Tool for Glowing Skin | Ellara – Dynamic",
+      "type": "product",
+      "headings": [
+        "Face Roller",
+        "Benefits:",
+        "How to Use:",
+        "Our Passion",
+        "You may also like",
+        "Newsletter",
+        "About Dynamic",
+        "Shop"
+      ],
+      "sections": 4,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_products_face_roller.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_products_face_roller.json"
+    },
+    {
+      "url": "https://dynamic-preview.myshopify.com/products/eyes-brows",
+      "slug": "dynamic_preview_myshopify_com_products_eyes_brows",
+      "title": "Eyes & Brows Makeup - Professional Eye & Brow Products – Dynamic",
+      "type": "product",
+      "headings": [
+        "Eyes & Brows",
+        "Our Passion",
+        "You may also like",
+        "Newsletter",
+        "About Dynamic",
+        "Shop",
+        "Quick links",
+        "Customer Care"
+      ],
+      "sections": 4,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_products_eyes_brows.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_products_eyes_brows.json"
+    },
+    {
+      "url": "https://dynamic-preview.myshopify.com/products/sun-cream-spf-protection",
+      "slug": "dynamic_preview_myshopify_com_products_sun_cream_spf_protection",
+      "title": "Sun Cream SPF Protection - Daily Sunscreen for All Skin Types – Dynamic",
+      "type": "product",
+      "headings": [
+        "Sun Cream SPF Protection",
+        "Our Passion",
+        "Newsletter",
+        "About Dynamic",
+        "Shop",
+        "Quick links",
+        "Customer Care"
+      ],
+      "sections": 4,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_products_sun_cream_spf_protection.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_products_sun_cream_spf_protection.json"
+    },
+    {
+      "url": "https://dynamic-preview.myshopify.com/products/gentle-face-wash-cleanser",
+      "slug": "dynamic_preview_myshopify_com_products_gentle_face_wash_cleanser",
+      "title": "Gentle Face Wash Cleanser - Deep Cleansing for Fresh Skin – Dynamic",
+      "type": "product",
+      "headings": [
+        "Gentle Face Wash Cleanser",
+        "Our Passion",
+        "You may also like",
+        "Newsletter",
+        "About Dynamic",
+        "Shop",
+        "Quick links",
+        "Customer Care"
+      ],
+      "sections": 4,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_products_gentle_face_wash_cleanser.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_products_gentle_face_wash_cleanser.json"
+    },
+    {
+      "url": "https://dynamic-preview.myshopify.com/products/lumipure-gentle-foam-cleanser",
+      "slug": "dynamic_preview_myshopify_com_products_lumipure_gentle_foam_cleanser",
+      "title": "LumiPure Gentle Foam Cleanser – Dynamic",
+      "type": "product",
+      "headings": [
+        "LumiPure Gentle Foam Cleanser",
+        "Our Passion",
+        "You may also like",
+        "Newsletter",
+        "About Dynamic",
+        "Shop",
+        "Quick links",
+        "Customer Care"
+      ],
+      "sections": 4,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_products_lumipure_gentle_foam_cleanser.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_products_lumipure_gentle_foam_cleanser.json"
+    },
+    {
+      "url": "https://dynamic-preview.myshopify.com/products/hydrating-glow-cream",
+      "slug": "dynamic_preview_myshopify_com_products_hydrating_glow_cream",
+      "title": "Hydrating Glow Cream – Dynamic",
+      "type": "product",
+      "headings": [
+        "Hydrating Glow Cream",
+        "Our Passion",
+        "You may also like",
+        "Newsletter",
+        "About Dynamic",
+        "Shop",
+        "Quick links",
+        "Customer Care"
+      ],
+      "sections": 4,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_products_hydrating_glow_cream.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_products_hydrating_glow_cream.json"
+    },
+    {
+      "url": "https://dynamic-preview.myshopify.com/products/radiance-boost-serum",
+      "slug": "dynamic_preview_myshopify_com_products_radiance_boost_serum",
+      "title": "Radiance Boost Serum – Dynamic",
+      "type": "product",
+      "headings": [
+        "Radiance Boost Serum",
+        "Our Passion",
+        "You may also like",
+        "Newsletter",
+        "About Dynamic",
+        "Shop",
+        "Quick links",
+        "Customer Care"
+      ],
+      "sections": 4,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_products_radiance_boost_serum.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_products_radiance_boost_serum.json"
+    },
+    {
+      "url": "https://dynamic-preview.myshopify.com/products/lipstick-shades",
+      "slug": "dynamic_preview_myshopify_com_products_lipstick_shades",
+      "title": "Lipstick shades – Dynamic",
+      "type": "product",
+      "headings": [
+        "Lipstick shades",
+        "Our Passion",
+        "You may also like",
+        "Newsletter",
+        "About Dynamic",
+        "Shop",
+        "Quick links",
+        "Customer Care"
+      ],
+      "sections": 4,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_products_lipstick_shades.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_products_lipstick_shades.json"
+    },
+    {
+      "url": "https://dynamic-preview.myshopify.com/pages/contact",
+      "slug": "dynamic_preview_myshopify_com_pages_contact",
+      "title": "Contact – Dynamic",
+      "type": "page",
+      "headings": [
+        "Get in Touch with Us",
+        "Customer Support",
+        "Send Us A Message",
+        "Newsletter",
+        "About Dynamic",
+        "Shop",
+        "Quick links",
+        "Customer Care"
+      ],
+      "sections": 3,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_pages_contact.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_pages_contact.json"
+    },
+    {
+      "url": "https://dynamic-preview.myshopify.com/pages/faq",
+      "slug": "dynamic_preview_myshopify_com_pages_faq",
+      "title": "FAQ – Dynamic",
+      "type": "page",
+      "headings": [
+        "FAQ",
+        "Frequently asked questions",
+        "Newsletter",
+        "About Dynamic",
+        "Shop",
+        "Quick links",
+        "Customer Care"
+      ],
+      "sections": 2,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_pages_faq.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_pages_faq.json"
+    },
+    {
+      "url": "https://dynamic-preview.myshopify.com/pages/pages",
+      "slug": "dynamic_preview_myshopify_com_pages_pages",
+      "title": "pages – Dynamic",
+      "type": "page",
+      "headings": [
+        "pages",
+        "Newsletter",
+        "About Dynamic",
+        "Shop",
+        "Quick links",
+        "Customer Care"
+      ],
+      "sections": 1,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_pages_pages.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_pages_pages.json"
+    },
+    {
+      "url": "https://dynamic-preview.myshopify.com/pages/about-us",
+      "slug": "dynamic_preview_myshopify_com_pages_about_us",
+      "title": "About us – Dynamic",
+      "type": "page",
+      "headings": [
+        "Ellara Story",
+        "At Ellara, we are passionate about celebrating your natural beauty. Combining the finest ingredients with thoughtful science we craft skincare and beauty products",
+        "At Ellara, we believe that true beauty begins with care for your skin, your confidence and your natural glow.",
+        "Frequently asked questions",
+        "On Instagram",
+        "Newsletter",
+        "About Dynamic",
+        "Shop"
+      ],
+      "sections": 6,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_pages_about_us.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_pages_about_us.json"
+    },
+    {
+      "url": "https://dynamic-preview.myshopify.com/pages/data-sharing-opt-out",
+      "slug": "dynamic_preview_myshopify_com_pages_data_sharing_opt_out",
+      "title": "Your Privacy Choices – Dynamic",
+      "type": "page",
+      "headings": [
+        "Your Privacy Choices",
+        "Newsletter",
+        "About Dynamic",
+        "Shop",
+        "Quick links",
+        "Customer Care"
+      ],
+      "sections": 2,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_pages_data_sharing_opt_out.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_pages_data_sharing_opt_out.json"
+    },
+    {
+      "url": "https://dynamic-preview.myshopify.com/collections/frontpage",
+      "slug": "dynamic_preview_myshopify_com_collections_frontpage",
+      "title": "Home page – Dynamic",
+      "type": "collection",
+      "headings": [
+        "Home page",
+        "Filters",
+        "Newsletter",
+        "About Dynamic",
+        "Shop",
+        "Quick links",
+        "Customer Care"
+      ],
+      "sections": 2,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_collections_frontpage.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_collections_frontpage.json"
+    },
+    {
+      "url": "https://dynamic-preview.myshopify.com/collections/all-product",
+      "slug": "dynamic_preview_myshopify_com_collections_all_product",
+      "title": "All product – Dynamic",
+      "type": "collection",
+      "headings": [
+        "All product",
+        "Filters",
+        "Newsletter",
+        "About Dynamic",
+        "Shop",
+        "Quick links",
+        "Customer Care"
+      ],
+      "sections": 2,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_collections_all_product.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_collections_all_product.json"
+    },
+    {
+      "url": "https://dynamic-preview.myshopify.com/collections/skin-care",
+      "slug": "dynamic_preview_myshopify_com_collections_skin_care",
+      "title": "Skin Care – Dynamic",
+      "type": "collection",
+      "headings": [
+        "Skin Care",
+        "Filters",
+        "Newsletter",
+        "About Dynamic",
+        "Shop",
+        "Quick links",
+        "Customer Care"
+      ],
+      "sections": 2,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_collections_skin_care.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_collections_skin_care.json"
+    },
+    {
+      "url": "https://dynamic-preview.myshopify.com/collections/sunscreen",
+      "slug": "dynamic_preview_myshopify_com_collections_sunscreen",
+      "title": "Sunscreen – Dynamic",
+      "type": "collection",
+      "headings": [
+        "Sunscreen",
+        "Filters",
+        "Newsletter",
+        "About Dynamic",
+        "Shop",
+        "Quick links",
+        "Customer Care"
+      ],
+      "sections": 2,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_collections_sunscreen.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_collections_sunscreen.json"
+    },
+    {
+      "url": "https://dynamic-preview.myshopify.com/collections/moisturizer",
+      "slug": "dynamic_preview_myshopify_com_collections_moisturizer",
+      "title": "Moisturizer – Dynamic",
+      "type": "collection",
+      "headings": [
+        "Moisturizer",
+        "Filters",
+        "Newsletter",
+        "About Dynamic",
+        "Shop",
+        "Quick links",
+        "Customer Care"
+      ],
+      "sections": 2,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_collections_moisturizer.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_collections_moisturizer.json"
+    },
+    {
+      "url": "https://dynamic-preview.myshopify.com/collections/makeup",
+      "slug": "dynamic_preview_myshopify_com_collections_makeup",
+      "title": "Makeup – Dynamic",
+      "type": "collection",
+      "headings": [
+        "Makeup",
+        "Filters",
+        "Newsletter",
+        "About Dynamic",
+        "Shop",
+        "Quick links",
+        "Customer Care"
+      ],
+      "sections": 2,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_collections_makeup.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_collections_makeup.json"
+    },
+    {
+      "url": "https://dynamic-preview.myshopify.com/collections/skin-care-1",
+      "slug": "dynamic_preview_myshopify_com_collections_skin_care_1",
+      "title": "Skin care – Dynamic",
+      "type": "collection",
+      "headings": [
+        "Skin care",
+        "Filters",
+        "Newsletter",
+        "About Dynamic",
+        "Shop",
+        "Quick links",
+        "Customer Care"
+      ],
+      "sections": 2,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_collections_skin_care_1.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_collections_skin_care_1.json"
+    },
+    {
+      "url": "https://dynamic-preview.myshopify.com/collections/body-care",
+      "slug": "dynamic_preview_myshopify_com_collections_body_care",
+      "title": "Body Care – Dynamic",
+      "type": "collection",
+      "headings": [
+        "Body Care",
+        "Filters",
+        "Newsletter",
+        "About Dynamic",
+        "Shop",
+        "Quick links",
+        "Customer Care"
+      ],
+      "sections": 2,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_collections_body_care.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_collections_body_care.json"
+    },
+    {
+      "url": "https://dynamic-preview.myshopify.com/collections/lip-care",
+      "slug": "dynamic_preview_myshopify_com_collections_lip_care",
+      "title": "Lip Care – Dynamic",
+      "type": "collection",
+      "headings": [
+        "Lip Care",
+        "Filters",
+        "Newsletter",
+        "About Dynamic",
+        "Shop",
+        "Quick links",
+        "Customer Care"
+      ],
+      "sections": 2,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_collections_lip_care.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_collections_lip_care.json"
+    },
+    {
+      "url": "https://dynamic-preview.myshopify.com/collections/eyes",
+      "slug": "dynamic_preview_myshopify_com_collections_eyes",
+      "title": "Eyes – Dynamic",
+      "type": "collection",
+      "headings": [
+        "Eyes",
+        "Filters",
+        "Newsletter",
+        "About Dynamic",
+        "Shop",
+        "Quick links",
+        "Customer Care"
+      ],
+      "sections": 2,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_collections_eyes.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_collections_eyes.json"
+    },
+    {
+      "url": "https://dynamic-preview.myshopify.com/collections/glow-boosters",
+      "slug": "dynamic_preview_myshopify_com_collections_glow_boosters",
+      "title": "Glow Boosters – Dynamic",
+      "type": "collection",
+      "headings": [
+        "Glow Boosters",
+        "Filters",
+        "Newsletter",
+        "About Dynamic",
+        "Shop",
+        "Quick links",
+        "Customer Care"
+      ],
+      "sections": 2,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_collections_glow_boosters.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_collections_glow_boosters.json"
+    },
+    {
+      "url": "https://dynamic-preview.myshopify.com/collections/face-oils",
+      "slug": "dynamic_preview_myshopify_com_collections_face_oils",
+      "title": "Face Oils – Dynamic",
+      "type": "collection",
+      "headings": [
+        "Face Oils",
+        "Filters",
+        "Newsletter",
+        "About Dynamic",
+        "Shop",
+        "Quick links",
+        "Customer Care"
+      ],
+      "sections": 2,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_collections_face_oils.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_collections_face_oils.json"
+    },
+    {
+      "url": "https://dynamic-preview.myshopify.com/collections/exfoliation-masks",
+      "slug": "dynamic_preview_myshopify_com_collections_exfoliation_masks",
+      "title": "Exfoliation & Masks – Dynamic",
+      "type": "collection",
+      "headings": [
+        "Exfoliation & Masks",
+        "Filters",
+        "Newsletter",
+        "About Dynamic",
+        "Shop",
+        "Quick links",
+        "Customer Care"
+      ],
+      "sections": 2,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_collections_exfoliation_masks.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_collections_exfoliation_masks.json"
+    },
+    {
+      "url": "https://dynamic-preview.myshopify.com/collections/makeup-remover",
+      "slug": "dynamic_preview_myshopify_com_collections_makeup_remover",
+      "title": "Makeup Remover – Dynamic",
+      "type": "collection",
+      "headings": [
+        "Makeup Remover",
+        "No products found. Please try different filters.",
+        "Filters",
+        "Newsletter",
+        "About Dynamic",
+        "Shop",
+        "Quick links",
+        "Customer Care"
+      ],
+      "sections": 2,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_collections_makeup_remover.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_collections_makeup_remover.json"
+    },
+    {
+      "url": "https://dynamic-preview.myshopify.com/collections/hair-care",
+      "slug": "dynamic_preview_myshopify_com_collections_hair_care",
+      "title": "Hair Care – Dynamic",
+      "type": "collection",
+      "headings": [
+        "Hair Care",
+        "No products found. Please try different filters.",
+        "Filters",
+        "Newsletter",
+        "About Dynamic",
+        "Shop",
+        "Quick links",
+        "Customer Care"
+      ],
+      "sections": 2,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_collections_hair_care.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_collections_hair_care.json"
+    },
+    {
+      "url": "https://dynamic-preview.myshopify.com/collections/sun-protection",
+      "slug": "dynamic_preview_myshopify_com_collections_sun_protection",
+      "title": "Sun & Protection – Dynamic",
+      "type": "collection",
+      "headings": [
+        "Sun & Protection",
+        "Filters",
+        "Newsletter",
+        "About Dynamic",
+        "Shop",
+        "Quick links",
+        "Customer Care"
+      ],
+      "sections": 2,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_collections_sun_protection.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_collections_sun_protection.json"
+    },
+    {
+      "url": "https://dynamic-preview.myshopify.com/collections/cleansers-face-wash",
+      "slug": "dynamic_preview_myshopify_com_collections_cleansers_face_wash",
+      "title": "Cleansers & Face Wash – Dynamic",
+      "type": "collection",
+      "headings": [
+        "Cleansers & Face Wash",
+        "Filters",
+        "Newsletter",
+        "About Dynamic",
+        "Shop",
+        "Quick links",
+        "Customer Care"
+      ],
+      "sections": 2,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_collections_cleansers_face_wash.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_collections_cleansers_face_wash.json"
+    },
+    {
+      "url": "https://dynamic-preview.myshopify.com/collections/tools-and-accessories",
+      "slug": "dynamic_preview_myshopify_com_collections_tools_and_accessories",
+      "title": "Tools And Accessories – Dynamic",
+      "type": "collection",
+      "headings": [
+        "Tools And Accessories",
+        "Filters",
+        "Newsletter",
+        "About Dynamic",
+        "Shop",
+        "Quick links",
+        "Customer Care"
+      ],
+      "sections": 2,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_collections_tools_and_accessories.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_collections_tools_and_accessories.json"
+    },
+    {
+      "url": "https://dynamic-preview.myshopify.com/collections/foundations",
+      "slug": "dynamic_preview_myshopify_com_collections_foundations",
+      "title": "Foundations – Dynamic",
+      "type": "collection",
+      "headings": [
+        "Foundations",
+        "Filters",
+        "Newsletter",
+        "About Dynamic",
+        "Shop",
+        "Quick links",
+        "Customer Care"
+      ],
+      "sections": 2,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_collections_foundations.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_collections_foundations.json"
+    },
+    {
+      "url": "https://dynamic-preview.myshopify.com/collections/whats-hot",
+      "slug": "dynamic_preview_myshopify_com_collections_whats_hot",
+      "title": "What's Hot – Dynamic",
+      "type": "collection",
+      "headings": [
+        "What's Hot",
+        "Filters",
+        "Newsletter",
+        "About Dynamic",
+        "Shop",
+        "Quick links",
+        "Customer Care"
+      ],
+      "sections": 2,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_collections_whats_hot.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_collections_whats_hot.json"
+    },
+    {
+      "url": "https://dynamic-preview.myshopify.com/blogs/news",
+      "slug": "dynamic_preview_myshopify_com_blogs_news",
+      "title": "Blog – Dynamic",
+      "type": "blog",
+      "headings": [
+        "Blog",
+        "Newsletter",
+        "About Dynamic",
+        "Shop",
+        "Quick links",
+        "Customer Care"
+      ],
+      "sections": 2,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_blogs_news.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_blogs_news.json"
+    },
+    {
+      "url": "https://dynamic-preview.myshopify.com/blogs/news/radiance-redefined-skincare-the-ellara-way",
+      "slug": "dynamic_preview_myshopify_com_blogs_news_radiance_redefined_skincare_the_ellara_way",
+      "title": "Radiance Redefined Skincare the Ellara Way – Dynamic",
+      "type": "article",
+      "headings": [
+        "Radiance Redefined Skincare the Ellara Way",
+        "Welcome to the Ellara Philosophy",
+        "The Science of Glow",
+        "Nature's Radiance Boosters",
+        "Your Daily Radiance Ritual",
+        "The Ellara Difference",
+        "Leave a comment",
+        "Newsletter"
+      ],
+      "sections": 1,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_blogs_news_radiance_redefined_skincare_the_ellara_way.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_blogs_news_radiance_redefined_skincare_the_ellara_way.json"
+    },
+    {
+      "url": "https://dynamic-preview.myshopify.com/blogs/news/your-daily-glow-guide",
+      "slug": "dynamic_preview_myshopify_com_blogs_news_your_daily_glow_guide",
+      "title": "Your Daily Glow Guide – Dynamic",
+      "type": "article",
+      "headings": [
+        "Your Daily Glow Guide",
+        "Morning: Wake Up Your Radiance",
+        "Midday: Refresh and Rehydrate",
+        "Evening: Repair and Renew",
+        "Weekly Rituals",
+        "Lifestyle Tips for Lasting Glow",
+        "Listen to Your Skin",
+        "Leave a comment"
+      ],
+      "sections": 1,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_blogs_news_your_daily_glow_guide.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_blogs_news_your_daily_glow_guide.json"
+    },
+    {
+      "url": "https://dynamic-preview.myshopify.com/blogs/news/experience-timeless-beauty-every-day",
+      "slug": "dynamic_preview_myshopify_com_blogs_news_experience_timeless_beauty_every_day",
+      "title": "Experience Timeless Beauty, Every Day – Dynamic",
+      "type": "article",
+      "headings": [
+        "Experience Timeless Beauty, Every Day",
+        "Simple. Effective. Timeless.",
+        "Your Skin, Your Story",
+        "Beauty That Lasts",
+        "Leave a comment",
+        "Newsletter",
+        "About Dynamic",
+        "Shop"
+      ],
+      "sections": 1,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_blogs_news_experience_timeless_beauty_every_day.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_blogs_news_experience_timeless_beauty_every_day.json"
+    },
+    {
+      "url": "https://dynamic-preview.myshopify.com/blogs/news/the-secret-to-effortless-glow",
+      "slug": "dynamic_preview_myshopify_com_blogs_news_the_secret_to_effortless_glow",
+      "title": "The Secret to Effortless Glow – Dynamic",
+      "type": "article",
+      "headings": [
+        "The Secret to Effortless Glow",
+        "Less Is More",
+        "Hydration Is Everything",
+        "Consistency Over Perfection",
+        "Treat Your Skin Kindly",
+        "The Glow Comes From Within",
+        "Leave a comment",
+        "Newsletter"
+      ],
+      "sections": 1,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_blogs_news_the_secret_to_effortless_glow.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_blogs_news_the_secret_to_effortless_glow.json"
+    },
+    {
+      "url": "https://dynamic-preview.myshopify.com/blogs/news/the-science-of-radiance",
+      "slug": "dynamic_preview_myshopify_com_blogs_news_the_science_of_radiance",
+      "title": "The Science of Radiance – Dynamic",
+      "type": "article",
+      "headings": [
+        "The Science of Radiance",
+        "Understanding Your Skin Barrier",
+        "The Power of Antioxidants",
+        "Cell Turnover and Renewal",
+        "Hydration at the Cellular Level",
+        "Collagen and Elasticity",
+        "The Bottom Line",
+        "Leave a comment"
+      ],
+      "sections": 1,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_blogs_news_the_science_of_radiance.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_blogs_news_the_science_of_radiance.json"
+    },
+    {
+      "url": "https://dynamic-preview.myshopify.com/blogs/news/clean-beauty-real-results",
+      "slug": "dynamic_preview_myshopify_com_blogs_news_clean_beauty_real_results",
+      "title": "Clean Beauty, Real Results – Dynamic",
+      "type": "article",
+      "headings": [
+        "Clean Beauty, Real Results",
+        "What Clean Beauty Really Means",
+        "The Power of Natural Ingredients",
+        "Science Meets Nature",
+        "Results You Can See and Feel",
+        "Better for You, Better for the Planet",
+        "Our Clean Beauty Promise",
+        "Leave a comment"
+      ],
+      "sections": 1,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_blogs_news_clean_beauty_real_results.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_blogs_news_clean_beauty_real_results.json"
+    },
+    {
+      "url": "https://dynamic-preview.myshopify.com/pt",
+      "slug": "dynamic_preview_myshopify_com_pt",
+      "title": "Dynamic",
+      "type": "other",
+      "headings": [
+        "Os Melhores Séruns Faciais para uma Pele Radiante e Saudável",
+        "Os Melhores Séruns Faciais para uma Pele Radiante",
+        "Os Melhores Séruns Faciais Para uma Pele Radiante",
+        "Coleção Exclusiva",
+        "Últimas Novidades",
+        "História de Ellara",
+        "Produtos em Destaque",
+        "A Sua Pele, Revele o Seu Brilho"
+      ],
+      "sections": 22,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_pt.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_pt.json"
+    },
+    {
+      "url": "https://dynamic-preview.myshopify.com/pt/products/body-lotion-for-dry",
+      "slug": "dynamic_preview_myshopify_com_pt_products_body_lotion_for_dry",
+      "title": "Loção Corporal para Peles Secas – Dynamic",
+      "type": "other",
+      "headings": [
+        "Loção Corporal para Peles Secas",
+        "A Nossa Paixão",
+        "Também poderá gostar de",
+        "Boletim Informativo",
+        "Sobre o Dinâmico",
+        "Loja",
+        "Ligações rápidas",
+        "Serviço de Apoio ao Cliente"
+      ],
+      "sections": 4,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_pt_products_body_lotion_for_dry.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_pt_products_body_lotion_for_dry.json"
+    },
+    {
+      "url": "https://dynamic-preview.myshopify.com/pt/products/body-lotion-for-dry-flaky-skin",
+      "slug": "dynamic_preview_myshopify_com_pt_products_body_lotion_for_dry_flaky_skin",
+      "title": "Loção Corporal para Pele Seca e Escamosa – Dynamic",
+      "type": "other",
+      "headings": [
+        "Loção Corporal para Pele Seca e Escamosa",
+        "A Nossa Paixão",
+        "Também poderá gostar de",
+        "Boletim Informativo",
+        "Sobre o Dinâmico",
+        "Loja",
+        "Ligações rápidas",
+        "Serviço de Apoio ao Cliente"
+      ],
+      "sections": 4,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_pt_products_body_lotion_for_dry_flaky_skin.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_pt_products_body_lotion_for_dry_flaky_skin.json"
+    },
+    {
+      "url": "https://dynamic-preview.myshopify.com/pt/products/brightening-serum",
+      "slug": "dynamic_preview_myshopify_com_pt_products_brightening_serum",
+      "title": "Sérum Iluminador – Dynamic",
+      "type": "other",
+      "headings": [
+        "Sérum Iluminador",
+        "A Nossa Paixão",
+        "Também poderá gostar de",
+        "Boletim Informativo",
+        "Sobre o Dinâmico",
+        "Loja",
+        "Ligações rápidas",
+        "Serviço de Apoio ao Cliente"
+      ],
+      "sections": 4,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_pt_products_brightening_serum.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_pt_products_brightening_serum.json"
+    },
+    {
+      "url": "https://dynamic-preview.myshopify.com/pt/products/comfort-matte-bullet-lipstick",
+      "slug": "dynamic_preview_myshopify_com_pt_products_comfort_matte_bullet_lipstick",
+      "title": "Batom em Bala Mate Confortável – Dynamic",
+      "type": "other",
+      "headings": [
+        "Batom em Bala Mate Confortável",
+        "A Nossa Paixão",
+        "Também poderá gostar de",
+        "Boletim Informativo",
+        "Sobre o Dinâmico",
+        "Loja",
+        "Ligações rápidas",
+        "Serviço de Apoio ao Cliente"
+      ],
+      "sections": 4,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_pt_products_comfort_matte_bullet_lipstick.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_pt_products_comfort_matte_bullet_lipstick.json"
+    },
+    {
+      "url": "https://dynamic-preview.myshopify.com/pt/products/glass-skin-overnight-mask",
+      "slug": "dynamic_preview_myshopify_com_pt_products_glass_skin_overnight_mask",
+      "title": "Máscara de Noite Efeito Pele de Vidro – Dynamic",
+      "type": "other",
+      "headings": [
+        "Máscara de Noite Efeito Pele de Vidro",
+        "A Nossa Paixão",
+        "Também poderá gostar de",
+        "Boletim Informativo",
+        "Sobre o Dinâmico",
+        "Loja",
+        "Ligações rápidas",
+        "Serviço de Apoio ao Cliente"
+      ],
+      "sections": 4,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_pt_products_glass_skin_overnight_mask.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_pt_products_glass_skin_overnight_mask.json"
+    },
+    {
+      "url": "https://dynamic-preview.myshopify.com/pt/products/light-pink-lipstick",
+      "slug": "dynamic_preview_myshopify_com_pt_products_light_pink_lipstick",
+      "title": "Batom rosa claro – Dynamic",
+      "type": "other",
+      "headings": [
+        "Batom rosa claro",
+        "A Nossa Paixão",
+        "Também poderá gostar de",
+        "Boletim Informativo",
+        "Sobre o Dinâmico",
+        "Loja",
+        "Ligações rápidas",
+        "Serviço de Apoio ao Cliente"
+      ],
+      "sections": 4,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_pt_products_light_pink_lipstick.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_pt_products_light_pink_lipstick.json"
+    },
+    {
+      "url": "https://dynamic-preview.myshopify.com/pt/products/luminous-balance-toner",
+      "slug": "dynamic_preview_myshopify_com_pt_products_luminous_balance_toner",
+      "title": "Tónico Equilibrante Iluminador – Dynamic",
+      "type": "other",
+      "headings": [
+        "Tónico Equilibrante Iluminador",
+        "A Nossa Paixão",
+        "Também poderá gostar de",
+        "Boletim Informativo",
+        "Sobre o Dinâmico",
+        "Loja",
+        "Ligações rápidas",
+        "Serviço de Apoio ao Cliente"
+      ],
+      "sections": 4,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_pt_products_luminous_balance_toner.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_pt_products_luminous_balance_toner.json"
+    },
+    {
+      "url": "https://dynamic-preview.myshopify.com/pt/products/luxury-face-creams",
+      "slug": "dynamic_preview_myshopify_com_pt_products_luxury_face_creams",
+      "title": "Cremes de Rosto de Luxo – Dynamic",
+      "type": "other",
+      "headings": [
+        "Cremes de Rosto de Luxo",
+        "Dê uma vista de olhos a estes produtos",
+        "A Nossa Paixão",
+        "Também poderá gostar de",
+        "Boletim Informativo",
+        "Sobre o Dinâmico",
+        "Loja",
+        "Ligações rápidas"
+      ],
+      "sections": 4,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_pt_products_luxury_face_creams.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_pt_products_luxury_face_creams.json"
+    },
+    {
+      "url": "https://dynamic-preview.myshopify.com/pt/products/luxury-face-creams-1",
+      "slug": "dynamic_preview_myshopify_com_pt_products_luxury_face_creams_1",
+      "title": "Cremes de Rosto de Luxo – Dynamic",
+      "type": "other",
+      "headings": [
+        "Cremes de Rosto de Luxo",
+        "A Nossa Paixão",
+        "Também poderá gostar de",
+        "Boletim Informativo",
+        "Sobre o Dinâmico",
+        "Loja",
+        "Ligações rápidas",
+        "Serviço de Apoio ao Cliente"
+      ],
+      "sections": 4,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_pt_products_luxury_face_creams_1.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_pt_products_luxury_face_creams_1.json"
+    },
+    {
+      "url": "https://dynamic-preview.myshopify.com/pt/products/luxury-face-creams-copy",
+      "slug": "dynamic_preview_myshopify_com_pt_products_luxury_face_creams_copy",
+      "title": "O verniz de unhas assenta castanho – Dynamic",
+      "type": "other",
+      "headings": [
+        "O verniz de unhas assenta castanho",
+        "A Nossa Paixão",
+        "Também poderá gostar de",
+        "Boletim Informativo",
+        "Sobre o Dinâmico",
+        "Loja",
+        "Ligações rápidas",
+        "Serviço de Apoio ao Cliente"
+      ],
+      "sections": 4,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_pt_products_luxury_face_creams_copy.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_pt_products_luxury_face_creams_copy.json"
+    },
+    {
+      "url": "https://dynamic-preview.myshopify.com/pt/products/opulencedevelopment",
+      "slug": "dynamic_preview_myshopify_com_pt_products_opulencedevelopment",
+      "title": "Cartão Presente - O Presente Perfeito para Qualquer Ocasião – Dynamic",
+      "type": "other",
+      "headings": [
+        "desenvolvimento de opulência",
+        "A Nossa Paixão",
+        "Também poderá gostar de",
+        "Boletim Informativo",
+        "Sobre o Dinâmico",
+        "Loja",
+        "Ligações rápidas",
+        "Serviço de Apoio ao Cliente"
+      ],
+      "sections": 4,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_pt_products_opulencedevelopment.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_pt_products_opulencedevelopment.json"
+    },
+    {
+      "url": "https://dynamic-preview.myshopify.com/pt/products/perfect-cover-concealer-1",
+      "slug": "dynamic_preview_myshopify_com_pt_products_perfect_cover_concealer_1",
+      "title": "Corretor de Olheiras Perfect Cover – Dynamic",
+      "type": "other",
+      "headings": [
+        "Corretor de Olheiras Perfect Cover",
+        "A Nossa Paixão",
+        "Também poderá gostar de",
+        "Boletim Informativo",
+        "Sobre o Dinâmico",
+        "Loja",
+        "Ligações rápidas",
+        "Serviço de Apoio ao Cliente"
+      ],
+      "sections": 4,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_pt_products_perfect_cover_concealer_1.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_pt_products_perfect_cover_concealer_1.json"
+    },
+    {
+      "url": "https://dynamic-preview.myshopify.com/pt/products/perfect-finish-foundation",
+      "slug": "dynamic_preview_myshopify_com_pt_products_perfect_finish_foundation",
+      "title": "Base de Maquilhagem Acabamento Perfeito – Dynamic",
+      "type": "other",
+      "headings": [
+        "Base de Maquilhagem Acabamento Perfeito",
+        "A Nossa Paixão",
+        "Também poderá gostar de",
+        "Boletim Informativo",
+        "Sobre o Dinâmico",
+        "Loja",
+        "Ligações rápidas",
+        "Serviço de Apoio ao Cliente"
+      ],
+      "sections": 4,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_pt_products_perfect_finish_foundation.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_pt_products_perfect_finish_foundation.json"
+    },
+    {
+      "url": "https://dynamic-preview.myshopify.com/pt/products/powerplay-priming-concealer",
+      "slug": "dynamic_preview_myshopify_com_pt_products_powerplay_priming_concealer",
+      "title": "Pré-base Potenciadora Powerplay – Dynamic",
+      "type": "other",
+      "headings": [
+        "Pré-base Potenciadora Powerplay",
+        "A Nossa Paixão",
+        "Também poderá gostar de",
+        "Boletim Informativo",
+        "Sobre o Dinâmico",
+        "Loja",
+        "Ligações rápidas",
+        "Serviço de Apoio ao Cliente"
+      ],
+      "sections": 4,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_pt_products_powerplay_priming_concealer.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_pt_products_powerplay_priming_concealer.json"
+    },
+    {
+      "url": "https://dynamic-preview.myshopify.com/pt/products/pure-argan-milk-intensive-hydrating-treatment",
+      "slug": "dynamic_preview_myshopify_com_pt_products_pure_argan_milk_intensive_hydrating_treatment",
+      "title": "Leite de Argão Puro Tratamento Hidratante Intensivo – Dynamic",
+      "type": "other",
+      "headings": [
+        "Leite de Argão Puro Tratamento Hidratante Intensivo",
+        "Dê uma vista de olhos a estes produtos",
+        "A Nossa Paixão",
+        "Também poderá gostar de",
+        "Boletim Informativo",
+        "Sobre o Dinâmico",
+        "Loja",
+        "Ligações rápidas"
+      ],
+      "sections": 4,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_pt_products_pure_argan_milk_intensive_hydrating_treatment.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_pt_products_pure_argan_milk_intensive_hydrating_treatment.json"
+    },
+    {
+      "url": "https://dynamic-preview.myshopify.com/pt/products/rewind-concealer",
+      "slug": "dynamic_preview_myshopify_com_pt_products_rewind_concealer",
+      "title": "Corretor Rewind – Dynamic",
+      "type": "other",
+      "headings": [
+        "Corretor Rewind",
+        "Dê uma vista de olhos a estes produtos",
+        "A Nossa Paixão",
+        "Também poderá gostar de",
+        "Boletim Informativo",
+        "Sobre o Dinâmico",
+        "Loja",
+        "Ligações rápidas"
+      ],
+      "sections": 4,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_pt_products_rewind_concealer.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_pt_products_rewind_concealer.json"
+    },
+    {
+      "url": "https://dynamic-preview.myshopify.com/pt/products/hydrating-face-serum",
+      "slug": "dynamic_preview_myshopify_com_pt_products_hydrating_face_serum",
+      "title": "Sérum Facial Hidratante – Hidratação e Nutrição Profundas – Dynamic",
+      "type": "other",
+      "headings": [
+        "Sérum Hidratante Facial",
+        "A Nossa Paixão",
+        "Também poderá gostar de",
+        "Boletim Informativo",
+        "Sobre o Dinâmico",
+        "Loja",
+        "Ligações rápidas",
+        "Serviço de Apoio ao Cliente"
+      ],
+      "sections": 4,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_pt_products_hydrating_face_serum.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_pt_products_hydrating_face_serum.json"
+    },
+    {
+      "url": "https://dynamic-preview.myshopify.com/pt/products/matte-lipstick-collection",
+      "slug": "dynamic_preview_myshopify_com_pt_products_matte_lipstick_collection",
+      "title": "Batom Matte - Cor Vibrante e de Longa Duração – Dynamic",
+      "type": "other",
+      "headings": [
+        "Coleção de Batons Mate",
+        "A Nossa Paixão",
+        "Também poderá gostar de",
+        "Boletim Informativo",
+        "Sobre o Dinâmico",
+        "Loja",
+        "Ligações rápidas",
+        "Serviço de Apoio ao Cliente"
+      ],
+      "sections": 4,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_pt_products_matte_lipstick_collection.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_pt_products_matte_lipstick_collection.json"
+    },
+    {
+      "url": "https://dynamic-preview.myshopify.com/pt/products/nourishing-night-cream",
+      "slug": "dynamic_preview_myshopify_com_pt_products_nourishing_night_cream",
+      "title": "Creme de Noite Nutritivo - Rejuvenescimento da Pele Durante a Noite – Dynamic",
+      "type": "other",
+      "headings": [
+        "Creme de Noite Nutritivo",
+        "A Nossa Paixão",
+        "Também poderá gostar de",
+        "Boletim Informativo",
+        "Sobre o Dinâmico",
+        "Loja",
+        "Ligações rápidas",
+        "Serviço de Apoio ao Cliente"
+      ],
+      "sections": 4,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_pt_products_nourishing_night_cream.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_pt_products_nourishing_night_cream.json"
+    },
+    {
+      "url": "https://dynamic-preview.myshopify.com/pt/products/volumizing-mascara",
+      "slug": "dynamic_preview_myshopify_com_pt_products_volumizing_mascara",
+      "title": "Máscara de Pestanas Volumizadora - Pestanas Dramáticas Durante Todo o Dia – Dynamic",
+      "type": "other",
+      "headings": [
+        "Máscara de Pestanas Volumizadora",
+        "A Nossa Paixão",
+        "Também poderá gostar de",
+        "Boletim Informativo",
+        "Sobre o Dinâmico",
+        "Loja",
+        "Ligações rápidas",
+        "Serviço de Apoio ao Cliente"
+      ],
+      "sections": 4,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_pt_products_volumizing_mascara.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_pt_products_volumizing_mascara.json"
+    },
+    {
+      "url": "https://dynamic-preview.myshopify.com/pt/products/gentle-cleansing-foam",
+      "slug": "dynamic_preview_myshopify_com_pt_products_gentle_cleansing_foam",
+      "title": "Espuma de Limpeza Suave - Limpeza Facial Diária – Dynamic",
+      "type": "other",
+      "headings": [
+        "Espuma de Limpeza Suave",
+        "A Nossa Paixão",
+        "Também poderá gostar de",
+        "Boletim Informativo",
+        "Sobre o Dinâmico",
+        "Loja",
+        "Ligações rápidas",
+        "Serviço de Apoio ao Cliente"
+      ],
+      "sections": 4,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_pt_products_gentle_cleansing_foam.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_pt_products_gentle_cleansing_foam.json"
+    },
+    {
+      "url": "https://dynamic-preview.myshopify.com/pt/products/face-roller",
+      "slug": "dynamic_preview_myshopify_com_pt_products_face_roller",
+      "title": "Rolo Facial - Ferramenta de Massagem Facial para uma Pele Radiante | Ellara – Dynamic",
+      "type": "other",
+      "headings": [
+        "Rolo Facial",
+        "Benefícios:",
+        "Como Usar:",
+        "A Nossa Paixão",
+        "Também poderá gostar de",
+        "Boletim Informativo",
+        "Sobre o Dinâmico",
+        "Loja"
+      ],
+      "sections": 4,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_pt_products_face_roller.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_pt_products_face_roller.json"
+    },
+    {
+      "url": "https://dynamic-preview.myshopify.com/pt/products/eyes-brows",
+      "slug": "dynamic_preview_myshopify_com_pt_products_eyes_brows",
+      "title": "Maquilhagem de Olhos e Sobrancelhas - Produtos Profissionais para Olhos e Sobrancelhas – Dynamic",
+      "type": "other",
+      "headings": [
+        "Olhos e Sobrancelhas",
+        "A Nossa Paixão",
+        "Também poderá gostar de",
+        "Boletim Informativo",
+        "Sobre o Dinâmico",
+        "Loja",
+        "Ligações rápidas",
+        "Serviço de Apoio ao Cliente"
+      ],
+      "sections": 4,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_pt_products_eyes_brows.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_pt_products_eyes_brows.json"
+    },
+    {
+      "url": "https://dynamic-preview.myshopify.com/pt/products/sun-cream-spf-protection",
+      "slug": "dynamic_preview_myshopify_com_pt_products_sun_cream_spf_protection",
+      "title": "Protetor Solar SPF - Protetor Solar Diário para Todos os Tipos de Pele – Dynamic",
+      "type": "other",
+      "headings": [
+        "Proteção Solar Fator SPF",
+        "A Nossa Paixão",
+        "Boletim Informativo",
+        "Sobre o Dinâmico",
+        "Loja",
+        "Ligações rápidas",
+        "Serviço de Apoio ao Cliente"
+      ],
+      "sections": 4,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_pt_products_sun_cream_spf_protection.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_pt_products_sun_cream_spf_protection.json"
+    },
+    {
+      "url": "https://dynamic-preview.myshopify.com/pt/products/gentle-face-wash-cleanser",
+      "slug": "dynamic_preview_myshopify_com_pt_products_gentle_face_wash_cleanser",
+      "title": "Gel de Limpeza Facial Suave - Limpeza Profunda para uma Pele Fresca – Dynamic",
+      "type": "other",
+      "headings": [
+        "Gel de Limpeza Facial Suave",
+        "A Nossa Paixão",
+        "Também poderá gostar de",
+        "Boletim Informativo",
+        "Sobre o Dinâmico",
+        "Loja",
+        "Ligações rápidas",
+        "Serviço de Apoio ao Cliente"
+      ],
+      "sections": 4,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_pt_products_gentle_face_wash_cleanser.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_pt_products_gentle_face_wash_cleanser.json"
+    },
+    {
+      "url": "https://dynamic-preview.myshopify.com/pt/products/lumipure-gentle-foam-cleanser",
+      "slug": "dynamic_preview_myshopify_com_pt_products_lumipure_gentle_foam_cleanser",
+      "title": "LumiPure Espuma de Limpeza Suave – Dynamic",
+      "type": "other",
+      "headings": [
+        "LumiPure Espuma de Limpeza Suave",
+        "A Nossa Paixão",
+        "Também poderá gostar de",
+        "Boletim Informativo",
+        "Sobre o Dinâmico",
+        "Loja",
+        "Ligações rápidas",
+        "Serviço de Apoio ao Cliente"
+      ],
+      "sections": 4,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_pt_products_lumipure_gentle_foam_cleanser.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_pt_products_lumipure_gentle_foam_cleanser.json"
+    },
+    {
+      "url": "https://dynamic-preview.myshopify.com/pt/products/hydrating-glow-cream",
+      "slug": "dynamic_preview_myshopify_com_pt_products_hydrating_glow_cream",
+      "title": "Creme Iluminador Hidratante – Dynamic",
+      "type": "other",
+      "headings": [
+        "Creme Iluminador Hidratante",
+        "A Nossa Paixão",
+        "Também poderá gostar de",
+        "Boletim Informativo",
+        "Sobre o Dinâmico",
+        "Loja",
+        "Ligações rápidas",
+        "Serviço de Apoio ao Cliente"
+      ],
+      "sections": 4,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_pt_products_hydrating_glow_cream.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_pt_products_hydrating_glow_cream.json"
+    },
+    {
+      "url": "https://dynamic-preview.myshopify.com/pt/products/radiance-boost-serum",
+      "slug": "dynamic_preview_myshopify_com_pt_products_radiance_boost_serum",
+      "title": "Sérum Potenciador de Luminosidade – Dynamic",
+      "type": "other",
+      "headings": [
+        "Sérum Potenciador de Luminosidade",
+        "A Nossa Paixão",
+        "Também poderá gostar de",
+        "Boletim Informativo",
+        "Sobre o Dinâmico",
+        "Loja",
+        "Ligações rápidas",
+        "Serviço de Apoio ao Cliente"
+      ],
+      "sections": 4,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_pt_products_radiance_boost_serum.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_pt_products_radiance_boost_serum.json"
+    },
+    {
+      "url": "https://dynamic-preview.myshopify.com/pt/products/lipstick-shades",
+      "slug": "dynamic_preview_myshopify_com_pt_products_lipstick_shades",
+      "title": "Tons de batom – Dynamic",
+      "type": "other",
+      "headings": [
+        "Tons de batom",
+        "A Nossa Paixão",
+        "Também poderá gostar de",
+        "Boletim Informativo",
+        "Sobre o Dinâmico",
+        "Loja",
+        "Ligações rápidas",
+        "Serviço de Apoio ao Cliente"
+      ],
+      "sections": 4,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_pt_products_lipstick_shades.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_pt_products_lipstick_shades.json"
+    },
+    {
+      "url": "https://dynamic-preview.myshopify.com/pt/pages/contact",
+      "slug": "dynamic_preview_myshopify_com_pt_pages_contact",
+      "title": "Contactos – Dynamic",
+      "type": "other",
+      "headings": [
+        "Entre em Contacto Connosco",
+        "Apoio ao Cliente",
+        "Envie-nos Uma Mensagem",
+        "Boletim Informativo",
+        "Sobre o Dinâmico",
+        "Loja",
+        "Ligações rápidas",
+        "Serviço de Apoio ao Cliente"
+      ],
+      "sections": 3,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_pt_pages_contact.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_pt_pages_contact.json"
+    },
+    {
+      "url": "https://dynamic-preview.myshopify.com/pt/pages/faq",
+      "slug": "dynamic_preview_myshopify_com_pt_pages_faq",
+      "title": "Perguntas Frequentes – Dynamic",
+      "type": "other",
+      "headings": [
+        "Perguntas Frequentes",
+        "Perguntas frequentes",
+        "Boletim Informativo",
+        "Sobre o Dinâmico",
+        "Loja",
+        "Ligações rápidas",
+        "Serviço de Apoio ao Cliente"
+      ],
+      "sections": 2,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_pt_pages_faq.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_pt_pages_faq.json"
+    },
+    {
+      "url": "https://dynamic-preview.myshopify.com/pt/pages/pages",
+      "slug": "dynamic_preview_myshopify_com_pt_pages_pages",
+      "title": "páginas – Dynamic",
+      "type": "other",
+      "headings": [
+        "páginas",
+        "Boletim Informativo",
+        "Sobre o Dinâmico",
+        "Loja",
+        "Ligações rápidas",
+        "Serviço de Apoio ao Cliente"
+      ],
+      "sections": 1,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_pt_pages_pages.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_pt_pages_pages.json"
+    },
+    {
+      "url": "https://dynamic-preview.myshopify.com/pt/pages/about-us",
+      "slug": "dynamic_preview_myshopify_com_pt_pages_about_us",
+      "title": "Quem somos – Dynamic",
+      "type": "other",
+      "headings": [
+        "História de Ellara",
+        "Na Ellara, a nossa paixão é celebrar a sua beleza natural. Combinando os melhores ingredientes com ciência e ponderação, criamos produtos de cuidado da pele e de beleza.",
+        "Na Ellara, acreditamos que a verdadeira beleza começa com o cuidado da sua pele, a sua confiança e o seu brilho natural.",
+        "Perguntas frequentes",
+        "No Instagram",
+        "Boletim Informativo",
+        "Sobre o Dinâmico",
+        "Loja"
+      ],
+      "sections": 6,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_pt_pages_about_us.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_pt_pages_about_us.json"
+    },
+    {
+      "url": "https://dynamic-preview.myshopify.com/pt/pages/data-sharing-opt-out",
+      "slug": "dynamic_preview_myshopify_com_pt_pages_data_sharing_opt_out",
+      "title": "As Suas Escolhas de Privacidade – Dynamic",
+      "type": "other",
+      "headings": [
+        "As Suas Escolhas de Privacidade",
+        "Boletim Informativo",
+        "Sobre o Dinâmico",
+        "Loja",
+        "Ligações rápidas",
+        "Serviço de Apoio ao Cliente"
+      ],
+      "sections": 2,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_pt_pages_data_sharing_opt_out.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_pt_pages_data_sharing_opt_out.json"
+    },
+    {
+      "url": "https://dynamic-preview.myshopify.com/pt/collections/frontpage",
+      "slug": "dynamic_preview_myshopify_com_pt_collections_frontpage",
+      "title": "Página inicial – Dynamic",
+      "type": "other",
+      "headings": [
+        "Página inicial",
+        "Filtros",
+        "Boletim Informativo",
+        "Sobre o Dinâmico",
+        "Loja",
+        "Ligações rápidas",
+        "Serviço de Apoio ao Cliente"
+      ],
+      "sections": 2,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_pt_collections_frontpage.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_pt_collections_frontpage.json"
+    },
+    {
+      "url": "https://dynamic-preview.myshopify.com/pt/collections/all-product",
+      "slug": "dynamic_preview_myshopify_com_pt_collections_all_product",
+      "title": "Todos os produtos – Dynamic",
+      "type": "other",
+      "headings": [
+        "Todos os produtos",
+        "Filtros",
+        "Boletim Informativo",
+        "Sobre o Dinâmico",
+        "Loja",
+        "Ligações rápidas",
+        "Serviço de Apoio ao Cliente"
+      ],
+      "sections": 2,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_pt_collections_all_product.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_pt_collections_all_product.json"
+    },
+    {
+      "url": "https://dynamic-preview.myshopify.com/pt/collections/skin-care",
+      "slug": "dynamic_preview_myshopify_com_pt_collections_skin_care",
+      "title": "Cuidado da pele – Dynamic",
+      "type": "other",
+      "headings": [
+        "Cuidado da pele",
+        "Filtros",
+        "Boletim Informativo",
+        "Sobre o Dinâmico",
+        "Loja",
+        "Ligações rápidas",
+        "Serviço de Apoio ao Cliente"
+      ],
+      "sections": 2,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_pt_collections_skin_care.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_pt_collections_skin_care.json"
+    },
+    {
+      "url": "https://dynamic-preview.myshopify.com/pt/collections/sunscreen",
+      "slug": "dynamic_preview_myshopify_com_pt_collections_sunscreen",
+      "title": "Protetor solar – Dynamic",
+      "type": "other",
+      "headings": [
+        "Protetor solar",
+        "Filtros",
+        "Boletim Informativo",
+        "Sobre o Dinâmico",
+        "Loja",
+        "Ligações rápidas",
+        "Serviço de Apoio ao Cliente"
+      ],
+      "sections": 2,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_pt_collections_sunscreen.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_pt_collections_sunscreen.json"
+    },
+    {
+      "url": "https://dynamic-preview.myshopify.com/pt/collections/moisturizer",
+      "slug": "dynamic_preview_myshopify_com_pt_collections_moisturizer",
+      "title": "Hidratante – Dynamic",
+      "type": "other",
+      "headings": [
+        "Hidratante",
+        "Filtros",
+        "Boletim Informativo",
+        "Sobre o Dinâmico",
+        "Loja",
+        "Ligações rápidas",
+        "Serviço de Apoio ao Cliente"
+      ],
+      "sections": 2,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_pt_collections_moisturizer.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_pt_collections_moisturizer.json"
+    },
+    {
+      "url": "https://dynamic-preview.myshopify.com/pt/collections/makeup",
+      "slug": "dynamic_preview_myshopify_com_pt_collections_makeup",
+      "title": "Maquilhagem – Dynamic",
+      "type": "other",
+      "headings": [
+        "Maquilhagem",
+        "Filtros",
+        "Boletim Informativo",
+        "Sobre o Dinâmico",
+        "Loja",
+        "Ligações rápidas",
+        "Serviço de Apoio ao Cliente"
+      ],
+      "sections": 2,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_pt_collections_makeup.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_pt_collections_makeup.json"
+    },
+    {
+      "url": "https://dynamic-preview.myshopify.com/pt/collections/skin-care-1",
+      "slug": "dynamic_preview_myshopify_com_pt_collections_skin_care_1",
+      "title": "Cuidados com a pele – Dynamic",
+      "type": "other",
+      "headings": [
+        "Cuidados com a pele",
+        "Filtros",
+        "Boletim Informativo",
+        "Sobre o Dinâmico",
+        "Loja",
+        "Ligações rápidas",
+        "Serviço de Apoio ao Cliente"
+      ],
+      "sections": 2,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_pt_collections_skin_care_1.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_pt_collections_skin_care_1.json"
+    },
+    {
+      "url": "https://dynamic-preview.myshopify.com/pt/collections/body-care",
+      "slug": "dynamic_preview_myshopify_com_pt_collections_body_care",
+      "title": "Cuidado Corporal – Dynamic",
+      "type": "other",
+      "headings": [
+        "Cuidado Corporal",
+        "Filtros",
+        "Boletim Informativo",
+        "Sobre o Dinâmico",
+        "Loja",
+        "Ligações rápidas",
+        "Serviço de Apoio ao Cliente"
+      ],
+      "sections": 2,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_pt_collections_body_care.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_pt_collections_body_care.json"
+    },
+    {
+      "url": "https://dynamic-preview.myshopify.com/pt/collections/lip-care",
+      "slug": "dynamic_preview_myshopify_com_pt_collections_lip_care",
+      "title": "Cuidado Labial – Dynamic",
+      "type": "other",
+      "headings": [
+        "Cuidado Labial",
+        "Filtros",
+        "Boletim Informativo",
+        "Sobre o Dinâmico",
+        "Loja",
+        "Ligações rápidas",
+        "Serviço de Apoio ao Cliente"
+      ],
+      "sections": 2,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_pt_collections_lip_care.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_pt_collections_lip_care.json"
+    },
+    {
+      "url": "https://dynamic-preview.myshopify.com/pt/collections/eyes",
+      "slug": "dynamic_preview_myshopify_com_pt_collections_eyes",
+      "title": "Olhos – Dynamic",
+      "type": "other",
+      "headings": [
+        "Olhos",
+        "Filtros",
+        "Boletim Informativo",
+        "Sobre o Dinâmico",
+        "Loja",
+        "Ligações rápidas",
+        "Serviço de Apoio ao Cliente"
+      ],
+      "sections": 2,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_pt_collections_eyes.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_pt_collections_eyes.json"
+    },
+    {
+      "url": "https://dynamic-preview.myshopify.com/pt/collections/glow-boosters",
+      "slug": "dynamic_preview_myshopify_com_pt_collections_glow_boosters",
+      "title": "Potenciadores de Luminosidade – Dynamic",
+      "type": "other",
+      "headings": [
+        "Potenciadores de Luminosidade",
+        "Filtros",
+        "Boletim Informativo",
+        "Sobre o Dinâmico",
+        "Loja",
+        "Ligações rápidas",
+        "Serviço de Apoio ao Cliente"
+      ],
+      "sections": 2,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_pt_collections_glow_boosters.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_pt_collections_glow_boosters.json"
+    },
+    {
+      "url": "https://dynamic-preview.myshopify.com/pt/collections/face-oils",
+      "slug": "dynamic_preview_myshopify_com_pt_collections_face_oils",
+      "title": "Óleos Faciais – Dynamic",
+      "type": "other",
+      "headings": [
+        "Óleos Faciais",
+        "Filtros",
+        "Boletim Informativo",
+        "Sobre o Dinâmico",
+        "Loja",
+        "Ligações rápidas",
+        "Serviço de Apoio ao Cliente"
+      ],
+      "sections": 2,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_pt_collections_face_oils.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_pt_collections_face_oils.json"
+    },
+    {
+      "url": "https://dynamic-preview.myshopify.com/pt/collections/exfoliation-masks",
+      "slug": "dynamic_preview_myshopify_com_pt_collections_exfoliation_masks",
+      "title": "Esfoliação e Máscaras – Dynamic",
+      "type": "other",
+      "headings": [
+        "Esfoliação e Máscaras",
+        "Filtros",
+        "Boletim Informativo",
+        "Sobre o Dinâmico",
+        "Loja",
+        "Ligações rápidas",
+        "Serviço de Apoio ao Cliente"
+      ],
+      "sections": 2,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_pt_collections_exfoliation_masks.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_pt_collections_exfoliation_masks.json"
+    },
+    {
+      "url": "https://dynamic-preview.myshopify.com/pt/collections/makeup-remover",
+      "slug": "dynamic_preview_myshopify_com_pt_collections_makeup_remover",
+      "title": "Desmaquilhante – Dynamic",
+      "type": "other",
+      "headings": [
+        "Desmaquilhante",
+        "Não foram encontrados produtos. Por favor, tente outros filtros.",
+        "Filtros",
+        "Boletim Informativo",
+        "Sobre o Dinâmico",
+        "Loja",
+        "Ligações rápidas",
+        "Serviço de Apoio ao Cliente"
+      ],
+      "sections": 2,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_pt_collections_makeup_remover.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_pt_collections_makeup_remover.json"
+    },
+    {
+      "url": "https://dynamic-preview.myshopify.com/pt/collections/hair-care",
+      "slug": "dynamic_preview_myshopify_com_pt_collections_hair_care",
+      "title": "Cuidado do Cabelo – Dynamic",
+      "type": "other",
+      "headings": [
+        "Cuidado do Cabelo",
+        "Não foram encontrados produtos. Por favor, tente outros filtros.",
+        "Filtros",
+        "Boletim Informativo",
+        "Sobre o Dinâmico",
+        "Loja",
+        "Ligações rápidas",
+        "Serviço de Apoio ao Cliente"
+      ],
+      "sections": 2,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_pt_collections_hair_care.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_pt_collections_hair_care.json"
+    },
+    {
+      "url": "https://dynamic-preview.myshopify.com/pt/collections/sun-protection",
+      "slug": "dynamic_preview_myshopify_com_pt_collections_sun_protection",
+      "title": "Sol e Proteção – Dynamic",
+      "type": "other",
+      "headings": [
+        "Sol e Proteção",
+        "Filtros",
+        "Boletim Informativo",
+        "Sobre o Dinâmico",
+        "Loja",
+        "Ligações rápidas",
+        "Serviço de Apoio ao Cliente"
+      ],
+      "sections": 2,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_pt_collections_sun_protection.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_pt_collections_sun_protection.json"
+    },
+    {
+      "url": "https://dynamic-preview.myshopify.com/pt/collections/cleansers-face-wash",
+      "slug": "dynamic_preview_myshopify_com_pt_collections_cleansers_face_wash",
+      "title": "Limpadores & Lavagens Faciais – Dynamic",
+      "type": "other",
+      "headings": [
+        "Limpadores & Lavagens Faciais",
+        "Filtros",
+        "Boletim Informativo",
+        "Sobre o Dinâmico",
+        "Loja",
+        "Ligações rápidas",
+        "Serviço de Apoio ao Cliente"
+      ],
+      "sections": 2,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_pt_collections_cleansers_face_wash.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_pt_collections_cleansers_face_wash.json"
+    },
+    {
+      "url": "https://dynamic-preview.myshopify.com/pt/collections/tools-and-accessories",
+      "slug": "dynamic_preview_myshopify_com_pt_collections_tools_and_accessories",
+      "title": "Ferramentas E Acessórios – Dynamic",
+      "type": "other",
+      "headings": [
+        "Ferramentas E Acessórios",
+        "Filtros",
+        "Boletim Informativo",
+        "Sobre o Dinâmico",
+        "Loja",
+        "Ligações rápidas",
+        "Serviço de Apoio ao Cliente"
+      ],
+      "sections": 2,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_pt_collections_tools_and_accessories.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_pt_collections_tools_and_accessories.json"
+    },
+    {
+      "url": "https://dynamic-preview.myshopify.com/pt/collections/foundations",
+      "slug": "dynamic_preview_myshopify_com_pt_collections_foundations",
+      "title": "Fundações – Dynamic",
+      "type": "other",
+      "headings": [
+        "Fundações",
+        "Filtros",
+        "Boletim Informativo",
+        "Sobre o Dinâmico",
+        "Loja",
+        "Ligações rápidas",
+        "Serviço de Apoio ao Cliente"
+      ],
+      "sections": 2,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_pt_collections_foundations.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_pt_collections_foundations.json"
+    },
+    {
+      "url": "https://dynamic-preview.myshopify.com/pt/collections/whats-hot",
+      "slug": "dynamic_preview_myshopify_com_pt_collections_whats_hot",
+      "title": "Novidades – Dynamic",
+      "type": "other",
+      "headings": [
+        "Novidades",
+        "Filtros",
+        "Boletim Informativo",
+        "Sobre o Dinâmico",
+        "Loja",
+        "Ligações rápidas",
+        "Serviço de Apoio ao Cliente"
+      ],
+      "sections": 2,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_pt_collections_whats_hot.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_pt_collections_whats_hot.json"
+    },
+    {
+      "url": "https://dynamic-preview.myshopify.com/pt/blogs/news",
+      "slug": "dynamic_preview_myshopify_com_pt_blogs_news",
+      "title": "Blogue – Dynamic",
+      "type": "other",
+      "headings": [
+        "Blogue",
+        "Boletim Informativo",
+        "Sobre o Dinâmico",
+        "Loja",
+        "Ligações rápidas",
+        "Serviço de Apoio ao Cliente"
+      ],
+      "sections": 2,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_pt_blogs_news.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_pt_blogs_news.json"
+    },
+    {
+      "url": "https://dynamic-preview.myshopify.com/pt/blogs/news/radiance-redefined-skincare-the-ellara-way",
+      "slug": "dynamic_preview_myshopify_com_pt_blogs_news_radiance_redefined_skincare_the_ellara_way",
+      "title": "Radiância Redefinida Skincare ao Estilo Ellara – Dynamic",
+      "type": "other",
+      "headings": [
+        "Radiância Redefinida Skincare ao Estilo Ellara",
+        "Bem-vinda à Filosofia Ellara",
+        "A Ciência do Brilho",
+        "Potenciadores de Luminosidade da Natureza",
+        "O Seu Ritual Diário de Luminosidade",
+        "A Diferença Ellara",
+        "Deixe um comentário",
+        "Boletim Informativo"
+      ],
+      "sections": 1,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_pt_blogs_news_radiance_redefined_skincare_the_ellara_way.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_pt_blogs_news_radiance_redefined_skincare_the_ellara_way.json"
+    },
+    {
+      "url": "https://dynamic-preview.myshopify.com/pt/blogs/news/your-daily-glow-guide",
+      "slug": "dynamic_preview_myshopify_com_pt_blogs_news_your_daily_glow_guide",
+      "title": "O seu guia diário para um brilho saudável – Dynamic",
+      "type": "other",
+      "headings": [
+        "O seu guia diário para um brilho saudável",
+        "Manhã: Desperte a Sua Radiância",
+        "Meio-dia: Refresque e Rehidrate",
+        "Noite: Repare e Renove",
+        "Rituais Semanais",
+        "Dicas de Estilo de Vida para um Brilho Duradouro",
+        "Ouça a Sua Pele",
+        "Deixe um comentário"
+      ],
+      "sections": 1,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_pt_blogs_news_your_daily_glow_guide.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_pt_blogs_news_your_daily_glow_guide.json"
+    },
+    {
+      "url": "https://dynamic-preview.myshopify.com/pt/blogs/news/experience-timeless-beauty-every-day",
+      "slug": "dynamic_preview_myshopify_com_pt_blogs_news_experience_timeless_beauty_every_day",
+      "title": "Experimente a Beleza Eterna, Todos os Dias – Dynamic",
+      "type": "other",
+      "headings": [
+        "Experimente a Beleza Eterna, Todos os Dias",
+        "Simples. Eficaz. Atemporal.",
+        "A Sua Pele, A Sua História",
+        "Beleza Que Dura",
+        "Deixe um comentário",
+        "Boletim Informativo",
+        "Sobre o Dinâmico",
+        "Loja"
+      ],
+      "sections": 1,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_pt_blogs_news_experience_timeless_beauty_every_day.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_pt_blogs_news_experience_timeless_beauty_every_day.json"
+    },
+    {
+      "url": "https://dynamic-preview.myshopify.com/pt/blogs/news/the-secret-to-effortless-glow",
+      "slug": "dynamic_preview_myshopify_com_pt_blogs_news_the_secret_to_effortless_glow",
+      "title": "O Segredo para um Brilho sem Esforço – Dynamic",
+      "type": "other",
+      "headings": [
+        "O Segredo para um Brilho sem Esforço",
+        "Menos É Mais",
+        "A Hidratação É Tudo",
+        "Consistência Acima da Perfeição",
+        "Trata a Tua Pele com Gentileza",
+        "O Brilho Vem de Dentro",
+        "Deixe um comentário",
+        "Boletim Informativo"
+      ],
+      "sections": 1,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_pt_blogs_news_the_secret_to_effortless_glow.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_pt_blogs_news_the_secret_to_effortless_glow.json"
+    },
+    {
+      "url": "https://dynamic-preview.myshopify.com/pt/blogs/news/the-science-of-radiance",
+      "slug": "dynamic_preview_myshopify_com_pt_blogs_news_the_science_of_radiance",
+      "title": "A Ciência da Radiância – Dynamic",
+      "type": "other",
+      "headings": [
+        "A Ciência da Radiância",
+        "Compreender a Barreira Cutânea",
+        "O Poder dos Antioxidantes",
+        "Renovação e Regeneração Celular",
+        "Hidratação a Nível Celular",
+        "Colagénio e Elasticidade",
+        "Em Conclusão",
+        "Deixe um comentário"
+      ],
+      "sections": 1,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_pt_blogs_news_the_science_of_radiance.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_pt_blogs_news_the_science_of_radiance.json"
+    },
+    {
+      "url": "https://dynamic-preview.myshopify.com/pt/blogs/news/clean-beauty-real-results",
+      "slug": "dynamic_preview_myshopify_com_pt_blogs_news_clean_beauty_real_results",
+      "title": "Beleza Limpa, Resultados Reais – Dynamic",
+      "type": "other",
+      "headings": [
+        "Beleza Limpa, Resultados Reais",
+        "O Que a Beleza Limpa Realmente Significa",
+        "O Poder dos Ingredientes Naturais",
+        "A Ciência Encontra a Natureza",
+        "Resultados Que Pode Ver e Sentir",
+        "Melhor para Si, Melhor para o Planeta",
+        "A Nossa Promessa de Beleza Limpa",
+        "Deixe um comentário"
+      ],
+      "sections": 1,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_pt_blogs_news_clean_beauty_real_results.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_pt_blogs_news_clean_beauty_real_results.json"
+    },
+    {
+      "url": "https://dynamic-preview.myshopify.com/collections/all",
+      "slug": "dynamic_preview_myshopify_com_collections_all",
+      "title": "Products – Dynamic",
+      "type": "collection",
+      "headings": [
+        "Products",
+        "Filters",
+        "Newsletter",
+        "About Dynamic",
+        "Shop",
+        "Quick links",
+        "Customer Care"
+      ],
+      "sections": 2,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_collections_all.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_collections_all.json"
+    },
+    {
+      "url": "https://dynamic-preview.myshopify.com/collections",
+      "slug": "dynamic_preview_myshopify_com_collections",
+      "title": "Collections – Dynamic",
+      "type": "other",
+      "headings": [
+        "All Collections",
+        "All product",
+        "Body Care",
+        "Cleansers & Face Wash",
+        "Exfoliation & Masks",
+        "Eyes",
+        "Face Oils",
+        "Foundations"
+      ],
+      "sections": 3,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_collections.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_collections.json"
+    }
+  ]
+}

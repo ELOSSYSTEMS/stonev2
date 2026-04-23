@@ -1,0 +1,36 @@
+{
+  "pageUrl": "https://elegance-canvas.myshopify.com/collections/framed-art-prints",
+  "pageTitle": "Framed Art Prints – Elegance-canvas",
+  "pageSlug": "elegance_canvas_myshopify_com_collections_framed_art_prints",
+  "sections": [
+    {
+      "refId": "elegance_canvas_myshopify_com_collections_framed_art_prints__section_01",
+      "index": 1,
+      "selectorHint": "#shopify-section-template--19562840981686__main",
+      "typeGuess": "hero",
+      "patternTags": [
+        "hero-candidate",
+        "top-of-page",
+        "image-heavy",
+        "slider",
+        "cta-cluster",
+        "card-grid",
+        "product-commerce",
+        "category-navigation",
+        "editorial-media"
+      ],
+      "headingSample": [
+        "The Ballet Beauty",
+        "Digital Harmony",
+        "Moonlit Breeze",
+        "The Village Journey",
+        "The White Lady",
+        "Golden Spring"
+      ],
+      "textSample": ".section-template--19562840981686__main-padding { padding-top: 70px; padding-bottom: 70px; } @media screen and (min-width: 768px) { .section-template--19562840981686__main-padding { padding-top: 105px; padding-bottom: 105px; } } @media screen and (min-width: 1200px) { .section-te",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_collections_framed_art_prints/elegance_canvas_myshopify_com_collections_framed_art_prints__section_01.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/pages/elegance_canvas_myshopify_com_collections_framed_art_prints.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/pages/elegance_canvas_myshopify_com_collections_framed_art_prints.json"
+    }
+  ]
+}

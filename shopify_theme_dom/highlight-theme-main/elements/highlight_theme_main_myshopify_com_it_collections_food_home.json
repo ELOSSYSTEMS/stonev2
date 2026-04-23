@@ -1,0 +1,60 @@
+{
+  "pageUrl": "https://highlight-theme-main.myshopify.com/it/collections/food-home",
+  "pageTitle": "Cibo e casa – Highlight Theme",
+  "pageSlug": "highlight_theme_main_myshopify_com_it_collections_food_home",
+  "sections": [
+    {
+      "refId": "highlight_theme_main_myshopify_com_it_collections_food_home__section_01",
+      "index": 1,
+      "selectorHint": "#shopify-section-template--15085564559521__main",
+      "typeGuess": "hero",
+      "patternTags": [
+        "hero-candidate",
+        "top-of-page",
+        "image-heavy",
+        "slider",
+        "cta-cluster",
+        "card-grid",
+        "product-commerce",
+        "category-navigation",
+        "editorial-media"
+      ],
+      "headingSample": [
+        "Cibo e casa",
+        "Ogni prodotto, dal riflettore salvavita al lecca-lecca fatto a mano, è ricco di innovazione. L'idea del prodotto viene prima, seguita dal design minimale.Per saperne di più"
+      ],
+      "textSample": "Cibo e casa Chiudere 5 prodotti Filtro: Disponibilità 0 selezionato/i Ripristina Disponibile (4) Esaurito (1) Prezzo Il prezzo più alto è $55.00 Ripristina Da $ A $ Tipo di prodotto 0 selezionato/i Ripristina birdhouse (1) lollypop (1) mirror (1) table cloth (1) tea (1) Size 0 se",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/highlight-theme-main/elements/highlight_theme_main_myshopify_com_it_collections_food_home/highlight_theme_main_myshopify_com_it_collections_food_home__section_01.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/highlight-theme-main/pages/highlight_theme_main_myshopify_com_it_collections_food_home.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/highlight-theme-main/pages/highlight_theme_main_myshopify_com_it_collections_food_home.json"
+    },
+    {
+      "refId": "highlight_theme_main_myshopify_com_it_collections_food_home__section_02",
+      "index": 2,
+      "selectorHint": "#shopify-section-sections--16050587173025__text-columns-with-icons",
+      "typeGuess": "content-section",
+      "patternTags": [],
+      "headingSample": [],
+      "textSample": "Same Day Dispatch All orders placed before 4pm Monday to Friday are dispatched same day. Free & Fast Delivery A free fully-trackable 2-day delivery service on all orders over $150. Exchanges & Returns You have 30 days from the shipping date to return your purchase FREE OF CHARGE.",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/highlight-theme-main/elements/highlight_theme_main_myshopify_com_it_collections_food_home/highlight_theme_main_myshopify_com_it_collections_food_home__section_02.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/highlight-theme-main/pages/highlight_theme_main_myshopify_com_it_collections_food_home.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/highlight-theme-main/pages/highlight_theme_main_myshopify_com_it_collections_food_home.json"
+    },
+    {
+      "refId": "highlight_theme_main_myshopify_com_it_collections_food_home__section_03",
+      "index": 3,
+      "selectorHint": "#shopify-section-sections--16050587173025__footer",
+      "typeGuess": "category-row",
+      "patternTags": [
+        "cta-cluster",
+        "card-grid",
+        "category-navigation"
+      ],
+      "headingSample": [],
+      "textSample": "About MARCH does not invent new things but improves existing ones. LINKS Ricerca Aiuto/FAQ Taglie e vestibilità Spedizione e resi Contatti Newsletter Inserisci la tua e-mail Invia Invite customers to join your newsletter.Link to your privacy policy. Lingua Italiano English Españo",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/highlight-theme-main/elements/highlight_theme_main_myshopify_com_it_collections_food_home/highlight_theme_main_myshopify_com_it_collections_food_home__section_03.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/highlight-theme-main/pages/highlight_theme_main_myshopify_com_it_collections_food_home.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/highlight-theme-main/pages/highlight_theme_main_myshopify_com_it_collections_food_home.json"
+    }
+  ]
+}

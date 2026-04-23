@@ -1,0 +1,34 @@
+{
+  "pageUrl": "https://salt-yard.myshopify.com/collections/trousers",
+  "pageTitle": "Trousers – Symmetry Theme Salt Yard",
+  "pageSlug": "salt_yard_myshopify_com_collections_trousers",
+  "sections": [
+    {
+      "refId": "salt_yard_myshopify_com_collections_trousers__section_01",
+      "index": 1,
+      "selectorHint": "div.container.cf",
+      "typeGuess": "hero",
+      "patternTags": [
+        "hero-candidate",
+        "top-of-page",
+        "image-heavy",
+        "slider",
+        "cta-cluster",
+        "product-commerce",
+        "category-navigation",
+        "editorial-media"
+      ],
+      "headingSample": [
+        "All Clothing",
+        "Socks",
+        "Shirts",
+        "Sale",
+        "Trousers"
+      ],
+      "textSample": "All Clothing Socks Shirts Sale Previous Next Trousers Filter 6 products Sort by Best selling Best sellingAlphabetically, A-ZAlphabetically, Z-APrice, low to highPrice, high to lowDate, old to newDate, new to old Filter 6 products Sort by Best selling Best sellingAlphabetically, A",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_collections_trousers/salt_yard_myshopify_com_collections_trousers__section_01.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/pages/salt_yard_myshopify_com_collections_trousers.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/pages/salt_yard_myshopify_com_collections_trousers.json"
+    }
+  ]
+}

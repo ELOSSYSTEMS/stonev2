@@ -1,0 +1,1888 @@
+# Shopify page scrape
+
+- URL: https://shift-sketch.myshopify.com/fr/collections/accessories
+- Title: Accessoires – Shift Sketch
+- Body classes: template-collection template-collection
+- Custom elements: cart-drawer, cart-drawer-items, facet-filters-form, facet-remove, header-drawer, header-search, menu-drawer, modal-localization-form, modal-opener, modal-region-selector, predictive-search, price-range, product-card, quick-view-modal, shop-cart-sync, sticky-header
+- Headings: Collection: Accessoires | Pince de bureau pour loisirs créatifs | Insigne à épingle artisanal | Ensemble de pinces de formes diverses | Autocollant logo artisanal | Sac cabas surdimensionné Craft | Boutique | Boutique | Explorer | Explorer | Légal | Légal | Suivez-nous | Abonnez-vous à notre newsletter
+
+## 1. shopify-section-template--27266934243703__product-grid
+
+- Tag: section
+- Classes: shopify-section collection-grid-section
+- Headings: Collection: Accessoires | Pince de bureau pour loisirs créatifs | Insigne à épingle artisanal | Ensemble de pinces de formes diverses | Autocollant logo artisanal | Sac cabas surdimensionné Craft
+
+```html
+<section id="shopify-section-template--27266934243703__product-grid" class="shopify-section collection-grid-section"><link href="//shift-sketch.myshopify.com/cdn/shop/t/2/assets/template-collection.css?v=14175664188467256911774258393" rel="stylesheet" type="text/css" media="all">
+
+  <link href="//shift-sketch.myshopify.com/cdn/shop/t/2/assets/component-collection-hero.css?v=33804487998792181221775027996" rel="stylesheet" type="text/css" media="all">
+
+<link href="//shift-sketch.myshopify.com/cdn/shop/t/2/assets/component-card.css?v=58533343598109286121773315752" rel="stylesheet" type="text/css" media="all">
+<link href="//shift-sketch.myshopify.com/cdn/shop/t/2/assets/component-facets.css?v=113967753288604140721775624745" rel="stylesheet" type="text/css" media="all">
+  <script src="//shift-sketch.myshopify.com/cdn/shop/t/2/assets/facets.js?v=83293892091185086711775624746" defer="defer"></script>
+  <script src="//shift-sketch.myshopify.com/cdn/shop/t/2/assets/products-per-row.js?v=70628967696761642651769596482" defer="defer"></script>
+
+
+
+  <script src="//shift-sketch.myshopify.com/cdn/shop/t/2/assets/collection-hero-slider.js?v=73016314877447906471766398547" defer="defer"></script>
+
+<style data-shopify="">#shopify-section-template--27266934243703__product-grid {
+
+  padding-top: 0;
+
+
+
+  padding-bottom: 8rem;
+
+}
+
+@media screen and (min-width: 750px) { #shopify-section-template--27266934243703__product-grid {
+
+  padding-top: 0;
+
+
+
+  padding-bottom: 12rem;
+
+} }
+
+@media screen and (min-width: 1440px) { #shopify-section-template--27266934243703__product-grid {
+
+  padding-top: 0;
+
+
+
+  padding-bottom: 15rem;
+
+
+} }
+
+
+  .facets__container {
+    visibility: hidden !important;
+  }
+  .facets__container:not(.active) .facets__wrapper--vertical {
+    transform: translateX(100%) !important;
+  }
+  .facets__container.active {
+    visibility: visible !important;
+  }</style>
+
+
+  <div class="collection-hero">
+    <div class="collection-hero__wrapper collection-hero__wrapper-with-slider container" style="--padding-bottom: %">
+      <div class="collection-hero__content">
+        <div class="collection-hero__text">
+          <h1 class="collection-hero__title h3">
+            <span class="visually-hidden">Collection: </span>Accessoires</h1></div>
+        
+<div class="collection-hero__slider">
+            <div class="collection-hero__slider-wrapper swiper swiper-initialized swiper-horizontal swiper-backface-hidden">
+              <div class="swiper-wrapper" id="swiper-wrapper-4a01566a930101f10" aria-live="polite">
+                
+                
+                  <div class="swiper-slide swiper-slide-active" role="group" aria-label="1 / 5" style="width: 132.2px; margin-right: 12px;">
+                    <a href="/fr/collections/all" class="collection-slide-link" aria-label="Tous les produits">
+                      <span class="collection-slide-image">
+                        
+                          
+                          <img src="//shift-sketch.myshopify.com/cdn/shop/files/image_384.jpg?v=1770358781&amp;width=400" alt="Tous les produits" srcset="//shift-sketch.myshopify.com/cdn/shop/files/image_384.jpg?v=1770358781&amp;width=180 180w, //shift-sketch.myshopify.com/cdn/shop/files/image_384.jpg?v=1770358781&amp;width=250 250w, //shift-sketch.myshopify.com/cdn/shop/files/image_384.jpg?v=1770358781&amp;width=360 360w, //shift-sketch.myshopify.com/cdn/shop/files/image_384.jpg?v=1770358781&amp;width=400 400w" width="400" height="204" loading="lazy" sizes="(max-width: 750px) 180px, (max-width: 1159px) 250px, 400px" fetchpriority="auto">
+                          
+                        
+                      </span>
+                      <span href="/fr/collections/all" class="collection-slide__title body-normal">
+                        Tous les produits
+                      </span>
+                    </a>
+                  </div>
+                
+                
+                  
+                    
+                  
+                  
+                  
+
+                  <div class="swiper-slide swiper-slide-next" role="group" aria-label="2 / 5" style="width: 132.2px; margin-right: 12px;">
+                    <a href="/fr/collections/calendars" class="collection-slide-link" aria-label="Calendriers">
+                      <span class="collection-slide-image">
+                        
+                          
+                          <img src="//shift-sketch.myshopify.com/cdn/shop/files/06-calendar.jpg?v=1763734242&amp;width=400" alt="Calendriers" srcset="//shift-sketch.myshopify.com/cdn/shop/files/06-calendar.jpg?v=1763734242&amp;width=180 180w, //shift-sketch.myshopify.com/cdn/shop/files/06-calendar.jpg?v=1763734242&amp;width=288 288w, //shift-sketch.myshopify.com/cdn/shop/files/06-calendar.jpg?v=1763734242&amp;width=360 360w, //shift-sketch.myshopify.com/cdn/shop/files/06-calendar.jpg?v=1763734242&amp;width=400 400w" width="400" height="533" loading="lazy" sizes="(max-width: 750px) 180px, (max-width: 1159px) 250px, 400px" fetchpriority="auto">
+                          
+                        
+                      </span>
+                      <span class="collection-slide__title">Calendriers</span>
+                    </a>
+                  </div>
+                
+                  
+                  
+                  
+
+                  <div class="swiper-slide" role="group" aria-label="3 / 5" style="width: 132.2px; margin-right: 12px;">
+                    <a href="/fr/collections/sketchbooks" class="collection-slide-link" aria-label="Carnets de croquis">
+                      <span class="collection-slide-image">
+                        
+                          
+                          <img src="//shift-sketch.myshopify.com/cdn/shop/files/06-sketchbook.jpg?v=1763715318&amp;width=400" alt="Carnets de croquis" srcset="//shift-sketch.myshopify.com/cdn/shop/files/06-sketchbook.jpg?v=1763715318&amp;width=180 180w, //shift-sketch.myshopify.com/cdn/shop/files/06-sketchbook.jpg?v=1763715318&amp;width=288 288w, //shift-sketch.myshopify.com/cdn/shop/files/06-sketchbook.jpg?v=1763715318&amp;width=360 360w, //shift-sketch.myshopify.com/cdn/shop/files/06-sketchbook.jpg?v=1763715318&amp;width=400 400w" width="400" height="533" loading="lazy" sizes="(max-width: 750px) 180px, (max-width: 1159px) 250px, 400px" fetchpriority="auto">
+                          
+                        
+                      </span>
+                      <span class="collection-slide__title">Carnets de croquis</span>
+                    </a>
+                  </div>
+                
+                  
+                  
+                  
+
+                  <div class="swiper-slide" role="group" aria-label="4 / 5" style="width: 132.2px; margin-right: 12px;">
+                    <a href="/fr/collections/planners" class="collection-slide-link" aria-label="Planificateurs">
+                      <span class="collection-slide-image">
+                        
+                          
+                          <img src="//shift-sketch.myshopify.com/cdn/shop/files/06-planner.jpg?v=1763732931&amp;width=400" alt="Planificateurs" srcset="//shift-sketch.myshopify.com/cdn/shop/files/06-planner.jpg?v=1763732931&amp;width=180 180w, //shift-sketch.myshopify.com/cdn/shop/files/06-planner.jpg?v=1763732931&amp;width=288 288w, //shift-sketch.myshopify.com/cdn/shop/files/06-planner.jpg?v=1763732931&amp;width=360 360w, //shift-sketch.myshopify.com/cdn/shop/files/06-planner.jpg?v=1763732931&amp;width=400 400w" width="400" height="533" loading="lazy" sizes="(max-width: 750px) 180px, (max-width: 1159px) 250px, 400px" fetchpriority="auto">
+                          
+                        
+                      </span>
+                      <span class="collection-slide__title">Planificateurs</span>
+                    </a>
+                  </div>
+                
+                  
+                  
+                  
+
+                  <div class="swiper-slide" role="group" aria-label="5 / 5" style="width: 132.2px; margin-right: 12px;">
+                    <a href="/fr/collections/pads" class="collection-slide-link" aria-label="serviettes hygiéniques">
+                      <span class="collection-slide-image">
+                        
+                          
+                          <img src="//shift-sketch.myshopify.com/cdn/shop/files/06-pads.jpg?v=1763977731&amp;width=400" alt="serviettes hygiéniques" srcset="//shift-sketch.myshopify.com/cdn/shop/files/06-pads.jpg?v=1763977731&amp;width=180 180w, //shift-sketch.myshopify.com/cdn/shop/files/06-pads.jpg?v=1763977731&amp;width=288 288w, //shift-sketch.myshopify.com/cdn/shop/files/06-pads.jpg?v=1763977731&amp;width=360 360w, //shift-sketch.myshopify.com/cdn/shop/files/06-pads.jpg?v=1763977731&amp;width=400 400w" width="400" height="533" loading="lazy" sizes="(max-width: 750px) 180px, (max-width: 1159px) 250px, 400px" fetchpriority="auto">
+                          
+                        
+                      </span>
+                      <span class="collection-slide__title">serviettes hygiéniques</span>
+                    </a>
+                  </div>
+                
+              </div>
+              <div class="collection-hero__navigation-wrapper no-js-hidden">
+                <button class="collection-hero__navigation-button-prev swiper-button-prev focus-inset swiper-button-disabled swiper-button-lock" disabled="" tabindex="-1" aria-label="Previous slide" aria-controls="swiper-wrapper-4a01566a930101f10" aria-disabled="true">
+                  <svg class="icon icon-arrow-slider-left" width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M14 2L6 10L14 18" stroke="currentColor"></path>
+</svg>
+
+                </button>
+                <button class="collection-hero__navigation-button-next swiper-button-next focus-inset swiper-button-disabled swiper-button-lock" disabled="" tabindex="-1" aria-label="Next slide" aria-controls="swiper-wrapper-4a01566a930101f10" aria-disabled="true">
+                  <svg class="icon icon-arrow-slider-right" width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M6 2L14 10L6 18" stroke="currentColor"></path>
+</svg>
+
+                </button>
+              </div>
+            <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
+          </div>
+        
+
+        
+      </div></div>
+  </div>
+
+
+<div class="section-template--27266934243703__product-grid-padding"><div class="collection-top  section-border-top">
+      <div class="collection-top__container container">
+        <div class="collection-top__container-left">
+          
+            <button type="button" data-desktop-modal="FacetsWrapperDesktop-template--27266934243703__product-grid" class="button facets-button-show vertical no-js-hidden focus-inset">
+              <span class="show-label" aria-label="Filtres"><svg class="icon icon-filter" width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M13.5586 4.85352V12.9316M13.5586 12.9316C12.815 12.9316 12.2122 13.5344 12.2122 14.278C12.2122 15.0216 12.815 15.6243 13.5586 15.6243C14.3022 15.6243 14.9049 15.0216 14.9049 14.278C14.9049 13.5344 14.3022 12.9316 13.5586 12.9316ZM6.84635 7.54622V15.6243M6.84635 7.54622C7.58993 7.54622 8.19271 6.94344 8.19271 6.19987C8.19271 5.4563 7.58993 4.85352 6.84635 4.85352C6.10278 4.85352 5.5 5.4563 5.5 6.19987C5.5 6.94344 6.10278 7.54622 6.84635 7.54622Z" stroke="currentColor" stroke-width="0.807813" stroke-linecap="square"></path>
+</svg>
+</span>
+              <span class="hide-label hidden" aria-label="Fermer"><svg class="icon icon-filter" width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M13.5586 4.85352V12.9316M13.5586 12.9316C12.815 12.9316 12.2122 13.5344 12.2122 14.278C12.2122 15.0216 12.815 15.6243 13.5586 15.6243C14.3022 15.6243 14.9049 15.0216 14.9049 14.278C14.9049 13.5344 14.3022 12.9316 13.5586 12.9316ZM6.84635 7.54622V15.6243M6.84635 7.54622C7.58993 7.54622 8.19271 6.94344 8.19271 6.19987C8.19271 5.4563 7.58993 4.85352 6.84635 4.85352C6.10278 4.85352 5.5 5.4563 5.5 6.19987C5.5 6.94344 6.10278 7.54622 6.84635 7.54622Z" stroke="currentColor" stroke-width="0.807813" stroke-linecap="square"></path>
+</svg>
+</span>
+              <span class="button__label" data-label="Filtres">
+                Filtres</span>
+            </button>
+            
+<button type="button" class="facet-open-button focus-inset button button--secondary" data-filter-index="1">
+                  Disponibilité
+                </button><button type="button" class="facet-open-button focus-inset button button--secondary" data-filter-index="2">
+                  Prix
+                </button><button type="button" class="facet-open-button focus-inset button button--secondary" data-filter-index="3">
+                  Catégorie
+                </button><button type="button" class="facet-open-button focus-inset button button--secondary" data-filter-index="4">
+                  Color
+                </button><button type="button" class="facet-open-button focus-inset button button--secondary" data-filter-index="5">
+                  Design
+                </button>
+          
+        </div>
+        <div class="collection-top__container-right">
+          
+            <div class="collection-top__layout-toggler">
+              
+
+              <button type="button" data-per-row="large" aria-label="Per row toggle" tabindex="0" class="collection-top__layout-toggler-button js-per-row__button focus-inset">
+                <span class="collection-top__layout-toggler-icon">
+                  
+                    <svg class="icon icon-cells-large" width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect x="4" y="5" width="5" height="10" fill="currentColor"></rect>
+  <rect x="11" y="5" width="5" height="10" fill="currentColor"></rect>
+</svg>
+
+                  
+                </span>
+                <span class="collection-top__layout-toggler-label body-normal">View</span>
+              </button>
+            </div>
+          
+          
+            <div class="facets__product-count" role="status">
+              <div class="facets__product-count-text body-normal">
+                <span class="body-normal" id="ProductCount">5 produits
+</span>
+              </div>
+            </div>
+          
+<facet-filters-form class="no-js-hidden">
+              <form id="FacetSortForm" class="facets-sorting">
+                
+                <div class="facet-filters__field facets-sorting__field"><div class="facet-sort-select">
+                    <input class="facet-sort-select__input" type="hidden" name="sort_by" id="SortBy" value="best-selling" aria-describedby="a11y-refresh-page-message" style="">
+                    <div class="facet-sort-select__select focus-inset button button--secondary" tabindex="0">
+                      <div class="facet-sort-select__icon">
+                        <svg class="icon icon-sort" width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M12.6667 10.1548V17.3096M12.6667 17.3096L10.3333 15.3215M12.6667 17.3096L15 15.3215M7.33333 10.1548V3M7.33333 3L5 4.98816M7.33333 3L9.66667 4.98816" stroke="currentColor" stroke-linecap="square"></path>
+</svg>
+
+                      </div>
+                      <span class="facet-sort-select__current body-normal">
+
+
+Meilleures ventes
+
+
+
+
+
+
+</span>
+                    </div>
+                    <div class="facet-sort-modal" role="dialog" aria-modal="true" tabindex="-1">
+                      <div class="facet-sort-modal__overlay"></div>
+                      <div class="facet-sort-modal__inner">
+                        <div class="facets-modal__header">
+                          <div class="facets-modal__heading-wrapper"><svg class="icon icon-sort" width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M12.6667 10.1548V17.3096M12.6667 17.3096L10.3333 15.3215M12.6667 17.3096L15 15.3215M7.33333 10.1548V3M7.33333 3L5 4.98816M7.33333 3L9.66667 4.98816" stroke="currentColor" stroke-linecap="square"></path>
+</svg>
+<div class="facets-modal__heading body-large">
+                              Trier par:
+                            </div>
+                          </div>
+
+                          <button type="button" class="modal-close-button button button--simple focus-inset facets-modal__close facet-sort-modal__close" aria-label="Fermer">
+  <div class="modal-close-button__inner">
+      <svg class="icon icon-close" width="22" height="22" viewBox="0 0 22 22" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M16.4193 5.58398L5.58594 16.4173M16.4193 16.4173L5.58594 5.58398" stroke="currentColor" stroke-linecap="square"></path>
+</svg>
+
+    
+  </div>
+</button>
+
+                        </div>
+                        <div class="facet-sort-select__options-wrapper">
+                          <div class="facet-sort-select__options"><div class="facet-sort-select__option focus-inset" data-value="manual" tabindex="0">
+                                <span class="circle-check"></span>En vedette
+                              </div><div class="facet-sort-select__option focus-inset" data-value="most-relevant" tabindex="0">
+                                <span class="circle-check"></span>Le plus pertinent
+                              </div><div class="facet-sort-select__option focus-inset facet-sort-select__option--selected" data-value="best-selling" tabindex="0">
+                                <span class="circle-check"></span>Meilleures ventes
+                              </div><div class="facet-sort-select__option focus-inset" data-value="title-ascending" tabindex="0">
+                                <span class="circle-check"></span>Alphabétique, de A à Z
+                              </div><div class="facet-sort-select__option focus-inset" data-value="title-descending" tabindex="0">
+                                <span class="circle-check"></span>Alphabétique, de Z à A
+                              </div><div class="facet-sort-select__option focus-inset" data-value="price-ascending" tabindex="0">
+                                <span class="circle-check"></span>Prix: faible à élevé
+                              </div><div class="facet-sort-select__option focus-inset" data-value="price-descending" tabindex="0">
+                                <span class="circle-check"></span>Prix: élevé à faible
+                              </div><div class="facet-sort-select__option focus-inset" data-value="created-ascending" tabindex="0">
+                                <span class="circle-check"></span>Date, de la plus ancienne à la plus récente
+                              </div><div class="facet-sort-select__option focus-inset" data-value="created-descending" tabindex="0">
+                                <span class="circle-check"></span>Date, de la plus récente à la plus ancienne
+                              </div></div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </form>
+            </facet-filters-form>
+            <noscript>
+              <facet-filters-form>
+                <form id="FacetSortForm" class="facets-sorting">
+                  <label class="facets-sorting__label" for="SortByNoScript">Trier par:</label>
+                  <div class="facet-filters__field facets-sorting__field"><div class="select field">
+                      <select
+                        name="sort_by"
+                        class="select__select focus-inset"
+                        id="SortByNoScript"
+                        aria-describedby="a11y-refresh-page-message"
+                      ><option
+                            value="manual"
+                            
+                          >
+                            En vedette
+                          </option><option
+                            value="most-relevant"
+                            
+                          >
+                            Le plus pertinent
+                          </option><option
+                            value="best-selling"
+                            
+                              selected="selected"
+                            
+                          >
+                            Meilleures ventes
+                          </option><option
+                            value="title-ascending"
+                            
+                          >
+                            Alphabétique, de A à Z
+                          </option><option
+                            value="title-descending"
+                            
+                          >
+                            Alphabétique, de Z à A
+                          </option><option
+                            value="price-ascending"
+                            
+                          >
+                            Prix: faible à élevé
+                          </option><option
+                            value="price-descending"
+                            
+                          >
+                            Prix: élevé à faible
+                          </option><option
+                            value="created-ascending"
+                            
+                          >
+                            Date, de la plus ancienne à la plus récente
+                          </option><option
+                            value="created-descending"
+                            
+                          >
+                            Date, de la plus récente à la plus ancienne
+                          </option></select>
+                      <svg class="icon icon-caret" width="18" height="18" viewBox="0 0 18 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M5.5 7.5L9 11L12.5 7.5" stroke="currentColor" stroke-width="1.5"/>
+</svg>
+                    </div>
+                  </div>
+                  <button type="submit" class="button button--tertiary focus-inset">Trier</button>
+                </form>
+              </facet-filters-form>
+            </noscript></div>
+      </div>
+      
+<div class="facets__top facets small-hide container">
+          <div class="active-facets active-facets-desktop" data-type="filters">
+            
+
+            
+            
+            
+            
+            
+
+            <div class="active-facets__wrapper">
+
+
+
+
+
+
+            </div>
+          </div>
+        </div></div><div class="collection-wrapper container collection-wrapper--4 collection-wrapper--vertical">
+<div class="
+    facets-container
+    
+    facets-container--vertical
+  ">
+  <facet-filters-form class="facets facets--desktop" facets-desktop-type="vertical">
+    <form id="FacetFiltersForm" class="facets__form facets__form--vertical">
+        <div class="facets__container facets__container--vertical" style="visibility: hidden;">
+          <div class="facets__overlay"></div>
+          <div id="FacetsWrapperDesktop" role="dialog" aria-modal="true" tabindex="-1" class="facets__wrapper focus-inset facets__wrapper--vertical">
+            <div class="facets-modal__header">
+              <div class="facets-modal__heading-wrapper"><svg class="icon icon-filter" width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M13.5586 4.85352V12.9316M13.5586 12.9316C12.815 12.9316 12.2122 13.5344 12.2122 14.278C12.2122 15.0216 12.815 15.6243 13.5586 15.6243C14.3022 15.6243 14.9049 15.0216 14.9049 14.278C14.9049 13.5344 14.3022 12.9316 13.5586 12.9316ZM6.84635 7.54622V15.6243M6.84635 7.54622C7.58993 7.54622 8.19271 6.94344 8.19271 6.19987C8.19271 5.4563 7.58993 4.85352 6.84635 4.85352C6.10278 4.85352 5.5 5.4563 5.5 6.19987C5.5 6.94344 6.10278 7.54622 6.84635 7.54622Z" stroke="currentColor" stroke-width="0.807813" stroke-linecap="square"></path>
+</svg>
+<div class="facets-modal__heading body-large">
+                  Appliquer des filtres
+                </div>
+              </div>
+
+              <button type="button" class="modal-close-button button button--simple focus-inset facets-modal__close" aria-label="Fermer">
+  <div class="modal-close-button__inner">
+      <svg class="icon icon-close" width="22" height="22" viewBox="0 0 22 22" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M16.4193 5.58398L5.58594 16.4173M16.4193 16.4173L5.58594 5.58398" stroke="currentColor" stroke-linecap="square"></path>
+</svg>
+
+    
+  </div>
+</button>
+
+            </div>
+
+            <div class="facets-modal__content-wrapper">
+              <div class="facets-modal__disclosure-wrapper">
+
+                      
+                      <details id="Details-1-template--27266934243703__product-grid" class="disclosure-has-popup facets__disclosure js-filter" data-index="1">
+                        <summary class="facets__summary focus-inset" tabindex="0" role="button" aria-expanded="false" aria-controls="Facet-1-template--27266934243703__product-grid">
+                          <div class="facets__summary-inner">
+                            <div class="facets__summary-inner-left">
+                              <span class="body-normal facets__summary-title">Disponibilité
+                              </span>
+                              
+                            </div>
+                            <div class="facets__summary-inner-right">
+                              
+                                
+
+                                
+
+                              <svg class="icon icon-caret icon-caret-facets" width="10" height="10" viewBox="0 0 10 10" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M1 7L5 3L9 7" stroke="currentColor"></path>
+</svg>
+
+                            </div>
+                          </div>
+                        </summary>
+                        <div id="Facet-1-template--27266934243703__product-grid" class="facets__display">
+                          <ul class="
+                              facets__list list-unstyled
+                              " role="list" style="--image_filter_columns: 3;">
+
+                              <li class="facets__item highlight--border">
+                                <input type="checkbox" class="focus-inset" name="filter.v.availability" value="1" id="Filter-Disponibilité-1" style="">
+                                <label for="Filter-Disponibilité-1" class="facet-checkbox focus-inset" tabindex="0" role="checkbox" aria-checked="false" data-accessible-init="true"><span class="facet-checkbox__checkbox"></span><span class="facet-checkbox__label body-small">
+                                    
+                                      <svg class="icon icon-check" width="18" height="18" viewBox="0 0 18 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M5 9.5L8 12.5L13 6" stroke="currentColor" stroke-width="1.5"></path>
+</svg>
+                                    
+En stock
+                                  </span>
+                                  <span class="facet-checkbox__count body-small">
+                                    
+5
+                                  </span>
+                                </label>
+                              </li>
+
+                              <li class="facets__item highlight--border">
+                                <input type="checkbox" class="focus-inset" name="filter.v.availability" value="0" id="Filter-Disponibilité-2" disabled="" style="">
+                                <label for="Filter-Disponibilité-2" class="facet-checkbox focus-inset facet-checkbox--disabled" tabindex="0" role="checkbox" aria-checked="false" data-accessible-init="true"><span class="facet-checkbox__checkbox"></span><span class="facet-checkbox__label body-small">
+                                    
+                                      <svg class="icon icon-check" width="18" height="18" viewBox="0 0 18 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M5 9.5L8 12.5L13 6" stroke="currentColor" stroke-width="1.5"></path>
+</svg>
+                                    
+En rupture de stock
+                                  </span>
+                                  <span class="facet-checkbox__count body-small">
+                                    
+0
+                                  </span>
+                                </label>
+                              </li></ul>
+                          
+                        </div>
+                      </details>
+                    
+
+
+                      
+                        <details id="Details-2-template--27266934243703__product-grid" class="disclosure-has-popup facets__disclosure facets__disclosure-price js-filter" data-index="2">
+                          <summary class="facets__summary focus-inset" tabindex="0" role="button" aria-expanded="false" aria-controls="Facet-2-template--27266934243703__product-grid">
+                            <div class="facets__summary-inner">
+                              <div class="facets__summary-inner-left">
+                                <span class="body-normal facets__summary-title">
+                                  Prix
+                                </span>
+                                
+                              </div>
+                              <div class="facets__summary-inner-right">
+                                <svg class="icon icon-caret icon-caret-facets" width="10" height="10" viewBox="0 0 10 10" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M1 7L5 3L9 7" stroke="currentColor"></path>
+</svg>
+
+                              </div>
+                            </div>
+                          </summary>
+                          <div id="Facet-2-template--27266934243703__product-grid" class="facets__display">
+                            <price-range class="facets__price">
+                              
+
+                              <div class="facets__price-wrapper">
+                                
+                                <div class="field" data-prefix="Depuis" data-suffix="$">
+                                  
+                                  <label class="field__label body-normal" for="Filter-Prix-GTE">Depuis</label>
+                                  <input dir="ltr" class="field__input" name="filter.v.price.gte" id="Filter-Prix-GTE" value="0" type="number" placeholder="0" min="0" max="22" step="1" autocomplete="off" style="">
+                                </div>
+                                
+                                <div class="field" data-prefix="À" data-suffix="$">
+                                  
+                                  <label class="field__label body-normal" for="Filter-Prix-LTE">À</label>
+                                  <input dir="ltr" class="field__input" name="filter.v.price.lte" id="Filter-Prix-LTE" value="22" type="number" min="0" max="22" step="1" placeholder="22" style="">
+                                </div>
+                              </div>
+                              <div class="facets__range" style="--range-min: 0.0%; --range-max: 100.0%">
+                                <label class="visually-hidden" for="Filter-Prix-Min">Depuis</label>
+                                <input dir="ltr" type="range" value="0" min="0" max="22" step="1" class="field__range" id="Filter-Prix-Min" style="">
+                                <label class="visually-hidden" for="Filter-Prix-Max">À</label>
+                                <input dir="ltr" type="range" value="22" min="0" max="22" step="1" class="field__range" id="Filter-Prix-Max" style="z-index: 0;">
+                              </div>
+                            </price-range>
+                          </div>
+                        </details>
+                      
+                  
+
+
+                      
+                      <details id="Details-3-template--27266934243703__product-grid" class="disclosure-has-popup facets__disclosure js-filter" data-index="3">
+                        <summary class="facets__summary focus-inset" tabindex="0" role="button" aria-expanded="false" aria-controls="Facet-3-template--27266934243703__product-grid">
+                          <div class="facets__summary-inner">
+                            <div class="facets__summary-inner-left">
+                              <span class="body-normal facets__summary-title">Catégorie
+                              </span>
+                              
+                            </div>
+                            <div class="facets__summary-inner-right">
+                              
+                                
+
+                                
+
+                              <svg class="icon icon-caret icon-caret-facets" width="10" height="10" viewBox="0 0 10 10" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M1 7L5 3L9 7" stroke="currentColor"></path>
+</svg>
+
+                            </div>
+                          </div>
+                        </summary>
+                        <div id="Facet-3-template--27266934243703__product-grid" class="facets__display">
+                          <ul class="
+                              facets__list list-unstyled
+                              " role="list" style="--image_filter_columns: 3;">
+
+                              <li class="facets__item highlight--border">
+                                <input type="checkbox" class="focus-inset" name="filter.p.t.category" value="os-4-4" id="Filter-Catégorie-1" style="">
+                                <label for="Filter-Catégorie-1" class="facet-checkbox focus-inset" tabindex="0" role="checkbox" aria-checked="false" data-accessible-init="true"><span class="facet-checkbox__checkbox"></span><span class="facet-checkbox__label body-small">
+                                    
+                                      <svg class="icon icon-check" width="18" height="18" viewBox="0 0 18 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M5 9.5L8 12.5L13 6" stroke="currentColor" stroke-width="1.5"></path>
+</svg>
+                                    
+Étiquettes et vignettes
+                                  </span>
+                                  <span class="facet-checkbox__count body-small">
+                                    
+1
+                                  </span>
+                                </label>
+                              </li>
+
+                              <li class="facets__item highlight--border">
+                                <input type="checkbox" class="focus-inset" name="filter.p.t.category" value="os-4-9-14" id="Filter-Catégorie-2" style="">
+                                <label for="Filter-Catégorie-2" class="facet-checkbox focus-inset" tabindex="0" role="checkbox" aria-checked="false" data-accessible-init="true"><span class="facet-checkbox__checkbox"></span><span class="facet-checkbox__label body-small">
+                                    
+                                      <svg class="icon icon-check" width="18" height="18" viewBox="0 0 18 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M5 9.5L8 12.5L13 6" stroke="currentColor" stroke-width="1.5"></path>
+</svg>
+                                    
+Notes autocollantes
+                                  </span>
+                                  <span class="facet-checkbox__count body-small">
+                                    
+1
+                                  </span>
+                                </label>
+                              </li>
+
+                              <li class="facets__item highlight--border">
+                                <input type="checkbox" class="focus-inset" name="filter.p.t.category" value="os-4-8-1" id="Filter-Catégorie-3" style="">
+                                <label for="Filter-Catégorie-3" class="facet-checkbox focus-inset" tabindex="0" role="checkbox" aria-checked="false" data-accessible-init="true"><span class="facet-checkbox__checkbox"></span><span class="facet-checkbox__label body-small">
+                                    
+                                      <svg class="icon icon-check" width="18" height="18" viewBox="0 0 18 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M5 9.5L8 12.5L13 6" stroke="currentColor" stroke-width="1.5"></path>
+</svg>
+                                    
+Pinces à dossier
+                                  </span>
+                                  <span class="facet-checkbox__count body-small">
+                                    
+1
+                                  </span>
+                                </label>
+                              </li>
+
+                              <li class="facets__item highlight--border">
+                                <input type="checkbox" class="focus-inset" name="filter.p.t.category" value="lb-13" id="Filter-Catégorie-4" style="">
+                                <label for="Filter-Catégorie-4" class="facet-checkbox focus-inset" tabindex="0" role="checkbox" aria-checked="false" data-accessible-init="true"><span class="facet-checkbox__checkbox"></span><span class="facet-checkbox__label body-small">
+                                    
+                                      <svg class="icon icon-check" width="18" height="18" viewBox="0 0 18 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M5 9.5L8 12.5L13 6" stroke="currentColor" stroke-width="1.5"></path>
+</svg>
+                                    
+Sacs fourre-tout
+                                  </span>
+                                  <span class="facet-checkbox__count body-small">
+                                    
+1
+                                  </span>
+                                </label>
+                              </li>
+
+                              <li class="facets__item highlight--border">
+                                <input type="checkbox" class="focus-inset" name="filter.p.t.category" value="os-4-8-2" id="Filter-Catégorie-5" style="">
+                                <label for="Filter-Catégorie-5" class="facet-checkbox focus-inset" tabindex="0" role="checkbox" aria-checked="false" data-accessible-init="true"><span class="facet-checkbox__checkbox"></span><span class="facet-checkbox__label body-small">
+                                    
+                                      <svg class="icon icon-check" width="18" height="18" viewBox="0 0 18 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M5 9.5L8 12.5L13 6" stroke="currentColor" stroke-width="1.5"></path>
+</svg>
+                                    
+Trombones
+                                  </span>
+                                  <span class="facet-checkbox__count body-small">
+                                    
+1
+                                  </span>
+                                </label>
+                              </li></ul>
+                          
+                        </div>
+                      </details>
+                    
+
+
+                      
+                      <details id="Details-4-template--27266934243703__product-grid" class="disclosure-has-popup facets__disclosure js-filter" data-index="4">
+                        <summary class="facets__summary focus-inset" tabindex="0" role="button" aria-expanded="false" aria-controls="Facet-4-template--27266934243703__product-grid">
+                          <div class="facets__summary-inner">
+                            <div class="facets__summary-inner-left">
+                              <span class="body-normal facets__summary-title">Color
+                              </span>
+                              
+                            </div>
+                            <div class="facets__summary-inner-right">
+                              
+                                
+
+                                
+
+                              <svg class="icon icon-caret icon-caret-facets" width="10" height="10" viewBox="0 0 10 10" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M1 7L5 3L9 7" stroke="currentColor"></path>
+</svg>
+
+                            </div>
+                          </div>
+                        </summary>
+                        <div id="Facet-4-template--27266934243703__product-grid" class="facets__display">
+                          <ul class="
+                              facets__list list-unstyled
+                               facets__list--color
+                              " role="list" style="--image_filter_columns: 3;">
+
+                              <li class="facets__item facets__item--color highlight--border" style="--border-radius: px; --swatch-color: rgb(234 216 171);">
+                                <input type="checkbox" class="focus-inset" name="filter.v.t.shopify.color-pattern" value="gid://shopify/TaxonomyValue/6" id="Filter-Color-1" style="">
+                                <label for="Filter-Color-1" class="facet-checkbox focus-inset facet-checkbox--color" title="Beige" tabindex="0" role="checkbox" aria-checked="false" data-accessible-init="true"><span class="facet-checkbox__checkbox"></span><span class="facet-checkbox__label body-small">
+                                    
+Beige
+                                  </span>
+                                  <span class="facet-checkbox__count body-small">
+                                    
+                                  </span>
+                                </label>
+                              </li>
+
+                              <li class="facets__item facets__item--color highlight--border" style="--border-radius: px; --swatch-color: rgb(0 91 211);">
+                                <input type="checkbox" class="focus-inset" name="filter.v.t.shopify.color-pattern" value="gid://shopify/TaxonomyValue/2" id="Filter-Color-2" style="">
+                                <label for="Filter-Color-2" class="facet-checkbox focus-inset facet-checkbox--color" title="Bleu" tabindex="0" role="checkbox" aria-checked="false" data-accessible-init="true"><span class="facet-checkbox__checkbox"></span><span class="facet-checkbox__label body-small">
+                                    
+Bleu
+                                  </span>
+                                  <span class="facet-checkbox__count body-small">
+                                    
+                                  </span>
+                                </label>
+                              </li>
+
+                              <li class="facets__item facets__item--color highlight--border" style="--border-radius: px; --swatch-color: rgb(0 91 211);">
+                                <input type="checkbox" class="focus-inset" name="filter.v.t.shopify.color-pattern" value="gid://shopify/TaxonomyValue/2865" id="Filter-Color-3" style="">
+                                <label for="Filter-Color-3" class="facet-checkbox focus-inset facet-checkbox--color" title="Multicolore" tabindex="0" role="checkbox" aria-checked="false" data-accessible-init="true"><span class="facet-checkbox__checkbox"></span><span class="facet-checkbox__label body-small">
+                                    
+Multicolore
+                                  </span>
+                                  <span class="facet-checkbox__count body-small">
+                                    
+                                  </span>
+                                </label>
+                              </li>
+
+                              <li class="facets__item facets__item--color highlight--border" style="--border-radius: px; --swatch-color: rgb(212 154 6);">
+                                <input type="checkbox" class="focus-inset" name="filter.v.t.shopify.color-pattern" value="gid://shopify/TaxonomyValue/4" id="Filter-Color-4" style="">
+                                <label for="Filter-Color-4" class="facet-checkbox focus-inset facet-checkbox--color" title="Or" tabindex="0" role="checkbox" aria-checked="false" data-accessible-init="true"><span class="facet-checkbox__checkbox"></span><span class="facet-checkbox__label body-small">
+                                    
+Or
+                                  </span>
+                                  <span class="facet-checkbox__count body-small">
+                                    
+                                  </span>
+                                </label>
+                              </li>
+
+                              <li class="facets__item facets__item--color highlight--border" style="--border-radius: px; --swatch-color: rgb(246 31 31);">
+                                <input type="checkbox" class="focus-inset" name="filter.v.t.shopify.color-pattern" value="gid://shopify/TaxonomyValue/13" id="Filter-Color-5" style="">
+                                <label for="Filter-Color-5" class="facet-checkbox focus-inset facet-checkbox--color" title="Rouge" tabindex="0" role="checkbox" aria-checked="false" data-accessible-init="true"><span class="facet-checkbox__checkbox"></span><span class="facet-checkbox__label body-small">
+                                    
+Rouge
+                                  </span>
+                                  <span class="facet-checkbox__count body-small">
+                                    
+                                  </span>
+                                </label>
+                              </li>
+
+                              <li class="facets__item facets__item--color highlight--border" style="--border-radius: px; --swatch-color: rgb(5 170 61);">
+                                <input type="checkbox" class="focus-inset" name="filter.v.t.shopify.color-pattern" value="gid://shopify/TaxonomyValue/9" id="Filter-Color-6" style="">
+                                <label for="Filter-Color-6" class="facet-checkbox focus-inset facet-checkbox--color" title="Vert" tabindex="0" role="checkbox" aria-checked="false" data-accessible-init="true"><span class="facet-checkbox__checkbox"></span><span class="facet-checkbox__label body-small">
+                                    
+Vert
+                                  </span>
+                                  <span class="facet-checkbox__count body-small">
+                                    
+                                  </span>
+                                </label>
+                              </li></ul>
+                          
+                        </div>
+                      </details>
+                    
+
+
+                      
+                      <details id="Details-5-template--27266934243703__product-grid" class="disclosure-has-popup facets__disclosure js-filter" data-index="5">
+                        <summary class="facets__summary focus-inset" tabindex="0" role="button" aria-expanded="false" aria-controls="Facet-5-template--27266934243703__product-grid">
+                          <div class="facets__summary-inner">
+                            <div class="facets__summary-inner-left">
+                              <span class="body-normal facets__summary-title">Design
+                              </span>
+                              
+                            </div>
+                            <div class="facets__summary-inner-right">
+                              
+                                
+
+                                
+
+                              <svg class="icon icon-caret icon-caret-facets" width="10" height="10" viewBox="0 0 10 10" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M1 7L5 3L9 7" stroke="currentColor"></path>
+</svg>
+
+                            </div>
+                          </div>
+                        </summary>
+                        <div id="Facet-5-template--27266934243703__product-grid" class="facets__display">
+                          <ul class="
+                              facets__list list-unstyled
+                              " role="list" style="--image_filter_columns: 3;">
+
+                              <li class="facets__item highlight--border">
+                                <input type="checkbox" class="focus-inset" name="filter.v.option.design" value="contouré" id="Filter-Design-1" style="">
+                                <label for="Filter-Design-1" class="facet-checkbox focus-inset" tabindex="0" role="checkbox" aria-checked="false" data-accessible-init="true"><span class="facet-checkbox__checkbox"></span><span class="facet-checkbox__label body-small">
+                                    
+                                      <svg class="icon icon-check" width="18" height="18" viewBox="0 0 18 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M5 9.5L8 12.5L13 6" stroke="currentColor" stroke-width="1.5"></path>
+</svg>
+                                    
+contouré
+                                  </span>
+                                  <span class="facet-checkbox__count body-small">
+                                    
+1
+                                  </span>
+                                </label>
+                              </li>
+
+                              <li class="facets__item highlight--border">
+                                <input type="checkbox" class="focus-inset" name="filter.v.option.design" value="Métal" id="Filter-Design-2" style="">
+                                <label for="Filter-Design-2" class="facet-checkbox focus-inset" tabindex="0" role="checkbox" aria-checked="false" data-accessible-init="true"><span class="facet-checkbox__checkbox"></span><span class="facet-checkbox__label body-small">
+                                    
+                                      <svg class="icon icon-check" width="18" height="18" viewBox="0 0 18 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M5 9.5L8 12.5L13 6" stroke="currentColor" stroke-width="1.5"></path>
+</svg>
+                                    
+Métal
+                                  </span>
+                                  <span class="facet-checkbox__count body-small">
+                                    
+1
+                                  </span>
+                                </label>
+                              </li>
+
+                              <li class="facets__item highlight--border">
+                                <input type="checkbox" class="focus-inset" name="filter.v.option.design" value="Standard" id="Filter-Design-3" style="">
+                                <label for="Filter-Design-3" class="facet-checkbox focus-inset" tabindex="0" role="checkbox" aria-checked="false" data-accessible-init="true"><span class="facet-checkbox__checkbox"></span><span class="facet-checkbox__label body-small">
+                                    
+                                      <svg class="icon icon-check" width="18" height="18" viewBox="0 0 18 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M5 9.5L8 12.5L13 6" stroke="currentColor" stroke-width="1.5"></path>
+</svg>
+                                    
+Standard
+                                  </span>
+                                  <span class="facet-checkbox__count body-small">
+                                    
+1
+                                  </span>
+                                </label>
+                              </li></ul>
+                          
+                        </div>
+                      </details>
+                    
+</div>
+            </div>
+
+            <div class="facets-remove__all active-facets-desktop" data-type="show-items">
+              
+
+              
+              
+              
+              
+              
+              
+              
+
+              <button class="button button--primary facets-modal__close fascets__show-items  focus-inset " aria-label="Show items" type="button">
+                <div class="button__content">
+                  <span class="button__label" data-label="Show items">
+                    Show items
+                  </span>
+                </div>
+              </button>
+              <div class="facet-remove facet-remove--disabled">
+                <facet-remove>
+                  
+                  
+
+
+
+  <a href="/fr/collections/accessories" aria-label="Tout effacer" class="button button--custom active-facets__button-remove focus-inset " role="button">
+    <span class="button__content">
+      
+      <span class="button__label">Tout effacer</span>
+    </span>
+  </a>
+                </facet-remove>
+              </div>
+            </div>
+          </div>
+        </div>
+      
+
+      
+    </form>
+  </facet-filters-form>
+</div>
+
+<div id="ProductGridContainer" data-products-in-row="large" class="products-grid full-width "><div class="collection collection-product">
+            <div class="loading-overlay no-js-hidden">
+              <div class="loading-overlay__spinner">
+                <svg aria-hidden="true" focusable="false" role="presentation" class="spinner" viewBox="0 0 66 66" xmlns="http://www.w3.org/2000/svg">
+  <circle class="path" fill="none" stroke-width="5" cx="33" cy="33" r="30"></circle>
+</svg>
+
+              </div>
+            </div>
+
+            <div id="product-grid" data-id="template--27266934243703__product-grid" class="collection-product-list load-more-grid"><div class="collection-product-card">
+                  
+
+
+<product-card class="product-card product-card--mobile-1 product-card_image-linked" data-product="craft-desk-clip" data-product-id="15256451055991" data-image-linked="true" tabindex="0" style="--card-padding-bottom: 131.7%; --slide-count: 6">
+  <div class="product-card__inner">
+    <div class="product-card__media">
+
+          <div class="swiper-container product-card-js global-variant-js-media-list slider_started swiper-initialized swiper-horizontal swiper-backface-hidden" data-loop="false">
+            <div class="swiper-wrapper" id="swiper-wrapper-cb5e27cf88d98644" aria-live="polite" style="transform: translate3d(0px, 0px, 0px);">
+              
+                
+
+                
+                  
+                    
+                    
+
+                
+
+                <div class="swiper-slide swiper-slide-active" data-media-id="67657668657527" data-variant-id="56233978986871" role="group" aria-label="1 / 6" style="width: 326px; margin-right: 2px;">
+                  <img src="//shift-sketch.myshopify.com/cdn/shop/files/05-accessories-color-01.jpg?v=1763982259&amp;width=2603" alt="Pince de bureau pour loisirs créatifs" srcset="//shift-sketch.myshopify.com/cdn/shop/files/05-accessories-color-01.jpg?v=1763982259&amp;width=360 360w, //shift-sketch.myshopify.com/cdn/shop/files/05-accessories-color-01.jpg?v=1763982259&amp;width=535 535w, //shift-sketch.myshopify.com/cdn/shop/files/05-accessories-color-01.jpg?v=1763982259&amp;width=720 720w, //shift-sketch.myshopify.com/cdn/shop/files/05-accessories-color-01.jpg?v=1763982259&amp;width=940 940w, //shift-sketch.myshopify.com/cdn/shop/files/05-accessories-color-01.jpg?v=1763982259&amp;width=1066 1066w, //shift-sketch.myshopify.com/cdn/shop/files/05-accessories-color-01.jpg?v=1763982259&amp;width=1200 1200w, //shift-sketch.myshopify.com/cdn/shop/files/05-accessories-color-01.jpg?v=1763982259&amp;width=1400 1400w, //shift-sketch.myshopify.com/cdn/shop/files/05-accessories-color-01.jpg?v=1763982259&amp;width=1600 1600w, //shift-sketch.myshopify.com/cdn/shop/files/05-accessories-color-01.jpg?v=1763982259&amp;width=1800 1800w, //shift-sketch.myshopify.com/cdn/shop/files/05-accessories-color-01.jpg?v=1763982259&amp;width=2000 2000w, //shift-sketch.myshopify.com/cdn/shop/files/05-accessories-color-01.jpg?v=1763982259&amp;width=2200 2200w, //shift-sketch.myshopify.com/cdn/shop/files/05-accessories-color-01.jpg?v=1763982259&amp;width=2400 2400w, //shift-sketch.myshopify.com/cdn/shop/files/05-accessories-color-01.jpg?v=1763982259&amp;width=2600 2600w" width="2603" height="3470" loading="eager" class="motion-reduce media" sizes="(min-width: 1200px) calc(1.03 * (100vw / 4)),(min-width: 990px) calc(1.03 * (100vw / 3)),(min-width: 576px) calc(1.03 * (100vw / 2)),calc(1.03 * 100vw)" style="object-fit: cover;">
+                </div>
+              
+                
+
+                
+                  
+                
+                  
+                    
+                    
+
+                
+
+                <div class="swiper-slide swiper-slide-next" data-media-id="67657668690295" data-variant-id="56233979019639" role="group" aria-label="2 / 6" style="width: 326px; margin-right: 2px;">
+                  <img src="//shift-sketch.myshopify.com/cdn/shop/files/05-accessories-color-02.jpg?v=1763982260&amp;width=2603" alt="Pince de bureau pour loisirs créatifs" srcset="//shift-sketch.myshopify.com/cdn/shop/files/05-accessories-color-02.jpg?v=1763982260&amp;width=360 360w, //shift-sketch.myshopify.com/cdn/shop/files/05-accessories-color-02.jpg?v=1763982260&amp;width=535 535w, //shift-sketch.myshopify.com/cdn/shop/files/05-accessories-color-02.jpg?v=1763982260&amp;width=720 720w, //shift-sketch.myshopify.com/cdn/shop/files/05-accessories-color-02.jpg?v=1763982260&amp;width=940 940w, //shift-sketch.myshopify.com/cdn/shop/files/05-accessories-color-02.jpg?v=1763982260&amp;width=1066 1066w, //shift-sketch.myshopify.com/cdn/shop/files/05-accessories-color-02.jpg?v=1763982260&amp;width=1200 1200w, //shift-sketch.myshopify.com/cdn/shop/files/05-accessories-color-02.jpg?v=1763982260&amp;width=1400 1400w, //shift-sketch.myshopify.com/cdn/shop/files/05-accessories-color-02.jpg?v=1763982260&amp;width=1600 1600w, //shift-sketch.myshopify.com/cdn/shop/files/05-accessories-color-02.jpg?v=1763982260&amp;width=1800 1800w, //shift-sketch.myshopify.com/cdn/shop/files/05-accessories-color-02.jpg?v=1763982260&amp;width=2000 2000w, //shift-sketch.myshopify.com/cdn/shop/files/05-accessories-color-02.jpg?v=1763982260&amp;width=2200 2200w, //shift-sketch.myshopify.com/cdn/shop/files/05-accessories-color-02.jpg?v=1763982260&amp;width=2400 2400w, //shift-sketch.myshopify.com/cdn/shop/files/05-accessories-color-02.jpg?v=1763982260&amp;width=2600 2600w" width="2603" height="3470" loading="eager" class="motion-reduce media" sizes="(min-width: 1200px) calc(1.03 * (100vw / 4)),(min-width: 990px) calc(1.03 * (100vw / 3)),(min-width: 576px) calc(1.03 * (100vw / 2)),calc(1.03 * 100vw)" style="object-fit: cover;">
+                </div>
+              
+                
+
+                
+                  
+                
+                  
+                
+                  
+                    
+                    
+
+                
+
+                <div class="swiper-slide" data-media-id="67657668723063" data-variant-id="56233979052407" role="group" aria-label="3 / 6" style="width: 326px; margin-right: 2px;">
+                  <img src="//shift-sketch.myshopify.com/cdn/shop/files/05-accessories-color-03.jpg?v=1763982259&amp;width=2603" alt="Pince de bureau pour loisirs créatifs" srcset="//shift-sketch.myshopify.com/cdn/shop/files/05-accessories-color-03.jpg?v=1763982259&amp;width=360 360w, //shift-sketch.myshopify.com/cdn/shop/files/05-accessories-color-03.jpg?v=1763982259&amp;width=535 535w, //shift-sketch.myshopify.com/cdn/shop/files/05-accessories-color-03.jpg?v=1763982259&amp;width=720 720w, //shift-sketch.myshopify.com/cdn/shop/files/05-accessories-color-03.jpg?v=1763982259&amp;width=940 940w, //shift-sketch.myshopify.com/cdn/shop/files/05-accessories-color-03.jpg?v=1763982259&amp;width=1066 1066w, //shift-sketch.myshopify.com/cdn/shop/files/05-accessories-color-03.jpg?v=1763982259&amp;width=1200 1200w, //shift-sketch.myshopify.com/cdn/shop/files/05-accessories-color-03.jpg?v=1763982259&amp;width=1400 1400w, //shift-sketch.myshopify.com/cdn/shop/files/05-accessories-color-03.jpg?v=1763982259&amp;width=1600 1600w, //shift-sketch.myshopify.com/cdn/shop/files/05-accessories-color-03.jpg?v=1763982259&amp;width=1800 1800w, //shift-sketch.myshopify.com/cdn/shop/files/05-accessories-color-03.jpg?v=1763982259&amp;width=2000 2000w, //shift-sketch.myshopify.com/cdn/shop/files/05-accessories-color-03.jpg?v=1763982259&amp;width=2200 2200w, //shift-sketch.myshopify.com/cdn/shop/files/05-accessories-color-03.jpg?v=1763982259&amp;width=2400 2400w, //shift-sketch.myshopify.com/cdn/shop/files/05-accessories-color-03.jpg?v=1763982259&amp;width=2600 2600w" width="2603" height="3470" loading="eager" class="motion-reduce media" sizes="(min-width: 1200px) calc(1.03 * (100vw / 4)),(min-width: 990px) calc(1.03 * (100vw / 3)),(min-width: 576px) calc(1.03 * (100vw / 2)),calc(1.03 * 100vw)" style="object-fit: cover;">
+                </div>
+              
+                
+
+                
+                  
+                
+                  
+                
+                  
+                
+
+                
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                
+
+                <div class="swiper-slide" data-media-id="67657668755831" role="group" aria-label="4 / 6" style="width: 326px; margin-right: 2px;">
+                  <img src="//shift-sketch.myshopify.com/cdn/shop/files/05-accessories-hover-01.jpg?v=1763982258&amp;width=880" alt="Pince de bureau pour loisirs créatifs" srcset="//shift-sketch.myshopify.com/cdn/shop/files/05-accessories-hover-01.jpg?v=1763982258&amp;width=360 360w, //shift-sketch.myshopify.com/cdn/shop/files/05-accessories-hover-01.jpg?v=1763982258&amp;width=535 535w, //shift-sketch.myshopify.com/cdn/shop/files/05-accessories-hover-01.jpg?v=1763982258&amp;width=720 720w" width="880" height="1168" loading="eager" class="motion-reduce media" sizes="(min-width: 1200px) calc(1.03 * (100vw / 4)),(min-width: 990px) calc(1.03 * (100vw / 3)),(min-width: 576px) calc(1.03 * (100vw / 2)),calc(1.03 * 100vw)" style="object-fit: cover;">
+                </div>
+              
+                
+
+                
+                  
+                
+                  
+                
+                  
+                
+
+                
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                
+
+                <div class="swiper-slide" data-media-id="67657668788599" role="group" aria-label="5 / 6" style="width: 326px; margin-right: 2px;">
+                  <img src="//shift-sketch.myshopify.com/cdn/shop/files/05-accessories-hover-02.jpg?v=1763982260&amp;width=1536" alt="Pince de bureau pour loisirs créatifs" srcset="//shift-sketch.myshopify.com/cdn/shop/files/05-accessories-hover-02.jpg?v=1763982260&amp;width=360 360w, //shift-sketch.myshopify.com/cdn/shop/files/05-accessories-hover-02.jpg?v=1763982260&amp;width=535 535w, //shift-sketch.myshopify.com/cdn/shop/files/05-accessories-hover-02.jpg?v=1763982260&amp;width=720 720w, //shift-sketch.myshopify.com/cdn/shop/files/05-accessories-hover-02.jpg?v=1763982260&amp;width=940 940w, //shift-sketch.myshopify.com/cdn/shop/files/05-accessories-hover-02.jpg?v=1763982260&amp;width=1066 1066w, //shift-sketch.myshopify.com/cdn/shop/files/05-accessories-hover-02.jpg?v=1763982260&amp;width=1200 1200w, //shift-sketch.myshopify.com/cdn/shop/files/05-accessories-hover-02.jpg?v=1763982260&amp;width=1400 1400w" width="1536" height="2048" loading="eager" class="motion-reduce media" sizes="(min-width: 1200px) calc(1.03 * (100vw / 4)),(min-width: 990px) calc(1.03 * (100vw / 3)),(min-width: 576px) calc(1.03 * (100vw / 2)),calc(1.03 * 100vw)" style="object-fit: cover;">
+                </div>
+              
+                
+
+                
+                  
+                
+                  
+                
+                  
+                
+
+                
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                
+
+                <div class="swiper-slide" data-media-id="67657668821367" role="group" aria-label="6 / 6" style="width: 326px; margin-right: 2px;">
+                  <img src="//shift-sketch.myshopify.com/cdn/shop/files/05-accessories-hover-03.jpg?v=1763982259&amp;width=1536" alt="Pince de bureau pour loisirs créatifs" srcset="//shift-sketch.myshopify.com/cdn/shop/files/05-accessories-hover-03.jpg?v=1763982259&amp;width=360 360w, //shift-sketch.myshopify.com/cdn/shop/files/05-accessories-hover-03.jpg?v=1763982259&amp;width=535 535w, //shift-sketch.myshopify.com/cdn/shop/files/05-accessories-hover-03.jpg?v=1763982259&amp;width=720 720w, //shift-sketch.myshopify.com/cdn/shop/files/05-accessories-hover-03.jpg?v=1763982259&amp;width=940 940w, //shift-sketch.myshopify.com/cdn/shop/files/05-accessories-hover-03.jpg?v=1763982259&amp;width=1066 1066w, //shift-sketch.myshopify.com/cdn/shop/files/05-accessories-hover-03.jpg?v=1763982259&amp;width=1200 1200w, //shift-sketch.myshopify.com/cdn/shop/files/05-accessories-hover-03.jpg?v=1763982259&amp;width=1400 1400w" width="1536" height="2048" loading="eager" class="motion-reduce media" sizes="(min-width: 1200px) calc(1.03 * (100vw / 4)),(min-width: 990px) calc(1.03 * (100vw / 3)),(min-width: 576px) calc(1.03 * (100vw / 2)),calc(1.03 * 100vw)" style="object-fit: cover;">
+                </div>
+              
+            </div>
+            <div class="product-button-group">
+              <div class="product-slider-button-prev">
+                <div class="swiper-button-prev swiper-button-disabled" tabindex="-1" role="button" aria-label="Previous slide" aria-controls="swiper-wrapper-cb5e27cf88d98644" aria-disabled="true"><svg class="icon icon-arrow-slider-left" width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M14 2L6 10L14 18" stroke="currentColor"></path>
+</svg>
+</div>
+              </div>
+
+              <div class="product-slider-button-next">
+                <div class="swiper-button-next" tabindex="0" role="button" aria-label="Next slide" aria-controls="swiper-wrapper-cb5e27cf88d98644" aria-disabled="false"><svg class="icon icon-arrow-slider-right" width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M6 2L14 10L6 18" stroke="currentColor"></path>
+</svg>
+</div>
+              </div>
+            </div>
+            <div class="swiper-pagination product-card-pagination swiper-pagination-default swiper-pagination-clickable swiper-pagination-bullets swiper-pagination-horizontal"><span class="swiper-pagination-bullet swiper-pagination-bullet-active" tabindex="0" role="button" aria-label="Go to slide 1" aria-current="true"></span><span class="swiper-pagination-bullet" tabindex="0" role="button" aria-label="Go to slide 2"></span><span class="swiper-pagination-bullet" tabindex="0" role="button" aria-label="Go to slide 3"></span><span class="swiper-pagination-bullet" tabindex="0" role="button" aria-label="Go to slide 4"></span><span class="swiper-pagination-bullet" tabindex="0" role="button" aria-label="Go to slide 5"></span><span class="swiper-pagination-bullet" tabindex="0" role="button" aria-label="Go to slide 6"></span></div>
+          <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
+        
+</div><div class="product-card__top">
+        
+<div class="product-card__badges body-normal"></div>
+      </div><div class="product-card__quickview product-card__quickview--mobile-true no-js-hidden">
+        <modal-opener data-modal="#QuickView-15256451055991">
+          <button class="product-card__button button button--primary focus-inset" aria-haspopup="dialog" data-product-url="/fr/products/craft-desk-clip" aria-label="Quick view">
+            <div class="button__content">
+              <span class="product-card__quickview-text button__label" data-label="Quick view">Quick view</span>
+              <span class="product-card__mobile-icon button__icon">
+                <svg width="22" height="22" viewBox="0 0 22 22" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M2.66745 12.0748C2.35434 11.3936 2.35434 10.6077 2.66745 9.92654C4.11679 6.77337 7.30311 4.58398 11.0008 4.58398C14.6985 4.58398 17.8848 6.77338 19.3341 9.92654C19.6472 10.6077 19.6472 11.3936 19.3341 12.0748C17.8848 15.2279 14.6985 17.4173 11.0008 17.4173C7.30311 17.4173 4.11679 15.2279 2.66745 12.0748Z" stroke="currentColor" stroke-width="1.5"></path>
+  <path d="M13.7508 11.0007C13.7508 12.5194 12.5196 13.7507 11.0008 13.7507C9.48201 13.7507 8.25079 12.5194 8.25079 11.0007C8.25079 9.48187 9.48201 8.25065 11.0008 8.25065C12.5196 8.25065 13.7508 9.48187 13.7508 11.0007Z" stroke="currentColor" stroke-width="1.5"></path>
+</svg>
+
+              </span>
+            </div>
+            <div class="loading-overlay__spinner hidden">
+              <svg aria-hidden="true" focusable="false" role="presentation" class="spinner" viewBox="0 0 66 66" xmlns="http://www.w3.org/2000/svg">
+  <circle class="path" fill="none" stroke-width="5" cx="33" cy="33" r="30"></circle>
+</svg>
+
+            </div>
+          </button>
+        </modal-opener>
+
+        
+
+
+      </div></div>
+
+  
+  <div class="product-card__information">
+    <div class="product-card__information-top"><h2 class="product-card__title">
+        <a class="focus-inset" href="/fr/products/craft-desk-clip" aria-label="Pince de bureau pour loisirs créatifs">Pince de bureau pour loisirs créatifs</a>
+      </h2>
+
+      <div class="product-card__price-group">
+        
+<div class="price">
+  <dl class="price-text"><div class="price__regular">
+      <dt class="visually-hidden">Prix régulier</dt>
+      <dd>
+        <span class="price-item price-item--regular">$5.50</span>
+      </dd>
+    </div>
+    <div class="price__sale">
+      <dt class="visually-hidden">Prix de vente</dt>
+      <dd>
+        <span class="price-item price-item--sale">$5.50</span>
+      </dd>
+      <dt class="visually-hidden">Prix régulier</dt>
+      <dd class="price__compare">
+        <s class="price-item price-item--regular"></s>
+      </dd>
+    </div>
+  </dl>
+
+  <dl class="unit-price hidden">
+    <dt class="visually-hidden">Prix unitaire</dt>
+    <dd></dd>
+  </dl>
+</div>
+
+      </div>
+      
+
+          <div class="product-card__description body-small">Un outil fiable pour un usage quotidien, conçu pour faciliter la planification, la prise de notes et les travaux créatifs....</div><div class="product-card__error body-xs" role="alert" hidden=""></div>
+    </div>
+
+    
+</div><a href="/fr/products/craft-desk-clip" class="product-card__link-overlay focus-inset" aria-label="Pince de bureau pour loisirs créatifs Lien vers le produit"></a></product-card>
+
+                </div><div class="collection-product-card">
+                  
+
+
+<product-card class="product-card product-card--mobile-1 product-card_image-linked" data-product="craft-pin-badge" data-product-id="15256448172407" data-image-linked="true" tabindex="0" style="--card-padding-bottom: 131.7%; --slide-count: 6">
+  <div class="product-card__inner">
+    <div class="product-card__media">
+
+          <div class="swiper-container product-card-js global-variant-js-media-list slider_started swiper-initialized swiper-horizontal swiper-backface-hidden" data-loop="false">
+            <div class="swiper-wrapper" id="swiper-wrapper-112c142647f1ca7a" aria-live="polite" style="transform: translate3d(0px, 0px, 0px);">
+              
+                
+
+                
+                  
+                    
+                    
+
+                
+
+                <div class="swiper-slide swiper-slide-active" data-media-id="67657596240247" data-variant-id="56233960243575" role="group" aria-label="1 / 6" style="width: 326px; margin-right: 2px;">
+                  <img src="//shift-sketch.myshopify.com/cdn/shop/files/04-accessories-color-01.jpg?v=1763982006&amp;width=1686" alt="Insigne à épingle artisanal" srcset="//shift-sketch.myshopify.com/cdn/shop/files/04-accessories-color-01.jpg?v=1763982006&amp;width=360 360w, //shift-sketch.myshopify.com/cdn/shop/files/04-accessories-color-01.jpg?v=1763982006&amp;width=535 535w, //shift-sketch.myshopify.com/cdn/shop/files/04-accessories-color-01.jpg?v=1763982006&amp;width=720 720w, //shift-sketch.myshopify.com/cdn/shop/files/04-accessories-color-01.jpg?v=1763982006&amp;width=940 940w, //shift-sketch.myshopify.com/cdn/shop/files/04-accessories-color-01.jpg?v=1763982006&amp;width=1066 1066w, //shift-sketch.myshopify.com/cdn/shop/files/04-accessories-color-01.jpg?v=1763982006&amp;width=1200 1200w, //shift-sketch.myshopify.com/cdn/shop/files/04-accessories-color-01.jpg?v=1763982006&amp;width=1400 1400w, //shift-sketch.myshopify.com/cdn/shop/files/04-accessories-color-01.jpg?v=1763982006&amp;width=1600 1600w" width="1686" height="2247" loading="eager" class="motion-reduce media" sizes="(min-width: 1200px) calc(1.03 * (100vw / 4)),(min-width: 990px) calc(1.03 * (100vw / 3)),(min-width: 576px) calc(1.03 * (100vw / 2)),calc(1.03 * 100vw)" style="object-fit: cover;">
+                </div>
+              
+                
+
+                
+                  
+                
+                  
+                    
+                    
+
+                
+
+                <div class="swiper-slide swiper-slide-next" data-media-id="67657596273015" data-variant-id="56233960276343" role="group" aria-label="2 / 6" style="width: 326px; margin-right: 2px;">
+                  <img src="//shift-sketch.myshopify.com/cdn/shop/files/04-accessories-color-02.jpg?v=1763982007&amp;width=1685" alt="Insigne à épingle artisanal" srcset="//shift-sketch.myshopify.com/cdn/shop/files/04-accessories-color-02.jpg?v=1763982007&amp;width=360 360w, //shift-sketch.myshopify.com/cdn/shop/files/04-accessories-color-02.jpg?v=1763982007&amp;width=535 535w, //shift-sketch.myshopify.com/cdn/shop/files/04-accessories-color-02.jpg?v=1763982007&amp;width=720 720w, //shift-sketch.myshopify.com/cdn/shop/files/04-accessories-color-02.jpg?v=1763982007&amp;width=940 940w, //shift-sketch.myshopify.com/cdn/shop/files/04-accessories-color-02.jpg?v=1763982007&amp;width=1066 1066w, //shift-sketch.myshopify.com/cdn/shop/files/04-accessories-color-02.jpg?v=1763982007&amp;width=1200 1200w, //shift-sketch.myshopify.com/cdn/shop/files/04-accessories-color-02.jpg?v=1763982007&amp;width=1400 1400w, //shift-sketch.myshopify.com/cdn/shop/files/04-accessories-color-02.jpg?v=1763982007&amp;width=1600 1600w" width="1685" height="2246" loading="eager" class="motion-reduce media" sizes="(min-width: 1200px) calc(1.03 * (100vw / 4)),(min-width: 990px) calc(1.03 * (100vw / 3)),(min-width: 576px) calc(1.03 * (100vw / 2)),calc(1.03 * 100vw)" style="object-fit: cover;">
+                </div>
+              
+                
+
+                
+                  
+                
+                  
+                
+                  
+                    
+                    
+
+                
+
+                <div class="swiper-slide" data-media-id="67657596305783" data-variant-id="56233960309111" role="group" aria-label="3 / 6" style="width: 326px; margin-right: 2px;">
+                  <img src="//shift-sketch.myshopify.com/cdn/shop/files/04-accessories-color-03.jpg?v=1763982006&amp;width=2603" alt="Insigne à épingle artisanal" srcset="//shift-sketch.myshopify.com/cdn/shop/files/04-accessories-color-03.jpg?v=1763982006&amp;width=360 360w, //shift-sketch.myshopify.com/cdn/shop/files/04-accessories-color-03.jpg?v=1763982006&amp;width=535 535w, //shift-sketch.myshopify.com/cdn/shop/files/04-accessories-color-03.jpg?v=1763982006&amp;width=720 720w, //shift-sketch.myshopify.com/cdn/shop/files/04-accessories-color-03.jpg?v=1763982006&amp;width=940 940w, //shift-sketch.myshopify.com/cdn/shop/files/04-accessories-color-03.jpg?v=1763982006&amp;width=1066 1066w, //shift-sketch.myshopify.com/cdn/shop/files/04-accessories-color-03.jpg?v=1763982006&amp;width=1200 1200w, //shift-sketch.myshopify.com/cdn/shop/files/04-accessories-color-03.jpg?v=1763982006&amp;width=1400 1400w, //shift-sketch.myshopify.com/cdn/shop/files/04-accessories-color-03.jpg?v=1763982006&amp;width=1600 1600w, //shift-sketch.myshopify.com/cdn/shop/files/04-accessories-color-03.jpg?v=1763982006&amp;width=1800 1800w, //shift-sketch.myshopify.com/cdn/shop/files/04-accessories-color-03.jpg?v=1763982006&amp;width=2000 2000w, //shift-sketch.myshopify.com/cdn/shop/files/04-accessories-color-03.jpg?v=1763982006&amp;width=2200 2200w, //shift-sketch.myshopify.com/cdn/shop/files/04-accessories-color-03.jpg?v=1763982006&amp;width=2400 2400w, //shift-sketch.myshopify.com/cdn/shop/files/04-accessories-color-03.jpg?v=1763982006&amp;width=2600 2600w" width="2603" height="3470" loading="eager" class="motion-reduce media" sizes="(min-width: 1200px) calc(1.03 * (100vw / 4)),(min-width: 990px) calc(1.03 * (100vw / 3)),(min-width: 576px) calc(1.03 * (100vw / 2)),calc(1.03 * 100vw)" style="object-fit: cover;">
+                </div>
+              
+                
+
+                
+                  
+                
+                  
+                
+                  
+                
+
+                
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                
+
+                <div class="swiper-slide" data-media-id="67657596338551" role="group" aria-label="4 / 6" style="width: 326px; margin-right: 2px;">
+                  <img src="//shift-sketch.myshopify.com/cdn/shop/files/04-accessories-hover-01.jpg?v=1763982007&amp;width=1760" alt="Insigne à épingle artisanal" srcset="//shift-sketch.myshopify.com/cdn/shop/files/04-accessories-hover-01.jpg?v=1763982007&amp;width=360 360w, //shift-sketch.myshopify.com/cdn/shop/files/04-accessories-hover-01.jpg?v=1763982007&amp;width=535 535w, //shift-sketch.myshopify.com/cdn/shop/files/04-accessories-hover-01.jpg?v=1763982007&amp;width=720 720w, //shift-sketch.myshopify.com/cdn/shop/files/04-accessories-hover-01.jpg?v=1763982007&amp;width=940 940w, //shift-sketch.myshopify.com/cdn/shop/files/04-accessories-hover-01.jpg?v=1763982007&amp;width=1066 1066w, //shift-sketch.myshopify.com/cdn/shop/files/04-accessories-hover-01.jpg?v=1763982007&amp;width=1200 1200w, //shift-sketch.myshopify.com/cdn/shop/files/04-accessories-hover-01.jpg?v=1763982007&amp;width=1400 1400w, //shift-sketch.myshopify.com/cdn/shop/files/04-accessories-hover-01.jpg?v=1763982007&amp;width=1600 1600w" width="1760" height="2336" loading="eager" class="motion-reduce media" sizes="(min-width: 1200px) calc(1.03 * (100vw / 4)),(min-width: 990px) calc(1.03 * (100vw / 3)),(min-width: 576px) calc(1.03 * (100vw / 2)),calc(1.03 * 100vw)" style="object-fit: cover;">
+                </div>
+              
+                
+
+                
+                  
+                
+                  
+                
+                  
+                
+
+                
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                
+
+                <div class="swiper-slide" data-media-id="67657596371319" role="group" aria-label="5 / 6" style="width: 326px; margin-right: 2px;">
+                  <img src="//shift-sketch.myshopify.com/cdn/shop/files/04-accessories-hover-02.jpg?v=1763982006&amp;width=1664" alt="Insigne à épingle artisanal" srcset="//shift-sketch.myshopify.com/cdn/shop/files/04-accessories-hover-02.jpg?v=1763982006&amp;width=360 360w, //shift-sketch.myshopify.com/cdn/shop/files/04-accessories-hover-02.jpg?v=1763982006&amp;width=535 535w, //shift-sketch.myshopify.com/cdn/shop/files/04-accessories-hover-02.jpg?v=1763982006&amp;width=720 720w, //shift-sketch.myshopify.com/cdn/shop/files/04-accessories-hover-02.jpg?v=1763982006&amp;width=940 940w, //shift-sketch.myshopify.com/cdn/shop/files/04-accessories-hover-02.jpg?v=1763982006&amp;width=1066 1066w, //shift-sketch.myshopify.com/cdn/shop/files/04-accessories-hover-02.jpg?v=1763982006&amp;width=1200 1200w, //shift-sketch.myshopify.com/cdn/shop/files/04-accessories-hover-02.jpg?v=1763982006&amp;width=1400 1400w, //shift-sketch.myshopify.com/cdn/shop/files/04-accessories-hover-02.jpg?v=1763982006&amp;width=1600 1600w" width="1664" height="2218" loading="eager" class="motion-reduce media" sizes="(min-width: 1200px) calc(1.03 * (100vw / 4)),(min-width: 990px) calc(1.03 * (100vw / 3)),(min-width: 576px) calc(1.03 * (100vw / 2)),calc(1.03 * 100vw)" style="object-fit: cover;">
+                </div>
+              
+                
+
+                
+                  
+                
+                  
+                
+                  
+                
+
+                
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                
+
+                <div class="swiper-slide" data-media-id="67657596404087" role="group" aria-label="6 / 6" style="width: 326px; margin-right: 2px;">
+                  <img src="//shift-sketch.myshopify.com/cdn/shop/files/04-accessories-hover-03.jpg?v=1763982006&amp;width=1458" alt="Insigne à épingle artisanal" srcset="//shift-sketch.myshopify.com/cdn/shop/files/04-accessories-hover-03.jpg?v=1763982006&amp;width=360 360w, //shift-sketch.myshopify.com/cdn/shop/files/04-accessories-hover-03.jpg?v=1763982006&amp;width=535 535w, //shift-sketch.myshopify.com/cdn/shop/files/04-accessories-hover-03.jpg?v=1763982006&amp;width=720 720w, //shift-sketch.myshopify.com/cdn/shop/files/04-accessories-hover-03.jpg?v=1763982006&amp;width=940 940w, //shift-sketch.myshopify.com/cdn/shop/files/04-accessories-hover-03.jpg?v=1763982006&amp;width=1066 1066w, //shift-sketch.myshopify.com/cdn/shop/files/04-accessories-hover-03.jpg?v=1763982006&amp;width=1200 1200w, //shift-sketch.myshopify.com/cdn/shop/files/04-accessories-hover-03.jpg?v=1763982006&amp;width=1400 1400w" width="1458" height="1944" loading="eager" class="motion-reduce media" sizes="(min-width: 1200px) calc(1.03 * (100vw / 4)),(min-width: 990px) calc(1.03 * (100vw / 3)),(min-width: 576px) calc(1.03 * (100vw / 2)),calc(1.03 * 100vw)" style="object-fit: cover;">
+                </div>
+              
+            </div>
+            <div class="product-button-group">
+              <div class="product-slider-button-prev">
+                <div class="swiper-button-prev swiper-button-disabled" tabindex="-1" role="button" aria-label="Previous slide" aria-controls="swiper-wrapper-112c142647f1ca7a" aria-disabled="true"><svg class="icon icon-arrow-slider-left" width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M14 2L6 10L14 18" stroke="currentColor"></path>
+</svg>
+</div>
+              </div>
+
+              <div class="product-slider-button-next">
+                <div class="swiper-button-next" tabindex="0" role="button" aria-label="Next slide" aria-controls="swiper-wrapper-112c142647f1ca7a" aria-disabled="false"><svg class="icon icon-arrow-slider-right" width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M6 2L14 10L6 18" stroke="currentColor"></path>
+</svg>
+</div>
+              </div>
+            </div>
+            <div class="swiper-pagination product-card-pagination swiper-pagination-default swiper-pagination-clickable swiper-pagination-bullets swiper-pagination-horizontal"><span class="swiper-pagination-bullet swiper-pagination-bullet-active" tabindex="0" role="button" aria-label="Go to slide 1" aria-current="true"></span><span class="swiper-pagination-bullet" tabindex="0" role="button" aria-label="Go to slide 2"></span><span class="swiper-pagination-bullet" tabindex="0" role="button" aria-label="Go to slide 3"></span><span class="swiper-pagination-bullet" tabindex="0" role="button" aria-label="Go to slide 4"></span><span class="swiper-pagination-bullet" tabindex="0" role="button" aria-label="Go to slide 5"></span><span class="swiper-pagination-bullet" tabindex="0" role="button" aria-label="Go to slide 6"></span></div>
+          <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
+        
+</div><div class="product-card__top">
+        
+<div class="product-card__badges body-normal"></div>
+      </div><div class="product-card__quickview product-card__quickview--mobile-true no-js-hidden">
+        <modal-opener data-modal="#QuickView-15256448172407">
+          <button class="product-card__button button button--primary focus-inset" aria-haspopup="dialog" data-product-url="/fr/products/craft-pin-badge" aria-label="Quick view">
+            <div class="button__content">
+              <span class="product-card__quickview-text button__label" data-label="Quick view">Quick view</span>
+              <span class="product-card__mobile-icon button__icon">
+                <svg width="22" height="22" viewBox="0 0 22 22" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M2.66745 12.0748C2.35434 11.3936 2.35434 10.6077 2.66745 9.92654C4.11679 6.77337 7.30311 4.58398 11.0008 4.58398C14.6985 4.58398 17.8848 6.77338 19.3341 9.92654C19.6472 10.6077 19.6472 11.3936 19.3341 12.0748C17.8848 15.2279 14.6985 17.4173 11.0008 17.4173C7.30311 17.4173 4.11679 15.2279 2.66745 12.0748Z" stroke="currentColor" stroke-width="1.5"></path>
+  <path d="M13.7508 11.0007C13.7508 12.5194 12.5196 13.7507 11.0008 13.7507C9.48201 13.7507 8.25079 12.5194 8.25079 11.0007C8.25079 9.48187 9.48201 8.25065 11.0008 8.25065C12.5196 8.25065 13.7508 9.48187 13.7508 11.0007Z" stroke="currentColor" stroke-width="1.5"></path>
+</svg>
+
+              </span>
+            </div>
+            <div class="loading-overlay__spinner hidden">
+              <svg aria-hidden="true" focusable="false" role="presentation" class="spinner" viewBox="0 0 66 66" xmlns="http://www.w3.org/2000/svg">
+  <circle class="path" fill="none" stroke-width="5" cx="33" cy="33" r="30"></circle>
+</svg>
+
+            </div>
+          </button>
+        </modal-opener>
+
+        
+
+
+      </div></div>
+
+  
+  <div class="product-card__information">
+    <div class="product-card__information-top"><h2 class="product-card__title">
+        <a class="focus-inset" href="/fr/products/craft-pin-badge" aria-label="Insigne à épingle artisanal">Insigne à épingle artisanal</a>
+      </h2>
+
+      <div class="product-card__price-group">
+        
+<div class="price">
+  <dl class="price-text"><div class="price__regular">
+      <dt class="visually-hidden">Prix régulier</dt>
+      <dd>
+        <span class="price-item price-item--regular">$3.00</span>
+      </dd>
+    </div>
+    <div class="price__sale">
+      <dt class="visually-hidden">Prix de vente</dt>
+      <dd>
+        <span class="price-item price-item--sale">$3.00</span>
+      </dd>
+      <dt class="visually-hidden">Prix régulier</dt>
+      <dd class="price__compare">
+        <s class="price-item price-item--regular"></s>
+      </dd>
+    </div>
+  </dl>
+
+  <dl class="unit-price hidden">
+    <dt class="visually-hidden">Prix unitaire</dt>
+    <dd></dd>
+  </dl>
+</div>
+
+      </div>
+      
+
+          <div class="product-card__description body-small">Un outil fiable pour un usage quotidien, conçu pour faciliter la planification, la prise de notes et les travaux créatifs....</div><div class="product-card__error body-xs" role="alert" hidden=""></div>
+    </div>
+
+    
+</div><a href="/fr/products/craft-pin-badge" class="product-card__link-overlay focus-inset" aria-label="Insigne à épingle artisanal Lien vers le produit"></a></product-card>
+
+                </div><div class="collection-product-card">
+                  
+
+
+<product-card class="product-card product-card--mobile-1 product-card_image-linked" data-product="shaped-clips-set" data-product-id="15256436310391" data-image-linked="true" tabindex="0" style="--card-padding-bottom: 131.7%; --slide-count: 4">
+  <div class="product-card__inner">
+    <div class="product-card__media">
+
+          <div class="swiper-container product-card-js global-variant-js-media-list slider_started swiper-initialized swiper-horizontal swiper-backface-hidden" data-loop="false">
+            <div class="swiper-wrapper" id="swiper-wrapper-e0dc87487c3d40fa" aria-live="polite" style="transform: translate3d(0px, 0px, 0px);">
+              
+                
+
+                
+                  
+                
+
+                
+                  
+                    
+                  
+                
+
+                <div class="swiper-slide swiper-slide-active" data-media-id="67657576579447" role="group" aria-label="1 / 4" style="width: 326px; margin-right: 2px;">
+                  <img src="//shift-sketch.myshopify.com/cdn/shop/files/03-accessories.jpg?v=1763981941&amp;width=1553" alt="Ensemble de pinces de formes diverses" srcset="//shift-sketch.myshopify.com/cdn/shop/files/03-accessories.jpg?v=1763981941&amp;width=360 360w, //shift-sketch.myshopify.com/cdn/shop/files/03-accessories.jpg?v=1763981941&amp;width=535 535w, //shift-sketch.myshopify.com/cdn/shop/files/03-accessories.jpg?v=1763981941&amp;width=720 720w, //shift-sketch.myshopify.com/cdn/shop/files/03-accessories.jpg?v=1763981941&amp;width=940 940w, //shift-sketch.myshopify.com/cdn/shop/files/03-accessories.jpg?v=1763981941&amp;width=1066 1066w, //shift-sketch.myshopify.com/cdn/shop/files/03-accessories.jpg?v=1763981941&amp;width=1200 1200w, //shift-sketch.myshopify.com/cdn/shop/files/03-accessories.jpg?v=1763981941&amp;width=1400 1400w" width="1553" height="2070" loading="eager" class="motion-reduce media" sizes="(min-width: 1200px) calc(1.03 * (100vw / 4)),(min-width: 990px) calc(1.03 * (100vw / 3)),(min-width: 576px) calc(1.03 * (100vw / 2)),calc(1.03 * 100vw)" style="object-fit: cover;">
+                </div>
+              
+                
+
+                
+                  
+                
+
+                
+                  
+                    
+                  
+                
+
+                <div class="swiper-slide swiper-slide-next" data-media-id="67657576481143" role="group" aria-label="2 / 4" style="width: 326px; margin-right: 2px;">
+                  <img src="//shift-sketch.myshopify.com/cdn/shop/files/03-accessories-hover-01.jpg?v=1763981940&amp;width=1760" alt="Ensemble de pinces de formes diverses" srcset="//shift-sketch.myshopify.com/cdn/shop/files/03-accessories-hover-01.jpg?v=1763981940&amp;width=360 360w, //shift-sketch.myshopify.com/cdn/shop/files/03-accessories-hover-01.jpg?v=1763981940&amp;width=535 535w, //shift-sketch.myshopify.com/cdn/shop/files/03-accessories-hover-01.jpg?v=1763981940&amp;width=720 720w, //shift-sketch.myshopify.com/cdn/shop/files/03-accessories-hover-01.jpg?v=1763981940&amp;width=940 940w, //shift-sketch.myshopify.com/cdn/shop/files/03-accessories-hover-01.jpg?v=1763981940&amp;width=1066 1066w, //shift-sketch.myshopify.com/cdn/shop/files/03-accessories-hover-01.jpg?v=1763981940&amp;width=1200 1200w, //shift-sketch.myshopify.com/cdn/shop/files/03-accessories-hover-01.jpg?v=1763981940&amp;width=1400 1400w, //shift-sketch.myshopify.com/cdn/shop/files/03-accessories-hover-01.jpg?v=1763981940&amp;width=1600 1600w" width="1760" height="2336" loading="eager" class="motion-reduce media" sizes="(min-width: 1200px) calc(1.03 * (100vw / 4)),(min-width: 990px) calc(1.03 * (100vw / 3)),(min-width: 576px) calc(1.03 * (100vw / 2)),calc(1.03 * 100vw)" style="object-fit: cover;">
+                </div>
+              
+                
+
+                
+                  
+                
+
+                
+                  
+                    
+                  
+                
+
+                <div class="swiper-slide" data-media-id="67657576513911" role="group" aria-label="3 / 4" style="width: 326px; margin-right: 2px;">
+                  <img src="//shift-sketch.myshopify.com/cdn/shop/files/03-accessories-hover-02.jpg?v=1763981940&amp;width=1536" alt="Ensemble de pinces de formes diverses" srcset="//shift-sketch.myshopify.com/cdn/shop/files/03-accessories-hover-02.jpg?v=1763981940&amp;width=360 360w, //shift-sketch.myshopify.com/cdn/shop/files/03-accessories-hover-02.jpg?v=1763981940&amp;width=535 535w, //shift-sketch.myshopify.com/cdn/shop/files/03-accessories-hover-02.jpg?v=1763981940&amp;width=720 720w, //shift-sketch.myshopify.com/cdn/shop/files/03-accessories-hover-02.jpg?v=1763981940&amp;width=940 940w, //shift-sketch.myshopify.com/cdn/shop/files/03-accessories-hover-02.jpg?v=1763981940&amp;width=1066 1066w, //shift-sketch.myshopify.com/cdn/shop/files/03-accessories-hover-02.jpg?v=1763981940&amp;width=1200 1200w, //shift-sketch.myshopify.com/cdn/shop/files/03-accessories-hover-02.jpg?v=1763981940&amp;width=1400 1400w" width="1536" height="2048" loading="eager" class="motion-reduce media" sizes="(min-width: 1200px) calc(1.03 * (100vw / 4)),(min-width: 990px) calc(1.03 * (100vw / 3)),(min-width: 576px) calc(1.03 * (100vw / 2)),calc(1.03 * 100vw)" style="object-fit: cover;">
+                </div>
+              
+                
+
+                
+                  
+                
+
+                
+                  
+                    
+                  
+                
+
+                <div class="swiper-slide" data-media-id="67657576546679" role="group" aria-label="4 / 4" style="width: 326px; margin-right: 2px;">
+                  <img src="//shift-sketch.myshopify.com/cdn/shop/files/03-accessories-hover-03.jpg?v=1763981941&amp;width=1536" alt="Ensemble de pinces de formes diverses" srcset="//shift-sketch.myshopify.com/cdn/shop/files/03-accessories-hover-03.jpg?v=1763981941&amp;width=360 360w, //shift-sketch.myshopify.com/cdn/shop/files/03-accessories-hover-03.jpg?v=1763981941&amp;width=535 535w, //shift-sketch.myshopify.com/cdn/shop/files/03-accessories-hover-03.jpg?v=1763981941&amp;width=720 720w, //shift-sketch.myshopify.com/cdn/shop/files/03-accessories-hover-03.jpg?v=1763981941&amp;width=940 940w, //shift-sketch.myshopify.com/cdn/shop/files/03-accessories-hover-03.jpg?v=1763981941&amp;width=1066 1066w, //shift-sketch.myshopify.com/cdn/shop/files/03-accessories-hover-03.jpg?v=1763981941&amp;width=1200 1200w, //shift-sketch.myshopify.com/cdn/shop/files/03-accessories-hover-03.jpg?v=1763981941&amp;width=1400 1400w" width="1536" height="2048" loading="eager" class="motion-reduce media" sizes="(min-width: 1200px) calc(1.03 * (100vw / 4)),(min-width: 990px) calc(1.03 * (100vw / 3)),(min-width: 576px) calc(1.03 * (100vw / 2)),calc(1.03 * 100vw)" style="object-fit: cover;">
+                </div>
+              
+            </div>
+            <div class="product-button-group">
+              <div class="product-slider-button-prev">
+                <div class="swiper-button-prev swiper-button-disabled" tabindex="-1" role="button" aria-label="Previous slide" aria-controls="swiper-wrapper-e0dc87487c3d40fa" aria-disabled="true"><svg class="icon icon-arrow-slider-left" width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M14 2L6 10L14 18" stroke="currentColor"></path>
+</svg>
+</div>
+              </div>
+
+              <div class="product-slider-button-next">
+                <div class="swiper-button-next" tabindex="0" role="button" aria-label="Next slide" aria-controls="swiper-wrapper-e0dc87487c3d40fa" aria-disabled="false"><svg class="icon icon-arrow-slider-right" width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M6 2L14 10L6 18" stroke="currentColor"></path>
+</svg>
+</div>
+              </div>
+            </div>
+            <div class="swiper-pagination product-card-pagination swiper-pagination-default swiper-pagination-clickable swiper-pagination-bullets swiper-pagination-horizontal"><span class="swiper-pagination-bullet swiper-pagination-bullet-active" tabindex="0" role="button" aria-label="Go to slide 1" aria-current="true"></span><span class="swiper-pagination-bullet" tabindex="0" role="button" aria-label="Go to slide 2"></span><span class="swiper-pagination-bullet" tabindex="0" role="button" aria-label="Go to slide 3"></span><span class="swiper-pagination-bullet" tabindex="0" role="button" aria-label="Go to slide 4"></span></div>
+          <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
+        
+</div><div class="product-card__top">
+        
+<div class="product-card__badges body-normal"><span class="badge badge--sale" aria-hidden="true">
+        
+Vente
+      </span></div>
+      </div><div class="product-card__quickview product-card__quickview--mobile-true no-js-hidden">
+        <modal-opener data-modal="#QuickView-15256436310391">
+          <button class="product-card__button button button--primary focus-inset" aria-haspopup="dialog" data-product-url="/fr/products/shaped-clips-set" aria-label="Quick view">
+            <div class="button__content">
+              <span class="product-card__quickview-text button__label" data-label="Quick view">Quick view</span>
+              <span class="product-card__mobile-icon button__icon">
+                <svg width="22" height="22" viewBox="0 0 22 22" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M2.66745 12.0748C2.35434 11.3936 2.35434 10.6077 2.66745 9.92654C4.11679 6.77337 7.30311 4.58398 11.0008 4.58398C14.6985 4.58398 17.8848 6.77338 19.3341 9.92654C19.6472 10.6077 19.6472 11.3936 19.3341 12.0748C17.8848 15.2279 14.6985 17.4173 11.0008 17.4173C7.30311 17.4173 4.11679 15.2279 2.66745 12.0748Z" stroke="currentColor" stroke-width="1.5"></path>
+  <path d="M13.7508 11.0007C13.7508 12.5194 12.5196 13.7507 11.0008 13.7507C9.48201 13.7507 8.25079 12.5194 8.25079 11.0007C8.25079 9.48187 9.48201 8.25065 11.0008 8.25065C12.5196 8.25065 13.7508 9.48187 13.7508 11.0007Z" stroke="currentColor" stroke-width="1.5"></path>
+</svg>
+
+              </span>
+            </div>
+            <div class="loading-overlay__spinner hidden">
+              <svg aria-hidden="true" focusable="false" role="presentation" class="spinner" viewBox="0 0 66 66" xmlns="http://www.w3.org/2000/svg">
+  <circle class="path" fill="none" stroke-width="5" cx="33" cy="33" r="30"></circle>
+</svg>
+
+            </div>
+          </button>
+        </modal-opener>
+
+        
+
+
+      </div></div>
+
+  
+  <div class="product-card__information">
+    <div class="product-card__information-top"><h2 class="product-card__title">
+        <a class="focus-inset" href="/fr/products/shaped-clips-set" aria-label="Ensemble de pinces de formes diverses">Ensemble de pinces de formes diverses</a>
+      </h2>
+
+      <div class="product-card__price-group">
+        
+<div class="price price--on-sale">
+  <dl class="price-text"><div class="price__regular">
+      <dt class="visually-hidden">Prix régulier</dt>
+      <dd>
+        <span class="price-item price-item--regular">$4.00</span>
+      </dd>
+    </div>
+    <div class="price__sale">
+      <dt class="visually-hidden">Prix de vente</dt>
+      <dd>
+        <span class="price-item price-item--sale">$4.00</span>
+      </dd>
+      <dt class="visually-hidden">Prix régulier</dt>
+      <dd class="price__compare">
+        <s class="price-item price-item--regular">$5.00</s>
+      </dd>
+    </div>
+  </dl>
+
+  <dl class="unit-price hidden">
+    <dt class="visually-hidden">Prix unitaire</dt>
+    <dd></dd>
+  </dl>
+</div>
+
+      </div>
+      
+
+          <div class="product-card__description body-small">Un outil fiable pour un usage quotidien, conçu pour faciliter la planification, la prise de notes et les travaux créatifs....</div><div class="product-card__error body-xs" role="alert" hidden=""></div>
+    </div>
+
+    
+</div><a href="/fr/products/shaped-clips-set" class="product-card__link-overlay focus-inset" aria-label="Ensemble de pinces de formes diverses Lien vers le produit"></a></product-card>
+
+                </div><div class="collection-product-card">
+                  
+
+
+<product-card class="product-card product-card--mobile-1 product-card_image-linked" data-product="craft-logo-sticker" data-product-id="15256435163511" data-image-linked="true" tabindex="0" style="--card-padding-bottom: 131.7%; --slide-count: 5">
+  <div class="product-card__inner">
+    <div class="product-card__media">
+
+          <div class="swiper-container product-card-js global-variant-js-media-list slider_started swiper-initialized swiper-horizontal swiper-backface-hidden" data-loop="false">
+            <div class="swiper-wrapper" id="swiper-wrapper-d7de258cd9a4cbe8" aria-live="polite" style="transform: translate3d(0px, 0px, 0px);">
+              
+                
+
+                
+                  
+                
+
+                
+                  
+                    
+                  
+                
+
+                <div class="swiper-slide swiper-slide-active" data-media-id="67657564619127" role="group" aria-label="1 / 5" style="width: 326px; margin-right: 2px;">
+                  <img src="//shift-sketch.myshopify.com/cdn/shop/files/02-accessories-v1.jpg?v=1763981895&amp;width=2459" alt="Autocollant logo artisanal" srcset="//shift-sketch.myshopify.com/cdn/shop/files/02-accessories-v1.jpg?v=1763981895&amp;width=360 360w, //shift-sketch.myshopify.com/cdn/shop/files/02-accessories-v1.jpg?v=1763981895&amp;width=535 535w, //shift-sketch.myshopify.com/cdn/shop/files/02-accessories-v1.jpg?v=1763981895&amp;width=720 720w, //shift-sketch.myshopify.com/cdn/shop/files/02-accessories-v1.jpg?v=1763981895&amp;width=940 940w, //shift-sketch.myshopify.com/cdn/shop/files/02-accessories-v1.jpg?v=1763981895&amp;width=1066 1066w, //shift-sketch.myshopify.com/cdn/shop/files/02-accessories-v1.jpg?v=1763981895&amp;width=1200 1200w, //shift-sketch.myshopify.com/cdn/shop/files/02-accessories-v1.jpg?v=1763981895&amp;width=1400 1400w, //shift-sketch.myshopify.com/cdn/shop/files/02-accessories-v1.jpg?v=1763981895&amp;width=1600 1600w, //shift-sketch.myshopify.com/cdn/shop/files/02-accessories-v1.jpg?v=1763981895&amp;width=1800 1800w, //shift-sketch.myshopify.com/cdn/shop/files/02-accessories-v1.jpg?v=1763981895&amp;width=2000 2000w, //shift-sketch.myshopify.com/cdn/shop/files/02-accessories-v1.jpg?v=1763981895&amp;width=2200 2200w, //shift-sketch.myshopify.com/cdn/shop/files/02-accessories-v1.jpg?v=1763981895&amp;width=2400 2400w" width="2459" height="3279" loading="lazy" class="motion-reduce media" sizes="(min-width: 1200px) calc(1.03 * (100vw / 4)),(min-width: 990px) calc(1.03 * (100vw / 3)),(min-width: 576px) calc(1.03 * (100vw / 2)),calc(1.03 * 100vw)" style="object-fit: cover;">
+                </div>
+              
+                
+
+                
+                  
+                
+
+                
+                  
+                    
+                  
+                
+
+                <div class="swiper-slide swiper-slide-next" data-media-id="67657564651895" role="group" aria-label="2 / 5" style="width: 326px; margin-right: 2px;">
+                  <img src="//shift-sketch.myshopify.com/cdn/shop/files/02-accessories-v2.jpg?v=1763981896&amp;width=2459" alt="Autocollant logo artisanal" srcset="//shift-sketch.myshopify.com/cdn/shop/files/02-accessories-v2.jpg?v=1763981896&amp;width=360 360w, //shift-sketch.myshopify.com/cdn/shop/files/02-accessories-v2.jpg?v=1763981896&amp;width=535 535w, //shift-sketch.myshopify.com/cdn/shop/files/02-accessories-v2.jpg?v=1763981896&amp;width=720 720w, //shift-sketch.myshopify.com/cdn/shop/files/02-accessories-v2.jpg?v=1763981896&amp;width=940 940w, //shift-sketch.myshopify.com/cdn/shop/files/02-accessories-v2.jpg?v=1763981896&amp;width=1066 1066w, //shift-sketch.myshopify.com/cdn/shop/files/02-accessories-v2.jpg?v=1763981896&amp;width=1200 1200w, //shift-sketch.myshopify.com/cdn/shop/files/02-accessories-v2.jpg?v=1763981896&amp;width=1400 1400w, //shift-sketch.myshopify.com/cdn/shop/files/02-accessories-v2.jpg?v=1763981896&amp;width=1600 1600w, //shift-sketch.myshopify.com/cdn/shop/files/02-accessories-v2.jpg?v=1763981896&amp;width=1800 1800w, //shift-sketch.myshopify.com/cdn/shop/files/02-accessories-v2.jpg?v=1763981896&amp;width=2000 2000w, //shift-sketch.myshopify.com/cdn/shop/files/02-accessories-v2.jpg?v=1763981896&amp;width=2200 2200w, //shift-sketch.myshopify.com/cdn/shop/files/02-accessories-v2.jpg?v=1763981896&amp;width=2400 2400w" width="2459" height="3279" loading="lazy" class="motion-reduce media" sizes="(min-width: 1200px) calc(1.03 * (100vw / 4)),(min-width: 990px) calc(1.03 * (100vw / 3)),(min-width: 576px) calc(1.03 * (100vw / 2)),calc(1.03 * 100vw)" style="object-fit: cover;">
+                </div>
+              
+                
+
+                
+                  
+                
+
+                
+                  
+                    
+                  
+                
+
+                <div class="swiper-slide" data-media-id="67657564520823" role="group" aria-label="3 / 5" style="width: 326px; margin-right: 2px;">
+                  <img src="//shift-sketch.myshopify.com/cdn/shop/files/02-accessories-hover-01.jpg?v=1763981896&amp;width=1536" alt="Autocollant logo artisanal" srcset="//shift-sketch.myshopify.com/cdn/shop/files/02-accessories-hover-01.jpg?v=1763981896&amp;width=360 360w, //shift-sketch.myshopify.com/cdn/shop/files/02-accessories-hover-01.jpg?v=1763981896&amp;width=535 535w, //shift-sketch.myshopify.com/cdn/shop/files/02-accessories-hover-01.jpg?v=1763981896&amp;width=720 720w, //shift-sketch.myshopify.com/cdn/shop/files/02-accessories-hover-01.jpg?v=1763981896&amp;width=940 940w, //shift-sketch.myshopify.com/cdn/shop/files/02-accessories-hover-01.jpg?v=1763981896&amp;width=1066 1066w, //shift-sketch.myshopify.com/cdn/shop/files/02-accessories-hover-01.jpg?v=1763981896&amp;width=1200 1200w, //shift-sketch.myshopify.com/cdn/shop/files/02-accessories-hover-01.jpg?v=1763981896&amp;width=1400 1400w" width="1536" height="2048" loading="lazy" class="motion-reduce media" sizes="(min-width: 1200px) calc(1.03 * (100vw / 4)),(min-width: 990px) calc(1.03 * (100vw / 3)),(min-width: 576px) calc(1.03 * (100vw / 2)),calc(1.03 * 100vw)" style="object-fit: cover;">
+                </div>
+              
+                
+
+                
+                  
+                
+
+                
+                  
+                    
+                  
+                
+
+                <div class="swiper-slide" data-media-id="67657564553591" role="group" aria-label="4 / 5" style="width: 326px; margin-right: 2px;">
+                  <img src="//shift-sketch.myshopify.com/cdn/shop/files/02-accessories-hover-02.jpg?v=1763981896&amp;width=1248" alt="Autocollant logo artisanal" srcset="//shift-sketch.myshopify.com/cdn/shop/files/02-accessories-hover-02.jpg?v=1763981896&amp;width=360 360w, //shift-sketch.myshopify.com/cdn/shop/files/02-accessories-hover-02.jpg?v=1763981896&amp;width=535 535w, //shift-sketch.myshopify.com/cdn/shop/files/02-accessories-hover-02.jpg?v=1763981896&amp;width=720 720w, //shift-sketch.myshopify.com/cdn/shop/files/02-accessories-hover-02.jpg?v=1763981896&amp;width=940 940w, //shift-sketch.myshopify.com/cdn/shop/files/02-accessories-hover-02.jpg?v=1763981896&amp;width=1066 1066w, //shift-sketch.myshopify.com/cdn/shop/files/02-accessories-hover-02.jpg?v=1763981896&amp;width=1200 1200w" width="1248" height="1664" loading="lazy" class="motion-reduce media" sizes="(min-width: 1200px) calc(1.03 * (100vw / 4)),(min-width: 990px) calc(1.03 * (100vw / 3)),(min-width: 576px) calc(1.03 * (100vw / 2)),calc(1.03 * 100vw)" style="object-fit: cover;">
+                </div>
+              
+                
+
+                
+                  
+                
+
+                
+                  
+                    
+                  
+                
+
+                <div class="swiper-slide" data-media-id="67657564586359" role="group" aria-label="5 / 5" style="width: 326px; margin-right: 2px;">
+                  <img src="//shift-sketch.myshopify.com/cdn/shop/files/02-accessories-hover-03.jpg?v=1763981896&amp;width=1320" alt="Autocollant logo artisanal" srcset="//shift-sketch.myshopify.com/cdn/shop/files/02-accessories-hover-03.jpg?v=1763981896&amp;width=360 360w, //shift-sketch.myshopify.com/cdn/shop/files/02-accessories-hover-03.jpg?v=1763981896&amp;width=535 535w, //shift-sketch.myshopify.com/cdn/shop/files/02-accessories-hover-03.jpg?v=1763981896&amp;width=720 720w, //shift-sketch.myshopify.com/cdn/shop/files/02-accessories-hover-03.jpg?v=1763981896&amp;width=940 940w, //shift-sketch.myshopify.com/cdn/shop/files/02-accessories-hover-03.jpg?v=1763981896&amp;width=1066 1066w, //shift-sketch.myshopify.com/cdn/shop/files/02-accessories-hover-03.jpg?v=1763981896&amp;width=1200 1200w" width="1320" height="1760" loading="lazy" class="motion-reduce media" sizes="(min-width: 1200px) calc(1.03 * (100vw / 4)),(min-width: 990px) calc(1.03 * (100vw / 3)),(min-width: 576px) calc(1.03 * (100vw / 2)),calc(1.03 * 100vw)" style="object-fit: cover;">
+                </div>
+              
+            </div>
+            <div class="product-button-group">
+              <div class="product-slider-button-prev">
+                <div class="swiper-button-prev swiper-button-disabled" tabindex="-1" role="button" aria-label="Previous slide" aria-controls="swiper-wrapper-d7de258cd9a4cbe8" aria-disabled="true"><svg class="icon icon-arrow-slider-left" width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M14 2L6 10L14 18" stroke="currentColor"></path>
+</svg>
+</div>
+              </div>
+
+              <div class="product-slider-button-next">
+                <div class="swiper-button-next" tabindex="0" role="button" aria-label="Next slide" aria-controls="swiper-wrapper-d7de258cd9a4cbe8" aria-disabled="false"><svg class="icon icon-arrow-slider-right" width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M6 2L14 10L6 18" stroke="currentColor"></path>
+</svg>
+</div>
+              </div>
+            </div>
+            <div class="swiper-pagination product-card-pagination swiper-pagination-default swiper-pagination-clickable swiper-pagination-bullets swiper-pagination-horizontal"><span class="swiper-pagination-bullet swiper-pagination-bullet-active" tabindex="0" role="button" aria-label="Go to slide 1" aria-current="true"></span><span class="swiper-pagination-bullet" tabindex="0" role="button" aria-label="Go to slide 2"></span><span class="swiper-pagination-bullet" tabindex="0" role="button" aria-label="Go to slide 3"></span><span class="swiper-pagination-bullet" tabindex="0" role="button" aria-label="Go to slide 4"></span><span class="swiper-pagination-bullet" tabindex="0" role="button" aria-label="Go to slide 5"></span></div>
+          <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
+        
+</div><div class="product-card__top">
+        
+<div class="product-card__badges body-normal"></div>
+      </div><div class="product-card__quickview product-card__quickview--mobile-true no-js-hidden">
+        <modal-opener data-modal="#QuickView-15256435163511">
+          <button class="product-card__button button button--primary focus-inset" aria-haspopup="dialog" data-product-url="/fr/products/craft-logo-sticker" aria-label="Quick view">
+            <div class="button__content">
+              <span class="product-card__quickview-text button__label" data-label="Quick view">Quick view</span>
+              <span class="product-card__mobile-icon button__icon">
+                <svg width="22" height="22" viewBox="0 0 22 22" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M2.66745 12.0748C2.35434 11.3936 2.35434 10.6077 2.66745 9.92654C4.11679 6.77337 7.30311 4.58398 11.0008 4.58398C14.6985 4.58398 17.8848 6.77338 19.3341 9.92654C19.6472 10.6077 19.6472 11.3936 19.3341 12.0748C17.8848 15.2279 14.6985 17.4173 11.0008 17.4173C7.30311 17.4173 4.11679 15.2279 2.66745 12.0748Z" stroke="currentColor" stroke-width="1.5"></path>
+  <path d="M13.7508 11.0007C13.7508 12.5194 12.5196 13.7507 11.0008 13.7507C9.48201 13.7507 8.25079 12.5194 8.25079 11.0007C8.25079 9.48187 9.48201 8.25065 11.0008 8.25065C12.5196 8.25065 13.7508 9.48187 13.7508 11.0007Z" stroke="currentColor" stroke-width="1.5"></path>
+</svg>
+
+              </span>
+            </div>
+            <div class="loading-overlay__spinner hidden">
+              <svg aria-hidden="true" focusable="false" role="presentation" class="spinner" viewBox="0 0 66 66" xmlns="http://www.w3.org/2000/svg">
+  <circle class="path" fill="none" stroke-width="5" cx="33" cy="33" r="30"></circle>
+</svg>
+
+            </div>
+          </button>
+        </modal-opener>
+
+        
+
+
+      </div></div>
+
+  
+  <div class="product-card__information">
+    <div class="product-card__information-top"><h2 class="product-card__title">
+        <a class="focus-inset" href="/fr/products/craft-logo-sticker" aria-label="Autocollant logo artisanal">Autocollant logo artisanal</a>
+      </h2>
+
+      <div class="product-card__price-group">
+        
+<div class="price">
+  <dl class="price-text"><div class="price__regular">
+      <dt class="visually-hidden">Prix régulier</dt>
+      <dd>
+        <span class="price-item price-item--regular">$2.50</span>
+      </dd>
+    </div>
+    <div class="price__sale">
+      <dt class="visually-hidden">Prix de vente</dt>
+      <dd>
+        <span class="price-item price-item--sale">$2.50</span>
+      </dd>
+      <dt class="visually-hidden">Prix régulier</dt>
+      <dd class="price__compare">
+        <s class="price-item price-item--regular"></s>
+      </dd>
+    </div>
+  </dl>
+
+  <dl class="unit-price hidden">
+    <dt class="visually-hidden">Prix unitaire</dt>
+    <dd></dd>
+  </dl>
+</div>
+
+      </div>
+      
+
+          <div class="product-card__description body-small">Un outil fiable pour un usage quotidien, conçu pour faciliter la planification, la prise de notes et les travaux créatifs....</div><div class="product-card__error body-xs" role="alert" hidden=""></div>
+    </div>
+
+    
+</div><a href="/fr/products/craft-logo-sticker" class="product-card__link-overlay focus-inset" aria-label="Autocollant logo artisanal Lien vers le produit"></a></product-card>
+
+                </div><div class="collection-product-card">
+                  
+
+
+<product-card class="product-card product-card--mobile-1 product-card_image-linked" data-product="craft-oversize-tote" data-product-id="15256434114935" data-image-linked="true" tabindex="0" style="--card-padding-bottom: 131.7%; --slide-count: 4">
+  <div class="product-card__inner">
+    <div class="product-card__media">
+
+          <div class="swiper-container product-card-js global-variant-js-media-list slider_started swiper-initialized swiper-horizontal swiper-backface-hidden" data-loop="false">
+            <div class="swiper-wrapper" id="swiper-wrapper-a39da108f1185d8de" aria-live="polite" style="transform: translate3d(0px, 0px, 0px);">
+              
+                
+
+                
+                  
+                
+
+                
+                  
+                    
+                  
+                
+
+                <div class="swiper-slide swiper-slide-active" data-media-id="67657556296055" role="group" aria-label="1 / 4" style="width: 326px; margin-right: 2px;">
+                  <img src="//shift-sketch.myshopify.com/cdn/shop/files/01-accessories.jpg?v=1763981863&amp;width=2603" alt="Sac cabas surdimensionné Craft" srcset="//shift-sketch.myshopify.com/cdn/shop/files/01-accessories.jpg?v=1763981863&amp;width=360 360w, //shift-sketch.myshopify.com/cdn/shop/files/01-accessories.jpg?v=1763981863&amp;width=535 535w, //shift-sketch.myshopify.com/cdn/shop/files/01-accessories.jpg?v=1763981863&amp;width=720 720w, //shift-sketch.myshopify.com/cdn/shop/files/01-accessories.jpg?v=1763981863&amp;width=940 940w, //shift-sketch.myshopify.com/cdn/shop/files/01-accessories.jpg?v=1763981863&amp;width=1066 1066w, //shift-sketch.myshopify.com/cdn/shop/files/01-accessories.jpg?v=1763981863&amp;width=1200 1200w, //shift-sketch.myshopify.com/cdn/shop/files/01-accessories.jpg?v=1763981863&amp;width=1400 1400w, //shift-sketch.myshopify.com/cdn/shop/files/01-accessories.jpg?v=1763981863&amp;width=1600 1600w, //shift-sketch.myshopify.com/cdn/shop/files/01-accessories.jpg?v=1763981863&amp;width=1800 1800w, //shift-sketch.myshopify.com/cdn/shop/files/01-accessories.jpg?v=1763981863&amp;width=2000 2000w, //shift-sketch.myshopify.com/cdn/shop/files/01-accessories.jpg?v=1763981863&amp;width=2200 2200w, //shift-sketch.myshopify.com/cdn/shop/files/01-accessories.jpg?v=1763981863&amp;width=2400 2400w, //shift-sketch.myshopify.com/cdn/shop/files/01-accessories.jpg?v=1763981863&amp;width=2600 2600w" width="2603" height="3470" loading="lazy" class="motion-reduce media" sizes="(min-width: 1200px) calc(1.03 * (100vw / 4)),(min-width: 990px) calc(1.03 * (100vw / 3)),(min-width: 576px) calc(1.03 * (100vw / 2)),calc(1.03 * 100vw)" style="object-fit: cover;">
+                </div>
+              
+                
+
+                
+                  
+                
+
+                
+                  
+                    
+                  
+                
+
+                <div class="swiper-slide swiper-slide-next" data-media-id="67657556197751" role="group" aria-label="2 / 4" style="width: 326px; margin-right: 2px;">
+                  <img src="//shift-sketch.myshopify.com/cdn/shop/files/01-accessories-hover-01.jpg?v=1763981863&amp;width=880" alt="Sac cabas surdimensionné Craft" srcset="//shift-sketch.myshopify.com/cdn/shop/files/01-accessories-hover-01.jpg?v=1763981863&amp;width=360 360w, //shift-sketch.myshopify.com/cdn/shop/files/01-accessories-hover-01.jpg?v=1763981863&amp;width=535 535w, //shift-sketch.myshopify.com/cdn/shop/files/01-accessories-hover-01.jpg?v=1763981863&amp;width=720 720w" width="880" height="1168" loading="lazy" class="motion-reduce media" sizes="(min-width: 1200px) calc(1.03 * (100vw / 4)),(min-width: 990px) calc(1.03 * (100vw / 3)),(min-width: 576px) calc(1.03 * (100vw / 2)),calc(1.03 * 100vw)" style="object-fit: cover;">
+                </div>
+              
+                
+
+                
+                  
+                
+
+                
+                  
+                    
+                  
+                
+
+                <div class="swiper-slide" data-media-id="67657556230519" role="group" aria-label="3 / 4" style="width: 326px; margin-right: 2px;">
+                  <img src="//shift-sketch.myshopify.com/cdn/shop/files/01-accessories-hover-02.jpg?v=1763981863&amp;width=1760" alt="Sac cabas surdimensionné Craft" srcset="//shift-sketch.myshopify.com/cdn/shop/files/01-accessories-hover-02.jpg?v=1763981863&amp;width=360 360w, //shift-sketch.myshopify.com/cdn/shop/files/01-accessories-hover-02.jpg?v=1763981863&amp;width=535 535w, //shift-sketch.myshopify.com/cdn/shop/files/01-accessories-hover-02.jpg?v=1763981863&amp;width=720 720w, //shift-sketch.myshopify.com/cdn/shop/files/01-accessories-hover-02.jpg?v=1763981863&amp;width=940 940w, //shift-sketch.myshopify.com/cdn/shop/files/01-accessories-hover-02.jpg?v=1763981863&amp;width=1066 1066w, //shift-sketch.myshopify.com/cdn/shop/files/01-accessories-hover-02.jpg?v=1763981863&amp;width=1200 1200w, //shift-sketch.myshopify.com/cdn/shop/files/01-accessories-hover-02.jpg?v=1763981863&amp;width=1400 1400w, //shift-sketch.myshopify.com/cdn/shop/files/01-accessories-hover-02.jpg?v=1763981863&amp;width=1600 1600w" width="1760" height="2336" loading="lazy" class="motion-reduce media" sizes="(min-width: 1200px) calc(1.03 * (100vw / 4)),(min-width: 990px) calc(1.03 * (100vw / 3)),(min-width: 576px) calc(1.03 * (100vw / 2)),calc(1.03 * 100vw)" style="object-fit: cover;">
+                </div>
+              
+                
+
+                
+                  
+                
+
+                
+                  
+                    
+                  
+                
+
+                <div class="swiper-slide" data-media-id="67657556263287" role="group" aria-label="4 / 4" style="width: 326px; margin-right: 2px;">
+                  <img src="//shift-sketch.myshopify.com/cdn/shop/files/01-accessories-hover-03.jpg?v=1763981863&amp;width=1728" alt="Sac cabas surdimensionné Craft" srcset="//shift-sketch.myshopify.com/cdn/shop/files/01-accessories-hover-03.jpg?v=1763981863&amp;width=360 360w, //shift-sketch.myshopify.com/cdn/shop/files/01-accessories-hover-03.jpg?v=1763981863&amp;width=535 535w, //shift-sketch.myshopify.com/cdn/shop/files/01-accessories-hover-03.jpg?v=1763981863&amp;width=720 720w, //shift-sketch.myshopify.com/cdn/shop/files/01-accessories-hover-03.jpg?v=1763981863&amp;width=940 940w, //shift-sketch.myshopify.com/cdn/shop/files/01-accessories-hover-03.jpg?v=1763981863&amp;width=1066 1066w, //shift-sketch.myshopify.com/cdn/shop/files/01-accessories-hover-03.jpg?v=1763981863&amp;width=1200 1200w, //shift-sketch.myshopify.com/cdn/shop/files/01-accessories-hover-03.jpg?v=1763981863&amp;width=1400 1400w, //shift-sketch.myshopify.com/cdn/shop/files/01-accessories-hover-03.jpg?v=1763981863&amp;width=1600 1600w" width="1728" height="2304" loading="lazy" class="motion-reduce media" sizes="(min-width: 1200px) calc(1.03 * (100vw / 4)),(min-width: 990px) calc(1.03 * (100vw / 3)),(min-width: 576px) calc(1.03 * (100vw / 2)),calc(1.03 * 100vw)" style="object-fit: cover;">
+                </div>
+              
+            </div>
+            <div class="product-button-group">
+              <div class="product-slider-button-prev">
+                <div class="swiper-button-prev swiper-button-disabled" tabindex="-1" role="button" aria-label="Previous slide" aria-controls="swiper-wrapper-a39da108f1185d8de" aria-disabled="true"><svg class="icon icon-arrow-slider-left" width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M14 2L6 10L14 18" stroke="currentColor"></path>
+</svg>
+</div>
+              </div>
+
+              <div class="product-slider-button-next">
+                <div class="swiper-button-next" tabindex="0" role="button" aria-label="Next slide" aria-controls="swiper-wrapper-a39da108f1185d8de" aria-disabled="false"><svg class="icon icon-arrow-slider-right" width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M6 2L14 10L6 18" stroke="currentColor"></path>
+</svg>
+</div>
+              </div>
+            </div>
+            <div class="swiper-pagination product-card-pagination swiper-pagination-default swiper-pagination-clickable swiper-pagination-bullets swiper-pagination-horizontal"><span class="swiper-pagination-bullet swiper-pagination-bullet-active" tabindex="0" role="button" aria-label="Go to slide 1" aria-current="true"></span><span class="swiper-pagination-bullet" tabindex="0" role="button" aria-label="Go to slide 2"></span><span class="swiper-pagination-bullet" tabindex="0" role="button" aria-label="Go to slide 3"></span><span class="swiper-pagination-bullet" tabindex="0" role="button" aria-label="Go to slide 4"></span></div>
+          <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
+        
+</div><div class="product-card__top">
+        
+<div class="product-card__badges body-normal"></div>
+      </div><div class="product-card__quickview product-card__quickview--mobile-true no-js-hidden">
+        <modal-opener data-modal="#QuickView-15256434114935">
+          <button class="product-card__button button button--primary focus-inset" aria-haspopup="dialog" data-product-url="/fr/products/craft-oversize-tote" aria-label="Quick view">
+            <div class="button__content">
+              <span class="product-card__quickview-text button__label" data-label="Quick view">Quick view</span>
+              <span class="product-card__mobile-icon button__icon">
+                <svg width="22" height="22" viewBox="0 0 22 22" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M2.66745 12.0748C2.35434 11.3936 2.35434 10.6077 2.66745 9.92654C4.11679 6.77337 7.30311 4.58398 11.0008 4.58398C14.6985 4.58398 17.8848 6.77338 19.3341 9.92654C19.6472 10.6077 19.6472 11.3936 19.3341 12.0748C17.8848 15.2279 14.6985 17.4173 11.0008 17.4173C7.30311 17.4173 4.11679 15.2279 2.66745 12.0748Z" stroke="currentColor" stroke-width="1.5"></path>
+  <path d="M13.7508 11.0007C13.7508 12.5194 12.5196 13.7507 11.0008 13.7507C9.48201 13.7507 8.25079 12.5194 8.25079 11.0007C8.25079 9.48187 9.48201 8.25065 11.0008 8.25065C12.5196 8.25065 13.7508 9.48187 13.7508 11.0007Z" stroke="currentColor" stroke-width="1.5"></path>
+</svg>
+
+              </span>
+            </div>
+            <div class="loading-overlay__spinner hidden">
+              <svg aria-hidden="true" focusable="false" role="presentation" class="spinner" viewBox="0 0 66 66" xmlns="http://www.w3.org/2000/svg">
+  <circle class="path" fill="none" stroke-width="5" cx="33" cy="33" r="30"></circle>
+</svg>
+
+            </div>
+          </button>
+        </modal-opener>
+
+        
+
+
+      </div></div>
+
+  
+  <div class="product-card__information">
+    <div class="product-card__information-top"><h2 class="product-card__title">
+        <a class="focus-inset" href="/fr/products/craft-oversize-tote" aria-label="Sac cabas surdimensionné Craft">Sac cabas surdimensionné Craft</a>
+      </h2>
+
+      <div class="product-card__price-group">
+        
+<div class="price">
+  <dl class="price-text"><div class="price__regular">
+      <dt class="visually-hidden">Prix régulier</dt>
+      <dd>
+        <span class="price-item price-item--regular">$22.00</span>
+      </dd>
+    </div>
+    <div class="price__sale">
+      <dt class="visually-hidden">Prix de vente</dt>
+      <dd>
+        <span class="price-item price-item--sale">$22.00</span>
+      </dd>
+      <dt class="visually-hidden">Prix régulier</dt>
+      <dd class="price__compare">
+        <s class="price-item price-item--regular"></s>
+      </dd>
+    </div>
+  </dl>
+
+  <dl class="unit-price hidden">
+    <dt class="visually-hidden">Prix unitaire</dt>
+    <dd></dd>
+  </dl>
+</div>
+
+      </div>
+      
+
+          <div class="product-card__description body-small">Un outil fiable pour un usage quotidien, conçu pour faciliter la planification, la prise de notes et les travaux créatifs....</div><div class="product-card__error body-xs" role="alert" hidden=""></div>
+    </div>
+
+    
+</div><a href="/fr/products/craft-oversize-tote" class="product-card__link-overlay focus-inset" aria-label="Sac cabas surdimensionné Craft Lien vers le produit"></a></product-card>
+
+                </div></div>
+              <div class="collection-product__description body-normal richtext-link-inside">
+                Cette section doit être structurée clairement, afin que le lecteur comprenne l'objectif et la valeur du contenu.
+              </div>
+            
+          </div></div>
+  </div>
+</div>
+
+
+</section>
+```

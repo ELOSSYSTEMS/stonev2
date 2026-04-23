@@ -1,0 +1,34 @@
+{
+  "pageUrl": "https://salt-yard.myshopify.com/collections/shorts",
+  "pageTitle": "Shorts – Symmetry Theme Salt Yard",
+  "pageSlug": "salt_yard_myshopify_com_collections_shorts",
+  "sections": [
+    {
+      "refId": "salt_yard_myshopify_com_collections_shorts__section_01",
+      "index": 1,
+      "selectorHint": "div.container.cf",
+      "typeGuess": "hero",
+      "patternTags": [
+        "hero-candidate",
+        "top-of-page",
+        "image-heavy",
+        "slider",
+        "cta-cluster",
+        "product-commerce",
+        "category-navigation",
+        "editorial-media"
+      ],
+      "headingSample": [
+        "Trousers",
+        "Accessories",
+        "Sweaters & Hoodies",
+        "Sale",
+        "Shorts"
+      ],
+      "textSample": "Trousers Accessories Sweaters & Hoodies Sale Previous Next Shorts Filter 1 product Sort by Best selling Best sellingAlphabetically, A-ZAlphabetically, Z-APrice, low to highPrice, high to lowDate, old to newDate, new to old Filter 1 product Sort by Best selling Best sellingAlphabe",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_collections_shorts/salt_yard_myshopify_com_collections_shorts__section_01.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/pages/salt_yard_myshopify_com_collections_shorts.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/pages/salt_yard_myshopify_com_collections_shorts.json"
+    }
+  ]
+}

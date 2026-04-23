@@ -1,0 +1,36 @@
+{
+  "pageUrl": "https://salt-yard.myshopify.com/collections/collection-landing",
+  "pageTitle": "Collection Landing – Symmetry Theme Salt Yard",
+  "pageSlug": "salt_yard_myshopify_com_collections_collection_landing",
+  "sections": [
+    {
+      "refId": "salt_yard_myshopify_com_collections_collection_landing__section_01",
+      "index": 1,
+      "selectorHint": "div.container.cf",
+      "typeGuess": "hero",
+      "patternTags": [
+        "hero-candidate",
+        "top-of-page",
+        "image-heavy",
+        "slider",
+        "cta-cluster",
+        "product-commerce",
+        "category-navigation",
+        "editorial-media",
+        "marquee"
+      ],
+      "headingSample": [
+        "Collection All",
+        "Beanies",
+        "Denim",
+        "Footwear",
+        "Magazine",
+        "Autumn marks the release of Unrecorded’s candle range"
+      ],
+      "textSample": "#section-id-template--26857916432457__image_with_text_overlay_AaqtAe .height--fixed { --image-height: 240px; } @media (min-width: 768px) { #section-id-template--26857916432457__image_with_text_overlay_AaqtAe .height--fixed { --image-height: 400px; } } #section-id-template--268579",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_collections_collection_landing/salt_yard_myshopify_com_collections_collection_landing__section_01.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/pages/salt_yard_myshopify_com_collections_collection_landing.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/pages/salt_yard_myshopify_com_collections_collection_landing.json"
+    }
+  ]
+}

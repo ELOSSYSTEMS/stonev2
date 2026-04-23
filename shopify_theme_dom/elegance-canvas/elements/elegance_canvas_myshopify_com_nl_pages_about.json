@@ -1,0 +1,66 @@
+{
+  "pageUrl": "https://elegance-canvas.myshopify.com/nl/pages/about",
+  "pageTitle": "Over – Elegance-canvas",
+  "pageSlug": "elegance_canvas_myshopify_com_nl_pages_about",
+  "sections": [
+    {
+      "refId": "elegance_canvas_myshopify_com_nl_pages_about__section_01",
+      "index": 1,
+      "selectorHint": "#shopify-section-template--19562841309366__number_counter_gjbKdm",
+      "typeGuess": "editorial-media",
+      "patternTags": [
+        "top-of-page",
+        "editorial-media"
+      ],
+      "headingSample": [
+        "89K",
+        "10m",
+        "2K",
+        "85K"
+      ],
+      "textSample": "@media (max-width: 480px) { .number-counter .number-counter-container .row-cols-2>* {width:100%;} } .section-template--19562841309366__number_counter_gjbKdm-padding { padding-top: 70px; padding-bottom: 70px; } @media screen and (min-width: 768px) { .section-template--195628413093",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_nl_pages_about/elegance_canvas_myshopify_com_nl_pages_about__section_01.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/pages/elegance_canvas_myshopify_com_nl_pages_about.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/pages/elegance_canvas_myshopify_com_nl_pages_about.json"
+    },
+    {
+      "refId": "elegance_canvas_myshopify_com_nl_pages_about__section_02",
+      "index": 2,
+      "selectorHint": "#shopify-section-template--19562841309366__revealing_text_img_UEMMzm",
+      "typeGuess": "editorial-media",
+      "patternTags": [
+        "image-heavy",
+        "editorial-media"
+      ],
+      "headingSample": [
+        "As CEO of our art gallery, I am glad to say that we are committed to displaying a varied selection of modern and historic artworks in our community.",
+        "John Smith,"
+      ],
+      "textSample": "/* ---------------------->swapping the class for padding inner and outer visiblity---start */ /* condition for without curve and with curves on both side (spaces-mobile) */ .revealing-text-img-template--19562841309366__revealing_text_img_UEMMzm { padding-top: 0px; padding-bottom:",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_nl_pages_about/elegance_canvas_myshopify_com_nl_pages_about__section_02.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/pages/elegance_canvas_myshopify_com_nl_pages_about.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/pages/elegance_canvas_myshopify_com_nl_pages_about.json"
+    },
+    {
+      "refId": "elegance_canvas_myshopify_com_nl_pages_about__section_03",
+      "index": 3,
+      "selectorHint": "#shopify-section-template--19562841309366__icons_with_text_tG4CPW",
+      "typeGuess": "editorial-media",
+      "patternTags": [
+        "image-heavy",
+        "slider",
+        "card-grid",
+        "editorial-media"
+      ],
+      "headingSample": [
+        "Expressive Elements",
+        "Seasonal Art Shows",
+        "Artist Workshops"
+      ],
+      "textSample": ".section-template--19562841309366__icons_with_text_tG4CPW-padding { padding-top: 80px; padding-bottom: 80px; } @media screen and (min-width: 768px) { .section-template--19562841309366__icons_with_text_tG4CPW-padding { padding-top: 120px; padding-bottom: 120px; } } @media screen a",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_nl_pages_about/elegance_canvas_myshopify_com_nl_pages_about__section_03.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/pages/elegance_canvas_myshopify_com_nl_pages_about.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/pages/elegance_canvas_myshopify_com_nl_pages_about.json"
+    }
+  ]
+}

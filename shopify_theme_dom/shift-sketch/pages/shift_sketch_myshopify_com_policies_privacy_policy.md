@@ -1,0 +1,73 @@
+# Shopify page scrape
+
+- URL: https://shift-sketch.myshopify.com/policies/privacy-policy
+- Title: Privacy policy – Shift Sketch
+- Body classes: template- template-
+- Custom elements: cart-drawer, cart-drawer-items, header-drawer, header-search, menu-drawer, modal-localization-form, modal-region-selector, predictive-search, shop-cart-sync, sticky-header
+- Headings: Privacy policy | Shop | Shop | Explore | Explore | Legal | Legal | Follow us | Join our Newsletter
+
+## 1. (no id)
+
+- Tag: div
+- Classes: shopify-policy__container
+- Headings: Privacy policy
+
+```html
+<div class="shopify-policy__container">
+  <div class="shopify-policy__title">
+    <h1>Privacy policy</h1>
+  </div>
+
+  <div class="shopify-policy__body">
+    <div class="rte">
+        <p>Last updated: December 22, 2025</p>
+<p>Welcome to Shift. We respect your privacy and want to protect your personal information. This Privacy Policy explains how we collect, use, and disclose your personal data.</p>
+<ol>
+<li>
+<span><strong>Information We Collect</strong></span>
+<ul>
+<li>Personal Data: We collect personal information from you when you purchase products, sign up for newsletters, or register on our site. This may include, but is not limited to, your name, email address, mailing address, and phone number.</li>
+<li>Non-Personal Data: We may collect non-personal identification information about users whenever they interact with our site, like browser name, type of computer, and technical information about users' means of connection to our site.</li>
+</ul>
+</li>
+<li>
+<span><strong>How We Use Your Information</strong></span>
+<ul>
+<li>To process transactions.</li>
+<li>To send periodic emails with updates, promotions, or company news.</li>
+<li>To improve customer service.</li>
+</ul>
+</li>
+<li>
+<span><strong>Protection of Your Information</strong></span>
+<p>We implement security measures to maintain the safety of your personal information when you enter, submit, or access your personal information.</p>
+</li>
+<li>
+<span><strong>Cookies</strong></span>
+<p>Our site may use "cookies" to enhance user experience. Users can choose to set their web browser to refuse cookies or to alert when cookies are being sent.</p>
+</li>
+<li>
+<span><strong>Sharing Your Personal Data</strong></span>
+<p>We do not sell, trade, or rent users' personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information for business purposes.</p>
+</li>
+<li>
+<span><strong>Third-Party Websites</strong></span>
+<p>Users may find advertising or other content on our site that link to the sites and services of our partners, suppliers, advertisers, sponsors, and other third parties. We do not control the content on these sites and are not responsible for the practices of sites linked to or from our website.</p>
+</li>
+<li>
+<span><strong>Changes to this Privacy Policy</strong></span>
+<p>Barcelona may update this Privacy Policy periodically. When we do, we will revise the updated date at the top of this page. We encourage users to frequently check this page for any changes.</p>
+</li>
+<li>
+<span><strong>Your Acceptance of these Terms</strong></span>
+<p>By using this site, you signify your acceptance of this policy. If you do not agree, please do not use our site. Your continued use of the site following changes to this policy will be deemed as your acceptance of those changes.</p>
+</li>
+<li>
+<span><strong>Cookies</strong></span>
+<p>Like many websites, we use Cookies on our Site. For specific information about the Cookies that we use related to powering our store with Shopify, see&nbsp;https://www.shopify.com/legal/cookies. We use Cookies to power and improve our Site and our Services (including to remember your actions and preferences), to run analytics and better understand user interaction with the Services (in our legitimate interests to administer, improve and optimize the Services). We may also permit third parties and services providers to use Cookies on our Site to better tailor the services, products and advertising on our Site and other websites. Most browsers automatically accept Cookies by default, but you can choose to set your browser to remove or reject Cookies through your browser controls. Please keep in mind that removing or blocking Cookies can negatively impact your user experience and may cause some of the Services, including certain features and general functionality, to work incorrectly or no longer be available. Additionally, blocking Cookies may not completely prevent how we share information with third parties such as our advertising partners.</p>
+</li>
+</ol>
+    </div>
+  </div>
+</div>
+```

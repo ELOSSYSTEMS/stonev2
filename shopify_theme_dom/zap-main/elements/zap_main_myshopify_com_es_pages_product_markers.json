@@ -1,0 +1,74 @@
+{
+  "pageUrl": "https://zap-main.myshopify.com/es/pages/product-markers",
+  "pageTitle": "Product markers",
+  "pageSlug": "zap_main_myshopify_com_es_pages_product_markers",
+  "sections": [
+    {
+      "refId": "zap_main_myshopify_com_es_pages_product_markers__section_01",
+      "index": 1,
+      "selectorHint": "#shopify-section-template--26224255467839__main",
+      "typeGuess": "content-section",
+      "patternTags": [
+        "top-of-page",
+        "product-commerce"
+      ],
+      "headingSample": [
+        "Product markers"
+      ],
+      "textSample": ".section-template--26224255467839__main-padding { padding-top: 4rem; padding-bottom: 0; } @media screen and (min-width: 750px) { .section-template--26224255467839__main-padding { padding-top: 5rem; padding-bottom: 0; } } @media screen and (min-width: 1360px) { .section-template--",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_es_pages_product_markers/zap_main_myshopify_com_es_pages_product_markers__section_01.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/pages/zap_main_myshopify_com_es_pages_product_markers.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/pages/zap_main_myshopify_com_es_pages_product_markers.json"
+    },
+    {
+      "refId": "zap_main_myshopify_com_es_pages_product_markers__section_02",
+      "index": 2,
+      "selectorHint": "#shopify-section-template--26224255467839__product_markers_6Hr7kQ",
+      "typeGuess": "product-grid",
+      "patternTags": [
+        "image-heavy",
+        "slider",
+        "cta-cluster",
+        "card-grid",
+        "product-commerce",
+        "editorial-media"
+      ],
+      "headingSample": [
+        "Healthy never tasted this good",
+        "Infusión de miel y limón",
+        "Hibisco rosa",
+        "Refuerzo de jengibre",
+        "Refrescante de menta y lima"
+      ],
+      "textSample": ".section-template--26224255467839__product_markers_6Hr7kQ-padding { padding-top: 5rem; padding-bottom: 5rem; } @media screen and (min-width: 750px) { .section-template--26224255467839__product_markers_6Hr7kQ-padding { padding-top: 7.2rem; padding-bottom: 7.2rem; } } @media screen",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_es_pages_product_markers/zap_main_myshopify_com_es_pages_product_markers__section_02.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/pages/zap_main_myshopify_com_es_pages_product_markers.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/pages/zap_main_myshopify_com_es_pages_product_markers.json"
+    },
+    {
+      "refId": "zap_main_myshopify_com_es_pages_product_markers__section_03",
+      "index": 3,
+      "selectorHint": "#shopify-section-template--26224255467839__product_markers_Pfptfb",
+      "typeGuess": "product-grid",
+      "patternTags": [
+        "image-heavy",
+        "cta-cluster",
+        "card-grid",
+        "product-commerce",
+        "category-navigation",
+        "editorial-media"
+      ],
+      "headingSample": [
+        "Healthy never tasted this good",
+        "Energía original",
+        "Refrescante de menta y lima",
+        "Energía original",
+        "Refrescante de menta y lima"
+      ],
+      "textSample": ".section-template--26224255467839__product_markers_Pfptfb-padding { padding-top: 5rem; padding-bottom: 6.4rem; } @media screen and (min-width: 750px) { .section-template--26224255467839__product_markers_Pfptfb-padding { padding-top: 7.2rem; padding-bottom: 8.8rem; } } @media scre",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_es_pages_product_markers/zap_main_myshopify_com_es_pages_product_markers__section_03.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/pages/zap_main_myshopify_com_es_pages_product_markers.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/pages/zap_main_myshopify_com_es_pages_product_markers.json"
+    }
+  ]
+}

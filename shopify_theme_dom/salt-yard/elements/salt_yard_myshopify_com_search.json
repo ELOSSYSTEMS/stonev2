@@ -1,0 +1,35 @@
+{
+  "pageUrl": "https://salt-yard.myshopify.com/search",
+  "pageTitle": "Search – Symmetry Theme Salt Yard",
+  "pageSlug": "salt_yard_myshopify_com_search",
+  "sections": [
+    {
+      "refId": "salt_yard_myshopify_com_search__section_01",
+      "index": 1,
+      "selectorHint": "div.container.cf",
+      "typeGuess": "hero",
+      "patternTags": [
+        "hero-candidate",
+        "top-of-page",
+        "image-heavy",
+        "slider",
+        "cta-cluster",
+        "product-commerce",
+        "category-navigation",
+        "editorial-media"
+      ],
+      "headingSample": [
+        "Search the store",
+        "Search",
+        "Explore our Collections",
+        "Jackets",
+        "New Arrivals",
+        "Sale"
+      ],
+      "textSample": "#section-id-template--26857880420425__image_with_text_overlay_J4NDgB .height--fixed { --image-height: 320px; } @media (min-width: 768px) { #section-id-template--26857880420425__image_with_text_overlay_J4NDgB .height--fixed { --image-height: 400px; } } #section-id-template--268578",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_search/salt_yard_myshopify_com_search__section_01.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/pages/salt_yard_myshopify_com_search.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/pages/salt_yard_myshopify_com_search.json"
+    }
+  ]
+}

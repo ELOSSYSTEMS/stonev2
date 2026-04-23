@@ -1,0 +1,125 @@
+{
+  "pageUrl": "https://zap-main.myshopify.com/de",
+  "pageTitle": "Zap",
+  "pageSlug": "zap_main_myshopify_com_de",
+  "sections": [
+    {
+      "refId": "zap_main_myshopify_com_de__section_01",
+      "index": 1,
+      "selectorHint": "#shopify-section-template--25743036547391__slideshow",
+      "typeGuess": "hero",
+      "patternTags": [
+        "hero-candidate",
+        "top-of-page",
+        "image-heavy",
+        "slider",
+        "cta-cluster",
+        "product-commerce",
+        "editorial-media"
+      ],
+      "headingSample": [
+        "SUPERKALT",
+        "COOLERKICK",
+        "POWERAROMA"
+      ],
+      "textSample": "#shopify-section-template--25743036547391__slideshow { padding-top: 0; padding-bottom: 0; } @media screen and (min-width: 750px) { #shopify-section-template--25743036547391__slideshow { padding-top: 0; padding-bottom: 0; } } @media screen and (min-width: 1360px) { #shopify-sectio",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_de/zap_main_myshopify_com_de__section_01.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/pages/zap_main_myshopify_com_de.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/pages/zap_main_myshopify_com_de.json"
+    },
+    {
+      "refId": "zap_main_myshopify_com_de__section_02",
+      "index": 2,
+      "selectorHint": "#shopify-section-template--25743036547391__ticker-banner",
+      "typeGuess": "content-section",
+      "patternTags": [
+        "category-navigation"
+      ],
+      "headingSample": [],
+      "textSample": "#shopify-section-template--25743036547391__ticker-banner { padding-top: 0; padding-bottom: 0; } @media screen and (min-width: 750px) { #shopify-section-template--25743036547391__ticker-banner { padding-top: 0; padding-bottom: 0; } } @media screen and (min-width: 1360px) { #shopif",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_de/zap_main_myshopify_com_de__section_02.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/pages/zap_main_myshopify_com_de.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/pages/zap_main_myshopify_com_de.json"
+    },
+    {
+      "refId": "zap_main_myshopify_com_de__section_03",
+      "index": 3,
+      "selectorHint": "#shopify-section-template--25743036547391__popular-products",
+      "typeGuess": "product-grid",
+      "patternTags": [
+        "image-heavy",
+        "slider",
+        "cta-cluster",
+        "card-grid",
+        "product-commerce",
+        "category-navigation",
+        "editorial-media"
+      ],
+      "headingSample": [
+        "Honig-Zitronen-Aufguss",
+        "Erfrischungsgetränk mit Minze und Limette",
+        "Ursprüngliche Energie",
+        "Passion Cooler",
+        "Rosenhibiskus",
+        "Ingwer-Boost"
+      ],
+      "textSample": ".section-template--25743036547391__popular-products-padding { padding-top: 5rem; padding-bottom: 5rem; } @media screen and (min-width: 750px) { .section-template--25743036547391__popular-products-padding { padding-top: 7.2rem; padding-bottom: 7.2rem; } } @media screen and (min-wi",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_de/zap_main_myshopify_com_de__section_03.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/pages/zap_main_myshopify_com_de.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/pages/zap_main_myshopify_com_de.json"
+    },
+    {
+      "refId": "zap_main_myshopify_com_de__section_04",
+      "index": 4,
+      "selectorHint": "#shopify-section-template--25743036547391__image-with-text",
+      "typeGuess": "editorial-media",
+      "patternTags": [
+        "editorial-media"
+      ],
+      "headingSample": [
+        "Hoch Protein",
+        "0-2 g Zucker",
+        "Süß & Lecker"
+      ],
+      "textSample": ".section-template--25743036547391__image-with-text-padding { padding-top: 5rem; padding-bottom: 5rem; } @media screen and (min-width: 750px) { .section-template--25743036547391__image-with-text-padding { padding-top: 7.2rem; padding-bottom: 7.2rem; } } @media screen and (min-widt",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_de/zap_main_myshopify_com_de__section_04.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/pages/zap_main_myshopify_com_de.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/pages/zap_main_myshopify_com_de.json"
+    },
+    {
+      "refId": "zap_main_myshopify_com_de__section_05",
+      "index": 5,
+      "selectorHint": "#shopify-section-template--25743036547391__image-parallax-with-text",
+      "typeGuess": "editorial-media",
+      "patternTags": [
+        "image-heavy",
+        "category-navigation",
+        "editorial-media"
+      ],
+      "headingSample": [
+        "Gebraut für puren Genuss"
+      ],
+      "textSample": ".section-template--25743036547391__image-parallax-with-text-padding { padding-top: 5rem; padding-bottom: 5rem; } @media screen and (min-width: 750px) { .section-template--25743036547391__image-parallax-with-text-padding { padding-top: 7.2rem; padding-bottom: 7.2rem; } } @media sc",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_de/zap_main_myshopify_com_de__section_05.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/pages/zap_main_myshopify_com_de.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/pages/zap_main_myshopify_com_de.json"
+    },
+    {
+      "refId": "zap_main_myshopify_com_de__section_06",
+      "index": 6,
+      "selectorHint": "#shopify-section-template--25743036547391__logo-list",
+      "typeGuess": "editorial-media",
+      "patternTags": [
+        "image-heavy",
+        "slider",
+        "card-grid",
+        "editorial-media"
+      ],
+      "headingSample": [],
+      "textSample": ".section-template--25743036547391__logo-list-padding { padding-top: 0; padding-bottom: 0; } @media screen and (min-width: 750px) { .section-template--25743036547391__logo-list-padding { padding-top: 0; padding-bottom: 0; } } @media screen and (min-width: 1360px) { .section-templa",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_de/zap_main_myshopify_com_de__section_06.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/pages/zap_main_myshopify_com_de.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/pages/zap_main_myshopify_com_de.json"
+    }
+  ]
+}

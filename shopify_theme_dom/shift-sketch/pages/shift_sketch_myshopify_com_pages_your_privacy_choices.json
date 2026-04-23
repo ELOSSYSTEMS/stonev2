@@ -1,0 +1,41 @@
+{
+  "url": "https://shift-sketch.myshopify.com/pages/your-privacy-choices",
+  "title": "Your Privacy Choices – Shift Sketch",
+  "bodyClasses": "template-page template-page",
+  "headings": [
+    "Your Privacy Choices",
+    "Shop",
+    "Shop",
+    "Explore",
+    "Explore",
+    "Legal",
+    "Legal",
+    "Follow us",
+    "Join our Newsletter"
+  ],
+  "customElements": [
+    "cart-drawer",
+    "cart-drawer-items",
+    "header-drawer",
+    "header-search",
+    "menu-drawer",
+    "modal-localization-form",
+    "modal-region-selector",
+    "predictive-search",
+    "shop-cart-sync",
+    "sticky-header"
+  ],
+  "mainOuterHtml": "<main id=\"MainContent\" class=\"content-for-layout focus-none\" role=\"main\" tabindex=\"-1\">\n      <section id=\"shopify-section-template--27266934047095__page_info\" class=\"shopify-section page-section\"><link href=\"//shift-sketch.myshopify.com/cdn/shop/t/2/assets/section-main-page.css?v=122541859386650611581774270656\" rel=\"stylesheet\" type=\"text/css\" media=\"all\">\n\n<div class=\"page-section-wrapper container align-left\">\n  <div class=\"page-header\">\n    <div class=\"page-header__inner\">\n      <h1 class=\"page-header__inner-title h5\">Your Privacy Choices</h1>\n    </div>\n  </div><div class=\"rte\">\n      <p><link rel=\"stylesheet\" type=\"text/css\" href=\"https://cdn.shopify.com/shopifycloud/privacy-banner/data-sale-opt-out.css\"> <meta charset=\"utf-8\"></p>\n<p>As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and similar technologies. We may also share this personal information with third parties, including advertising partners. We do this in order to show you ads on other websites that are more relevant to your interests and for other reasons outlined in our privacy policy.</p>\n<p>Sharing of personal information for targeted advertising based on your interaction on different websites may be considered \"sales\", \"sharing\", or \"targeted advertising\" under certain U.S. state privacy laws. Depending on where you live, you may have the right to opt out of these activities. If you would like to exercise this opt-out right, please follow the instructions below.</p>\n<p>If you visit our website with the Global Privacy Control opt-out preference signal enabled, depending on where you are, we will treat this as a request to opt-out of activity that may be considered a “sale” or “sharing” of personal information or other uses that may be considered targeted advertising for the device and browser you used to visit our website.</p>\n<div id=\"pc--optOutFormContainer\" data-not-applicable=\"To opt out of the &quot;sale&quot; or &quot;sharing&quot; of your personal information collected using cookies and other device-based identifiers as described above, you must be browsing from one of the applicable US states referred to above.\" data-description=\"If you would like to opt out of activity that may be considered a &quot;sale&quot; or &quot;share,&quot; or &quot;targeted advertising&quot;, please submit your email.\" data-email-label=\"Email\" data-success=\"Opted-out successfully\" data-error=\"A problem occurred, try submitting your email again\" data-form-description=\"By clicking “opt out“, the browser on this device will be opted out of sharing personal data. If you select the checkbox and enter an email, the related customer account will also be opted out.\" data-form-email-label=\"Email\" data-form-opt-out-account-label=\"Don't share data from my account (optional)\" data-form-button-text=\"Opt out\" data-form-opted-out=\"The browser on this device is opted out\" data-form-success=\"You have successfully opted out\" data-form-error=\"A problem occurred, please try again\"></div>\n<p>&nbsp;</p>\n    </div></div>\n\n\n</section>\n    </main>",
+  "sections": [
+    {
+      "index": 1,
+      "id": "shopify-section-template--27266934047095__page_info",
+      "tag": "section",
+      "classes": "shopify-section page-section",
+      "headingSample": [
+        "Your Privacy Choices"
+      ],
+      "outerHTML": "<section id=\"shopify-section-template--27266934047095__page_info\" class=\"shopify-section page-section\"><link href=\"//shift-sketch.myshopify.com/cdn/shop/t/2/assets/section-main-page.css?v=122541859386650611581774270656\" rel=\"stylesheet\" type=\"text/css\" media=\"all\">\n\n<div class=\"page-section-wrapper container align-left\">\n  <div class=\"page-header\">\n    <div class=\"page-header__inner\">\n      <h1 class=\"page-header__inner-title h5\">Your Privacy Choices</h1>\n    </div>\n  </div><div class=\"rte\">\n      <p><link rel=\"stylesheet\" type=\"text/css\" href=\"https://cdn.shopify.com/shopifycloud/privacy-banner/data-sale-opt-out.css\"> <meta charset=\"utf-8\"></p>\n<p>As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and similar technologies. We may also share this personal information with third parties, including advertising partners. We do this in order to show you ads on other websites that are more relevant to your interests and for other reasons outlined in our privacy policy.</p>\n<p>Sharing of personal information for targeted advertising based on your interaction on different websites may be considered \"sales\", \"sharing\", or \"targeted advertising\" under certain U.S. state privacy laws. Depending on where you live, you may have the right to opt out of these activities. If you would like to exercise this opt-out right, please follow the instructions below.</p>\n<p>If you visit our website with the Global Privacy Control opt-out preference signal enabled, depending on where you are, we will treat this as a request to opt-out of activity that may be considered a “sale” or “sharing” of personal information or other uses that may be considered targeted advertising for the device and browser you used to visit our website.</p>\n<div id=\"pc--optOutFormContainer\" data-not-applicable=\"To opt out of the &quot;sale&quot; or &quot;sharing&quot; of your personal information collected using cookies and other device-based identifiers as described above, you must be browsing from one of the applicable US states referred to above.\" data-description=\"If you would like to opt out of activity that may be considered a &quot;sale&quot; or &quot;share,&quot; or &quot;targeted advertising&quot;, please submit your email.\" data-email-label=\"Email\" data-success=\"Opted-out successfully\" data-error=\"A problem occurred, try submitting your email again\" data-form-description=\"By clicking “opt out“, the browser on this device will be opted out of sharing personal data. If you select the checkbox and enter an email, the related customer account will also be opted out.\" data-form-email-label=\"Email\" data-form-opt-out-account-label=\"Don't share data from my account (optional)\" data-form-button-text=\"Opt out\" data-form-opted-out=\"The browser on this device is opted out\" data-form-success=\"You have successfully opted out\" data-form-error=\"A problem occurred, please try again\"></div>\n<p>&nbsp;</p>\n    </div></div>\n\n\n</section>"
+    }
+  ]
+}

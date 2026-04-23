@@ -1,0 +1,2336 @@
+{
+  "themeSlug": "elegance-canvas",
+  "url": "https://elegance-canvas.myshopify.com/",
+  "origin": "https://elegance-canvas.myshopify.com",
+  "mode": "full",
+  "clean": true,
+  "screenshots": "home",
+  "discoveredCount": 122,
+  "scrapedCount": 122,
+  "inspirationReferenceCount": 250,
+  "outputDir": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas",
+  "trashedOutput": null,
+  "generatedAt": "2026-04-09T17:55:39.654Z",
+  "pages": [
+    {
+      "url": "https://elegance-canvas.myshopify.com/",
+      "slug": "elegance_canvas_myshopify_com",
+      "title": "Elegance – Elegance-canvas",
+      "type": "home",
+      "headings": [
+        "Cart",
+        "Your cart is empty",
+        "Search",
+        "Menu",
+        "canvas creations bring walls to life",
+        "Search our site",
+        "Expressive Elements",
+        "Artist Workshops"
+      ],
+      "sections": 6,
+      "screenshot": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/screens/elegance_canvas_myshopify_com.png",
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com.json"
+    },
+    {
+      "url": "https://elegance-canvas.myshopify.com/sitemap_products_1.xml",
+      "slug": "elegance_canvas_myshopify_com_sitemap_products_1_xml",
+      "title": "",
+      "type": "other",
+      "headings": [],
+      "sections": 0,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_sitemap_products_1_xml.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_sitemap_products_1_xml.json"
+    },
+    {
+      "url": "https://elegance-canvas.myshopify.com/sitemap_pages_1.xml",
+      "slug": "elegance_canvas_myshopify_com_sitemap_pages_1_xml",
+      "title": "",
+      "type": "other",
+      "headings": [],
+      "sections": 0,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_sitemap_pages_1_xml.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_sitemap_pages_1_xml.json"
+    },
+    {
+      "url": "https://elegance-canvas.myshopify.com/sitemap_collections_1.xml",
+      "slug": "elegance_canvas_myshopify_com_sitemap_collections_1_xml",
+      "title": "",
+      "type": "other",
+      "headings": [],
+      "sections": 0,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_sitemap_collections_1_xml.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_sitemap_collections_1_xml.json"
+    },
+    {
+      "url": "https://elegance-canvas.myshopify.com/sitemap_blogs_1.xml",
+      "slug": "elegance_canvas_myshopify_com_sitemap_blogs_1_xml",
+      "title": "",
+      "type": "other",
+      "headings": [],
+      "sections": 0,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_sitemap_blogs_1_xml.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_sitemap_blogs_1_xml.json"
+    },
+    {
+      "url": "https://elegance-canvas.myshopify.com/fr/sitemap_products_1.xml",
+      "slug": "elegance_canvas_myshopify_com_fr_sitemap_products_1_xml",
+      "title": "",
+      "type": "other",
+      "headings": [],
+      "sections": 0,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_fr_sitemap_products_1_xml.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_fr_sitemap_products_1_xml.json"
+    },
+    {
+      "url": "https://elegance-canvas.myshopify.com/fr/sitemap_pages_1.xml",
+      "slug": "elegance_canvas_myshopify_com_fr_sitemap_pages_1_xml",
+      "title": "",
+      "type": "other",
+      "headings": [],
+      "sections": 0,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_fr_sitemap_pages_1_xml.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_fr_sitemap_pages_1_xml.json"
+    },
+    {
+      "url": "https://elegance-canvas.myshopify.com/fr/sitemap_collections_1.xml",
+      "slug": "elegance_canvas_myshopify_com_fr_sitemap_collections_1_xml",
+      "title": "",
+      "type": "other",
+      "headings": [],
+      "sections": 0,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_fr_sitemap_collections_1_xml.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_fr_sitemap_collections_1_xml.json"
+    },
+    {
+      "url": "https://elegance-canvas.myshopify.com/fr/sitemap_blogs_1.xml",
+      "slug": "elegance_canvas_myshopify_com_fr_sitemap_blogs_1_xml",
+      "title": "",
+      "type": "other",
+      "headings": [],
+      "sections": 0,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_fr_sitemap_blogs_1_xml.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_fr_sitemap_blogs_1_xml.json"
+    },
+    {
+      "url": "https://elegance-canvas.myshopify.com/nl/sitemap_products_1.xml",
+      "slug": "elegance_canvas_myshopify_com_nl_sitemap_products_1_xml",
+      "title": "",
+      "type": "other",
+      "headings": [],
+      "sections": 0,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_nl_sitemap_products_1_xml.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_nl_sitemap_products_1_xml.json"
+    },
+    {
+      "url": "https://elegance-canvas.myshopify.com/nl/sitemap_pages_1.xml",
+      "slug": "elegance_canvas_myshopify_com_nl_sitemap_pages_1_xml",
+      "title": "",
+      "type": "other",
+      "headings": [],
+      "sections": 0,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_nl_sitemap_pages_1_xml.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_nl_sitemap_pages_1_xml.json"
+    },
+    {
+      "url": "https://elegance-canvas.myshopify.com/nl/sitemap_collections_1.xml",
+      "slug": "elegance_canvas_myshopify_com_nl_sitemap_collections_1_xml",
+      "title": "",
+      "type": "other",
+      "headings": [],
+      "sections": 0,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_nl_sitemap_collections_1_xml.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_nl_sitemap_collections_1_xml.json"
+    },
+    {
+      "url": "https://elegance-canvas.myshopify.com/nl/sitemap_blogs_1.xml",
+      "slug": "elegance_canvas_myshopify_com_nl_sitemap_blogs_1_xml",
+      "title": "",
+      "type": "other",
+      "headings": [],
+      "sections": 0,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_nl_sitemap_blogs_1_xml.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_nl_sitemap_blogs_1_xml.json"
+    },
+    {
+      "url": "https://elegance-canvas.myshopify.com/products/girl-plays-the-piano",
+      "slug": "elegance_canvas_myshopify_com_products_girl_plays_the_piano",
+      "title": "Girl plays the piano – Elegance-canvas",
+      "type": "product",
+      "headings": [
+        "Cart",
+        "Your cart is empty",
+        "Search",
+        "Menu",
+        "Girl plays the piano",
+        "Girl plays the piano",
+        "India",
+        "Texas"
+      ],
+      "sections": 3,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_products_girl_plays_the_piano.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_products_girl_plays_the_piano.json"
+    },
+    {
+      "url": "https://elegance-canvas.myshopify.com/products/elegance-gift-card",
+      "slug": "elegance_canvas_myshopify_com_products_elegance_gift_card",
+      "title": "elegance gift card – Elegance-canvas",
+      "type": "product",
+      "headings": [
+        "Cart",
+        "Your cart is empty",
+        "Search",
+        "Menu",
+        "elegance gift card",
+        "Related products",
+        "The White Lady",
+        "Golden Spring"
+      ],
+      "sections": 3,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_products_elegance_gift_card.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_products_elegance_gift_card.json"
+    },
+    {
+      "url": "https://elegance-canvas.myshopify.com/products/moonlit-breeze",
+      "slug": "elegance_canvas_myshopify_com_products_moonlit_breeze",
+      "title": "Moonlit Breeze – Elegance-canvas",
+      "type": "product",
+      "headings": [
+        "Cart",
+        "Your cart is empty",
+        "Search",
+        "Menu",
+        "Moonlit Breeze",
+        "Moonlit Breeze",
+        "India",
+        "Related products"
+      ],
+      "sections": 3,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_products_moonlit_breeze.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_products_moonlit_breeze.json"
+    },
+    {
+      "url": "https://elegance-canvas.myshopify.com/products/graceful-beauty",
+      "slug": "elegance_canvas_myshopify_com_products_graceful_beauty",
+      "title": "Graceful Beauty – Elegance-canvas",
+      "type": "product",
+      "headings": [
+        "Cart",
+        "Your cart is empty",
+        "Search",
+        "Menu",
+        "Graceful Beauty",
+        "Graceful Beauty",
+        "India",
+        "Related products"
+      ],
+      "sections": 3,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_products_graceful_beauty.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_products_graceful_beauty.json"
+    },
+    {
+      "url": "https://elegance-canvas.myshopify.com/products/mona-s-coffee",
+      "slug": "elegance_canvas_myshopify_com_products_mona_s_coffee",
+      "title": "Mona’s Coffee – Elegance-canvas",
+      "type": "product",
+      "headings": [
+        "Cart",
+        "Your cart is empty",
+        "Search",
+        "Menu",
+        "Mona’s Coffee",
+        "Mona’s Coffee",
+        "India",
+        "Texas"
+      ],
+      "sections": 3,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_products_mona_s_coffee.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_products_mona_s_coffee.json"
+    },
+    {
+      "url": "https://elegance-canvas.myshopify.com/products/the-rebel-music",
+      "slug": "elegance_canvas_myshopify_com_products_the_rebel_music",
+      "title": "The Rebel Music – Elegance-canvas",
+      "type": "product",
+      "headings": [
+        "Cart",
+        "Your cart is empty",
+        "Search",
+        "Menu",
+        "The Rebel Music",
+        "The Rebel Music",
+        "India",
+        "Related products"
+      ],
+      "sections": 3,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_products_the_rebel_music.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_products_the_rebel_music.json"
+    },
+    {
+      "url": "https://elegance-canvas.myshopify.com/products/the-geisha-s-grace",
+      "slug": "elegance_canvas_myshopify_com_products_the_geisha_s_grace",
+      "title": "The Geisha’s Grace – Elegance-canvas",
+      "type": "product",
+      "headings": [
+        "Cart",
+        "Your cart is empty",
+        "Search",
+        "Menu",
+        "The Geisha’s Grace",
+        "The Geisha’s Grace",
+        "India",
+        "Related products"
+      ],
+      "sections": 3,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_products_the_geisha_s_grace.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_products_the_geisha_s_grace.json"
+    },
+    {
+      "url": "https://elegance-canvas.myshopify.com/products/timeless-reflection",
+      "slug": "elegance_canvas_myshopify_com_products_timeless_reflection",
+      "title": "Timeless Reflection – Elegance-canvas",
+      "type": "product",
+      "headings": [
+        "Cart",
+        "Your cart is empty",
+        "Search",
+        "Menu",
+        "Timeless Reflection",
+        "Timeless Reflection",
+        "India",
+        "Texas"
+      ],
+      "sections": 3,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_products_timeless_reflection.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_products_timeless_reflection.json"
+    },
+    {
+      "url": "https://elegance-canvas.myshopify.com/products/music-and-dreams",
+      "slug": "elegance_canvas_myshopify_com_products_music_and_dreams",
+      "title": "Music And Dreams – Elegance-canvas",
+      "type": "product",
+      "headings": [
+        "Cart",
+        "Your cart is empty",
+        "Search",
+        "Menu",
+        "Music And Dreams",
+        "Music And Dreams",
+        "India",
+        "Related products"
+      ],
+      "sections": 3,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_products_music_and_dreams.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_products_music_and_dreams.json"
+    },
+    {
+      "url": "https://elegance-canvas.myshopify.com/products/mystic-echoes",
+      "slug": "elegance_canvas_myshopify_com_products_mystic_echoes",
+      "title": "Mystic Echoes – Elegance-canvas",
+      "type": "product",
+      "headings": [
+        "Cart",
+        "Your cart is empty",
+        "Search",
+        "Menu",
+        "Mystic Echoes",
+        "Mystic Echoes",
+        "India",
+        "Related products"
+      ],
+      "sections": 3,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_products_mystic_echoes.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_products_mystic_echoes.json"
+    },
+    {
+      "url": "https://elegance-canvas.myshopify.com/products/the-ballet-beauty",
+      "slug": "elegance_canvas_myshopify_com_products_the_ballet_beauty",
+      "title": "The Ballet Beauty – Elegance-canvas",
+      "type": "product",
+      "headings": [
+        "Cart",
+        "Your cart is empty",
+        "Search",
+        "Menu",
+        "The Ballet Beauty",
+        "The Ballet Beauty",
+        "India",
+        "Related products"
+      ],
+      "sections": 3,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_products_the_ballet_beauty.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_products_the_ballet_beauty.json"
+    },
+    {
+      "url": "https://elegance-canvas.myshopify.com/products/soul-loneliness",
+      "slug": "elegance_canvas_myshopify_com_products_soul_loneliness",
+      "title": "Soul & Loneliness – Elegance-canvas",
+      "type": "product",
+      "headings": [
+        "Cart",
+        "Your cart is empty",
+        "Search",
+        "Menu",
+        "Soul & Loneliness",
+        "Soul & Loneliness",
+        "India",
+        "Related products"
+      ],
+      "sections": 3,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_products_soul_loneliness.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_products_soul_loneliness.json"
+    },
+    {
+      "url": "https://elegance-canvas.myshopify.com/products/friendly-blossoms",
+      "slug": "elegance_canvas_myshopify_com_products_friendly_blossoms",
+      "title": "Friendly Blossoms – Elegance-canvas",
+      "type": "product",
+      "headings": [
+        "Cart",
+        "Your cart is empty",
+        "Search",
+        "Menu",
+        "Friendly Blossoms",
+        "Friendly Blossoms",
+        "India",
+        "Related products"
+      ],
+      "sections": 3,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_products_friendly_blossoms.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_products_friendly_blossoms.json"
+    },
+    {
+      "url": "https://elegance-canvas.myshopify.com/products/song-of-the-soul",
+      "slug": "elegance_canvas_myshopify_com_products_song_of_the_soul",
+      "title": "Song Of The Soul – Elegance-canvas",
+      "type": "product",
+      "headings": [
+        "Cart",
+        "Your cart is empty",
+        "Search",
+        "Menu",
+        "Song Of The Soul",
+        "Song Of The Soul",
+        "India",
+        "Texas"
+      ],
+      "sections": 3,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_products_song_of_the_soul.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_products_song_of_the_soul.json"
+    },
+    {
+      "url": "https://elegance-canvas.myshopify.com/products/smart-fairy-girl",
+      "slug": "elegance_canvas_myshopify_com_products_smart_fairy_girl",
+      "title": "Smart Fairy Girl – Elegance-canvas",
+      "type": "product",
+      "headings": [
+        "Cart",
+        "Your cart is empty",
+        "Search",
+        "Menu",
+        "Smart Fairy Girl",
+        "Smart Fairy Girl",
+        "India",
+        "Related products"
+      ],
+      "sections": 3,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_products_smart_fairy_girl.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_products_smart_fairy_girl.json"
+    },
+    {
+      "url": "https://elegance-canvas.myshopify.com/products/mermaid-secrets",
+      "slug": "elegance_canvas_myshopify_com_products_mermaid_secrets",
+      "title": "Mermaid Secrets – Elegance-canvas",
+      "type": "product",
+      "headings": [
+        "Cart",
+        "Your cart is empty",
+        "Search",
+        "Menu",
+        "Mermaid Secrets",
+        "Mermaid Secrets",
+        "India",
+        "Related products"
+      ],
+      "sections": 3,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_products_mermaid_secrets.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_products_mermaid_secrets.json"
+    },
+    {
+      "url": "https://elegance-canvas.myshopify.com/products/golden-spring",
+      "slug": "elegance_canvas_myshopify_com_products_golden_spring",
+      "title": "Golden Spring – Elegance-canvas",
+      "type": "product",
+      "headings": [
+        "Cart",
+        "Your cart is empty",
+        "Search",
+        "Menu",
+        "Golden Spring",
+        "Golden Spring",
+        "India",
+        "Texas"
+      ],
+      "sections": 3,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_products_golden_spring.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_products_golden_spring.json"
+    },
+    {
+      "url": "https://elegance-canvas.myshopify.com/products/the-white-lady",
+      "slug": "elegance_canvas_myshopify_com_products_the_white_lady",
+      "title": "The White Lady – Elegance-canvas",
+      "type": "product",
+      "headings": [
+        "Cart",
+        "Your cart is empty",
+        "Search",
+        "Menu",
+        "The White Lady",
+        "The White Lady",
+        "India",
+        "Related products"
+      ],
+      "sections": 3,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_products_the_white_lady.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_products_the_white_lady.json"
+    },
+    {
+      "url": "https://elegance-canvas.myshopify.com/products/the-village-journey",
+      "slug": "elegance_canvas_myshopify_com_products_the_village_journey",
+      "title": "The Village Journey – Elegance-canvas",
+      "type": "product",
+      "headings": [
+        "Cart",
+        "Your cart is empty",
+        "Search",
+        "Menu",
+        "The Village Journey",
+        "The Village Journey",
+        "India",
+        "Texas"
+      ],
+      "sections": 3,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_products_the_village_journey.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_products_the_village_journey.json"
+    },
+    {
+      "url": "https://elegance-canvas.myshopify.com/products/digital-harmony",
+      "slug": "elegance_canvas_myshopify_com_products_digital_harmony",
+      "title": "Digital Harmony – Elegance-canvas",
+      "type": "product",
+      "headings": [
+        "Cart",
+        "Your cart is empty",
+        "Search",
+        "Menu",
+        "Digital Harmony",
+        "Digital Harmony",
+        "India",
+        "Related products"
+      ],
+      "sections": 3,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_products_digital_harmony.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_products_digital_harmony.json"
+    },
+    {
+      "url": "https://elegance-canvas.myshopify.com/pages/contact",
+      "slug": "elegance_canvas_myshopify_com_pages_contact",
+      "title": "Contact – Elegance-canvas",
+      "type": "page",
+      "headings": [
+        "Cart",
+        "Your cart is empty",
+        "Search",
+        "Menu",
+        "Contact",
+        "Reach Out for an Exploration of Creative Art Works",
+        "Join our creative community"
+      ],
+      "sections": 1,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_pages_contact.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_pages_contact.json"
+    },
+    {
+      "url": "https://elegance-canvas.myshopify.com/pages/about",
+      "slug": "elegance_canvas_myshopify_com_pages_about",
+      "title": "About – Elegance-canvas",
+      "type": "page",
+      "headings": [
+        "Cart",
+        "Your cart is empty",
+        "Search",
+        "Menu",
+        "About",
+        "89K",
+        "10m",
+        "2K"
+      ],
+      "sections": 3,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_pages_about.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_pages_about.json"
+    },
+    {
+      "url": "https://elegance-canvas.myshopify.com/pages/faqs",
+      "slug": "elegance_canvas_myshopify_com_pages_faqs",
+      "title": "Faq – Elegance-canvas",
+      "type": "page",
+      "headings": [
+        "Cart",
+        "Your cart is empty",
+        "Search",
+        "Menu",
+        "Faq",
+        "Where Art Meets Heart",
+        "Do you offer guided tours of the gallery?",
+        "What are the gallery's opening hours?"
+      ],
+      "sections": 1,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_pages_faqs.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_pages_faqs.json"
+    },
+    {
+      "url": "https://elegance-canvas.myshopify.com/collections/framed-art-prints",
+      "slug": "elegance_canvas_myshopify_com_collections_framed_art_prints",
+      "title": "Framed Art Prints – Elegance-canvas",
+      "type": "collection",
+      "headings": [
+        "Cart",
+        "Your cart is empty",
+        "Search",
+        "Menu",
+        "Framed Art Prints",
+        "The Ballet Beauty",
+        "Digital Harmony",
+        "Moonlit Breeze"
+      ],
+      "sections": 1,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_collections_framed_art_prints.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_collections_framed_art_prints.json"
+    },
+    {
+      "url": "https://elegance-canvas.myshopify.com/collections/pro-art-series",
+      "slug": "elegance_canvas_myshopify_com_collections_pro_art_series",
+      "title": "Pro Art Series – Elegance-canvas",
+      "type": "collection",
+      "headings": [
+        "Cart",
+        "Your cart is empty",
+        "Search",
+        "Menu",
+        "Pro Art Series",
+        "Moonlit Breeze",
+        "Graceful Beauty",
+        "Mona’s Coffee"
+      ],
+      "sections": 1,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_collections_pro_art_series.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_collections_pro_art_series.json"
+    },
+    {
+      "url": "https://elegance-canvas.myshopify.com/collections/abstract-adventures",
+      "slug": "elegance_canvas_myshopify_com_collections_abstract_adventures",
+      "title": "Abstract Adventures – Elegance-canvas",
+      "type": "collection",
+      "headings": [
+        "Cart",
+        "Your cart is empty",
+        "Search",
+        "Menu",
+        "Abstract Adventures",
+        "The Ballet Beauty",
+        "The Geisha’s Grace",
+        "The Rebel Music"
+      ],
+      "sections": 1,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_collections_abstract_adventures.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_collections_abstract_adventures.json"
+    },
+    {
+      "url": "https://elegance-canvas.myshopify.com/collections/masterpiece-moments",
+      "slug": "elegance_canvas_myshopify_com_collections_masterpiece_moments",
+      "title": "Masterpiece Moments – Elegance-canvas",
+      "type": "collection",
+      "headings": [
+        "Cart",
+        "Your cart is empty",
+        "Search",
+        "Menu",
+        "Masterpiece Moments",
+        "Digital Harmony",
+        "Friendly Blossoms",
+        "Golden Spring"
+      ],
+      "sections": 1,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_collections_masterpiece_moments.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_collections_masterpiece_moments.json"
+    },
+    {
+      "url": "https://elegance-canvas.myshopify.com/blogs/news",
+      "slug": "elegance_canvas_myshopify_com_blogs_news",
+      "title": "Journal – Elegance-canvas",
+      "type": "blog",
+      "headings": [
+        "Cart",
+        "Your cart is empty",
+        "Search",
+        "Menu",
+        "Journal",
+        "Color Theory Explained: Choosing the Perfect Palette",
+        "How to Combine Paint with Other Artforms?",
+        "Exploring the intersection between art and community"
+      ],
+      "sections": 1,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_blogs_news.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_blogs_news.json"
+    },
+    {
+      "url": "https://elegance-canvas.myshopify.com/blogs/news/the-history-of-painting-from-cave-art-to-today",
+      "slug": "elegance_canvas_myshopify_com_blogs_news_the_history_of_painting_from_cave_art_to_today",
+      "title": "The History of Painting: From Cave Art to Today – Elegance-canvas",
+      "type": "article",
+      "headings": [
+        "Cart",
+        "Your cart is empty",
+        "Search",
+        "Menu",
+        "The History of Painting: From Cave Art to Today",
+        "The History of Painting: From Cave Art to Today",
+        "Gracefully Texturing your painting surfaces.",
+        "Mixed media may provide distinct textures and depth in your paintings and art."
+      ],
+      "sections": 1,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_blogs_news_the_history_of_painting_from_cave_art_to_today.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_blogs_news_the_history_of_painting_from_cave_art_to_today.json"
+    },
+    {
+      "url": "https://elegance-canvas.myshopify.com/blogs/news/how-to-combine-paint-with-other-artforms",
+      "slug": "elegance_canvas_myshopify_com_blogs_news_how_to_combine_paint_with_other_artforms",
+      "title": "How to Combine Paint with Other Artforms? – Elegance-canvas",
+      "type": "article",
+      "headings": [
+        "Cart",
+        "Your cart is empty",
+        "Search",
+        "Menu",
+        "How to Combine Paint with Other Artforms?",
+        "How to Combine Paint with Other Artforms?",
+        "Gracefully Texturing your painting surfaces.",
+        "Mixed media may provide distinct textures and depth in your paintings and art."
+      ],
+      "sections": 1,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_blogs_news_how_to_combine_paint_with_other_artforms.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_blogs_news_how_to_combine_paint_with_other_artforms.json"
+    },
+    {
+      "url": "https://elegance-canvas.myshopify.com/blogs/news/creative-techniques-for-adding-depth-to-your-paintings",
+      "slug": "elegance_canvas_myshopify_com_blogs_news_creative_techniques_for_adding_depth_to_your_paintings",
+      "title": "Creative Techniques for Adding Depth to Your Paintings – Elegance-canvas",
+      "type": "article",
+      "headings": [
+        "Cart",
+        "Your cart is empty",
+        "Search",
+        "Menu",
+        "Creative Techniques for Adding Depth to Your Paintings",
+        "Creative Techniques for Adding Depth to Your Paintings",
+        "Gracefully Texturing your painting surfaces.",
+        "Mixed media may provide distinct textures and depth in your paintings and art."
+      ],
+      "sections": 1,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_blogs_news_creative_techniques_for_adding_depth_to_your_paintings.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_blogs_news_creative_techniques_for_adding_depth_to_your_paintings.json"
+    },
+    {
+      "url": "https://elegance-canvas.myshopify.com/blogs/news/color-theory-explained-choosing-the-perfect-palette",
+      "slug": "elegance_canvas_myshopify_com_blogs_news_color_theory_explained_choosing_the_perfect_palette",
+      "title": "Color Theory Explained: Choosing the Perfect Palette – Elegance-canvas",
+      "type": "article",
+      "headings": [
+        "Cart",
+        "Your cart is empty",
+        "Search",
+        "Menu",
+        "Color Theory Explained: Choosing the Perfect Palette",
+        "Color Theory Explained: Choosing the Perfect Palette",
+        "Gracefully Texturing your painting surfaces.",
+        "Mixed media may provide distinct textures and depth in your paintings and art."
+      ],
+      "sections": 1,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_blogs_news_color_theory_explained_choosing_the_perfect_palette.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_blogs_news_color_theory_explained_choosing_the_perfect_palette.json"
+    },
+    {
+      "url": "https://elegance-canvas.myshopify.com/blogs/news/the-art-of-balance-discovering-harmony-in-life-and-work",
+      "slug": "elegance_canvas_myshopify_com_blogs_news_the_art_of_balance_discovering_harmony_in_life_and_work",
+      "title": "The Art of Balance: Discovering Harmony in Life and Work – Elegance-canvas",
+      "type": "article",
+      "headings": [
+        "Cart",
+        "Your cart is empty",
+        "Search",
+        "Menu",
+        "The Art of Balance: Discovering Harmony in Life and Work",
+        "The Art of Balance: Discovering Harmony in Life and Work",
+        "Gracefully Texturing your painting surfaces.",
+        "Mixed media may provide distinct textures and depth in your paintings and art."
+      ],
+      "sections": 1,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_blogs_news_the_art_of_balance_discovering_harmony_in_life_and_work.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_blogs_news_the_art_of_balance_discovering_harmony_in_life_and_work.json"
+    },
+    {
+      "url": "https://elegance-canvas.myshopify.com/blogs/news/exploring-the-intersection-between-art-and-community",
+      "slug": "elegance_canvas_myshopify_com_blogs_news_exploring_the_intersection_between_art_and_community",
+      "title": "Exploring the intersection between art and community – Elegance-canvas",
+      "type": "article",
+      "headings": [
+        "Cart",
+        "Your cart is empty",
+        "Search",
+        "Menu",
+        "Exploring the intersection between art and community",
+        "Exploring the intersection between art and community",
+        "Gracefully Texturing your painting surfaces.",
+        "Mixed media may provide distinct textures and depth in your paintings and art."
+      ],
+      "sections": 1,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_blogs_news_exploring_the_intersection_between_art_and_community.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_blogs_news_exploring_the_intersection_between_art_and_community.json"
+    },
+    {
+      "url": "https://elegance-canvas.myshopify.com/fr",
+      "slug": "elegance_canvas_myshopify_com_fr",
+      "title": "Élégance – Elegance-canvas",
+      "type": "other",
+      "headings": [
+        "Votre panier",
+        "Votre panier est vide",
+        "Recherche",
+        "Menu",
+        "canvas creations bring walls to life",
+        "Search our site",
+        "Expressive Elements",
+        "Artist Workshops"
+      ],
+      "sections": 6,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_fr.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_fr.json"
+    },
+    {
+      "url": "https://elegance-canvas.myshopify.com/fr/products/girl-plays-the-piano",
+      "slug": "elegance_canvas_myshopify_com_fr_products_girl_plays_the_piano",
+      "title": "Fille joue du piano – Elegance-canvas",
+      "type": "other",
+      "headings": [
+        "Votre panier",
+        "Votre panier est vide",
+        "Recherche",
+        "Menu",
+        "Fille joue du piano",
+        "Fille joue du piano",
+        "India",
+        "Texas"
+      ],
+      "sections": 3,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_fr_products_girl_plays_the_piano.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_fr_products_girl_plays_the_piano.json"
+    },
+    {
+      "url": "https://elegance-canvas.myshopify.com/fr/products/elegance-gift-card",
+      "slug": "elegance_canvas_myshopify_com_fr_products_elegance_gift_card",
+      "title": "carte cadeau élégance – Elegance-canvas",
+      "type": "other",
+      "headings": [
+        "Votre panier",
+        "Votre panier est vide",
+        "Recherche",
+        "Menu",
+        "carte cadeau élégance",
+        "Related products",
+        "La Dame Blanche",
+        "Golden Spring"
+      ],
+      "sections": 3,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_fr_products_elegance_gift_card.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_fr_products_elegance_gift_card.json"
+    },
+    {
+      "url": "https://elegance-canvas.myshopify.com/fr/products/moonlit-breeze",
+      "slug": "elegance_canvas_myshopify_com_fr_products_moonlit_breeze",
+      "title": "Brise au clair de lune – Elegance-canvas",
+      "type": "other",
+      "headings": [
+        "Votre panier",
+        "Votre panier est vide",
+        "Recherche",
+        "Menu",
+        "Brise au clair de lune",
+        "Brise au clair de lune",
+        "India",
+        "Related products"
+      ],
+      "sections": 3,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_fr_products_moonlit_breeze.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_fr_products_moonlit_breeze.json"
+    },
+    {
+      "url": "https://elegance-canvas.myshopify.com/fr/products/graceful-beauty",
+      "slug": "elegance_canvas_myshopify_com_fr_products_graceful_beauty",
+      "title": "Beauté gracieuse – Elegance-canvas",
+      "type": "other",
+      "headings": [
+        "Votre panier",
+        "Votre panier est vide",
+        "Recherche",
+        "Menu",
+        "Beauté gracieuse",
+        "Beauté gracieuse",
+        "India",
+        "Related products"
+      ],
+      "sections": 3,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_fr_products_graceful_beauty.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_fr_products_graceful_beauty.json"
+    },
+    {
+      "url": "https://elegance-canvas.myshopify.com/fr/products/mona-s-coffee",
+      "slug": "elegance_canvas_myshopify_com_fr_products_mona_s_coffee",
+      "title": "Le café de Mona – Elegance-canvas",
+      "type": "other",
+      "headings": [
+        "Votre panier",
+        "Votre panier est vide",
+        "Recherche",
+        "Menu",
+        "Le café de Mona",
+        "Le café de Mona",
+        "India",
+        "Texas"
+      ],
+      "sections": 3,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_fr_products_mona_s_coffee.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_fr_products_mona_s_coffee.json"
+    },
+    {
+      "url": "https://elegance-canvas.myshopify.com/fr/products/the-rebel-music",
+      "slug": "elegance_canvas_myshopify_com_fr_products_the_rebel_music",
+      "title": "La musique rebelle – Elegance-canvas",
+      "type": "other",
+      "headings": [
+        "Votre panier",
+        "Votre panier est vide",
+        "Recherche",
+        "Menu",
+        "La musique rebelle",
+        "La musique rebelle",
+        "India",
+        "Related products"
+      ],
+      "sections": 3,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_fr_products_the_rebel_music.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_fr_products_the_rebel_music.json"
+    },
+    {
+      "url": "https://elegance-canvas.myshopify.com/fr/products/the-geisha-s-grace",
+      "slug": "elegance_canvas_myshopify_com_fr_products_the_geisha_s_grace",
+      "title": "La grâce de la geisha – Elegance-canvas",
+      "type": "other",
+      "headings": [
+        "Votre panier",
+        "Votre panier est vide",
+        "Recherche",
+        "Menu",
+        "La grâce de la geisha",
+        "La grâce de la geisha",
+        "India",
+        "Related products"
+      ],
+      "sections": 3,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_fr_products_the_geisha_s_grace.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_fr_products_the_geisha_s_grace.json"
+    },
+    {
+      "url": "https://elegance-canvas.myshopify.com/fr/products/timeless-reflection",
+      "slug": "elegance_canvas_myshopify_com_fr_products_timeless_reflection",
+      "title": "Réflexion intemporelle – Elegance-canvas",
+      "type": "other",
+      "headings": [
+        "Votre panier",
+        "Votre panier est vide",
+        "Recherche",
+        "Menu",
+        "Réflexion intemporelle",
+        "Réflexion intemporelle",
+        "India",
+        "Texas"
+      ],
+      "sections": 3,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_fr_products_timeless_reflection.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_fr_products_timeless_reflection.json"
+    },
+    {
+      "url": "https://elegance-canvas.myshopify.com/fr/products/music-and-dreams",
+      "slug": "elegance_canvas_myshopify_com_fr_products_music_and_dreams",
+      "title": "Musique et rêves – Elegance-canvas",
+      "type": "other",
+      "headings": [
+        "Votre panier",
+        "Votre panier est vide",
+        "Recherche",
+        "Menu",
+        "Musique et rêves",
+        "Musique et rêves",
+        "India",
+        "Related products"
+      ],
+      "sections": 3,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_fr_products_music_and_dreams.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_fr_products_music_and_dreams.json"
+    },
+    {
+      "url": "https://elegance-canvas.myshopify.com/fr/products/mystic-echoes",
+      "slug": "elegance_canvas_myshopify_com_fr_products_mystic_echoes",
+      "title": "Échos mystiques – Elegance-canvas",
+      "type": "other",
+      "headings": [
+        "Votre panier",
+        "Votre panier est vide",
+        "Recherche",
+        "Menu",
+        "Échos mystiques",
+        "Échos mystiques",
+        "India",
+        "Related products"
+      ],
+      "sections": 3,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_fr_products_mystic_echoes.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_fr_products_mystic_echoes.json"
+    },
+    {
+      "url": "https://elegance-canvas.myshopify.com/fr/products/the-ballet-beauty",
+      "slug": "elegance_canvas_myshopify_com_fr_products_the_ballet_beauty",
+      "title": "La beauté du ballet – Elegance-canvas",
+      "type": "other",
+      "headings": [
+        "Votre panier",
+        "Votre panier est vide",
+        "Recherche",
+        "Menu",
+        "La beauté du ballet",
+        "La beauté du ballet",
+        "India",
+        "Related products"
+      ],
+      "sections": 3,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_fr_products_the_ballet_beauty.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_fr_products_the_ballet_beauty.json"
+    },
+    {
+      "url": "https://elegance-canvas.myshopify.com/fr/products/soul-loneliness",
+      "slug": "elegance_canvas_myshopify_com_fr_products_soul_loneliness",
+      "title": "Âme et solitude – Elegance-canvas",
+      "type": "other",
+      "headings": [
+        "Votre panier",
+        "Votre panier est vide",
+        "Recherche",
+        "Menu",
+        "Âme et solitude",
+        "Âme et solitude",
+        "India",
+        "Related products"
+      ],
+      "sections": 3,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_fr_products_soul_loneliness.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_fr_products_soul_loneliness.json"
+    },
+    {
+      "url": "https://elegance-canvas.myshopify.com/fr/products/friendly-blossoms",
+      "slug": "elegance_canvas_myshopify_com_fr_products_friendly_blossoms",
+      "title": "Fleurs amicales – Elegance-canvas",
+      "type": "other",
+      "headings": [
+        "Votre panier",
+        "Votre panier est vide",
+        "Recherche",
+        "Menu",
+        "Fleurs amicales",
+        "Fleurs amicales",
+        "India",
+        "Related products"
+      ],
+      "sections": 3,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_fr_products_friendly_blossoms.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_fr_products_friendly_blossoms.json"
+    },
+    {
+      "url": "https://elegance-canvas.myshopify.com/fr/products/song-of-the-soul",
+      "slug": "elegance_canvas_myshopify_com_fr_products_song_of_the_soul",
+      "title": "Chant de l'âme – Elegance-canvas",
+      "type": "other",
+      "headings": [
+        "Votre panier",
+        "Votre panier est vide",
+        "Recherche",
+        "Menu",
+        "Chant de l'âme",
+        "Chant de l'âme",
+        "India",
+        "Texas"
+      ],
+      "sections": 3,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_fr_products_song_of_the_soul.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_fr_products_song_of_the_soul.json"
+    },
+    {
+      "url": "https://elegance-canvas.myshopify.com/fr/products/smart-fairy-girl",
+      "slug": "elegance_canvas_myshopify_com_fr_products_smart_fairy_girl",
+      "title": "Fille fée intelligente – Elegance-canvas",
+      "type": "other",
+      "headings": [
+        "Votre panier",
+        "Votre panier est vide",
+        "Recherche",
+        "Menu",
+        "Fille fée intelligente",
+        "Fille fée intelligente",
+        "India",
+        "Related products"
+      ],
+      "sections": 3,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_fr_products_smart_fairy_girl.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_fr_products_smart_fairy_girl.json"
+    },
+    {
+      "url": "https://elegance-canvas.myshopify.com/fr/products/mermaid-secrets",
+      "slug": "elegance_canvas_myshopify_com_fr_products_mermaid_secrets",
+      "title": "Les secrets des sirènes – Elegance-canvas",
+      "type": "other",
+      "headings": [
+        "Votre panier",
+        "Votre panier est vide",
+        "Recherche",
+        "Menu",
+        "Les secrets des sirènes",
+        "Les secrets des sirènes",
+        "India",
+        "Related products"
+      ],
+      "sections": 3,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_fr_products_mermaid_secrets.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_fr_products_mermaid_secrets.json"
+    },
+    {
+      "url": "https://elegance-canvas.myshopify.com/fr/products/golden-spring",
+      "slug": "elegance_canvas_myshopify_com_fr_products_golden_spring",
+      "title": "Golden Spring – Elegance-canvas",
+      "type": "other",
+      "headings": [
+        "Votre panier",
+        "Votre panier est vide",
+        "Recherche",
+        "Menu",
+        "Golden Spring",
+        "Golden Spring",
+        "India",
+        "Texas"
+      ],
+      "sections": 3,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_fr_products_golden_spring.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_fr_products_golden_spring.json"
+    },
+    {
+      "url": "https://elegance-canvas.myshopify.com/fr/products/the-white-lady",
+      "slug": "elegance_canvas_myshopify_com_fr_products_the_white_lady",
+      "title": "La Dame Blanche – Elegance-canvas",
+      "type": "other",
+      "headings": [
+        "Votre panier",
+        "Votre panier est vide",
+        "Recherche",
+        "Menu",
+        "La Dame Blanche",
+        "La Dame Blanche",
+        "India",
+        "Related products"
+      ],
+      "sections": 3,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_fr_products_the_white_lady.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_fr_products_the_white_lady.json"
+    },
+    {
+      "url": "https://elegance-canvas.myshopify.com/fr/products/the-village-journey",
+      "slug": "elegance_canvas_myshopify_com_fr_products_the_village_journey",
+      "title": "Le voyage au village – Elegance-canvas",
+      "type": "other",
+      "headings": [
+        "Votre panier",
+        "Votre panier est vide",
+        "Recherche",
+        "Menu",
+        "Le voyage au village",
+        "Le voyage au village",
+        "India",
+        "Texas"
+      ],
+      "sections": 3,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_fr_products_the_village_journey.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_fr_products_the_village_journey.json"
+    },
+    {
+      "url": "https://elegance-canvas.myshopify.com/fr/products/digital-harmony",
+      "slug": "elegance_canvas_myshopify_com_fr_products_digital_harmony",
+      "title": "Harmonie numérique – Elegance-canvas",
+      "type": "other",
+      "headings": [
+        "Votre panier",
+        "Votre panier est vide",
+        "Recherche",
+        "Menu",
+        "Harmonie numérique",
+        "Harmonie numérique",
+        "India",
+        "Related products"
+      ],
+      "sections": 3,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_fr_products_digital_harmony.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_fr_products_digital_harmony.json"
+    },
+    {
+      "url": "https://elegance-canvas.myshopify.com/fr/pages/contact",
+      "slug": "elegance_canvas_myshopify_com_fr_pages_contact",
+      "title": "Contact – Elegance-canvas",
+      "type": "other",
+      "headings": [
+        "Votre panier",
+        "Votre panier est vide",
+        "Recherche",
+        "Menu",
+        "Contact",
+        "Reach Out for an Exploration of Creative Art Works",
+        "Join our creative community"
+      ],
+      "sections": 1,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_fr_pages_contact.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_fr_pages_contact.json"
+    },
+    {
+      "url": "https://elegance-canvas.myshopify.com/fr/pages/about",
+      "slug": "elegance_canvas_myshopify_com_fr_pages_about",
+      "title": "À propos – Elegance-canvas",
+      "type": "other",
+      "headings": [
+        "Votre panier",
+        "Votre panier est vide",
+        "Recherche",
+        "Menu",
+        "À propos",
+        "89K",
+        "10m",
+        "2K"
+      ],
+      "sections": 3,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_fr_pages_about.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_fr_pages_about.json"
+    },
+    {
+      "url": "https://elegance-canvas.myshopify.com/fr/pages/faqs",
+      "slug": "elegance_canvas_myshopify_com_fr_pages_faqs",
+      "title": "FAQ – Elegance-canvas",
+      "type": "other",
+      "headings": [
+        "Votre panier",
+        "Votre panier est vide",
+        "Recherche",
+        "Menu",
+        "FAQ",
+        "Where Art Meets Heart",
+        "Do you offer guided tours of the gallery?",
+        "What are the gallery's opening hours?"
+      ],
+      "sections": 1,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_fr_pages_faqs.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_fr_pages_faqs.json"
+    },
+    {
+      "url": "https://elegance-canvas.myshopify.com/fr/collections/framed-art-prints",
+      "slug": "elegance_canvas_myshopify_com_fr_collections_framed_art_prints",
+      "title": "Estampes encadrées – Elegance-canvas",
+      "type": "other",
+      "headings": [
+        "Votre panier",
+        "Votre panier est vide",
+        "Recherche",
+        "Menu",
+        "Estampes encadrées",
+        "La beauté du ballet",
+        "Harmonie numérique",
+        "Brise au clair de lune"
+      ],
+      "sections": 1,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_fr_collections_framed_art_prints.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_fr_collections_framed_art_prints.json"
+    },
+    {
+      "url": "https://elegance-canvas.myshopify.com/fr/collections/pro-art-series",
+      "slug": "elegance_canvas_myshopify_com_fr_collections_pro_art_series",
+      "title": "Série Pro Art – Elegance-canvas",
+      "type": "other",
+      "headings": [
+        "Votre panier",
+        "Votre panier est vide",
+        "Recherche",
+        "Menu",
+        "Série Pro Art",
+        "Brise au clair de lune",
+        "Beauté gracieuse",
+        "Le café de Mona"
+      ],
+      "sections": 1,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_fr_collections_pro_art_series.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_fr_collections_pro_art_series.json"
+    },
+    {
+      "url": "https://elegance-canvas.myshopify.com/fr/collections/abstract-adventures",
+      "slug": "elegance_canvas_myshopify_com_fr_collections_abstract_adventures",
+      "title": "Aventures abstraites – Elegance-canvas",
+      "type": "other",
+      "headings": [
+        "Votre panier",
+        "Votre panier est vide",
+        "Recherche",
+        "Menu",
+        "Aventures abstraites",
+        "La beauté du ballet",
+        "La grâce de la geisha",
+        "La musique rebelle"
+      ],
+      "sections": 1,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_fr_collections_abstract_adventures.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_fr_collections_abstract_adventures.json"
+    },
+    {
+      "url": "https://elegance-canvas.myshopify.com/fr/collections/masterpiece-moments",
+      "slug": "elegance_canvas_myshopify_com_fr_collections_masterpiece_moments",
+      "title": "Moments de chefs-d'œuvre – Elegance-canvas",
+      "type": "other",
+      "headings": [
+        "Votre panier",
+        "Votre panier est vide",
+        "Recherche",
+        "Menu",
+        "Moments de chefs-d'œuvre",
+        "Harmonie numérique",
+        "Fleurs amicales",
+        "Golden Spring"
+      ],
+      "sections": 1,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_fr_collections_masterpiece_moments.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_fr_collections_masterpiece_moments.json"
+    },
+    {
+      "url": "https://elegance-canvas.myshopify.com/fr/blogs/news",
+      "slug": "elegance_canvas_myshopify_com_fr_blogs_news",
+      "title": "Journal – Elegance-canvas",
+      "type": "other",
+      "headings": [
+        "Votre panier",
+        "Votre panier est vide",
+        "Recherche",
+        "Menu",
+        "Journal",
+        "Explication de la théorie des couleurs : choisir la palette parfaite",
+        "Comment combiner la peinture avec d'autres formes d'art ?",
+        "Explorer le point de rencontre entre l'art et la communauté"
+      ],
+      "sections": 1,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_fr_blogs_news.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_fr_blogs_news.json"
+    },
+    {
+      "url": "https://elegance-canvas.myshopify.com/fr/blogs/news/the-history-of-painting-from-cave-art-to-today",
+      "slug": "elegance_canvas_myshopify_com_fr_blogs_news_the_history_of_painting_from_cave_art_to_today",
+      "title": "L'histoire de la peinture : de l'art rupestre à nos jours – Elegance-canvas",
+      "type": "other",
+      "headings": [
+        "Votre panier",
+        "Votre panier est vide",
+        "Recherche",
+        "Menu",
+        "L'histoire de la peinture : de l'art rupestre à nos jours",
+        "L'histoire de la peinture : de l'art rupestre à nos jours",
+        "Texturiser avec élégance vos surfaces picturales.",
+        "Les techniques mixtes peuvent apporter des textures et une profondeur distinctes à vos peintures et à vos œuvres d'art."
+      ],
+      "sections": 1,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_fr_blogs_news_the_history_of_painting_from_cave_art_to_today.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_fr_blogs_news_the_history_of_painting_from_cave_art_to_today.json"
+    },
+    {
+      "url": "https://elegance-canvas.myshopify.com/fr/blogs/news/how-to-combine-paint-with-other-artforms",
+      "slug": "elegance_canvas_myshopify_com_fr_blogs_news_how_to_combine_paint_with_other_artforms",
+      "title": "Comment combiner la peinture avec d'autres formes d'art ? – Elegance-canvas",
+      "type": "other",
+      "headings": [
+        "Votre panier",
+        "Votre panier est vide",
+        "Recherche",
+        "Menu",
+        "Comment combiner la peinture avec d'autres formes d'art ?",
+        "Comment combiner la peinture avec d'autres formes d'art ?",
+        "Texturiser avec élégance vos surfaces picturales.",
+        "Les techniques mixtes peuvent apporter des textures et une profondeur distinctes à vos peintures et à vos œuvres d'art."
+      ],
+      "sections": 1,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_fr_blogs_news_how_to_combine_paint_with_other_artforms.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_fr_blogs_news_how_to_combine_paint_with_other_artforms.json"
+    },
+    {
+      "url": "https://elegance-canvas.myshopify.com/fr/blogs/news/creative-techniques-for-adding-depth-to-your-paintings",
+      "slug": "elegance_canvas_myshopify_com_fr_blogs_news_creative_techniques_for_adding_depth_to_your_paintings",
+      "title": "Techniques créatives pour donner de la profondeur à vos peintures – Elegance-canvas",
+      "type": "other",
+      "headings": [
+        "Votre panier",
+        "Votre panier est vide",
+        "Recherche",
+        "Menu",
+        "Techniques créatives pour donner de la profondeur à vos peintures",
+        "Techniques créatives pour donner de la profondeur à vos peintures",
+        "Texturiser avec élégance vos surfaces picturales.",
+        "Les techniques mixtes peuvent apporter des textures et une profondeur distinctes à vos peintures et à vos œuvres d'art."
+      ],
+      "sections": 1,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_fr_blogs_news_creative_techniques_for_adding_depth_to_your_paintings.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_fr_blogs_news_creative_techniques_for_adding_depth_to_your_paintings.json"
+    },
+    {
+      "url": "https://elegance-canvas.myshopify.com/fr/blogs/news/color-theory-explained-choosing-the-perfect-palette",
+      "slug": "elegance_canvas_myshopify_com_fr_blogs_news_color_theory_explained_choosing_the_perfect_palette",
+      "title": "Explication de la théorie des couleurs : choisir la palette parfaite – Elegance-canvas",
+      "type": "other",
+      "headings": [
+        "Votre panier",
+        "Votre panier est vide",
+        "Recherche",
+        "Menu",
+        "Explication de la théorie des couleurs : choisir la palette parfaite",
+        "Explication de la théorie des couleurs : choisir la palette parfaite",
+        "Texturiser avec élégance vos surfaces picturales.",
+        "Les techniques mixtes peuvent apporter des textures et une profondeur distinctes à vos peintures et à vos œuvres d'art."
+      ],
+      "sections": 1,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_fr_blogs_news_color_theory_explained_choosing_the_perfect_palette.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_fr_blogs_news_color_theory_explained_choosing_the_perfect_palette.json"
+    },
+    {
+      "url": "https://elegance-canvas.myshopify.com/fr/blogs/news/the-art-of-balance-discovering-harmony-in-life-and-work",
+      "slug": "elegance_canvas_myshopify_com_fr_blogs_news_the_art_of_balance_discovering_harmony_in_life_and_work",
+      "title": "L'art de l'équilibre : découvrir l'harmonie dans la vie et le travail – Elegance-canvas",
+      "type": "other",
+      "headings": [
+        "Votre panier",
+        "Votre panier est vide",
+        "Recherche",
+        "Menu",
+        "L'art de l'équilibre : découvrir l'harmonie dans la vie et le travail",
+        "L'art de l'équilibre : découvrir l'harmonie dans la vie et le travail",
+        "Texturiser avec élégance vos surfaces picturales.",
+        "Les techniques mixtes peuvent apporter des textures et une profondeur distinctes à vos peintures et à vos œuvres d'art."
+      ],
+      "sections": 1,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_fr_blogs_news_the_art_of_balance_discovering_harmony_in_life_and_work.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_fr_blogs_news_the_art_of_balance_discovering_harmony_in_life_and_work.json"
+    },
+    {
+      "url": "https://elegance-canvas.myshopify.com/fr/blogs/news/exploring-the-intersection-between-art-and-community",
+      "slug": "elegance_canvas_myshopify_com_fr_blogs_news_exploring_the_intersection_between_art_and_community",
+      "title": "Explorer le point de rencontre entre l'art et la communauté – Elegance-canvas",
+      "type": "other",
+      "headings": [
+        "Votre panier",
+        "Votre panier est vide",
+        "Recherche",
+        "Menu",
+        "Explorer le point de rencontre entre l'art et la communauté",
+        "Explorer le point de rencontre entre l'art et la communauté",
+        "Texturiser avec élégance vos surfaces picturales.",
+        "Les techniques mixtes peuvent apporter des textures et une profondeur distinctes à vos peintures et à vos œuvres d'art."
+      ],
+      "sections": 1,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_fr_blogs_news_exploring_the_intersection_between_art_and_community.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_fr_blogs_news_exploring_the_intersection_between_art_and_community.json"
+    },
+    {
+      "url": "https://elegance-canvas.myshopify.com/nl",
+      "slug": "elegance_canvas_myshopify_com_nl",
+      "title": "Elegantie – Elegance-canvas",
+      "type": "other",
+      "headings": [
+        "Winkelwagen",
+        "Je winkelwagen is leeg.",
+        "Zoekopdracht",
+        "Menu",
+        "canvas creations bring walls to life",
+        "Search our site",
+        "Expressive Elements",
+        "Artist Workshops"
+      ],
+      "sections": 6,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_nl.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_nl.json"
+    },
+    {
+      "url": "https://elegance-canvas.myshopify.com/nl/products/girl-plays-the-piano",
+      "slug": "elegance_canvas_myshopify_com_nl_products_girl_plays_the_piano",
+      "title": "Meisje speelt piano – Elegance-canvas",
+      "type": "other",
+      "headings": [
+        "Winkelwagen",
+        "Je winkelwagen is leeg.",
+        "Zoekopdracht",
+        "Menu",
+        "Meisje speelt piano",
+        "Meisje speelt piano",
+        "India",
+        "Texas"
+      ],
+      "sections": 3,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_nl_products_girl_plays_the_piano.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_nl_products_girl_plays_the_piano.json"
+    },
+    {
+      "url": "https://elegance-canvas.myshopify.com/nl/products/elegance-gift-card",
+      "slug": "elegance_canvas_myshopify_com_nl_products_elegance_gift_card",
+      "title": "elegantie cadeaukaart – Elegance-canvas",
+      "type": "other",
+      "headings": [
+        "Winkelwagen",
+        "Je winkelwagen is leeg.",
+        "Zoekopdracht",
+        "Menu",
+        "elegantie cadeaukaart",
+        "Related products",
+        "De Witte Dame",
+        "Gouden Lente"
+      ],
+      "sections": 3,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_nl_products_elegance_gift_card.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_nl_products_elegance_gift_card.json"
+    },
+    {
+      "url": "https://elegance-canvas.myshopify.com/nl/products/moonlit-breeze",
+      "slug": "elegance_canvas_myshopify_com_nl_products_moonlit_breeze",
+      "title": "Maanlichtbries – Elegance-canvas",
+      "type": "other",
+      "headings": [
+        "Winkelwagen",
+        "Je winkelwagen is leeg.",
+        "Zoekopdracht",
+        "Menu",
+        "Maanlichtbries",
+        "Maanlichtbries",
+        "India",
+        "Related products"
+      ],
+      "sections": 3,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_nl_products_moonlit_breeze.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_nl_products_moonlit_breeze.json"
+    },
+    {
+      "url": "https://elegance-canvas.myshopify.com/nl/products/graceful-beauty",
+      "slug": "elegance_canvas_myshopify_com_nl_products_graceful_beauty",
+      "title": "Sierlijke schoonheid – Elegance-canvas",
+      "type": "other",
+      "headings": [
+        "Winkelwagen",
+        "Je winkelwagen is leeg.",
+        "Zoekopdracht",
+        "Menu",
+        "Sierlijke schoonheid",
+        "Sierlijke schoonheid",
+        "India",
+        "Related products"
+      ],
+      "sections": 3,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_nl_products_graceful_beauty.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_nl_products_graceful_beauty.json"
+    },
+    {
+      "url": "https://elegance-canvas.myshopify.com/nl/products/mona-s-coffee",
+      "slug": "elegance_canvas_myshopify_com_nl_products_mona_s_coffee",
+      "title": "Mona's Koffie – Elegance-canvas",
+      "type": "other",
+      "headings": [
+        "Winkelwagen",
+        "Je winkelwagen is leeg.",
+        "Zoekopdracht",
+        "Menu",
+        "Mona's Koffie",
+        "Mona's Koffie",
+        "India",
+        "Texas"
+      ],
+      "sections": 3,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_nl_products_mona_s_coffee.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_nl_products_mona_s_coffee.json"
+    },
+    {
+      "url": "https://elegance-canvas.myshopify.com/nl/products/the-rebel-music",
+      "slug": "elegance_canvas_myshopify_com_nl_products_the_rebel_music",
+      "title": "De Rebelse Muziek – Elegance-canvas",
+      "type": "other",
+      "headings": [
+        "Winkelwagen",
+        "Je winkelwagen is leeg.",
+        "Zoekopdracht",
+        "Menu",
+        "De Rebelse Muziek",
+        "De Rebelse Muziek",
+        "India",
+        "Related products"
+      ],
+      "sections": 3,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_nl_products_the_rebel_music.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_nl_products_the_rebel_music.json"
+    },
+    {
+      "url": "https://elegance-canvas.myshopify.com/nl/products/the-geisha-s-grace",
+      "slug": "elegance_canvas_myshopify_com_nl_products_the_geisha_s_grace",
+      "title": "De genade van de geisha – Elegance-canvas",
+      "type": "other",
+      "headings": [
+        "Winkelwagen",
+        "Je winkelwagen is leeg.",
+        "Zoekopdracht",
+        "Menu",
+        "De genade van de geisha",
+        "De genade van de geisha",
+        "India",
+        "Related products"
+      ],
+      "sections": 3,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_nl_products_the_geisha_s_grace.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_nl_products_the_geisha_s_grace.json"
+    },
+    {
+      "url": "https://elegance-canvas.myshopify.com/nl/products/timeless-reflection",
+      "slug": "elegance_canvas_myshopify_com_nl_products_timeless_reflection",
+      "title": "Tijdloze reflectie – Elegance-canvas",
+      "type": "other",
+      "headings": [
+        "Winkelwagen",
+        "Je winkelwagen is leeg.",
+        "Zoekopdracht",
+        "Menu",
+        "Tijdloze reflectie",
+        "Tijdloze reflectie",
+        "India",
+        "Texas"
+      ],
+      "sections": 3,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_nl_products_timeless_reflection.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_nl_products_timeless_reflection.json"
+    },
+    {
+      "url": "https://elegance-canvas.myshopify.com/nl/products/music-and-dreams",
+      "slug": "elegance_canvas_myshopify_com_nl_products_music_and_dreams",
+      "title": "Muziek en dromen – Elegance-canvas",
+      "type": "other",
+      "headings": [
+        "Winkelwagen",
+        "Je winkelwagen is leeg.",
+        "Zoekopdracht",
+        "Menu",
+        "Muziek en dromen",
+        "Muziek en dromen",
+        "India",
+        "Related products"
+      ],
+      "sections": 3,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_nl_products_music_and_dreams.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_nl_products_music_and_dreams.json"
+    },
+    {
+      "url": "https://elegance-canvas.myshopify.com/nl/products/mystic-echoes",
+      "slug": "elegance_canvas_myshopify_com_nl_products_mystic_echoes",
+      "title": "Mystieke Echo's – Elegance-canvas",
+      "type": "other",
+      "headings": [
+        "Winkelwagen",
+        "Je winkelwagen is leeg.",
+        "Zoekopdracht",
+        "Menu",
+        "Mystieke Echo's",
+        "Mystieke Echo's",
+        "India",
+        "Related products"
+      ],
+      "sections": 3,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_nl_products_mystic_echoes.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_nl_products_mystic_echoes.json"
+    },
+    {
+      "url": "https://elegance-canvas.myshopify.com/nl/products/the-ballet-beauty",
+      "slug": "elegance_canvas_myshopify_com_nl_products_the_ballet_beauty",
+      "title": "De ballet schoonheid – Elegance-canvas",
+      "type": "other",
+      "headings": [
+        "Winkelwagen",
+        "Je winkelwagen is leeg.",
+        "Zoekopdracht",
+        "Menu",
+        "De ballet schoonheid",
+        "De ballet schoonheid",
+        "India",
+        "Related products"
+      ],
+      "sections": 3,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_nl_products_the_ballet_beauty.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_nl_products_the_ballet_beauty.json"
+    },
+    {
+      "url": "https://elegance-canvas.myshopify.com/nl/products/soul-loneliness",
+      "slug": "elegance_canvas_myshopify_com_nl_products_soul_loneliness",
+      "title": "Ziel en eenzaamheid – Elegance-canvas",
+      "type": "other",
+      "headings": [
+        "Winkelwagen",
+        "Je winkelwagen is leeg.",
+        "Zoekopdracht",
+        "Menu",
+        "Ziel en eenzaamheid",
+        "Ziel en eenzaamheid",
+        "India",
+        "Related products"
+      ],
+      "sections": 3,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_nl_products_soul_loneliness.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_nl_products_soul_loneliness.json"
+    },
+    {
+      "url": "https://elegance-canvas.myshopify.com/nl/products/friendly-blossoms",
+      "slug": "elegance_canvas_myshopify_com_nl_products_friendly_blossoms",
+      "title": "Vriendelijke bloesems – Elegance-canvas",
+      "type": "other",
+      "headings": [
+        "Winkelwagen",
+        "Je winkelwagen is leeg.",
+        "Zoekopdracht",
+        "Menu",
+        "Vriendelijke bloesems",
+        "Vriendelijke bloesems",
+        "India",
+        "Related products"
+      ],
+      "sections": 3,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_nl_products_friendly_blossoms.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_nl_products_friendly_blossoms.json"
+    },
+    {
+      "url": "https://elegance-canvas.myshopify.com/nl/products/song-of-the-soul",
+      "slug": "elegance_canvas_myshopify_com_nl_products_song_of_the_soul",
+      "title": "Lied van de Ziel – Elegance-canvas",
+      "type": "other",
+      "headings": [
+        "Winkelwagen",
+        "Je winkelwagen is leeg.",
+        "Zoekopdracht",
+        "Menu",
+        "Lied van de Ziel",
+        "Lied van de Ziel",
+        "India",
+        "Texas"
+      ],
+      "sections": 3,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_nl_products_song_of_the_soul.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_nl_products_song_of_the_soul.json"
+    },
+    {
+      "url": "https://elegance-canvas.myshopify.com/nl/products/smart-fairy-girl",
+      "slug": "elegance_canvas_myshopify_com_nl_products_smart_fairy_girl",
+      "title": "Slimme Feeënmeisje – Elegance-canvas",
+      "type": "other",
+      "headings": [
+        "Winkelwagen",
+        "Je winkelwagen is leeg.",
+        "Zoekopdracht",
+        "Menu",
+        "Slimme Feeënmeisje",
+        "Slimme Feeënmeisje",
+        "India",
+        "Related products"
+      ],
+      "sections": 3,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_nl_products_smart_fairy_girl.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_nl_products_smart_fairy_girl.json"
+    },
+    {
+      "url": "https://elegance-canvas.myshopify.com/nl/products/mermaid-secrets",
+      "slug": "elegance_canvas_myshopify_com_nl_products_mermaid_secrets",
+      "title": "Zeemeermingeheimen – Elegance-canvas",
+      "type": "other",
+      "headings": [
+        "Winkelwagen",
+        "Je winkelwagen is leeg.",
+        "Zoekopdracht",
+        "Menu",
+        "Zeemeermingeheimen",
+        "Zeemeermingeheimen",
+        "India",
+        "Related products"
+      ],
+      "sections": 3,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_nl_products_mermaid_secrets.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_nl_products_mermaid_secrets.json"
+    },
+    {
+      "url": "https://elegance-canvas.myshopify.com/nl/products/golden-spring",
+      "slug": "elegance_canvas_myshopify_com_nl_products_golden_spring",
+      "title": "Gouden Lente – Elegance-canvas",
+      "type": "other",
+      "headings": [
+        "Winkelwagen",
+        "Je winkelwagen is leeg.",
+        "Zoekopdracht",
+        "Menu",
+        "Gouden Lente",
+        "Gouden Lente",
+        "India",
+        "Texas"
+      ],
+      "sections": 3,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_nl_products_golden_spring.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_nl_products_golden_spring.json"
+    },
+    {
+      "url": "https://elegance-canvas.myshopify.com/nl/products/the-white-lady",
+      "slug": "elegance_canvas_myshopify_com_nl_products_the_white_lady",
+      "title": "De Witte Dame – Elegance-canvas",
+      "type": "other",
+      "headings": [
+        "Winkelwagen",
+        "Je winkelwagen is leeg.",
+        "Zoekopdracht",
+        "Menu",
+        "De Witte Dame",
+        "De Witte Dame",
+        "India",
+        "Related products"
+      ],
+      "sections": 3,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_nl_products_the_white_lady.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_nl_products_the_white_lady.json"
+    },
+    {
+      "url": "https://elegance-canvas.myshopify.com/nl/products/the-village-journey",
+      "slug": "elegance_canvas_myshopify_com_nl_products_the_village_journey",
+      "title": "De Dorpsreis – Elegance-canvas",
+      "type": "other",
+      "headings": [
+        "Winkelwagen",
+        "Je winkelwagen is leeg.",
+        "Zoekopdracht",
+        "Menu",
+        "De Dorpsreis",
+        "De Dorpsreis",
+        "India",
+        "Texas"
+      ],
+      "sections": 3,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_nl_products_the_village_journey.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_nl_products_the_village_journey.json"
+    },
+    {
+      "url": "https://elegance-canvas.myshopify.com/nl/products/digital-harmony",
+      "slug": "elegance_canvas_myshopify_com_nl_products_digital_harmony",
+      "title": "Digitale Harmonie – Elegance-canvas",
+      "type": "other",
+      "headings": [
+        "Winkelwagen",
+        "Je winkelwagen is leeg.",
+        "Zoekopdracht",
+        "Menu",
+        "Digitale Harmonie",
+        "Digitale Harmonie",
+        "India",
+        "Related products"
+      ],
+      "sections": 3,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_nl_products_digital_harmony.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_nl_products_digital_harmony.json"
+    },
+    {
+      "url": "https://elegance-canvas.myshopify.com/nl/pages/contact",
+      "slug": "elegance_canvas_myshopify_com_nl_pages_contact",
+      "title": "Contact – Elegance-canvas",
+      "type": "other",
+      "headings": [
+        "Winkelwagen",
+        "Je winkelwagen is leeg.",
+        "Zoekopdracht",
+        "Menu",
+        "Contact",
+        "Reach Out for an Exploration of Creative Art Works",
+        "Join our creative community"
+      ],
+      "sections": 1,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_nl_pages_contact.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_nl_pages_contact.json"
+    },
+    {
+      "url": "https://elegance-canvas.myshopify.com/nl/pages/about",
+      "slug": "elegance_canvas_myshopify_com_nl_pages_about",
+      "title": "Over – Elegance-canvas",
+      "type": "other",
+      "headings": [
+        "Winkelwagen",
+        "Je winkelwagen is leeg.",
+        "Zoekopdracht",
+        "Menu",
+        "Over",
+        "89K",
+        "10m",
+        "2K"
+      ],
+      "sections": 3,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_nl_pages_about.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_nl_pages_about.json"
+    },
+    {
+      "url": "https://elegance-canvas.myshopify.com/nl/pages/faqs",
+      "slug": "elegance_canvas_myshopify_com_nl_pages_faqs",
+      "title": "Veelgestelde vragen – Elegance-canvas",
+      "type": "other",
+      "headings": [
+        "Winkelwagen",
+        "Je winkelwagen is leeg.",
+        "Zoekopdracht",
+        "Menu",
+        "Veelgestelde vragen",
+        "Where Art Meets Heart",
+        "Do you offer guided tours of the gallery?",
+        "What are the gallery's opening hours?"
+      ],
+      "sections": 1,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_nl_pages_faqs.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_nl_pages_faqs.json"
+    },
+    {
+      "url": "https://elegance-canvas.myshopify.com/nl/collections/framed-art-prints",
+      "slug": "elegance_canvas_myshopify_com_nl_collections_framed_art_prints",
+      "title": "Ingelijste kunstprints – Elegance-canvas",
+      "type": "other",
+      "headings": [
+        "Winkelwagen",
+        "Je winkelwagen is leeg.",
+        "Zoekopdracht",
+        "Menu",
+        "Ingelijste kunstprints",
+        "De ballet schoonheid",
+        "Digitale Harmonie",
+        "Maanlichtbries"
+      ],
+      "sections": 1,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_nl_collections_framed_art_prints.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_nl_collections_framed_art_prints.json"
+    },
+    {
+      "url": "https://elegance-canvas.myshopify.com/nl/collections/pro-art-series",
+      "slug": "elegance_canvas_myshopify_com_nl_collections_pro_art_series",
+      "title": "Pro Art-serie – Elegance-canvas",
+      "type": "other",
+      "headings": [
+        "Winkelwagen",
+        "Je winkelwagen is leeg.",
+        "Zoekopdracht",
+        "Menu",
+        "Pro Art-serie",
+        "Maanlichtbries",
+        "Sierlijke schoonheid",
+        "Mona's Koffie"
+      ],
+      "sections": 1,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_nl_collections_pro_art_series.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_nl_collections_pro_art_series.json"
+    },
+    {
+      "url": "https://elegance-canvas.myshopify.com/nl/collections/abstract-adventures",
+      "slug": "elegance_canvas_myshopify_com_nl_collections_abstract_adventures",
+      "title": "Abstracte Avonturen – Elegance-canvas",
+      "type": "other",
+      "headings": [
+        "Winkelwagen",
+        "Je winkelwagen is leeg.",
+        "Zoekopdracht",
+        "Menu",
+        "Abstracte Avonturen",
+        "De ballet schoonheid",
+        "De genade van de geisha",
+        "De Rebelse Muziek"
+      ],
+      "sections": 1,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_nl_collections_abstract_adventures.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_nl_collections_abstract_adventures.json"
+    },
+    {
+      "url": "https://elegance-canvas.myshopify.com/nl/collections/masterpiece-moments",
+      "slug": "elegance_canvas_myshopify_com_nl_collections_masterpiece_moments",
+      "title": "Meesterlijke momenten – Elegance-canvas",
+      "type": "other",
+      "headings": [
+        "Winkelwagen",
+        "Je winkelwagen is leeg.",
+        "Zoekopdracht",
+        "Menu",
+        "Meesterlijke momenten",
+        "Digitale Harmonie",
+        "Vriendelijke bloesems",
+        "Gouden Lente"
+      ],
+      "sections": 1,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_nl_collections_masterpiece_moments.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_nl_collections_masterpiece_moments.json"
+    },
+    {
+      "url": "https://elegance-canvas.myshopify.com/nl/blogs/news",
+      "slug": "elegance_canvas_myshopify_com_nl_blogs_news",
+      "title": "Tijdschrift – Elegance-canvas",
+      "type": "other",
+      "headings": [
+        "Winkelwagen",
+        "Je winkelwagen is leeg.",
+        "Zoekopdracht",
+        "Menu",
+        "Tijdschrift",
+        "Kleurentheorie uitgelegd: het perfecte kleurenpalet kiezen",
+        "Hoe combineer je schilderen met andere kunstvormen?",
+        "Het snijvlak tussen kunst en gemeenschap verkennen"
+      ],
+      "sections": 1,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_nl_blogs_news.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_nl_blogs_news.json"
+    },
+    {
+      "url": "https://elegance-canvas.myshopify.com/nl/blogs/news/the-history-of-painting-from-cave-art-to-today",
+      "slug": "elegance_canvas_myshopify_com_nl_blogs_news_the_history_of_painting_from_cave_art_to_today",
+      "title": "De geschiedenis van de schilderkunst: van grotkunst tot nu. – Elegance-canvas",
+      "type": "other",
+      "headings": [
+        "Winkelwagen",
+        "Je winkelwagen is leeg.",
+        "Zoekopdracht",
+        "Menu",
+        "De geschiedenis van de schilderkunst: van grotkunst tot nu.",
+        "De geschiedenis van de schilderkunst: van grotkunst tot nu.",
+        "Geef uw schilderoppervlakken een elegante textuur.",
+        "Gemengde technieken kunnen zorgen voor unieke texturen en diepte in je schilderijen en kunstwerken."
+      ],
+      "sections": 1,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_nl_blogs_news_the_history_of_painting_from_cave_art_to_today.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_nl_blogs_news_the_history_of_painting_from_cave_art_to_today.json"
+    },
+    {
+      "url": "https://elegance-canvas.myshopify.com/nl/blogs/news/how-to-combine-paint-with-other-artforms",
+      "slug": "elegance_canvas_myshopify_com_nl_blogs_news_how_to_combine_paint_with_other_artforms",
+      "title": "Hoe combineer je schilderen met andere kunstvormen? – Elegance-canvas",
+      "type": "other",
+      "headings": [
+        "Winkelwagen",
+        "Je winkelwagen is leeg.",
+        "Zoekopdracht",
+        "Menu",
+        "Hoe combineer je schilderen met andere kunstvormen?",
+        "Hoe combineer je schilderen met andere kunstvormen?",
+        "Geef uw schilderoppervlakken een elegante textuur.",
+        "Gemengde technieken kunnen zorgen voor unieke texturen en diepte in je schilderijen en kunstwerken."
+      ],
+      "sections": 1,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_nl_blogs_news_how_to_combine_paint_with_other_artforms.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_nl_blogs_news_how_to_combine_paint_with_other_artforms.json"
+    },
+    {
+      "url": "https://elegance-canvas.myshopify.com/nl/blogs/news/creative-techniques-for-adding-depth-to-your-paintings",
+      "slug": "elegance_canvas_myshopify_com_nl_blogs_news_creative_techniques_for_adding_depth_to_your_paintings",
+      "title": "Creatieve technieken om diepte aan je schilderijen toe te voegen – Elegance-canvas",
+      "type": "other",
+      "headings": [
+        "Winkelwagen",
+        "Je winkelwagen is leeg.",
+        "Zoekopdracht",
+        "Menu",
+        "Creatieve technieken om diepte aan je schilderijen toe te voegen",
+        "Creatieve technieken om diepte aan je schilderijen toe te voegen",
+        "Geef uw schilderoppervlakken een elegante textuur.",
+        "Gemengde technieken kunnen zorgen voor unieke texturen en diepte in je schilderijen en kunstwerken."
+      ],
+      "sections": 1,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_nl_blogs_news_creative_techniques_for_adding_depth_to_your_paintings.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_nl_blogs_news_creative_techniques_for_adding_depth_to_your_paintings.json"
+    },
+    {
+      "url": "https://elegance-canvas.myshopify.com/nl/blogs/news/color-theory-explained-choosing-the-perfect-palette",
+      "slug": "elegance_canvas_myshopify_com_nl_blogs_news_color_theory_explained_choosing_the_perfect_palette",
+      "title": "Kleurentheorie uitgelegd: het perfecte kleurenpalet kiezen – Elegance-canvas",
+      "type": "other",
+      "headings": [
+        "Winkelwagen",
+        "Je winkelwagen is leeg.",
+        "Zoekopdracht",
+        "Menu",
+        "Kleurentheorie uitgelegd: het perfecte kleurenpalet kiezen",
+        "Kleurentheorie uitgelegd: het perfecte kleurenpalet kiezen",
+        "Geef uw schilderoppervlakken een elegante textuur.",
+        "Gemengde technieken kunnen zorgen voor unieke texturen en diepte in je schilderijen en kunstwerken."
+      ],
+      "sections": 1,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_nl_blogs_news_color_theory_explained_choosing_the_perfect_palette.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_nl_blogs_news_color_theory_explained_choosing_the_perfect_palette.json"
+    },
+    {
+      "url": "https://elegance-canvas.myshopify.com/nl/blogs/news/the-art-of-balance-discovering-harmony-in-life-and-work",
+      "slug": "elegance_canvas_myshopify_com_nl_blogs_news_the_art_of_balance_discovering_harmony_in_life_and_work",
+      "title": "De kunst van het evenwicht: harmonie vinden in leven en werk – Elegance-canvas",
+      "type": "other",
+      "headings": [
+        "Winkelwagen",
+        "Je winkelwagen is leeg.",
+        "Zoekopdracht",
+        "Menu",
+        "De kunst van het evenwicht: harmonie vinden in leven en werk",
+        "De kunst van het evenwicht: harmonie vinden in leven en werk",
+        "Geef uw schilderoppervlakken een elegante textuur.",
+        "Gemengde technieken kunnen zorgen voor unieke texturen en diepte in je schilderijen en kunstwerken."
+      ],
+      "sections": 1,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_nl_blogs_news_the_art_of_balance_discovering_harmony_in_life_and_work.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_nl_blogs_news_the_art_of_balance_discovering_harmony_in_life_and_work.json"
+    },
+    {
+      "url": "https://elegance-canvas.myshopify.com/nl/blogs/news/exploring-the-intersection-between-art-and-community",
+      "slug": "elegance_canvas_myshopify_com_nl_blogs_news_exploring_the_intersection_between_art_and_community",
+      "title": "Het snijvlak tussen kunst en gemeenschap verkennen – Elegance-canvas",
+      "type": "other",
+      "headings": [
+        "Winkelwagen",
+        "Je winkelwagen is leeg.",
+        "Zoekopdracht",
+        "Menu",
+        "Het snijvlak tussen kunst en gemeenschap verkennen",
+        "Het snijvlak tussen kunst en gemeenschap verkennen",
+        "Geef uw schilderoppervlakken een elegante textuur.",
+        "Gemengde technieken kunnen zorgen voor unieke texturen en diepte in je schilderijen en kunstwerken."
+      ],
+      "sections": 1,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_nl_blogs_news_exploring_the_intersection_between_art_and_community.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_nl_blogs_news_exploring_the_intersection_between_art_and_community.json"
+    },
+    {
+      "url": "https://elegance-canvas.myshopify.com/collections/all",
+      "slug": "elegance_canvas_myshopify_com_collections_all",
+      "title": "Products – Elegance-canvas",
+      "type": "collection",
+      "headings": [
+        "Cart",
+        "Your cart is empty",
+        "Search",
+        "Menu",
+        "Products",
+        "Digital Harmony",
+        "elegance gift card",
+        "Friendly Blossoms"
+      ],
+      "sections": 1,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_collections_all.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_collections_all.json"
+    },
+    {
+      "url": "https://elegance-canvas.myshopify.com/collections",
+      "slug": "elegance_canvas_myshopify_com_collections",
+      "title": "Collections – Elegance-canvas",
+      "type": "other",
+      "headings": [
+        "Cart",
+        "Your cart is empty",
+        "Search",
+        "Menu",
+        "All collections",
+        "Framed Art Prints",
+        "Pro Art Series",
+        "Abstract Adventures"
+      ],
+      "sections": 1,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_collections.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_collections.json"
+    },
+    {
+      "url": "https://elegance-canvas.myshopify.com/products/the-innocent-girl",
+      "slug": "elegance_canvas_myshopify_com_products_the_innocent_girl",
+      "title": "404 Not Found – Elegance-canvas",
+      "type": "product",
+      "headings": [
+        "Cart",
+        "Your cart is empty",
+        "Search",
+        "Menu",
+        "not found",
+        "Join our creative community"
+      ],
+      "sections": 1,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_products_the_innocent_girl.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_products_the_innocent_girl.json"
+    },
+    {
+      "url": "https://shopify.com/authentication/66214723766/oauth/authorize?client_id=04949748-16bb-492a-a8be-7e5244265d45&locale=en-IN&nonce=85c8295d-d827-4d83-97a2-b8bc38b704de&redirect_uri=https%3A%2F%2Fshopify.com%2F66214723766%2Faccount%2Fcallback&response_type=code&scope=openid+email+customer-account-api%3Afull&state=hWNAphXrgR37Oc13aoKxNnPu",
+      "slug": "elegance_canvas_myshopify_com_customer_authentication_redirect",
+      "title": "Just a moment...",
+      "type": "other",
+      "headings": [
+        "Your connection needs to be verified before you can proceed"
+      ],
+      "sections": 0,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_customer_authentication_redirect.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_customer_authentication_redirect.json"
+    },
+    {
+      "url": "https://elegance-canvas.myshopify.com/collections/pro-art-series?page=2",
+      "slug": "elegance_canvas_myshopify_com_collections_pro_art_series_page_2",
+      "title": "Pro Art Series – Page 2 – Elegance-canvas",
+      "type": "collection",
+      "headings": [
+        "Cart",
+        "Your cart is empty",
+        "Search",
+        "Menu",
+        "Pro Art Series",
+        "Music And Dreams",
+        "Mystic Echoes",
+        "The Ballet Beauty"
+      ],
+      "sections": 1,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_collections_pro_art_series_page_2.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_collections_pro_art_series_page_2.json"
+    }
+  ]
+}

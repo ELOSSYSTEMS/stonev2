@@ -1,0 +1,25 @@
+{
+  "pageUrl": "https://shift-sketch.myshopify.com/policies/privacy-policy",
+  "pageTitle": "Privacy policy – Shift Sketch",
+  "pageSlug": "shift_sketch_myshopify_com_policies_privacy_policy",
+  "sections": [
+    {
+      "refId": "shift_sketch_myshopify_com_policies_privacy_policy__section_01",
+      "index": 1,
+      "selectorHint": "div.shopify-policy__container",
+      "typeGuess": "product-grid",
+      "patternTags": [
+        "top-of-page",
+        "card-grid",
+        "product-commerce"
+      ],
+      "headingSample": [
+        "Privacy policy"
+      ],
+      "textSample": "Privacy policy Last updated: December 22, 2025 Welcome to Shift. We respect your privacy and want to protect your personal information. This Privacy Policy explains how we collect, use, and disclose your personal data. Information We Collect Personal Data: We collect personal inf",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/shift-sketch/elements/shift_sketch_myshopify_com_policies_privacy_policy/shift_sketch_myshopify_com_policies_privacy_policy__section_01.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/shift-sketch/pages/shift_sketch_myshopify_com_policies_privacy_policy.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/shift-sketch/pages/shift_sketch_myshopify_com_policies_privacy_policy.json"
+    }
+  ]
+}

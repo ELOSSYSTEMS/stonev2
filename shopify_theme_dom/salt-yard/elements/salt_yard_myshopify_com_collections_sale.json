@@ -1,0 +1,37 @@
+{
+  "pageUrl": "https://salt-yard.myshopify.com/collections/sale",
+  "pageTitle": "Sale – Symmetry Theme Salt Yard",
+  "pageSlug": "salt_yard_myshopify_com_collections_sale",
+  "sections": [
+    {
+      "refId": "salt_yard_myshopify_com_collections_sale__section_01",
+      "index": 1,
+      "selectorHint": "div.container.cf",
+      "typeGuess": "hero",
+      "patternTags": [
+        "hero-candidate",
+        "top-of-page",
+        "image-heavy",
+        "slider",
+        "cta-cluster",
+        "card-grid",
+        "product-commerce",
+        "category-navigation",
+        "editorial-media",
+        "marquee"
+      ],
+      "headingSample": [
+        "Sale now on",
+        "Denim Shirt",
+        "Other Collections",
+        "Denim",
+        "Footwear",
+        "Jackets"
+      ],
+      "textSample": "#section-id-template--26857916596297__image_with_text_overlay_M8eARE .height--fixed { --image-height: 320px; } @media (min-width: 768px) { #section-id-template--26857916596297__image_with_text_overlay_M8eARE .height--fixed { --image-height: 400px; } } #section-id-template--268579",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_collections_sale/salt_yard_myshopify_com_collections_sale__section_01.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/pages/salt_yard_myshopify_com_collections_sale.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/pages/salt_yard_myshopify_com_collections_sale.json"
+    }
+  ]
+}

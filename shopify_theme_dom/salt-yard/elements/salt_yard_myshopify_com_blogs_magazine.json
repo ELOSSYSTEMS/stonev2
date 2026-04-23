@@ -1,0 +1,31 @@
+{
+  "pageUrl": "https://salt-yard.myshopify.com/blogs/magazine",
+  "pageTitle": "Magazine – Symmetry Theme Salt Yard",
+  "pageSlug": "salt_yard_myshopify_com_blogs_magazine",
+  "sections": [
+    {
+      "refId": "salt_yard_myshopify_com_blogs_magazine__section_01",
+      "index": 1,
+      "selectorHint": "div.container.cf",
+      "typeGuess": "hero",
+      "patternTags": [
+        "hero-candidate",
+        "top-of-page",
+        "image-heavy",
+        "cta-cluster",
+        "category-navigation",
+        "editorial-media"
+      ],
+      "headingSample": [
+        "Magazine",
+        "Autumn marks the release of Unrecorded’s candle range",
+        "From Unrecorded to Recorded: Deadstock gets a new lease on life.",
+        "True sustainability is quality that lasts a lifetime."
+      ],
+      "textSample": "#section-id-template--26857879896137__1626355707fda76c1a .height--fixed { --image-height: 320px; } @media (min-width: 768px) { #section-id-template--26857879896137__1626355707fda76c1a .height--fixed { --image-height: 400px; } } #section-id-template--26857879896137__1626355707fda7",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_blogs_magazine/salt_yard_myshopify_com_blogs_magazine__section_01.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/pages/salt_yard_myshopify_com_blogs_magazine.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/pages/salt_yard_myshopify_com_blogs_magazine.json"
+    }
+  ]
+}

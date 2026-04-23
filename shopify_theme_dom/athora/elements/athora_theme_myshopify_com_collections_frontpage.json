@@ -1,0 +1,67 @@
+{
+  "pageUrl": "https://athora-theme.myshopify.com/collections/frontpage",
+  "pageTitle": "Home page – Athora Store",
+  "pageSlug": "athora_theme_myshopify_com_collections_frontpage",
+  "sections": [
+    {
+      "refId": "athora_theme_myshopify_com_collections_frontpage__section_01",
+      "index": 1,
+      "selectorHint": "#shopify-section-template--18547397197963__banner",
+      "typeGuess": "hero",
+      "patternTags": [
+        "hero-candidate",
+        "top-of-page",
+        "image-heavy",
+        "cta-cluster",
+        "product-commerce",
+        "category-navigation",
+        "editorial-media"
+      ],
+      "headingSample": [
+        "Collection: Home page"
+      ],
+      "textSample": "#Section-template--18547397197963__banner .hdt-media-overlap-content { --media-overlap-content-h:350px; --aspect-ratio:auto; } @media screen and (min-width: 768px) { #Section-template--18547397197963__banner .hdt-media-overlap-content { --media-overlap-content-h:500px; --aspect-r",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/athora/elements/athora_theme_myshopify_com_collections_frontpage/athora_theme_myshopify_com_collections_frontpage__section_01.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/athora/pages/athora_theme_myshopify_com_collections_frontpage.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/athora/pages/athora_theme_myshopify_com_collections_frontpage.json"
+    },
+    {
+      "refId": "athora_theme_myshopify_com_collections_frontpage__section_02",
+      "index": 2,
+      "selectorHint": "#shopify-section-template--18547397197963__main",
+      "typeGuess": "product-grid",
+      "patternTags": [
+        "slider",
+        "cta-cluster",
+        "card-grid",
+        "product-commerce",
+        "category-navigation",
+        "editorial-media"
+      ],
+      "headingSample": [],
+      "textSample": "Show filter Hide filter Show filter Filter Hide filter Filter Best selling Sort Sort by FeaturedBest sellingAlphabetically, A-ZAlphabetically, Z-APrice, low to highPrice, high to lowDate, old to newDate, new to old 0 selectedReset In stock only In stock (1 product) Price The high",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/athora/elements/athora_theme_myshopify_com_collections_frontpage/athora_theme_myshopify_com_collections_frontpage__section_02.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/athora/pages/athora_theme_myshopify_com_collections_frontpage.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/athora/pages/athora_theme_myshopify_com_collections_frontpage.json"
+    },
+    {
+      "refId": "athora_theme_myshopify_com_collections_frontpage__section_03",
+      "index": 3,
+      "selectorHint": "#shopify-section-template--18547397197963__text_width_icon_6fgzpT",
+      "typeGuess": "slider-section",
+      "patternTags": [
+        "slider"
+      ],
+      "headingSample": [
+        "Fast free shipping",
+        "Hassle-free returns",
+        "100% secure checkout",
+        "Customer Service"
+      ],
+      "textSample": "Fast free shippingGet free shipping on orders of $100 or more Hassle-free returnsEasy returns within 14 days of delivery. 100% secure checkoutAll payments are processed securely Customer ServiceOur support team is available 24/7",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/athora/elements/athora_theme_myshopify_com_collections_frontpage/athora_theme_myshopify_com_collections_frontpage__section_03.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/athora/pages/athora_theme_myshopify_com_collections_frontpage.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/athora/pages/athora_theme_myshopify_com_collections_frontpage.json"
+    }
+  ]
+}

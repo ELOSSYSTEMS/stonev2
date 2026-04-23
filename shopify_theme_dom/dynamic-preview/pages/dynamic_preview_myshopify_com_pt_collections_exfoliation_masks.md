@@ -1,0 +1,756 @@
+# Shopify page scrape
+
+- URL: https://dynamic-preview.myshopify.com/pt/collections/exfoliation-masks
+- Title: Esfoliação e Máscaras – Dynamic
+- Body classes: 
+- Custom elements: announcement-bar, back-to-top, cart-contents, collection-filters, filter-icon, footer-section, localization-form, mobile-drawer, product-card, product-form, product-sorting, search-drawer, shop-cart-sync
+- Headings: Esfoliação e Máscaras | Filtros | Boletim Informativo | Sobre o Dinâmico | Loja | Ligações rápidas | Serviço de Apoio ao Cliente
+
+## 1. shopify-section-template--27935319883942__main-hero
+
+- Tag: div
+- Classes: shopify-section
+- Headings: Esfoliação e Máscaras
+
+```html
+<div id="shopify-section-template--27935319883942__main-hero" class="shopify-section"><style data-shopify="">
+  .collection_list_wrapper-template--27935319883942__main-hero {
+    padding-top: 0px;
+    padding-bottom: 0px;
+    margin: 0 10px;;
+
+  }
+
+
+
+  @media screen and (max-width: 640px) {
+    .collection_list_wrapper-template--27935319883942__main-hero {
+      padding-top: 0px;
+      padding-bottom: 0px;
+    }
+  }
+</style>
+
+<link href="//dynamic-preview.myshopify.com/cdn/shop/t/18/assets/page-hero-banner.css?v=58205107822548130091771645050" rel="stylesheet" type="text/css" media="all">
+
+
+  <link href="//dynamic-preview.myshopify.com/cdn/shop/t/18/assets/page-breadcrumbs.css?v=10444629455867775861771645050" rel="stylesheet" type="text/css" media="all">
+
+<section class="page-hero  collection_list_wrapper-template--27935319883942__main-hero" style="
+    --heading-color: #ffffff;
+    --subheading-color: #ffffff;
+    --breadcrumb-color: #ffffff;
+    --radius: 12px;
+  ">
+  
+    <div class="page-hero__media">
+      
+        
+        <img src="//dynamic-preview.myshopify.com/cdn/shop/files/bg_2.png?v=1767788336&amp;width=2000" alt="Esfoliação e Máscaras" srcset="//dynamic-preview.myshopify.com/cdn/shop/files/bg_2.png?v=1767788336&amp;width=375 375w, //dynamic-preview.myshopify.com/cdn/shop/files/bg_2.png?v=1767788336&amp;width=550 550w, //dynamic-preview.myshopify.com/cdn/shop/files/bg_2.png?v=1767788336&amp;width=750 750w, //dynamic-preview.myshopify.com/cdn/shop/files/bg_2.png?v=1767788336&amp;width=1100 1100w, //dynamic-preview.myshopify.com/cdn/shop/files/bg_2.png?v=1767788336&amp;width=1500 1500w, //dynamic-preview.myshopify.com/cdn/shop/files/bg_2.png?v=1767788336&amp;width=2000 2000w" width="2000" height="422" loading="lazy" sizes="100vw">
+      
+
+      <div class="page-hero__content">
+        
+          
+          <h1 class="page-hero__title">
+            
+              Esfoliação e Máscaras
+            
+          </h1>
+          <div class="page-hero__subtitle">
+            
+              <p>Nutra a sua pele diariamente com um cuidado suave para um brilho natural e radiante.</p>
+            
+          </div>
+        
+
+        
+          <div class="page-hero__breadcrumb">
+            
+<div class="breadcrumbs_wrapper" role="navigation" aria-label="breadcrumbs">
+    <div class="container">
+      <ol class="breadcrumbs__list">
+        <li class="breadcrumbs__item">
+          <a class="breadcrumbs__link" href="/pt">Home</a>
+        </li>
+        <li class="separator" aria-hidden="true">|</li><li class="breadcrumbs__item">
+              <a href="/pt/collections">Collections</a>
+            </li>
+            <li class="separator" aria-hidden="true">|</li><li class="breadcrumbs__item">
+                <a class="breadcrumbs__link" href="/pt/collections/exfoliation-masks" aria-current="page">Esfoliação e Máscaras</a>
+              </li></ol>
+    </div>
+  </div>
+          </div>
+        
+      </div>
+    </div>
+
+  
+</section>
+
+
+</div>
+```
+
+## 2. shopify-section-template--27935319883942__main
+
+- Tag: div
+- Classes: shopify-section
+- Headings: Filtros
+
+```html
+<div id="shopify-section-template--27935319883942__main" class="shopify-section"><style data-shopify="">
+  .main_collection_wrapper-template--27935319883942__main {
+    padding-top: 50px;
+    padding-bottom: 40px;
+  }
+
+  @media screen and (max-width: 640px) {
+   .main_collection_wrapper-template--27935319883942__main {
+    padding-top: 20px;
+    padding-bottom: 20px;
+  }
+  }
+</style>
+
+<link href="//dynamic-preview.myshopify.com/cdn/shop/t/18/assets/collection-page.css?v=78401877075054807861771645050" rel="stylesheet" type="text/css" media="all">
+<link href="//dynamic-preview.myshopify.com/cdn/shop/t/18/assets/collection-filter.css?v=73751683870147075381771645050" rel="stylesheet" type="text/css" media="all">
+<link href="//dynamic-preview.myshopify.com/cdn/shop/t/18/assets/card-product.css?v=74757667773701977671771645050" rel="stylesheet" type="text/css" media="all">
+
+<div class="main_collection_wrapper-template--27935319883942__main color_scheme color-scheme-1" data-section-id="template--27935319883942__main">
+  <div class="page-width">
+    
+
+    <div class="main_collection_top_block">
+      <div class="main_collection_top_container ">
+        <button class="desktop_filter_icon collection_filter_icon" aria-label="filter icon" tabindex="0" data-drawer="filters">
+          <filter-icon>
+            <div class="icon_wrapper"><svg width="22" height="22" viewBox="0 0 22 22" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M17.4169 6.41634L15.4151 6.41643C15.0362 5.3509 14.0292 4.58337 12.8337 4.58337C11.6381 4.58337 10.6309 5.35108 10.252 6.41671L4.58357 6.41698C4.07729 6.41707 3.6669 6.82747 3.66699 7.33374C3.66708 7.83992 4.07748 8.25041 4.58366 8.25041L10.252 8.25013C10.6309 9.31585 11.6381 10.0834 12.8337 10.0834C14.0294 10.0834 15.0365 9.31557 15.4153 8.24986L17.417 8.24977C17.9232 8.24967 18.3337 7.83928 18.3336 7.33301C18.3336 6.82673 17.9232 6.41625 17.4169 6.41634Z" fill="#331F17"></path>
+<path d="M17.4168 13.7497L11.7484 13.75C11.3697 12.6843 10.3625 11.9167 9.1669 11.9167C7.9712 11.9167 6.96406 12.6845 6.58529 13.7503L4.58357 13.7504C4.07729 13.7504 3.6669 14.1608 3.66699 14.6671C3.66708 15.1733 4.07748 15.5838 4.58366 15.5838L6.58548 15.5837C6.96433 16.6492 7.97138 17.4167 9.1669 17.4167C10.3625 17.4167 11.3697 16.649 11.7485 15.5834L17.417 15.5831C17.9232 15.583 18.3337 15.1727 18.3336 14.6664C18.3335 14.1601 17.9231 13.7496 17.4168 13.7497Z" fill="#331F17"></path>
+</svg>
+</div>
+            <span>Filtro</span>
+          </filter-icon>
+        </button>
+
+        
+          <div class="sortand-product-count">
+            <product-sorting data-section-id="template--27935319883942__main">
+              <div class="collection_products_count">
+                <p>Total de produtos: 1</p>
+              </div>
+              <div class="main_collection_sorting_wrapper">
+                <form id="main_collection_sorting_form">
+                  
+                  <label class="filter_heading" for="sortby-template--27935319883942__main">Ordenar por:</label>
+                  <div class="collection_filter_dropdown">
+                    
+                    <select name="sort_by" id="sortby-template--27935319883942__main">
+                      
+                        <option value="manual">
+                          Em Destaque
+                        </option>
+                      
+                        <option value="best-selling" selected="">
+                          Mais vendidos
+                        </option>
+                      
+                        <option value="title-ascending">
+                          Alfabeticamente, A-Z
+                        </option>
+                      
+                        <option value="title-descending">
+                          Alfabeticamente, Z-A
+                        </option>
+                      
+                        <option value="price-ascending">
+                          Preço, mais baratos
+                        </option>
+                      
+                        <option value="price-descending">
+                          Preço, mais caros
+                        </option>
+                      
+                        <option value="created-ascending">
+                          Data, mais antigos
+                        </option>
+                      
+                        <option value="created-descending">
+                          Data, mais recentes
+                        </option>
+                      
+                    </select>
+                  </div>
+                </form>
+              </div>
+            </product-sorting>
+          </div>
+        
+      </div>
+    </div>
+
+    
+
+    <div class="main_collection">
+      <div class="main_collection_list_wrapper">
+        
+        <div class="loader hidden"></div>
+        
+          <div class="collection-product-list">
+            
+            
+              <div class="main_collection_grid item-product-4-count" style="
+                  --marquee-bg: #f2eadf;
+                  --marquee-border: #F0E1CB;
+                  --marquee-text: #331F17;
+                  --marquee-speed: 500s;
+                  --marquee-direction: right;
+                ">
+                
+                  <div class="collection-grid item-product-4">
+                    <product-card>
+  <div class="product_card_wrapper" style="--card-bg-color: #FEF9F2; --card-border-r: 10px; --card-text: #331F17;">
+    
+      <div class="badges-wrapper"><span class="badge badge--top_left soldout-card">Sold out</span></div>
+    
+
+    
+    
+      <div class="pdp_quickyview" style="--qv-color: #331f17; --qv-border: #331f17; --qv-background: #fef9f2;">
+        <div class="quick_view_wrap">
+          <div class="quick_view_innerblock  no_variants">
+            
+              <product-form>
+                <form method="post" action="/pt/cart/add" id="product_form_15210993189030" accept-charset="UTF-8" class="shopify-product-form" enctype="multipart/form-data"><input type="hidden" name="form_type" value="product" style=""><input type="hidden" name="utf8" value="✓" style="">
+                  <input type="hidden" name="id" value="56075071848614" disabled="" style="">
+                  <input type="hidden" name="quantity" value="1" style="">
+                  <button aria-label="Quick view button" class="product_form_buy_button" disabled="">
+                    <span class="atc_status"> <svg width="28" height="28" viewBox="0 0 28 28" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path fill-rule="evenodd" clip-rule="evenodd" d="M13.6366 1.7041C11.2831 1.7041 9.3752 3.61198 9.3752 5.96547V6.81774H7.49176C6.18894 6.81774 5.09445 7.79734 4.95058 9.0922L3.62483 21.024C3.45654 22.5386 4.64211 23.8632 6.16601 23.8632H16.1934C16.6641 23.8632 17.0457 23.4816 17.0457 23.0109C17.0457 22.5402 16.6641 22.1586 16.1934 22.1586H6.16601C5.65804 22.1586 5.26285 21.7171 5.31894 21.2123L6.6447 9.28047C6.69266 8.84879 7.05749 8.52228 7.49176 8.52228H9.3752V10.2268C9.3752 10.6975 9.75676 11.0791 10.2275 11.0791C10.6982 11.0791 11.0797 10.6975 11.0797 10.2268V8.52228H16.1934V10.2268C16.1934 10.6975 16.5749 11.0791 17.0457 11.0791C17.5164 11.0791 17.8979 10.6975 17.8979 10.2268V8.52228H19.7814C20.2157 8.52228 20.5805 8.84879 20.6284 9.28047L21.3122 15.4346C21.3642 15.9024 21.7856 16.2395 22.2535 16.1875C22.7213 16.1356 23.0584 15.7142 23.0064 15.2464L22.3226 9.0922C22.1787 7.79735 21.0842 6.81774 19.7814 6.81774H17.8979V5.96547C17.8979 3.61198 15.99 1.7041 13.6366 1.7041ZM16.1934 6.81774V5.96547C16.1934 4.55338 15.0487 3.40865 13.6366 3.40865C12.2245 3.40865 11.0797 4.55338 11.0797 5.96547V6.81774H16.1934Z" fill="#331F17"></path>
+  <path fill-rule="evenodd" clip-rule="evenodd" d="M21.3068 17.8972C21.3068 17.4265 20.9252 17.0449 20.4545 17.0449C19.9838 17.0449 19.6022 17.4265 19.6022 17.8972V19.6017H17.8977C17.427 19.6017 17.0454 19.9833 17.0454 20.454C17.0454 20.9247 17.427 21.3063 17.8977 21.3063H19.6022V23.0108C19.6022 23.4815 19.9838 23.8631 20.4545 23.8631C20.9252 23.8631 21.3068 23.4815 21.3068 23.0108V21.3063H23.0113C23.482 21.3063 23.8636 20.9247 23.8636 20.454C23.8636 19.9833 23.482 19.6017 23.0113 19.6017H21.3068V17.8972Z" fill="#331F17"></path>
+</svg>
+</span>
+                    <span class="loader hidden">.</span>
+                  </button>
+                <input type="hidden" name="product-id" value="15210993189030" style=""><input type="hidden" name="section-id" value="template--27935319883942__main" style=""></form>
+              </product-form>
+            
+          </div>
+        </div>
+      </div>
+    
+
+    
+
+    <div class="product_card_image">
+      
+      <div class="product_card_image_main">
+        
+          
+            
+              
+
+              
+
+              <div class="product-card-media" data-product-media-slider="" role="region" aria-label="Máscara de Noite Efeito Pele de Vidro image gallery">
+                
+                <div class="product_card_image_inner">
+                  <div class="product-card-main swiper product-card-swiper swiper-fade swiper-initialized swiper-horizontal swiper-watch-progress swiper-backface-hidden">
+                    <div class="swiper-wrapper" id="swiper-wrapper-9efe741c54939db5" aria-live="polite">
+                      
+                      
+                        
+                          <div class="swiper-slide product-main-image is-active swiper-slide-visible swiper-slide-fully-visible swiper-slide-active" role="group" aria-hidden="false" aria-label="1 / 4" style="width: 296px; opacity: 1; transform: translate3d(0px, 0px, 0px);">
+                            <a class="product_card_link" href="/pt/collections/exfoliation-masks/products/glass-skin-overnight-mask" aria-label="Máscara de Noite Efeito Pele de Vidro" tabindex="-1">Máscara de Noite Efeito Pele de Vidro</a>
+
+                            <img src="//dynamic-preview.myshopify.com/cdn/shop/files/d2c395777e52e1402c9c8e9025391cc57122a639.png?v=1767787747&amp;width=1000" alt="Máscara de Noite Efeito Pele de Vidro" srcset="//dynamic-preview.myshopify.com/cdn/shop/files/d2c395777e52e1402c9c8e9025391cc57122a639.png?v=1767787747&amp;width=352 352w, //dynamic-preview.myshopify.com/cdn/shop/files/d2c395777e52e1402c9c8e9025391cc57122a639.png?v=1767787747&amp;width=832 832w, //dynamic-preview.myshopify.com/cdn/shop/files/d2c395777e52e1402c9c8e9025391cc57122a639.png?v=1767787747&amp;width=1000 1000w" width="1000" height="667" loading="lazy" decoding="async">
+                          </div>
+                          
+                        
+                      
+                        
+                          <div class="swiper-slide product-main-image swiper-slide-next" role="group" aria-hidden="true" aria-label="2 / 4" style="width: 296px; opacity: 0; transform: translate3d(-296px, 0px, 0px);">
+                            <a class="product_card_link" href="/pt/collections/exfoliation-masks/products/glass-skin-overnight-mask" aria-label="Máscara de Noite Efeito Pele de Vidro" tabindex="-1">Máscara de Noite Efeito Pele de Vidro</a>
+
+                            <img src="//dynamic-preview.myshopify.com/cdn/shop/files/f31ee3db4e2aedc10a8dffb4c99e211543a45266.png?v=1767787747&amp;width=1000" alt="Máscara de Noite Efeito Pele de Vidro" srcset="//dynamic-preview.myshopify.com/cdn/shop/files/f31ee3db4e2aedc10a8dffb4c99e211543a45266.png?v=1767787747&amp;width=352 352w, //dynamic-preview.myshopify.com/cdn/shop/files/f31ee3db4e2aedc10a8dffb4c99e211543a45266.png?v=1767787747&amp;width=832 832w, //dynamic-preview.myshopify.com/cdn/shop/files/f31ee3db4e2aedc10a8dffb4c99e211543a45266.png?v=1767787747&amp;width=1000 1000w" width="1000" height="667" loading="lazy" decoding="async">
+                          </div>
+                          
+                        
+                      
+                        
+                          <div class="swiper-slide product-main-image " role="group" aria-hidden="true" aria-label="3 / 4" style="width: 296px; opacity: 0; transform: translate3d(-592px, 0px, 0px);">
+                            <a class="product_card_link" href="/pt/collections/exfoliation-masks/products/glass-skin-overnight-mask" aria-label="Máscara de Noite Efeito Pele de Vidro" tabindex="-1">Máscara de Noite Efeito Pele de Vidro</a>
+
+                            <img src="//dynamic-preview.myshopify.com/cdn/shop/files/23ad16c37af1077f854f933922f47dfb2668f232.png?v=1767787747&amp;width=1000" alt="Máscara de Noite Efeito Pele de Vidro" srcset="//dynamic-preview.myshopify.com/cdn/shop/files/23ad16c37af1077f854f933922f47dfb2668f232.png?v=1767787747&amp;width=352 352w, //dynamic-preview.myshopify.com/cdn/shop/files/23ad16c37af1077f854f933922f47dfb2668f232.png?v=1767787747&amp;width=832 832w, //dynamic-preview.myshopify.com/cdn/shop/files/23ad16c37af1077f854f933922f47dfb2668f232.png?v=1767787747&amp;width=1000 1000w" width="1000" height="667" loading="lazy" decoding="async">
+                          </div>
+                          
+                        
+                      
+                        
+                          <div class="swiper-slide product-main-image " role="group" aria-hidden="true" aria-label="4 / 4" style="width: 296px; opacity: 0; transform: translate3d(-888px, 0px, 0px);">
+                            <a class="product_card_link" href="/pt/collections/exfoliation-masks/products/glass-skin-overnight-mask" aria-label="Máscara de Noite Efeito Pele de Vidro" tabindex="-1">Máscara de Noite Efeito Pele de Vidro</a>
+
+                            <img src="//dynamic-preview.myshopify.com/cdn/shop/files/69a21ede79ed03f3aba2f52e64f6068e82378261.png?v=1767787748&amp;width=1000" alt="Máscara de Noite Efeito Pele de Vidro" srcset="//dynamic-preview.myshopify.com/cdn/shop/files/69a21ede79ed03f3aba2f52e64f6068e82378261.png?v=1767787748&amp;width=352 352w, //dynamic-preview.myshopify.com/cdn/shop/files/69a21ede79ed03f3aba2f52e64f6068e82378261.png?v=1767787748&amp;width=832 832w, //dynamic-preview.myshopify.com/cdn/shop/files/69a21ede79ed03f3aba2f52e64f6068e82378261.png?v=1767787748&amp;width=1000 1000w" width="1000" height="1000" loading="lazy" decoding="async">
+                          </div>
+                          
+                        
+                      
+                    </div>
+                  <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
+                  
+                  <button class="product-card-nav product-card-prev swiper-button-disabled" type="button" aria-label="Previous slide" tabindex="-1" disabled="" aria-controls="swiper-wrapper-9efe741c54939db5" aria-disabled="true">
+                    <svg width="10" height="18" viewBox="0 0 10 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M1.44862 8.6999L9.12413 1.0241C9.35843 0.789804 9.35843 0.410004 9.12413 0.175703C8.89013 -0.0585976 8.50972 -0.0585976 8.27572 0.175703L0.175725 8.2757C-0.058575 8.51 -0.058575 8.8898 0.175725 9.1241L8.27572 17.2241C8.39272 17.3414 8.54632 17.3999 8.69993 17.3999C8.85353 17.3999 9.00713 17.3414 9.12413 17.2241C9.35843 16.9898 9.35843 16.61 9.12413 16.3757L1.44862 8.6999Z" fill="#331F17"></path>
+</svg>
+
+                  </button>
+
+                  <button class="product-card-nav product-card-next" type="button" aria-label="Next slide" tabindex="0" aria-controls="swiper-wrapper-9efe741c54939db5" aria-disabled="false">
+                    
+<svg width="10" height="18" viewBox="0 0 10 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M7.85118 8.6999L0.175679 1.0241C-0.0586205 0.789804 -0.0586205 0.410004 0.175679 0.175703C0.409679 -0.0585976 0.79008 -0.0585976 1.02408 0.175703L9.12408 8.2757C9.35838 8.51 9.35838 8.8898 9.12408 9.1241L1.02408 17.2241C0.90708 17.3414 0.75348 17.3999 0.599879 17.3999C0.44628 17.3999 0.292679 17.3414 0.175679 17.2241C-0.0586205 16.9898 -0.0586205 16.61 0.175679 16.3757L7.85118 8.6999Z" fill="#331F17"></path>
+</svg>
+
+                  </button>
+                </div>
+
+                
+                
+                  <div class="product-card-thumbs" role="tablist" aria-label="Product thumbnails">
+                    
+                    
+                      
+                        <button class="product-thumb is-active" type="button" role="tab" aria-selected="true" data-thumb-index="0" aria-label="View image 1">
+                          <img src="//dynamic-preview.myshopify.com/cdn/shop/files/d2c395777e52e1402c9c8e9025391cc57122a639.png?v=1767787747&amp;width=300" alt="Máscara de Noite Efeito Pele de Vidro" srcset="//dynamic-preview.myshopify.com/cdn/shop/files/d2c395777e52e1402c9c8e9025391cc57122a639.png?v=1767787747&amp;width=300 300w" width="300" height="200" loading="lazy">
+                        </button>
+                        
+                      
+                    
+                      
+                        <button class="product-thumb " type="button" role="tab" aria-selected="false" data-thumb-index="1" aria-label="View image 2">
+                          <img src="//dynamic-preview.myshopify.com/cdn/shop/files/f31ee3db4e2aedc10a8dffb4c99e211543a45266.png?v=1767787747&amp;width=300" alt="Máscara de Noite Efeito Pele de Vidro" srcset="//dynamic-preview.myshopify.com/cdn/shop/files/f31ee3db4e2aedc10a8dffb4c99e211543a45266.png?v=1767787747&amp;width=300 300w" width="300" height="200" loading="lazy">
+                        </button>
+                        
+                      
+                    
+                      
+                        <button class="product-thumb " type="button" role="tab" aria-selected="false" data-thumb-index="2" aria-label="View image 3">
+                          <img src="//dynamic-preview.myshopify.com/cdn/shop/files/23ad16c37af1077f854f933922f47dfb2668f232.png?v=1767787747&amp;width=300" alt="Máscara de Noite Efeito Pele de Vidro" srcset="//dynamic-preview.myshopify.com/cdn/shop/files/23ad16c37af1077f854f933922f47dfb2668f232.png?v=1767787747&amp;width=300 300w" width="300" height="200" loading="lazy">
+                        </button>
+                        
+                      
+                    
+                      
+                        <button class="product-thumb " type="button" role="tab" aria-selected="false" data-thumb-index="3" aria-label="View image 4">
+                          <img src="//dynamic-preview.myshopify.com/cdn/shop/files/69a21ede79ed03f3aba2f52e64f6068e82378261.png?v=1767787748&amp;width=300" alt="Máscara de Noite Efeito Pele de Vidro" srcset="//dynamic-preview.myshopify.com/cdn/shop/files/69a21ede79ed03f3aba2f52e64f6068e82378261.png?v=1767787748&amp;width=300 300w" width="300" height="300" loading="lazy">
+                        </button>
+                        
+                      
+                    
+                  </div>
+                
+              </div>
+
+            
+          
+
+        
+      </div>
+    </div>
+    <div class="product_card_info">
+      <div class="product_card__content">
+        
+          
+            <div class="card-product-tags" style="--tag-c-color: #331f2c; --tag-c-border: #f0e1cb;">
+              
+                <span class="tag-pill">Exfoliation &amp; Masks</span>
+              
+                <span class="tag-pill">Eyes</span>
+              
+            </div>
+          
+        
+
+        
+        <p class="product-card-title">
+          
+            
+            <a href="/pt/collections/exfoliation-masks/products/glass-skin-overnight-mask" title="">Máscara de Noite Efeito Pele de Vidro</a>
+          
+        </p>
+
+        <div class="product-card-price">
+          
+
+
+
+<div class="product_card_price_wrapper">
+  
+    <div class="product_card_price_inner">
+      <span class="regular_price">
+        
+          $2.00
+        
+      </span>
+
+      
+        <s class="cap">
+          
+            $5.00
+          
+        </s>
+      
+    </div>
+  
+
+  <small class="unit-price hidden">
+    <span class="visually-hidden">Preço unitário</span>
+    <span class="price-item price-item--last">
+      <span></span>
+      <span aria-hidden="true">/</span>
+      <span class="visually-hidden">&nbsp;por&nbsp;</span>
+      <span>
+      </span>
+    </span>
+  </small>
+</div>
+
+        </div>
+
+        
+        
+          
+            
+              <div class="product-card-offer-block">
+                <div class="product_card_marquee">
+                  <div class="product_card_marquee_inner marquee_card--right">
+                    
+                    
+                    
+                      <span class="discount-off"> - 60% OFF </span>
+                    
+                      <span class="discount-off"> - 60% OFF </span>
+                    
+                      <span class="discount-off"> - 60% OFF </span>
+                    
+                      <span class="discount-off"> - 60% OFF </span>
+                    
+                      <span class="discount-off"> - 60% OFF </span>
+                    
+                      <span class="discount-off"> - 60% OFF </span>
+                    
+                      <span class="discount-off"> - 60% OFF </span>
+                    
+                      <span class="discount-off"> - 60% OFF </span>
+                    
+                      <span class="discount-off"> - 60% OFF </span>
+                    
+                      <span class="discount-off"> - 60% OFF </span>
+                    
+                      <span class="discount-off"> - 60% OFF </span>
+                    
+                      <span class="discount-off"> - 60% OFF </span>
+                    
+                      <span class="discount-off"> - 60% OFF </span>
+                    
+                      <span class="discount-off"> - 60% OFF </span>
+                    
+                      <span class="discount-off"> - 60% OFF </span>
+                    
+                      <span class="discount-off"> - 60% OFF </span>
+                    
+                      <span class="discount-off"> - 60% OFF </span>
+                    
+                      <span class="discount-off"> - 60% OFF </span>
+                    
+                      <span class="discount-off"> - 60% OFF </span>
+                    
+                      <span class="discount-off"> - 60% OFF </span>
+                    
+                      <span class="discount-off"> - 60% OFF </span>
+                    
+                      <span class="discount-off"> - 60% OFF </span>
+                    
+                      <span class="discount-off"> - 60% OFF </span>
+                    
+                      <span class="discount-off"> - 60% OFF </span>
+                    
+                      <span class="discount-off"> - 60% OFF </span>
+                    
+                      <span class="discount-off"> - 60% OFF </span>
+                    
+                      <span class="discount-off"> - 60% OFF </span>
+                    
+                      <span class="discount-off"> - 60% OFF </span>
+                    
+                      <span class="discount-off"> - 60% OFF </span>
+                    
+                      <span class="discount-off"> - 60% OFF </span>
+                    
+                      <span class="discount-off"> - 60% OFF </span>
+                    
+                      <span class="discount-off"> - 60% OFF </span>
+                    
+                      <span class="discount-off"> - 60% OFF </span>
+                    
+                      <span class="discount-off"> - 60% OFF </span>
+                    
+                      <span class="discount-off"> - 60% OFF </span>
+                    
+                      <span class="discount-off"> - 60% OFF </span>
+                    
+                      <span class="discount-off"> - 60% OFF </span>
+                    
+                      <span class="discount-off"> - 60% OFF </span>
+                    
+                      <span class="discount-off"> - 60% OFF </span>
+                    
+                      <span class="discount-off"> - 60% OFF </span>
+                    
+                      <span class="discount-off"> - 60% OFF </span>
+                    
+                      <span class="discount-off"> - 60% OFF </span>
+                    
+                      <span class="discount-off"> - 60% OFF </span>
+                    
+                      <span class="discount-off"> - 60% OFF </span>
+                    
+                      <span class="discount-off"> - 60% OFF </span>
+                    
+                      <span class="discount-off"> - 60% OFF </span>
+                    
+                      <span class="discount-off"> - 60% OFF </span>
+                    
+                      <span class="discount-off"> - 60% OFF </span>
+                    
+                      <span class="discount-off"> - 60% OFF </span>
+                    
+                      <span class="discount-off"> - 60% OFF </span>
+                    
+                      <span class="discount-off"> - 60% OFF </span>
+                    
+                      <span class="discount-off"> - 60% OFF </span>
+                    
+                      <span class="discount-off"> - 60% OFF </span>
+                    
+                      <span class="discount-off"> - 60% OFF </span>
+                    
+                      <span class="discount-off"> - 60% OFF </span>
+                    
+                      <span class="discount-off"> - 60% OFF </span>
+                    
+                      <span class="discount-off"> - 60% OFF </span>
+                    
+                      <span class="discount-off"> - 60% OFF </span>
+                    
+                      <span class="discount-off"> - 60% OFF </span>
+                    
+                      <span class="discount-off"> - 60% OFF </span>
+                    
+                      <span class="discount-off"> - 60% OFF </span>
+                    
+                      <span class="discount-off"> - 60% OFF </span>
+                    
+                      <span class="discount-off"> - 60% OFF </span>
+                    
+                      <span class="discount-off"> - 60% OFF </span>
+                    
+                      <span class="discount-off"> - 60% OFF </span>
+                    
+                      <span class="discount-off"> - 60% OFF </span>
+                    
+                      <span class="discount-off"> - 60% OFF </span>
+                    
+                      <span class="discount-off"> - 60% OFF </span>
+                    
+                      <span class="discount-off"> - 60% OFF </span>
+                    
+                      <span class="discount-off"> - 60% OFF </span>
+                    
+                      <span class="discount-off"> - 60% OFF </span>
+                    
+                      <span class="discount-off"> - 60% OFF </span>
+                    
+                      <span class="discount-off"> - 60% OFF </span>
+                    
+                      <span class="discount-off"> - 60% OFF </span>
+                    
+                      <span class="discount-off"> - 60% OFF </span>
+                    
+                      <span class="discount-off"> - 60% OFF </span>
+                    
+                      <span class="discount-off"> - 60% OFF </span>
+                    
+                      <span class="discount-off"> - 60% OFF </span>
+                    
+                      <span class="discount-off"> - 60% OFF </span>
+                    
+                      <span class="discount-off"> - 60% OFF </span>
+                    
+                      <span class="discount-off"> - 60% OFF </span>
+                    
+                      <span class="discount-off"> - 60% OFF </span>
+                    
+                      <span class="discount-off"> - 60% OFF </span>
+                    
+                      <span class="discount-off"> - 60% OFF </span>
+                    
+                      <span class="discount-off"> - 60% OFF </span>
+                    
+                      <span class="discount-off"> - 60% OFF </span>
+                    
+                      <span class="discount-off"> - 60% OFF </span>
+                    
+                      <span class="discount-off"> - 60% OFF </span>
+                    
+                      <span class="discount-off"> - 60% OFF </span>
+                    
+                      <span class="discount-off"> - 60% OFF </span>
+                    
+                      <span class="discount-off"> - 60% OFF </span>
+                    
+                      <span class="discount-off"> - 60% OFF </span>
+                    
+                      <span class="discount-off"> - 60% OFF </span>
+                    
+                      <span class="discount-off"> - 60% OFF </span>
+                    
+                      <span class="discount-off"> - 60% OFF </span>
+                    
+                      <span class="discount-off"> - 60% OFF </span>
+                    
+                      <span class="discount-off"> - 60% OFF </span>
+                    
+                      <span class="discount-off"> - 60% OFF </span>
+                    
+                      <span class="discount-off"> - 60% OFF </span>
+                    
+                      <span class="discount-off"> - 60% OFF </span>
+                    
+                  </div>
+                </div>
+              </div>
+            
+          
+        
+        
+      </div>
+    </div>
+  </div>
+</product-card>
+
+                  </div>
+
+                  
+                    
+                    
+                  
+                
+              </div>
+
+              
+
+              <link href="//dynamic-preview.myshopify.com/cdn/shop/t/18/assets/pagination.css?v=109610015853012787341771645050" rel="stylesheet" type="text/css" media="all">
+
+
+            
+          </div>
+        
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="main_collection_filters_wrapper">
+  <div class="collection_drawer-wrapper c_filter_drawer color_scheme color-scheme-3" id="c_filters" inert="" aria-hidden="true">
+  <div class="collection_drawer-wrapper_inner" tabindex="-1" data-lenis-prevent="">
+    <collection-filters data-section-id="template--27935319883942__main">
+      <div class="c_filters_header">
+        <h2>Filtros</h2>
+        <button class="collection_drawer-wrapper__close c_drawer_close drawer_close_btn" aria-label="Fechar">
+          <div class="icon_wrapper"><svg class="close-icon" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 23.691 22.723">
+            <g transform="translate(-126.154 -143.139)">
+              <line x2="23" y2="22" transform="translate(126.5 143.5)" fill="none" stroke="CurrentColor" stroke-width="2"></line>
+              <path d="M0,22,23,0" transform="translate(126.5 143.5)" fill="none" stroke="CurrentColor" stroke-width="2"></path>
+            </g>
+          </svg></div>
+        </button>
+      </div>
+
+      
+      
+        
+      
+        
+      
+
+      
+
+      <div class="c_filters_content">
+        <form id="c_filters_form"><details open="">
+              <summary>
+                <div class="summary_inner">
+                  <span>Disponibilidade</span></div>
+
+                <div class="square">
+                  <svg width="13" height="13" viewBox="0 0 13 13" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M6.46777 12.9361C5.98227 12.9361 5.58887 12.5427 5.58887 12.0572V0.878906C5.58887 0.393398 5.98227 0 6.46777 0C6.95328 0 7.34668 0.393398 7.34668 0.878906V12.0572C7.34668 12.5427 6.95328 12.9361 6.46777 12.9361Z" fill="black"></path>
+<path d="M12.0572 7.34692H0.878906C0.393398 7.34692 0 6.95353 0 6.46802C0 5.98251 0.393398 5.58911 0.878906 5.58911H12.0572C12.5427 5.58911 12.9361 5.98251 12.9361 6.46802C12.9361 6.95353 12.5427 7.34692 12.0572 7.34692Z" fill="black"></path>
+</svg>
+
+                </div>
+              </summary>
+
+              <div><ul class=""><li>
+                          <label title="Esgotado" for="collFilter-filter.v.availability-1" class="">
+                            <input type="checkbox" name="filter.v.availability" value="0" data-add-url="/pt/collections/exfoliation-masks?filter.v.availability=0" data-remove-url="/pt/collections/exfoliation-masks" id="collFilter-filter.v.availability-1" style="">
+                            
+                              Esgotado
+                            
+                          </label>
+                        </li><li>
+                          <label title="Em stock" for="collFilter-filter.v.availability-2" class="">
+                            <input type="checkbox" name="filter.v.availability" value="1" data-add-url="/pt/collections/exfoliation-masks?filter.v.availability=1" data-remove-url="/pt/collections/exfoliation-masks" id="collFilter-filter.v.availability-2" disabled="" style="">
+                            
+                              Em stock
+                            
+                          </label>
+                        </li></ul></div>
+            </details><details open="">
+              <summary>
+                <div class="summary_inner">
+                  <span>Categoria</span></div>
+
+                <div class="square">
+                  <svg width="13" height="13" viewBox="0 0 13 13" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M6.46777 12.9361C5.98227 12.9361 5.58887 12.5427 5.58887 12.0572V0.878906C5.58887 0.393398 5.98227 0 6.46777 0C6.95328 0 7.34668 0.393398 7.34668 0.878906V12.0572C7.34668 12.5427 6.95328 12.9361 6.46777 12.9361Z" fill="black"></path>
+<path d="M12.0572 7.34692H0.878906C0.393398 7.34692 0 6.95353 0 6.46802C0 5.98251 0.393398 5.58911 0.878906 5.58911H12.0572C12.5427 5.58911 12.9361 5.98251 12.9361 6.46802C12.9361 6.95353 12.5427 7.34692 12.0572 7.34692Z" fill="black"></path>
+</svg>
+
+                </div>
+              </summary>
+
+              <div><ul class=""><li>
+                          <label title="Máscaras e peels de cuidado da pele" for="collFilter-filter.p.t.category-1" class="">
+                            <input type="checkbox" name="filter.p.t.category" value="hb-3-2-9-13" data-add-url="/pt/collections/exfoliation-masks?filter.p.t.category=hb-3-2-9-13" data-remove-url="/pt/collections/exfoliation-masks" id="collFilter-filter.p.t.category-1" style="">
+                            
+                              Máscaras e peels de cuidado da pele
+                            
+                          </label>
+                        </li></ul></div>
+            </details></form>
+      </div>
+
+      <div class="filters_btn">
+        <button class="btn button button-full btn-prime" aria-label="Submit">Aplicar</button>
+      </div>
+    </collection-filters>
+  </div>
+</div>
+
+</div>
+
+</div>
+```

@@ -1,0 +1,64 @@
+{
+  "pageUrl": "https://poetic-theme-jewelry.myshopify.com/products/gift-card",
+  "pageTitle": "Gift Card – Poetic Theme Jewelry",
+  "pageSlug": "poetic_theme_jewelry_myshopify_com_products_gift_card",
+  "sections": [
+    {
+      "refId": "poetic_theme_jewelry_myshopify_com_products_gift_card__section_01",
+      "index": 1,
+      "selectorHint": "#shopify-section-template--20973157417112__spacer_hfwDEb",
+      "typeGuess": "content-section",
+      "patternTags": [
+        "top-of-page"
+      ],
+      "headingSample": [],
+      "textSample": "#spacer--template--20973157417112__spacer_hfwDEb { padding-top: 36px; padding-bottom: 0px; --line-opacity: 0.1; } @media only screen and (max-width: 749px) { #spacer--template--20973157417112__spacer_hfwDEb { padding-top: calc(36 * 0.6)px; padding-bottom: calc(0 * 0.6)px; } }",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/poetic-theme-jewelry/elements/poetic_theme_jewelry_myshopify_com_products_gift_card/poetic_theme_jewelry_myshopify_com_products_gift_card__section_01.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/poetic-theme-jewelry/pages/poetic_theme_jewelry_myshopify_com_products_gift_card.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/poetic-theme-jewelry/pages/poetic_theme_jewelry_myshopify_com_products_gift_card.json"
+    },
+    {
+      "refId": "poetic_theme_jewelry_myshopify_com_products_gift_card__section_02",
+      "index": 2,
+      "selectorHint": "#shopify-section-template--20973157417112__main",
+      "typeGuess": "product-grid",
+      "patternTags": [
+        "image-heavy",
+        "slider",
+        "cta-cluster",
+        "card-grid",
+        "product-commerce",
+        "category-navigation",
+        "editorial-media"
+      ],
+      "headingSample": [
+        "Gift Card",
+        "Please adjust the following:"
+      ],
+      "textSample": ".main-product-page { --section-padding-top: 0px; --section-padding-bottom: 0px; } .main-product-page .main-media-slider { min-width: 0; max-width: 100%; flex: 1; } .breadcrumbs { --breadscrumb-color: var(--text-icon-text); } .breadcrumbs__list { list-style-type: none; margin: 0; ",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/poetic-theme-jewelry/elements/poetic_theme_jewelry_myshopify_com_products_gift_card/poetic_theme_jewelry_myshopify_com_products_gift_card__section_02.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/poetic-theme-jewelry/pages/poetic_theme_jewelry_myshopify_com_products_gift_card.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/poetic-theme-jewelry/pages/poetic_theme_jewelry_myshopify_com_products_gift_card.json"
+    },
+    {
+      "refId": "poetic_theme_jewelry_myshopify_com_products_gift_card__section_03",
+      "index": 3,
+      "selectorHint": "#shopify-section-template--20973157417112__related-products",
+      "typeGuess": "product-grid",
+      "patternTags": [
+        "image-heavy",
+        "slider",
+        "cta-cluster",
+        "card-grid",
+        "product-commerce",
+        "category-navigation",
+        "editorial-media"
+      ],
+      "headingSample": [],
+      "textSample": ".section-template--20973157417112__related-products-padding { padding-top: 39px; padding-bottom: 30px; } @media screen and (min-width: 750px) { .section-template--20973157417112__related-products-padding { padding-top: 52px; padding-bottom: 40px; } } Related products Recently vie",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/poetic-theme-jewelry/elements/poetic_theme_jewelry_myshopify_com_products_gift_card/poetic_theme_jewelry_myshopify_com_products_gift_card__section_03.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/poetic-theme-jewelry/pages/poetic_theme_jewelry_myshopify_com_products_gift_card.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/poetic-theme-jewelry/pages/poetic_theme_jewelry_myshopify_com_products_gift_card.json"
+    }
+  ]
+}

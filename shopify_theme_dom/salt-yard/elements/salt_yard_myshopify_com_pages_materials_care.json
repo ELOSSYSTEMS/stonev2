@@ -1,0 +1,23 @@
+{
+  "pageUrl": "https://salt-yard.myshopify.com/pages/materials-care",
+  "pageTitle": "Materials & Care – Symmetry Theme Salt Yard",
+  "pageSlug": "salt_yard_myshopify_com_pages_materials_care",
+  "sections": [
+    {
+      "refId": "salt_yard_myshopify_com_pages_materials_care__section_01",
+      "index": 1,
+      "selectorHint": "div.container.cf",
+      "typeGuess": "content-section",
+      "patternTags": [
+        "top-of-page"
+      ],
+      "headingSample": [
+        "Materials & Care"
+      ],
+      "textSample": "Materials & Care Our cotton is grown on soil that is free of toxic pesticides and fertilizers. Our fabric is dyed and finished without the use of heavy metals or allergenic disperse dyes.- Wash at 30 degrees with similar colours- Lay flat to dry- Iron on the inside if necessary",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_pages_materials_care/salt_yard_myshopify_com_pages_materials_care__section_01.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/pages/salt_yard_myshopify_com_pages_materials_care.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/pages/salt_yard_myshopify_com_pages_materials_care.json"
+    }
+  ]
+}

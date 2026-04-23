@@ -1,0 +1,541 @@
+# Shopify page scrape
+
+- URL: https://highlight-theme-main.myshopify.com/fr/collections/reflective-accessories
+- Title: Accessoires réfléchissants – Highlight Theme
+- Body classes: no-touchevents
+  template-collection template-collection 
+  image-reveal--mask
+   sidebars-has-scrollbars 
+
+- Custom elements: cart-form, cart-note, collection-filters-mobile-handle, facet-filters-form, facet-remove, localization-form, main-header, modal-box, price-range, product-form, product-item-variants, quick-add-to-cart, quick-view-product, search-form, shopify-account, shopify-store, sidebar-drawer
+- Headings: Accessoires réfléchissants | Chaque produit, du réflecteur qui sauve des vies à la sucette faite à la main, regorge d'innovations. L'idée du produit vient en premier, suivie du design minimal.Apprendre encore plus
+
+## 1. shopify-section-template--15085564559521__main
+
+- Tag: div
+- Classes: shopify-section mount-collection mount-parallax mount-parallax-w-padding section-w-margin section-w-mobile-padding
+- Headings: Accessoires réfléchissants | Chaque produit, du réflecteur qui sauve des vies à la sucette faite à la main, regorge d'innovations. L'idée du produit vient en premier, suivie du design minimal.Apprendre encore plus
+
+```html
+<div id="shopify-section-template--15085564559521__main" class="shopify-section mount-collection mount-parallax mount-parallax-w-padding section-w-margin section-w-mobile-padding"><link href="//highlight-theme-main.myshopify.com/cdn/shop/t/4/assets/section-main-collection.css?v=183862943169828407201681113459" rel="stylesheet" type="text/css" media="all">
+
+<div class="grid" id="section-collection-header" data-pull-layout-a-bit-more="" data-layout-asymmetrical=""><div class="section-header  five-tenths  lap--full-width push-left-one-tenth lap--push-left-none">
+    <h1 class="
+        section-header__title h1
+        
+          with-extra-margin
+        
+      ">
+      Accessoires réfléchissants
+    </h1><link href="//highlight-theme-main.myshopify.com/cdn/shop/t/4/assets/component-range-slider.css?v=80563131025513755411717753003" rel="stylesheet" type="text/css" media="all">
+<link href="//highlight-theme-main.myshopify.com/cdn/shop/t/4/assets/component-swatch.css?v=121205033082096577911717753006" rel="stylesheet" type="text/css" media="all">
+<link href="//highlight-theme-main.myshopify.com/cdn/shop/t/4/assets/component-facets.css?v=57495296021939822811717753002" rel="stylesheet" type="text/css" media="all">
+
+  <div id="collection-filters"><sidebar-drawer id="site-filters-sidebar" class="sidebar sidebar--right" tabindex="-1" role="dialog" aria-modal="true">
+
+        <div class="sidebar__container">
+
+          <div class="sidebar__close">
+            <button class="close-sidebar" aria-label="Fermer">
+              <span class="aria-hidden"><svg aria-hidden="true" focusable="false" role="presentation" width="17" height="17" viewBox="0 0 17 17" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M1.41418 0L16.9705 15.5563L15.5563 16.9706L-2.89679e-05 1.41421L1.41418 0Z" fill="#111111"></path><path d="M16.9706 1.41431L1.41423 16.9707L1.85966e-05 15.5564L15.5564 9.31025e-05L16.9706 1.41431Z" fill="#111111"></path></svg></span>
+              <span class="close-sidebar__text">Fermer</span>
+            </button>
+          </div><facet-filters-form class="facets don-t-duplicate" data-location="desktop">
+
+            <span id="CollectionProductCount" class="collection-product-count sidebar__caption" role="status">6&nbsp;produits
+</span>
+
+            <form id="FacetFiltersForm" class="facets__form facets__form--mobile" data-location="desktop"><div class="facets__prewrapper">
+
+                  <div class="facets__wrapper" id="FacetsWrapperdesktop">
+
+                    <div class="active-facets active-facets-mobile"></div><p class="facets__heading text-size--smaller">Filtre&nbsp;:</p><details id="Filter-filter-v-availability-desktop" class="disclosure-has-popup facets__disclosure js-filter" data-index="1">
+                            <summary class="facets__summary">
+                              Disponibilité  
+                            </summary>
+                            <div class="facets__display text-size--smaller">
+                              <div class="facets__header">
+                                <span class="facets__selected no-js-hidden">0&nbsp;sélectionné</span>
+                                <facet-remove>
+                                  <a href="/fr/collections/reflective-accessories" class="facets__reset link underlined-link js-facet-remove" role="button">Réinitialiser</a>
+                                </facet-remove>
+                              </div><ul class="facets__list list-unstyled swatch-list--text swatch-list--text-onecolumn" role="list"><li class="list-menu__item facets__item   ">
+
+      <label for="desktop-Filter-disponibilite-1" class="facet-checkbox">
+        
+        <input type="checkbox" class="styled-checkbox" name="filter.v.availability" value="1" id="desktop-Filter-disponibilite-1" style=""><span>En stock (6)</span>
+
+      </label>
+
+    </li><li class="list-menu__item facets__item   ">
+
+      <label for="desktop-Filter-disponibilite-2" class="facet-checkbox facet-checkbox--disabled">
+        
+        <input type="checkbox" class="styled-checkbox" name="filter.v.availability" value="0" id="desktop-Filter-disponibilite-2" disabled="" style=""><span>En rupture de stock (0)</span>
+
+      </label>
+
+    </li></ul></div>
+                          </details><details id="Filter-filter-v-price-desktop" class="disclosure-has-popup facets__disclosure js-filter" data-index="2">
+                            <summary class="facets__summary">
+                              Prix 
+                            </summary>
+                            <div class="facets__display text-size--smaller">
+                              
+                              <div class="facets__header"><span class="facets__selected">Le prix le plus élevé est de $12.00</span>
+                                <facet-remove>
+                                  <a href="/fr/collections/reflective-accessories" class="facets__reset link underlined-link js-facet-remove" role="button">Réinitialiser</a>
+                                </facet-remove>
+                              </div><price-range class="facets__price">
+  <div class="field">
+    <label class="field__label visually-hidden" for="desktop-Search-In-Modal">De</label>
+    <span class="field__currency">$</span>
+    <input class="field__input" name="filter.v.price.gte" id="desktop-Filter-Prix-GTE" type="number" inputmode="numeric" min="0" max="12" placeholder="0" style="">
+  </div>
+
+  <label class="field__label" for="desktop-Search-In-Modal">À</label>
+  
+  <div class="field">
+    <span class="field__currency">$</span>
+    <input class="field__input" name="filter.v.price.lte" id="desktop-Filter-Prix-LTE" type="number" inputmode="numeric" min="0" max="12" placeholder="12" style="">
+  </div>
+</price-range>
+
+<div id="desktop-facets-price-range-slider" data-js-price-range-slider="" class="range-slider"><input type="range" min="0" max="12" step="1" value="0" disabled="" style=""><input type="range" min="0" max="12" step="1" value="12" disabled="" style=""><div role="slider" class="range-slider__thumb" data-lower="" aria-valuemin="0" aria-valuemax="12" aria-valuenow="0" aria-valuetext="0" aria-disabled="false" tabindex="0" style="left: calc(0% + 8px);"></div><div role="slider" class="range-slider__thumb" data-upper="" aria-valuemin="0" aria-valuemax="12" aria-valuenow="12" aria-valuetext="12" aria-disabled="false" tabindex="0" style="left: calc(100% - 8px);"></div><div class="range-slider__range"></div></div></div>
+                              
+                          </details><details id="Filter-filter-p-product_type-desktop" class="disclosure-has-popup facets__disclosure js-filter" data-index="3">
+                            <summary class="facets__summary">
+                              Type de produit  
+                            </summary>
+                            <div class="facets__display text-size--smaller">
+                              <div class="facets__header">
+                                <span class="facets__selected no-js-hidden">0&nbsp;sélectionné</span>
+                                <facet-remove>
+                                  <a href="/fr/collections/reflective-accessories" class="facets__reset link underlined-link js-facet-remove" role="button">Réinitialiser</a>
+                                </facet-remove>
+                              </div><ul class="facets__list list-unstyled swatch-list--text swatch-list--text-onecolumn" role="list"><li class="list-menu__item facets__item   ">
+
+      <label for="desktop-Filter-type-de-produit-1" class="facet-checkbox">
+        
+        <input type="checkbox" class="styled-checkbox" name="filter.p.product_type" value="buttons" id="desktop-Filter-type-de-produit-1" style=""><span>buttons (1)</span>
+
+      </label>
+
+    </li><li class="list-menu__item facets__item   ">
+
+      <label for="desktop-Filter-type-de-produit-2" class="facet-checkbox">
+        
+        <input type="checkbox" class="styled-checkbox" name="filter.p.product_type" value="reflector" id="desktop-Filter-type-de-produit-2" style=""><span>reflector (2)</span>
+
+      </label>
+
+    </li><li class="list-menu__item facets__item   ">
+
+      <label for="desktop-Filter-type-de-produit-3" class="facet-checkbox">
+        
+        <input type="checkbox" class="styled-checkbox" name="filter.p.product_type" value="sticker" id="desktop-Filter-type-de-produit-3" style=""><span>sticker (3)</span>
+
+      </label>
+
+    </li></ul></div>
+                          </details><details id="Filter-filter-v-option-size-desktop" class="disclosure-has-popup facets__disclosure js-filter" data-index="4">
+                            <summary class="facets__summary">
+                              Size  
+                            </summary>
+                            <div class="facets__display text-size--smaller">
+                              <div class="facets__header">
+                                <span class="facets__selected no-js-hidden">0&nbsp;sélectionné</span>
+                                <facet-remove>
+                                  <a href="/fr/collections/reflective-accessories" class="facets__reset link underlined-link js-facet-remove" role="button">Réinitialiser</a>
+                                </facet-remove>
+                              </div><ul class="facets__list list-unstyled swatch-list--text swatch-list--text-onecolumn" role="list"><li class="list-menu__item facets__item   ">
+
+      <label for="desktop-Filter-size-1" class="facet-checkbox">
+        
+        <input type="checkbox" class="styled-checkbox" name="filter.v.option.size" value="Maxi 28 mm" id="desktop-Filter-size-1" style=""><span>Maxi 28 mm (1)</span>
+
+      </label>
+
+    </li><li class="list-menu__item facets__item   ">
+
+      <label for="desktop-Filter-size-2" class="facet-checkbox">
+        
+        <input type="checkbox" class="styled-checkbox" name="filter.v.option.size" value="Mini 22 mm" id="desktop-Filter-size-2" style=""><span>Mini 22 mm (1)</span>
+
+      </label>
+
+    </li></ul></div>
+                          </details><details id="Filter-filter-p-m-custom-special_features-desktop" class="disclosure-has-popup facets__disclosure js-filter" data-index="5" data-and-operator="">
+                            <summary class="facets__summary">
+                              Special Features  
+                            </summary>
+                            <div class="facets__display text-size--smaller">
+                              <div class="facets__header">
+                                <span class="facets__selected no-js-hidden">0&nbsp;sélectionné</span>
+                                <facet-remove>
+                                  <a href="/fr/collections/reflective-accessories" class="facets__reset link underlined-link js-facet-remove" role="button">Réinitialiser</a>
+                                </facet-remove>
+                              </div><span class="facets__and-helper-text--mobile text-size--smaller hide">Tout associer</span><ul class="facets__list list-unstyled swatch-list--text swatch-list--text-onecolumn" role="list"><li class="list-menu__item facets__item   ">
+
+      <label for="desktop-Filter-special-features-1" class="facet-checkbox">
+        
+        <input type="checkbox" class="styled-checkbox" name="filter.p.m.custom.special_features" value="Reflective" id="desktop-Filter-special-features-1" style=""><span>Reflective (6)</span>
+
+      </label>
+
+    </li><li class="list-menu__item facets__item   ">
+
+      <label for="desktop-Filter-special-features-2" class="facet-checkbox">
+        
+        <input type="checkbox" class="styled-checkbox" name="filter.p.m.custom.special_features" value="Sticky" id="desktop-Filter-special-features-2" style=""><span>Sticky (3)</span>
+
+      </label>
+
+    </li></ul></div>
+                          </details><noscript>
+                      <button type="submit" class="facets__button button">Filtrer</button>
+                    </noscript>
+
+                  </div>
+
+                </div><div><div class="collection-filters__item sorting">
+                    <div class="collection-filters__field">
+                      <label class="collection-filters__label text-size--smaller" for="SortBy">Trier par&nbsp;:</label>
+                      <div class="select"><select name="sort_by" class="select__select collection-filters__sort" id="SortBy" aria-describedby="a11y-refresh-page-message"><option value="manual">En vedette</option><option value="best-selling" selected="selected">Meilleures ventes</option><option value="title-ascending">Alphabétique, de A à Z</option><option value="title-descending">Alphabétique, de Z à A</option><option value="price-ascending">Prix: faible à élevé</option><option value="price-descending">Prix: élevé à faible</option><option value="created-ascending">Date, de la plus ancienne à la plus récente</option><option value="created-descending">Date, de la plus récente à la plus ancienne</option></select>
+                      </div>
+                    </div>
+                    <noscript>
+                      <button type="submit" class="button button--small">Trier</button>
+                    </noscript>
+                  </div></div>
+
+            </form>
+
+          </facet-filters-form>
+
+        </div>
+
+      </sidebar-drawer><collection-filters-mobile-handle class="collection-filters-handle-holder" onclick="document.getElementById('site-filters-sidebar').show()">
+        <button id="collection-filters-handle" class="button button--underline">Filtrer et trier<span class="svg svg__arrow" aria-hidden="true"><svg width="24" height="19" viewBox="0 0 24 19" fill="none" xmlns="http://www.w3.org/2000/svg"><rect x="3" width="2" height="16.0475" rx="1" fill="black"></rect><rect x="10.9991" width="2" height="17.9375" rx="1" fill="black"></rect><rect x="18.9983" y="1.71045" width="2" height="16.2271" rx="1" fill="black"></rect><rect x="0.998749" y="12.0285" width="6.00253" height="6.00253" rx="3.00126" fill="black"></rect><rect x="9.00189" y="6" width="6.02849" height="6.02849" rx="3.01425" fill="black"></rect><rect x="17.0186" width="6.00282" height="6.00282" rx="3.00141" fill="black"></rect></svg></span>
+        </button>
+      </collection-filters-mobile-handle></div>
+  
+  <script src="//highlight-theme-main.myshopify.com/cdn/shop/t/4/assets/component-facets.js?v=20876569085785725791771965907" defer=""></script></div>
+</div>
+
+<div id="CollectionProductGrid">
+  <div id="main-collection-product-grid" data-id="template--15085564559521__main" data-count="6"><link href="//highlight-theme-main.myshopify.com/cdn/shop/t/4/assets/component-collection-layout.css?v=165857045891936961991747066535" rel="stylesheet" type="text/css" media="all">
+
+<div class="collection collection--asymmetrical
+  
+" data-number="3"><div class="product-item product-item--0 two-tenths push-left-one-tenth push-top-two-tenths lap--six-plus-tenths lap--push-left-none lap--push-top-none palm--five-plus-tenths palm--push-top-none palm--push-left-none product-item--zoom" data-scroll-speed="-.35" data-scroll-disable-on-lap="" data-js-product-item="" style="transform: translateY(767px);"><a class="product-item__link" href="/fr/collections/reflective-accessories/products/reflective-buttons">
+
+    <div class="product-item__image ">
+
+<figure data-crop="true" class="lazy-image animation  " data-ratio="0.8042895442359249" style="padding-top: 124.33333333333334%"><img class="img lazy lazyloaded" width="1200" height="1492" src="//highlight-theme-main.myshopify.com/cdn/shop/products/23-1.jpg?v=1616997988&amp;width=480" alt="Boutons réfléchissants" srcset="//highlight-theme-main.myshopify.com/cdn/shop/products/23-1.jpg?v=1616997988&amp;width=260 260w,//highlight-theme-main.myshopify.com/cdn/shop/products/23-1.jpg?v=1616997988&amp;width=320 320w,//highlight-theme-main.myshopify.com/cdn/shop/products/23-1.jpg?v=1616997988&amp;width=360 360w,//highlight-theme-main.myshopify.com/cdn/shop/products/23-1.jpg?v=1616997988&amp;width=420 420w,//highlight-theme-main.myshopify.com/cdn/shop/products/23-1.jpg?v=1616997988&amp;width=480 480w,//highlight-theme-main.myshopify.com/cdn/shop/products/23-1.jpg?v=1616997988&amp;width=640 640w,//highlight-theme-main.myshopify.com/cdn/shop/products/23-1.jpg?v=1616997988&amp;width=840 840w,//highlight-theme-main.myshopify.com/cdn/shop/products/23-1.jpg?v=1616997988&amp;width=1080 1080w" sizes="(max-width: 599px) 46vw, (max-width: 1023px) 55vw, 17vw" onload="this.classList.add('lazyloaded')"></figure><quick-view-product class="quick-add-to-cart">
+            <button data-href="/fr/products/reflective-buttons" class="product__add-to-cart button button--solid button--wide text-size--smaller" data-js-product-add-to-cart="" data-id="6632818213025">
+              <span class="add-to-cart__text lap--hide">Choisir les options</span>
+              <span class="add-to-cart__text hide lap--show-block"><svg aria-hidden="true" width="19" height="22" viewBox="0 0 19 22" fill="none" xmlns="http://www.w3.org/2000/svg"><path style="fill:none !important" d="M5.64215 5.7028H3.91599C2.69134 5.7028 1.67962 6.65802 1.61025 7.87978L1.00378 18.5616C0.928627 19.8854 1.98264 21 3.30952 21H15.3571C16.684 21 17.738 19.8854 17.6629 18.5616L17.0564 7.87978C16.987 6.65802 15.9753 5.7028 14.7507 5.7028H13.0245M5.64215 5.7028H13.0245M5.64215 5.7028V4.07692C5.64215 2.37758 7.02078 1 8.72139 1H9.94524C11.6458 1 13.0245 2.37758 13.0245 4.07692V5.7028" stroke="white" stroke-width="1.5"></path><rect x="9" y="10" width="1" height="7" fill="white"></rect><rect x="9" y="10" width="1" height="7" fill="white"></rect><rect x="9" y="10" width="1" height="7" fill="white"></rect><rect x="6" y="14" width="1" height="7" transform="rotate(-90 6 14)" fill="white"></rect><rect x="6" y="14" width="1" height="7" transform="rotate(-90 6 14)" fill="white"></rect><rect x="6" y="14" width="1" height="7" transform="rotate(-90 6 14)" fill="white"></rect></svg></span>
+            </button>
+          </quick-view-product><div class="product-item__variant-image" style="display: none" data-id="0">
+
+<figure data-crop="true" class="lazy-image animation  " data-ratio="0.8042895442359249" style="padding-top: 124.33333333333334%"><img class="img lazy" width="1200" height="1492" src="//highlight-theme-main.myshopify.com/cdn/shop/products/23-4.jpg?v=1616997988&amp;width=480" alt="Boutons réfléchissants" srcset="//highlight-theme-main.myshopify.com/cdn/shop/products/23-4.jpg?v=1616997988&amp;width=260 260w,//highlight-theme-main.myshopify.com/cdn/shop/products/23-4.jpg?v=1616997988&amp;width=320 320w,//highlight-theme-main.myshopify.com/cdn/shop/products/23-4.jpg?v=1616997988&amp;width=360 360w,//highlight-theme-main.myshopify.com/cdn/shop/products/23-4.jpg?v=1616997988&amp;width=420 420w,//highlight-theme-main.myshopify.com/cdn/shop/products/23-4.jpg?v=1616997988&amp;width=480 480w,//highlight-theme-main.myshopify.com/cdn/shop/products/23-4.jpg?v=1616997988&amp;width=640 640w,//highlight-theme-main.myshopify.com/cdn/shop/products/23-4.jpg?v=1616997988&amp;width=840 840w,//highlight-theme-main.myshopify.com/cdn/shop/products/23-4.jpg?v=1616997988&amp;width=1080 1080w" sizes="(max-width: 599px) 46vw, (max-width: 1023px) 55vw, 17vw" loading="lazy" onload="this.classList.add('lazyloaded')"></figure></div><div class="product-item__variant-image" style="display: none" data-id="1">
+
+<figure data-crop="true" class="lazy-image animation  " data-ratio="0.8042895442359249" style="padding-top: 124.33333333333334%"><img class="img lazy lazyloaded" width="1200" height="1492" src="//highlight-theme-main.myshopify.com/cdn/shop/products/23-1.jpg?v=1616997988&amp;width=480" alt="Boutons réfléchissants" srcset="//highlight-theme-main.myshopify.com/cdn/shop/products/23-1.jpg?v=1616997988&amp;width=260 260w,//highlight-theme-main.myshopify.com/cdn/shop/products/23-1.jpg?v=1616997988&amp;width=320 320w,//highlight-theme-main.myshopify.com/cdn/shop/products/23-1.jpg?v=1616997988&amp;width=360 360w,//highlight-theme-main.myshopify.com/cdn/shop/products/23-1.jpg?v=1616997988&amp;width=420 420w,//highlight-theme-main.myshopify.com/cdn/shop/products/23-1.jpg?v=1616997988&amp;width=480 480w,//highlight-theme-main.myshopify.com/cdn/shop/products/23-1.jpg?v=1616997988&amp;width=640 640w,//highlight-theme-main.myshopify.com/cdn/shop/products/23-1.jpg?v=1616997988&amp;width=840 840w,//highlight-theme-main.myshopify.com/cdn/shop/products/23-1.jpg?v=1616997988&amp;width=1080 1080w" sizes="(max-width: 599px) 46vw, (max-width: 1023px) 55vw, 17vw" loading="lazy" onload="this.classList.add('lazyloaded')"></figure></div><div class="product-item__variant-image" style="display: none" data-id="2">
+
+<figure data-crop="true" class="lazy-image animation  " data-ratio="0.8042895442359249" style="padding-top: 124.33333333333334%"><img class="img lazy" width="1200" height="1492" src="//highlight-theme-main.myshopify.com/cdn/shop/products/23-3.jpg?v=1617452966&amp;width=480" alt="Boutons réfléchissants" srcset="//highlight-theme-main.myshopify.com/cdn/shop/products/23-3.jpg?v=1617452966&amp;width=260 260w,//highlight-theme-main.myshopify.com/cdn/shop/products/23-3.jpg?v=1617452966&amp;width=320 320w,//highlight-theme-main.myshopify.com/cdn/shop/products/23-3.jpg?v=1617452966&amp;width=360 360w,//highlight-theme-main.myshopify.com/cdn/shop/products/23-3.jpg?v=1617452966&amp;width=420 420w,//highlight-theme-main.myshopify.com/cdn/shop/products/23-3.jpg?v=1617452966&amp;width=480 480w,//highlight-theme-main.myshopify.com/cdn/shop/products/23-3.jpg?v=1617452966&amp;width=640 640w,//highlight-theme-main.myshopify.com/cdn/shop/products/23-3.jpg?v=1617452966&amp;width=840 840w,//highlight-theme-main.myshopify.com/cdn/shop/products/23-3.jpg?v=1617452966&amp;width=1080 1080w" sizes="(max-width: 599px) 46vw, (max-width: 1023px) 55vw, 17vw" loading="lazy" onload="this.classList.add('lazyloaded')"></figure></div><div class="product-item__variant-image" style="display: none" data-id="3">
+
+<figure data-crop="true" class="lazy-image animation  " data-ratio="0.8042895442359249" style="padding-top: 124.33333333333334%"><img class="img lazy" width="1200" height="1492" src="//highlight-theme-main.myshopify.com/cdn/shop/products/23-2.jpg?v=1617452966&amp;width=480" alt="Boutons réfléchissants" srcset="//highlight-theme-main.myshopify.com/cdn/shop/products/23-2.jpg?v=1617452966&amp;width=260 260w,//highlight-theme-main.myshopify.com/cdn/shop/products/23-2.jpg?v=1617452966&amp;width=320 320w,//highlight-theme-main.myshopify.com/cdn/shop/products/23-2.jpg?v=1617452966&amp;width=360 360w,//highlight-theme-main.myshopify.com/cdn/shop/products/23-2.jpg?v=1617452966&amp;width=420 420w,//highlight-theme-main.myshopify.com/cdn/shop/products/23-2.jpg?v=1617452966&amp;width=480 480w,//highlight-theme-main.myshopify.com/cdn/shop/products/23-2.jpg?v=1617452966&amp;width=640 640w,//highlight-theme-main.myshopify.com/cdn/shop/products/23-2.jpg?v=1617452966&amp;width=840 840w,//highlight-theme-main.myshopify.com/cdn/shop/products/23-2.jpg?v=1617452966&amp;width=1080 1080w" sizes="(max-width: 599px) 46vw, (max-width: 1023px) 55vw, 17vw" loading="lazy" onload="this.classList.add('lazyloaded')"></figure></div></div>
+
+    <div class="product-item__caption">
+      
+      <span class="product-item__title">
+        <span>Boutons réfléchissants</span>
+      </span><span class="product-item__price"><span class="visually-hidden">Prix</span>$12.00</span>
+    </div>
+
+  </a><product-item-variants class="product-item__variants" aria-hidden="true"><div class="product-item__variant" data-href="/fr/products/reflective-buttons?variant=39521173700769" data-id="0"><span style="background-color:jaunefluo"></span></div><div class="product-item__variant" data-href="/fr/products/reflective-buttons?variant=39521173438625" data-id="1"><span style="background-color:noir"></span></div><div class="product-item__variant" data-href="/fr/products/reflective-buttons?variant=39521173504161" data-id="2"><span style="background-color:blanc"></span></div><div class="product-item__variant" data-href="/fr/products/reflective-buttons?variant=39521173602465" data-id="3"><span style="background-color:gris"></span></div></product-item-variants>
+
+</div><div class="product-item product-item--1 four-tenths push-left-one-tenth push-top-one-tenth lap--four-plus-tenths lap--push-top-one-tenth palm--five-plus-tenths palm--push-top-two-tenths palm--push-left-one-tenth product-item--zoom" data-js-product-item=""><div class="product-badge text-size--small badge"><span class="product-badge__icon" role="img" aria-hidden="true">
+            <img src="//highlight-theme-main.myshopify.com/cdn/shop/files/flag-3-128_2.png?crop=center&amp;height=24&amp;v=1684408534&amp;width=24" srcset="//highlight-theme-main.myshopify.com/cdn/shop/files/flag-3-128_2.png?crop=center&amp;height=24&amp;v=1684408534&amp;width=24 24w, //highlight-theme-main.myshopify.com/cdn/shop/files/flag-3-128_2.png?crop=center&amp;height=48&amp;v=1684408534&amp;width=48 48w, //highlight-theme-main.myshopify.com/cdn/shop/files/flag-3-128_2.png?crop=center&amp;height=72&amp;v=1684408534&amp;width=72 72w" alt="" width="24" height="24" sizes="24px" loading="lazy">
+          </span><span class="product-badge__title">Highly reflective</span>
+      </div><a class="product-item__link" href="/fr/collections/reflective-accessories/products/reflective-badge-x2">
+
+    <div class="product-item__image ">
+
+<figure data-crop="true" class="lazy-image animation  " data-ratio="0.8042895442359249" style="padding-top: 124.33333333333334%"><img class="img lazy lazyloaded" width="1200" height="1492" src="//highlight-theme-main.myshopify.com/cdn/shop/products/16-5.jpg?v=1615814551&amp;width=480" alt="Badge réfléchissant x2" srcset="//highlight-theme-main.myshopify.com/cdn/shop/products/16-5.jpg?v=1615814551&amp;width=260 260w,//highlight-theme-main.myshopify.com/cdn/shop/products/16-5.jpg?v=1615814551&amp;width=320 320w,//highlight-theme-main.myshopify.com/cdn/shop/products/16-5.jpg?v=1615814551&amp;width=360 360w,//highlight-theme-main.myshopify.com/cdn/shop/products/16-5.jpg?v=1615814551&amp;width=420 420w,//highlight-theme-main.myshopify.com/cdn/shop/products/16-5.jpg?v=1615814551&amp;width=480 480w,//highlight-theme-main.myshopify.com/cdn/shop/products/16-5.jpg?v=1615814551&amp;width=640 640w,//highlight-theme-main.myshopify.com/cdn/shop/products/16-5.jpg?v=1615814551&amp;width=840 840w,//highlight-theme-main.myshopify.com/cdn/shop/products/16-5.jpg?v=1615814551&amp;width=1080 1080w" sizes="(max-width: 599px) 46vw, (max-width: 1023px) 38vw, 34vw" onload="this.classList.add('lazyloaded')"></figure><quick-add-to-cart class="quick-add-to-cart">
+            <product-form data-ajax-cart="">
+              <div class="quick-add-to-cart-button"><form method="post" action="/fr/cart/add" id="product_form_6591722356897" accept-charset="UTF-8" class="shopify-product-form" enctype="multipart/form-data"><input type="hidden" name="form_type" value="product" style=""><input type="hidden" name="utf8" value="✓" style=""><input type="hidden" name="id" value="39405453803681" style="">
+                  <button type="submit" name="add" class="product__add-to-cart button button--solid button--wide text-size--smaller" data-js-product-add-to-cart="">
+                    <span class="add-to-cart__text lap--hide">
+                      Ajouter au panier
+                    </span>
+                    <span class="add-to-cart__text hide lap--show-block"><svg aria-hidden="true" width="19" height="22" viewBox="0 0 19 22" fill="none" xmlns="http://www.w3.org/2000/svg"><path style="fill:none !important" d="M5.64215 5.7028H3.91599C2.69134 5.7028 1.67962 6.65802 1.61025 7.87978L1.00378 18.5616C0.928627 19.8854 1.98264 21 3.30952 21H15.3571C16.684 21 17.738 19.8854 17.6629 18.5616L17.0564 7.87978C16.987 6.65802 15.9753 5.7028 14.7507 5.7028H13.0245M5.64215 5.7028H13.0245M5.64215 5.7028V4.07692C5.64215 2.37758 7.02078 1 8.72139 1H9.94524C11.6458 1 13.0245 2.37758 13.0245 4.07692V5.7028" stroke="white" stroke-width="1.5"></path><rect x="9" y="10" width="1" height="7" fill="white"></rect><rect x="9" y="10" width="1" height="7" fill="white"></rect><rect x="9" y="10" width="1" height="7" fill="white"></rect><rect x="6" y="14" width="1" height="7" transform="rotate(-90 6 14)" fill="white"></rect><rect x="6" y="14" width="1" height="7" transform="rotate(-90 6 14)" fill="white"></rect><rect x="6" y="14" width="1" height="7" transform="rotate(-90 6 14)" fill="white"></rect></svg></span>
+                  </button><input type="hidden" name="product-id" value="6591722356897" style=""><input type="hidden" name="section-id" value="template--15085564559521__main" style=""></form></div>
+            </product-form>
+          </quick-add-to-cart></div>
+
+    <div class="product-item__caption">
+      
+      <span class="product-item__title">
+        <span>Badge réfléchissant x2</span>
+      </span><span class="product-item__price"><span class="visually-hidden">Prix</span>$8.00</span>
+    </div>
+
+  </a>
+
+</div><div class="product-item product-item--2 two-tenths push-left-one-tenth push-top-half-tenth lap--four-plus-tenths lap--push-left-none lap--push-top-one-tenth palm--five-plus-tenths palm--push-top-one-tenth palm--push-left-none product-item--zoom" data-scroll-speed=".35" data-scroll-disable-on-lap="" data-js-product-item="" style="transform: translateY(-799px);"><a class="product-item__link" href="/fr/collections/reflective-accessories/products/copy-of-reflective-sticker-x2">
+
+    <div class="product-item__image ">
+
+<figure data-crop="true" class="lazy-image animation  " data-ratio="0.8042895442359249" style="padding-top: 124.33333333333334%"><img class="img lazy lazyloaded" width="1200" height="1492" src="//highlight-theme-main.myshopify.com/cdn/shop/products/15-1.jpg?v=1615813063&amp;width=480" alt="Badge réfléchissant - fondu" srcset="//highlight-theme-main.myshopify.com/cdn/shop/products/15-1.jpg?v=1615813063&amp;width=260 260w,//highlight-theme-main.myshopify.com/cdn/shop/products/15-1.jpg?v=1615813063&amp;width=320 320w,//highlight-theme-main.myshopify.com/cdn/shop/products/15-1.jpg?v=1615813063&amp;width=360 360w,//highlight-theme-main.myshopify.com/cdn/shop/products/15-1.jpg?v=1615813063&amp;width=420 420w,//highlight-theme-main.myshopify.com/cdn/shop/products/15-1.jpg?v=1615813063&amp;width=480 480w,//highlight-theme-main.myshopify.com/cdn/shop/products/15-1.jpg?v=1615813063&amp;width=640 640w,//highlight-theme-main.myshopify.com/cdn/shop/products/15-1.jpg?v=1615813063&amp;width=840 840w,//highlight-theme-main.myshopify.com/cdn/shop/products/15-1.jpg?v=1615813063&amp;width=1080 1080w" sizes="(max-width: 599px) 46vw, (max-width: 1023px) 38vw, 17vw" loading="lazy" onload="this.classList.add('lazyloaded')"></figure><quick-view-product class="quick-add-to-cart">
+            <button data-href="/fr/products/copy-of-reflective-sticker-x2" class="product__add-to-cart button button--solid button--wide text-size--smaller" data-js-product-add-to-cart="" data-id="6591620055201">
+              <span class="add-to-cart__text lap--hide">Choisir les options</span>
+              <span class="add-to-cart__text hide lap--show-block"><svg aria-hidden="true" width="19" height="22" viewBox="0 0 19 22" fill="none" xmlns="http://www.w3.org/2000/svg"><path style="fill:none !important" d="M5.64215 5.7028H3.91599C2.69134 5.7028 1.67962 6.65802 1.61025 7.87978L1.00378 18.5616C0.928627 19.8854 1.98264 21 3.30952 21H15.3571C16.684 21 17.738 19.8854 17.6629 18.5616L17.0564 7.87978C16.987 6.65802 15.9753 5.7028 14.7507 5.7028H13.0245M5.64215 5.7028H13.0245M5.64215 5.7028V4.07692C5.64215 2.37758 7.02078 1 8.72139 1H9.94524C11.6458 1 13.0245 2.37758 13.0245 4.07692V5.7028" stroke="white" stroke-width="1.5"></path><rect x="9" y="10" width="1" height="7" fill="white"></rect><rect x="9" y="10" width="1" height="7" fill="white"></rect><rect x="9" y="10" width="1" height="7" fill="white"></rect><rect x="6" y="14" width="1" height="7" transform="rotate(-90 6 14)" fill="white"></rect><rect x="6" y="14" width="1" height="7" transform="rotate(-90 6 14)" fill="white"></rect><rect x="6" y="14" width="1" height="7" transform="rotate(-90 6 14)" fill="white"></rect></svg></span>
+            </button>
+          </quick-view-product><div class="product-item__variant-image" style="display: none" data-id="0">
+
+<figure data-crop="true" class="lazy-image animation  " data-ratio="0.8042895442359249" style="padding-top: 124.33333333333334%"><img class="img lazy" width="1200" height="1492" src="//highlight-theme-main.myshopify.com/cdn/shop/products/15-2.jpg?v=1615813063&amp;width=480" alt="Badge réfléchissant - fondu" srcset="//highlight-theme-main.myshopify.com/cdn/shop/products/15-2.jpg?v=1615813063&amp;width=260 260w,//highlight-theme-main.myshopify.com/cdn/shop/products/15-2.jpg?v=1615813063&amp;width=320 320w,//highlight-theme-main.myshopify.com/cdn/shop/products/15-2.jpg?v=1615813063&amp;width=360 360w,//highlight-theme-main.myshopify.com/cdn/shop/products/15-2.jpg?v=1615813063&amp;width=420 420w,//highlight-theme-main.myshopify.com/cdn/shop/products/15-2.jpg?v=1615813063&amp;width=480 480w,//highlight-theme-main.myshopify.com/cdn/shop/products/15-2.jpg?v=1615813063&amp;width=640 640w,//highlight-theme-main.myshopify.com/cdn/shop/products/15-2.jpg?v=1615813063&amp;width=840 840w,//highlight-theme-main.myshopify.com/cdn/shop/products/15-2.jpg?v=1615813063&amp;width=1080 1080w" sizes="(max-width: 599px) 46vw, (max-width: 1023px) 38vw, 17vw" loading="lazy" onload="this.classList.add('lazyloaded')"></figure></div><div class="product-item__variant-image" style="display: none" data-id="1">
+
+<figure data-crop="true" class="lazy-image animation  " data-ratio="0.8042895442359249" style="padding-top: 124.33333333333334%"><img class="img lazy" width="1200" height="1492" src="//highlight-theme-main.myshopify.com/cdn/shop/products/15-7.jpg?v=1615813064&amp;width=480" alt="Badge réfléchissant - fondu" srcset="//highlight-theme-main.myshopify.com/cdn/shop/products/15-7.jpg?v=1615813064&amp;width=260 260w,//highlight-theme-main.myshopify.com/cdn/shop/products/15-7.jpg?v=1615813064&amp;width=320 320w,//highlight-theme-main.myshopify.com/cdn/shop/products/15-7.jpg?v=1615813064&amp;width=360 360w,//highlight-theme-main.myshopify.com/cdn/shop/products/15-7.jpg?v=1615813064&amp;width=420 420w,//highlight-theme-main.myshopify.com/cdn/shop/products/15-7.jpg?v=1615813064&amp;width=480 480w,//highlight-theme-main.myshopify.com/cdn/shop/products/15-7.jpg?v=1615813064&amp;width=640 640w,//highlight-theme-main.myshopify.com/cdn/shop/products/15-7.jpg?v=1615813064&amp;width=840 840w,//highlight-theme-main.myshopify.com/cdn/shop/products/15-7.jpg?v=1615813064&amp;width=1080 1080w" sizes="(max-width: 599px) 46vw, (max-width: 1023px) 38vw, 17vw" loading="lazy" onload="this.classList.add('lazyloaded')"></figure></div><div class="product-item__variant-image" style="display: none" data-id="2">
+
+<figure data-crop="true" class="lazy-image animation  " data-ratio="0.8042895442359249" style="padding-top: 124.33333333333334%"><img class="img lazy" width="1200" height="1492" src="//highlight-theme-main.myshopify.com/cdn/shop/products/15-5.jpg?v=1615813064&amp;width=480" alt="Badge réfléchissant - fondu" srcset="//highlight-theme-main.myshopify.com/cdn/shop/products/15-5.jpg?v=1615813064&amp;width=260 260w,//highlight-theme-main.myshopify.com/cdn/shop/products/15-5.jpg?v=1615813064&amp;width=320 320w,//highlight-theme-main.myshopify.com/cdn/shop/products/15-5.jpg?v=1615813064&amp;width=360 360w,//highlight-theme-main.myshopify.com/cdn/shop/products/15-5.jpg?v=1615813064&amp;width=420 420w,//highlight-theme-main.myshopify.com/cdn/shop/products/15-5.jpg?v=1615813064&amp;width=480 480w,//highlight-theme-main.myshopify.com/cdn/shop/products/15-5.jpg?v=1615813064&amp;width=640 640w,//highlight-theme-main.myshopify.com/cdn/shop/products/15-5.jpg?v=1615813064&amp;width=840 840w,//highlight-theme-main.myshopify.com/cdn/shop/products/15-5.jpg?v=1615813064&amp;width=1080 1080w" sizes="(max-width: 599px) 46vw, (max-width: 1023px) 38vw, 17vw" loading="lazy" onload="this.classList.add('lazyloaded')"></figure></div><div class="product-item__variant-image" style="display: none" data-id="3">
+
+<figure data-crop="true" class="lazy-image animation  " data-ratio="0.8042895442359249" style="padding-top: 124.33333333333334%"><img class="img lazy" width="1200" height="1492" src="//highlight-theme-main.myshopify.com/cdn/shop/products/15-4.jpg?v=1615813064&amp;width=480" alt="Badge réfléchissant - fondu" srcset="//highlight-theme-main.myshopify.com/cdn/shop/products/15-4.jpg?v=1615813064&amp;width=260 260w,//highlight-theme-main.myshopify.com/cdn/shop/products/15-4.jpg?v=1615813064&amp;width=320 320w,//highlight-theme-main.myshopify.com/cdn/shop/products/15-4.jpg?v=1615813064&amp;width=360 360w,//highlight-theme-main.myshopify.com/cdn/shop/products/15-4.jpg?v=1615813064&amp;width=420 420w,//highlight-theme-main.myshopify.com/cdn/shop/products/15-4.jpg?v=1615813064&amp;width=480 480w,//highlight-theme-main.myshopify.com/cdn/shop/products/15-4.jpg?v=1615813064&amp;width=640 640w,//highlight-theme-main.myshopify.com/cdn/shop/products/15-4.jpg?v=1615813064&amp;width=840 840w,//highlight-theme-main.myshopify.com/cdn/shop/products/15-4.jpg?v=1615813064&amp;width=1080 1080w" sizes="(max-width: 599px) 46vw, (max-width: 1023px) 38vw, 17vw" loading="lazy" onload="this.classList.add('lazyloaded')"></figure></div><div class="product-item__variant-image" style="display: none" data-id="4">
+
+<figure data-crop="true" class="lazy-image animation  " data-ratio="0.8042895442359249" style="padding-top: 124.33333333333334%"><img class="img lazy lazyloaded" width="1200" height="1492" src="//highlight-theme-main.myshopify.com/cdn/shop/products/15-1.jpg?v=1615813063&amp;width=480" alt="Badge réfléchissant - fondu" srcset="//highlight-theme-main.myshopify.com/cdn/shop/products/15-1.jpg?v=1615813063&amp;width=260 260w,//highlight-theme-main.myshopify.com/cdn/shop/products/15-1.jpg?v=1615813063&amp;width=320 320w,//highlight-theme-main.myshopify.com/cdn/shop/products/15-1.jpg?v=1615813063&amp;width=360 360w,//highlight-theme-main.myshopify.com/cdn/shop/products/15-1.jpg?v=1615813063&amp;width=420 420w,//highlight-theme-main.myshopify.com/cdn/shop/products/15-1.jpg?v=1615813063&amp;width=480 480w,//highlight-theme-main.myshopify.com/cdn/shop/products/15-1.jpg?v=1615813063&amp;width=640 640w,//highlight-theme-main.myshopify.com/cdn/shop/products/15-1.jpg?v=1615813063&amp;width=840 840w,//highlight-theme-main.myshopify.com/cdn/shop/products/15-1.jpg?v=1615813063&amp;width=1080 1080w" sizes="(max-width: 599px) 46vw, (max-width: 1023px) 38vw, 17vw" loading="lazy" onload="this.classList.add('lazyloaded')"></figure></div></div>
+
+    <div class="product-item__caption">
+      
+      <span class="product-item__title">
+        <span>Badge réfléchissant - fondu</span>
+      </span><span class="product-item__price"><span class="visually-hidden">Prix</span>$8.00</span>
+    </div>
+
+  </a><product-item-variants class="product-item__variants" aria-hidden="true"><div class="product-item__variant" data-href="/fr/products/copy-of-reflective-sticker-x2?variant=39405119897761" data-id="0"><span style="background-color:fondunoir"></span></div><div class="product-item__variant" data-href="/fr/products/copy-of-reflective-sticker-x2?variant=39405119930529" data-id="1"><span style="background-color:fondubleu"></span></div><div class="product-item__variant" data-href="/fr/products/copy-of-reflective-sticker-x2?variant=39405119996065" data-id="2"><span style="background-color:fondujaune"></span></div><div class="product-item__variant" data-href="/fr/products/copy-of-reflective-sticker-x2?variant=39405120028833" data-id="3"><span style="background-color:fondurouge"></span></div><div class="product-item__variant" data-href="/fr/products/copy-of-reflective-sticker-x2?variant=39405120061601" data-id="4"><span style="background-color:fonduvert"></span></div></product-item-variants>
+
+</div><div class="product-item product-item--3 three-tenths push-left-two-tenths push-top-one-tenth lap--six-plus-tenths lap--push-left-one-tenth lap--push-top-none palm--five-plus-tenths palm--push-top-none palm--push-left-one-tenth product-item--zoom" data-scroll-speed="-.1" data-scroll-disable-on-lap="" data-js-product-item="" style="transform: translateY(177px);"><a class="product-item__link" href="/fr/collections/reflective-accessories/products/reflective-sticker-x2">
+
+    <div class="product-item__image ">
+
+<figure data-crop="true" class="lazy-image animation  " data-ratio="0.8042895442359249" style="padding-top: 124.33333333333334%"><img class="img lazy lazyloaded" width="1200" height="1492" src="//highlight-theme-main.myshopify.com/cdn/shop/products/14-2.jpg?v=1615812321&amp;width=480" alt="Autocollant réfléchissant x2" srcset="//highlight-theme-main.myshopify.com/cdn/shop/products/14-2.jpg?v=1615812321&amp;width=260 260w,//highlight-theme-main.myshopify.com/cdn/shop/products/14-2.jpg?v=1615812321&amp;width=320 320w,//highlight-theme-main.myshopify.com/cdn/shop/products/14-2.jpg?v=1615812321&amp;width=360 360w,//highlight-theme-main.myshopify.com/cdn/shop/products/14-2.jpg?v=1615812321&amp;width=420 420w,//highlight-theme-main.myshopify.com/cdn/shop/products/14-2.jpg?v=1615812321&amp;width=480 480w,//highlight-theme-main.myshopify.com/cdn/shop/products/14-2.jpg?v=1615812321&amp;width=640 640w,//highlight-theme-main.myshopify.com/cdn/shop/products/14-2.jpg?v=1615812321&amp;width=840 840w,//highlight-theme-main.myshopify.com/cdn/shop/products/14-2.jpg?v=1615812321&amp;width=1080 1080w" sizes="(max-width: 599px) 46vw, (max-width: 1023px) 55vw, 25vw" loading="lazy" onload="this.classList.add('lazyloaded')"></figure><quick-view-product class="quick-add-to-cart">
+            <button data-href="/fr/products/reflective-sticker-x2" class="product__add-to-cart button button--solid button--wide text-size--smaller" data-js-product-add-to-cart="" data-id="6591581847713">
+              <span class="add-to-cart__text lap--hide">Choisir les options</span>
+              <span class="add-to-cart__text hide lap--show-block"><svg aria-hidden="true" width="19" height="22" viewBox="0 0 19 22" fill="none" xmlns="http://www.w3.org/2000/svg"><path style="fill:none !important" d="M5.64215 5.7028H3.91599C2.69134 5.7028 1.67962 6.65802 1.61025 7.87978L1.00378 18.5616C0.928627 19.8854 1.98264 21 3.30952 21H15.3571C16.684 21 17.738 19.8854 17.6629 18.5616L17.0564 7.87978C16.987 6.65802 15.9753 5.7028 14.7507 5.7028H13.0245M5.64215 5.7028H13.0245M5.64215 5.7028V4.07692C5.64215 2.37758 7.02078 1 8.72139 1H9.94524C11.6458 1 13.0245 2.37758 13.0245 4.07692V5.7028" stroke="white" stroke-width="1.5"></path><rect x="9" y="10" width="1" height="7" fill="white"></rect><rect x="9" y="10" width="1" height="7" fill="white"></rect><rect x="9" y="10" width="1" height="7" fill="white"></rect><rect x="6" y="14" width="1" height="7" transform="rotate(-90 6 14)" fill="white"></rect><rect x="6" y="14" width="1" height="7" transform="rotate(-90 6 14)" fill="white"></rect><rect x="6" y="14" width="1" height="7" transform="rotate(-90 6 14)" fill="white"></rect></svg></span>
+            </button>
+          </quick-view-product><div class="product-item__variant-image" style="display: none" data-id="0">
+
+<figure data-crop="true" class="lazy-image animation  " data-ratio="0.8042895442359249" style="padding-top: 124.33333333333334%"><img class="img lazy" width="1200" height="1492" src="//highlight-theme-main.myshopify.com/cdn/shop/products/14-5.jpg?v=1615812321&amp;width=480" alt="Autocollant réfléchissant x2" srcset="//highlight-theme-main.myshopify.com/cdn/shop/products/14-5.jpg?v=1615812321&amp;width=260 260w,//highlight-theme-main.myshopify.com/cdn/shop/products/14-5.jpg?v=1615812321&amp;width=320 320w,//highlight-theme-main.myshopify.com/cdn/shop/products/14-5.jpg?v=1615812321&amp;width=360 360w,//highlight-theme-main.myshopify.com/cdn/shop/products/14-5.jpg?v=1615812321&amp;width=420 420w,//highlight-theme-main.myshopify.com/cdn/shop/products/14-5.jpg?v=1615812321&amp;width=480 480w,//highlight-theme-main.myshopify.com/cdn/shop/products/14-5.jpg?v=1615812321&amp;width=640 640w,//highlight-theme-main.myshopify.com/cdn/shop/products/14-5.jpg?v=1615812321&amp;width=840 840w,//highlight-theme-main.myshopify.com/cdn/shop/products/14-5.jpg?v=1615812321&amp;width=1080 1080w" sizes="(max-width: 599px) 46vw, (max-width: 1023px) 55vw, 25vw" loading="lazy" onload="this.classList.add('lazyloaded')"></figure></div><div class="product-item__variant-image" style="display: none" data-id="1">
+
+<figure data-crop="true" class="lazy-image animation  " data-ratio="0.8042895442359249" style="padding-top: 124.33333333333334%"><img class="img lazy" width="1200" height="1492" src="//highlight-theme-main.myshopify.com/cdn/shop/products/14-6.jpg?v=1615812304&amp;width=480" alt="Autocollant réfléchissant x2" srcset="//highlight-theme-main.myshopify.com/cdn/shop/products/14-6.jpg?v=1615812304&amp;width=260 260w,//highlight-theme-main.myshopify.com/cdn/shop/products/14-6.jpg?v=1615812304&amp;width=320 320w,//highlight-theme-main.myshopify.com/cdn/shop/products/14-6.jpg?v=1615812304&amp;width=360 360w,//highlight-theme-main.myshopify.com/cdn/shop/products/14-6.jpg?v=1615812304&amp;width=420 420w,//highlight-theme-main.myshopify.com/cdn/shop/products/14-6.jpg?v=1615812304&amp;width=480 480w,//highlight-theme-main.myshopify.com/cdn/shop/products/14-6.jpg?v=1615812304&amp;width=640 640w,//highlight-theme-main.myshopify.com/cdn/shop/products/14-6.jpg?v=1615812304&amp;width=840 840w,//highlight-theme-main.myshopify.com/cdn/shop/products/14-6.jpg?v=1615812304&amp;width=1080 1080w" sizes="(max-width: 599px) 46vw, (max-width: 1023px) 55vw, 25vw" loading="lazy" onload="this.classList.add('lazyloaded')"></figure></div><div class="product-item__variant-image" style="display: none" data-id="2">
+
+<figure data-crop="true" class="lazy-image animation  " data-ratio="0.8042895442359249" style="padding-top: 124.33333333333334%"><img class="img lazy" width="1200" height="1492" src="//highlight-theme-main.myshopify.com/cdn/shop/products/14-1.jpg?v=1615812321&amp;width=480" alt="Autocollant réfléchissant x2" srcset="//highlight-theme-main.myshopify.com/cdn/shop/products/14-1.jpg?v=1615812321&amp;width=260 260w,//highlight-theme-main.myshopify.com/cdn/shop/products/14-1.jpg?v=1615812321&amp;width=320 320w,//highlight-theme-main.myshopify.com/cdn/shop/products/14-1.jpg?v=1615812321&amp;width=360 360w,//highlight-theme-main.myshopify.com/cdn/shop/products/14-1.jpg?v=1615812321&amp;width=420 420w,//highlight-theme-main.myshopify.com/cdn/shop/products/14-1.jpg?v=1615812321&amp;width=480 480w,//highlight-theme-main.myshopify.com/cdn/shop/products/14-1.jpg?v=1615812321&amp;width=640 640w,//highlight-theme-main.myshopify.com/cdn/shop/products/14-1.jpg?v=1615812321&amp;width=840 840w,//highlight-theme-main.myshopify.com/cdn/shop/products/14-1.jpg?v=1615812321&amp;width=1080 1080w" sizes="(max-width: 599px) 46vw, (max-width: 1023px) 55vw, 25vw" loading="lazy" onload="this.classList.add('lazyloaded')"></figure></div></div>
+
+    <div class="product-item__caption">
+      
+      <span class="product-item__title">
+        <span>Autocollant réfléchissant x2</span>
+      </span><span class="product-item__price"><span>Depuis $7.50</span><del>$10.00</del></span>
+    </div>
+
+  </a><product-item-variants class="product-item__variants" aria-hidden="true"><div class="product-item__variant" data-href="/fr/products/reflective-sticker-x2?variant=39405000458401" data-id="0"><span style="background-color:argentetargent"></span></div><div class="product-item__variant" data-href="/fr/products/reflective-sticker-x2?variant=39405000491169" data-id="1"><span style="background-color:noirnoir"></span></div><div class="product-item__variant" data-href="/fr/products/reflective-sticker-x2?variant=39405000523937" data-id="2"><span style="background-color:argentetnoir"></span></div></product-item-variants>
+
+</div><div class="product-item product-promotional four-tenths lap--eight-tenths palm--full-width push-left-two-tenths palm--push-left-none"><h3 class="product-item__text h3 collection-asymmetrical--item__text rte"><div class="rte" style="margin-bottom: 1.5em">Chaque produit, du réflecteur qui sauve des vies à la sucette faite à la main, regorge d'innovations. L'idée du produit vient en premier, suivie du design minimal.</div><a class="button button--underline" href="/fr/pages/unusual-usual-things" title="Apprendre encore plus">Apprendre encore plus<span aria-hidden="true" class="svg svg__arrow"><svg aria-hidden="true" focusable="false" role="presentation" enable-background="new -19 23 66 16" viewBox="-19 23 66 16" xmlns="http://www.w3.org/2000/svg"><path d="m-19 29.6h64v2.9h-64z"></path><path d="m47 31-2-2-6-6-2 2 5.9 6-5.9 6 2 2 6-6z"></path></svg></span></a></h3></div><div class="product-item product-item--5 two-tenths push-left-two-tenths push-top-two-tenths lap--six-plus-tenths lap--push-left-none lap--push-top-none palm--five-plus-tenths palm--push-top-none palm--push-left-none product-item--zoom" data-js-product-item=""><a class="product-item__link" href="/fr/collections/reflective-accessories/products/swinging-reflector-round">
+
+    <div class="product-item__image ">
+
+<figure data-crop="true" class="lazy-image animation  " data-ratio="0.8042895442359249" style="padding-top: 124.33333333333334%"><img class="img lazy lazyloaded" width="1200" height="1492" src="//highlight-theme-main.myshopify.com/cdn/shop/products/12-6.jpg?v=1615797428&amp;width=480" alt="Réflecteur pivotant - rond" srcset="//highlight-theme-main.myshopify.com/cdn/shop/products/12-6.jpg?v=1615797428&amp;width=260 260w,//highlight-theme-main.myshopify.com/cdn/shop/products/12-6.jpg?v=1615797428&amp;width=320 320w,//highlight-theme-main.myshopify.com/cdn/shop/products/12-6.jpg?v=1615797428&amp;width=360 360w,//highlight-theme-main.myshopify.com/cdn/shop/products/12-6.jpg?v=1615797428&amp;width=420 420w,//highlight-theme-main.myshopify.com/cdn/shop/products/12-6.jpg?v=1615797428&amp;width=480 480w,//highlight-theme-main.myshopify.com/cdn/shop/products/12-6.jpg?v=1615797428&amp;width=640 640w,//highlight-theme-main.myshopify.com/cdn/shop/products/12-6.jpg?v=1615797428&amp;width=840 840w,//highlight-theme-main.myshopify.com/cdn/shop/products/12-6.jpg?v=1615797428&amp;width=1080 1080w" sizes="(max-width: 599px) 46vw, (max-width: 1023px) 55vw, 17vw" loading="lazy" onload="this.classList.add('lazyloaded')"></figure><quick-view-product class="quick-add-to-cart">
+            <button data-href="/fr/products/swinging-reflector-round" class="product__add-to-cart button button--solid button--wide text-size--smaller" data-js-product-add-to-cart="" data-id="6590846992545">
+              <span class="add-to-cart__text lap--hide">Choisir les options</span>
+              <span class="add-to-cart__text hide lap--show-block"><svg aria-hidden="true" width="19" height="22" viewBox="0 0 19 22" fill="none" xmlns="http://www.w3.org/2000/svg"><path style="fill:none !important" d="M5.64215 5.7028H3.91599C2.69134 5.7028 1.67962 6.65802 1.61025 7.87978L1.00378 18.5616C0.928627 19.8854 1.98264 21 3.30952 21H15.3571C16.684 21 17.738 19.8854 17.6629 18.5616L17.0564 7.87978C16.987 6.65802 15.9753 5.7028 14.7507 5.7028H13.0245M5.64215 5.7028H13.0245M5.64215 5.7028V4.07692C5.64215 2.37758 7.02078 1 8.72139 1H9.94524C11.6458 1 13.0245 2.37758 13.0245 4.07692V5.7028" stroke="white" stroke-width="1.5"></path><rect x="9" y="10" width="1" height="7" fill="white"></rect><rect x="9" y="10" width="1" height="7" fill="white"></rect><rect x="9" y="10" width="1" height="7" fill="white"></rect><rect x="6" y="14" width="1" height="7" transform="rotate(-90 6 14)" fill="white"></rect><rect x="6" y="14" width="1" height="7" transform="rotate(-90 6 14)" fill="white"></rect><rect x="6" y="14" width="1" height="7" transform="rotate(-90 6 14)" fill="white"></rect></svg></span>
+            </button>
+          </quick-view-product><div class="product-item__variant-image" style="display: none" data-id="0">
+
+<figure data-crop="true" class="lazy-image animation  " data-ratio="0.8042895442359249" style="padding-top: 124.33333333333334%"><img class="img lazy" width="1200" height="1492" src="//highlight-theme-main.myshopify.com/cdn/shop/products/12-6.jpg?v=1615797428&amp;width=480" alt="Réflecteur pivotant - rond" srcset="//highlight-theme-main.myshopify.com/cdn/shop/products/12-6.jpg?v=1615797428&amp;width=260 260w,//highlight-theme-main.myshopify.com/cdn/shop/products/12-6.jpg?v=1615797428&amp;width=320 320w,//highlight-theme-main.myshopify.com/cdn/shop/products/12-6.jpg?v=1615797428&amp;width=360 360w,//highlight-theme-main.myshopify.com/cdn/shop/products/12-6.jpg?v=1615797428&amp;width=420 420w,//highlight-theme-main.myshopify.com/cdn/shop/products/12-6.jpg?v=1615797428&amp;width=480 480w,//highlight-theme-main.myshopify.com/cdn/shop/products/12-6.jpg?v=1615797428&amp;width=640 640w,//highlight-theme-main.myshopify.com/cdn/shop/products/12-6.jpg?v=1615797428&amp;width=840 840w,//highlight-theme-main.myshopify.com/cdn/shop/products/12-6.jpg?v=1615797428&amp;width=1080 1080w" sizes="(max-width: 599px) 46vw, (max-width: 1023px) 55vw, 17vw" loading="lazy" onload="this.classList.add('lazyloaded')"></figure></div><div class="product-item__variant-image" style="display: none" data-id="1">
+
+<figure data-crop="true" class="lazy-image animation  " data-ratio="0.8042895442359249" style="padding-top: 124.33333333333334%"><img class="img lazy" width="1200" height="1492" src="//highlight-theme-main.myshopify.com/cdn/shop/products/12-1.jpg?v=1615797428&amp;width=480" alt="Réflecteur pivotant - rond" srcset="//highlight-theme-main.myshopify.com/cdn/shop/products/12-1.jpg?v=1615797428&amp;width=260 260w,//highlight-theme-main.myshopify.com/cdn/shop/products/12-1.jpg?v=1615797428&amp;width=320 320w,//highlight-theme-main.myshopify.com/cdn/shop/products/12-1.jpg?v=1615797428&amp;width=360 360w,//highlight-theme-main.myshopify.com/cdn/shop/products/12-1.jpg?v=1615797428&amp;width=420 420w,//highlight-theme-main.myshopify.com/cdn/shop/products/12-1.jpg?v=1615797428&amp;width=480 480w,//highlight-theme-main.myshopify.com/cdn/shop/products/12-1.jpg?v=1615797428&amp;width=640 640w,//highlight-theme-main.myshopify.com/cdn/shop/products/12-1.jpg?v=1615797428&amp;width=840 840w,//highlight-theme-main.myshopify.com/cdn/shop/products/12-1.jpg?v=1615797428&amp;width=1080 1080w" sizes="(max-width: 599px) 46vw, (max-width: 1023px) 55vw, 17vw" loading="lazy" onload="this.classList.add('lazyloaded')"></figure></div></div>
+
+    <div class="product-item__caption">
+      
+      <span class="product-item__title">
+        <span>Réflecteur pivotant - rond</span>
+      </span><span class="product-item__price"><span class="visually-hidden">Prix de solde</span><span>$9.00</span><del><span class="visually-hidden">Prix régulier</span>$11.00</del></span>
+    </div>
+
+  </a><product-item-variants class="product-item__variants" aria-hidden="true"><div class="product-item__variant" data-href="/fr/products/swinging-reflector-round?variant=39403092541601" data-id="0"><span style="background-color:noir"></span></div><div class="product-item__variant" data-href="/fr/products/swinging-reflector-round?variant=39403092508833" data-id="1"><span style="background-color:argent"></span></div></product-item-variants>
+
+</div><div class="product-item product-item--6 three-tenths push-left-one-tenth push-top-half-tenth lap--four-plus-tenths lap--push-top-one-tenth palm--five-plus-tenths palm--push-top-two-tenths palm--push-left-one-tenth product-item--zoom" data-scroll-speed=".15" data-scroll-disable-on-lap="" data-js-product-item="" style="transform: translateY(-206px);"><a class="product-item__link" href="/fr/collections/reflective-accessories/products/swinging-reflector-long">
+
+    <div class="product-item__image ">
+
+<figure data-crop="true" class="lazy-image animation  " data-ratio="0.8042895442359249" style="padding-top: 124.33333333333334%"><img class="img lazy lazyloaded" width="1200" height="1492" src="//highlight-theme-main.myshopify.com/cdn/shop/products/11-1.jpg?v=1615796372&amp;width=480" alt="Réflecteur pivotant - long" srcset="//highlight-theme-main.myshopify.com/cdn/shop/products/11-1.jpg?v=1615796372&amp;width=260 260w,//highlight-theme-main.myshopify.com/cdn/shop/products/11-1.jpg?v=1615796372&amp;width=320 320w,//highlight-theme-main.myshopify.com/cdn/shop/products/11-1.jpg?v=1615796372&amp;width=360 360w,//highlight-theme-main.myshopify.com/cdn/shop/products/11-1.jpg?v=1615796372&amp;width=420 420w,//highlight-theme-main.myshopify.com/cdn/shop/products/11-1.jpg?v=1615796372&amp;width=480 480w,//highlight-theme-main.myshopify.com/cdn/shop/products/11-1.jpg?v=1615796372&amp;width=640 640w,//highlight-theme-main.myshopify.com/cdn/shop/products/11-1.jpg?v=1615796372&amp;width=840 840w,//highlight-theme-main.myshopify.com/cdn/shop/products/11-1.jpg?v=1615796372&amp;width=1080 1080w" sizes="(max-width: 599px) 46vw, (max-width: 1023px) 38vw, 25vw" loading="lazy" onload="this.classList.add('lazyloaded')"></figure><quick-view-product class="quick-add-to-cart">
+            <button data-href="/fr/products/swinging-reflector-long" class="product__add-to-cart button button--solid button--wide text-size--smaller" data-js-product-add-to-cart="" data-id="6590834704545">
+              <span class="add-to-cart__text lap--hide">Choisir les options</span>
+              <span class="add-to-cart__text hide lap--show-block"><svg aria-hidden="true" width="19" height="22" viewBox="0 0 19 22" fill="none" xmlns="http://www.w3.org/2000/svg"><path style="fill:none !important" d="M5.64215 5.7028H3.91599C2.69134 5.7028 1.67962 6.65802 1.61025 7.87978L1.00378 18.5616C0.928627 19.8854 1.98264 21 3.30952 21H15.3571C16.684 21 17.738 19.8854 17.6629 18.5616L17.0564 7.87978C16.987 6.65802 15.9753 5.7028 14.7507 5.7028H13.0245M5.64215 5.7028H13.0245M5.64215 5.7028V4.07692C5.64215 2.37758 7.02078 1 8.72139 1H9.94524C11.6458 1 13.0245 2.37758 13.0245 4.07692V5.7028" stroke="white" stroke-width="1.5"></path><rect x="9" y="10" width="1" height="7" fill="white"></rect><rect x="9" y="10" width="1" height="7" fill="white"></rect><rect x="9" y="10" width="1" height="7" fill="white"></rect><rect x="6" y="14" width="1" height="7" transform="rotate(-90 6 14)" fill="white"></rect><rect x="6" y="14" width="1" height="7" transform="rotate(-90 6 14)" fill="white"></rect><rect x="6" y="14" width="1" height="7" transform="rotate(-90 6 14)" fill="white"></rect></svg></span>
+            </button>
+          </quick-view-product><div class="product-item__variant-image" style="display: none" data-id="0">
+
+<figure data-crop="true" class="lazy-image animation  " data-ratio="0.8042895442359249" style="padding-top: 124.33333333333334%"><img class="img lazy" width="1200" height="1492" src="//highlight-theme-main.myshopify.com/cdn/shop/products/11-1.jpg?v=1615796372&amp;width=480" alt="Réflecteur pivotant - long" srcset="//highlight-theme-main.myshopify.com/cdn/shop/products/11-1.jpg?v=1615796372&amp;width=260 260w,//highlight-theme-main.myshopify.com/cdn/shop/products/11-1.jpg?v=1615796372&amp;width=320 320w,//highlight-theme-main.myshopify.com/cdn/shop/products/11-1.jpg?v=1615796372&amp;width=360 360w,//highlight-theme-main.myshopify.com/cdn/shop/products/11-1.jpg?v=1615796372&amp;width=420 420w,//highlight-theme-main.myshopify.com/cdn/shop/products/11-1.jpg?v=1615796372&amp;width=480 480w,//highlight-theme-main.myshopify.com/cdn/shop/products/11-1.jpg?v=1615796372&amp;width=640 640w,//highlight-theme-main.myshopify.com/cdn/shop/products/11-1.jpg?v=1615796372&amp;width=840 840w,//highlight-theme-main.myshopify.com/cdn/shop/products/11-1.jpg?v=1615796372&amp;width=1080 1080w" sizes="(max-width: 599px) 46vw, (max-width: 1023px) 38vw, 25vw" loading="lazy" onload="this.classList.add('lazyloaded')"></figure></div><div class="product-item__variant-image" style="display: none" data-id="1">
+
+<figure data-crop="true" class="lazy-image animation  " data-ratio="0.8042895442359249" style="padding-top: 124.33333333333334%"><img class="img lazy" width="1200" height="1492" src="//highlight-theme-main.myshopify.com/cdn/shop/products/11-6.jpg?v=1615796372&amp;width=480" alt="Réflecteur pivotant - long" srcset="//highlight-theme-main.myshopify.com/cdn/shop/products/11-6.jpg?v=1615796372&amp;width=260 260w,//highlight-theme-main.myshopify.com/cdn/shop/products/11-6.jpg?v=1615796372&amp;width=320 320w,//highlight-theme-main.myshopify.com/cdn/shop/products/11-6.jpg?v=1615796372&amp;width=360 360w,//highlight-theme-main.myshopify.com/cdn/shop/products/11-6.jpg?v=1615796372&amp;width=420 420w,//highlight-theme-main.myshopify.com/cdn/shop/products/11-6.jpg?v=1615796372&amp;width=480 480w,//highlight-theme-main.myshopify.com/cdn/shop/products/11-6.jpg?v=1615796372&amp;width=640 640w,//highlight-theme-main.myshopify.com/cdn/shop/products/11-6.jpg?v=1615796372&amp;width=840 840w,//highlight-theme-main.myshopify.com/cdn/shop/products/11-6.jpg?v=1615796372&amp;width=1080 1080w" sizes="(max-width: 599px) 46vw, (max-width: 1023px) 38vw, 25vw" loading="lazy" onload="this.classList.add('lazyloaded')"></figure></div></div>
+
+    <div class="product-item__caption">
+      
+      <span class="product-item__title">
+        <span>Réflecteur pivotant - long</span>
+      </span><span class="product-item__price"><span class="visually-hidden">Prix de solde</span><span>$9.00</span><del><span class="visually-hidden">Prix régulier</span>$11.00</del></span>
+    </div>
+
+  </a><product-item-variants class="product-item__variants" aria-hidden="true"><div class="product-item__variant" data-href="/fr/products/swinging-reflector-long?variant=39403046273185" data-id="0"><span style="background-color:argent"></span></div><div class="product-item__variant" data-href="/fr/products/swinging-reflector-long?variant=39403046305953" data-id="1"><span style="background-color:noir"></span></div></product-item-variants>
+
+</div></div></div>
+</div>
+
+
+</div>
+```
+
+## 2. shopify-section-sections--16050587173025__text-columns-with-icons
+
+- Tag: div
+- Classes: shopify-section shopify-section-group-footer-group no-overflow section-w-margin
+- Headings: None
+
+```html
+<div id="shopify-section-sections--16050587173025__text-columns-with-icons" class="shopify-section shopify-section-group-footer-group no-overflow section-w-margin"><link href="//highlight-theme-main.myshopify.com/cdn/shop/t/4/assets/section-text-columns-with-icons.css?v=18820752423958461301681113463" rel="stylesheet" type="text/css" media="all">
+
+  <div class="text-columns-with-icons section-w-mobile-padding grid"><div class="
+          text-w-icon__container
+          three-tenths lap--three-plus-half-tenths smaller-lap--full-width
+          
+                push-left-one-tenth lap--push-left-none
+              
+          		smaller-lap--push-left-none
+        ">
+        <div class="text-w-icon__icon" aria-hidden="true" role="img"><svg height="64" viewBox="0 0 64 64" width="64" xmlns="http://www.w3.org/2000/svg"><g style=";stroke-miterlimit:10;fill:none;stroke-linejoin:round;stroke-linecap:round"><path d="m10 36.125v14.037l22 11.58 22-11.58v-14.037"></path><path d="m54 23.246 7-8.549-21.742-11.42-7.324 8.42z"></path><path d="m32 61.742v-27"></path><path d="m31.934 11.704-7.258-8.42-21.676 11.485 7 8.742z"></path><path d="m32 34.742-8.584 8.929-20.449-11.676 7.033-8.484zm22-11.496 7 8.742-20.324 11.743-8.676-8.989z"></path></g></svg></div>
+
+        <div class="text-w-icon__content">
+          <h4 class="text-w-icon__title text-size--larger">Same Day Dispatch</h4>
+          <div class="text-w-icon__rte rte text-size--smaller"><p>All orders placed before 4pm Monday to Friday are dispatched same day.</p></div>
+        </div>
+      </div><div class="
+          text-w-icon__container
+          three-tenths lap--three-plus-half-tenths smaller-lap--full-width
+          
+                push-left-half-tenth lap--push-left-one-tenth
+              
+          		smaller-lap--push-left-none
+        ">
+        <div class="text-w-icon__icon" aria-hidden="true" role="img"><svg height="64" viewBox="0 0 64 64" width="64" xmlns="http://www.w3.org/2000/svg"><g style="fill:none;stroke-miterlimit:10;;stroke-linejoin:round;stroke-linecap:round"><path d="m17 15h26c2.3 0 2.1 1.6 1.7 3.1s-3.7 14.9-3.7 14.9h10.1l4-2 3.9 2v8c0 1.3-.5 2-2 2h-8m-40 0h6.6m9.4 0h14.6"></path><path d="m43.6 23h5.4l6.1 8m-24.1-8h-22m18 8h-22"></path><path d="m24.8 44a6.9 6.9 0 0 1 -6.2 5c-2.7 0-4.2-2.2-3.4-5a6.9 6.9 0 0 1 6.2-5c2.6 0 4.2 2.2 3.4 5zm24 0a6.9 6.9 0 0 1 -6.2 5c-2.7 0-4.2-2.2-3.4-5a6.9 6.9 0 0 1 6.2-5c2.6 0 4.2 2.2 3.4 5z"></path></g></svg></div>
+
+        <div class="text-w-icon__content">
+          <h4 class="text-w-icon__title text-size--larger">Free &amp; Fast Delivery</h4>
+          <div class="text-w-icon__rte rte text-size--smaller"><p>A free fully-trackable 2-day delivery service on all orders over $150.</p></div>
+        </div>
+      </div><div class="
+          text-w-icon__container
+          three-tenths lap--three-plus-half-tenths smaller-lap--full-width
+          
+                push-left-half-tenth lap--push-left-one-tenth
+              
+          		smaller-lap--push-left-none
+        ">
+        <div class="text-w-icon__icon" aria-hidden="true" role="img"><svg height="64" viewBox="0 0 64 64" width="64" xmlns="http://www.w3.org/2000/svg"><g style="fill:none;stroke-linecap:round;stroke-miterlimit:10;;stroke-linejoin:round"><path d="m54 6v10h-10m-12 43a27 27 0 1 1 21.751-43m-8.766 39.678a26.819 26.819 0 0 1 -6.985 2.653m15.751-10.331a27.159 27.159 0 0 1 -4.711 4.945m8.751-12.932a26.821 26.821 0 0 1 -1.58 3.952"></path><circle cx="32" cy="32" r="3"></circle><path d="m33.961 34.261 10.039 7.739m-12-30v17"></path></g></svg></div>
+
+        <div class="text-w-icon__content">
+          <h4 class="text-w-icon__title text-size--larger">Exchanges &amp; Returns</h4>
+          <div class="text-w-icon__rte rte text-size--smaller"><p>You have 30 days from the shipping date to return your purchase FREE OF CHARGE.</p></div>
+        </div>
+      </div></div>
+</div>
+```
+
+## 3. shopify-section-sections--16050587173025__footer
+
+- Tag: div
+- Classes: shopify-section shopify-section-group-footer-group section-w-mobile-padding ten-tenths lap--full-width push-left-one-tenth lap--push-left-none mfc
+- Headings: None
+
+```html
+<div id="shopify-section-sections--16050587173025__footer" class="shopify-section shopify-section-group-footer-group section-w-mobile-padding ten-tenths lap--full-width push-left-one-tenth lap--push-left-none mfc"><link href="//highlight-theme-main.myshopify.com/cdn/shop/t/4/assets/section-footer.css?v=11438292436040650311717753007" rel="stylesheet" type="text/css" media="all">
+
+<div class="main-footer"><div class="footer-item four-tenths lap--full-width footer-item--text"><h5 class="footer-item__title">About</h5><div class="rte">
+          <p><a href="https://march.lt/" target="_blank" title="https://march.lt/">MARCH</a> does not invent new things but improves existing ones.</p>
+        </div></div><div class="footer-item four-tenths lap--full-width push-left-two-tenths lap--push-left-none footer-item--menus"><div class="two-tenths lap--five-tenths palm--full-width"><h5 class="footer-item__title">LINKS</h5><div class="footer-links text-size--larger"><span>
+                  <a href="/fr/search"><span class="footer-links-body">Chercher</span></a>
+                </span><span>
+                  <a href="/fr/pages/help-faq"><span class="footer-links-body">Aide/FAQ</span></a>
+                </span><span>
+                  <a href="/fr/pages/sizing-fit"><span class="footer-links-body">Dimensionnement et coupe</span></a>
+                </span><span>
+                  <a href="/fr/pages/delivery"><span class="footer-links-body">Expédition &amp; retours</span></a>
+                </span><span>
+                  <a href="/fr/pages/contact-us"><span class="footer-links-body">Contacts</span></a>
+                </span></div>
+
+          </div></div><div class="footer-item four-tenths lap--full-width footer-item--newsletter"><h5 class="footer-item__title">Newsletter</h5><link href="//highlight-theme-main.myshopify.com/cdn/shop/t/4/assets/component-newsletter-form.css?v=103719868067352272521684486541" rel="stylesheet" type="text/css" media="all">
+
+<div class="newsletter-form"><form method="post" action="/fr/contact#newsletter-form-cb26e229-0f34-44da-a191-022d03cc56e4" id="newsletter-form-cb26e229-0f34-44da-a191-022d03cc56e4" accept-charset="UTF-8" class="contact-form"><input type="hidden" name="form_type" value="customer" style=""><input type="hidden" name="utf8" value="✓" style=""><div class="newsletter-input-holder">
+	      <label for="Email-block" class="visually-hidden">Entrez votre adresse mail</label>
+	      <input type="email" class="newsletter-input" value="" name="contact[email]" id="Email-block" placeholder="Entrez votre adresse mail" aria-label="Entrez votre adresse mail" autocapitalize="off" required="" style="">
+	      <button type="submit" class="newsletter-submit " id="Subscribe-block">
+      		<span class="visually-hidden">Envoyer</span><svg aria-hidden="true" focusable="false" role="presentation" enable-background="new -19 23 66 16" viewBox="-19 23 66 16" xmlns="http://www.w3.org/2000/svg"><path d="m-19 29.6h64v2.9h-64z"></path><path d="m47 31-2-2-6-6-2 2 5.9 6-5.9 6 2 2 6-6z"></path></svg></button>
+	      <input type="hidden" name="contact[tags]" value="newsletter" style="">
+	    </div></form></div><div class="newsletter-text rte"><p>Invite customers to join your newsletter.<br>Link to your <a href="#">privacy policy</a>.</p></div></div><div class="footer-item four-tenths lap--full-width
+      
+        push-left-two-tenths lap--push-left-none
+      
+    footer-item--info localization-form-holder"><link href="//highlight-theme-main.myshopify.com/cdn/shop/t/4/assets/component-localization-form.css?v=117523343151842312331681113450" rel="stylesheet" type="text/css" media="all">
+  
+  
+
+<form method="post" action="/fr/localization" id="localization_form-footer" accept-charset="UTF-8" class="localization-form" enctype="multipart/form-data"><input type="hidden" name="form_type" value="localization" style=""><input type="hidden" name="utf8" value="✓" style=""><input type="hidden" name="_method" value="put" style=""><input type="hidden" name="return_to" value="/fr/collections/reflective-accessories" style=""><localization-form class="localization-form__item">
+
+        <span class="visually-hidden" id="lang-heading-footer">Langue</span>
+
+        <input type="hidden" name="locale_code" value="fr" style="">
+
+        <button class="regular-select-cover" aria-expanded="false" aria-controls="lang-list-footer" data-location="footer" data-js-localization-form-button="">
+          <span class="regular-select-inner">
+            Français
+          </span>
+        </button>
+
+        <ul id="lang-list-footer" class="regular-select-content invert-permanent" data-js-localization-form-content=""><li class="regular-select-item " data-js-localization-form-item="">
+              <button type="submit" name="locale_code" lang="en" value="en">English</button>
+            </li><li class="regular-select-item " data-js-localization-form-item="">
+              <button type="submit" name="locale_code" lang="es" value="es">Español</button>
+            </li><li class="regular-select-item " data-js-localization-form-item="">
+              <button type="submit" name="locale_code" lang="it" value="it">Italiano</button>
+            </li><li class="regular-select-item " data-js-localization-form-item="">
+              <button type="submit" name="locale_code" lang="de" value="de">Deutsch</button>
+            </li><li class="regular-select-item regular-select-item--selected" data-js-localization-form-item="">
+              <button type="submit" name="locale_code" lang="fr" value="fr" aria-current="true">Français</button>
+            </li></ul>
+
+      </localization-form><localization-form class="localization-form__item">
+
+        <span class="visually-hidden" id="currency-heading-footer">Pays/région</span>
+
+        <input type="hidden" name="country_code" id="CurrencySelector-footer" value="US" style="">
+
+        <button class="regular-select-cover" aria-expanded="false" aria-controls="country-list-footer" data-location="footer" data-js-localization-form-button="">
+          <span class="regular-select-inner">
+            <span class="localization-form__country">États-Unis</span>
+            <span class="localization-form__currency">(USD $)</span>
+          </span>
+        </button>
+
+        <ul id="country-list-footer" class="regular-select-content invert-permanent" data-js-localization-form-content="" data-js-localization-form-insert-helper-content=""></ul>
+
+      </localization-form></form><script src="//highlight-theme-main.myshopify.com/cdn/shop/t/4/assets/component-localization-form.js?v=37286803973612460251771965909" defer=""></script><div class="footer-icons"><svg class="payment-icon" viewBox="0 0 38 24" xmlns="http://www.w3.org/2000/svg" role="img" width="38" height="24" aria-labelledby="pi-visa"><title id="pi-visa">Visa</title><path opacity=".07" d="M35 0H3C1.3 0 0 1.3 0 3v18c0 1.7 1.4 3 3 3h32c1.7 0 3-1.3 3-3V3c0-1.7-1.4-3-3-3z"></path><path fill="#fff" d="M35 1c1.1 0 2 .9 2 2v18c0 1.1-.9 2-2 2H3c-1.1 0-2-.9-2-2V3c0-1.1.9-2 2-2h32"></path><path d="M28.3 10.1H28c-.4 1-.7 1.5-1 3h1.9c-.3-1.5-.3-2.2-.6-3zm2.9 5.9h-1.7c-.1 0-.1 0-.2-.1l-.2-.9-.1-.2h-2.4c-.1 0-.2 0-.2.2l-.3.9c0 .1-.1.1-.1.1h-2.1l.2-.5L27 8.7c0-.5.3-.7.8-.7h1.5c.1 0 .2 0 .2.2l1.4 6.5c.1.4.2.7.2 1.1.1.1.1.1.1.2zm-13.4-.3l.4-1.8c.1 0 .2.1.2.1.7.3 1.4.5 2.1.4.2 0 .5-.1.7-.2.5-.2.5-.7.1-1.1-.2-.2-.5-.3-.8-.5-.4-.2-.8-.4-1.1-.7-1.2-1-.8-2.4-.1-3.1.6-.4.9-.8 1.7-.8 1.2 0 2.5 0 3.1.2h.1c-.1.6-.2 1.1-.4 1.7-.5-.2-1-.4-1.5-.4-.3 0-.6 0-.9.1-.2 0-.3.1-.4.2-.2.2-.2.5 0 .7l.5.4c.4.2.8.4 1.1.6.5.3 1 .8 1.1 1.4.2.9-.1 1.7-.9 2.3-.5.4-.7.6-1.4.6-1.4 0-2.5.1-3.4-.2-.1.2-.1.2-.2.1zm-3.5.3c.1-.7.1-.7.2-1 .5-2.2 1-4.5 1.4-6.7.1-.2.1-.3.3-.3H18c-.2 1.2-.4 2.1-.7 3.2-.3 1.5-.6 3-1 4.5 0 .2-.1.2-.3.2M5 8.2c0-.1.2-.2.3-.2h3.4c.5 0 .9.3 1 .8l.9 4.4c0 .1 0 .1.1.2 0-.1.1-.1.1-.1l2.1-5.1c-.1-.1 0-.2.1-.2h2.1c0 .1 0 .1-.1.2l-3.1 7.3c-.1.2-.1.3-.2.4-.1.1-.3 0-.5 0H9.7c-.1 0-.2 0-.2-.2L7.9 9.5c-.2-.2-.5-.5-.9-.6-.6-.3-1.7-.5-1.9-.5L5 8.2z" fill="#142688"></path></svg><svg class="payment-icon" viewBox="0 0 38 24" xmlns="http://www.w3.org/2000/svg" role="img" width="38" height="24" aria-labelledby="pi-master"><title id="pi-master">Mastercard</title><path opacity=".07" d="M35 0H3C1.3 0 0 1.3 0 3v18c0 1.7 1.4 3 3 3h32c1.7 0 3-1.3 3-3V3c0-1.7-1.4-3-3-3z"></path><path fill="#fff" d="M35 1c1.1 0 2 .9 2 2v18c0 1.1-.9 2-2 2H3c-1.1 0-2-.9-2-2V3c0-1.1.9-2 2-2h32"></path><circle fill="#EB001B" cx="15" cy="12" r="7"></circle><circle fill="#F79E1B" cx="23" cy="12" r="7"></circle><path fill="#FF5F00" d="M22 12c0-2.4-1.2-4.5-3-5.7-1.8 1.3-3 3.4-3 5.7s1.2 4.5 3 5.7c1.8-1.2 3-3.3 3-5.7z"></path></svg><svg class="payment-icon" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="pi-american_express" viewBox="0 0 38 24" width="38" height="24"><title id="pi-american_express">American Express</title><path fill="#000" d="M35 0H3C1.3 0 0 1.3 0 3v18c0 1.7 1.4 3 3 3h32c1.7 0 3-1.3 3-3V3c0-1.7-1.4-3-3-3Z" opacity=".07"></path><path fill="#006FCF" d="M35 1c1.1 0 2 .9 2 2v18c0 1.1-.9 2-2 2H3c-1.1 0-2-.9-2-2V3c0-1.1.9-2 2-2h32Z"></path><path fill="#FFF" d="M22.012 19.936v-8.421L37 11.528v2.326l-1.732 1.852L37 17.573v2.375h-2.766l-1.47-1.622-1.46 1.628-9.292-.02Z"></path><path fill="#006FCF" d="M23.013 19.012v-6.57h5.572v1.513h-3.768v1.028h3.678v1.488h-3.678v1.01h3.768v1.531h-5.572Z"></path><path fill="#006FCF" d="m28.557 19.012 3.083-3.289-3.083-3.282h2.386l1.884 2.083 1.89-2.082H37v.051l-3.017 3.23L37 18.92v.093h-2.307l-1.917-2.103-1.898 2.104h-2.321Z"></path><path fill="#FFF" d="M22.71 4.04h3.614l1.269 2.881V4.04h4.46l.77 2.159.771-2.159H37v8.421H19l3.71-8.421Z"></path><path fill="#006FCF" d="m23.395 4.955-2.916 6.566h2l.55-1.315h2.98l.55 1.315h2.05l-2.904-6.566h-2.31Zm.25 3.777.875-2.09.873 2.09h-1.748Z"></path><path fill="#006FCF" d="M28.581 11.52V4.953l2.811.01L32.84 9l1.456-4.046H37v6.565l-1.74.016v-4.51l-1.644 4.494h-1.59L30.35 7.01v4.51h-1.768Z"></path></svg>
+<svg class="payment-icon" viewBox="0 0 38 24" xmlns="http://www.w3.org/2000/svg" width="38" height="24" role="img" aria-labelledby="pi-paypal"><title id="pi-paypal">PayPal</title><path opacity=".07" d="M35 0H3C1.3 0 0 1.3 0 3v18c0 1.7 1.4 3 3 3h32c1.7 0 3-1.3 3-3V3c0-1.7-1.4-3-3-3z"></path><path fill="#fff" d="M35 1c1.1 0 2 .9 2 2v18c0 1.1-.9 2-2 2H3c-1.1 0-2-.9-2-2V3c0-1.1.9-2 2-2h32"></path><path fill="#003087" d="M23.9 8.3c.2-1 0-1.7-.6-2.3-.6-.7-1.7-1-3.1-1h-4.1c-.3 0-.5.2-.6.5L14 15.6c0 .2.1.4.3.4H17l.4-3.4 1.8-2.2 4.7-2.1z"></path><path fill="#3086C8" d="M23.9 8.3l-.2.2c-.5 2.8-2.2 3.8-4.6 3.8H18c-.3 0-.5.2-.6.5l-.6 3.9-.2 1c0 .2.1.4.3.4H19c.3 0 .5-.2.5-.4v-.1l.4-2.4v-.1c0-.2.3-.4.5-.4h.3c2.1 0 3.7-.8 4.1-3.2.2-1 .1-1.8-.4-2.4-.1-.5-.3-.7-.5-.8z"></path><path fill="#012169" d="M23.3 8.1c-.1-.1-.2-.1-.3-.1-.1 0-.2 0-.3-.1-.3-.1-.7-.1-1.1-.1h-3c-.1 0-.2 0-.2.1-.2.1-.3.2-.3.4l-.7 4.4v.1c0-.3.3-.5.6-.5h1.3c2.5 0 4.1-1 4.6-3.8v-.2c-.1-.1-.3-.2-.5-.2h-.1z"></path></svg><svg class="payment-icon" viewBox="0 0 38 24" xmlns="http://www.w3.org/2000/svg" role="img" width="38" height="24" aria-labelledby="pi-diners_club"><title id="pi-diners_club">Diners Club</title><path opacity=".07" d="M35 0H3C1.3 0 0 1.3 0 3v18c0 1.7 1.4 3 3 3h32c1.7 0 3-1.3 3-3V3c0-1.7-1.4-3-3-3z"></path><path fill="#fff" d="M35 1c1.1 0 2 .9 2 2v18c0 1.1-.9 2-2 2H3c-1.1 0-2-.9-2-2V3c0-1.1.9-2 2-2h32"></path><path d="M12 12v3.7c0 .3-.2.3-.5.2-1.9-.8-3-3.3-2.3-5.4.4-1.1 1.2-2 2.3-2.4.4-.2.5-.1.5.2V12zm2 0V8.3c0-.3 0-.3.3-.2 2.1.8 3.2 3.3 2.4 5.4-.4 1.1-1.2 2-2.3 2.4-.4.2-.4.1-.4-.2V12zm7.2-7H13c3.8 0 6.8 3.1 6.8 7s-3 7-6.8 7h8.2c3.8 0 6.8-3.1 6.8-7s-3-7-6.8-7z" fill="#3086C8"></path></svg><svg class="payment-icon" viewBox="0 0 38 24" width="38" height="24" role="img" aria-labelledby="pi-discover" fill="none" xmlns="http://www.w3.org/2000/svg"><title id="pi-discover">Discover</title><path fill="#000" opacity=".07" d="M35 0H3C1.3 0 0 1.3 0 3v18c0 1.7 1.4 3 3 3h32c1.7 0 3-1.3 3-3V3c0-1.7-1.4-3-3-3z"></path><path d="M35 1c1.1 0 2 .9 2 2v18c0 1.1-.9 2-2 2H3c-1.1 0-2-.9-2-2V3c0-1.1.9-2 2-2h32z" fill="#fff"></path><path d="M3.57 7.16H2v5.5h1.57c.83 0 1.43-.2 1.96-.63.63-.52 1-1.3 1-2.11-.01-1.63-1.22-2.76-2.96-2.76zm1.26 4.14c-.34.3-.77.44-1.47.44h-.29V8.1h.29c.69 0 1.11.12 1.47.44.37.33.59.84.59 1.37 0 .53-.22 1.06-.59 1.39zm2.19-4.14h1.07v5.5H7.02v-5.5zm3.69 2.11c-.64-.24-.83-.4-.83-.69 0-.35.34-.61.8-.61.32 0 .59.13.86.45l.56-.73c-.46-.4-1.01-.61-1.62-.61-.97 0-1.72.68-1.72 1.58 0 .76.35 1.15 1.35 1.51.42.15.63.25.74.31.21.14.32.34.32.57 0 .45-.35.78-.83.78-.51 0-.92-.26-1.17-.73l-.69.67c.49.73 1.09 1.05 1.9 1.05 1.11 0 1.9-.74 1.9-1.81.02-.89-.35-1.29-1.57-1.74zm1.92.65c0 1.62 1.27 2.87 2.9 2.87.46 0 .86-.09 1.34-.32v-1.26c-.43.43-.81.6-1.29.6-1.08 0-1.85-.78-1.85-1.9 0-1.06.79-1.89 1.8-1.89.51 0 .9.18 1.34.62V7.38c-.47-.24-.86-.34-1.32-.34-1.61 0-2.92 1.28-2.92 2.88zm12.76.94l-1.47-3.7h-1.17l2.33 5.64h.58l2.37-5.64h-1.16l-1.48 3.7zm3.13 1.8h3.04v-.93h-1.97v-1.48h1.9v-.93h-1.9V8.1h1.97v-.94h-3.04v5.5zm7.29-3.87c0-1.03-.71-1.62-1.95-1.62h-1.59v5.5h1.07v-2.21h.14l1.48 2.21h1.32l-1.73-2.32c.81-.17 1.26-.72 1.26-1.56zm-2.16.91h-.31V8.03h.33c.67 0 1.03.28 1.03.82 0 .55-.36.85-1.05.85z" fill="#231F20"></path><path d="M20.16 12.86a2.931 2.931 0 100-5.862 2.931 2.931 0 000 5.862z" fill="url(#pi-paint0_linear)"></path><path opacity=".65" d="M20.16 12.86a2.931 2.931 0 100-5.862 2.931 2.931 0 000 5.862z" fill="url(#pi-paint1_linear)"></path><path d="M36.57 7.506c0-.1-.07-.15-.18-.15h-.16v.48h.12v-.19l.14.19h.14l-.16-.2c.06-.01.1-.06.1-.13zm-.2.07h-.02v-.13h.02c.06 0 .09.02.09.06 0 .05-.03.07-.09.07z" fill="#231F20"></path><path d="M36.41 7.176c-.23 0-.42.19-.42.42 0 .23.19.42.42.42.23 0 .42-.19.42-.42 0-.23-.19-.42-.42-.42zm0 .77c-.18 0-.34-.15-.34-.35 0-.19.15-.35.34-.35.18 0 .33.16.33.35 0 .19-.15.35-.33.35z" fill="#231F20"></path><path d="M37 12.984S27.09 19.873 8.976 23h26.023a2 2 0 002-1.984l.024-3.02L37 12.985z" fill="#F48120"></path><defs><linearGradient id="pi-paint0_linear" x1="21.657" y1="12.275" x2="19.632" y2="9.104" gradientUnits="userSpaceOnUse"><stop stop-color="#F89F20"></stop><stop offset=".25" stop-color="#F79A20"></stop><stop offset=".533" stop-color="#F68D20"></stop><stop offset=".62" stop-color="#F58720"></stop><stop offset=".723" stop-color="#F48120"></stop><stop offset="1" stop-color="#F37521"></stop></linearGradient><linearGradient id="pi-paint1_linear" x1="21.338" y1="12.232" x2="18.378" y2="6.446" gradientUnits="userSpaceOnUse"><stop stop-color="#F58720"></stop><stop offset=".359" stop-color="#E16F27"></stop><stop offset=".703" stop-color="#D4602C"></stop><stop offset=".982" stop-color="#D05B2E"></stop></linearGradient></defs></svg></div>
+</div><div class="footer-item footer-item--copyright">
+    <span>Droits d'auteur © 2026 <a href="/fr">Highlight Theme</a><span class="powered-by-shopify">. <a target="_blank" rel="nofollow" href="https://www.shopify.com?utm_campaign=poweredby&amp;utm_medium=shopify&amp;utm_source=onlinestore">Commerce électronique propulsé par Shopify</a></span></span>
+  </div>
+
+</div>
+
+
+</div>
+```

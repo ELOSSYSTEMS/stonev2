@@ -1,0 +1,53 @@
+{
+  "pageUrl": "https://highlight-theme-main.myshopify.com/fr/pages/contact-us",
+  "pageTitle": "Contacts – Highlight Theme",
+  "pageSlug": "highlight_theme_main_myshopify_com_fr_pages_contact_us",
+  "sections": [
+    {
+      "refId": "highlight_theme_main_myshopify_com_fr_pages_contact_us__section_01",
+      "index": 1,
+      "selectorHint": "#shopify-section-template--15101582639265__main",
+      "typeGuess": "cta-section",
+      "patternTags": [
+        "top-of-page",
+        "cta-cluster",
+        "card-grid"
+      ],
+      "headingSample": [
+        "Contacts",
+        "Écrivez-nous"
+      ],
+      "textSample": "Contacts Écrivez-nous Votre nom * Votre adresse e-mail * Un message * * Oui, c'est un champ obligatoire Adresse postale Highlight Inc. À l'attention de: retours / échanges123 chemin Great Mill.Washington, WW 12345 Etats-Unis Avoir une question? Veuillez essayer de trouver la répo",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/highlight-theme-main/elements/highlight_theme_main_myshopify_com_fr_pages_contact_us/highlight_theme_main_myshopify_com_fr_pages_contact_us__section_01.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/highlight-theme-main/pages/highlight_theme_main_myshopify_com_fr_pages_contact_us.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/highlight-theme-main/pages/highlight_theme_main_myshopify_com_fr_pages_contact_us.json"
+    },
+    {
+      "refId": "highlight_theme_main_myshopify_com_fr_pages_contact_us__section_02",
+      "index": 2,
+      "selectorHint": "#shopify-section-sections--16050587173025__text-columns-with-icons",
+      "typeGuess": "content-section",
+      "patternTags": [],
+      "headingSample": [],
+      "textSample": "Same Day Dispatch All orders placed before 4pm Monday to Friday are dispatched same day. Free & Fast Delivery A free fully-trackable 2-day delivery service on all orders over $150. Exchanges & Returns You have 30 days from the shipping date to return your purchase FREE OF CHARGE.",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/highlight-theme-main/elements/highlight_theme_main_myshopify_com_fr_pages_contact_us/highlight_theme_main_myshopify_com_fr_pages_contact_us__section_02.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/highlight-theme-main/pages/highlight_theme_main_myshopify_com_fr_pages_contact_us.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/highlight-theme-main/pages/highlight_theme_main_myshopify_com_fr_pages_contact_us.json"
+    },
+    {
+      "refId": "highlight_theme_main_myshopify_com_fr_pages_contact_us__section_03",
+      "index": 3,
+      "selectorHint": "#shopify-section-sections--16050587173025__footer",
+      "typeGuess": "cta-section",
+      "patternTags": [
+        "cta-cluster",
+        "card-grid"
+      ],
+      "headingSample": [],
+      "textSample": "About MARCH does not invent new things but improves existing ones. LINKS Chercher Aide/FAQ Dimensionnement et coupe Expédition & retours Contacts Newsletter Entrez votre adresse mail Envoyer Invite customers to join your newsletter.Link to your privacy policy. Langue Français Eng",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/highlight-theme-main/elements/highlight_theme_main_myshopify_com_fr_pages_contact_us/highlight_theme_main_myshopify_com_fr_pages_contact_us__section_03.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/highlight-theme-main/pages/highlight_theme_main_myshopify_com_fr_pages_contact_us.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/highlight-theme-main/pages/highlight_theme_main_myshopify_com_fr_pages_contact_us.json"
+    }
+  ]
+}

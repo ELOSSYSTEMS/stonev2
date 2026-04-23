@@ -1,0 +1,44 @@
+{
+  "pageUrl": "https://dynamic-preview.myshopify.com/pages/faq",
+  "pageTitle": "FAQ – Dynamic",
+  "pageSlug": "dynamic_preview_myshopify_com_pages_faq",
+  "sections": [
+    {
+      "refId": "dynamic_preview_myshopify_com_pages_faq__section_01",
+      "index": 1,
+      "selectorHint": "#shopify-section-template--27935320047782__main",
+      "typeGuess": "category-row",
+      "patternTags": [
+        "top-of-page",
+        "cta-cluster",
+        "card-grid",
+        "category-navigation",
+        "editorial-media"
+      ],
+      "headingSample": [
+        "FAQ"
+      ],
+      "textSample": ".collection_list_wrapper-template--27935320047782__main { padding-top: 0px; padding-bottom: 40px; margin: 0 10px;; } @media screen and (max-width: 640px) { .collection_list_wrapper-template--27935320047782__main { padding-top: 0px; padding-bottom: 20px; } } FAQ Home | FAQ",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_pages_faq/dynamic_preview_myshopify_com_pages_faq__section_01.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/pages/dynamic_preview_myshopify_com_pages_faq.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/pages/dynamic_preview_myshopify_com_pages_faq.json"
+    },
+    {
+      "refId": "dynamic_preview_myshopify_com_pages_faq__section_02",
+      "index": 2,
+      "selectorHint": "#shopify-section-template--27935320047782__section_faq_BbRDgT",
+      "typeGuess": "cta-section",
+      "patternTags": [
+        "cta-cluster",
+        "product-commerce"
+      ],
+      "headingSample": [
+        "Frequently asked questions"
+      ],
+      "textSample": "#image-faq-template--27935320047782__section_faq_BbRDgT { --section-bg: #fef9f2; --faq-bg: #f0e1cb; padding-top: 40px; padding-bottom: 40px; background-color: var(--section-bg); } Top heading Frequently asked questions Are your products suitable for all skin types? Yes, our produ",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_pages_faq/dynamic_preview_myshopify_com_pages_faq__section_02.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/pages/dynamic_preview_myshopify_com_pages_faq.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/pages/dynamic_preview_myshopify_com_pages_faq.json"
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "pageUrl": "https://highlight-theme-main.myshopify.com/fr/products/reflective-sweatshirt",
+  "pageTitle": "Sweat réfléchissant – Highlight Theme",
+  "pageSlug": "highlight_theme_main_myshopify_com_fr_products_reflective_sweatshirt",
+  "sections": [
+    {
+      "refId": "highlight_theme_main_myshopify_com_fr_products_reflective_sweatshirt__section_01",
+      "index": 1,
+      "selectorHint": "#shopify-section-template--15100852207777__main",
+      "typeGuess": "hero",
+      "patternTags": [
+        "hero-candidate",
+        "top-of-page",
+        "image-heavy",
+        "slider",
+        "cta-cluster",
+        "product-commerce",
+        "category-navigation",
+        "editorial-media"
+      ],
+      "headingSample": [
+        "Sweat réfléchissant",
+        "Sweat réfléchissant",
+        "Brillez de la foule avec ce sweat-shirt réfléchissant MARCH.",
+        "Avantages clés",
+        "Plus de fonctionnalités",
+        "Respirant"
+      ],
+      "textSample": "Sweat réfléchissant par MARCH Prix de solde: $84.00 Prix régulier: $99.00 Rating: 5.0 out of 5 5 / 5 Sweat réfléchissant par MARCH Prix de solde: $84.00 Prix régulier: $99.00 Rating: 5.0 out of 5 5 / 5 ProductHeaderHelper('#product-template--15100852207777__main'); {\"id\":39373186",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/highlight-theme-main/elements/highlight_theme_main_myshopify_com_fr_products_reflective_sweatshirt/highlight_theme_main_myshopify_com_fr_products_reflective_sweatshirt__section_01.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/highlight-theme-main/pages/highlight_theme_main_myshopify_com_fr_products_reflective_sweatshirt.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/highlight-theme-main/pages/highlight_theme_main_myshopify_com_fr_products_reflective_sweatshirt.json"
+    },
+    {
+      "refId": "highlight_theme_main_myshopify_com_fr_products_reflective_sweatshirt__section_02",
+      "index": 2,
+      "selectorHint": "#shopify-section-template--15100852207777__163221134635c073cd",
+      "typeGuess": "content-section",
+      "patternTags": [
+        "category-navigation"
+      ],
+      "headingSample": [],
+      "textSample": "Amusez-vous bien. De manière responsable. La sécurité d'abord ainsi que le style. Sortez du lot en MARS collection réfléchissante.",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/highlight-theme-main/elements/highlight_theme_main_myshopify_com_fr_products_reflective_sweatshirt/highlight_theme_main_myshopify_com_fr_products_reflective_sweatshirt__section_02.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/highlight-theme-main/pages/highlight_theme_main_myshopify_com_fr_products_reflective_sweatshirt.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/highlight-theme-main/pages/highlight_theme_main_myshopify_com_fr_products_reflective_sweatshirt.json"
+    },
+    {
+      "refId": "highlight_theme_main_myshopify_com_fr_products_reflective_sweatshirt__section_03",
+      "index": 3,
+      "selectorHint": "#shopify-section-template--15100852207777__163220603549030b49",
+      "typeGuess": "editorial-media",
+      "patternTags": [
+        "image-heavy",
+        "editorial-media"
+      ],
+      "headingSample": [
+        "Dans le noir"
+      ],
+      "textSample": "Dans le noir Restez visible et en sécurité la nuit. Conçu pour vous mettre en lumière. Impression réfléchissante longue durée. Se balance, se balance et s'agite.",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/highlight-theme-main/elements/highlight_theme_main_myshopify_com_fr_products_reflective_sweatshirt/highlight_theme_main_myshopify_com_fr_products_reflective_sweatshirt__section_03.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/highlight-theme-main/pages/highlight_theme_main_myshopify_com_fr_products_reflective_sweatshirt.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/highlight-theme-main/pages/highlight_theme_main_myshopify_com_fr_products_reflective_sweatshirt.json"
+    },
+    {
+      "refId": "highlight_theme_main_myshopify_com_fr_products_reflective_sweatshirt__section_04",
+      "index": 4,
+      "selectorHint": "#shopify-section-template--15100852207777__16322113522e4446c0",
+      "typeGuess": "cta-section",
+      "patternTags": [
+        "image-heavy",
+        "cta-cluster",
+        "category-navigation"
+      ],
+      "headingSample": [
+        "Découvrez d'autres collections"
+      ],
+      "textSample": "Découvrez d'autres collections Vêtements Nourriture et maison Papeterie",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/highlight-theme-main/elements/highlight_theme_main_myshopify_com_fr_products_reflective_sweatshirt/highlight_theme_main_myshopify_com_fr_products_reflective_sweatshirt__section_04.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/highlight-theme-main/pages/highlight_theme_main_myshopify_com_fr_products_reflective_sweatshirt.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/highlight-theme-main/pages/highlight_theme_main_myshopify_com_fr_products_reflective_sweatshirt.json"
+    },
+    {
+      "refId": "highlight_theme_main_myshopify_com_fr_products_reflective_sweatshirt__section_05",
+      "index": 5,
+      "selectorHint": "#shopify-section-sections--16050587173025__text-columns-with-icons",
+      "typeGuess": "content-section",
+      "patternTags": [],
+      "headingSample": [],
+      "textSample": "Same Day Dispatch All orders placed before 4pm Monday to Friday are dispatched same day. Free & Fast Delivery A free fully-trackable 2-day delivery service on all orders over $150. Exchanges & Returns You have 30 days from the shipping date to return your purchase FREE OF CHARGE.",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/highlight-theme-main/elements/highlight_theme_main_myshopify_com_fr_products_reflective_sweatshirt/highlight_theme_main_myshopify_com_fr_products_reflective_sweatshirt__section_05.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/highlight-theme-main/pages/highlight_theme_main_myshopify_com_fr_products_reflective_sweatshirt.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/highlight-theme-main/pages/highlight_theme_main_myshopify_com_fr_products_reflective_sweatshirt.json"
+    },
+    {
+      "refId": "highlight_theme_main_myshopify_com_fr_products_reflective_sweatshirt__section_06",
+      "index": 6,
+      "selectorHint": "#shopify-section-sections--16050587173025__footer",
+      "typeGuess": "product-grid",
+      "patternTags": [
+        "cta-cluster",
+        "card-grid",
+        "product-commerce"
+      ],
+      "headingSample": [],
+      "textSample": "About MARCH does not invent new things but improves existing ones. LINKS Chercher Aide/FAQ Dimensionnement et coupe Expédition & retours Contacts Newsletter Entrez votre adresse mail Envoyer Invite customers to join your newsletter.Link to your privacy policy. Langue Français Eng",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/highlight-theme-main/elements/highlight_theme_main_myshopify_com_fr_products_reflective_sweatshirt/highlight_theme_main_myshopify_com_fr_products_reflective_sweatshirt__section_06.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/highlight-theme-main/pages/highlight_theme_main_myshopify_com_fr_products_reflective_sweatshirt.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/highlight-theme-main/pages/highlight_theme_main_myshopify_com_fr_products_reflective_sweatshirt.json"
+    }
+  ]
+}

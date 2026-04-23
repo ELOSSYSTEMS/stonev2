@@ -1,0 +1,86 @@
+{
+  "pageUrl": "https://dynamic-preview.myshopify.com/pt/products/radiance-boost-serum",
+  "pageTitle": "Sérum Potenciador de Luminosidade – Dynamic",
+  "pageSlug": "dynamic_preview_myshopify_com_pt_products_radiance_boost_serum",
+  "sections": [
+    {
+      "refId": "dynamic_preview_myshopify_com_pt_products_radiance_boost_serum__section_01",
+      "index": 1,
+      "selectorHint": "#shopify-section-template--27935320146086__main",
+      "typeGuess": "hero",
+      "patternTags": [
+        "hero-candidate",
+        "top-of-page",
+        "image-heavy",
+        "slider",
+        "cta-cluster",
+        "card-grid",
+        "product-commerce",
+        "editorial-media"
+      ],
+      "headingSample": [
+        "Sérum Potenciador de Luminosidade"
+      ],
+      "textSample": ".main_product_wrapper-template--27935320146086__main { padding-top: 40px; padding-bottom: 60px; } @media screen and (max-width: 640px) { .main_product_wrapper-template--27935320146086__main { padding-top: 20px; padding-bottom: 20px; } } Bright-demo Sérum Potenciador de Luminosida",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_pt_products_radiance_boost_serum/dynamic_preview_myshopify_com_pt_products_radiance_boost_serum__section_01.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/pages/dynamic_preview_myshopify_com_pt_products_radiance_boost_serum.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/pages/dynamic_preview_myshopify_com_pt_products_radiance_boost_serum.json"
+    },
+    {
+      "refId": "dynamic_preview_myshopify_com_pt_products_radiance_boost_serum__section_02",
+      "index": 2,
+      "selectorHint": "#shopify-section-template--27935320146086__image_with_text_ipnVpd",
+      "typeGuess": "editorial-media",
+      "patternTags": [
+        "image-heavy",
+        "editorial-media"
+      ],
+      "headingSample": [
+        "A Nossa Paixão"
+      ],
+      "textSample": ".image_with_text_wrpr-template--27935320146086__image_with_text_ipnVpd .image_with_text_media_1 img, .image_with_text_media_2 img, .image_with_text_media_1, .image_with_text_media_2 { border-radius: 10px; } .image_with_text_wrpr-template--27935320146086__image_with_text_ipnVpd .i",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_pt_products_radiance_boost_serum/dynamic_preview_myshopify_com_pt_products_radiance_boost_serum__section_02.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/pages/dynamic_preview_myshopify_com_pt_products_radiance_boost_serum.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/pages/dynamic_preview_myshopify_com_pt_products_radiance_boost_serum.json"
+    },
+    {
+      "refId": "dynamic_preview_myshopify_com_pt_products_radiance_boost_serum__section_03",
+      "index": 3,
+      "selectorHint": "#shopify-section-template--27935320146086__related_products",
+      "typeGuess": "product-grid",
+      "patternTags": [
+        "image-heavy",
+        "slider",
+        "cta-cluster",
+        "card-grid",
+        "product-commerce",
+        "category-navigation",
+        "editorial-media"
+      ],
+      "headingSample": [
+        "Também poderá gostar de"
+      ],
+      "textSample": ".product_recommendations_wrapper-template--27935320146086__related_products { padding-top: 40px; padding-bottom: 40px; position: relative; z-index: 0; } @media screen and (max-width: 640px) { .product_recommendations_wrapper-template--27935320146086__related_products { padding-to",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_pt_products_radiance_boost_serum/dynamic_preview_myshopify_com_pt_products_radiance_boost_serum__section_03.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/pages/dynamic_preview_myshopify_com_pt_products_radiance_boost_serum.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/pages/dynamic_preview_myshopify_com_pt_products_radiance_boost_serum.json"
+    },
+    {
+      "refId": "dynamic_preview_myshopify_com_pt_products_radiance_boost_serum__section_04",
+      "index": 4,
+      "selectorHint": "#shopify-section-template--27935320146086__logo_list_mMhaJi",
+      "typeGuess": "editorial-media",
+      "patternTags": [
+        "image-heavy",
+        "slider",
+        "cta-cluster",
+        "editorial-media"
+      ],
+      "headingSample": [],
+      "textSample": ".brand_logo_img { width: 14.2%; } .brand_logo_list { display: flex; align-items: center; justify-content: space-between; width: 100%; } .brand_logo_list .swiper-wrapper { display: flex; align-items: center; justify-content: space-between; width: 100%; } .section-template--2793532",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_pt_products_radiance_boost_serum/dynamic_preview_myshopify_com_pt_products_radiance_boost_serum__section_04.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/pages/dynamic_preview_myshopify_com_pt_products_radiance_boost_serum.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/pages/dynamic_preview_myshopify_com_pt_products_radiance_boost_serum.json"
+    }
+  ]
+}

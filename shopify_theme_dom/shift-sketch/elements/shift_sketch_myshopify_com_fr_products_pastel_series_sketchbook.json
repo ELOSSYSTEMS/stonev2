@@ -1,0 +1,115 @@
+{
+  "pageUrl": "https://shift-sketch.myshopify.com/fr/products/pastel-series-sketchbook",
+  "pageTitle": "Carnet de croquis de la série Pastel – Shift Sketch",
+  "pageSlug": "shift_sketch_myshopify_com_fr_products_pastel_series_sketchbook",
+  "sections": [
+    {
+      "refId": "shift_sketch_myshopify_com_fr_products_pastel_series_sketchbook__section_01",
+      "index": 1,
+      "selectorHint": "#shopify-section-template--27266933817719__main_product",
+      "typeGuess": "hero",
+      "patternTags": [
+        "hero-candidate",
+        "top-of-page",
+        "image-heavy",
+        "slider",
+        "cta-cluster",
+        "card-grid",
+        "product-commerce",
+        "category-navigation",
+        "editorial-media"
+      ],
+      "headingSample": [
+        "Carnet de croquis de la série Pastel"
+      ],
+      "textSample": ".section-template--27266933817719__main_product-padding { padding-top: 0; padding-bottom: 6rem; } @media screen and (min-width: 750px) { .section-template--27266933817719__main_product-padding { padding-top: 0; padding-bottom: 8rem; } } @media screen and (min-width: 1440px) { .se",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/shift-sketch/elements/shift_sketch_myshopify_com_fr_products_pastel_series_sketchbook/shift_sketch_myshopify_com_fr_products_pastel_series_sketchbook__section_01.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/shift-sketch/pages/shift_sketch_myshopify_com_fr_products_pastel_series_sketchbook.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/shift-sketch/pages/shift_sketch_myshopify_com_fr_products_pastel_series_sketchbook.json"
+    },
+    {
+      "refId": "shift_sketch_myshopify_com_fr_products_pastel_series_sketchbook__section_02",
+      "index": 2,
+      "selectorHint": "#shopify-section-template--27266933817719__product_details_pV4wH9",
+      "typeGuess": "editorial-media",
+      "patternTags": [
+        "image-heavy",
+        "product-commerce",
+        "editorial-media"
+      ],
+      "headingSample": [
+        "À propos du produit"
+      ],
+      "textSample": "#shopify-section-template--27266933817719__product_details_pV4wH9 { padding-top: 0; padding-bottom: 6rem; } @media screen and (min-width: 750px) { #shopify-section-template--27266933817719__product_details_pV4wH9 { padding-top: 0; padding-bottom: 8rem; } } @media screen and (min-",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/shift-sketch/elements/shift_sketch_myshopify_com_fr_products_pastel_series_sketchbook/shift_sketch_myshopify_com_fr_products_pastel_series_sketchbook__section_02.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/shift-sketch/pages/shift_sketch_myshopify_com_fr_products_pastel_series_sketchbook.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/shift-sketch/pages/shift_sketch_myshopify_com_fr_products_pastel_series_sketchbook.json"
+    },
+    {
+      "refId": "shift_sketch_myshopify_com_fr_products_pastel_series_sketchbook__section_03",
+      "index": 3,
+      "selectorHint": "#shopify-section-template--27266933817719__image_gallery_aWCMJP",
+      "typeGuess": "editorial-media",
+      "patternTags": [
+        "image-heavy",
+        "slider",
+        "cta-cluster",
+        "product-commerce",
+        "editorial-media"
+      ],
+      "headingSample": [
+        "Galerie"
+      ],
+      "textSample": "#shopify-section-template--27266933817719__image_gallery_aWCMJP { padding-top: 0; padding-bottom: 6rem; } @media screen and (min-width: 750px) { #shopify-section-template--27266933817719__image_gallery_aWCMJP { padding-top: 0; padding-bottom: 8rem; } } @media screen and (min-widt",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/shift-sketch/elements/shift_sketch_myshopify_com_fr_products_pastel_series_sketchbook/shift_sketch_myshopify_com_fr_products_pastel_series_sketchbook__section_03.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/shift-sketch/pages/shift_sketch_myshopify_com_fr_products_pastel_series_sketchbook.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/shift-sketch/pages/shift_sketch_myshopify_com_fr_products_pastel_series_sketchbook.json"
+    },
+    {
+      "refId": "shift_sketch_myshopify_com_fr_products_pastel_series_sketchbook__section_04",
+      "index": 4,
+      "selectorHint": "#shopify-section-template--27266933817719__trust_LdKGxR",
+      "typeGuess": "editorial-media",
+      "patternTags": [
+        "image-heavy",
+        "card-grid",
+        "editorial-media"
+      ],
+      "headingSample": [
+        "matériaux naturels",
+        "Retours gratuits sous 30 jours",
+        "Paiement sécurisé"
+      ],
+      "textSample": ".section-template--27266933817719__trust_LdKGxR-padding { padding-top: 1.6rem; padding-bottom: 1.6rem; } @media screen and (min-width: 750px) { .section-template--27266933817719__trust_LdKGxR-padding { padding-top: 2.4rem; padding-bottom: 2.4rem; } } @media screen and (min-width:",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/shift-sketch/elements/shift_sketch_myshopify_com_fr_products_pastel_series_sketchbook/shift_sketch_myshopify_com_fr_products_pastel_series_sketchbook__section_04.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/shift-sketch/pages/shift_sketch_myshopify_com_fr_products_pastel_series_sketchbook.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/shift-sketch/pages/shift_sketch_myshopify_com_fr_products_pastel_series_sketchbook.json"
+    },
+    {
+      "refId": "shift_sketch_myshopify_com_fr_products_pastel_series_sketchbook__section_05",
+      "index": 5,
+      "selectorHint": "#shopify-section-template--27266933817719__product_recommendations",
+      "typeGuess": "product-grid",
+      "patternTags": [
+        "image-heavy",
+        "slider",
+        "cta-cluster",
+        "card-grid",
+        "product-commerce",
+        "category-navigation",
+        "editorial-media"
+      ],
+      "headingSample": [
+        "Cela pourrait vous intéresser",
+        "Bloc-notes compact",
+        "Carnet de croquis du modèle S",
+        "Livre de repêchage sur le terrain",
+        "Carnet Horizon"
+      ],
+      "textSample": ".section-template--27266933817719__product_recommendations-padding { padding-top: 0; padding-bottom: 0; } @media screen and (min-width: 750px) { .section-template--27266933817719__product_recommendations-padding { padding-top: 0; padding-bottom: 0; } } @media screen and (min-widt",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/shift-sketch/elements/shift_sketch_myshopify_com_fr_products_pastel_series_sketchbook/shift_sketch_myshopify_com_fr_products_pastel_series_sketchbook__section_05.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/shift-sketch/pages/shift_sketch_myshopify_com_fr_products_pastel_series_sketchbook.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/shift-sketch/pages/shift_sketch_myshopify_com_fr_products_pastel_series_sketchbook.json"
+    }
+  ]
+}

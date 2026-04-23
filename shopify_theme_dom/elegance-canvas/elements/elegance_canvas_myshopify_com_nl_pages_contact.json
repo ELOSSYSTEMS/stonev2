@@ -1,0 +1,23 @@
+{
+  "pageUrl": "https://elegance-canvas.myshopify.com/nl/pages/contact",
+  "pageTitle": "Contact – Elegance-canvas",
+  "pageSlug": "elegance_canvas_myshopify_com_nl_pages_contact",
+  "sections": [
+    {
+      "refId": "elegance_canvas_myshopify_com_nl_pages_contact__section_01",
+      "index": 1,
+      "selectorHint": "#shopify-section-template--19562841342134__contact_YwEcbj",
+      "typeGuess": "content-section",
+      "patternTags": [
+        "top-of-page"
+      ],
+      "headingSample": [
+        "Reach Out for an Exploration of Creative Art Works"
+      ],
+      "textSample": ".section-template--19562841342134__contact_YwEcbj-padding { padding-top: 70px; padding-bottom: 70px; } @media screen and (min-width: 768px) { .section-template--19562841342134__contact_YwEcbj-padding { padding-top: 105px; padding-bottom: 105px; } } @media screen and (min-width: 1",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_nl_pages_contact/elegance_canvas_myshopify_com_nl_pages_contact__section_01.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/pages/elegance_canvas_myshopify_com_nl_pages_contact.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/pages/elegance_canvas_myshopify_com_nl_pages_contact.json"
+    }
+  ]
+}

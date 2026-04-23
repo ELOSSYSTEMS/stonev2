@@ -1,0 +1,34 @@
+{
+  "pageUrl": "https://shift-sketch.myshopify.com/pages/product-markers",
+  "pageTitle": "Product markers – Shift Sketch",
+  "pageSlug": "shift_sketch_myshopify_com_pages_product_markers",
+  "sections": [
+    {
+      "refId": "shift_sketch_myshopify_com_pages_product_markers__section_01",
+      "index": 1,
+      "selectorHint": "#shopify-section-template--28054298132855__product_markers_RQ9F7V",
+      "typeGuess": "hero",
+      "patternTags": [
+        "hero-candidate",
+        "top-of-page",
+        "image-heavy",
+        "slider",
+        "cta-cluster",
+        "card-grid",
+        "product-commerce",
+        "category-navigation",
+        "editorial-media"
+      ],
+      "headingSample": [
+        "Pastel Series Sketchbook",
+        "Daily Structure Planner",
+        "Pastel Series Sketchbook",
+        "Daily Structure Planner"
+      ],
+      "textSample": ".section-template--28054298132855__product_markers_RQ9F7V-padding { padding-top: 0; padding-bottom: 0; } @media screen and (min-width: 750px) { .section-template--28054298132855__product_markers_RQ9F7V-padding { padding-top: 0; padding-bottom: 0; } } @media screen and (min-width:",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/shift-sketch/elements/shift_sketch_myshopify_com_pages_product_markers/shift_sketch_myshopify_com_pages_product_markers__section_01.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/shift-sketch/pages/shift_sketch_myshopify_com_pages_product_markers.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/shift-sketch/pages/shift_sketch_myshopify_com_pages_product_markers.json"
+    }
+  ]
+}

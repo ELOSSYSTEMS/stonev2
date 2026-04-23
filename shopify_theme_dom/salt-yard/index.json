@@ -1,0 +1,1935 @@
+{
+  "themeSlug": "salt-yard",
+  "url": "https://salt-yard.myshopify.com/",
+  "origin": "https://salt-yard.myshopify.com",
+  "mode": "full",
+  "clean": true,
+  "screenshots": "home",
+  "discoveredCount": 105,
+  "scrapedCount": 105,
+  "inspirationReferenceCount": 100,
+  "outputDir": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard",
+  "trashedOutput": null,
+  "generatedAt": "2026-04-09T16:49:03.432Z",
+  "pages": [
+    {
+      "url": "https://salt-yard.myshopify.com/",
+      "slug": "salt_yard_myshopify_com",
+      "title": "Symmetry - Versatile, fashionable, professional, premium theme – Symmetry Theme Salt Yard",
+      "type": "home",
+      "headings": [
+        "Effortless design.Iconic brands.",
+        "Essentials",
+        "New Knitwear Arrivals",
+        "The Cropped Jean",
+        "Exude confidence",
+        "New Arrivals",
+        "New Arrivals",
+        "Unrecorded Denim"
+      ],
+      "sections": 1,
+      "screenshot": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/screens/salt_yard_myshopify_com.png",
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com.json"
+    },
+    {
+      "url": "https://salt-yard.myshopify.com/sitemap_products_1.xml",
+      "slug": "salt_yard_myshopify_com_sitemap_products_1_xml",
+      "title": "",
+      "type": "other",
+      "headings": [],
+      "sections": 0,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_sitemap_products_1_xml.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_sitemap_products_1_xml.json"
+    },
+    {
+      "url": "https://salt-yard.myshopify.com/sitemap_pages_1.xml",
+      "slug": "salt_yard_myshopify_com_sitemap_pages_1_xml",
+      "title": "",
+      "type": "other",
+      "headings": [],
+      "sections": 0,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_sitemap_pages_1_xml.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_sitemap_pages_1_xml.json"
+    },
+    {
+      "url": "https://salt-yard.myshopify.com/sitemap_collections_1.xml",
+      "slug": "salt_yard_myshopify_com_sitemap_collections_1_xml",
+      "title": "",
+      "type": "other",
+      "headings": [],
+      "sections": 0,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_sitemap_collections_1_xml.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_sitemap_collections_1_xml.json"
+    },
+    {
+      "url": "https://salt-yard.myshopify.com/sitemap_blogs_1.xml",
+      "slug": "salt_yard_myshopify_com_sitemap_blogs_1_xml",
+      "title": "",
+      "type": "other",
+      "headings": [],
+      "sections": 0,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_sitemap_blogs_1_xml.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_sitemap_blogs_1_xml.json"
+    },
+    {
+      "url": "https://salt-yard.myshopify.com/products/gift-card",
+      "slug": "salt_yard_myshopify_com_products_gift_card",
+      "title": "Gift Card – Symmetry Theme Salt Yard",
+      "type": "product",
+      "headings": [
+        "Gift Card",
+        "Gift Card",
+        "Salt Yard Gift Cards - the ideal present for the sartorially-minded people in your life.",
+        "Essential T-Shirts",
+        "Sweaters & Hoodies",
+        "Explore our collections",
+        "Sign up and get 10% off your first order"
+      ],
+      "sections": 1,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_products_gift_card.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_products_gift_card.json"
+    },
+    {
+      "url": "https://salt-yard.myshopify.com/products/beanie-yellow",
+      "slug": "salt_yard_myshopify_com_products_beanie_yellow",
+      "title": "Beanie Yellow – Symmetry Theme Salt Yard",
+      "type": "product",
+      "headings": [
+        "Beanie Yellow",
+        "Beanie Yellow",
+        "Salt Yard Size Guide",
+        "Sizes",
+        "Sizes",
+        "Our fabrics are developed specifically for us and we only produce quality apparel that lasts.",
+        "Sustainability",
+        "Premium quality"
+      ],
+      "sections": 1,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_products_beanie_yellow.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_products_beanie_yellow.json"
+    },
+    {
+      "url": "https://salt-yard.myshopify.com/products/beanie-red",
+      "slug": "salt_yard_myshopify_com_products_beanie_red",
+      "title": "Beanie Red – Symmetry Theme Salt Yard",
+      "type": "product",
+      "headings": [
+        "Beanie Red",
+        "Beanie Red",
+        "Salt Yard Size Guide",
+        "Sizes",
+        "Sizes",
+        "Our fabrics are developed specifically for us and we only produce quality apparel that lasts.",
+        "Sustainability",
+        "Premium quality"
+      ],
+      "sections": 1,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_products_beanie_red.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_products_beanie_red.json"
+    },
+    {
+      "url": "https://salt-yard.myshopify.com/products/beanie-navy",
+      "slug": "salt_yard_myshopify_com_products_beanie_navy",
+      "title": "Beanie Navy – Symmetry Theme Salt Yard",
+      "type": "product",
+      "headings": [
+        "Beanie Navy",
+        "Beanie Navy",
+        "Salt Yard Size Guide",
+        "Sizes",
+        "Sizes",
+        "Our fabrics are developed specifically for us and we only produce quality apparel that lasts.",
+        "Sustainability",
+        "Premium quality"
+      ],
+      "sections": 1,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_products_beanie_navy.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_products_beanie_navy.json"
+    },
+    {
+      "url": "https://salt-yard.myshopify.com/products/beanie-sand",
+      "slug": "salt_yard_myshopify_com_products_beanie_sand",
+      "title": "Beanie Sand – Symmetry Theme Salt Yard",
+      "type": "product",
+      "headings": [
+        "Beanie Sand",
+        "Beanie Sand",
+        "Salt Yard Size Guide",
+        "Sizes",
+        "Sizes",
+        "Our fabrics are developed specifically for us and we only produce quality apparel that lasts.",
+        "Sustainability",
+        "Premium quality"
+      ],
+      "sections": 1,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_products_beanie_sand.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_products_beanie_sand.json"
+    },
+    {
+      "url": "https://salt-yard.myshopify.com/products/beanie-grey",
+      "slug": "salt_yard_myshopify_com_products_beanie_grey",
+      "title": "Beanie Grey – Symmetry Theme Salt Yard",
+      "type": "product",
+      "headings": [
+        "Beanie Grey",
+        "Beanie Grey",
+        "Salt Yard Size Guide",
+        "Sizes",
+        "Sizes",
+        "Our fabrics are developed specifically for us and we only produce quality apparel that lasts.",
+        "Sustainability",
+        "Premium quality"
+      ],
+      "sections": 1,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_products_beanie_grey.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_products_beanie_grey.json"
+    },
+    {
+      "url": "https://salt-yard.myshopify.com/products/socks-triple-navy",
+      "slug": "salt_yard_myshopify_com_products_socks_triple_navy",
+      "title": "Socks Triple Navy – Symmetry Theme Salt Yard",
+      "type": "product",
+      "headings": [
+        "Socks Triple Navy",
+        "Socks Triple Navy",
+        "Salt Yard Size Guide",
+        "Sizes",
+        "Sizes",
+        "Our fabrics are developed specifically for us and we only produce quality apparel that lasts.",
+        "Sustainability",
+        "Premium quality"
+      ],
+      "sections": 1,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_products_socks_triple_navy.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_products_socks_triple_navy.json"
+    },
+    {
+      "url": "https://salt-yard.myshopify.com/products/socks-triple-red",
+      "slug": "salt_yard_myshopify_com_products_socks_triple_red",
+      "title": "Socks Triple Red – Symmetry Theme Salt Yard",
+      "type": "product",
+      "headings": [
+        "Socks Triple Red",
+        "Socks Triple Red",
+        "Salt Yard Size Guide",
+        "Sizes",
+        "Sizes",
+        "Our fabrics are developed specifically for us and we only produce quality apparel that lasts.",
+        "Sustainability",
+        "Premium quality"
+      ],
+      "sections": 1,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_products_socks_triple_red.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_products_socks_triple_red.json"
+    },
+    {
+      "url": "https://salt-yard.myshopify.com/products/socks-triple-black",
+      "slug": "salt_yard_myshopify_com_products_socks_triple_black",
+      "title": "Socks Triple Black – Symmetry Theme Salt Yard",
+      "type": "product",
+      "headings": [
+        "Socks Triple Black",
+        "Socks Triple Black",
+        "Salt Yard Size Guide",
+        "Sizes",
+        "Sizes",
+        "Our fabrics are developed specifically for us and we only produce quality apparel that lasts.",
+        "Sustainability",
+        "Premium quality"
+      ],
+      "sections": 1,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_products_socks_triple_black.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_products_socks_triple_black.json"
+    },
+    {
+      "url": "https://salt-yard.myshopify.com/products/socks-navy",
+      "slug": "salt_yard_myshopify_com_products_socks_navy",
+      "title": "Socks Navy – Symmetry Theme Salt Yard",
+      "type": "product",
+      "headings": [
+        "Socks Navy",
+        "Socks Navy",
+        "Salt Yard Size Guide",
+        "Sizes",
+        "Sizes",
+        "Our fabrics are developed specifically for us and we only produce quality apparel that lasts.",
+        "Sustainability",
+        "Premium quality"
+      ],
+      "sections": 1,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_products_socks_navy.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_products_socks_navy.json"
+    },
+    {
+      "url": "https://salt-yard.myshopify.com/products/socks-red",
+      "slug": "salt_yard_myshopify_com_products_socks_red",
+      "title": "Socks Red – Symmetry Theme Salt Yard",
+      "type": "product",
+      "headings": [
+        "Socks Red",
+        "Socks Red",
+        "Salt Yard Size Guide",
+        "Sizes",
+        "Sizes",
+        "Our fabrics are developed specifically for us and we only produce quality apparel that lasts.",
+        "Sustainability",
+        "Premium quality"
+      ],
+      "sections": 1,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_products_socks_red.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_products_socks_red.json"
+    },
+    {
+      "url": "https://salt-yard.myshopify.com/products/socks-black",
+      "slug": "salt_yard_myshopify_com_products_socks_black",
+      "title": "Socks Black – Symmetry Theme Salt Yard",
+      "type": "product",
+      "headings": [
+        "Socks Black",
+        "Socks Black",
+        "Salt Yard Size Guide",
+        "Sizes",
+        "Sizes",
+        "Our fabrics are developed specifically for us and we only produce quality apparel that lasts.",
+        "Sustainability",
+        "Premium quality"
+      ],
+      "sections": 1,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_products_socks_black.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_products_socks_black.json"
+    },
+    {
+      "url": "https://salt-yard.myshopify.com/products/socks-yellow",
+      "slug": "salt_yard_myshopify_com_products_socks_yellow",
+      "title": "Socks Yellow – Symmetry Theme Salt Yard",
+      "type": "product",
+      "headings": [
+        "Socks Yellow",
+        "Socks Yellow",
+        "Salt Yard Size Guide",
+        "Sizes",
+        "Sizes",
+        "Our fabrics are developed specifically for us and we only produce quality apparel that lasts.",
+        "Sustainability",
+        "Premium quality"
+      ],
+      "sections": 1,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_products_socks_yellow.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_products_socks_yellow.json"
+    },
+    {
+      "url": "https://salt-yard.myshopify.com/products/unrecorded-annemieke-boots-stoneware-vase",
+      "slug": "salt_yard_myshopify_com_products_unrecorded_annemieke_boots_stoneware_vase",
+      "title": "Unrecorded + Annemieke Boots Stoneware Vase – Symmetry Theme Salt Yard",
+      "type": "product",
+      "headings": [
+        "Unrecorded + Annemieke Boots Stoneware Vase",
+        "Unrecorded + Annemieke Boots Stoneware Vase",
+        "Salt Yard Size Guide",
+        "Sizes",
+        "Sizes",
+        "Our fabrics are developed specifically for us and we only produce quality apparel that lasts.",
+        "Sustainability",
+        "Premium quality"
+      ],
+      "sections": 1,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_products_unrecorded_annemieke_boots_stoneware_vase.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_products_unrecorded_annemieke_boots_stoneware_vase.json"
+    },
+    {
+      "url": "https://salt-yard.myshopify.com/products/unrecorded-annemieke-boots-stoneware-planter",
+      "slug": "salt_yard_myshopify_com_products_unrecorded_annemieke_boots_stoneware_planter",
+      "title": "Unrecorded + Annemieke Boots Stoneware Planter – Symmetry Theme Salt Yard",
+      "type": "product",
+      "headings": [
+        "Unrecorded + Annemieke Boots Stoneware Planter",
+        "Unrecorded + Annemieke Boots Stoneware Planter",
+        "Salt Yard Size Guide",
+        "Sizes",
+        "Sizes",
+        "Our fabrics are developed specifically for us and we only produce quality apparel that lasts.",
+        "Sustainability",
+        "Premium quality"
+      ],
+      "sections": 1,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_products_unrecorded_annemieke_boots_stoneware_planter.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_products_unrecorded_annemieke_boots_stoneware_planter.json"
+    },
+    {
+      "url": "https://salt-yard.myshopify.com/products/unrecorded-annemieke-boots-stoneware-small-plate",
+      "slug": "salt_yard_myshopify_com_products_unrecorded_annemieke_boots_stoneware_small_plate",
+      "title": "Unrecorded + Annemieke Boots Stoneware Small Plate – Symmetry Theme Salt Yard",
+      "type": "product",
+      "headings": [
+        "Unrecorded + Annemieke Boots Stoneware Small Plate",
+        "Unrecorded + Annemieke Boots Stoneware Small Plate",
+        "Salt Yard Size Guide",
+        "Sizes",
+        "Sizes",
+        "Our fabrics are developed specifically for us and we only produce quality apparel that lasts.",
+        "Sustainability",
+        "Premium quality"
+      ],
+      "sections": 1,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_products_unrecorded_annemieke_boots_stoneware_small_plate.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_products_unrecorded_annemieke_boots_stoneware_small_plate.json"
+    },
+    {
+      "url": "https://salt-yard.myshopify.com/products/unrecorded-annemieke-boots-stoneware-pitcher",
+      "slug": "salt_yard_myshopify_com_products_unrecorded_annemieke_boots_stoneware_pitcher",
+      "title": "Unrecorded + Annemieke Boots Stoneware Pitcher – Symmetry Theme Salt Yard",
+      "type": "product",
+      "headings": [
+        "Coming Soon",
+        "Unrecorded + Annemieke Boots Stoneware Pitcher",
+        "Unrecorded + Annemieke Boots Stoneware Pitcher",
+        "Unrecorded + Annemieke Boots Stoneware Pitcher",
+        "Follow us on Instagram",
+        "Sign up and get 10% off your first order"
+      ],
+      "sections": 1,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_products_unrecorded_annemieke_boots_stoneware_pitcher.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_products_unrecorded_annemieke_boots_stoneware_pitcher.json"
+    },
+    {
+      "url": "https://salt-yard.myshopify.com/products/unrecorded-annemieke-boots-stoneware-large-plate",
+      "slug": "salt_yard_myshopify_com_products_unrecorded_annemieke_boots_stoneware_large_plate",
+      "title": "Unrecorded + Annemieke Boots Stoneware Large Plate – Symmetry Theme Salt Yard",
+      "type": "product",
+      "headings": [
+        "Unrecorded + Annemieke Boots Stoneware Large Plate",
+        "Unrecorded + Annemieke Boots Stoneware Large Plate",
+        "Salt Yard Size Guide",
+        "Sizes",
+        "Sizes",
+        "Our fabrics are developed specifically for us and we only produce quality apparel that lasts.",
+        "Sustainability",
+        "Premium quality"
+      ],
+      "sections": 1,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_products_unrecorded_annemieke_boots_stoneware_large_plate.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_products_unrecorded_annemieke_boots_stoneware_large_plate.json"
+    },
+    {
+      "url": "https://salt-yard.myshopify.com/products/unrecorded-annemieke-boots-stoneware-cup",
+      "slug": "salt_yard_myshopify_com_products_unrecorded_annemieke_boots_stoneware_cup",
+      "title": "Unrecorded + Annemieke Boots Stoneware Cup – Symmetry Theme Salt Yard",
+      "type": "product",
+      "headings": [
+        "Unrecorded + Annemieke Boots Stoneware Cup",
+        "Unrecorded + Annemieke Boots Stoneware Cup",
+        "Salt Yard Size Guide",
+        "Sizes",
+        "Sizes",
+        "Our fabrics are developed specifically for us and we only produce quality apparel that lasts.",
+        "Sustainability",
+        "Premium quality"
+      ],
+      "sections": 1,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_products_unrecorded_annemieke_boots_stoneware_cup.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_products_unrecorded_annemieke_boots_stoneware_cup.json"
+    },
+    {
+      "url": "https://salt-yard.myshopify.com/products/candle-n-3-sandalwood",
+      "slug": "salt_yard_myshopify_com_products_candle_n_3_sandalwood",
+      "title": "Candle N°3 / Sandalwood – Symmetry Theme Salt Yard",
+      "type": "product",
+      "headings": [
+        "Candle N°3 / Sandalwood",
+        "Candle N°3 / Sandalwood",
+        "Salt Yard Size Guide",
+        "Sizes",
+        "Sizes",
+        "Our fabrics are developed specifically for us and we only produce quality apparel that lasts.",
+        "Sustainability",
+        "Premium quality"
+      ],
+      "sections": 1,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_products_candle_n_3_sandalwood.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_products_candle_n_3_sandalwood.json"
+    },
+    {
+      "url": "https://salt-yard.myshopify.com/products/copy-of-candle-n-1-unscented",
+      "slug": "salt_yard_myshopify_com_products_copy_of_candle_n_1_unscented",
+      "title": "Candle N°2 / Eucalyptus – Symmetry Theme Salt Yard",
+      "type": "product",
+      "headings": [
+        "Candle N°2 / Eucalyptus",
+        "Candle N°2 / Eucalyptus",
+        "Salt Yard Size Guide",
+        "Sizes",
+        "Sizes",
+        "Our fabrics are developed specifically for us and we only produce quality apparel that lasts.",
+        "Sustainability",
+        "Premium quality"
+      ],
+      "sections": 1,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_products_copy_of_candle_n_1_unscented.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_products_copy_of_candle_n_1_unscented.json"
+    },
+    {
+      "url": "https://salt-yard.myshopify.com/products/candle-n-1-unscented",
+      "slug": "salt_yard_myshopify_com_products_candle_n_1_unscented",
+      "title": "Candle N°1 / Unscented – Symmetry Theme Salt Yard",
+      "type": "product",
+      "headings": [
+        "Candle N°1 / Unscented",
+        "Candle N°1 / Unscented",
+        "Salt Yard Size Guide",
+        "Sizes",
+        "Sizes",
+        "Our fabrics are developed specifically for us and we only produce quality apparel that lasts.",
+        "Sustainability",
+        "Premium quality"
+      ],
+      "sections": 1,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_products_candle_n_1_unscented.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_products_candle_n_1_unscented.json"
+    },
+    {
+      "url": "https://salt-yard.myshopify.com/products/nike-x-sacai",
+      "slug": "salt_yard_myshopify_com_products_nike_x_sacai",
+      "title": "Nike X Sacai – Symmetry Theme Salt Yard",
+      "type": "product",
+      "headings": [
+        "Nike X Sacai",
+        "Nike X Sacai",
+        "Salt Yard Size Guide",
+        "Sizes",
+        "Sizes",
+        "Our fabrics are developed specifically for us and we only produce quality apparel that lasts.",
+        "Sustainability",
+        "Premium quality"
+      ],
+      "sections": 1,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_products_nike_x_sacai.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_products_nike_x_sacai.json"
+    },
+    {
+      "url": "https://salt-yard.myshopify.com/products/nike-x-off-white",
+      "slug": "salt_yard_myshopify_com_products_nike_x_off_white",
+      "title": "Nike X Off-White – Symmetry Theme Salt Yard",
+      "type": "product",
+      "headings": [
+        "Nike X Off-White",
+        "Nike X Off-White",
+        "Salt Yard Size Guide",
+        "Sizes",
+        "Sizes",
+        "Passionate about style",
+        "Pre Order FAQs",
+        "The basics"
+      ],
+      "sections": 1,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_products_nike_x_off_white.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_products_nike_x_off_white.json"
+    },
+    {
+      "url": "https://salt-yard.myshopify.com/products/drawstring-shorts",
+      "slug": "salt_yard_myshopify_com_products_drawstring_shorts",
+      "title": "Drawstring Shorts – Symmetry Theme Salt Yard",
+      "type": "product",
+      "headings": [
+        "Drawstring Shorts",
+        "Drawstring Shorts",
+        "Salt Yard Size Guide",
+        "Sizes",
+        "Sizes",
+        "Our fabrics are developed specifically for us and we only produce quality apparel that lasts.",
+        "Sustainability",
+        "Premium quality"
+      ],
+      "sections": 1,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_products_drawstring_shorts.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_products_drawstring_shorts.json"
+    },
+    {
+      "url": "https://salt-yard.myshopify.com/products/birkenstock-arizona-habana",
+      "slug": "salt_yard_myshopify_com_products_birkenstock_arizona_habana",
+      "title": "Birkenstock Arizona Habana – Symmetry Theme Salt Yard",
+      "type": "product",
+      "headings": [
+        "Birkenstock Arizona Habana",
+        "Birkenstock Arizona Habana",
+        "Salt Yard Size Guide",
+        "Sizes",
+        "Sizes",
+        "Our fabrics are developed specifically for us and we only produce quality apparel that lasts.",
+        "Sustainability",
+        "Premium quality"
+      ],
+      "sections": 1,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_products_birkenstock_arizona_habana.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_products_birkenstock_arizona_habana.json"
+    },
+    {
+      "url": "https://salt-yard.myshopify.com/products/cropped-jeans",
+      "slug": "salt_yard_myshopify_com_products_cropped_jeans",
+      "title": "Cropped Jeans – Symmetry Theme Salt Yard",
+      "type": "product",
+      "headings": [
+        "Cropped Jeans",
+        "Cropped Jeans",
+        "Salt Yard Size Guide",
+        "Sizes",
+        "Sizes",
+        "Our fabrics are developed specifically for us and we only produce quality apparel that lasts.",
+        "Sustainability",
+        "Premium quality"
+      ],
+      "sections": 1,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_products_cropped_jeans.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_products_cropped_jeans.json"
+    },
+    {
+      "url": "https://salt-yard.myshopify.com/products/birkenstock-arizona-taupe",
+      "slug": "salt_yard_myshopify_com_products_birkenstock_arizona_taupe",
+      "title": "Birkenstock Arizona Taupe – Symmetry Theme Salt Yard",
+      "type": "product",
+      "headings": [
+        "Birkenstock Arizona Taupe",
+        "Birkenstock Arizona Taupe",
+        "Salt Yard Size Guide",
+        "Sizes",
+        "Sizes",
+        "Our fabrics are developed specifically for us and we only produce quality apparel that lasts.",
+        "Sustainability",
+        "Premium quality"
+      ],
+      "sections": 1,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_products_birkenstock_arizona_taupe.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_products_birkenstock_arizona_taupe.json"
+    },
+    {
+      "url": "https://salt-yard.myshopify.com/products/pique-polo",
+      "slug": "salt_yard_myshopify_com_products_pique_polo",
+      "title": "Pique Polo – Symmetry Theme Salt Yard",
+      "type": "product",
+      "headings": [
+        "Pique Polo",
+        "Pique Polo",
+        "Salt Yard Size Guide",
+        "Sizes",
+        "Sizes",
+        "Our fabrics are developed specifically for us and we only produce quality apparel that lasts.",
+        "Sustainability",
+        "Premium quality"
+      ],
+      "sections": 1,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_products_pique_polo.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_products_pique_polo.json"
+    },
+    {
+      "url": "https://salt-yard.myshopify.com/products/hoodie",
+      "slug": "salt_yard_myshopify_com_products_hoodie",
+      "title": "Hoodie – Symmetry Theme Salt Yard",
+      "type": "product",
+      "headings": [
+        "Hoodie",
+        "Hoodie",
+        "Salt Yard Size Guide",
+        "Sizes",
+        "Sizes",
+        "Our fabrics are developed specifically for us and we only produce quality apparel that lasts.",
+        "Sustainability",
+        "Premium quality"
+      ],
+      "sections": 1,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_products_hoodie.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_products_hoodie.json"
+    },
+    {
+      "url": "https://salt-yard.myshopify.com/products/sweatpant-short",
+      "slug": "salt_yard_myshopify_com_products_sweatpant_short",
+      "title": "Sweatpant Short – Symmetry Theme Salt Yard",
+      "type": "product",
+      "headings": [
+        "Sweatpant Short",
+        "Sweatpant Short",
+        "Salt Yard Size Guide",
+        "Sizes",
+        "Sizes",
+        "Our fabrics are developed specifically for us and we only produce quality apparel that lasts.",
+        "Sustainability",
+        "Premium quality"
+      ],
+      "sections": 1,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_products_sweatpant_short.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_products_sweatpant_short.json"
+    },
+    {
+      "url": "https://salt-yard.myshopify.com/products/new-balance-fresh-foam-hierro-v5-gtx",
+      "slug": "salt_yard_myshopify_com_products_new_balance_fresh_foam_hierro_v5_gtx",
+      "title": "New Balance Fresh Foam Hierro v5 GTX – Symmetry Theme Salt Yard",
+      "type": "product",
+      "headings": [
+        "New Balance Fresh Foam Hierro v5 GTX",
+        "New Balance Fresh Foam Hierro v5 GTX",
+        "Salt Yard Size Guide",
+        "Sizes",
+        "Sizes",
+        "Passionate about style",
+        "Pre Order FAQs",
+        "The basics"
+      ],
+      "sections": 1,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_products_new_balance_fresh_foam_hierro_v5_gtx.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_products_new_balance_fresh_foam_hierro_v5_gtx.json"
+    },
+    {
+      "url": "https://salt-yard.myshopify.com/products/denim-tote-bag",
+      "slug": "salt_yard_myshopify_com_products_denim_tote_bag",
+      "title": "Denim Tote Bag – Symmetry Theme Salt Yard",
+      "type": "product",
+      "headings": [
+        "Denim Tote Bag",
+        "Denim Tote Bag",
+        "Salt Yard Size Guide",
+        "Sizes",
+        "Sizes",
+        "Our fabrics are developed specifically for us and we only produce quality apparel that lasts.",
+        "Sustainability",
+        "Premium quality"
+      ],
+      "sections": 1,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_products_denim_tote_bag.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_products_denim_tote_bag.json"
+    },
+    {
+      "url": "https://salt-yard.myshopify.com/products/birkenstock-boston-taupe",
+      "slug": "salt_yard_myshopify_com_products_birkenstock_boston_taupe",
+      "title": "Birkenstock Boston Taupe – Symmetry Theme Salt Yard",
+      "type": "product",
+      "headings": [
+        "Birkenstock Boston Taupe",
+        "Birkenstock Boston Taupe",
+        "Salt Yard Size Guide",
+        "Sizes",
+        "Sizes",
+        "Passionate about style",
+        "Pre Order FAQs",
+        "The basics"
+      ],
+      "sections": 1,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_products_birkenstock_boston_taupe.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_products_birkenstock_boston_taupe.json"
+    },
+    {
+      "url": "https://salt-yard.myshopify.com/products/drawstring-trousers",
+      "slug": "salt_yard_myshopify_com_products_drawstring_trousers",
+      "title": "Drawstring Trousers – Symmetry Theme Salt Yard",
+      "type": "product",
+      "headings": [
+        "Drawstring Trousers",
+        "Drawstring Trousers",
+        "Salt Yard Size Guide",
+        "Sizes",
+        "Sizes",
+        "Our fabrics are developed specifically for us and we only produce quality apparel that lasts.",
+        "Sustainability",
+        "Premium quality"
+      ],
+      "sections": 1,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_products_drawstring_trousers.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_products_drawstring_trousers.json"
+    },
+    {
+      "url": "https://salt-yard.myshopify.com/products/straight-jeans",
+      "slug": "salt_yard_myshopify_com_products_straight_jeans",
+      "title": "Straight Jeans – Symmetry Theme Salt Yard",
+      "type": "product",
+      "headings": [
+        "Straight Jeans",
+        "Straight Jeans",
+        "Salt Yard Size Guide",
+        "Sizes",
+        "Sizes",
+        "Our fabrics are developed specifically for us and we only produce quality apparel that lasts.",
+        "Sustainability",
+        "Premium quality"
+      ],
+      "sections": 1,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_products_straight_jeans.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_products_straight_jeans.json"
+    },
+    {
+      "url": "https://salt-yard.myshopify.com/products/oxford-shirt",
+      "slug": "salt_yard_myshopify_com_products_oxford_shirt",
+      "title": "Oxford Shirt – Symmetry Theme Salt Yard",
+      "type": "product",
+      "headings": [
+        "Oxford Shirt",
+        "Oxford Shirt",
+        "Salt Yard Size Guide",
+        "Sizes",
+        "Sizes",
+        "Passionate about style",
+        "Pre Order FAQs",
+        "The basics"
+      ],
+      "sections": 1,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_products_oxford_shirt.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_products_oxford_shirt.json"
+    },
+    {
+      "url": "https://salt-yard.myshopify.com/products/salomon-shelter-low-ltr-adv",
+      "slug": "salt_yard_myshopify_com_products_salomon_shelter_low_ltr_adv",
+      "title": "Salomon Shelter Low LTR ADV – Symmetry Theme Salt Yard",
+      "type": "product",
+      "headings": [
+        "Salomon Shelter Low LTR ADV",
+        "Salomon Shelter Low LTR ADV",
+        "Salt Yard Size Guide",
+        "Sizes",
+        "Sizes",
+        "Our fabrics are developed specifically for us and we only produce quality apparel that lasts.",
+        "Sustainability",
+        "Premium quality"
+      ],
+      "sections": 1,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_products_salomon_shelter_low_ltr_adv.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_products_salomon_shelter_low_ltr_adv.json"
+    },
+    {
+      "url": "https://salt-yard.myshopify.com/products/new-balance-m920",
+      "slug": "salt_yard_myshopify_com_products_new_balance_m920",
+      "title": "New Balance M920 – Symmetry Theme Salt Yard",
+      "type": "product",
+      "headings": [
+        "New Balance M920",
+        "New Balance M920",
+        "Salt Yard Size Guide",
+        "Sizes",
+        "Sizes",
+        "Our fabrics are developed specifically for us and we only produce quality apparel that lasts.",
+        "Sustainability",
+        "Premium quality"
+      ],
+      "sections": 1,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_products_new_balance_m920.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_products_new_balance_m920.json"
+    },
+    {
+      "url": "https://salt-yard.myshopify.com/products/trucker-jacket-denim",
+      "slug": "salt_yard_myshopify_com_products_trucker_jacket_denim",
+      "title": "Trucker Jacket Denim – Symmetry Theme Salt Yard",
+      "type": "product",
+      "headings": [
+        "Trucker Jacket Denim",
+        "Trucker Jacket Denim",
+        "Salt Yard Size Guide",
+        "Sizes",
+        "Sizes",
+        "Passionate about style",
+        "Pre Order FAQs",
+        "The basics"
+      ],
+      "sections": 1,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_products_trucker_jacket_denim.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_products_trucker_jacket_denim.json"
+    },
+    {
+      "url": "https://salt-yard.myshopify.com/products/sweater",
+      "slug": "salt_yard_myshopify_com_products_sweater",
+      "title": "Sweater – Symmetry Theme Salt Yard",
+      "type": "product",
+      "headings": [
+        "Sweater",
+        "Sweater",
+        "Salt Yard Size Guide",
+        "Sizes",
+        "Sizes",
+        "Our fabrics are developed specifically for us and we only produce quality apparel that lasts.",
+        "Sustainability",
+        "Premium quality"
+      ],
+      "sections": 1,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_products_sweater.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_products_sweater.json"
+    },
+    {
+      "url": "https://salt-yard.myshopify.com/products/merino-sweater",
+      "slug": "salt_yard_myshopify_com_products_merino_sweater",
+      "title": "Merino Sweater – Symmetry Theme Salt Yard",
+      "type": "product",
+      "headings": [
+        "Merino Sweater",
+        "Merino Sweater",
+        "Salt Yard Size Guide",
+        "Sizes",
+        "Sizes",
+        "Our fabrics are developed specifically for us and we only produce quality apparel that lasts.",
+        "Sustainability",
+        "Premium quality"
+      ],
+      "sections": 1,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_products_merino_sweater.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_products_merino_sweater.json"
+    },
+    {
+      "url": "https://salt-yard.myshopify.com/products/socks",
+      "slug": "salt_yard_myshopify_com_products_socks",
+      "title": "Socks Grey – Symmetry Theme Salt Yard",
+      "type": "product",
+      "headings": [
+        "Socks Grey",
+        "Socks Grey",
+        "Salt Yard Size Guide",
+        "Sizes",
+        "Sizes",
+        "Our fabrics are developed specifically for us and we only produce quality apparel that lasts.",
+        "Sustainability",
+        "Premium quality"
+      ],
+      "sections": 1,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_products_socks.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_products_socks.json"
+    },
+    {
+      "url": "https://salt-yard.myshopify.com/products/t-shirt-155-gsm",
+      "slug": "salt_yard_myshopify_com_products_t_shirt_155_gsm",
+      "title": "T-Shirt 155 GSM – Symmetry Theme Salt Yard",
+      "type": "product",
+      "headings": [
+        "T-Shirt 155 GSM",
+        "T-Shirt 155 GSM",
+        "Salt Yard Size Guide",
+        "Sizes",
+        "Sizes",
+        "Our fabrics are developed specifically for us and we only produce quality apparel that lasts.",
+        "Sustainability",
+        "Premium quality"
+      ],
+      "sections": 1,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_products_t_shirt_155_gsm.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_products_t_shirt_155_gsm.json"
+    },
+    {
+      "url": "https://salt-yard.myshopify.com/products/sweatpant",
+      "slug": "salt_yard_myshopify_com_products_sweatpant",
+      "title": "Sweatpant – Symmetry Theme Salt Yard",
+      "type": "product",
+      "headings": [
+        "Sweatpant",
+        "Sweatpant",
+        "Salt Yard Size Guide",
+        "Sizes",
+        "Sizes",
+        "Our fabrics are developed specifically for us and we only produce quality apparel that lasts.",
+        "Sustainability",
+        "Premium quality"
+      ],
+      "sections": 1,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_products_sweatpant.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_products_sweatpant.json"
+    },
+    {
+      "url": "https://salt-yard.myshopify.com/products/denim-shirt",
+      "slug": "salt_yard_myshopify_com_products_denim_shirt",
+      "title": "Denim Shirt – Symmetry Theme Salt Yard",
+      "type": "product",
+      "headings": [
+        "Denim Shirt",
+        "Denim Shirt",
+        "Salt Yard Size Guide",
+        "Sizes",
+        "Sizes",
+        "Our fabrics are developed specifically for us and we only produce quality apparel that lasts.",
+        "Sustainability",
+        "Premium quality"
+      ],
+      "sections": 1,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_products_denim_shirt.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_products_denim_shirt.json"
+    },
+    {
+      "url": "https://salt-yard.myshopify.com/products/lambswool-sweater",
+      "slug": "salt_yard_myshopify_com_products_lambswool_sweater",
+      "title": "Lambswool Sweater – Symmetry Theme Salt Yard",
+      "type": "product",
+      "headings": [
+        "Lambswool Sweater",
+        "Lambswool Sweater",
+        "Salt Yard Size Guide",
+        "Sizes",
+        "Sizes",
+        "Our fabrics are developed specifically for us and we only produce quality apparel that lasts.",
+        "Sustainability",
+        "Premium quality"
+      ],
+      "sections": 1,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_products_lambswool_sweater.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_products_lambswool_sweater.json"
+    },
+    {
+      "url": "https://salt-yard.myshopify.com/products/beanie",
+      "slug": "salt_yard_myshopify_com_products_beanie",
+      "title": "Beanie Black – Symmetry Theme Salt Yard",
+      "type": "product",
+      "headings": [
+        "Beanie Black",
+        "Beanie Black",
+        "Salt Yard Size Guide",
+        "Sizes",
+        "Sizes",
+        "Our fabrics are developed specifically for us and we only produce quality apparel that lasts.",
+        "Sustainability",
+        "Premium quality"
+      ],
+      "sections": 1,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_products_beanie.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_products_beanie.json"
+    },
+    {
+      "url": "https://salt-yard.myshopify.com/products/chino",
+      "slug": "salt_yard_myshopify_com_products_chino",
+      "title": "Chino – Symmetry Theme Salt Yard",
+      "type": "product",
+      "headings": [
+        "Chino",
+        "Chino",
+        "Salt Yard Size Guide",
+        "Sizes",
+        "Sizes",
+        "Our fabrics are developed specifically for us and we only produce quality apparel that lasts.",
+        "Sustainability",
+        "Premium quality"
+      ],
+      "sections": 1,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_products_chino.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_products_chino.json"
+    },
+    {
+      "url": "https://salt-yard.myshopify.com/products/worker-jacket",
+      "slug": "salt_yard_myshopify_com_products_worker_jacket",
+      "title": "Worker Jacket – Symmetry Theme Salt Yard",
+      "type": "product",
+      "headings": [
+        "Worker Jacket",
+        "Worker Jacket",
+        "Salt Yard Size Guide",
+        "Sizes",
+        "Sizes",
+        "Passionate about style",
+        "Pre Order FAQs",
+        "The basics"
+      ],
+      "sections": 1,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_products_worker_jacket.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_products_worker_jacket.json"
+    },
+    {
+      "url": "https://salt-yard.myshopify.com/products/t-shirt-220-gsm",
+      "slug": "salt_yard_myshopify_com_products_t_shirt_220_gsm",
+      "title": "T-Shirt 220 GSM – Symmetry Theme Salt Yard",
+      "type": "product",
+      "headings": [
+        "T-Shirt 220 GSM",
+        "T-Shirt 220 GSM",
+        "Salt Yard Size Guide",
+        "Sizes",
+        "Sizes",
+        "Our fabrics are developed specifically for us and we only produce quality apparel that lasts.",
+        "Sustainability",
+        "Premium quality"
+      ],
+      "sections": 1,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_products_t_shirt_220_gsm.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_products_t_shirt_220_gsm.json"
+    },
+    {
+      "url": "https://salt-yard.myshopify.com/products/knitted-polo-shirt",
+      "slug": "salt_yard_myshopify_com_products_knitted_polo_shirt",
+      "title": "Knitted Polo Shirt – Symmetry Theme Salt Yard",
+      "type": "product",
+      "headings": [
+        "Knitted Polo Shirt",
+        "Knitted Polo Shirt",
+        "Salt Yard Size Guide",
+        "Sizes",
+        "Sizes",
+        "Passionate about style",
+        "Pre Order FAQs",
+        "The basics"
+      ],
+      "sections": 1,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_products_knitted_polo_shirt.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_products_knitted_polo_shirt.json"
+    },
+    {
+      "url": "https://salt-yard.myshopify.com/products/half-zip-sweater",
+      "slug": "salt_yard_myshopify_com_products_half_zip_sweater",
+      "title": "Half-Zip Sweater – Symmetry Theme Salt Yard",
+      "type": "product",
+      "headings": [
+        "Half-Zip Sweater",
+        "Half-Zip Sweater",
+        "Salt Yard Size Guide",
+        "Sizes",
+        "Sizes",
+        "Our fabrics are developed specifically for us and we only produce quality apparel that lasts.",
+        "Sustainability",
+        "Premium quality"
+      ],
+      "sections": 1,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_products_half_zip_sweater.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_products_half_zip_sweater.json"
+    },
+    {
+      "url": "https://salt-yard.myshopify.com/products/lambswool-cardigan",
+      "slug": "salt_yard_myshopify_com_products_lambswool_cardigan",
+      "title": "Lambswool Cardigan – Symmetry Theme Salt Yard",
+      "type": "product",
+      "headings": [
+        "Lambswool Cardigan",
+        "Lambswool Cardigan",
+        "Salt Yard Size Guide",
+        "Sizes",
+        "Sizes",
+        "Passionate about style",
+        "Pre Order FAQs",
+        "The basics"
+      ],
+      "sections": 1,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_products_lambswool_cardigan.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_products_lambswool_cardigan.json"
+    },
+    {
+      "url": "https://salt-yard.myshopify.com/products/recycled-bomber-jacket",
+      "slug": "salt_yard_myshopify_com_products_recycled_bomber_jacket",
+      "title": "Recycled Bomber Jacket – Symmetry Theme Salt Yard",
+      "type": "product",
+      "headings": [
+        "Recycled Bomber Jacket",
+        "Recycled Bomber Jacket",
+        "Salt Yard Size Guide",
+        "Sizes",
+        "Sizes",
+        "Our fabrics are developed specifically for us and we only produce quality apparel that lasts.",
+        "Sustainability",
+        "Premium quality"
+      ],
+      "sections": 1,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_products_recycled_bomber_jacket.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_products_recycled_bomber_jacket.json"
+    },
+    {
+      "url": "https://salt-yard.myshopify.com/products/knitted-zip-hoodie-dark-moss-green",
+      "slug": "salt_yard_myshopify_com_products_knitted_zip_hoodie_dark_moss_green",
+      "title": "Knitted Zip Hoodie - Dark Moss Green – Symmetry Theme Salt Yard",
+      "type": "product",
+      "headings": [
+        "Knitted Zip Hoodie - Dark Moss Green",
+        "Knitted Zip Hoodie - Dark Moss Green",
+        "Salt Yard Size Guide",
+        "Sizes",
+        "Sizes",
+        "Our fabrics are developed specifically for us and we only produce quality apparel that lasts.",
+        "Sustainability",
+        "Premium quality"
+      ],
+      "sections": 1,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_products_knitted_zip_hoodie_dark_moss_green.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_products_knitted_zip_hoodie_dark_moss_green.json"
+    },
+    {
+      "url": "https://salt-yard.myshopify.com/products/drawstring-trousers-1",
+      "slug": "salt_yard_myshopify_com_products_drawstring_trousers_1",
+      "title": "Drawstring Trousers – Symmetry Theme Salt Yard",
+      "type": "product",
+      "headings": [
+        "Nothing is wasted.",
+        "Drawstring Trousers",
+        "Drawstring Trousers",
+        "Salt Yard Size Guide",
+        "Sizes",
+        "Sizes",
+        "62 grams twill fabric. Made in Portugal.",
+        "Full Zip Sweater"
+      ],
+      "sections": 1,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_products_drawstring_trousers_1.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_products_drawstring_trousers_1.json"
+    },
+    {
+      "url": "https://salt-yard.myshopify.com/pages/about-us",
+      "slug": "salt_yard_myshopify_com_pages_about_us",
+      "title": "Shopify premium mobile friendly ecommerce theme - try for FREE! – Symmetry Theme Salt Yard",
+      "type": "page",
+      "headings": [
+        "About Us",
+        "Sign up and get 10% off your first order"
+      ],
+      "sections": 1,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_pages_about_us.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_pages_about_us.json"
+    },
+    {
+      "url": "https://salt-yard.myshopify.com/pages/contact",
+      "slug": "salt_yard_myshopify_com_pages_contact",
+      "title": "Shopify responsive theme demo store Contact – Symmetry Theme Salt Yard",
+      "type": "page",
+      "headings": [
+        "Contact Us",
+        "Support hours",
+        "Send us an email",
+        "Follow us on Instagram",
+        "Come and visit",
+        "Sign up and get 10% off your first order"
+      ],
+      "sections": 1,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_pages_contact.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_pages_contact.json"
+    },
+    {
+      "url": "https://salt-yard.myshopify.com/pages/terms",
+      "slug": "salt_yard_myshopify_com_pages_terms",
+      "title": "Terms & Conditions of Service – Symmetry Theme Salt Yard",
+      "type": "page",
+      "headings": [
+        "Terms & Conditions of Service",
+        "Returns",
+        "Refunds",
+        "Sign up and get 10% off your first order"
+      ],
+      "sections": 1,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_pages_terms.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_pages_terms.json"
+    },
+    {
+      "url": "https://salt-yard.myshopify.com/pages/returns",
+      "slug": "salt_yard_myshopify_com_pages_returns",
+      "title": "Returns Policy – Symmetry Theme Salt Yard",
+      "type": "page",
+      "headings": [
+        "Returns Policy",
+        "Sign up and get 10% off your first order"
+      ],
+      "sections": 1,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_pages_returns.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_pages_returns.json"
+    },
+    {
+      "url": "https://salt-yard.myshopify.com/pages/faq",
+      "slug": "salt_yard_myshopify_com_pages_faq",
+      "title": "FAQs – Symmetry Theme Salt Yard",
+      "type": "page",
+      "headings": [
+        "Customer Help",
+        "FAQ",
+        "Ordering",
+        "Shipping",
+        "Returns & Exchanges",
+        "Sustainability",
+        "Get in touch",
+        "Sign up and get 10% off your first order"
+      ],
+      "sections": 1,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_pages_faq.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_pages_faq.json"
+    },
+    {
+      "url": "https://salt-yard.myshopify.com/pages/sizing-chart",
+      "slug": "salt_yard_myshopify_com_pages_sizing_chart",
+      "title": "Sizing chart – Symmetry Theme Salt Yard",
+      "type": "page",
+      "headings": [
+        "Sizing chart",
+        "How to measure",
+        "Sign up and get 10% off your first order"
+      ],
+      "sections": 1,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_pages_sizing_chart.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_pages_sizing_chart.json"
+    },
+    {
+      "url": "https://salt-yard.myshopify.com/pages/our-story",
+      "slug": "salt_yard_myshopify_com_pages_our_story",
+      "title": "Our Story – Symmetry Theme Salt Yard",
+      "type": "page",
+      "headings": [
+        "Our story",
+        "Unrecorded weaves together style and sustainability. Timeless designs constructed with the future in mind.",
+        "Our ethical approach",
+        "Exude confidence",
+        "We’re transparent, proud of everybody we work with and everything we do.",
+        "Designed to last",
+        "Factories",
+        "Organic Cotton"
+      ],
+      "sections": 1,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_pages_our_story.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_pages_our_story.json"
+    },
+    {
+      "url": "https://salt-yard.myshopify.com/pages/size-chart",
+      "slug": "salt_yard_myshopify_com_pages_size_chart",
+      "title": "Size Chart – Symmetry Theme Salt Yard",
+      "type": "page",
+      "headings": [
+        "Size Chart",
+        "Sign up and get 10% off your first order"
+      ],
+      "sections": 1,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_pages_size_chart.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_pages_size_chart.json"
+    },
+    {
+      "url": "https://salt-yard.myshopify.com/pages/materials-care",
+      "slug": "salt_yard_myshopify_com_pages_materials_care",
+      "title": "Materials & Care – Symmetry Theme Salt Yard",
+      "type": "page",
+      "headings": [
+        "Materials & Care",
+        "Sign up and get 10% off your first order"
+      ],
+      "sections": 1,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_pages_materials_care.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_pages_materials_care.json"
+    },
+    {
+      "url": "https://salt-yard.myshopify.com/pages/shipping",
+      "slug": "salt_yard_myshopify_com_pages_shipping",
+      "title": "Shipping – Symmetry Theme Salt Yard",
+      "type": "page",
+      "headings": [
+        "Shipping",
+        "Sign up and get 10% off your first order"
+      ],
+      "sections": 1,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_pages_shipping.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_pages_shipping.json"
+    },
+    {
+      "url": "https://salt-yard.myshopify.com/pages/customer-help",
+      "slug": "salt_yard_myshopify_com_pages_customer_help",
+      "title": "Customer Help – Symmetry Theme Salt Yard",
+      "type": "page",
+      "headings": [
+        "Customer Help",
+        "Do you ship overseas?",
+        "How long will it take to get my order?",
+        "What shipping carriers do you use?",
+        "Can I return my product?",
+        "Can I get my product personalized?",
+        "Are these Q&As real?",
+        "Sign up and get 10% off your first order"
+      ],
+      "sections": 1,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_pages_customer_help.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_pages_customer_help.json"
+    },
+    {
+      "url": "https://salt-yard.myshopify.com/pages/lookbook",
+      "slug": "salt_yard_myshopify_com_pages_lookbook",
+      "title": "Lookbook – Symmetry Theme Salt Yard",
+      "type": "page",
+      "headings": [
+        "LOOKBOOK",
+        "Unstoppable Sustainable Looks",
+        "Knitted Polo Shirt",
+        "Lambswool Cardigan",
+        "Worker Jacket",
+        "Drawstring Trousers",
+        "FW23 LookBook",
+        "Thanks for watching"
+      ],
+      "sections": 1,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_pages_lookbook.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_pages_lookbook.json"
+    },
+    {
+      "url": "https://salt-yard.myshopify.com/pages/returns-guide",
+      "slug": "salt_yard_myshopify_com_pages_returns_guide",
+      "title": "Returns Guide – Symmetry Theme Salt Yard",
+      "type": "page",
+      "headings": [
+        "Returns Guide",
+        "Our Returns Policy",
+        "Create a returns lable",
+        "Print your label",
+        "Bag it up",
+        "Drop it off",
+        "Top Returns FAQs",
+        "Making a return"
+      ],
+      "sections": 1,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_pages_returns_guide.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_pages_returns_guide.json"
+    },
+    {
+      "url": "https://salt-yard.myshopify.com/pages/wide",
+      "slug": "salt_yard_myshopify_com_pages_wide",
+      "title": "Wide – Symmetry Theme Salt Yard",
+      "type": "page",
+      "headings": [
+        "Wide",
+        "Sign up and get 10% off your first order"
+      ],
+      "sections": 1,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_pages_wide.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_pages_wide.json"
+    },
+    {
+      "url": "https://salt-yard.myshopify.com/collections/all",
+      "slug": "salt_yard_myshopify_com_collections_all",
+      "title": "All Our Products – Symmetry Theme Salt Yard",
+      "type": "collection",
+      "headings": [
+        "All Our Products",
+        "Sign up and get 10% off your first order"
+      ],
+      "sections": 1,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_collections_all.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_collections_all.json"
+    },
+    {
+      "url": "https://salt-yard.myshopify.com/collections/sale",
+      "slug": "salt_yard_myshopify_com_collections_sale",
+      "title": "Sale – Symmetry Theme Salt Yard",
+      "type": "collection",
+      "headings": [
+        "Sale now on",
+        "Denim Shirt",
+        "Other Collections",
+        "Denim",
+        "Footwear",
+        "Jackets",
+        "Shirts",
+        "New Arrivals"
+      ],
+      "sections": 1,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_collections_sale.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_collections_sale.json"
+    },
+    {
+      "url": "https://salt-yard.myshopify.com/collections/sweaters-hoodies",
+      "slug": "salt_yard_myshopify_com_collections_sweaters_hoodies",
+      "title": "Sweaters & Hoodies – Symmetry Theme Salt Yard",
+      "type": "collection",
+      "headings": [
+        "T-Shirts",
+        "New Arrivals",
+        "Best Sellers",
+        "Jackets",
+        "Sweaters & Hoodies",
+        "Sign up and get 10% off your first order"
+      ],
+      "sections": 1,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_collections_sweaters_hoodies.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_collections_sweaters_hoodies.json"
+    },
+    {
+      "url": "https://salt-yard.myshopify.com/collections/shirts",
+      "slug": "salt_yard_myshopify_com_collections_shirts",
+      "title": "Shirts – Symmetry Theme Salt Yard",
+      "type": "collection",
+      "headings": [
+        "New Arrivals",
+        "All Clothing",
+        "All Our Products",
+        "Denim",
+        "Shirts",
+        "Sign up and get 10% off your first order"
+      ],
+      "sections": 1,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_collections_shirts.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_collections_shirts.json"
+    },
+    {
+      "url": "https://salt-yard.myshopify.com/collections/denim",
+      "slug": "salt_yard_myshopify_com_collections_denim",
+      "title": "Denim – Symmetry Theme Salt Yard",
+      "type": "collection",
+      "headings": [
+        "Jackets",
+        "Best Sellers",
+        "Shorts",
+        "Shirts",
+        "Denim",
+        "Sign up and get 10% off your first order"
+      ],
+      "sections": 1,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_collections_denim.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_collections_denim.json"
+    },
+    {
+      "url": "https://salt-yard.myshopify.com/collections/shorts",
+      "slug": "salt_yard_myshopify_com_collections_shorts",
+      "title": "Shorts – Symmetry Theme Salt Yard",
+      "type": "collection",
+      "headings": [
+        "Trousers",
+        "Accessories",
+        "Sweaters & Hoodies",
+        "Sale",
+        "Shorts",
+        "Sign up and get 10% off your first order"
+      ],
+      "sections": 1,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_collections_shorts.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_collections_shorts.json"
+    },
+    {
+      "url": "https://salt-yard.myshopify.com/collections/beanies",
+      "slug": "salt_yard_myshopify_com_collections_beanies",
+      "title": "Beanies – Symmetry Theme Salt Yard",
+      "type": "collection",
+      "headings": [
+        "Best Sellers",
+        "Accessories",
+        "T-Shirts",
+        "Sale",
+        "Beanies",
+        "Sign up and get 10% off your first order"
+      ],
+      "sections": 1,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_collections_beanies.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_collections_beanies.json"
+    },
+    {
+      "url": "https://salt-yard.myshopify.com/collections/accessories",
+      "slug": "salt_yard_myshopify_com_collections_accessories",
+      "title": "Accessories – Symmetry Theme Salt Yard",
+      "type": "collection",
+      "headings": [
+        "Accessories",
+        "All Clothing",
+        "Best Sellers",
+        "Jackets",
+        "Knitwear",
+        "Beanie Grey",
+        "Collection list",
+        "All Clothing"
+      ],
+      "sections": 1,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_collections_accessories.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_collections_accessories.json"
+    },
+    {
+      "url": "https://salt-yard.myshopify.com/collections/knitwear-1",
+      "slug": "salt_yard_myshopify_com_collections_knitwear_1",
+      "title": "Knitwear – Symmetry Theme Salt Yard",
+      "type": "collection",
+      "headings": [
+        "New Arrivals",
+        "Sweaters & Hoodies",
+        "Trousers",
+        "Shirts",
+        "Knitwear",
+        "Sign up and get 10% off your first order"
+      ],
+      "sections": 1,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_collections_knitwear_1.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_collections_knitwear_1.json"
+    },
+    {
+      "url": "https://salt-yard.myshopify.com/collections/socks",
+      "slug": "salt_yard_myshopify_com_collections_socks",
+      "title": "Socks – Symmetry Theme Salt Yard",
+      "type": "collection",
+      "headings": [
+        "Socks",
+        "Sign up and get 10% off your first order"
+      ],
+      "sections": 1,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_collections_socks.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_collections_socks.json"
+    },
+    {
+      "url": "https://salt-yard.myshopify.com/collections/ceramics",
+      "slug": "salt_yard_myshopify_com_collections_ceramics",
+      "title": "Ceramics – Symmetry Theme Salt Yard",
+      "type": "collection",
+      "headings": [
+        "Ceramics",
+        "Sign up and get 10% off your first order"
+      ],
+      "sections": 1,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_collections_ceramics.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_collections_ceramics.json"
+    },
+    {
+      "url": "https://salt-yard.myshopify.com/collections/candles",
+      "slug": "salt_yard_myshopify_com_collections_candles",
+      "title": "Candles – Symmetry Theme Salt Yard",
+      "type": "collection",
+      "headings": [
+        "Candles",
+        "Sign up and get 10% off your first order"
+      ],
+      "sections": 1,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_collections_candles.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_collections_candles.json"
+    },
+    {
+      "url": "https://salt-yard.myshopify.com/collections/jackets",
+      "slug": "salt_yard_myshopify_com_collections_jackets",
+      "title": "Jackets – Symmetry Theme Salt Yard",
+      "type": "collection",
+      "headings": [
+        "Denim",
+        "All Clothing",
+        "New Arrivals",
+        "Sale",
+        "Jackets",
+        "Sign up and get 10% off your first order"
+      ],
+      "sections": 1,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_collections_jackets.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_collections_jackets.json"
+    },
+    {
+      "url": "https://salt-yard.myshopify.com/collections/trousers",
+      "slug": "salt_yard_myshopify_com_collections_trousers",
+      "title": "Trousers – Symmetry Theme Salt Yard",
+      "type": "collection",
+      "headings": [
+        "All Clothing",
+        "Socks",
+        "Shirts",
+        "Sale",
+        "Trousers",
+        "Sign up and get 10% off your first order"
+      ],
+      "sections": 1,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_collections_trousers.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_collections_trousers.json"
+    },
+    {
+      "url": "https://salt-yard.myshopify.com/collections/t-shirts",
+      "slug": "salt_yard_myshopify_com_collections_t_shirts",
+      "title": "T-Shirts – Symmetry Theme Salt Yard",
+      "type": "collection",
+      "headings": [
+        "Knitwear",
+        "New Arrivals",
+        "All Clothing",
+        "Best Sellers",
+        "T-Shirts",
+        "Sign up and get 10% off your first order"
+      ],
+      "sections": 1,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_collections_t_shirts.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_collections_t_shirts.json"
+    },
+    {
+      "url": "https://salt-yard.myshopify.com/collections/footwear",
+      "slug": "salt_yard_myshopify_com_collections_footwear",
+      "title": "Footwear – Symmetry Theme Salt Yard",
+      "type": "collection",
+      "headings": [
+        "Socks",
+        "Trousers",
+        "Accessories",
+        "Sale",
+        "Footwear",
+        "Sign up and get 10% off your first order"
+      ],
+      "sections": 1,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_collections_footwear.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_collections_footwear.json"
+    },
+    {
+      "url": "https://salt-yard.myshopify.com/collections/polo-shirts-organic-cotton-gots-certified",
+      "slug": "salt_yard_myshopify_com_collections_polo_shirts_organic_cotton_gots_certified",
+      "title": "Polo Shirts / Organic Cotton (GOTS Certified) – Symmetry Theme Salt Yard",
+      "type": "collection",
+      "headings": [
+        "New Arrivals",
+        "Shirts",
+        "Sweaters & Hoodies",
+        "Denim",
+        "Polo Shirts / Organic Cotton (GOTS Certified)",
+        "Sign up and get 10% off your first order"
+      ],
+      "sections": 1,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_collections_polo_shirts_organic_cotton_gots_certified.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_collections_polo_shirts_organic_cotton_gots_certified.json"
+    },
+    {
+      "url": "https://salt-yard.myshopify.com/collections/new-arrivals",
+      "slug": "salt_yard_myshopify_com_collections_new_arrivals",
+      "title": "New Arrivals – Symmetry Theme Salt Yard",
+      "type": "collection",
+      "headings": [
+        "New Arrivals",
+        "Sign up and get 10% off your first order"
+      ],
+      "sections": 1,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_collections_new_arrivals.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_collections_new_arrivals.json"
+    },
+    {
+      "url": "https://salt-yard.myshopify.com/collections/best-sellers",
+      "slug": "salt_yard_myshopify_com_collections_best_sellers",
+      "title": "Best Sellers – Symmetry Theme Salt Yard",
+      "type": "collection",
+      "headings": [
+        "Knitwear",
+        "Sweaters & Hoodies",
+        "Accessories",
+        "Shirts",
+        "Best Sellers",
+        "Sign up and get 10% off your first order"
+      ],
+      "sections": 1,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_collections_best_sellers.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_collections_best_sellers.json"
+    },
+    {
+      "url": "https://salt-yard.myshopify.com/collections/all-clothing-1",
+      "slug": "salt_yard_myshopify_com_collections_all_clothing_1",
+      "title": "All Clothing – Symmetry Theme Salt Yard",
+      "type": "collection",
+      "headings": [
+        "Shorts",
+        "Footwear",
+        "Denim",
+        "Jackets",
+        "All Clothing",
+        "Sign up and get 10% off your first order"
+      ],
+      "sections": 1,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_collections_all_clothing_1.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_collections_all_clothing_1.json"
+    },
+    {
+      "url": "https://salt-yard.myshopify.com/collections/collection-landing",
+      "slug": "salt_yard_myshopify_com_collections_collection_landing",
+      "title": "Collection Landing – Symmetry Theme Salt Yard",
+      "type": "collection",
+      "headings": [
+        "Collection All",
+        "Beanies",
+        "Denim",
+        "Footwear",
+        "Magazine",
+        "Autumn marks the release of Unrecorded’s candle range",
+        "From Unrecorded to Recorded: Deadstock gets a new lease on life.",
+        "True sustainability is quality that lasts a lifetime."
+      ],
+      "sections": 1,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_collections_collection_landing.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_collections_collection_landing.json"
+    },
+    {
+      "url": "https://salt-yard.myshopify.com/blogs/news",
+      "slug": "salt_yard_myshopify_com_blogs_news",
+      "title": "NEWS – Symmetry Theme Salt Yard",
+      "type": "blog",
+      "headings": [
+        "Magazine",
+        "Sign up and get 10% off your first order"
+      ],
+      "sections": 1,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_blogs_news.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_blogs_news.json"
+    },
+    {
+      "url": "https://salt-yard.myshopify.com/blogs/jss-blog",
+      "slug": "salt_yard_myshopify_com_blogs_jss_blog",
+      "title": "JSS Blog – Symmetry Theme Salt Yard",
+      "type": "blog",
+      "headings": [
+        "Magazine",
+        "Sign up and get 10% off your first order"
+      ],
+      "sections": 1,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_blogs_jss_blog.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_blogs_jss_blog.json"
+    },
+    {
+      "url": "https://salt-yard.myshopify.com/blogs/journal",
+      "slug": "salt_yard_myshopify_com_blogs_journal",
+      "title": "Journal – Symmetry Theme Salt Yard",
+      "type": "blog",
+      "headings": [
+        "Magazine",
+        "Sign up and get 10% off your first order"
+      ],
+      "sections": 1,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_blogs_journal.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_blogs_journal.json"
+    },
+    {
+      "url": "https://salt-yard.myshopify.com/blogs/magazine",
+      "slug": "salt_yard_myshopify_com_blogs_magazine",
+      "title": "Magazine – Symmetry Theme Salt Yard",
+      "type": "blog",
+      "headings": [
+        "Magazine",
+        "Autumn marks the release of Unrecorded’s candle range",
+        "From Unrecorded to Recorded: Deadstock gets a new lease on life.",
+        "True sustainability is quality that lasts a lifetime.",
+        "Sign up and get 10% off your first order"
+      ],
+      "sections": 1,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_blogs_magazine.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_blogs_magazine.json"
+    },
+    {
+      "url": "https://salt-yard.myshopify.com/blogs/magazine/true-sustainability-is-quality-that-lasts-a-lifetime",
+      "slug": "salt_yard_myshopify_com_blogs_magazine_true_sustainability_is_quality_that_lasts_a_lifetime",
+      "title": "True sustainability is quality that lasts a lifetime. – Symmetry Theme Salt Yard",
+      "type": "article",
+      "headings": [
+        "True sustainability is quality that lasts a lifetime.",
+        "Sign up and get 10% off your first order"
+      ],
+      "sections": 1,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_blogs_magazine_true_sustainability_is_quality_that_lasts_a_lifetime.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_blogs_magazine_true_sustainability_is_quality_that_lasts_a_lifetime.json"
+    },
+    {
+      "url": "https://salt-yard.myshopify.com/blogs/magazine/from-unrecorded-to-recorded-deadstock-gets-a-new-lease-on-life",
+      "slug": "salt_yard_myshopify_com_blogs_magazine_from_unrecorded_to_recorded_deadstock_gets_a_new_lease_on_life",
+      "title": "From Unrecorded to Recorded: Deadstock gets a new lease on life. – Symmetry Theme Salt Yard",
+      "type": "article",
+      "headings": [
+        "From Unrecorded to Recorded: Deadstock gets a new lease on life.",
+        "Sign up and get 10% off your first order"
+      ],
+      "sections": 1,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_blogs_magazine_from_unrecorded_to_recorded_deadstock_gets_a_new_lease_on_life.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_blogs_magazine_from_unrecorded_to_recorded_deadstock_gets_a_new_lease_on_life.json"
+    },
+    {
+      "url": "https://salt-yard.myshopify.com/blogs/magazine/autumn-marks-the-release-of-unrecorded-s-candle-range",
+      "slug": "salt_yard_myshopify_com_blogs_magazine_autumn_marks_the_release_of_unrecorded_s_candle_range",
+      "title": "Autumn marks the release of Unrecorded’s candle range – Symmetry Theme Salt Yard",
+      "type": "article",
+      "headings": [
+        "Autumn marks the release of Unrecorded’s candle range",
+        "Sign up and get 10% off your first order"
+      ],
+      "sections": 1,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_blogs_magazine_autumn_marks_the_release_of_unrecorded_s_candle_range.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_blogs_magazine_autumn_marks_the_release_of_unrecorded_s_candle_range.json"
+    },
+    {
+      "url": "https://salt-yard.myshopify.com/search",
+      "slug": "salt_yard_myshopify_com_search",
+      "title": "Search – Symmetry Theme Salt Yard",
+      "type": "other",
+      "headings": [
+        "Search the store",
+        "Search",
+        "Explore our Collections",
+        "Jackets",
+        "New Arrivals",
+        "Sale",
+        "Knitwear",
+        "Shirts"
+      ],
+      "sections": 1,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_search.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_search.json"
+    }
+  ]
+}

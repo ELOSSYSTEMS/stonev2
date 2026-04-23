@@ -1,0 +1,104 @@
+{
+  "pageUrl": "https://zap-main.myshopify.com/pages/before-after",
+  "pageTitle": "Before/After",
+  "pageSlug": "zap_main_myshopify_com_pages_before_after",
+  "sections": [
+    {
+      "refId": "zap_main_myshopify_com_pages_before_after__section_01",
+      "index": 1,
+      "selectorHint": "#shopify-section-template--26223557050687__main",
+      "typeGuess": "content-section",
+      "patternTags": [
+        "top-of-page"
+      ],
+      "headingSample": [
+        "Before/After"
+      ],
+      "textSample": ".section-template--26223557050687__main-padding { padding-top: 4rem; padding-bottom: 0; } @media screen and (min-width: 750px) { .section-template--26223557050687__main-padding { padding-top: 5rem; padding-bottom: 0; } } @media screen and (min-width: 1360px) { .section-template--",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_pages_before_after/zap_main_myshopify_com_pages_before_after__section_01.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/pages/zap_main_myshopify_com_pages_before_after.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/pages/zap_main_myshopify_com_pages_before_after.json"
+    },
+    {
+      "refId": "zap_main_myshopify_com_pages_before_after__section_02",
+      "index": 2,
+      "selectorHint": "#shopify-section-template--26223557050687__compare_cgBVpb",
+      "typeGuess": "editorial-media",
+      "patternTags": [
+        "image-heavy",
+        "slider",
+        "category-navigation",
+        "editorial-media"
+      ],
+      "headingSample": [
+        "Lightness Vitamins and Great Mood",
+        "Before",
+        "After"
+      ],
+      "textSample": ".section-template--26223557050687__compare_cgBVpb-padding { padding-top: 5rem; padding-bottom: 5rem; } @media screen and (min-width: 750px) { .section-template--26223557050687__compare_cgBVpb-padding { padding-top: 7.2rem; padding-bottom: 7.2rem; } } @media screen and (min-width:",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_pages_before_after/zap_main_myshopify_com_pages_before_after__section_02.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/pages/zap_main_myshopify_com_pages_before_after.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/pages/zap_main_myshopify_com_pages_before_after.json"
+    },
+    {
+      "refId": "zap_main_myshopify_com_pages_before_after__section_03",
+      "index": 3,
+      "selectorHint": "#shopify-section-template--26223557050687__compare_QTgyRf",
+      "typeGuess": "editorial-media",
+      "patternTags": [
+        "image-heavy",
+        "slider",
+        "editorial-media"
+      ],
+      "headingSample": [
+        "Lightness Vitamins and Great Mood",
+        "Before",
+        "After"
+      ],
+      "textSample": ".section-template--26223557050687__compare_QTgyRf-padding { padding-top: 5rem; padding-bottom: 5rem; } @media screen and (min-width: 750px) { .section-template--26223557050687__compare_QTgyRf-padding { padding-top: 7.2rem; padding-bottom: 7.2rem; } } @media screen and (min-width:",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_pages_before_after/zap_main_myshopify_com_pages_before_after__section_03.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/pages/zap_main_myshopify_com_pages_before_after.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/pages/zap_main_myshopify_com_pages_before_after.json"
+    },
+    {
+      "refId": "zap_main_myshopify_com_pages_before_after__section_04",
+      "index": 4,
+      "selectorHint": "#shopify-section-template--26223557050687__compare_B6bkhe",
+      "typeGuess": "editorial-media",
+      "patternTags": [
+        "image-heavy",
+        "slider",
+        "category-navigation",
+        "editorial-media"
+      ],
+      "headingSample": [
+        "Lightness Vitamins and Great Mood"
+      ],
+      "textSample": ".section-template--26223557050687__compare_B6bkhe-padding { padding-top: 5rem; padding-bottom: 5rem; } @media screen and (min-width: 750px) { .section-template--26223557050687__compare_B6bkhe-padding { padding-top: 7.2rem; padding-bottom: 7.2rem; } } @media screen and (min-width:",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_pages_before_after/zap_main_myshopify_com_pages_before_after__section_04.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/pages/zap_main_myshopify_com_pages_before_after.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/pages/zap_main_myshopify_com_pages_before_after.json"
+    },
+    {
+      "refId": "zap_main_myshopify_com_pages_before_after__section_05",
+      "index": 5,
+      "selectorHint": "#shopify-section-template--26223557050687__compare_7fA9gp",
+      "typeGuess": "editorial-media",
+      "patternTags": [
+        "image-heavy",
+        "slider",
+        "category-navigation",
+        "editorial-media"
+      ],
+      "headingSample": [
+        "Lightness Vitamins and Great Mood",
+        "Before",
+        "After"
+      ],
+      "textSample": ".section-template--26223557050687__compare_7fA9gp-padding { padding-top: 5rem; padding-bottom: 6.4rem; } @media screen and (min-width: 750px) { .section-template--26223557050687__compare_7fA9gp-padding { padding-top: 7.2rem; padding-bottom: 8.8rem; } } @media screen and (min-widt",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_pages_before_after/zap_main_myshopify_com_pages_before_after__section_05.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/pages/zap_main_myshopify_com_pages_before_after.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/pages/zap_main_myshopify_com_pages_before_after.json"
+    }
+  ]
+}

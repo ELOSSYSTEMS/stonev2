@@ -1,0 +1,23 @@
+{
+  "pageUrl": "https://shift-sketch.myshopify.com/fr/pages/shipping-returns-product-popup",
+  "pageTitle": "Fenêtre contextuelle du produit Livraison et retours – Shift Sketch",
+  "pageSlug": "shift_sketch_myshopify_com_fr_pages_shipping_returns_product_popup",
+  "sections": [
+    {
+      "refId": "shift_sketch_myshopify_com_fr_pages_shipping_returns_product_popup__section_01",
+      "index": 1,
+      "selectorHint": "#shopify-section-template--27266934047095__page_info",
+      "typeGuess": "content-section",
+      "patternTags": [
+        "top-of-page"
+      ],
+      "headingSample": [
+        "Fenêtre contextuelle du produit Livraison et retours"
+      ],
+      "textSample": "Fenêtre contextuelle du produit Livraison et retours Expédition Nous offrons la livraison standard gratuite pour les commandes de plus de 350 $ CA au Canada et de plus de 250 $ US aux États-Unis. Pour les commandes inférieures à ces seuils, des frais de livraison fixes de 15 $ CA",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/shift-sketch/elements/shift_sketch_myshopify_com_fr_pages_shipping_returns_product_popup/shift_sketch_myshopify_com_fr_pages_shipping_returns_product_popup__section_01.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/shift-sketch/pages/shift_sketch_myshopify_com_fr_pages_shipping_returns_product_popup.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/shift-sketch/pages/shift_sketch_myshopify_com_fr_pages_shipping_returns_product_popup.json"
+    }
+  ]
+}

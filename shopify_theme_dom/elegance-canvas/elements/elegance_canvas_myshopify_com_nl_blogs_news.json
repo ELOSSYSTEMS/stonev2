@@ -1,0 +1,33 @@
+{
+  "pageUrl": "https://elegance-canvas.myshopify.com/nl/blogs/news",
+  "pageTitle": "Tijdschrift – Elegance-canvas",
+  "pageSlug": "elegance_canvas_myshopify_com_nl_blogs_news",
+  "sections": [
+    {
+      "refId": "elegance_canvas_myshopify_com_nl_blogs_news__section_01",
+      "index": 1,
+      "selectorHint": "#shopify-section-template--19562840916150__main",
+      "typeGuess": "hero",
+      "patternTags": [
+        "hero-candidate",
+        "top-of-page",
+        "image-heavy",
+        "slider",
+        "cta-cluster",
+        "card-grid",
+        "editorial-media"
+      ],
+      "headingSample": [
+        "Kleurentheorie uitgelegd: het perfecte kleurenpalet kiezen",
+        "Hoe combineer je schilderen met andere kunstvormen?",
+        "Het snijvlak tussen kunst en gemeenschap verkennen",
+        "De kunst van het evenwicht: harmonie vinden in leven en werk",
+        "Creatieve technieken om diepte aan je schilderijen toe te voegen"
+      ],
+      "textSample": ".section-template--19562840916150__main-padding { padding-top: 70px; padding-bottom: 70px; } @media screen and (min-width: 768px) { .section-template--19562840916150__main-padding { padding-top: 105px; padding-bottom: 105px; } } @media screen and (min-width: 1200px) { .section-te",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_nl_blogs_news/elegance_canvas_myshopify_com_nl_blogs_news__section_01.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/pages/elegance_canvas_myshopify_com_nl_blogs_news.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/pages/elegance_canvas_myshopify_com_nl_blogs_news.json"
+    }
+  ]
+}

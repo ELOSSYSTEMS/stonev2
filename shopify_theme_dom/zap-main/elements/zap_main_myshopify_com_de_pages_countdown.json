@@ -1,0 +1,78 @@
+{
+  "pageUrl": "https://zap-main.myshopify.com/de/pages/countdown",
+  "pageTitle": "Countdown",
+  "pageSlug": "zap_main_myshopify_com_de_pages_countdown",
+  "sections": [
+    {
+      "refId": "zap_main_myshopify_com_de_pages_countdown__section_01",
+      "index": 1,
+      "selectorHint": "#shopify-section-template--26223611248959__main",
+      "typeGuess": "content-section",
+      "patternTags": [
+        "top-of-page"
+      ],
+      "headingSample": [
+        "Countdown"
+      ],
+      "textSample": ".section-template--26223611248959__main-padding { padding-top: 4rem; padding-bottom: 0; } @media screen and (min-width: 750px) { .section-template--26223611248959__main-padding { padding-top: 5rem; padding-bottom: 0; } } @media screen and (min-width: 1360px) { .section-template--",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_de_pages_countdown/zap_main_myshopify_com_de_pages_countdown__section_01.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/pages/zap_main_myshopify_com_de_pages_countdown.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/pages/zap_main_myshopify_com_de_pages_countdown.json"
+    },
+    {
+      "refId": "zap_main_myshopify_com_de_pages_countdown__section_02",
+      "index": 2,
+      "selectorHint": "#shopify-section-template--26223611248959__countdown_qTJGwC",
+      "typeGuess": "editorial-media",
+      "patternTags": [
+        "image-heavy",
+        "category-navigation",
+        "editorial-media"
+      ],
+      "headingSample": [
+        "Text after countdown has ended",
+        "Flash sale now on!"
+      ],
+      "textSample": ".section-template--26223611248959__countdown_qTJGwC-padding { padding-top: 5rem; padding-bottom: 5rem; } @media screen and (min-width: 750px) { .section-template--26223611248959__countdown_qTJGwC-padding { padding-top: 7.2rem; padding-bottom: 7.2rem; } } @media screen and (min-wi",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_de_pages_countdown/zap_main_myshopify_com_de_pages_countdown__section_02.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/pages/zap_main_myshopify_com_de_pages_countdown.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/pages/zap_main_myshopify_com_de_pages_countdown.json"
+    },
+    {
+      "refId": "zap_main_myshopify_com_de_pages_countdown__section_03",
+      "index": 3,
+      "selectorHint": "#shopify-section-template--26223611248959__countdown_jVtATA",
+      "typeGuess": "content-section",
+      "patternTags": [
+        "category-navigation"
+      ],
+      "headingSample": [
+        "Flash sale now on!",
+        "Text after countdown has ended"
+      ],
+      "textSample": ".section-template--26223611248959__countdown_jVtATA-padding { padding-top: 0; padding-bottom: 0; } @media screen and (min-width: 750px) { .section-template--26223611248959__countdown_jVtATA-padding { padding-top: 0; padding-bottom: 0; } } @media screen and (min-width: 1360px) { .",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_de_pages_countdown/zap_main_myshopify_com_de_pages_countdown__section_03.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/pages/zap_main_myshopify_com_de_pages_countdown.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/pages/zap_main_myshopify_com_de_pages_countdown.json"
+    },
+    {
+      "refId": "zap_main_myshopify_com_de_pages_countdown__section_04",
+      "index": 4,
+      "selectorHint": "#shopify-section-template--26223611248959__countdown_whenPz",
+      "typeGuess": "editorial-media",
+      "patternTags": [
+        "image-heavy",
+        "category-navigation",
+        "editorial-media"
+      ],
+      "headingSample": [
+        "Text after countdown has ended",
+        "Flash sale now on!"
+      ],
+      "textSample": ".section-template--26223611248959__countdown_whenPz-padding { padding-top: 6.4rem; padding-bottom: 6.4rem; } @media screen and (min-width: 750px) { .section-template--26223611248959__countdown_whenPz-padding { padding-top: 8.8rem; padding-bottom: 8.8rem; } } @media screen and (mi",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_de_pages_countdown/zap_main_myshopify_com_de_pages_countdown__section_04.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/pages/zap_main_myshopify_com_de_pages_countdown.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/pages/zap_main_myshopify_com_de_pages_countdown.json"
+    }
+  ]
+}

@@ -1,0 +1,1161 @@
+# Shopify page scrape
+
+- URL: https://salt-yard.myshopify.com/collections/denim
+- Title: Denim – Symmetry Theme Salt Yard
+- Body classes: template-collection
+ swatch-source-theme swatch-method-variant-images swatch-style-icon_square cc-animate-enabled
+- Custom elements: announcement-bar, carousel-slider, cart-drawer, cart-form, countdown-timer, country-selector, filter-container, link-dropdown, main-navigation, main-search, mobile-disclosure, page-header, pop-up, price-range, product-block, search-suggestions, shopify-account, shopify-store, sticky-scroll, toggle-target
+- Headings: Jackets | Best Sellers | Shorts | Shirts | Denim | Sign up and get 10% off your first order
+
+## 1. (no id)
+
+- Tag: div
+- Classes: container cf
+- Headings: Jackets | Best Sellers | Shorts | Shirts | Denim
+
+```html
+<div class="container cf">
+
+      <div id="shopify-section-template--26857879961673__main" class="shopify-section"><div data-section-id="template--26857879961673__main">
+
+
+  
+    
+      
+      <div class="
+        gallery
+        gallery--height-adapt
+        gallery--grid-desktop-4
+        gallery--grid-mobile-2
+ gallery--mobile-carousel
+
+        related-collection-links
+        related-collection-links--gallery related-collection-links--is-full-width
+
+">
+        <carousel-slider class="carousel" inactive="" loaded="">
+          <div class="slider slider--no-scrollbar" id="slider-template--26857879961673__main">
+            <div class="slider__grid"><div class="slider__item
+                      gallery__item
+                      image-overlay
+                      image-overlay--bg-full image-overlay--bg-shadow
+                      image-overlay--edge-boxes
+                      
+                      ">
+                    <a class="image-overlay__image-link" href="/collections/jackets">
+                      <div class="image-overlay__image gallery__image img-stretch"><div class="img-ar img-ar--cover" style="--aspect-ratio: 1.5">
+<img src="//salt-yard.myshopify.com/cdn/shop/collections/Unrecorded_Ecom_WorkerJacket_blue_Model_02LR.jpg?crop=region&amp;crop_height=1600&amp;crop_left=0&amp;crop_top=400&amp;crop_width=2400&amp;v=1617188727&amp;width=2400" alt="Jackets" width="2400" height="1600" sizes="(min-width: 1480px) , (min-width: 768px) , 50vw" srcset="//salt-yard.myshopify.com/cdn/shop/collections/Unrecorded_Ecom_WorkerJacket_blue_Model_02LR.jpg?crop=region&amp;crop_height=1600&amp;crop_left=0&amp;crop_top=400&amp;crop_width=2400&amp;v=1617188727&amp;width=425 340w, //salt-yard.myshopify.com/cdn/shop/collections/Unrecorded_Ecom_WorkerJacket_blue_Model_02LR.jpg?crop=region&amp;crop_height=1600&amp;crop_left=0&amp;crop_top=400&amp;crop_width=2400&amp;v=1617188727&amp;width=600 480w, //salt-yard.myshopify.com/cdn/shop/collections/Unrecorded_Ecom_WorkerJacket_blue_Model_02LR.jpg?crop=region&amp;crop_height=1600&amp;crop_left=0&amp;crop_top=400&amp;crop_width=2400&amp;v=1617188727&amp;width=925 740w, //salt-yard.myshopify.com/cdn/shop/collections/Unrecorded_Ecom_WorkerJacket_blue_Model_02LR.jpg?crop=region&amp;crop_height=1600&amp;crop_left=0&amp;crop_top=400&amp;crop_width=2400&amp;v=1617188727&amp;width=1225 980w, //salt-yard.myshopify.com/cdn/shop/collections/Unrecorded_Ecom_WorkerJacket_blue_Model_02LR.jpg?crop=region&amp;crop_height=1600&amp;crop_left=0&amp;crop_top=400&amp;crop_width=2400&amp;v=1617188727&amp;width=1500 1200w, //salt-yard.myshopify.com/cdn/shop/collections/Unrecorded_Ecom_WorkerJacket_blue_Model_02LR.jpg?crop=region&amp;crop_height=1600&amp;crop_left=0&amp;crop_top=400&amp;crop_width=2400&amp;v=1617188727&amp;width=1750 1400w, //salt-yard.myshopify.com/cdn/shop/collections/Unrecorded_Ecom_WorkerJacket_blue_Model_02LR.jpg?crop=region&amp;crop_height=1600&amp;crop_left=0&amp;crop_top=400&amp;crop_width=2400&amp;v=1617188727&amp;width=2000 1600w, //salt-yard.myshopify.com/cdn/shop/collections/Unrecorded_Ecom_WorkerJacket_blue_Model_02LR.jpg?crop=region&amp;crop_height=1600&amp;crop_left=0&amp;crop_top=400&amp;crop_width=2400&amp;v=1617188727&amp;width=2400 1920w, //salt-yard.myshopify.com/cdn/shop/collections/Unrecorded_Ecom_WorkerJacket_blue_Model_02LR.jpg?crop=region&amp;crop_height=1600&amp;crop_left=0&amp;crop_top=400&amp;crop_width=2400&amp;v=1617188727&amp;width=3000 2400w" class="theme-img"></div>
+</div>
+
+                      <div class="text-overlay text-overlay--v-bottom text-overlay--h-left image-overlay__over">
+                        <div class="text-overlay__inner">
+                          <div class="text-overlay__text">
+                            <h2 class="text-overlay__title h4">Jackets</h2>
+                          </div>
+                        </div>
+                      </div>
+                    </a>
+                  </div><div class="slider__item
+                      gallery__item
+                      image-overlay
+                      image-overlay--bg-full image-overlay--bg-shadow
+                      image-overlay--edge-boxes
+                      
+                      ">
+                    <a class="image-overlay__image-link" href="/collections/best-sellers">
+                      <div class="image-overlay__image gallery__image img-stretch"><div class="img-ar img-ar--cover" style="--aspect-ratio: 1.5">
+<img src="//salt-yard.myshopify.com/cdn/shop/collections/salt-newsletter.jpg?crop=region&amp;crop_height=564&amp;crop_left=0&amp;crop_top=141&amp;crop_width=846&amp;v=1617190366&amp;width=846" alt="Best Sellers" width="846" height="564" sizes="(min-width: 1480px) , (min-width: 768px) , 50vw" srcset="//salt-yard.myshopify.com/cdn/shop/collections/salt-newsletter.jpg?crop=region&amp;crop_height=564&amp;crop_left=0&amp;crop_top=141&amp;crop_width=846&amp;v=1617190366&amp;width=425 340w, //salt-yard.myshopify.com/cdn/shop/collections/salt-newsletter.jpg?crop=region&amp;crop_height=564&amp;crop_left=0&amp;crop_top=141&amp;crop_width=846&amp;v=1617190366&amp;width=600 480w, //salt-yard.myshopify.com/cdn/shop/collections/salt-newsletter.jpg?crop=region&amp;crop_height=564&amp;crop_left=0&amp;crop_top=141&amp;crop_width=846&amp;v=1617190366&amp;width=925 740w, //salt-yard.myshopify.com/cdn/shop/collections/salt-newsletter.jpg?crop=region&amp;crop_height=564&amp;crop_left=0&amp;crop_top=141&amp;crop_width=846&amp;v=1617190366&amp;width=1057 846w" class="theme-img"></div>
+</div>
+
+                      <div class="text-overlay text-overlay--v-bottom text-overlay--h-left image-overlay__over">
+                        <div class="text-overlay__inner">
+                          <div class="text-overlay__text">
+                            <h2 class="text-overlay__title h4">Best Sellers</h2>
+                          </div>
+                        </div>
+                      </div>
+                    </a>
+                  </div><div class="slider__item
+                      gallery__item
+                      image-overlay
+                      image-overlay--bg-full image-overlay--bg-shadow
+                      image-overlay--edge-boxes
+                      
+                      ">
+                    <a class="image-overlay__image-link" href="/collections/shorts">
+                      <div class="image-overlay__image gallery__image img-stretch"><div class="img-ar img-ar--cover" style="--aspect-ratio: 1.5">
+<img src="//salt-yard.myshopify.com/cdn/shop/collections/shorts.jpg?crop=region&amp;crop_height=787&amp;crop_left=0&amp;crop_top=196&amp;crop_width=1181&amp;v=1617188479&amp;width=1181" alt="Shorts" width="1181" height="787" sizes="(min-width: 1480px) , (min-width: 768px) , 50vw" srcset="//salt-yard.myshopify.com/cdn/shop/collections/shorts.jpg?crop=region&amp;crop_height=787&amp;crop_left=0&amp;crop_top=196&amp;crop_width=1181&amp;v=1617188479&amp;width=425 340w, //salt-yard.myshopify.com/cdn/shop/collections/shorts.jpg?crop=region&amp;crop_height=787&amp;crop_left=0&amp;crop_top=196&amp;crop_width=1181&amp;v=1617188479&amp;width=600 480w, //salt-yard.myshopify.com/cdn/shop/collections/shorts.jpg?crop=region&amp;crop_height=787&amp;crop_left=0&amp;crop_top=196&amp;crop_width=1181&amp;v=1617188479&amp;width=925 740w, //salt-yard.myshopify.com/cdn/shop/collections/shorts.jpg?crop=region&amp;crop_height=787&amp;crop_left=0&amp;crop_top=196&amp;crop_width=1181&amp;v=1617188479&amp;width=1225 980w, //salt-yard.myshopify.com/cdn/shop/collections/shorts.jpg?crop=region&amp;crop_height=787&amp;crop_left=0&amp;crop_top=196&amp;crop_width=1181&amp;v=1617188479&amp;width=1476 1181w" class="theme-img"></div>
+</div>
+
+                      <div class="text-overlay text-overlay--v-bottom text-overlay--h-left image-overlay__over">
+                        <div class="text-overlay__inner">
+                          <div class="text-overlay__text">
+                            <h2 class="text-overlay__title h4">Shorts</h2>
+                          </div>
+                        </div>
+                      </div>
+                    </a>
+                  </div><div class="slider__item
+                      gallery__item
+                      image-overlay
+                      image-overlay--bg-full image-overlay--bg-shadow
+                      image-overlay--edge-boxes
+                      
+                      ">
+                    <a class="image-overlay__image-link" href="/collections/shirts">
+                      <div class="image-overlay__image gallery__image img-stretch"><div class="img-ar img-ar--cover" style="--aspect-ratio: 1.5">
+<img src="//salt-yard.myshopify.com/cdn/shop/collections/Unrecorded_Homepage_Hero_Jan_2021_Clean_04_2400x_01c66eab-13a5-4031-b5da-e87b78a0f10b.jpg?crop=region&amp;crop_height=850&amp;crop_left=0&amp;crop_top=212&amp;crop_width=1276&amp;v=1625655355&amp;width=1276" alt="Shirts" width="1276" height="850" sizes="(min-width: 1480px) , (min-width: 768px) , 50vw" srcset="//salt-yard.myshopify.com/cdn/shop/collections/Unrecorded_Homepage_Hero_Jan_2021_Clean_04_2400x_01c66eab-13a5-4031-b5da-e87b78a0f10b.jpg?crop=region&amp;crop_height=850&amp;crop_left=0&amp;crop_top=212&amp;crop_width=1276&amp;v=1625655355&amp;width=425 340w, //salt-yard.myshopify.com/cdn/shop/collections/Unrecorded_Homepage_Hero_Jan_2021_Clean_04_2400x_01c66eab-13a5-4031-b5da-e87b78a0f10b.jpg?crop=region&amp;crop_height=850&amp;crop_left=0&amp;crop_top=212&amp;crop_width=1276&amp;v=1625655355&amp;width=600 480w, //salt-yard.myshopify.com/cdn/shop/collections/Unrecorded_Homepage_Hero_Jan_2021_Clean_04_2400x_01c66eab-13a5-4031-b5da-e87b78a0f10b.jpg?crop=region&amp;crop_height=850&amp;crop_left=0&amp;crop_top=212&amp;crop_width=1276&amp;v=1625655355&amp;width=925 740w, //salt-yard.myshopify.com/cdn/shop/collections/Unrecorded_Homepage_Hero_Jan_2021_Clean_04_2400x_01c66eab-13a5-4031-b5da-e87b78a0f10b.jpg?crop=region&amp;crop_height=850&amp;crop_left=0&amp;crop_top=212&amp;crop_width=1276&amp;v=1625655355&amp;width=1225 980w, //salt-yard.myshopify.com/cdn/shop/collections/Unrecorded_Homepage_Hero_Jan_2021_Clean_04_2400x_01c66eab-13a5-4031-b5da-e87b78a0f10b.jpg?crop=region&amp;crop_height=850&amp;crop_left=0&amp;crop_top=212&amp;crop_width=1276&amp;v=1625655355&amp;width=1500 1200w, //salt-yard.myshopify.com/cdn/shop/collections/Unrecorded_Homepage_Hero_Jan_2021_Clean_04_2400x_01c66eab-13a5-4031-b5da-e87b78a0f10b.jpg?crop=region&amp;crop_height=850&amp;crop_left=0&amp;crop_top=212&amp;crop_width=1276&amp;v=1625655355&amp;width=1595 1276w" class="theme-img"></div>
+</div>
+
+                      <div class="text-overlay text-overlay--v-bottom text-overlay--h-left image-overlay__over">
+                        <div class="text-overlay__inner">
+                          <div class="text-overlay__text">
+                            <h2 class="text-overlay__title h4">Shirts</h2>
+                          </div>
+                        </div>
+                      </div>
+                    </a>
+                  </div></div>
+          </div>
+          <div class="slider-nav slider-nav--floating desktop-only">
+            <button type="button" class="slider-nav__btn has-ltr-icon" name="prev" aria-controls="slider-template--26857879961673__main">
+              <span class="visually-hidden">Previous</span><svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round" class="icon feather feather-chevron-left" aria-hidden="true" focusable="false" role="presentation"><path d="m15 18-6-6 6-6"></path></svg></button>
+            <button type="button" class="slider-nav__btn has-ltr-icon" name="next" aria-controls="slider-template--26857879961673__main">
+              <span class="visually-hidden">Next</span><svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round" class="icon feather feather-chevron-right" aria-hidden="true" focusable="false" role="presentation"><path d="m9 18 6-6-6-6"></path></svg></button>
+          </div>
+        </carousel-slider>
+      </div>
+      
+    
+  
+<div class="page-header page-header--with-upper-spacing">
+      <div class="container"><h1 class="pagetitle h3">Denim</h1>
+      </div>
+    </div>
+  
+
+<div class="container container--no-max">
+    <div class="utility-bar" data-ajax-container="" data-ajax-scroll-to="">
+      <div class="utility-bar__left">
+        
+          <a href="#" class="toggle-btn utility-bar__item" data-toggle-filters="">
+            <span class="btn-icon"><svg width="23" height="19" viewBox="0 0 20 20" stroke-width="1.25" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <line x1="1" y1="6" x2="19" y2="6" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"></line>
+  <line x1="1" y1="14" x2="19" y2="14" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"></line>
+  <circle cx="7" cy="6" r="3" fill="none" stroke="currentColor"></circle>
+  <circle cx="13" cy="14" r="3" fill="none" stroke="currentColor"></circle>
+</svg>
+</span>
+            <span>Filter</span>
+            
+            
+            <span class="toggle-btn__chevron has-motion has-ltr-icon"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round" class="icon feather feather-chevron-right" aria-hidden="true" focusable="false" role="presentation"><path d="m9 18 6-6-6-6"></path></svg></span>
+          </a>
+        
+      </div>
+
+      
+        <div class="utility-bar__centre">
+          <div class="utility-bar__item">6 products</div>
+        </div>
+      
+
+      <div class="utility-bar__right">
+        
+          <span class="utility-bar__item desktop-only">
+            <link-dropdown class="link-dropdown link-dropdown--right-aligned">
+              <div class="visually-hidden" id="sort-dropdown-heading">Sort by</div>
+              <button class="link-dropdown__button has-motion" aria-expanded="false" aria-controls="sort-dropdown-options" aria-describedby="sort-dropdown-heading">
+                <span class="link-dropdown__button-text">Best selling
+</span>
+                <span class="link-dropdown__button-icon has-motion"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round" class="icon feather feather-chevron-down" aria-hidden="true" focusable="false" role="presentation"><path d="m6 9 6 6 6-6"></path></svg></span>
+              </button>
+              <div class="link-dropdown__options" id="sort-dropdown-options">
+                <div class="link-dropdown__options-inner"><a href="/collections/denim?sort_by=best-selling" class="link-dropdown__link link-dropdown__link--active">Best selling</a><a href="/collections/denim?sort_by=title-ascending" class="link-dropdown__link">Alphabetically, A-Z</a><a href="/collections/denim?sort_by=title-descending" class="link-dropdown__link">Alphabetically, Z-A</a><a href="/collections/denim?sort_by=price-ascending" class="link-dropdown__link">Price, low to high</a><a href="/collections/denim?sort_by=price-descending" class="link-dropdown__link">Price, high to low</a><a href="/collections/denim?sort_by=created-ascending" class="link-dropdown__link">Date, old to new</a><a href="/collections/denim?sort_by=created-descending" class="link-dropdown__link">Date, new to old</a></div>
+              </div>
+            </link-dropdown>
+          </span>
+        
+        <span class="utility-bar__item mobile-only">
+          <div class="layout-switchers">
+            <a class="layout-switch layout-switch--two-columns layout-switch--active" href="#" aria-label="Grid"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round" class="icon feather feather-chevron-down" aria-hidden="true" focusable="false" role="presentation"><path d="M2 2h8v8H2V2M14 2h8v8h-8V2M14 14h8v8h-8v-8M2 14h8v8H2v-8"></path></svg></a>
+            <a class="layout-switch layout-switch--one-column" href="#" aria-label="List"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round" class="icon feather feather-chevron-down" aria-hidden="true" focusable="false" role="presentation"><path d="M2 2h20v20H2V2"></path></svg></a>
+          </div>
+        </span>
+      </div>
+    </div><div class="utility-bar utility-bar--sticky-mobile-copy" data-ajax-scroll-to="">
+      <div class="utility-bar__left">
+        
+          <a href="#" class="toggle-btn utility-bar__item" data-toggle-filters="">
+            <span class="btn-icon"><svg width="23" height="19" viewBox="0 0 20 20" stroke-width="1.25" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <line x1="1" y1="6" x2="19" y2="6" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"></line>
+  <line x1="1" y1="14" x2="19" y2="14" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"></line>
+  <circle cx="7" cy="6" r="3" fill="none" stroke="currentColor"></circle>
+  <circle cx="13" cy="14" r="3" fill="none" stroke="currentColor"></circle>
+</svg>
+</span>
+            <span>Filter</span>
+            
+            
+            <span class="toggle-btn__chevron has-motion has-ltr-icon"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round" class="icon feather feather-chevron-right" aria-hidden="true" focusable="false" role="presentation"><path d="m9 18 6-6-6-6"></path></svg></span>
+          </a>
+        
+      </div>
+
+      
+        <div class="utility-bar__centre">
+          <div class="utility-bar__item">6 products</div>
+        </div>
+      
+
+      <div class="utility-bar__right">
+        
+          <span class="utility-bar__item desktop-only">
+            <link-dropdown class="link-dropdown link-dropdown--right-aligned">
+              <div class="visually-hidden" id="sort-dropdown-headingdupe">Sort by</div>
+              <button class="link-dropdown__button has-motion" aria-expanded="false" aria-controls="sort-dropdown-optionsdupe" aria-describedby="sort-dropdown-headingdupe">
+                <span class="link-dropdown__button-text">Best selling
+</span>
+                <span class="link-dropdown__button-icon has-motion"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round" class="icon feather feather-chevron-down" aria-hidden="true" focusable="false" role="presentation"><path d="m6 9 6 6 6-6"></path></svg></span>
+              </button>
+              <div class="link-dropdown__options" id="sort-dropdown-optionsdupe">
+                <div class="link-dropdown__options-inner"><a href="/collections/denim?sort_by=best-selling" class="link-dropdown__link link-dropdown__link--active">Best selling</a><a href="/collections/denim?sort_by=title-ascending" class="link-dropdown__link">Alphabetically, A-Z</a><a href="/collections/denim?sort_by=title-descending" class="link-dropdown__link">Alphabetically, Z-A</a><a href="/collections/denim?sort_by=price-ascending" class="link-dropdown__link">Price, low to high</a><a href="/collections/denim?sort_by=price-descending" class="link-dropdown__link">Price, high to low</a><a href="/collections/denim?sort_by=created-ascending" class="link-dropdown__link">Date, old to new</a><a href="/collections/denim?sort_by=created-descending" class="link-dropdown__link">Date, new to old</a></div>
+              </div>
+            </link-dropdown>
+          </span>
+        
+        <span class="utility-bar__item mobile-only">
+          <div class="layout-switchers">
+            <a class="layout-switch layout-switch--two-columns layout-switch--active" href="#" aria-label="Grid"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round" class="icon feather feather-chevron-down" aria-hidden="true" focusable="false" role="presentation"><path d="M2 2h8v8H2V2M14 2h8v8h-8V2M14 14h8v8h-8v-8M2 14h8v8H2v-8"></path></svg></a>
+            <a class="layout-switch layout-switch--one-column" href="#" aria-label="List"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round" class="icon feather feather-chevron-down" aria-hidden="true" focusable="false" role="presentation"><path d="M2 2h20v20H2V2"></path></svg></a>
+          </div>
+        </span>
+      </div>
+    </div>
+
+    <filter-container class="filter-container filter-container--side filter-container--mobile-initialised" data-ajax-filtering="true" data-filter-section-id="template--26857879961673__main">
+      
+        <a class="filter-shade" href="#" data-toggle-filters="" aria-hidden="true" aria-label="Close"></a>
+<div class="filters" data-auto-apply-hide-unavailable="false" data-swatch-option-name="Color,Colour,Couleur,Farbe" data-button-grid-filter-name="Size,Taille,Größe,"><script src="//salt-yard.myshopify.com/cdn/shop/t/286/assets/sticky-scroll.js?v=131975390874986687661774516896" defer=""></script>
+    <sticky-scroll class="block sticky-column-desktop"><div class="filters__inner" data-ajax-container="">
+    <header class="filters__heading">
+      <div class="filters__heading-text heading-font h4">Filters</div>
+      <a class="filters__close" href="#" data-toggle-filters="" aria-label="Close"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round" class="icon feather feather-x" aria-hidden="true" focusable="false" role="presentation"><path d="M18 6 6 18M6 6l12 12"></path></svg></a>
+    </header>
+<form id="CollectionFilterForm"><div class="filter-group filter-group--availability">
+              <div class="filter-toggle filter-toggle--inline">
+                <span class="filter-toggle__group-label">Out of stock</span>
+                <div class="filter-toggle__options">
+                  <label class="filter-toggle__input-label">
+                    <input class="filter-toggle__input" id="Filter-filter.v.availability-1" type="radio" name="filter.v.availability" value="" checked="" style="">
+                    <span class="filter-toggle__input-label-text">Show</span>
+                  </label>
+                  <label class="filter-toggle__input-label">
+                    <input class="filter-toggle__input" id="Filter-filter.v.availability-2" type="radio" name="filter.v.availability" value="1" style="">
+                      <span class="filter-toggle__input-label-text">Hide</span>
+                  </label>
+                </div>
+              </div>
+            </div><div class="filter-group">
+                <toggle-target role="button" tabindex="0" class="filter-group__heading" data-toggle-target="#FilterGroup3" aria-controls="FilterGroup3" aria-expanded="true">
+                  <div class="filter-group__heading__text">Price</div>
+                  <span class="filter-group__heading__indicator"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round" class="icon feather feather-chevron-down" aria-hidden="true" focusable="false" role="presentation"><path d="m6 9 6 6 6-6"></path></svg></span>
+                </toggle-target>
+                <div id="FilterGroup3" class="filter-group__items filter-group--3 toggle-target">
+                  <div class="toggle-target-container">
+                    
+                      <link rel="stylesheet" href="//salt-yard.myshopify.com/cdn/shop/t/286/assets/price-range.css?v=160212972469727779321774516896">
+<script src="//salt-yard.myshopify.com/cdn/shop/t/286/assets/price-range.js?v=57919097508744252771774516896" defer=""></script>
+<price-range class="cc-price-range">
+  <div class="cc-price-range__input-row">
+    <div class="cc-price-range__input-container">
+      <span class="cc-price-range__input-currency-symbol">$</span>
+      <input class="cc-price-range__input cc-price-range__input--min" id="CCPriceRangeMin" name="filter.v.price.gte" placeholder="0" type="text" inputmode="numeric" pattern="[0-9]*" step="10" min="0" max="170" aria-label="From" style="">
+    </div>
+    <div class="cc-price-range__input-container">
+      <span class="cc-price-range__input-currency-symbol">$</span>
+      <input class="cc-price-range__input cc-price-range__input--max" id="CCPriceRangeMax" name="filter.v.price.lte" placeholder="170" type="text" inputmode="numeric" pattern="[0-9]*" step="10" min="0" max="170" aria-label="To" style="">
+    </div>
+  </div>
+
+  <div class="cc-price-range__bar">
+    <div class="cc-price-range__bar-inactive"></div>
+    <div class="cc-price-range__bar-active" style="left: 0%; right: 0%;"></div>
+    <div id="CCPriceRangeSliderMin" class="cc-price-range__control cc-price-range__control--min" aria-label="From" aria-valuemin="0" aria-valuemax="170" tabindex="0" role="slider" aria-valuenow="0" style="left: 0%;"></div>
+    <div id="CCPriceRangeSliderMax" class="cc-price-range__control cc-price-range__control--max" aria-label="To" aria-valuemin="0" aria-valuemax="170" tabindex="0" role="slider" aria-valuenow="170" style="left: 100%;"></div>
+  </div>
+</price-range>
+
+
+                    
+                  </div>
+                </div>
+              </div><div class="filter-group filter-group--swatch filter-group--layout-no-label">
+                <toggle-target role="button" tabindex="0" class="filter-group__heading" data-toggle-target="#FilterGroup4" aria-controls="FilterGroup4" aria-expanded="true">
+                  <div class="filter-group__heading__text">Color</div>
+                  <span class="filter-group__heading__indicator"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round" class="icon feather feather-chevron-down" aria-hidden="true" focusable="false" role="presentation"><path d="m6 9 6 6 6-6"></path></svg></span>
+                </toggle-target>
+                <div id="FilterGroup4" class="filter-group__items filter-group--4 toggle-target">
+                  <div class="toggle-target-container">
+                    
+<label class="filter-group__item" data-tag="black" data-swatch="black">
+                          <input class="filter-group__checkbox" id="Filter-filter.v.option.color-black" type="checkbox" name="filter.v.option.color" value="Black" style="">
+                          <span class="filter-group__item__text">
+                            Black
+                            
+                          </span>
+                          
+                            
+                          
+                        </label><label class="filter-group__item" data-tag="blue" data-swatch="blue">
+                          <input class="filter-group__checkbox" id="Filter-filter.v.option.color-blue" type="checkbox" name="filter.v.option.color" value="Blue" style="">
+                          <span class="filter-group__item__text">
+                            Blue
+                            
+                          </span>
+                          
+                            
+                          
+                        </label><label class="filter-group__item" data-tag="denim" data-swatch="denim">
+                          <input class="filter-group__checkbox" id="Filter-filter.v.option.color-denim" type="checkbox" name="filter.v.option.color" value="Denim" style="">
+                          <span class="filter-group__item__text">
+                            Denim
+                            
+                          </span>
+                          
+                            
+                          
+                        </label><label class="filter-group__item" data-tag="green" data-swatch="green">
+                          <input class="filter-group__checkbox" id="Filter-filter.v.option.color-green" type="checkbox" name="filter.v.option.color" value="Green" style="">
+                          <span class="filter-group__item__text">
+                            Green
+                            
+                          </span>
+                          
+                            
+                          
+                        </label><label class="filter-group__item" data-tag="khaki" data-swatch="khaki">
+                          <input class="filter-group__checkbox" id="Filter-filter.v.option.color-khaki" type="checkbox" name="filter.v.option.color" value="Khaki" style="">
+                          <span class="filter-group__item__text">
+                            Khaki
+                            
+                          </span>
+                          
+                            
+                          
+                        </label><label class="filter-group__item" data-tag="navy" data-swatch="navy">
+                          <input class="filter-group__checkbox" id="Filter-filter.v.option.color-navy" type="checkbox" name="filter.v.option.color" value="Navy" style="">
+                          <span class="filter-group__item__text">
+                            Navy
+                            
+                          </span>
+                          
+                            
+                          
+                        </label>
+                  </div>
+                </div>
+              </div><div class="filter-group filter-group--button-grid filter-group--layout-three-column">
+                <toggle-target role="button" tabindex="0" class="filter-group__heading" data-toggle-target="#FilterGroup5" aria-controls="FilterGroup5" aria-expanded="true">
+                  <div class="filter-group__heading__text">Size</div>
+                  <span class="filter-group__heading__indicator"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round" class="icon feather feather-chevron-down" aria-hidden="true" focusable="false" role="presentation"><path d="m6 9 6 6 6-6"></path></svg></span>
+                </toggle-target>
+                <div id="FilterGroup5" class="filter-group__items filter-group--5 toggle-target">
+                  <div class="toggle-target-container">
+                    
+<label class="filter-group__item" data-tag="xs">
+                          <input class="filter-group__checkbox" id="Filter-filter.v.option.size-xs" type="checkbox" name="filter.v.option.size" value="XS" style="">
+                          <span class="filter-group__item__text">
+                            XS
+                            
+                          </span>
+                          
+                            
+                          
+                        </label><label class="filter-group__item" data-tag="s">
+                          <input class="filter-group__checkbox" id="Filter-filter.v.option.size-s" type="checkbox" name="filter.v.option.size" value="S" style="">
+                          <span class="filter-group__item__text">
+                            S
+                            
+                          </span>
+                          
+                            
+                          
+                        </label><label class="filter-group__item" data-tag="m">
+                          <input class="filter-group__checkbox" id="Filter-filter.v.option.size-m" type="checkbox" name="filter.v.option.size" value="M" style="">
+                          <span class="filter-group__item__text">
+                            M
+                            
+                          </span>
+                          
+                            
+                          
+                        </label><label class="filter-group__item" data-tag="l">
+                          <input class="filter-group__checkbox" id="Filter-filter.v.option.size-l" type="checkbox" name="filter.v.option.size" value="L" style="">
+                          <span class="filter-group__item__text">
+                            L
+                            
+                          </span>
+                          
+                            
+                          
+                        </label><label class="filter-group__item" data-tag="xl">
+                          <input class="filter-group__checkbox" id="Filter-filter.v.option.size-xl" type="checkbox" name="filter.v.option.size" value="XL" style="">
+                          <span class="filter-group__item__text">
+                            XL
+                            
+                          </span>
+                          
+                            
+                          
+                        </label><label class="filter-group__item" data-tag="28">
+                          <input class="filter-group__checkbox" id="Filter-filter.v.option.size-28" type="checkbox" name="filter.v.option.size" value="28" style="">
+                          <span class="filter-group__item__text">
+                            28
+                            
+                          </span>
+                          
+                            
+                          
+                        </label><label class="filter-group__item" data-tag="30">
+                          <input class="filter-group__checkbox" id="Filter-filter.v.option.size-30" type="checkbox" name="filter.v.option.size" value="30" style="">
+                          <span class="filter-group__item__text">
+                            30
+                            
+                          </span>
+                          
+                            
+                          
+                        </label><label class="filter-group__item" data-tag="32">
+                          <input class="filter-group__checkbox" id="Filter-filter.v.option.size-32" type="checkbox" name="filter.v.option.size" value="32" style="">
+                          <span class="filter-group__item__text">
+                            32
+                            
+                          </span>
+                          
+                            
+                          
+                        </label><label class="filter-group__item" data-tag="34">
+                          <input class="filter-group__checkbox" id="Filter-filter.v.option.size-34" type="checkbox" name="filter.v.option.size" value="34" style="">
+                          <span class="filter-group__item__text">
+                            34
+                            
+                          </span>
+                          
+                            
+                          
+                        </label><label class="filter-group__item" data-tag="36">
+                          <input class="filter-group__checkbox" id="Filter-filter.v.option.size-36" type="checkbox" name="filter.v.option.size" value="36" style="">
+                          <span class="filter-group__item__text">
+                            36
+                            
+                          </span>
+                          
+                            
+                          
+                        </label><label class="filter-group__item" data-tag="38">
+                          <input class="filter-group__checkbox" id="Filter-filter.v.option.size-38" type="checkbox" name="filter.v.option.size" value="38" style="">
+                          <span class="filter-group__item__text">
+                            38
+                            
+                          </span>
+                          
+                            
+                          
+                        </label>
+                  </div>
+                </div>
+              </div><div class="filter-group">
+                <toggle-target role="button" tabindex="0" class="filter-group__heading" data-toggle-target="#FilterGroup6" aria-controls="FilterGroup6" aria-expanded="true">
+                  <div class="filter-group__heading__text">Product type</div>
+                  <span class="filter-group__heading__indicator"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round" class="icon feather feather-chevron-down" aria-hidden="true" focusable="false" role="presentation"><path d="m6 9 6 6 6-6"></path></svg></span>
+                </toggle-target>
+                <div id="FilterGroup6" class="filter-group__items filter-group--6 toggle-target">
+                  <div class="toggle-target-container">
+                    
+<label class="filter-group__item" data-tag="jacket">
+                          <input class="filter-group__checkbox" id="Filter-filter.p.product_type-jacket" type="checkbox" name="filter.p.product_type" value="Jacket" style="">
+                          <span class="filter-group__item__text">
+                            Jacket
+                            
+                              <svg class="filter-tick" role="presentation" viewBox="0 0 20 20"><path d="M8.315 13.859l-3.182-3.417a.506.506 0 0 1 0-.684l.643-.683a.437.437 0 0 1 .642 0l2.22 2.393 4.942-5.327a.436.436 0 0 1 .643 0l.643.684a.504.504 0 0 1 0 .683l-5.91 6.35a.437.437 0 0 1-.642 0"></path></svg>
+                            
+                          </span>
+                          
+                            
+                              <span class="filter-group__item__count">2</span>
+                            
+                          
+                        </label><label class="filter-group__item" data-tag="jeans">
+                          <input class="filter-group__checkbox" id="Filter-filter.p.product_type-jeans" type="checkbox" name="filter.p.product_type" value="Jeans" style="">
+                          <span class="filter-group__item__text">
+                            Jeans
+                            
+                              <svg class="filter-tick" role="presentation" viewBox="0 0 20 20"><path d="M8.315 13.859l-3.182-3.417a.506.506 0 0 1 0-.684l.643-.683a.437.437 0 0 1 .642 0l2.22 2.393 4.942-5.327a.436.436 0 0 1 .643 0l.643.684a.504.504 0 0 1 0 .683l-5.91 6.35a.437.437 0 0 1-.642 0"></path></svg>
+                            
+                          </span>
+                          
+                            
+                              <span class="filter-group__item__count">1</span>
+                            
+                          
+                        </label><label class="filter-group__item" data-tag="shirts">
+                          <input class="filter-group__checkbox" id="Filter-filter.p.product_type-shirts" type="checkbox" name="filter.p.product_type" value="Shirts" style="">
+                          <span class="filter-group__item__text">
+                            Shirts
+                            
+                              <svg class="filter-tick" role="presentation" viewBox="0 0 20 20"><path d="M8.315 13.859l-3.182-3.417a.506.506 0 0 1 0-.684l.643-.683a.437.437 0 0 1 .642 0l2.22 2.393 4.942-5.327a.436.436 0 0 1 .643 0l.643.684a.504.504 0 0 1 0 .683l-5.91 6.35a.437.437 0 0 1-.642 0"></path></svg>
+                            
+                          </span>
+                          
+                            
+                              <span class="filter-group__item__count">1</span>
+                            
+                          
+                        </label><label class="filter-group__item" data-tag="tote">
+                          <input class="filter-group__checkbox" id="Filter-filter.p.product_type-tote" type="checkbox" name="filter.p.product_type" value="Tote" style="">
+                          <span class="filter-group__item__text">
+                            Tote
+                            
+                              <svg class="filter-tick" role="presentation" viewBox="0 0 20 20"><path d="M8.315 13.859l-3.182-3.417a.506.506 0 0 1 0-.684l.643-.683a.437.437 0 0 1 .642 0l2.22 2.393 4.942-5.327a.436.436 0 0 1 .643 0l.643.684a.504.504 0 0 1 0 .683l-5.91 6.35a.437.437 0 0 1-.642 0"></path></svg>
+                            
+                          </span>
+                          
+                            
+                              <span class="filter-group__item__count">1</span>
+                            
+                          
+                        </label><label class="filter-group__item" data-tag="trousers">
+                          <input class="filter-group__checkbox" id="Filter-filter.p.product_type-trousers" type="checkbox" name="filter.p.product_type" value="Trousers" style="">
+                          <span class="filter-group__item__text">
+                            Trousers
+                            
+                              <svg class="filter-tick" role="presentation" viewBox="0 0 20 20"><path d="M8.315 13.859l-3.182-3.417a.506.506 0 0 1 0-.684l.643-.683a.437.437 0 0 1 .642 0l2.22 2.393 4.942-5.327a.436.436 0 0 1 .643 0l.643.684a.504.504 0 0 1 0 .683l-5.91 6.35a.437.437 0 0 1-.642 0"></path></svg>
+                            
+                          </span>
+                          
+                            
+                              <span class="filter-group__item__count">1</span>
+                            
+                          
+                        </label>
+                  </div>
+                </div>
+              </div>
+        <div class="filter-group mobile-only">
+          <toggle-target role="button" tabindex="0" class="filter-group__heading" data-toggle-target="#FilterGroupSort" aria-controls="FilterGroupSort" aria-expanded="true">
+            <div class="filter-group__heading__text">Sort by</div>
+            <span class="filter-group__heading__indicator"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round" class="icon feather feather-chevron-down" aria-hidden="true" focusable="false" role="presentation"><path d="m6 9 6 6 6-6"></path></svg></span>
+          </toggle-target>
+          <div id="FilterGroupSort" class="filter-group__items filter-group--sort toggle-target">
+            <div class="toggle-target-container"><label class="filter-group__item filter-group__item--active">
+                  <input class="filter-group__checkbox" id="Filter-Sort-best-selling" type="radio" name="sort_by" value="best-selling" checked="" style="">
+
+                  <span class="filter-group__item__text">
+                    Best selling
+                    <svg class="filter-tick" role="presentation" viewBox="0 0 20 20"><path d="M8.315 13.859l-3.182-3.417a.506.506 0 0 1 0-.684l.643-.683a.437.437 0 0 1 .642 0l2.22 2.393 4.942-5.327a.436.436 0 0 1 .643 0l.643.684a.504.504 0 0 1 0 .683l-5.91 6.35a.437.437 0 0 1-.642 0"></path></svg>
+                  </span>
+                </label><label class="filter-group__item">
+                  <input class="filter-group__checkbox" id="Filter-Sort-title-ascending" type="radio" name="sort_by" value="title-ascending" style="">
+
+                  <span class="filter-group__item__text">
+                    Alphabetically, A-Z
+                    <svg class="filter-tick" role="presentation" viewBox="0 0 20 20"><path d="M8.315 13.859l-3.182-3.417a.506.506 0 0 1 0-.684l.643-.683a.437.437 0 0 1 .642 0l2.22 2.393 4.942-5.327a.436.436 0 0 1 .643 0l.643.684a.504.504 0 0 1 0 .683l-5.91 6.35a.437.437 0 0 1-.642 0"></path></svg>
+                  </span>
+                </label><label class="filter-group__item">
+                  <input class="filter-group__checkbox" id="Filter-Sort-title-descending" type="radio" name="sort_by" value="title-descending" style="">
+
+                  <span class="filter-group__item__text">
+                    Alphabetically, Z-A
+                    <svg class="filter-tick" role="presentation" viewBox="0 0 20 20"><path d="M8.315 13.859l-3.182-3.417a.506.506 0 0 1 0-.684l.643-.683a.437.437 0 0 1 .642 0l2.22 2.393 4.942-5.327a.436.436 0 0 1 .643 0l.643.684a.504.504 0 0 1 0 .683l-5.91 6.35a.437.437 0 0 1-.642 0"></path></svg>
+                  </span>
+                </label><label class="filter-group__item">
+                  <input class="filter-group__checkbox" id="Filter-Sort-price-ascending" type="radio" name="sort_by" value="price-ascending" style="">
+
+                  <span class="filter-group__item__text">
+                    Price, low to high
+                    <svg class="filter-tick" role="presentation" viewBox="0 0 20 20"><path d="M8.315 13.859l-3.182-3.417a.506.506 0 0 1 0-.684l.643-.683a.437.437 0 0 1 .642 0l2.22 2.393 4.942-5.327a.436.436 0 0 1 .643 0l.643.684a.504.504 0 0 1 0 .683l-5.91 6.35a.437.437 0 0 1-.642 0"></path></svg>
+                  </span>
+                </label><label class="filter-group__item">
+                  <input class="filter-group__checkbox" id="Filter-Sort-price-descending" type="radio" name="sort_by" value="price-descending" style="">
+
+                  <span class="filter-group__item__text">
+                    Price, high to low
+                    <svg class="filter-tick" role="presentation" viewBox="0 0 20 20"><path d="M8.315 13.859l-3.182-3.417a.506.506 0 0 1 0-.684l.643-.683a.437.437 0 0 1 .642 0l2.22 2.393 4.942-5.327a.436.436 0 0 1 .643 0l.643.684a.504.504 0 0 1 0 .683l-5.91 6.35a.437.437 0 0 1-.642 0"></path></svg>
+                  </span>
+                </label><label class="filter-group__item">
+                  <input class="filter-group__checkbox" id="Filter-Sort-created-ascending" type="radio" name="sort_by" value="created-ascending" style="">
+
+                  <span class="filter-group__item__text">
+                    Date, old to new
+                    <svg class="filter-tick" role="presentation" viewBox="0 0 20 20"><path d="M8.315 13.859l-3.182-3.417a.506.506 0 0 1 0-.684l.643-.683a.437.437 0 0 1 .642 0l2.22 2.393 4.942-5.327a.436.436 0 0 1 .643 0l.643.684a.504.504 0 0 1 0 .683l-5.91 6.35a.437.437 0 0 1-.642 0"></path></svg>
+                  </span>
+                </label><label class="filter-group__item">
+                  <input class="filter-group__checkbox" id="Filter-Sort-created-descending" type="radio" name="sort_by" value="created-descending" style="">
+
+                  <span class="filter-group__item__text">
+                    Date, new to old
+                    <svg class="filter-tick" role="presentation" viewBox="0 0 20 20"><path d="M8.315 13.859l-3.182-3.417a.506.506 0 0 1 0-.684l.643-.683a.437.437 0 0 1 .642 0l2.22 2.393 4.942-5.327a.436.436 0 0 1 .643 0l.643.684a.504.504 0 0 1 0 .683l-5.91 6.35a.437.437 0 0 1-.642 0"></path></svg>
+                  </span>
+                </label></div>
+          </div>
+        </div>
+      
+    </form>
+  </div></sticky-scroll></div>
+
+      
+
+      <div class="filters-adjacent collection-listing" data-ajax-container="">
+        
+          <div class="product-grid product-grid--per-row-3 product-grid--per-row-mob-2 product-grid--per-row-mob-2"><product-block class="product-block" data-product-id="6537336750153">
+  <div class="block-inner cc-animate-init cc-animate-in" data-cc-animate="">
+    <div class="block-inner-inner">
+      
+<div class="image-cont image-cont--with-secondary-image image-cont--same-aspect-ratio">
+          <a class="product-link" href="/collections/denim/products/worker-jacket" aria-hidden="true" tabindex="-1">
+            <div class="image-label-wrap">
+              <div><div class="product-block__image product-block__image--primary product-block__image--active" data-media-id="20213974532169"><div class="img-ar img-ar--cover" style="--aspect-ratio: 0.8">
+<img src="//salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_WorkerJacket_Navy_Model_03.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1637863344&amp;width=2400" alt="" width="1920" height="2400" loading="eager" sizes="(min-width: 1480px) 493px, (min-width: 768px) 33vw, 50vw" srcset="//salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_WorkerJacket_Navy_Model_03.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1637863344&amp;width=425 340w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_WorkerJacket_Navy_Model_03.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1637863344&amp;width=600 480w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_WorkerJacket_Navy_Model_03.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1637863344&amp;width=925 740w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_WorkerJacket_Navy_Model_03.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1637863344&amp;width=1225 980w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_WorkerJacket_Navy_Model_03.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1637863344&amp;width=1500 1200w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_WorkerJacket_Navy_Model_03.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1637863344&amp;width=1750 1400w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_WorkerJacket_Navy_Model_03.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1637863344&amp;width=2000 1600w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_WorkerJacket_Navy_Model_03.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1637863344&amp;width=2400 1920w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_WorkerJacket_Navy_Model_03.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1637863344&amp;width=3000 2400w" class="theme-img"></div>
+</div><div class="product-block__image product-block__image--secondary product-block__image--show-on-hover" data-media-id="20213974597705" data-image-index="1"><div class="img-ar img-ar--cover" style="--aspect-ratio: 0.8">
+<img src="//salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_WorkerJacket_Navy_Model_02.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1637863344&amp;width=2400" alt="" width="1920" height="2400" loading="lazy" sizes="(min-width: 1480px) 493px, (min-width: 768px) 33vw, 50vw" srcset="//salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_WorkerJacket_Navy_Model_02.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1637863344&amp;width=425 340w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_WorkerJacket_Navy_Model_02.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1637863344&amp;width=600 480w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_WorkerJacket_Navy_Model_02.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1637863344&amp;width=925 740w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_WorkerJacket_Navy_Model_02.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1637863344&amp;width=1225 980w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_WorkerJacket_Navy_Model_02.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1637863344&amp;width=1500 1200w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_WorkerJacket_Navy_Model_02.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1637863344&amp;width=1750 1400w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_WorkerJacket_Navy_Model_02.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1637863344&amp;width=2000 1600w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_WorkerJacket_Navy_Model_02.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1637863344&amp;width=2400 1920w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_WorkerJacket_Navy_Model_02.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1637863344&amp;width=3000 2400w" class="theme-img"></div>
+</div><div class="product-block__image product-block__image--secondary product-block__image--inactivated" data-media-id="20213974564937" data-image-index="2"><div class="img-ar img-ar--cover" style="--aspect-ratio: 0.8">
+<img src="//salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_WorkerJacket_Navy_Flat_01LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1637863344&amp;width=2400" alt="" width="1920" height="2400" loading="lazy" sizes="(min-width: 1480px) 493px, (min-width: 768px) 33vw, 50vw" srcset="//salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_WorkerJacket_Navy_Flat_01LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1637863344&amp;width=425 340w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_WorkerJacket_Navy_Flat_01LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1637863344&amp;width=600 480w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_WorkerJacket_Navy_Flat_01LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1637863344&amp;width=925 740w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_WorkerJacket_Navy_Flat_01LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1637863344&amp;width=1225 980w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_WorkerJacket_Navy_Flat_01LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1637863344&amp;width=1500 1200w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_WorkerJacket_Navy_Flat_01LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1637863344&amp;width=1750 1400w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_WorkerJacket_Navy_Flat_01LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1637863344&amp;width=2000 1600w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_WorkerJacket_Navy_Flat_01LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1637863344&amp;width=2400 1920w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_WorkerJacket_Navy_Flat_01LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1637863344&amp;width=3000 2400w" class="theme-img"></div>
+</div><div class="product-block__image product-block__image--secondary product-block__image--inactivated" data-media-id="20821658304585" data-image-index="3"><div class="img-ar img-ar--cover" style="--aspect-ratio: 0.8">
+<img src="//salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_Worker_Green_Model1LR.jpg?crop=region&amp;crop_height=2000&amp;crop_left=200&amp;crop_top=0&amp;crop_width=1600&amp;v=1637863344&amp;width=2000" alt="" width="1600" height="2000" loading="lazy" sizes="(min-width: 1480px) 493px, (min-width: 768px) 33vw, 50vw" srcset="//salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_Worker_Green_Model1LR.jpg?crop=region&amp;crop_height=2000&amp;crop_left=200&amp;crop_top=0&amp;crop_width=1600&amp;v=1637863344&amp;width=425 340w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_Worker_Green_Model1LR.jpg?crop=region&amp;crop_height=2000&amp;crop_left=200&amp;crop_top=0&amp;crop_width=1600&amp;v=1637863344&amp;width=600 480w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_Worker_Green_Model1LR.jpg?crop=region&amp;crop_height=2000&amp;crop_left=200&amp;crop_top=0&amp;crop_width=1600&amp;v=1637863344&amp;width=925 740w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_Worker_Green_Model1LR.jpg?crop=region&amp;crop_height=2000&amp;crop_left=200&amp;crop_top=0&amp;crop_width=1600&amp;v=1637863344&amp;width=1225 980w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_Worker_Green_Model1LR.jpg?crop=region&amp;crop_height=2000&amp;crop_left=200&amp;crop_top=0&amp;crop_width=1600&amp;v=1637863344&amp;width=1500 1200w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_Worker_Green_Model1LR.jpg?crop=region&amp;crop_height=2000&amp;crop_left=200&amp;crop_top=0&amp;crop_width=1600&amp;v=1637863344&amp;width=1750 1400w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_Worker_Green_Model1LR.jpg?crop=region&amp;crop_height=2000&amp;crop_left=200&amp;crop_top=0&amp;crop_width=1600&amp;v=1637863344&amp;width=2000 1600w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_Worker_Green_Model1LR.jpg?crop=region&amp;crop_height=2000&amp;crop_left=200&amp;crop_top=0&amp;crop_width=1600&amp;v=1637863344&amp;width=2400 1920w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_Worker_Green_Model1LR.jpg?crop=region&amp;crop_height=2000&amp;crop_left=200&amp;crop_top=0&amp;crop_width=1600&amp;v=1637863344&amp;width=2500 2000w" class="theme-img"></div>
+</div><div class="product-block__image product-block__image--secondary product-block__image--inactivated" data-media-id="20821658239049" data-image-index="4"><div class="img-ar img-ar--cover" style="--aspect-ratio: 0.8">
+<img src="//salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_Worker_Green_FlatLR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1637863344&amp;width=2400" alt="" width="1920" height="2400" loading="lazy" sizes="(min-width: 1480px) 493px, (min-width: 768px) 33vw, 50vw" srcset="//salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_Worker_Green_FlatLR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1637863344&amp;width=425 340w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_Worker_Green_FlatLR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1637863344&amp;width=600 480w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_Worker_Green_FlatLR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1637863344&amp;width=925 740w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_Worker_Green_FlatLR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1637863344&amp;width=1225 980w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_Worker_Green_FlatLR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1637863344&amp;width=1500 1200w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_Worker_Green_FlatLR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1637863344&amp;width=1750 1400w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_Worker_Green_FlatLR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1637863344&amp;width=2000 1600w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_Worker_Green_FlatLR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1637863344&amp;width=2400 1920w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_Worker_Green_FlatLR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1637863344&amp;width=3000 2400w" class="theme-img"></div>
+</div><div class="product-block__image product-block__image--secondary product-block__image--inactivated" data-media-id="20821658206281" data-image-index="5"><div class="img-ar img-ar--cover" style="--aspect-ratio: 0.8">
+<img src="//salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_Worker_Green_DetailLR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1637863344&amp;width=2400" alt="" width="1920" height="2400" loading="lazy" sizes="(min-width: 1480px) 493px, (min-width: 768px) 33vw, 50vw" srcset="//salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_Worker_Green_DetailLR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1637863344&amp;width=425 340w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_Worker_Green_DetailLR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1637863344&amp;width=600 480w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_Worker_Green_DetailLR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1637863344&amp;width=925 740w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_Worker_Green_DetailLR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1637863344&amp;width=1225 980w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_Worker_Green_DetailLR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1637863344&amp;width=1500 1200w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_Worker_Green_DetailLR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1637863344&amp;width=1750 1400w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_Worker_Green_DetailLR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1637863344&amp;width=2000 1600w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_Worker_Green_DetailLR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1637863344&amp;width=2400 1920w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_Worker_Green_DetailLR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1637863344&amp;width=3000 2400w" class="theme-img"></div>
+</div><div class="product-block__image product-block__image--secondary product-block__image--inactivated" data-media-id="20821658271817" data-image-index="6"><div class="img-ar img-ar--cover" style="--aspect-ratio: 0.8">
+<img src="//salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_Worker_Green_FoldedLR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1637863344&amp;width=2400" alt="" width="1920" height="2400" loading="lazy" sizes="(min-width: 1480px) 493px, (min-width: 768px) 33vw, 50vw" srcset="//salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_Worker_Green_FoldedLR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1637863344&amp;width=425 340w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_Worker_Green_FoldedLR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1637863344&amp;width=600 480w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_Worker_Green_FoldedLR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1637863344&amp;width=925 740w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_Worker_Green_FoldedLR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1637863344&amp;width=1225 980w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_Worker_Green_FoldedLR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1637863344&amp;width=1500 1200w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_Worker_Green_FoldedLR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1637863344&amp;width=1750 1400w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_Worker_Green_FoldedLR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1637863344&amp;width=2000 1600w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_Worker_Green_FoldedLR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1637863344&amp;width=2400 1920w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_Worker_Green_FoldedLR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1637863344&amp;width=3000 2400w" class="theme-img"></div>
+</div><div class="product-block__image product-block__image--secondary product-block__image--inactivated" data-media-id="20213974630473" data-image-index="7"><div class="img-ar img-ar--cover" style="--aspect-ratio: 0.8">
+<img src="//salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_WorkerJacket_Khaki_Model_02LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1637862481&amp;width=2400" alt="" width="1920" height="2400" loading="lazy" sizes="(min-width: 1480px) 493px, (min-width: 768px) 33vw, 50vw" srcset="//salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_WorkerJacket_Khaki_Model_02LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1637862481&amp;width=425 340w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_WorkerJacket_Khaki_Model_02LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1637862481&amp;width=600 480w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_WorkerJacket_Khaki_Model_02LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1637862481&amp;width=925 740w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_WorkerJacket_Khaki_Model_02LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1637862481&amp;width=1225 980w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_WorkerJacket_Khaki_Model_02LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1637862481&amp;width=1500 1200w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_WorkerJacket_Khaki_Model_02LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1637862481&amp;width=1750 1400w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_WorkerJacket_Khaki_Model_02LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1637862481&amp;width=2000 1600w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_WorkerJacket_Khaki_Model_02LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1637862481&amp;width=2400 1920w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_WorkerJacket_Khaki_Model_02LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1637862481&amp;width=3000 2400w" class="theme-img"></div>
+</div><div class="product-block__image product-block__image--secondary product-block__image--inactivated" data-media-id="20213974663241" data-image-index="8"><div class="img-ar img-ar--cover" style="--aspect-ratio: 0.8">
+<img src="//salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_WorkerJacket_Khaki_Model_03.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1637862481&amp;width=2400" alt="" width="1920" height="2400" loading="lazy" sizes="(min-width: 1480px) 493px, (min-width: 768px) 33vw, 50vw" srcset="//salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_WorkerJacket_Khaki_Model_03.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1637862481&amp;width=425 340w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_WorkerJacket_Khaki_Model_03.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1637862481&amp;width=600 480w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_WorkerJacket_Khaki_Model_03.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1637862481&amp;width=925 740w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_WorkerJacket_Khaki_Model_03.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1637862481&amp;width=1225 980w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_WorkerJacket_Khaki_Model_03.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1637862481&amp;width=1500 1200w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_WorkerJacket_Khaki_Model_03.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1637862481&amp;width=1750 1400w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_WorkerJacket_Khaki_Model_03.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1637862481&amp;width=2000 1600w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_WorkerJacket_Khaki_Model_03.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1637862481&amp;width=2400 1920w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_WorkerJacket_Khaki_Model_03.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1637862481&amp;width=3000 2400w" class="theme-img"></div>
+</div><div class="product-block__image product-block__image--secondary product-block__image--inactivated" data-media-id="20213974696009" data-image-index="9"><div class="img-ar img-ar--cover" style="--aspect-ratio: 0.8">
+<img src="//salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_WorkerJacket_Khaki_Flat_03LR_868a7461-dcc2-45f5-aa86-dc00b8f01c1a.jpg?crop=region&amp;crop_height=2013&amp;crop_left=201&amp;crop_top=0&amp;crop_width=1610&amp;v=1637862481&amp;width=2013" alt="" width="1610" height="2013" loading="lazy" sizes="(min-width: 1480px) 493px, (min-width: 768px) 33vw, 50vw" srcset="//salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_WorkerJacket_Khaki_Flat_03LR_868a7461-dcc2-45f5-aa86-dc00b8f01c1a.jpg?crop=region&amp;crop_height=2013&amp;crop_left=201&amp;crop_top=0&amp;crop_width=1610&amp;v=1637862481&amp;width=425 340w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_WorkerJacket_Khaki_Flat_03LR_868a7461-dcc2-45f5-aa86-dc00b8f01c1a.jpg?crop=region&amp;crop_height=2013&amp;crop_left=201&amp;crop_top=0&amp;crop_width=1610&amp;v=1637862481&amp;width=600 480w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_WorkerJacket_Khaki_Flat_03LR_868a7461-dcc2-45f5-aa86-dc00b8f01c1a.jpg?crop=region&amp;crop_height=2013&amp;crop_left=201&amp;crop_top=0&amp;crop_width=1610&amp;v=1637862481&amp;width=925 740w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_WorkerJacket_Khaki_Flat_03LR_868a7461-dcc2-45f5-aa86-dc00b8f01c1a.jpg?crop=region&amp;crop_height=2013&amp;crop_left=201&amp;crop_top=0&amp;crop_width=1610&amp;v=1637862481&amp;width=1225 980w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_WorkerJacket_Khaki_Flat_03LR_868a7461-dcc2-45f5-aa86-dc00b8f01c1a.jpg?crop=region&amp;crop_height=2013&amp;crop_left=201&amp;crop_top=0&amp;crop_width=1610&amp;v=1637862481&amp;width=1500 1200w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_WorkerJacket_Khaki_Flat_03LR_868a7461-dcc2-45f5-aa86-dc00b8f01c1a.jpg?crop=region&amp;crop_height=2013&amp;crop_left=201&amp;crop_top=0&amp;crop_width=1610&amp;v=1637862481&amp;width=1750 1400w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_WorkerJacket_Khaki_Flat_03LR_868a7461-dcc2-45f5-aa86-dc00b8f01c1a.jpg?crop=region&amp;crop_height=2013&amp;crop_left=201&amp;crop_top=0&amp;crop_width=1610&amp;v=1637862481&amp;width=2000 1600w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_WorkerJacket_Khaki_Flat_03LR_868a7461-dcc2-45f5-aa86-dc00b8f01c1a.jpg?crop=region&amp;crop_height=2013&amp;crop_left=201&amp;crop_top=0&amp;crop_width=1610&amp;v=1637862481&amp;width=2400 1920w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_WorkerJacket_Khaki_Flat_03LR_868a7461-dcc2-45f5-aa86-dc00b8f01c1a.jpg?crop=region&amp;crop_height=2013&amp;crop_left=201&amp;crop_top=0&amp;crop_width=1610&amp;v=1637862481&amp;width=2516 2013w" class="theme-img"></div>
+</div><div class="product-block__image product-block__image--secondary product-block__image--inactivated" data-media-id="20213974728777" data-image-index="10"><div class="img-ar img-ar--cover" style="--aspect-ratio: 0.8">
+<img src="//salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_WorkerJacket_Khaki_Flat_02LR.jpg?crop=region&amp;crop_height=2500&amp;crop_left=250&amp;crop_top=0&amp;crop_width=2000&amp;v=1637862481&amp;width=2500" alt="" width="2000" height="2500" loading="lazy" sizes="(min-width: 1480px) 493px, (min-width: 768px) 33vw, 50vw" srcset="//salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_WorkerJacket_Khaki_Flat_02LR.jpg?crop=region&amp;crop_height=2500&amp;crop_left=250&amp;crop_top=0&amp;crop_width=2000&amp;v=1637862481&amp;width=425 340w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_WorkerJacket_Khaki_Flat_02LR.jpg?crop=region&amp;crop_height=2500&amp;crop_left=250&amp;crop_top=0&amp;crop_width=2000&amp;v=1637862481&amp;width=600 480w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_WorkerJacket_Khaki_Flat_02LR.jpg?crop=region&amp;crop_height=2500&amp;crop_left=250&amp;crop_top=0&amp;crop_width=2000&amp;v=1637862481&amp;width=925 740w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_WorkerJacket_Khaki_Flat_02LR.jpg?crop=region&amp;crop_height=2500&amp;crop_left=250&amp;crop_top=0&amp;crop_width=2000&amp;v=1637862481&amp;width=1225 980w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_WorkerJacket_Khaki_Flat_02LR.jpg?crop=region&amp;crop_height=2500&amp;crop_left=250&amp;crop_top=0&amp;crop_width=2000&amp;v=1637862481&amp;width=1500 1200w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_WorkerJacket_Khaki_Flat_02LR.jpg?crop=region&amp;crop_height=2500&amp;crop_left=250&amp;crop_top=0&amp;crop_width=2000&amp;v=1637862481&amp;width=1750 1400w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_WorkerJacket_Khaki_Flat_02LR.jpg?crop=region&amp;crop_height=2500&amp;crop_left=250&amp;crop_top=0&amp;crop_width=2000&amp;v=1637862481&amp;width=2000 1600w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_WorkerJacket_Khaki_Flat_02LR.jpg?crop=region&amp;crop_height=2500&amp;crop_left=250&amp;crop_top=0&amp;crop_width=2000&amp;v=1637862481&amp;width=2400 1920w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_WorkerJacket_Khaki_Flat_02LR.jpg?crop=region&amp;crop_height=2500&amp;crop_left=250&amp;crop_top=0&amp;crop_width=2000&amp;v=1637862481&amp;width=3125 2500w" class="theme-img"></div>
+</div><div class="product-block__image product-block__image--secondary product-block__image--inactivated" data-media-id="20213974761545" data-image-index="11"><div class="img-ar img-ar--cover" style="--aspect-ratio: 0.8">
+<img src="//salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_WorkerJacket_Khaki_Model_03LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1637862481&amp;width=2400" alt="" width="1920" height="2400" loading="lazy" sizes="(min-width: 1480px) 493px, (min-width: 768px) 33vw, 50vw" srcset="//salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_WorkerJacket_Khaki_Model_03LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1637862481&amp;width=425 340w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_WorkerJacket_Khaki_Model_03LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1637862481&amp;width=600 480w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_WorkerJacket_Khaki_Model_03LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1637862481&amp;width=925 740w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_WorkerJacket_Khaki_Model_03LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1637862481&amp;width=1225 980w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_WorkerJacket_Khaki_Model_03LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1637862481&amp;width=1500 1200w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_WorkerJacket_Khaki_Model_03LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1637862481&amp;width=1750 1400w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_WorkerJacket_Khaki_Model_03LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1637862481&amp;width=2000 1600w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_WorkerJacket_Khaki_Model_03LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1637862481&amp;width=2400 1920w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_WorkerJacket_Khaki_Model_03LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1637862481&amp;width=3000 2400w" class="theme-img"></div>
+</div><div class="product-block__image product-block__image--secondary product-block__image--inactivated" data-media-id="20213974794313" data-image-index="12"><div class="img-ar img-ar--cover" style="--aspect-ratio: 0.8">
+<img src="//salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_WorkerJacket_blue_Model_02LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1637862481&amp;width=2400" alt="" width="1920" height="2400" loading="lazy" sizes="(min-width: 1480px) 493px, (min-width: 768px) 33vw, 50vw" srcset="//salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_WorkerJacket_blue_Model_02LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1637862481&amp;width=425 340w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_WorkerJacket_blue_Model_02LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1637862481&amp;width=600 480w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_WorkerJacket_blue_Model_02LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1637862481&amp;width=925 740w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_WorkerJacket_blue_Model_02LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1637862481&amp;width=1225 980w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_WorkerJacket_blue_Model_02LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1637862481&amp;width=1500 1200w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_WorkerJacket_blue_Model_02LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1637862481&amp;width=1750 1400w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_WorkerJacket_blue_Model_02LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1637862481&amp;width=2000 1600w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_WorkerJacket_blue_Model_02LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1637862481&amp;width=2400 1920w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_WorkerJacket_blue_Model_02LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1637862481&amp;width=3000 2400w" class="theme-img"></div>
+</div><div class="product-block__image product-block__image--secondary product-block__image--inactivated" data-media-id="20213974827081" data-image-index="13"><div class="img-ar img-ar--cover" style="--aspect-ratio: 0.8">
+<img src="//salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_WorkerJacket_blue_Flat_01LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1637862481&amp;width=2400" alt="" width="1920" height="2400" loading="lazy" sizes="(min-width: 1480px) 493px, (min-width: 768px) 33vw, 50vw" srcset="//salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_WorkerJacket_blue_Flat_01LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1637862481&amp;width=425 340w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_WorkerJacket_blue_Flat_01LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1637862481&amp;width=600 480w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_WorkerJacket_blue_Flat_01LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1637862481&amp;width=925 740w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_WorkerJacket_blue_Flat_01LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1637862481&amp;width=1225 980w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_WorkerJacket_blue_Flat_01LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1637862481&amp;width=1500 1200w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_WorkerJacket_blue_Flat_01LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1637862481&amp;width=1750 1400w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_WorkerJacket_blue_Flat_01LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1637862481&amp;width=2000 1600w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_WorkerJacket_blue_Flat_01LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1637862481&amp;width=2400 1920w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_WorkerJacket_blue_Flat_01LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1637862481&amp;width=3000 2400w" class="theme-img"></div>
+</div><div class="product-block__image product-block__image--secondary product-block__image--inactivated" data-media-id="20213974859849" data-image-index="14"><div class="img-ar img-ar--cover" style="--aspect-ratio: 0.8">
+<img src="//salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Worker_Jacket_Blue_Ecom_03.jpg?crop=region&amp;crop_height=4194&amp;crop_left=419&amp;crop_top=0&amp;crop_width=3355&amp;v=1637862481&amp;width=4194" alt="" width="3355" height="4194" loading="lazy" sizes="(min-width: 1480px) 493px, (min-width: 768px) 33vw, 50vw" srcset="//salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Worker_Jacket_Blue_Ecom_03.jpg?crop=region&amp;crop_height=4194&amp;crop_left=419&amp;crop_top=0&amp;crop_width=3355&amp;v=1637862481&amp;width=425 340w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Worker_Jacket_Blue_Ecom_03.jpg?crop=region&amp;crop_height=4194&amp;crop_left=419&amp;crop_top=0&amp;crop_width=3355&amp;v=1637862481&amp;width=600 480w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Worker_Jacket_Blue_Ecom_03.jpg?crop=region&amp;crop_height=4194&amp;crop_left=419&amp;crop_top=0&amp;crop_width=3355&amp;v=1637862481&amp;width=925 740w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Worker_Jacket_Blue_Ecom_03.jpg?crop=region&amp;crop_height=4194&amp;crop_left=419&amp;crop_top=0&amp;crop_width=3355&amp;v=1637862481&amp;width=1225 980w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Worker_Jacket_Blue_Ecom_03.jpg?crop=region&amp;crop_height=4194&amp;crop_left=419&amp;crop_top=0&amp;crop_width=3355&amp;v=1637862481&amp;width=1500 1200w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Worker_Jacket_Blue_Ecom_03.jpg?crop=region&amp;crop_height=4194&amp;crop_left=419&amp;crop_top=0&amp;crop_width=3355&amp;v=1637862481&amp;width=1750 1400w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Worker_Jacket_Blue_Ecom_03.jpg?crop=region&amp;crop_height=4194&amp;crop_left=419&amp;crop_top=0&amp;crop_width=3355&amp;v=1637862481&amp;width=2000 1600w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Worker_Jacket_Blue_Ecom_03.jpg?crop=region&amp;crop_height=4194&amp;crop_left=419&amp;crop_top=0&amp;crop_width=3355&amp;v=1637862481&amp;width=2400 1920w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Worker_Jacket_Blue_Ecom_03.jpg?crop=region&amp;crop_height=4194&amp;crop_left=419&amp;crop_top=0&amp;crop_width=3355&amp;v=1637862481&amp;width=3200 2560w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Worker_Jacket_Blue_Ecom_03.jpg?crop=region&amp;crop_height=4194&amp;crop_left=419&amp;crop_top=0&amp;crop_width=3355&amp;v=1637862481&amp;width=4000 3200w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Worker_Jacket_Blue_Ecom_03.jpg?crop=region&amp;crop_height=4194&amp;crop_left=419&amp;crop_top=0&amp;crop_width=3355&amp;v=1637862481&amp;width=5000 4000w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Worker_Jacket_Blue_Ecom_03.jpg?crop=region&amp;crop_height=4194&amp;crop_left=419&amp;crop_top=0&amp;crop_width=3355&amp;v=1637862481&amp;width=5242 4194w" class="theme-img"></div>
+</div><div class="product-block__image product-block__image--secondary product-block__image--inactivated" data-media-id="20213974892617" data-image-index="15"><div class="img-ar img-ar--cover" style="--aspect-ratio: 0.8">
+<img src="//salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Worker_Jacket_Clean_Colour_Corrected.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1637862481&amp;width=2400" alt="" width="1920" height="2400" loading="lazy" sizes="(min-width: 1480px) 493px, (min-width: 768px) 33vw, 50vw" srcset="//salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Worker_Jacket_Clean_Colour_Corrected.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1637862481&amp;width=425 340w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Worker_Jacket_Clean_Colour_Corrected.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1637862481&amp;width=600 480w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Worker_Jacket_Clean_Colour_Corrected.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1637862481&amp;width=925 740w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Worker_Jacket_Clean_Colour_Corrected.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1637862481&amp;width=1225 980w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Worker_Jacket_Clean_Colour_Corrected.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1637862481&amp;width=1500 1200w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Worker_Jacket_Clean_Colour_Corrected.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1637862481&amp;width=1750 1400w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Worker_Jacket_Clean_Colour_Corrected.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1637862481&amp;width=2000 1600w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Worker_Jacket_Clean_Colour_Corrected.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1637862481&amp;width=2400 1920w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Worker_Jacket_Clean_Colour_Corrected.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1637862481&amp;width=3000 2400w" class="theme-img"></div>
+</div><div class="product-block__image product-block__image--secondary product-block__image--inactivated" data-media-id="20213974925385" data-image-index="16"><div class="img-ar img-ar--cover" style="--aspect-ratio: 0.8">
+<img src="//salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_WorkerJacket_blue_Model_03LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1637862481&amp;width=2400" alt="" width="1920" height="2400" loading="lazy" sizes="(min-width: 1480px) 493px, (min-width: 768px) 33vw, 50vw" srcset="//salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_WorkerJacket_blue_Model_03LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1637862481&amp;width=425 340w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_WorkerJacket_blue_Model_03LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1637862481&amp;width=600 480w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_WorkerJacket_blue_Model_03LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1637862481&amp;width=925 740w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_WorkerJacket_blue_Model_03LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1637862481&amp;width=1225 980w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_WorkerJacket_blue_Model_03LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1637862481&amp;width=1500 1200w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_WorkerJacket_blue_Model_03LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1637862481&amp;width=1750 1400w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_WorkerJacket_blue_Model_03LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1637862481&amp;width=2000 1600w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_WorkerJacket_blue_Model_03LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1637862481&amp;width=2400 1920w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_WorkerJacket_blue_Model_03LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1637862481&amp;width=3000 2400w" class="theme-img"></div>
+</div><div class="product-block__image product-block__image--secondary product-block__image--inactivated" data-media-id="20213974958153" data-image-index="17"><div class="img-ar img-ar--cover" style="--aspect-ratio: 0.8">
+<img src="//salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_WorkerJacket_back_Flat_02_lr.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1637862481&amp;width=2400" alt="" width="1920" height="2400" loading="lazy" sizes="(min-width: 1480px) 493px, (min-width: 768px) 33vw, 50vw" srcset="//salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_WorkerJacket_back_Flat_02_lr.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1637862481&amp;width=425 340w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_WorkerJacket_back_Flat_02_lr.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1637862481&amp;width=600 480w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_WorkerJacket_back_Flat_02_lr.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1637862481&amp;width=925 740w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_WorkerJacket_back_Flat_02_lr.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1637862481&amp;width=1225 980w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_WorkerJacket_back_Flat_02_lr.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1637862481&amp;width=1500 1200w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_WorkerJacket_back_Flat_02_lr.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1637862481&amp;width=1750 1400w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_WorkerJacket_back_Flat_02_lr.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1637862481&amp;width=2000 1600w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_WorkerJacket_back_Flat_02_lr.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1637862481&amp;width=2400 1920w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_WorkerJacket_back_Flat_02_lr.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1637862481&amp;width=3000 2400w" class="theme-img"></div>
+</div><div class="product-block__image product-block__image--secondary product-block__image--inactivated" data-media-id="20213974990921" data-image-index="18"><div class="img-ar img-ar--cover" style="--aspect-ratio: 0.8">
+<img src="//salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_WorkerJacket_back_Flat_01LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1637862481&amp;width=2400" alt="" width="1920" height="2400" loading="lazy" sizes="(min-width: 1480px) 493px, (min-width: 768px) 33vw, 50vw" srcset="//salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_WorkerJacket_back_Flat_01LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1637862481&amp;width=425 340w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_WorkerJacket_back_Flat_01LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1637862481&amp;width=600 480w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_WorkerJacket_back_Flat_01LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1637862481&amp;width=925 740w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_WorkerJacket_back_Flat_01LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1637862481&amp;width=1225 980w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_WorkerJacket_back_Flat_01LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1637862481&amp;width=1500 1200w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_WorkerJacket_back_Flat_01LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1637862481&amp;width=1750 1400w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_WorkerJacket_back_Flat_01LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1637862481&amp;width=2000 1600w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_WorkerJacket_back_Flat_01LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1637862481&amp;width=2400 1920w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_WorkerJacket_back_Flat_01LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1637862481&amp;width=3000 2400w" class="theme-img"></div>
+</div><div class="product-block__image product-block__image--secondary product-block__image--inactivated" data-media-id="20213975023689" data-image-index="19"><div class="img-ar img-ar--cover" style="--aspect-ratio: 0.8">
+<img src="//salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Worker_Jacket_Black_Ecom_03_copy.jpg?crop=region&amp;crop_height=4194&amp;crop_left=419&amp;crop_top=0&amp;crop_width=3355&amp;v=1637862481&amp;width=4194" alt="" width="3355" height="4194" loading="lazy" sizes="(min-width: 1480px) 493px, (min-width: 768px) 33vw, 50vw" srcset="//salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Worker_Jacket_Black_Ecom_03_copy.jpg?crop=region&amp;crop_height=4194&amp;crop_left=419&amp;crop_top=0&amp;crop_width=3355&amp;v=1637862481&amp;width=425 340w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Worker_Jacket_Black_Ecom_03_copy.jpg?crop=region&amp;crop_height=4194&amp;crop_left=419&amp;crop_top=0&amp;crop_width=3355&amp;v=1637862481&amp;width=600 480w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Worker_Jacket_Black_Ecom_03_copy.jpg?crop=region&amp;crop_height=4194&amp;crop_left=419&amp;crop_top=0&amp;crop_width=3355&amp;v=1637862481&amp;width=925 740w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Worker_Jacket_Black_Ecom_03_copy.jpg?crop=region&amp;crop_height=4194&amp;crop_left=419&amp;crop_top=0&amp;crop_width=3355&amp;v=1637862481&amp;width=1225 980w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Worker_Jacket_Black_Ecom_03_copy.jpg?crop=region&amp;crop_height=4194&amp;crop_left=419&amp;crop_top=0&amp;crop_width=3355&amp;v=1637862481&amp;width=1500 1200w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Worker_Jacket_Black_Ecom_03_copy.jpg?crop=region&amp;crop_height=4194&amp;crop_left=419&amp;crop_top=0&amp;crop_width=3355&amp;v=1637862481&amp;width=1750 1400w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Worker_Jacket_Black_Ecom_03_copy.jpg?crop=region&amp;crop_height=4194&amp;crop_left=419&amp;crop_top=0&amp;crop_width=3355&amp;v=1637862481&amp;width=2000 1600w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Worker_Jacket_Black_Ecom_03_copy.jpg?crop=region&amp;crop_height=4194&amp;crop_left=419&amp;crop_top=0&amp;crop_width=3355&amp;v=1637862481&amp;width=2400 1920w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Worker_Jacket_Black_Ecom_03_copy.jpg?crop=region&amp;crop_height=4194&amp;crop_left=419&amp;crop_top=0&amp;crop_width=3355&amp;v=1637862481&amp;width=3200 2560w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Worker_Jacket_Black_Ecom_03_copy.jpg?crop=region&amp;crop_height=4194&amp;crop_left=419&amp;crop_top=0&amp;crop_width=3355&amp;v=1637862481&amp;width=4000 3200w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Worker_Jacket_Black_Ecom_03_copy.jpg?crop=region&amp;crop_height=4194&amp;crop_left=419&amp;crop_top=0&amp;crop_width=3355&amp;v=1637862481&amp;width=5000 4000w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Worker_Jacket_Black_Ecom_03_copy.jpg?crop=region&amp;crop_height=4194&amp;crop_left=419&amp;crop_top=0&amp;crop_width=3355&amp;v=1637862481&amp;width=5242 4194w" class="theme-img"></div>
+</div><div class="product-block__image product-block__image--secondary product-block__image--inactivated" data-media-id="20213975056457" data-image-index="20"><div class="img-ar img-ar--cover" style="--aspect-ratio: 0.8">
+<img src="//salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Worker_Jacket_Black_Ecom_Detail_01_Crop.jpg?crop=region&amp;crop_height=2122&amp;crop_left=212&amp;crop_top=0&amp;crop_width=1697&amp;v=1637862481&amp;width=2122" alt="" width="1697" height="2122" loading="lazy" sizes="(min-width: 1480px) 493px, (min-width: 768px) 33vw, 50vw" srcset="//salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Worker_Jacket_Black_Ecom_Detail_01_Crop.jpg?crop=region&amp;crop_height=2122&amp;crop_left=212&amp;crop_top=0&amp;crop_width=1697&amp;v=1637862481&amp;width=425 340w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Worker_Jacket_Black_Ecom_Detail_01_Crop.jpg?crop=region&amp;crop_height=2122&amp;crop_left=212&amp;crop_top=0&amp;crop_width=1697&amp;v=1637862481&amp;width=600 480w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Worker_Jacket_Black_Ecom_Detail_01_Crop.jpg?crop=region&amp;crop_height=2122&amp;crop_left=212&amp;crop_top=0&amp;crop_width=1697&amp;v=1637862481&amp;width=925 740w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Worker_Jacket_Black_Ecom_Detail_01_Crop.jpg?crop=region&amp;crop_height=2122&amp;crop_left=212&amp;crop_top=0&amp;crop_width=1697&amp;v=1637862481&amp;width=1225 980w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Worker_Jacket_Black_Ecom_Detail_01_Crop.jpg?crop=region&amp;crop_height=2122&amp;crop_left=212&amp;crop_top=0&amp;crop_width=1697&amp;v=1637862481&amp;width=1500 1200w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Worker_Jacket_Black_Ecom_Detail_01_Crop.jpg?crop=region&amp;crop_height=2122&amp;crop_left=212&amp;crop_top=0&amp;crop_width=1697&amp;v=1637862481&amp;width=1750 1400w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Worker_Jacket_Black_Ecom_Detail_01_Crop.jpg?crop=region&amp;crop_height=2122&amp;crop_left=212&amp;crop_top=0&amp;crop_width=1697&amp;v=1637862481&amp;width=2000 1600w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Worker_Jacket_Black_Ecom_Detail_01_Crop.jpg?crop=region&amp;crop_height=2122&amp;crop_left=212&amp;crop_top=0&amp;crop_width=1697&amp;v=1637862481&amp;width=2400 1920w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Worker_Jacket_Black_Ecom_Detail_01_Crop.jpg?crop=region&amp;crop_height=2122&amp;crop_left=212&amp;crop_top=0&amp;crop_width=1697&amp;v=1637862481&amp;width=2652 2122w" class="theme-img"></div>
+</div><div class="product-block__image product-block__image--secondary product-block__image--inactivated" data-media-id="20213975089225" data-image-index="21"><div class="img-ar img-ar--cover" style="--aspect-ratio: 0.8">
+<img src="//salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_Worker_EcoStone_Model1LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1637862481&amp;width=2400" alt="" width="1920" height="2400" loading="lazy" sizes="(min-width: 1480px) 493px, (min-width: 768px) 33vw, 50vw" srcset="//salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_Worker_EcoStone_Model1LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1637862481&amp;width=425 340w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_Worker_EcoStone_Model1LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1637862481&amp;width=600 480w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_Worker_EcoStone_Model1LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1637862481&amp;width=925 740w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_Worker_EcoStone_Model1LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1637862481&amp;width=1225 980w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_Worker_EcoStone_Model1LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1637862481&amp;width=1500 1200w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_Worker_EcoStone_Model1LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1637862481&amp;width=1750 1400w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_Worker_EcoStone_Model1LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1637862481&amp;width=2000 1600w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_Worker_EcoStone_Model1LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1637862481&amp;width=2400 1920w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_Worker_EcoStone_Model1LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1637862481&amp;width=3000 2400w" class="theme-img"></div>
+</div><div class="product-block__image product-block__image--secondary product-block__image--inactivated" data-media-id="20213975121993" data-image-index="22"><div class="img-ar img-ar--cover" style="--aspect-ratio: 0.8">
+<img src="//salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_Worker_EcoStone_Flat1LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1637862481&amp;width=2400" alt="" width="1920" height="2400" loading="lazy" sizes="(min-width: 1480px) 493px, (min-width: 768px) 33vw, 50vw" srcset="//salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_Worker_EcoStone_Flat1LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1637862481&amp;width=425 340w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_Worker_EcoStone_Flat1LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1637862481&amp;width=600 480w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_Worker_EcoStone_Flat1LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1637862481&amp;width=925 740w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_Worker_EcoStone_Flat1LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1637862481&amp;width=1225 980w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_Worker_EcoStone_Flat1LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1637862481&amp;width=1500 1200w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_Worker_EcoStone_Flat1LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1637862481&amp;width=1750 1400w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_Worker_EcoStone_Flat1LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1637862481&amp;width=2000 1600w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_Worker_EcoStone_Flat1LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1637862481&amp;width=2400 1920w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_Worker_EcoStone_Flat1LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1637862481&amp;width=3000 2400w" class="theme-img"></div>
+</div><div class="product-block__image product-block__image--secondary product-block__image--inactivated" data-media-id="20213975154761" data-image-index="23"><div class="img-ar img-ar--cover" style="--aspect-ratio: 0.8">
+<img src="//salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_Worker_EcoStone_Model2LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1637862481&amp;width=2400" alt="" width="1920" height="2400" loading="lazy" sizes="(min-width: 1480px) 493px, (min-width: 768px) 33vw, 50vw" srcset="//salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_Worker_EcoStone_Model2LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1637862481&amp;width=425 340w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_Worker_EcoStone_Model2LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1637862481&amp;width=600 480w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_Worker_EcoStone_Model2LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1637862481&amp;width=925 740w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_Worker_EcoStone_Model2LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1637862481&amp;width=1225 980w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_Worker_EcoStone_Model2LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1637862481&amp;width=1500 1200w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_Worker_EcoStone_Model2LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1637862481&amp;width=1750 1400w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_Worker_EcoStone_Model2LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1637862481&amp;width=2000 1600w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_Worker_EcoStone_Model2LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1637862481&amp;width=2400 1920w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_Worker_EcoStone_Model2LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1637862481&amp;width=3000 2400w" class="theme-img"></div>
+</div><div class="product-block__image product-block__image--secondary product-block__image--inactivated" data-media-id="20213975187529" data-image-index="24"><div class="img-ar img-ar--cover" style="--aspect-ratio: 0.8">
+<img src="//salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_Worker_EcoStone_Flat2LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1637862481&amp;width=2400" alt="" width="1920" height="2400" loading="lazy" sizes="(min-width: 1480px) 493px, (min-width: 768px) 33vw, 50vw" srcset="//salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_Worker_EcoStone_Flat2LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1637862481&amp;width=425 340w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_Worker_EcoStone_Flat2LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1637862481&amp;width=600 480w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_Worker_EcoStone_Flat2LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1637862481&amp;width=925 740w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_Worker_EcoStone_Flat2LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1637862481&amp;width=1225 980w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_Worker_EcoStone_Flat2LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1637862481&amp;width=1500 1200w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_Worker_EcoStone_Flat2LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1637862481&amp;width=1750 1400w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_Worker_EcoStone_Flat2LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1637862481&amp;width=2000 1600w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_Worker_EcoStone_Flat2LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1637862481&amp;width=2400 1920w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_Worker_EcoStone_Flat2LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1637862481&amp;width=3000 2400w" class="theme-img"></div>
+</div><div class="product-block__image product-block__image--secondary product-block__image--inactivated" data-media-id="20213975220297" data-image-index="25"><div class="img-ar img-ar--cover" style="--aspect-ratio: 0.8">
+<img src="//salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_Worker_EcoStone_Flat4LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1637862481&amp;width=2400" alt="" width="1920" height="2400" loading="lazy" sizes="(min-width: 1480px) 493px, (min-width: 768px) 33vw, 50vw" srcset="//salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_Worker_EcoStone_Flat4LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1637862481&amp;width=425 340w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_Worker_EcoStone_Flat4LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1637862481&amp;width=600 480w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_Worker_EcoStone_Flat4LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1637862481&amp;width=925 740w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_Worker_EcoStone_Flat4LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1637862481&amp;width=1225 980w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_Worker_EcoStone_Flat4LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1637862481&amp;width=1500 1200w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_Worker_EcoStone_Flat4LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1637862481&amp;width=1750 1400w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_Worker_EcoStone_Flat4LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1637862481&amp;width=2000 1600w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_Worker_EcoStone_Flat4LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1637862481&amp;width=2400 1920w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_Worker_EcoStone_Flat4LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1637862481&amp;width=3000 2400w" class="theme-img"></div>
+</div><div class="product-block__image product-block__image--secondary product-block__image--inactivated" data-media-id="20213975253065" data-image-index="26"><div class="img-ar img-ar--cover" style="--aspect-ratio: 0.8">
+<img src="//salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_Worker_EcoStone_Flat3LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1637862481&amp;width=2400" alt="" width="1920" height="2400" loading="lazy" sizes="(min-width: 1480px) 493px, (min-width: 768px) 33vw, 50vw" srcset="//salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_Worker_EcoStone_Flat3LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1637862481&amp;width=425 340w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_Worker_EcoStone_Flat3LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1637862481&amp;width=600 480w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_Worker_EcoStone_Flat3LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1637862481&amp;width=925 740w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_Worker_EcoStone_Flat3LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1637862481&amp;width=1225 980w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_Worker_EcoStone_Flat3LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1637862481&amp;width=1500 1200w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_Worker_EcoStone_Flat3LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1637862481&amp;width=1750 1400w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_Worker_EcoStone_Flat3LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1637862481&amp;width=2000 1600w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_Worker_EcoStone_Flat3LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1637862481&amp;width=2400 1920w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_Worker_EcoStone_Flat3LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1637862481&amp;width=3000 2400w" class="theme-img"></div>
+</div></div><div class="product-block__image-dots" aria-hidden="true">
+                    <div class="product-block__image-dot product-block__image-dot--active"></div><div class="product-block__image-dot"></div><div class="product-block__image-dot product-block__image-dot--more"></div></div><div class="product-label-container"><span class="product-label product-label--new-in">
+      <span>New arrival</span>
+    </span></div></div>
+          </a><a class="image-page-button image-page-button--previous has-ltr-icon" href="#" aria-label="Previous" tabindex="-1"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round" class="icon feather feather-chevron-left" aria-hidden="true" focusable="false" role="presentation"><path d="m15 18-6-6 6-6"></path></svg></a>
+            <a class="image-page-button image-page-button--next has-ltr-icon" href="#" aria-label="Next" tabindex="-1"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round" class="icon feather feather-chevron-right" aria-hidden="true" focusable="false" role="presentation"><path d="m9 18 6-6-6-6"></path></svg></a><a class="btn btn--secondary quickbuy-toggle" href="/collections/denim/products/worker-jacket">Quick buy</a></div>
+      
+
+      <div class="product-block__detail align-ltr-left">
+        <div class="inner">
+          <div class="innerer">
+            <a class="product-link" href="/collections/denim/products/worker-jacket"><div class="product-block__title">Worker Jacket</div><div class="product-price product-price--block">
+<div class="price">
+  <div class="price__default">
+    <span class="price__current">
+      <span class="visually-hidden js-label">Regular price</span>
+      <span><span class="money">$165.00</span>
+</span>
+    </span>
+    </div>
+
+  
+    
+      <span class="price-label price-label--preorder">Pre-order</span>
+    
+  
+
+  
+</div>
+</div></a><div class="product-block-options product-block-options--swatch" data-option-name="Color">
+                      <div class="product-block-options__inner"><span class="product-block-options__item
+" data-option-item="Navy" data-media="20213974532169">
+                            <span class="product-block-options__item__text">Navy</span>
+                            
+<div class="img-ar img-ar--cover" style="--aspect-ratio: 1">
+<img src="//salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_WorkerJacket_Navy_Model_03.jpg?v=1637863344&amp;width=2400" alt="Worker Jacket" width="2400" height="2400" loading="lazy" sizes="36px" srcset="//salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_WorkerJacket_Navy_Model_03.jpg?v=1637863344&amp;width=45 36w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_WorkerJacket_Navy_Model_03.jpg?v=1637863344&amp;width=90 72w" class="theme-img" fetchpriority="low"></div>
+
+                          </span><span class="product-block-options__item
+" data-option-item="Green" data-media="20821658304585">
+                            <span class="product-block-options__item__text">Green</span>
+                            
+<div class="img-ar img-ar--cover" style="--aspect-ratio: 1">
+<img src="//salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_Worker_Green_Model1LR.jpg?v=1637863344&amp;width=2000" alt="Worker Jacket" width="2000" height="2000" loading="lazy" sizes="36px" srcset="//salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_Worker_Green_Model1LR.jpg?v=1637863344&amp;width=45 36w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_Worker_Green_Model1LR.jpg?v=1637863344&amp;width=90 72w" class="theme-img" fetchpriority="low"></div>
+
+                          </span><span class="product-block-options__item
+" data-option-item="Khaki" data-media="20213974630473">
+                            <span class="product-block-options__item__text">Khaki</span>
+                            
+<div class="img-ar img-ar--cover" style="--aspect-ratio: 1">
+<img src="//salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_WorkerJacket_Khaki_Model_02LR.jpg?v=1637862481&amp;width=2400" alt="Worker Jacket" width="2400" height="2400" loading="lazy" sizes="36px" srcset="//salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_WorkerJacket_Khaki_Model_02LR.jpg?v=1637862481&amp;width=45 36w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_WorkerJacket_Khaki_Model_02LR.jpg?v=1637862481&amp;width=90 72w" class="theme-img" fetchpriority="low"></div>
+
+                          </span><span class="product-block-options__item
+ product-block-options__item--truncated" data-option-item="Blue" data-media="20213974794313">
+                            <span class="product-block-options__item__text">Blue</span>
+                            
+<div class="img-ar img-ar--cover" style="--aspect-ratio: 1">
+<img src="//salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_WorkerJacket_blue_Model_02LR.jpg?v=1637862481&amp;width=2400" alt="Worker Jacket" width="2400" height="2400" loading="lazy" sizes="36px" srcset="//salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_WorkerJacket_blue_Model_02LR.jpg?v=1637862481&amp;width=45 36w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_WorkerJacket_blue_Model_02LR.jpg?v=1637862481&amp;width=90 72w" class="theme-img" fetchpriority="low"></div>
+
+                          </span><span class="product-block-options__item
+ product-block-options__item--truncated" data-option-item="Black" data-media="20213974958153">
+                            <span class="product-block-options__item__text">Black</span>
+                            
+<div class="img-ar img-ar--cover" style="--aspect-ratio: 1">
+<img src="//salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_WorkerJacket_back_Flat_02_lr.jpg?v=1637862481&amp;width=2400" alt="Worker Jacket" width="2400" height="2400" loading="lazy" sizes="36px" srcset="//salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_WorkerJacket_back_Flat_02_lr.jpg?v=1637862481&amp;width=45 36w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_WorkerJacket_back_Flat_02_lr.jpg?v=1637862481&amp;width=90 72w" class="theme-img" fetchpriority="low"></div>
+
+                          </span><span class="product-block-options__item
+ product-block-options__item--truncated" data-option-item="Denim" data-media="20213975089225">
+                            <span class="product-block-options__item__text">Denim</span>
+                            
+<div class="img-ar img-ar--cover" style="--aspect-ratio: 1">
+<img src="//salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_Worker_EcoStone_Model1LR.jpg?v=1637862481&amp;width=2400" alt="Worker Jacket" width="2400" height="2400" loading="lazy" sizes="36px" srcset="//salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_Worker_EcoStone_Model1LR.jpg?v=1637862481&amp;width=45 36w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_Worker_EcoStone_Model1LR.jpg?v=1637862481&amp;width=90 72w" class="theme-img" fetchpriority="low"></div>
+
+                          </span><span class="product-block-options__more-label">+ 3 more</span></div>
+                    </div><div class="product-block-options" data-option-name="Size">
+                      <div class="product-block-options__inner"><span class="product-block-options__item
+" data-option-item="S" data-media="20213974532169">
+                            <span class="product-block-options__item__text">S</span>
+                            
+                          </span><span class="product-block-options__item
+" data-option-item="M" data-media="20213974532169">
+                            <span class="product-block-options__item__text">M</span>
+                            
+                          </span><span class="product-block-options__item
+" data-option-item="L" data-media="20213974532169">
+                            <span class="product-block-options__item__text">L</span>
+                            
+                          </span><span class="product-block-options__item
+" data-option-item="XL" data-media="20213974532169">
+                            <span class="product-block-options__item__text">XL</span>
+                            
+                          </span><span class="product-block-options__item
+" data-option-item="XS" data-media="20213974532169">
+                            <span class="product-block-options__item__text">XS</span>
+                            
+                          </span></div>
+                    </div></div>
+        </div>
+      </div>
+    </div>
+  </div><div class="quickbuy-container use-color-scheme use-color-scheme--default js-quickbuy">
+        <a href="#" class="close-detail" aria-label="Close" tabindex="-1" aria-hidden="true"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" class="icon feather feather-x" aria-hidden="true" focusable="false" role="presentation"><path d="M18 6 6 18M6 6l12 12"></path></svg></a>
+        <div class="inner"></div>
+      </div></product-block>
+<product-block class="product-block" data-product-id="6537336094793">
+  <div class="block-inner cc-animate-init cc-animate-in" data-cc-animate="">
+    <div class="block-inner-inner">
+      
+<div class="image-cont image-cont--with-secondary-image image-cont--same-aspect-ratio">
+          <a class="product-link" href="/collections/denim/products/trucker-jacket-denim" aria-hidden="true" tabindex="-1">
+            <div class="image-label-wrap">
+              <div><div class="product-block__image product-block__image--primary product-block__image--active" data-media-id="20213958901833"><div class="img-ar img-ar--cover" style="--aspect-ratio: 0.8">
+<img src="//salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_Trucker_EcoStone_Model1LR.jpg?crop=region&amp;crop_height=2200&amp;crop_left=220&amp;crop_top=0&amp;crop_width=1760&amp;v=1614859530&amp;width=2200" alt="" width="1760" height="2200" loading="eager" sizes="(min-width: 1480px) 493px, (min-width: 768px) 33vw, 50vw" srcset="//salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_Trucker_EcoStone_Model1LR.jpg?crop=region&amp;crop_height=2200&amp;crop_left=220&amp;crop_top=0&amp;crop_width=1760&amp;v=1614859530&amp;width=425 340w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_Trucker_EcoStone_Model1LR.jpg?crop=region&amp;crop_height=2200&amp;crop_left=220&amp;crop_top=0&amp;crop_width=1760&amp;v=1614859530&amp;width=600 480w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_Trucker_EcoStone_Model1LR.jpg?crop=region&amp;crop_height=2200&amp;crop_left=220&amp;crop_top=0&amp;crop_width=1760&amp;v=1614859530&amp;width=925 740w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_Trucker_EcoStone_Model1LR.jpg?crop=region&amp;crop_height=2200&amp;crop_left=220&amp;crop_top=0&amp;crop_width=1760&amp;v=1614859530&amp;width=1225 980w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_Trucker_EcoStone_Model1LR.jpg?crop=region&amp;crop_height=2200&amp;crop_left=220&amp;crop_top=0&amp;crop_width=1760&amp;v=1614859530&amp;width=1500 1200w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_Trucker_EcoStone_Model1LR.jpg?crop=region&amp;crop_height=2200&amp;crop_left=220&amp;crop_top=0&amp;crop_width=1760&amp;v=1614859530&amp;width=1750 1400w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_Trucker_EcoStone_Model1LR.jpg?crop=region&amp;crop_height=2200&amp;crop_left=220&amp;crop_top=0&amp;crop_width=1760&amp;v=1614859530&amp;width=2000 1600w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_Trucker_EcoStone_Model1LR.jpg?crop=region&amp;crop_height=2200&amp;crop_left=220&amp;crop_top=0&amp;crop_width=1760&amp;v=1614859530&amp;width=2400 1920w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_Trucker_EcoStone_Model1LR.jpg?crop=region&amp;crop_height=2200&amp;crop_left=220&amp;crop_top=0&amp;crop_width=1760&amp;v=1614859530&amp;width=2750 2200w" class="theme-img"></div>
+</div><div class="product-block__image product-block__image--secondary product-block__image--show-on-hover" data-media-id="20213958934601" data-image-index="1"><div class="img-ar img-ar--cover" style="--aspect-ratio: 0.8">
+<img src="//salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_Trucker_EcoStone_Flat1LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1614859530&amp;width=2400" alt="" width="1920" height="2400" loading="lazy" sizes="(min-width: 1480px) 493px, (min-width: 768px) 33vw, 50vw" srcset="//salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_Trucker_EcoStone_Flat1LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1614859530&amp;width=425 340w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_Trucker_EcoStone_Flat1LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1614859530&amp;width=600 480w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_Trucker_EcoStone_Flat1LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1614859530&amp;width=925 740w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_Trucker_EcoStone_Flat1LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1614859530&amp;width=1225 980w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_Trucker_EcoStone_Flat1LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1614859530&amp;width=1500 1200w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_Trucker_EcoStone_Flat1LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1614859530&amp;width=1750 1400w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_Trucker_EcoStone_Flat1LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1614859530&amp;width=2000 1600w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_Trucker_EcoStone_Flat1LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1614859530&amp;width=2400 1920w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_Trucker_EcoStone_Flat1LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1614859530&amp;width=3000 2400w" class="theme-img"></div>
+</div><div class="product-block__image product-block__image--secondary product-block__image--inactivated" data-media-id="20213958967369" data-image-index="2"><div class="img-ar img-ar--cover" style="--aspect-ratio: 0.8">
+<img src="//salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_Trucker_EcoStone_Flat3LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1614859530&amp;width=2400" alt="" width="1920" height="2400" loading="lazy" sizes="(min-width: 1480px) 493px, (min-width: 768px) 33vw, 50vw" srcset="//salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_Trucker_EcoStone_Flat3LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1614859530&amp;width=425 340w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_Trucker_EcoStone_Flat3LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1614859530&amp;width=600 480w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_Trucker_EcoStone_Flat3LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1614859530&amp;width=925 740w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_Trucker_EcoStone_Flat3LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1614859530&amp;width=1225 980w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_Trucker_EcoStone_Flat3LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1614859530&amp;width=1500 1200w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_Trucker_EcoStone_Flat3LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1614859530&amp;width=1750 1400w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_Trucker_EcoStone_Flat3LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1614859530&amp;width=2000 1600w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_Trucker_EcoStone_Flat3LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1614859530&amp;width=2400 1920w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_Trucker_EcoStone_Flat3LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1614859530&amp;width=3000 2400w" class="theme-img"></div>
+</div><div class="product-block__image product-block__image--secondary product-block__image--inactivated" data-media-id="20213959000137" data-image-index="3"><div class="img-ar img-ar--cover" style="--aspect-ratio: 0.8">
+<img src="//salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_Trucker_EcoStone_Model2LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1614859530&amp;width=2400" alt="" width="1920" height="2400" loading="lazy" sizes="(min-width: 1480px) 493px, (min-width: 768px) 33vw, 50vw" srcset="//salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_Trucker_EcoStone_Model2LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1614859530&amp;width=425 340w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_Trucker_EcoStone_Model2LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1614859530&amp;width=600 480w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_Trucker_EcoStone_Model2LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1614859530&amp;width=925 740w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_Trucker_EcoStone_Model2LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1614859530&amp;width=1225 980w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_Trucker_EcoStone_Model2LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1614859530&amp;width=1500 1200w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_Trucker_EcoStone_Model2LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1614859530&amp;width=1750 1400w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_Trucker_EcoStone_Model2LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1614859530&amp;width=2000 1600w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_Trucker_EcoStone_Model2LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1614859530&amp;width=2400 1920w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_Trucker_EcoStone_Model2LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1614859530&amp;width=3000 2400w" class="theme-img"></div>
+</div><div class="product-block__image product-block__image--secondary product-block__image--inactivated" data-media-id="20213959032905" data-image-index="4"><div class="img-ar img-ar--cover" style="--aspect-ratio: 0.8">
+<img src="//salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_Trucker_EcoStone_Flat2LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1614859530&amp;width=2400" alt="" width="1920" height="2400" loading="lazy" sizes="(min-width: 1480px) 493px, (min-width: 768px) 33vw, 50vw" srcset="//salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_Trucker_EcoStone_Flat2LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1614859530&amp;width=425 340w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_Trucker_EcoStone_Flat2LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1614859530&amp;width=600 480w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_Trucker_EcoStone_Flat2LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1614859530&amp;width=925 740w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_Trucker_EcoStone_Flat2LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1614859530&amp;width=1225 980w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_Trucker_EcoStone_Flat2LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1614859530&amp;width=1500 1200w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_Trucker_EcoStone_Flat2LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1614859530&amp;width=1750 1400w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_Trucker_EcoStone_Flat2LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1614859530&amp;width=2000 1600w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_Trucker_EcoStone_Flat2LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1614859530&amp;width=2400 1920w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_Trucker_EcoStone_Flat2LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1614859530&amp;width=3000 2400w" class="theme-img"></div>
+</div><div class="product-block__image product-block__image--secondary product-block__image--inactivated" data-media-id="20213959065673" data-image-index="5"><div class="img-ar img-ar--cover" style="--aspect-ratio: 0.8">
+<img src="//salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_Trucker_EcoStone_Flat4LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1614859530&amp;width=2400" alt="" width="1920" height="2400" loading="lazy" sizes="(min-width: 1480px) 493px, (min-width: 768px) 33vw, 50vw" srcset="//salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_Trucker_EcoStone_Flat4LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1614859530&amp;width=425 340w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_Trucker_EcoStone_Flat4LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1614859530&amp;width=600 480w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_Trucker_EcoStone_Flat4LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1614859530&amp;width=925 740w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_Trucker_EcoStone_Flat4LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1614859530&amp;width=1225 980w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_Trucker_EcoStone_Flat4LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1614859530&amp;width=1500 1200w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_Trucker_EcoStone_Flat4LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1614859530&amp;width=1750 1400w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_Trucker_EcoStone_Flat4LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1614859530&amp;width=2000 1600w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_Trucker_EcoStone_Flat4LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1614859530&amp;width=2400 1920w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_Trucker_EcoStone_Flat4LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1614859530&amp;width=3000 2400w" class="theme-img"></div>
+</div></div><div class="product-block__image-dots" aria-hidden="true">
+                    <div class="product-block__image-dot product-block__image-dot--active"></div><div class="product-block__image-dot"></div><div class="product-block__image-dot product-block__image-dot--more"></div></div><div class="product-label-container"><span class="product-label product-label--new-in">
+      <span>New arrival</span>
+    </span></div></div>
+          </a><a class="image-page-button image-page-button--previous has-ltr-icon" href="#" aria-label="Previous" tabindex="-1"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round" class="icon feather feather-chevron-left" aria-hidden="true" focusable="false" role="presentation"><path d="m15 18-6-6 6-6"></path></svg></a>
+            <a class="image-page-button image-page-button--next has-ltr-icon" href="#" aria-label="Next" tabindex="-1"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round" class="icon feather feather-chevron-right" aria-hidden="true" focusable="false" role="presentation"><path d="m9 18 6-6-6-6"></path></svg></a><a class="btn btn--secondary quickbuy-toggle" href="/collections/denim/products/trucker-jacket-denim">Quick buy</a></div>
+      
+
+      <div class="product-block__detail align-ltr-left">
+        <div class="inner">
+          <div class="innerer">
+            <a class="product-link" href="/collections/denim/products/trucker-jacket-denim"><div class="product-block__title">Trucker Jacket Denim</div><div class="product-price product-price--block">
+<div class="price">
+  <div class="price__default">
+    <span class="price__current">
+      <span class="visually-hidden js-label">Regular price</span>
+      <span><span class="money">$170.00</span>
+</span>
+    </span>
+    </div>
+
+  
+    
+      <span class="price-label price-label--preorder">Pre-order</span>
+    
+  
+
+  
+</div>
+</div></a><div class="product-block-options" data-option-name="Size">
+                      <div class="product-block-options__inner"><span class="product-block-options__item
+" data-option-item="XS" data-media="20213958901833">
+                            <span class="product-block-options__item__text">XS</span>
+                            
+                          </span><span class="product-block-options__item
+" data-option-item="S" data-media="20213958901833">
+                            <span class="product-block-options__item__text">S</span>
+                            
+                          </span><span class="product-block-options__item
+" data-option-item="M" data-media="20213958901833">
+                            <span class="product-block-options__item__text">M</span>
+                            
+                          </span><span class="product-block-options__item
+" data-option-item="L" data-media="20213958901833">
+                            <span class="product-block-options__item__text">L</span>
+                            
+                          </span><span class="product-block-options__item
+" data-option-item="XL" data-media="20213958901833">
+                            <span class="product-block-options__item__text">XL</span>
+                            
+                          </span></div>
+                    </div></div>
+        </div>
+      </div>
+    </div>
+  </div><div class="quickbuy-container use-color-scheme use-color-scheme--default js-quickbuy">
+        <a href="#" class="close-detail" aria-label="Close" tabindex="-1" aria-hidden="true"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" class="icon feather feather-x" aria-hidden="true" focusable="false" role="presentation"><path d="M18 6 6 18M6 6l12 12"></path></svg></a>
+        <div class="inner"></div>
+      </div></product-block>
+<product-block class="product-block" data-product-id="6537336488009">
+  <div class="block-inner cc-animate-init cc-animate-in" data-cc-animate="">
+    <div class="block-inner-inner">
+      
+<div class="image-cont image-cont--with-secondary-image image-cont--same-aspect-ratio">
+          <a class="product-link" href="/collections/denim/products/denim-shirt" aria-hidden="true" tabindex="-1">
+            <div class="image-label-wrap">
+              <div><div class="product-block__image product-block__image--primary product-block__image--active" data-media-id="20213969813577"><div class="img-ar img-ar--cover" style="--aspect-ratio: 0.8">
+<img src="//salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_StraightJeans_EcoStone_Model1LR_353ea0ff-699b-47e8-bcf3-f5bb6f5b1888.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1617184612&amp;width=2400" alt="" width="1920" height="2400" loading="eager" sizes="(min-width: 1480px) 493px, (min-width: 768px) 33vw, 50vw" srcset="//salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_StraightJeans_EcoStone_Model1LR_353ea0ff-699b-47e8-bcf3-f5bb6f5b1888.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1617184612&amp;width=425 340w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_StraightJeans_EcoStone_Model1LR_353ea0ff-699b-47e8-bcf3-f5bb6f5b1888.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1617184612&amp;width=600 480w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_StraightJeans_EcoStone_Model1LR_353ea0ff-699b-47e8-bcf3-f5bb6f5b1888.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1617184612&amp;width=925 740w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_StraightJeans_EcoStone_Model1LR_353ea0ff-699b-47e8-bcf3-f5bb6f5b1888.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1617184612&amp;width=1225 980w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_StraightJeans_EcoStone_Model1LR_353ea0ff-699b-47e8-bcf3-f5bb6f5b1888.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1617184612&amp;width=1500 1200w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_StraightJeans_EcoStone_Model1LR_353ea0ff-699b-47e8-bcf3-f5bb6f5b1888.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1617184612&amp;width=1750 1400w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_StraightJeans_EcoStone_Model1LR_353ea0ff-699b-47e8-bcf3-f5bb6f5b1888.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1617184612&amp;width=2000 1600w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_StraightJeans_EcoStone_Model1LR_353ea0ff-699b-47e8-bcf3-f5bb6f5b1888.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1617184612&amp;width=2400 1920w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_StraightJeans_EcoStone_Model1LR_353ea0ff-699b-47e8-bcf3-f5bb6f5b1888.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1617184612&amp;width=3000 2400w" class="theme-img"></div>
+</div><div class="product-block__image product-block__image--secondary product-block__image--show-on-hover" data-media-id="20213969780809" data-image-index="1"><div class="img-ar img-ar--cover" style="--aspect-ratio: 0.8">
+<img src="//salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_Shirt_EcoStone_Flat2LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1617184612&amp;width=2400" alt="" width="1920" height="2400" loading="lazy" sizes="(min-width: 1480px) 493px, (min-width: 768px) 33vw, 50vw" srcset="//salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_Shirt_EcoStone_Flat2LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1617184612&amp;width=425 340w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_Shirt_EcoStone_Flat2LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1617184612&amp;width=600 480w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_Shirt_EcoStone_Flat2LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1617184612&amp;width=925 740w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_Shirt_EcoStone_Flat2LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1617184612&amp;width=1225 980w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_Shirt_EcoStone_Flat2LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1617184612&amp;width=1500 1200w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_Shirt_EcoStone_Flat2LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1617184612&amp;width=1750 1400w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_Shirt_EcoStone_Flat2LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1617184612&amp;width=2000 1600w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_Shirt_EcoStone_Flat2LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1617184612&amp;width=2400 1920w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_Shirt_EcoStone_Flat2LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1617184612&amp;width=3000 2400w" class="theme-img"></div>
+</div><div class="product-block__image product-block__image--secondary product-block__image--inactivated" data-media-id="20213969846345" data-image-index="2"><div class="img-ar img-ar--cover" style="--aspect-ratio: 0.8">
+<img src="//salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_StraightJeans_EcoStone_Model2LR_942f5cca-a9e-4d00-b098-2b163d54ec3c.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1710426692&amp;width=2400" alt="" width="1920" height="2400" loading="lazy" sizes="(min-width: 1480px) 493px, (min-width: 768px) 33vw, 50vw" srcset="//salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_StraightJeans_EcoStone_Model2LR_942f5cca-a9e-4d00-b098-2b163d54ec3c.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1710426692&amp;width=425 340w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_StraightJeans_EcoStone_Model2LR_942f5cca-a9e-4d00-b098-2b163d54ec3c.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1710426692&amp;width=600 480w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_StraightJeans_EcoStone_Model2LR_942f5cca-a9e-4d00-b098-2b163d54ec3c.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1710426692&amp;width=925 740w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_StraightJeans_EcoStone_Model2LR_942f5cca-a9e-4d00-b098-2b163d54ec3c.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1710426692&amp;width=1225 980w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_StraightJeans_EcoStone_Model2LR_942f5cca-a9e-4d00-b098-2b163d54ec3c.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1710426692&amp;width=1500 1200w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_StraightJeans_EcoStone_Model2LR_942f5cca-a9e-4d00-b098-2b163d54ec3c.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1710426692&amp;width=1750 1400w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_StraightJeans_EcoStone_Model2LR_942f5cca-a9e-4d00-b098-2b163d54ec3c.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1710426692&amp;width=2000 1600w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_StraightJeans_EcoStone_Model2LR_942f5cca-a9e-4d00-b098-2b163d54ec3c.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1710426692&amp;width=2400 1920w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_StraightJeans_EcoStone_Model2LR_942f5cca-a9e-4d00-b098-2b163d54ec3c.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1710426692&amp;width=3000 2400w" class="theme-img"></div>
+</div><div class="product-block__image product-block__image--secondary product-block__image--inactivated" data-media-id="20213969748041" data-image-index="3"><div class="img-ar img-ar--cover" style="--aspect-ratio: 0.8">
+<img src="//salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_Shirt_EcoStone_Flat1LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1617184612&amp;width=2400" alt="" width="1920" height="2400" loading="lazy" sizes="(min-width: 1480px) 493px, (min-width: 768px) 33vw, 50vw" srcset="//salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_Shirt_EcoStone_Flat1LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1617184612&amp;width=425 340w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_Shirt_EcoStone_Flat1LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1617184612&amp;width=600 480w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_Shirt_EcoStone_Flat1LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1617184612&amp;width=925 740w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_Shirt_EcoStone_Flat1LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1617184612&amp;width=1225 980w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_Shirt_EcoStone_Flat1LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1617184612&amp;width=1500 1200w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_Shirt_EcoStone_Flat1LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1617184612&amp;width=1750 1400w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_Shirt_EcoStone_Flat1LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1617184612&amp;width=2000 1600w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_Shirt_EcoStone_Flat1LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1617184612&amp;width=2400 1920w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_Shirt_EcoStone_Flat1LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1617184612&amp;width=3000 2400w" class="theme-img"></div>
+</div></div><div class="product-block__image-dots" aria-hidden="true">
+                    <div class="product-block__image-dot product-block__image-dot--active"></div><div class="product-block__image-dot"></div><div class="product-block__image-dot product-block__image-dot--more"></div></div><div class="product-label-container"><span class="product-label product-label--sale">
+      <span><span class="money">$11.00</span> off</span>
+    </span></div></div>
+          </a><a class="image-page-button image-page-button--previous has-ltr-icon" href="#" aria-label="Previous" tabindex="-1"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round" class="icon feather feather-chevron-left" aria-hidden="true" focusable="false" role="presentation"><path d="m15 18-6-6 6-6"></path></svg></a>
+            <a class="image-page-button image-page-button--next has-ltr-icon" href="#" aria-label="Next" tabindex="-1"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round" class="icon feather feather-chevron-right" aria-hidden="true" focusable="false" role="presentation"><path d="m9 18 6-6-6-6"></path></svg></a><a class="btn btn--secondary quickbuy-toggle" href="/collections/denim/products/denim-shirt">Quick buy</a></div>
+      
+
+      <div class="product-block__detail align-ltr-left">
+        <div class="inner">
+          <div class="innerer">
+            <a class="product-link" href="/collections/denim/products/denim-shirt"><div class="product-block__title">Denim Shirt</div><div class="product-price product-price--block">
+<div class="price price--on-sale">
+  <div class="price__default">
+    <span class="price__current">
+      <span class="visually-hidden js-label">Sale price</span>
+      <span><span class="money">$99.00</span>
+</span>
+    </span>
+    <span class="price__was">
+        <span class="visually-hidden js-label">Regular price</span>
+        <span><span class="money">$110.00</span></span>
+      </span></div>
+
+  
+    
+      <span class="price-label price-label--sale">Sale</span>
+    
+  
+
+  
+</div>
+</div></a><div class="product-block-options" data-option-name="Size">
+                      <div class="product-block-options__inner"><span class="product-block-options__item
+" data-option-item="XS" data-media="20213969813577">
+                            <span class="product-block-options__item__text">XS</span>
+                            
+                          </span><span class="product-block-options__item
+" data-option-item="S" data-media="20213969813577">
+                            <span class="product-block-options__item__text">S</span>
+                            
+                          </span><span class="product-block-options__item product-block-options__item--unavailable
+" data-option-item="M" data-media="20213969813577">
+                            <span class="product-block-options__item__text">M</span>
+                            
+                          </span><span class="product-block-options__item
+" data-option-item="L" data-media="20213969813577">
+                            <span class="product-block-options__item__text">L</span>
+                            
+                          </span></div>
+                    </div></div>
+        </div>
+      </div>
+    </div>
+  </div><div class="quickbuy-container use-color-scheme use-color-scheme--default js-quickbuy">
+        <a href="#" class="close-detail" aria-label="Close" tabindex="-1" aria-hidden="true"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" class="icon feather feather-x" aria-hidden="true" focusable="false" role="presentation"><path d="M18 6 6 18M6 6l12 12"></path></svg></a>
+        <div class="inner"></div>
+      </div></product-block>
+<product-block class="product-block" data-product-id="6537335832649">
+  <div class="block-inner cc-animate-init cc-animate-in" data-cc-animate="">
+    <div class="block-inner-inner">
+      
+<div class="image-cont image-cont--with-secondary-image image-cont--same-aspect-ratio">
+          <a class="product-link" href="/collections/denim/products/straight-jeans" aria-hidden="true" tabindex="-1">
+            <div class="image-label-wrap">
+              <div><div class="product-block__image product-block__image--primary product-block__image--active" data-media-id="20213954248777"><div class="img-ar img-ar--cover" style="--aspect-ratio: 0.8">
+<img src="//salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_StraightJeans_EcoStone_Flat1LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1614859470&amp;width=2400" alt="" width="1920" height="2400" loading="lazy" sizes="(min-width: 1480px) 493px, (min-width: 768px) 33vw, 50vw" srcset="//salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_StraightJeans_EcoStone_Flat1LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1614859470&amp;width=425 340w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_StraightJeans_EcoStone_Flat1LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1614859470&amp;width=600 480w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_StraightJeans_EcoStone_Flat1LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1614859470&amp;width=925 740w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_StraightJeans_EcoStone_Flat1LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1614859470&amp;width=1225 980w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_StraightJeans_EcoStone_Flat1LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1614859470&amp;width=1500 1200w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_StraightJeans_EcoStone_Flat1LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1614859470&amp;width=1750 1400w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_StraightJeans_EcoStone_Flat1LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1614859470&amp;width=2000 1600w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_StraightJeans_EcoStone_Flat1LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1614859470&amp;width=2400 1920w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_StraightJeans_EcoStone_Flat1LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1614859470&amp;width=3000 2400w" class="theme-img"></div>
+</div><div class="product-block__image product-block__image--secondary product-block__image--show-on-hover" data-media-id="20213954281545" data-image-index="1"><div class="img-ar img-ar--cover" style="--aspect-ratio: 0.8">
+<img src="//salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_StraightJeans_EcoStone_Model1LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1614859470&amp;width=2400" alt="" width="1920" height="2400" loading="lazy" sizes="(min-width: 1480px) 493px, (min-width: 768px) 33vw, 50vw" srcset="//salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_StraightJeans_EcoStone_Model1LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1614859470&amp;width=425 340w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_StraightJeans_EcoStone_Model1LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1614859470&amp;width=600 480w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_StraightJeans_EcoStone_Model1LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1614859470&amp;width=925 740w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_StraightJeans_EcoStone_Model1LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1614859470&amp;width=1225 980w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_StraightJeans_EcoStone_Model1LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1614859470&amp;width=1500 1200w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_StraightJeans_EcoStone_Model1LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1614859470&amp;width=1750 1400w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_StraightJeans_EcoStone_Model1LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1614859470&amp;width=2000 1600w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_StraightJeans_EcoStone_Model1LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1614859470&amp;width=2400 1920w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_StraightJeans_EcoStone_Model1LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1614859470&amp;width=3000 2400w" class="theme-img"></div>
+</div><div class="product-block__image product-block__image--secondary product-block__image--inactivated" data-media-id="20213954314313" data-image-index="2"><div class="img-ar img-ar--cover" style="--aspect-ratio: 0.8">
+<img src="//salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_StraightJeans_EcoStone_Flat2LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1614859470&amp;width=2400" alt="" width="1920" height="2400" loading="lazy" sizes="(min-width: 1480px) 493px, (min-width: 768px) 33vw, 50vw" srcset="//salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_StraightJeans_EcoStone_Flat2LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1614859470&amp;width=425 340w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_StraightJeans_EcoStone_Flat2LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1614859470&amp;width=600 480w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_StraightJeans_EcoStone_Flat2LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1614859470&amp;width=925 740w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_StraightJeans_EcoStone_Flat2LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1614859470&amp;width=1225 980w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_StraightJeans_EcoStone_Flat2LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1614859470&amp;width=1500 1200w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_StraightJeans_EcoStone_Flat2LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1614859470&amp;width=1750 1400w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_StraightJeans_EcoStone_Flat2LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1614859470&amp;width=2000 1600w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_StraightJeans_EcoStone_Flat2LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1614859470&amp;width=2400 1920w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_StraightJeans_EcoStone_Flat2LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1614859470&amp;width=3000 2400w" class="theme-img"></div>
+</div><div class="product-block__image product-block__image--secondary product-block__image--inactivated" data-media-id="20213954347081" data-image-index="3"><div class="img-ar img-ar--cover" style="--aspect-ratio: 0.8">
+<img src="//salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_StraightJeans_EcoStone_Model2LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1614859470&amp;width=2400" alt="" width="1920" height="2400" loading="lazy" sizes="(min-width: 1480px) 493px, (min-width: 768px) 33vw, 50vw" srcset="//salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_StraightJeans_EcoStone_Model2LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1614859470&amp;width=425 340w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_StraightJeans_EcoStone_Model2LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1614859470&amp;width=600 480w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_StraightJeans_EcoStone_Model2LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1614859470&amp;width=925 740w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_StraightJeans_EcoStone_Model2LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1614859470&amp;width=1225 980w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_StraightJeans_EcoStone_Model2LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1614859470&amp;width=1500 1200w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_StraightJeans_EcoStone_Model2LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1614859470&amp;width=1750 1400w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_StraightJeans_EcoStone_Model2LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1614859470&amp;width=2000 1600w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_StraightJeans_EcoStone_Model2LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1614859470&amp;width=2400 1920w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_StraightJeans_EcoStone_Model2LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1614859470&amp;width=3000 2400w" class="theme-img"></div>
+</div><div class="product-block__image product-block__image--secondary product-block__image--inactivated" data-media-id="20213954379849" data-image-index="4"><div class="img-ar img-ar--cover" style="--aspect-ratio: 0.8">
+<img src="//salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_StraightJeans_EcoStone_Model3LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1614859470&amp;width=2400" alt="" width="1920" height="2400" loading="lazy" sizes="(min-width: 1480px) 493px, (min-width: 768px) 33vw, 50vw" srcset="//salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_StraightJeans_EcoStone_Model3LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1614859470&amp;width=425 340w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_StraightJeans_EcoStone_Model3LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1614859470&amp;width=600 480w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_StraightJeans_EcoStone_Model3LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1614859470&amp;width=925 740w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_StraightJeans_EcoStone_Model3LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1614859470&amp;width=1225 980w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_StraightJeans_EcoStone_Model3LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1614859470&amp;width=1500 1200w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_StraightJeans_EcoStone_Model3LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1614859470&amp;width=1750 1400w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_StraightJeans_EcoStone_Model3LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1614859470&amp;width=2000 1600w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_StraightJeans_EcoStone_Model3LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1614859470&amp;width=2400 1920w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_StraightJeans_EcoStone_Model3LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1614859470&amp;width=3000 2400w" class="theme-img"></div>
+</div><div class="product-block__image product-block__image--secondary product-block__image--inactivated" data-media-id="20213954412617" data-image-index="5"><div class="img-ar img-ar--cover" style="--aspect-ratio: 0.8">
+<img src="//salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_StraightJeans_EcoStone_Flat4LR.jpg?crop=region&amp;crop_height=2200&amp;crop_left=220&amp;crop_top=0&amp;crop_width=1760&amp;v=1614859470&amp;width=2200" alt="" width="1760" height="2200" loading="lazy" sizes="(min-width: 1480px) 493px, (min-width: 768px) 33vw, 50vw" srcset="//salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_StraightJeans_EcoStone_Flat4LR.jpg?crop=region&amp;crop_height=2200&amp;crop_left=220&amp;crop_top=0&amp;crop_width=1760&amp;v=1614859470&amp;width=425 340w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_StraightJeans_EcoStone_Flat4LR.jpg?crop=region&amp;crop_height=2200&amp;crop_left=220&amp;crop_top=0&amp;crop_width=1760&amp;v=1614859470&amp;width=600 480w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_StraightJeans_EcoStone_Flat4LR.jpg?crop=region&amp;crop_height=2200&amp;crop_left=220&amp;crop_top=0&amp;crop_width=1760&amp;v=1614859470&amp;width=925 740w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_StraightJeans_EcoStone_Flat4LR.jpg?crop=region&amp;crop_height=2200&amp;crop_left=220&amp;crop_top=0&amp;crop_width=1760&amp;v=1614859470&amp;width=1225 980w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_StraightJeans_EcoStone_Flat4LR.jpg?crop=region&amp;crop_height=2200&amp;crop_left=220&amp;crop_top=0&amp;crop_width=1760&amp;v=1614859470&amp;width=1500 1200w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_StraightJeans_EcoStone_Flat4LR.jpg?crop=region&amp;crop_height=2200&amp;crop_left=220&amp;crop_top=0&amp;crop_width=1760&amp;v=1614859470&amp;width=1750 1400w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_StraightJeans_EcoStone_Flat4LR.jpg?crop=region&amp;crop_height=2200&amp;crop_left=220&amp;crop_top=0&amp;crop_width=1760&amp;v=1614859470&amp;width=2000 1600w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_StraightJeans_EcoStone_Flat4LR.jpg?crop=region&amp;crop_height=2200&amp;crop_left=220&amp;crop_top=0&amp;crop_width=1760&amp;v=1614859470&amp;width=2400 1920w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_StraightJeans_EcoStone_Flat4LR.jpg?crop=region&amp;crop_height=2200&amp;crop_left=220&amp;crop_top=0&amp;crop_width=1760&amp;v=1614859470&amp;width=2750 2200w" class="theme-img"></div>
+</div><div class="product-block__image product-block__image--secondary product-block__image--inactivated" data-media-id="20213954445385" data-image-index="6"><div class="img-ar img-ar--cover" style="--aspect-ratio: 0.8">
+<img src="//salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_StraightJeans_EcoStone_Flat3LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1614859471&amp;width=2400" alt="" width="1920" height="2400" loading="lazy" sizes="(min-width: 1480px) 493px, (min-width: 768px) 33vw, 50vw" srcset="//salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_StraightJeans_EcoStone_Flat3LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1614859471&amp;width=425 340w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_StraightJeans_EcoStone_Flat3LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1614859471&amp;width=600 480w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_StraightJeans_EcoStone_Flat3LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1614859471&amp;width=925 740w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_StraightJeans_EcoStone_Flat3LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1614859471&amp;width=1225 980w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_StraightJeans_EcoStone_Flat3LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1614859471&amp;width=1500 1200w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_StraightJeans_EcoStone_Flat3LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1614859471&amp;width=1750 1400w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_StraightJeans_EcoStone_Flat3LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1614859471&amp;width=2000 1600w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_StraightJeans_EcoStone_Flat3LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1614859471&amp;width=2400 1920w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_StraightJeans_EcoStone_Flat3LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1614859471&amp;width=3000 2400w" class="theme-img"></div>
+</div><div class="product-block__image product-block__image--secondary product-block__image--inactivated" data-media-id="20213954478153" data-image-index="7"><div class="img-ar img-ar--cover" style="--aspect-ratio: 0.8">
+<img src="//salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_StraightJeans_EcoStone_Flat5LR.jpg?crop=region&amp;crop_height=2200&amp;crop_left=220&amp;crop_top=0&amp;crop_width=1760&amp;v=1614859471&amp;width=2200" alt="" width="1760" height="2200" loading="lazy" sizes="(min-width: 1480px) 493px, (min-width: 768px) 33vw, 50vw" srcset="//salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_StraightJeans_EcoStone_Flat5LR.jpg?crop=region&amp;crop_height=2200&amp;crop_left=220&amp;crop_top=0&amp;crop_width=1760&amp;v=1614859471&amp;width=425 340w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_StraightJeans_EcoStone_Flat5LR.jpg?crop=region&amp;crop_height=2200&amp;crop_left=220&amp;crop_top=0&amp;crop_width=1760&amp;v=1614859471&amp;width=600 480w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_StraightJeans_EcoStone_Flat5LR.jpg?crop=region&amp;crop_height=2200&amp;crop_left=220&amp;crop_top=0&amp;crop_width=1760&amp;v=1614859471&amp;width=925 740w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_StraightJeans_EcoStone_Flat5LR.jpg?crop=region&amp;crop_height=2200&amp;crop_left=220&amp;crop_top=0&amp;crop_width=1760&amp;v=1614859471&amp;width=1225 980w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_StraightJeans_EcoStone_Flat5LR.jpg?crop=region&amp;crop_height=2200&amp;crop_left=220&amp;crop_top=0&amp;crop_width=1760&amp;v=1614859471&amp;width=1500 1200w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_StraightJeans_EcoStone_Flat5LR.jpg?crop=region&amp;crop_height=2200&amp;crop_left=220&amp;crop_top=0&amp;crop_width=1760&amp;v=1614859471&amp;width=1750 1400w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_StraightJeans_EcoStone_Flat5LR.jpg?crop=region&amp;crop_height=2200&amp;crop_left=220&amp;crop_top=0&amp;crop_width=1760&amp;v=1614859471&amp;width=2000 1600w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_StraightJeans_EcoStone_Flat5LR.jpg?crop=region&amp;crop_height=2200&amp;crop_left=220&amp;crop_top=0&amp;crop_width=1760&amp;v=1614859471&amp;width=2400 1920w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_StraightJeans_EcoStone_Flat5LR.jpg?crop=region&amp;crop_height=2200&amp;crop_left=220&amp;crop_top=0&amp;crop_width=1760&amp;v=1614859471&amp;width=2750 2200w" class="theme-img"></div>
+</div><div class="product-block__image product-block__image--secondary product-block__image--inactivated" data-media-id="20213954510921" data-image-index="8"><div class="img-ar img-ar--cover" style="--aspect-ratio: 0.8">
+<img src="//salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_OxfordGW_lightblue_ModelAv01LR_e5205eac-e1d6-4946-8698-29f018a4ed32.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1614859471&amp;width=2400" alt="" width="1920" height="2400" loading="lazy" sizes="(min-width: 1480px) 493px, (min-width: 768px) 33vw, 50vw" srcset="//salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_OxfordGW_lightblue_ModelAv01LR_e5205eac-e1d6-4946-8698-29f018a4ed32.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1614859471&amp;width=425 340w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_OxfordGW_lightblue_ModelAv01LR_e5205eac-e1d6-4946-8698-29f018a4ed32.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1614859471&amp;width=600 480w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_OxfordGW_lightblue_ModelAv01LR_e5205eac-e1d6-4946-8698-29f018a4ed32.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1614859471&amp;width=925 740w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_OxfordGW_lightblue_ModelAv01LR_e5205eac-e1d6-4946-8698-29f018a4ed32.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1614859471&amp;width=1225 980w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_OxfordGW_lightblue_ModelAv01LR_e5205eac-e1d6-4946-8698-29f018a4ed32.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1614859471&amp;width=1500 1200w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_OxfordGW_lightblue_ModelAv01LR_e5205eac-e1d6-4946-8698-29f018a4ed32.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1614859471&amp;width=1750 1400w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_OxfordGW_lightblue_ModelAv01LR_e5205eac-e1d6-4946-8698-29f018a4ed32.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1614859471&amp;width=2000 1600w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_OxfordGW_lightblue_ModelAv01LR_e5205eac-e1d6-4946-8698-29f018a4ed32.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1614859471&amp;width=2400 1920w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_OxfordGW_lightblue_ModelAv01LR_e5205eac-e1d6-4946-8698-29f018a4ed32.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1614859471&amp;width=3000 2400w" class="theme-img"></div>
+</div></div><div class="product-block__image-dots" aria-hidden="true">
+                    <div class="product-block__image-dot product-block__image-dot--active"></div><div class="product-block__image-dot"></div><div class="product-block__image-dot product-block__image-dot--more"></div></div></div>
+          </a><a class="image-page-button image-page-button--previous has-ltr-icon" href="#" aria-label="Previous" tabindex="-1"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round" class="icon feather feather-chevron-left" aria-hidden="true" focusable="false" role="presentation"><path d="m15 18-6-6 6-6"></path></svg></a>
+            <a class="image-page-button image-page-button--next has-ltr-icon" href="#" aria-label="Next" tabindex="-1"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round" class="icon feather feather-chevron-right" aria-hidden="true" focusable="false" role="presentation"><path d="m9 18 6-6-6-6"></path></svg></a><a class="btn btn--secondary quickbuy-toggle" href="/collections/denim/products/straight-jeans">Quick buy</a></div>
+      
+
+      <div class="product-block__detail align-ltr-left">
+        <div class="inner">
+          <div class="innerer">
+            <a class="product-link" href="/collections/denim/products/straight-jeans"><div class="product-block__title">Straight Jeans</div><div class="product-price product-price--block">
+<div class="price price--sold-out">
+  <div class="price__default">
+    <span class="price__current">
+      <span class="visually-hidden js-label">Regular price</span>
+      <span><span class="money">$125.00</span>
+</span>
+    </span>
+    </div>
+
+  
+    
+      <span class="price-label price-label--sold-out">Sold out</span>
+    
+  
+
+  
+</div>
+</div></a><div class="product-block-options" data-option-name="Size">
+                      <div class="product-block-options__inner"><span class="product-block-options__item product-block-options__item--unavailable
+" data-option-item="28" data-media="20213954281545">
+                            <span class="product-block-options__item__text">28</span>
+                            
+                          </span><span class="product-block-options__item product-block-options__item--unavailable
+" data-option-item="30" data-media="20213954281545">
+                            <span class="product-block-options__item__text">30</span>
+                            
+                          </span><span class="product-block-options__item product-block-options__item--unavailable
+" data-option-item="32" data-media="20213954281545">
+                            <span class="product-block-options__item__text">32</span>
+                            
+                          </span><span class="product-block-options__item product-block-options__item--unavailable
+" data-option-item="34" data-media="20213954281545">
+                            <span class="product-block-options__item__text">34</span>
+                            
+                          </span><span class="product-block-options__item product-block-options__item--unavailable
+" data-option-item="36" data-media="20213954281545">
+                            <span class="product-block-options__item__text">36</span>
+                            
+                          </span></div>
+                    </div></div>
+        </div>
+      </div>
+    </div>
+  </div><div class="quickbuy-container use-color-scheme use-color-scheme--default js-quickbuy">
+        <a href="#" class="close-detail" aria-label="Close" tabindex="-1" aria-hidden="true"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" class="icon feather feather-x" aria-hidden="true" focusable="false" role="presentation"><path d="M18 6 6 18M6 6l12 12"></path></svg></a>
+        <div class="inner"></div>
+      </div></product-block>
+<product-block class="product-block" data-product-id="6537335734345">
+  <div class="block-inner cc-animate-init cc-animate-in" data-cc-animate="">
+    <div class="block-inner-inner">
+      
+<div class="image-cont image-cont--with-secondary-image image-cont--same-aspect-ratio">
+          <a class="product-link" href="/collections/denim/products/denim-tote-bag" aria-hidden="true" tabindex="-1">
+            <div class="image-label-wrap">
+              <div><div class="product-block__image product-block__image--primary product-block__image--active" data-media-id="20213952741449"><div class="img-ar img-ar--cover" style="--aspect-ratio: 0.8">
+<img src="//salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_ToteBag_Flat1LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1614859452&amp;width=2400" alt="" width="1920" height="2400" loading="lazy" sizes="(min-width: 1480px) 493px, (min-width: 768px) 33vw, 50vw" srcset="//salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_ToteBag_Flat1LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1614859452&amp;width=425 340w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_ToteBag_Flat1LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1614859452&amp;width=600 480w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_ToteBag_Flat1LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1614859452&amp;width=925 740w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_ToteBag_Flat1LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1614859452&amp;width=1225 980w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_ToteBag_Flat1LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1614859452&amp;width=1500 1200w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_ToteBag_Flat1LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1614859452&amp;width=1750 1400w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_ToteBag_Flat1LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1614859452&amp;width=2000 1600w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_ToteBag_Flat1LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1614859452&amp;width=2400 1920w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_ToteBag_Flat1LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1614859452&amp;width=3000 2400w" class="theme-img"></div>
+</div><div class="product-block__image product-block__image--secondary product-block__image--show-on-hover" data-media-id="20213952774217" data-image-index="1"><div class="img-ar img-ar--cover" style="--aspect-ratio: 0.8">
+<img src="//salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_ToteBag_Flat2LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1614859452&amp;width=2400" alt="" width="1920" height="2400" loading="lazy" sizes="(min-width: 1480px) 493px, (min-width: 768px) 33vw, 50vw" srcset="//salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_ToteBag_Flat2LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1614859452&amp;width=425 340w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_ToteBag_Flat2LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1614859452&amp;width=600 480w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_ToteBag_Flat2LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1614859452&amp;width=925 740w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_ToteBag_Flat2LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1614859452&amp;width=1225 980w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_ToteBag_Flat2LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1614859452&amp;width=1500 1200w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_ToteBag_Flat2LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1614859452&amp;width=1750 1400w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_ToteBag_Flat2LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1614859452&amp;width=2000 1600w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_ToteBag_Flat2LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1614859452&amp;width=2400 1920w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_ToteBag_Flat2LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1614859452&amp;width=3000 2400w" class="theme-img"></div>
+</div></div><div class="product-block__image-dots" aria-hidden="true">
+                    <div class="product-block__image-dot product-block__image-dot--active"></div><div class="product-block__image-dot"></div></div></div>
+          </a><a class="image-page-button image-page-button--previous has-ltr-icon" href="#" aria-label="Previous" tabindex="-1"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round" class="icon feather feather-chevron-left" aria-hidden="true" focusable="false" role="presentation"><path d="m15 18-6-6 6-6"></path></svg></a>
+            <a class="image-page-button image-page-button--next has-ltr-icon" href="#" aria-label="Next" tabindex="-1"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round" class="icon feather feather-chevron-right" aria-hidden="true" focusable="false" role="presentation"><path d="m9 18 6-6-6-6"></path></svg></a><a class="btn btn--secondary quickbuy-toggle" href="/collections/denim/products/denim-tote-bag">Quick buy</a></div>
+      
+
+      <div class="product-block__detail align-ltr-left">
+        <div class="inner">
+          <div class="innerer">
+            <a class="product-link" href="/collections/denim/products/denim-tote-bag"><div class="product-block__title">Denim Tote Bag</div><div class="product-price product-price--block">
+<div class="price price--sold-out">
+  <div class="price__default">
+    <span class="price__current">
+      <span class="visually-hidden js-label">Regular price</span>
+      <span><span class="money">$35.00</span>
+</span>
+    </span>
+    </div>
+
+  
+    
+      <span class="price-label price-label--sold-out">Sold out</span>
+    
+  
+
+  
+</div>
+</div></a></div>
+        </div>
+      </div>
+    </div>
+  </div><div class="quickbuy-container use-color-scheme use-color-scheme--default js-quickbuy">
+        <a href="#" class="close-detail" aria-label="Close" tabindex="-1" aria-hidden="true"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" class="icon feather feather-x" aria-hidden="true" focusable="false" role="presentation"><path d="M18 6 6 18M6 6l12 12"></path></svg></a>
+        <div class="inner"></div>
+      </div></product-block>
+<product-block class="product-block" data-product-id="6537335308361">
+  <div class="block-inner cc-animate-init cc-animate-in" data-cc-animate="">
+    <div class="block-inner-inner">
+      
+<div class="image-cont image-cont--with-secondary-image image-cont--same-aspect-ratio">
+          <a class="product-link" href="/collections/denim/products/cropped-jeans" aria-hidden="true" tabindex="-1">
+            <div class="image-label-wrap">
+              <div><div class="product-block__image product-block__image--primary product-block__image--active" data-media-id="20213943009353"><div class="img-ar img-ar--cover" style="--aspect-ratio: 0.8">
+<img src="//salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_CroppedJeans_EcoStone_FemaleModel1LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1614859352&amp;width=2400" alt="" width="1920" height="2400" loading="lazy" sizes="(min-width: 1480px) 493px, (min-width: 768px) 33vw, 50vw" srcset="//salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_CroppedJeans_EcoStone_FemaleModel1LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1614859352&amp;width=425 340w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_CroppedJeans_EcoStone_FemaleModel1LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1614859352&amp;width=600 480w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_CroppedJeans_EcoStone_FemaleModel1LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1614859352&amp;width=925 740w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_CroppedJeans_EcoStone_FemaleModel1LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1614859352&amp;width=1225 980w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_CroppedJeans_EcoStone_FemaleModel1LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1614859352&amp;width=1500 1200w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_CroppedJeans_EcoStone_FemaleModel1LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1614859352&amp;width=1750 1400w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_CroppedJeans_EcoStone_FemaleModel1LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1614859352&amp;width=2000 1600w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_CroppedJeans_EcoStone_FemaleModel1LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1614859352&amp;width=2400 1920w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_CroppedJeans_EcoStone_FemaleModel1LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1614859352&amp;width=3000 2400w" class="theme-img"></div>
+</div><div class="product-block__image product-block__image--secondary product-block__image--show-on-hover" data-media-id="20213943042121" data-image-index="1"><div class="img-ar img-ar--cover" style="--aspect-ratio: 0.8">
+<img src="//salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_CroppedJeans_EcoStone_Flat5LR.jpg?crop=region&amp;crop_height=2200&amp;crop_left=220&amp;crop_top=0&amp;crop_width=1760&amp;v=1614859352&amp;width=2200" alt="" width="1760" height="2200" loading="lazy" sizes="(min-width: 1480px) 493px, (min-width: 768px) 33vw, 50vw" srcset="//salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_CroppedJeans_EcoStone_Flat5LR.jpg?crop=region&amp;crop_height=2200&amp;crop_left=220&amp;crop_top=0&amp;crop_width=1760&amp;v=1614859352&amp;width=425 340w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_CroppedJeans_EcoStone_Flat5LR.jpg?crop=region&amp;crop_height=2200&amp;crop_left=220&amp;crop_top=0&amp;crop_width=1760&amp;v=1614859352&amp;width=600 480w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_CroppedJeans_EcoStone_Flat5LR.jpg?crop=region&amp;crop_height=2200&amp;crop_left=220&amp;crop_top=0&amp;crop_width=1760&amp;v=1614859352&amp;width=925 740w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_CroppedJeans_EcoStone_Flat5LR.jpg?crop=region&amp;crop_height=2200&amp;crop_left=220&amp;crop_top=0&amp;crop_width=1760&amp;v=1614859352&amp;width=1225 980w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_CroppedJeans_EcoStone_Flat5LR.jpg?crop=region&amp;crop_height=2200&amp;crop_left=220&amp;crop_top=0&amp;crop_width=1760&amp;v=1614859352&amp;width=1500 1200w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_CroppedJeans_EcoStone_Flat5LR.jpg?crop=region&amp;crop_height=2200&amp;crop_left=220&amp;crop_top=0&amp;crop_width=1760&amp;v=1614859352&amp;width=1750 1400w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_CroppedJeans_EcoStone_Flat5LR.jpg?crop=region&amp;crop_height=2200&amp;crop_left=220&amp;crop_top=0&amp;crop_width=1760&amp;v=1614859352&amp;width=2000 1600w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_CroppedJeans_EcoStone_Flat5LR.jpg?crop=region&amp;crop_height=2200&amp;crop_left=220&amp;crop_top=0&amp;crop_width=1760&amp;v=1614859352&amp;width=2400 1920w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_CroppedJeans_EcoStone_Flat5LR.jpg?crop=region&amp;crop_height=2200&amp;crop_left=220&amp;crop_top=0&amp;crop_width=1760&amp;v=1614859352&amp;width=2750 2200w" class="theme-img"></div>
+</div><div class="product-block__image product-block__image--secondary product-block__image--inactivated" data-media-id="20213943074889" data-image-index="2"><div class="img-ar img-ar--cover" style="--aspect-ratio: 0.8">
+<img src="//salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_CroppedJeans_EcoStone_MaleModel1LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1614859352&amp;width=2400" alt="" width="1920" height="2400" loading="lazy" sizes="(min-width: 1480px) 493px, (min-width: 768px) 33vw, 50vw" srcset="//salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_CroppedJeans_EcoStone_MaleModel1LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1614859352&amp;width=425 340w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_CroppedJeans_EcoStone_MaleModel1LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1614859352&amp;width=600 480w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_CroppedJeans_EcoStone_MaleModel1LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1614859352&amp;width=925 740w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_CroppedJeans_EcoStone_MaleModel1LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1614859352&amp;width=1225 980w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_CroppedJeans_EcoStone_MaleModel1LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1614859352&amp;width=1500 1200w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_CroppedJeans_EcoStone_MaleModel1LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1614859352&amp;width=1750 1400w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_CroppedJeans_EcoStone_MaleModel1LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1614859352&amp;width=2000 1600w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_CroppedJeans_EcoStone_MaleModel1LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1614859352&amp;width=2400 1920w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_CroppedJeans_EcoStone_MaleModel1LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1614859352&amp;width=3000 2400w" class="theme-img"></div>
+</div><div class="product-block__image product-block__image--secondary product-block__image--inactivated" data-media-id="20213943107657" data-image-index="3"><div class="img-ar img-ar--cover" style="--aspect-ratio: 0.8">
+<img src="//salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_CroppedJeans_EcoStone_Flat4LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1614859352&amp;width=2400" alt="" width="1920" height="2400" loading="lazy" sizes="(min-width: 1480px) 493px, (min-width: 768px) 33vw, 50vw" srcset="//salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_CroppedJeans_EcoStone_Flat4LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1614859352&amp;width=425 340w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_CroppedJeans_EcoStone_Flat4LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1614859352&amp;width=600 480w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_CroppedJeans_EcoStone_Flat4LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1614859352&amp;width=925 740w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_CroppedJeans_EcoStone_Flat4LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1614859352&amp;width=1225 980w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_CroppedJeans_EcoStone_Flat4LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1614859352&amp;width=1500 1200w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_CroppedJeans_EcoStone_Flat4LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1614859352&amp;width=1750 1400w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_CroppedJeans_EcoStone_Flat4LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1614859352&amp;width=2000 1600w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_CroppedJeans_EcoStone_Flat4LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1614859352&amp;width=2400 1920w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_CroppedJeans_EcoStone_Flat4LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1614859352&amp;width=3000 2400w" class="theme-img"></div>
+</div><div class="product-block__image product-block__image--secondary product-block__image--inactivated" data-media-id="20213943140425" data-image-index="4"><div class="img-ar img-ar--cover" style="--aspect-ratio: 0.8">
+<img src="//salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_CroppedJeans_EcoStone_Flat1LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1614859352&amp;width=2400" alt="" width="1920" height="2400" loading="lazy" sizes="(min-width: 1480px) 493px, (min-width: 768px) 33vw, 50vw" srcset="//salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_CroppedJeans_EcoStone_Flat1LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1614859352&amp;width=425 340w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_CroppedJeans_EcoStone_Flat1LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1614859352&amp;width=600 480w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_CroppedJeans_EcoStone_Flat1LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1614859352&amp;width=925 740w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_CroppedJeans_EcoStone_Flat1LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1614859352&amp;width=1225 980w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_CroppedJeans_EcoStone_Flat1LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1614859352&amp;width=1500 1200w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_CroppedJeans_EcoStone_Flat1LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1614859352&amp;width=1750 1400w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_CroppedJeans_EcoStone_Flat1LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1614859352&amp;width=2000 1600w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_CroppedJeans_EcoStone_Flat1LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1614859352&amp;width=2400 1920w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_CroppedJeans_EcoStone_Flat1LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1614859352&amp;width=3000 2400w" class="theme-img"></div>
+</div><div class="product-block__image product-block__image--secondary product-block__image--inactivated" data-media-id="20213943173193" data-image-index="5"><div class="img-ar img-ar--cover" style="--aspect-ratio: 0.8">
+<img src="//salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_CroppedJeans_EcoStone_Model2LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1614859352&amp;width=2400" alt="" width="1920" height="2400" loading="lazy" sizes="(min-width: 1480px) 493px, (min-width: 768px) 33vw, 50vw" srcset="//salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_CroppedJeans_EcoStone_Model2LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1614859352&amp;width=425 340w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_CroppedJeans_EcoStone_Model2LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1614859352&amp;width=600 480w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_CroppedJeans_EcoStone_Model2LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1614859352&amp;width=925 740w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_CroppedJeans_EcoStone_Model2LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1614859352&amp;width=1225 980w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_CroppedJeans_EcoStone_Model2LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1614859352&amp;width=1500 1200w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_CroppedJeans_EcoStone_Model2LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1614859352&amp;width=1750 1400w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_CroppedJeans_EcoStone_Model2LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1614859352&amp;width=2000 1600w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_CroppedJeans_EcoStone_Model2LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1614859352&amp;width=2400 1920w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_CroppedJeans_EcoStone_Model2LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1614859352&amp;width=3000 2400w" class="theme-img"></div>
+</div><div class="product-block__image product-block__image--secondary product-block__image--inactivated" data-media-id="20213943205961" data-image-index="6"><div class="img-ar img-ar--cover" style="--aspect-ratio: 0.8">
+<img src="//salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_CroppedJeans_EcoStone_Flat2LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1614859352&amp;width=2400" alt="" width="1920" height="2400" loading="lazy" sizes="(min-width: 1480px) 493px, (min-width: 768px) 33vw, 50vw" srcset="//salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_CroppedJeans_EcoStone_Flat2LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1614859352&amp;width=425 340w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_CroppedJeans_EcoStone_Flat2LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1614859352&amp;width=600 480w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_CroppedJeans_EcoStone_Flat2LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1614859352&amp;width=925 740w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_CroppedJeans_EcoStone_Flat2LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1614859352&amp;width=1225 980w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_CroppedJeans_EcoStone_Flat2LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1614859352&amp;width=1500 1200w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_CroppedJeans_EcoStone_Flat2LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1614859352&amp;width=1750 1400w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_CroppedJeans_EcoStone_Flat2LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1614859352&amp;width=2000 1600w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_CroppedJeans_EcoStone_Flat2LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1614859352&amp;width=2400 1920w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_CroppedJeans_EcoStone_Flat2LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1614859352&amp;width=3000 2400w" class="theme-img"></div>
+</div><div class="product-block__image product-block__image--secondary product-block__image--inactivated" data-media-id="20213943238729" data-image-index="7"><div class="img-ar img-ar--cover" style="--aspect-ratio: 0.8">
+<img src="//salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_CroppedJeans_EcoStone_Model3LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1614859352&amp;width=2400" alt="" width="1920" height="2400" loading="lazy" sizes="(min-width: 1480px) 493px, (min-width: 768px) 33vw, 50vw" srcset="//salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_CroppedJeans_EcoStone_Model3LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1614859352&amp;width=425 340w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_CroppedJeans_EcoStone_Model3LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1614859352&amp;width=600 480w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_CroppedJeans_EcoStone_Model3LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1614859352&amp;width=925 740w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_CroppedJeans_EcoStone_Model3LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1614859352&amp;width=1225 980w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_CroppedJeans_EcoStone_Model3LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1614859352&amp;width=1500 1200w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_CroppedJeans_EcoStone_Model3LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1614859352&amp;width=1750 1400w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_CroppedJeans_EcoStone_Model3LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1614859352&amp;width=2000 1600w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_CroppedJeans_EcoStone_Model3LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1614859352&amp;width=2400 1920w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_CroppedJeans_EcoStone_Model3LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1614859352&amp;width=3000 2400w" class="theme-img"></div>
+</div><div class="product-block__image product-block__image--secondary product-block__image--inactivated" data-media-id="20213943271497" data-image-index="8"><div class="img-ar img-ar--cover" style="--aspect-ratio: 0.8">
+<img src="//salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_CroppedJeans_EcoStone_Flat3LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1614859352&amp;width=2400" alt="" width="1920" height="2400" loading="lazy" sizes="(min-width: 1480px) 493px, (min-width: 768px) 33vw, 50vw" srcset="//salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_CroppedJeans_EcoStone_Flat3LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1614859352&amp;width=425 340w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_CroppedJeans_EcoStone_Flat3LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1614859352&amp;width=600 480w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_CroppedJeans_EcoStone_Flat3LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1614859352&amp;width=925 740w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_CroppedJeans_EcoStone_Flat3LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1614859352&amp;width=1225 980w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_CroppedJeans_EcoStone_Flat3LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1614859352&amp;width=1500 1200w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_CroppedJeans_EcoStone_Flat3LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1614859352&amp;width=1750 1400w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_CroppedJeans_EcoStone_Flat3LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1614859352&amp;width=2000 1600w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_CroppedJeans_EcoStone_Flat3LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1614859352&amp;width=2400 1920w, //salt-yard.myshopify.com/cdn/shop/products/Unrecorded_Ecom_CroppedJeans_EcoStone_Flat3LR.jpg?crop=region&amp;crop_height=2400&amp;crop_left=240&amp;crop_top=0&amp;crop_width=1920&amp;v=1614859352&amp;width=3000 2400w" class="theme-img"></div>
+</div></div><div class="product-block__image-dots" aria-hidden="true">
+                    <div class="product-block__image-dot product-block__image-dot--active"></div><div class="product-block__image-dot"></div><div class="product-block__image-dot product-block__image-dot--more"></div></div></div>
+          </a><a class="image-page-button image-page-button--previous has-ltr-icon" href="#" aria-label="Previous" tabindex="-1"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round" class="icon feather feather-chevron-left" aria-hidden="true" focusable="false" role="presentation"><path d="m15 18-6-6 6-6"></path></svg></a>
+            <a class="image-page-button image-page-button--next has-ltr-icon" href="#" aria-label="Next" tabindex="-1"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round" class="icon feather feather-chevron-right" aria-hidden="true" focusable="false" role="presentation"><path d="m9 18 6-6-6-6"></path></svg></a><a class="btn btn--secondary quickbuy-toggle" href="/collections/denim/products/cropped-jeans">Quick buy</a></div>
+      
+
+      <div class="product-block__detail align-ltr-left">
+        <div class="inner">
+          <div class="innerer">
+            <a class="product-link" href="/collections/denim/products/cropped-jeans"><div class="product-block__title">Cropped Jeans</div><div class="product-price product-price--block">
+<div class="price">
+  <div class="price__default">
+    <span class="price__current">
+      <span class="visually-hidden js-label">Regular price</span>
+      <span><span class="money">$125.00</span>
+</span>
+    </span>
+    </div>
+
+  
+    
+  
+
+  
+</div>
+</div></a><div class="product-block-options" data-option-name="Size">
+                      <div class="product-block-options__inner"><span class="product-block-options__item
+" data-option-item="28" data-media="20213943009353">
+                            <span class="product-block-options__item__text">28</span>
+                            
+                          </span><span class="product-block-options__item
+" data-option-item="30" data-media="20213943009353">
+                            <span class="product-block-options__item__text">30</span>
+                            
+                          </span><span class="product-block-options__item
+" data-option-item="32" data-media="20213943009353">
+                            <span class="product-block-options__item__text">32</span>
+                            
+                          </span><span class="product-block-options__item
+" data-option-item="34" data-media="20213943009353">
+                            <span class="product-block-options__item__text">34</span>
+                            
+                          </span><span class="product-block-options__item product-block-options__item--unavailable
+" data-option-item="36" data-media="20213943009353">
+                            <span class="product-block-options__item__text">36</span>
+                            
+                          </span><span class="product-block-options__item
+" data-option-item="38" data-media="20213943009353">
+                            <span class="product-block-options__item__text">38</span>
+                            
+                          </span></div>
+                    </div></div>
+        </div>
+      </div>
+    </div>
+  </div><div class="quickbuy-container use-color-scheme use-color-scheme--default js-quickbuy">
+        <a href="#" class="close-detail" aria-label="Close" tabindex="-1" aria-hidden="true"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" class="icon feather feather-x" aria-hidden="true" focusable="false" role="presentation"><path d="M18 6 6 18M6 6l12 12"></path></svg></a>
+        <div class="inner"></div>
+      </div></product-block>
+</div>
+        
+      </div>
+    </filter-container>
+  </div>
+
+  <div class="container pagination-row" data-ajax-container="">
+</div>
+
+  
+
+  
+    <div class="container container--reading-width fully-spaced-row">
+      <div class="rte cf"><meta charset="utf-8"><span data-mce-fragment="1">Unrecorded offers all year round, unisex apparel. We pay attention to detail, making sure every item is durable and finished to perfection. Our Denim Collection is made from 13 Oz. Candiani Denim (GOTS certified), made in Italy.</span></div>
+    </div>
+  
+</div>
+
+
+
+</div>
+
+    </div>
+```

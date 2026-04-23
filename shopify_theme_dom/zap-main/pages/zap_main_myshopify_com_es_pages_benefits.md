@@ -1,0 +1,333 @@
+# Shopify page scrape
+
+- URL: https://zap-main.myshopify.com/es/pages/benefits
+- Title: Benefits
+- Body classes: template-page template-page-features-benefits
+- Custom elements: burger-menu, cart-drawer, cart-drawer-items, cart-note, header-search, localization-form, predictive-search, product-card-small, shop-cart-sync, sticky-header
+- Headings: Infusión de miel y limón | Caja de luz | Caja de descubrimiento | Infusión de miel y limón | Caja de luz | Caja de descubrimiento | Subscribe to our Newsletter and Get 15% off your first order | Benefits | Delicious.Refreshing.Zero trade-offs. | Delicious.Refreshing.Zero trade-offs. | Sobre nosotros | productos | productos | Servicio al cliente | Servicio al cliente | información | información
+
+## 1. shopify-section-template--26223572320575__main
+
+- Tag: section
+- Classes: shopify-section page-section
+- Headings: Benefits
+
+```html
+<section id="shopify-section-template--26223572320575__main" class="shopify-section page-section"><link href="//zap-main.myshopify.com/cdn/shop/t/2/assets/section-main-page.css?v=165534704276754180541772782652" rel="stylesheet" type="text/css" media="all">
+<style data-shopify="">.section-template--26223572320575__main-padding {
+
+  padding-top: 4rem;
+
+
+
+  padding-bottom: 0;
+
+}
+
+@media screen and (min-width: 750px) { .section-template--26223572320575__main-padding {
+
+  padding-top: 5rem;
+
+
+
+  padding-bottom: 0;
+
+} }
+
+@media screen and (min-width: 1360px) { .section-template--26223572320575__main-padding {
+
+  padding-top: 8rem;
+
+
+
+  padding-bottom: 0;
+
+} }
+
+</style><div class="section-template--26223572320575__main-padding container page-width--narrow">
+  <div class="page-header">
+    <div class="page-header__inner">
+      <h1 class="main-page-title page-title title--page h2">Benefits</h1>
+    </div>
+  </div>
+  <div class="rte">
+    
+  </div>
+</div>
+
+
+</section>
+```
+
+## 2. shopify-section-template--26223572320575__benefits_6GP3NF
+
+- Tag: section
+- Classes: shopify-section benefits-section benefits-section--animated anim-active
+- Headings: Delicious.Refreshing.Zero trade-offs.
+
+```html
+<section id="shopify-section-template--26223572320575__benefits_6GP3NF" class="shopify-section benefits-section benefits-section--animated anim-active"><link href="//zap-main.myshopify.com/cdn/shop/t/2/assets/section-benefits.css?v=65345198522996060691772782642" rel="stylesheet" type="text/css" media="all">
+
+  <script src="//zap-main.myshopify.com/cdn/shop/t/2/assets/benefits.js?v=33423320789995172431774259989" defer="defer"></script>
+
+<style data-shopify="">.section-template--26223572320575__benefits_6GP3NF-padding {
+
+  padding-top: 5rem;
+
+
+
+  padding-bottom: 5rem;
+
+}
+
+@media screen and (min-width: 750px) { .section-template--26223572320575__benefits_6GP3NF-padding {
+
+  padding-top: 7.2rem;
+
+
+
+  padding-bottom: 7.2rem;
+
+} }
+
+@media screen and (min-width: 1360px) { .section-template--26223572320575__benefits_6GP3NF-padding {
+
+  padding-top: 10rem;
+
+
+
+  padding-bottom: 10rem;
+
+} }
+
+  #shopify-section-template--26223572320575__benefits_6GP3NF {
+
+  padding-top: 0;
+
+
+
+  padding-bottom: 0;
+
+}
+
+@media screen and (min-width: 750px) { #shopify-section-template--26223572320575__benefits_6GP3NF {
+
+  padding-top: 0;
+
+
+
+  padding-bottom: 0;
+
+} }
+
+@media screen and (min-width: 1360px) { #shopify-section-template--26223572320575__benefits_6GP3NF {
+
+  padding-top: 0;
+
+
+
+  padding-bottom: 0;
+
+
+} }
+
+</style><style data-shopify="">.section-template--26223572320575__benefits_6GP3NF-padding .benefits-grid {
+    --column-gap: 4rem;
+  }</style>
+
+
+  <style data-shopify="">
+    #shopify-section-template--26223572320575__benefits_6GP3NF [data-enable-header-animation] .benefits__title .word {
+      opacity: 0;
+      transform: translateY(20px);
+      display: inline-block;
+      white-space: nowrap;
+    }
+
+    #shopify-section-template--26223572320575__benefits_6GP3NF [data-enable-header-animation] .benefits__description {
+      opacity: 0;
+      transform: translateY(20px);
+    }
+
+    #shopify-section-template--26223572320575__benefits_6GP3NF.anim-active [data-enable-header-animation] .benefits__title .word {
+      animation: fadeInWord 0.4s cubic-bezier(0.5, 0, 0, 1) forwards;
+      animation-delay: calc(var(--heading-delay) + (var(--word-index) * 0.1s));
+    }
+
+    #shopify-section-template--26223572320575__benefits_6GP3NF.anim-active [data-enable-header-animation] .benefits__description {
+      animation: fadeInUp 0.4s cubic-bezier(0.5, 0, 0, 1) forwards;
+      animation-delay: var(--description-delay);
+    }
+  </style>
+
+
+<div class="benefits benefits--border-top benefits--border-bottom benefits--enable-animate color-background-1 background section-template--26223572320575__benefits_6GP3NF-padding" data-enable-header-animation="true" style="--heading-delay: 0s; --description-delay: 0.4s;">
+  <div class="container"><div class="benefits-header benefits-header--alignment-center"><h2 class="benefits__title h2"><span class="word" style="--word-index: 0">Delicious.</span><br><span class="word" style="--word-index: 1">Refreshing.</span><br><span class="word" style="--word-index: 2">Zero</span> <span class="word" style="--word-index: 3">trade-offs.</span></h2><p class="benefits__description body-normal">
+            Great taste meets real quality. Sip something that feels as good as it tastes.
+          </p></div>
+      <div class="benefits-grid benefits-grid--3">
+
+              <div class="benefit benefit--border-radius-circle" style="--benefit-delay: 0ms"><span class="benefit__title h3">
+                    5
+                  </span><span class="benefit__text body-normal">
+                    Calories
+                  </span></div>
+
+              
+
+
+              <div class="benefit benefit--border-radius-circle" style="--benefit-delay: 150ms"><span class="benefit__title h3">
+                    128mg
+                  </span><span class="benefit__text body-normal">
+                    Caffeine
+                  </span></div>
+
+              
+
+
+              <div class="benefit benefit--border-radius-circle" style="--benefit-delay: 300ms"><span class="benefit__title h3">
+                    0%
+                  </span><span class="benefit__text body-normal">
+                    Sugar
+                  </span></div>
+
+              
+</div>
+    
+  </div>
+</div>
+
+
+</section>
+```
+
+## 3. shopify-section-template--26223572320575__benefits_CrWrLL
+
+- Tag: section
+- Classes: shopify-section benefits-section benefits-section--animated anim-active
+- Headings: Delicious.Refreshing.Zero trade-offs.
+
+```html
+<section id="shopify-section-template--26223572320575__benefits_CrWrLL" class="shopify-section benefits-section benefits-section--animated anim-active"><link href="//zap-main.myshopify.com/cdn/shop/t/2/assets/section-benefits.css?v=65345198522996060691772782642" rel="stylesheet" type="text/css" media="all">
+
+  <script src="//zap-main.myshopify.com/cdn/shop/t/2/assets/benefits.js?v=33423320789995172431774259989" defer="defer"></script>
+
+<style data-shopify="">.section-template--26223572320575__benefits_CrWrLL-padding {
+
+  padding-top: 6.4rem;
+
+
+
+  padding-bottom: 6.4rem;
+
+}
+
+@media screen and (min-width: 750px) { .section-template--26223572320575__benefits_CrWrLL-padding {
+
+  padding-top: 8.8rem;
+
+
+
+  padding-bottom: 8.8rem;
+
+} }
+
+@media screen and (min-width: 1360px) { .section-template--26223572320575__benefits_CrWrLL-padding {
+
+  padding-top: 15rem;
+
+
+
+  padding-bottom: 15rem;
+
+} }
+
+  #shopify-section-template--26223572320575__benefits_CrWrLL {
+
+  padding-top: 0;
+
+
+
+  padding-bottom: 0;
+
+}
+
+@media screen and (min-width: 750px) { #shopify-section-template--26223572320575__benefits_CrWrLL {
+
+  padding-top: 0;
+
+
+
+  padding-bottom: 0;
+
+} }
+
+@media screen and (min-width: 1360px) { #shopify-section-template--26223572320575__benefits_CrWrLL {
+
+  padding-top: 0;
+
+
+
+  padding-bottom: 0;
+
+
+} }
+
+</style><style data-shopify="">.section-template--26223572320575__benefits_CrWrLL-padding .benefits-grid {
+    --column-gap: 12rem;
+  }</style>
+
+
+  <style data-shopify="">
+    #shopify-section-template--26223572320575__benefits_CrWrLL [data-enable-header-animation] .benefits__title .word {
+      opacity: 0;
+      transform: translateY(20px);
+      display: inline-block;
+      white-space: nowrap;
+    }
+
+    #shopify-section-template--26223572320575__benefits_CrWrLL [data-enable-header-animation] .benefits__description {
+      opacity: 0;
+      transform: translateY(20px);
+    }
+
+    #shopify-section-template--26223572320575__benefits_CrWrLL.anim-active [data-enable-header-animation] .benefits__title .word {
+      animation: fadeInWord 0.4s cubic-bezier(0.5, 0, 0, 1) forwards;
+      animation-delay: calc(var(--heading-delay) + (var(--word-index) * 0.1s));
+    }
+
+    #shopify-section-template--26223572320575__benefits_CrWrLL.anim-active [data-enable-header-animation] .benefits__description {
+      animation: fadeInUp 0.4s cubic-bezier(0.5, 0, 0, 1) forwards;
+      animation-delay: var(--description-delay);
+    }
+  </style>
+
+
+<div class="benefits   benefits--enable-animate color-background-4 background section-template--26223572320575__benefits_CrWrLL-padding" data-enable-header-animation="true" style="--heading-delay: 0s; --description-delay: 0.4s;">
+  <div class="container"><div class="benefits-header benefits-header--alignment-center"><h2 class="benefits__title h2"><span class="word" style="--word-index: 0">Delicious.</span><br><span class="word" style="--word-index: 1">Refreshing.</span><br><span class="word" style="--word-index: 2">Zero</span> <span class="word" style="--word-index: 3">trade-offs.</span></h2></div>
+      <div class="benefits-grid benefits-grid--2">
+
+              <div class="benefit benefit--border-radius-circle" style="--benefit-delay: 0ms"><span class="benefit__title h3">
+                    5
+                  </span><span class="benefit__text body-normal">
+                    Calories
+                  </span></div>
+
+              
+
+
+              <div class="benefit benefit--border-radius-circle" style="--benefit-delay: 150ms"><span class="benefit__title h3">
+                    128mg
+                  </span><span class="benefit__text body-normal">
+                    Caffeine
+                  </span></div>
+
+              
+</div>
+    
+  </div>
+</div>
+
+
+</section>
+```

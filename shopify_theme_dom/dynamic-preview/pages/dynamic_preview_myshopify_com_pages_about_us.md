@@ -1,0 +1,1120 @@
+# Shopify page scrape
+
+- URL: https://dynamic-preview.myshopify.com/pages/about-us
+- Title: About us – Dynamic
+- Body classes: 
+- Custom elements: announcement-bar, back-to-top, cart-contents, footer-section, localization-form, mobile-drawer, search-drawer, shop-cart-sync
+- Headings: Ellara Story | At Ellara, we are passionate about celebrating your natural beauty. Combining the finest ingredients with thoughtful science we craft skincare and beauty products | At Ellara, we believe that true beauty begins with care for your skin, your confidence and your natural glow. | Frequently asked questions | On Instagram | Newsletter | About Dynamic | Shop | Quick links | Customer Care
+
+## 1. shopify-section-template--27935319949478__main
+
+- Tag: div
+- Classes: shopify-section
+- Headings: Ellara Story
+
+```html
+<div id="shopify-section-template--27935319949478__main" class="shopify-section"><style data-shopify="">
+  .collection_list_wrapper-template--27935319949478__main {
+    padding-top: 0px;
+    padding-bottom: 40px;
+    margin: 0 10px;;
+
+  }
+
+
+
+  @media screen and (max-width: 640px) {
+    .collection_list_wrapper-template--27935319949478__main {
+      padding-top: 0px;
+      padding-bottom: 20px;
+    }
+  }
+</style>
+
+<link href="//dynamic-preview.myshopify.com/cdn/shop/t/18/assets/page-hero-banner.css?v=58205107822548130091771645050" rel="stylesheet" type="text/css" media="all">
+
+
+  <link href="//dynamic-preview.myshopify.com/cdn/shop/t/18/assets/page-breadcrumbs.css?v=10444629455867775861771645050" rel="stylesheet" type="text/css" media="all">
+
+<section class="page-hero  collection_list_wrapper-template--27935319949478__main" style="
+    --heading-color: #ffffff;
+    --subheading-color: #ffffff;
+    --breadcrumb-color: #fef9f2;
+    --radius: 10px;
+  ">
+  
+    <div class="page-hero__media">
+      
+        
+        <img src="//dynamic-preview.myshopify.com/cdn/shop/files/bg_4_5db49e08-8ac9-485e-9c4e-899d670eeb74.png?v=1769072819&amp;width=2000" alt="About us" srcset="//dynamic-preview.myshopify.com/cdn/shop/files/bg_4_5db49e08-8ac9-485e-9c4e-899d670eeb74.png?v=1769072819&amp;width=375 375w, //dynamic-preview.myshopify.com/cdn/shop/files/bg_4_5db49e08-8ac9-485e-9c4e-899d670eeb74.png?v=1769072819&amp;width=550 550w, //dynamic-preview.myshopify.com/cdn/shop/files/bg_4_5db49e08-8ac9-485e-9c4e-899d670eeb74.png?v=1769072819&amp;width=750 750w, //dynamic-preview.myshopify.com/cdn/shop/files/bg_4_5db49e08-8ac9-485e-9c4e-899d670eeb74.png?v=1769072819&amp;width=1100 1100w, //dynamic-preview.myshopify.com/cdn/shop/files/bg_4_5db49e08-8ac9-485e-9c4e-899d670eeb74.png?v=1769072819&amp;width=1500 1500w, //dynamic-preview.myshopify.com/cdn/shop/files/bg_4_5db49e08-8ac9-485e-9c4e-899d670eeb74.png?v=1769072819&amp;width=2000 2000w" width="2000" height="422" loading="lazy" sizes="100vw">
+      
+
+      <div class="page-hero__content">
+        
+          <h1 class="page-hero__title">Ellara Story</h1>
+          <div class="page-hero__subtitle"><p>Dedicated to enhancing your skin’s health and timeless beauty.</p></div>
+        
+
+        
+          <div class="page-hero__breadcrumb">
+            
+<div class="breadcrumbs_wrapper" role="navigation" aria-label="breadcrumbs">
+    <div class="container">
+      <ol class="breadcrumbs__list">
+        <li class="breadcrumbs__item">
+          <a class="breadcrumbs__link" href="/">Home</a>
+        </li>
+        <li class="separator" aria-hidden="true">|</li><li class="breadcrumbs__item">
+              <a class="breadcrumbs__link" href="/pages/about-us" aria-current="page">About us</a>
+            </li></ol>
+    </div>
+  </div>
+          </div>
+        
+      </div>
+    </div>
+
+  
+</section>
+
+
+</div>
+```
+
+## 2. shopify-section-template--27935319949478__style_image_with_text_GUYCmq
+
+- Tag: div
+- Classes: shopify-section
+- Headings: At Ellara, we are passionate about celebrating your natural beauty. Combining the finest ingredients with thoughtful science we craft skincare and beauty products
+
+```html
+<div id="shopify-section-template--27935319949478__style_image_with_text_GUYCmq" class="shopify-section"><link href="//dynamic-preview.myshopify.com/cdn/shop/t/18/assets/style-image-with-text.css?v=75306273135615732041771645050" rel="stylesheet" type="text/css" media="all">
+
+<style data-shopify="">
+  #shopify-section-template--27935319949478__style_image_with_text_GUYCmq  {
+      padding-top: 0px;
+      padding-bottom: 40px;
+  }
+  @media screen and (max-width: 640px) {
+      #shopify-section-template--27935319949478__style_image_with_text_GUYCmq  {
+      padding-top: 20px;
+      padding-bottom: 20px;
+      }
+  }
+</style>
+
+<div class="
+    custom-image-text-section
+    image-left
+    text-align-left
+    image-fixed
+    color-scheme-1
+  ">
+  <div class="page-width">
+    <h2 class="header-head"></h2>
+
+    <div class="image-text-wrapper">
+      <!-- Image Block -->
+      <div class="image-block">
+        
+          <img src="//dynamic-preview.myshopify.com/cdn/shop/files/1_14.png?v=1770803126&amp;width=900" alt="At Ellara, we are passionate about celebrating your natural beauty. Combining the finest ingredients with thoughtful science  we craft skincare and beauty products " srcset="//dynamic-preview.myshopify.com/cdn/shop/files/1_14.png?v=1770803126&amp;width=320 320w, //dynamic-preview.myshopify.com/cdn/shop/files/1_14.png?v=1770803126&amp;width=480 480w, //dynamic-preview.myshopify.com/cdn/shop/files/1_14.png?v=1770803126&amp;width=640 640w, //dynamic-preview.myshopify.com/cdn/shop/files/1_14.png?v=1770803126&amp;width=800 800w, //dynamic-preview.myshopify.com/cdn/shop/files/1_14.png?v=1770803126&amp;width=900 900w" width="900" height="518" loading="lazy">
+        
+      </div>
+
+      <!-- Text Block -->
+      <div class="text-block">
+        
+          <h2>At Ellara, we are passionate about celebrating your natural beauty. Combining the finest ingredients with thoughtful science  we craft skincare and beauty products </h2>
+        
+
+        
+          <p class="text"></p><p>Our journey began with a simple belief: beauty should never come at the cost of your skin or the planet. That’s why every Ellara product is thoughtfully crafted with skin-loving botanicals, cruelty-free testing</p><p></p>
+        
+
+        
+      </div>
+    </div>
+  </div>
+</div>
+
+
+</div>
+```
+
+## 3. shopify-section-template--27935319949478__style_image_with_text_hnjBcJ
+
+- Tag: div
+- Classes: shopify-section
+- Headings: At Ellara, we believe that true beauty begins with care for your skin, your confidence and your natural glow.
+
+```html
+<div id="shopify-section-template--27935319949478__style_image_with_text_hnjBcJ" class="shopify-section"><link href="//dynamic-preview.myshopify.com/cdn/shop/t/18/assets/style-image-with-text.css?v=75306273135615732041771645050" rel="stylesheet" type="text/css" media="all">
+
+<style data-shopify="">
+  #shopify-section-template--27935319949478__style_image_with_text_hnjBcJ  {
+      padding-top: 0px;
+      padding-bottom: 40px;
+  }
+  @media screen and (max-width: 640px) {
+      #shopify-section-template--27935319949478__style_image_with_text_hnjBcJ  {
+      padding-top: 20px;
+      padding-bottom: 20px;
+      }
+  }
+</style>
+
+<div class="
+    custom-image-text-section
+    image-right
+    text-align-left
+    image-fixed
+    color-scheme-1
+  ">
+  <div class="page-width">
+    <h2 class="header-head"></h2>
+
+    <div class="image-text-wrapper">
+      <!-- Image Block -->
+      <div class="image-block">
+        
+          <img src="//dynamic-preview.myshopify.com/cdn/shop/files/2_5.png?v=1770803125&amp;width=900" alt="At Ellara, we believe that true beauty begins with care for your skin, your confidence and your natural glow." srcset="//dynamic-preview.myshopify.com/cdn/shop/files/2_5.png?v=1770803125&amp;width=320 320w, //dynamic-preview.myshopify.com/cdn/shop/files/2_5.png?v=1770803125&amp;width=480 480w, //dynamic-preview.myshopify.com/cdn/shop/files/2_5.png?v=1770803125&amp;width=640 640w, //dynamic-preview.myshopify.com/cdn/shop/files/2_5.png?v=1770803125&amp;width=800 800w, //dynamic-preview.myshopify.com/cdn/shop/files/2_5.png?v=1770803125&amp;width=900 900w" width="900" height="518" loading="lazy">
+        
+      </div>
+
+      <!-- Text Block -->
+      <div class="text-block">
+        
+          <h2>At Ellara, we believe that true beauty begins with care for your skin, your confidence and your natural glow.</h2>
+        
+
+        
+          <p class="text"></p><p>Founded with a passion for enhancing everyday radiance, we combine the finest, ethically sourced ingredients with advanced, science-backed formulations to create skincare and beauty products that nourish, protect, and rejuvenate. Each product is thoughtfully crafted to transform daily routines.</p><p></p>
+        
+
+        
+      </div>
+    </div>
+  </div>
+</div>
+
+
+</div>
+```
+
+## 4. shopify-section-template--27935319949478__section_faq_PcKDgd
+
+- Tag: div
+- Classes: shopify-section
+- Headings: Frequently asked questions
+
+```html
+<div id="shopify-section-template--27935319949478__section_faq_PcKDgd" class="shopify-section"><link href="//dynamic-preview.myshopify.com/cdn/shop/t/18/assets/section-faq.css?v=76999566613359359721771645050" rel="stylesheet" type="text/css" media="all">
+
+<style>
+    #image-faq-template--27935319949478__section_faq_PcKDgd {
+    --section-bg: #fef9f2;
+    --faq-bg: #f0e1cb;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    background-color: var(--section-bg);
+  }
+</style>
+
+<section id="image-faq-template--27935319949478__section_faq_PcKDgd" class="image-faq-section image-left ">
+  <div class="page-width">
+    <div class="image-faq-wrapper">
+      <div class="image-faq-image">
+        
+          <img src="//dynamic-preview.myshopify.com/cdn/shop/files/a23195a64d05fd7909820c20aeb9514ba42dd7ae_2_1.png?v=1770963664&amp;width=900" alt="" srcset="//dynamic-preview.myshopify.com/cdn/shop/files/a23195a64d05fd7909820c20aeb9514ba42dd7ae_2_1.png?v=1770963664&amp;width=352 352w, //dynamic-preview.myshopify.com/cdn/shop/files/a23195a64d05fd7909820c20aeb9514ba42dd7ae_2_1.png?v=1770963664&amp;width=832 832w, //dynamic-preview.myshopify.com/cdn/shop/files/a23195a64d05fd7909820c20aeb9514ba42dd7ae_2_1.png?v=1770963664&amp;width=900 900w" width="900" height="1013" loading="lazy">
+        
+      </div>
+
+      <div class="image-faq-content">
+        
+          <div class="section-heading-block  section-heading-overlay  ">
+            
+              <span class="section-subtitle" style="color:#a39991;opacity: .4;">Top heading</span>
+            
+            <h2 class="section-heading" style="color:#331f17;">Frequently asked questions</h2>
+          </div>
+        
+
+        <div class="faq-list">
+          
+            <div class="faq-item faq-item-template--27935319949478__section_faq_PcKDgd" style="background-color:#ffffff;">
+              <button class="faq-question faq-question-template--27935319949478__section_faq_PcKDgd" type="button" style="color:#331f17;" id="faq-button-template--27935319949478__section_faq_PcKDgd-0" aria-controls="faq-panel-template--27935319949478__section_faq_PcKDgd-0" aria-expanded="false">
+                Are your products suitable for all skin types?
+                <span class="faq-arrow">
+                  <svg xmlns="http://www.w3.org/2000/svg" width="10" height="7" viewBox="0 0 10 7" fill="none">
+                    <path d="M9.99983 0.758194C10.0031 0.610397 9.96023 0.465259 9.87718 0.342958C9.79414 0.220657 9.67499 0.12727 9.53641 0.0757818C9.39783 0.0242934 9.24668 0.0172614 9.10392 0.0556632C8.96116 0.0940651 8.83397 0.175993 8.73993 0.290056L5.0115 4.64221L1.28438 0.290056C1.22639 0.211153 1.15277 0.145073 1.06806 0.0959555C0.983344 0.0468378 0.889377 0.0157403 0.792089 0.00460997C0.694802 -0.00652037 0.596285 0.00255653 0.502668 0.0312721C0.409052 0.0599877 0.322345 0.107723 0.248031 0.17149C0.173717 0.235256 0.113436 0.31368 0.0708342 0.401849C0.0282326 0.490018 0.00430489 0.586034 0.000529289 0.683883C-0.00324535 0.781733 0.0131674 0.879307 0.0488482 0.970497C0.0845299 1.06169 0.138654 1.14453 0.207833 1.21383L4.47113 6.19665C4.53791 6.2749 4.62079 6.33773 4.7142 6.38082C4.80761 6.42391 4.90929 6.44622 5.01216 6.44622C5.11503 6.44622 5.2167 6.42391 5.31011 6.38082C5.40352 6.33773 5.48649 6.2749 5.55326 6.19665L9.82066 1.21383C9.93247 1.08796 9.99587 0.926506 9.99983 0.758194Z" fill="#331F17"></path>
+                  </svg>
+                </span>
+              </button>
+
+              <div class="faq-answer-wrapper faq-answer-wrapper-template--27935319949478__section_faq_PcKDgd" id="faq-panel-template--27935319949478__section_faq_PcKDgd-0" role="region" aria-labelledby="faq-button-template--27935319949478__section_faq_PcKDgd-0" style="height: 0px; overflow: hidden; transition: height 300ms;">
+                <div class="faq-answer" style="color:#331f17;">
+                  <p>Yes, our products are thoughtfully formulated for all skin types.</p>
+                </div>
+              </div>
+            </div>
+          
+            <div class="faq-item faq-item-template--27935319949478__section_faq_PcKDgd" style="background-color:#ffffff;">
+              <button class="faq-question faq-question-template--27935319949478__section_faq_PcKDgd" type="button" style="color:#331f17;" id="faq-button-template--27935319949478__section_faq_PcKDgd-1" aria-controls="faq-panel-template--27935319949478__section_faq_PcKDgd-1" aria-expanded="false">
+                Are your products suitable for all skin types?
+                <span class="faq-arrow">
+                  <svg xmlns="http://www.w3.org/2000/svg" width="10" height="7" viewBox="0 0 10 7" fill="none">
+                    <path d="M9.99983 0.758194C10.0031 0.610397 9.96023 0.465259 9.87718 0.342958C9.79414 0.220657 9.67499 0.12727 9.53641 0.0757818C9.39783 0.0242934 9.24668 0.0172614 9.10392 0.0556632C8.96116 0.0940651 8.83397 0.175993 8.73993 0.290056L5.0115 4.64221L1.28438 0.290056C1.22639 0.211153 1.15277 0.145073 1.06806 0.0959555C0.983344 0.0468378 0.889377 0.0157403 0.792089 0.00460997C0.694802 -0.00652037 0.596285 0.00255653 0.502668 0.0312721C0.409052 0.0599877 0.322345 0.107723 0.248031 0.17149C0.173717 0.235256 0.113436 0.31368 0.0708342 0.401849C0.0282326 0.490018 0.00430489 0.586034 0.000529289 0.683883C-0.00324535 0.781733 0.0131674 0.879307 0.0488482 0.970497C0.0845299 1.06169 0.138654 1.14453 0.207833 1.21383L4.47113 6.19665C4.53791 6.2749 4.62079 6.33773 4.7142 6.38082C4.80761 6.42391 4.90929 6.44622 5.01216 6.44622C5.11503 6.44622 5.2167 6.42391 5.31011 6.38082C5.40352 6.33773 5.48649 6.2749 5.55326 6.19665L9.82066 1.21383C9.93247 1.08796 9.99587 0.926506 9.99983 0.758194Z" fill="#331F17"></path>
+                  </svg>
+                </span>
+              </button>
+
+              <div class="faq-answer-wrapper faq-answer-wrapper-template--27935319949478__section_faq_PcKDgd" id="faq-panel-template--27935319949478__section_faq_PcKDgd-1" role="region" aria-labelledby="faq-button-template--27935319949478__section_faq_PcKDgd-1" style="height: 0px; overflow: hidden; transition: height 300ms;">
+                <div class="faq-answer" style="color:#331f17;">
+                  <p>Yes, our products are thoughtfully formulated for all skin types.</p>
+                </div>
+              </div>
+            </div>
+          
+            <div class="faq-item faq-item-template--27935319949478__section_faq_PcKDgd" style="background-color:#ffffff;">
+              <button class="faq-question faq-question-template--27935319949478__section_faq_PcKDgd" type="button" style="color:#331f17;" id="faq-button-template--27935319949478__section_faq_PcKDgd-2" aria-controls="faq-panel-template--27935319949478__section_faq_PcKDgd-2" aria-expanded="false">
+                Are your products suitable for all skin types?
+                <span class="faq-arrow">
+                  <svg xmlns="http://www.w3.org/2000/svg" width="10" height="7" viewBox="0 0 10 7" fill="none">
+                    <path d="M9.99983 0.758194C10.0031 0.610397 9.96023 0.465259 9.87718 0.342958C9.79414 0.220657 9.67499 0.12727 9.53641 0.0757818C9.39783 0.0242934 9.24668 0.0172614 9.10392 0.0556632C8.96116 0.0940651 8.83397 0.175993 8.73993 0.290056L5.0115 4.64221L1.28438 0.290056C1.22639 0.211153 1.15277 0.145073 1.06806 0.0959555C0.983344 0.0468378 0.889377 0.0157403 0.792089 0.00460997C0.694802 -0.00652037 0.596285 0.00255653 0.502668 0.0312721C0.409052 0.0599877 0.322345 0.107723 0.248031 0.17149C0.173717 0.235256 0.113436 0.31368 0.0708342 0.401849C0.0282326 0.490018 0.00430489 0.586034 0.000529289 0.683883C-0.00324535 0.781733 0.0131674 0.879307 0.0488482 0.970497C0.0845299 1.06169 0.138654 1.14453 0.207833 1.21383L4.47113 6.19665C4.53791 6.2749 4.62079 6.33773 4.7142 6.38082C4.80761 6.42391 4.90929 6.44622 5.01216 6.44622C5.11503 6.44622 5.2167 6.42391 5.31011 6.38082C5.40352 6.33773 5.48649 6.2749 5.55326 6.19665L9.82066 1.21383C9.93247 1.08796 9.99587 0.926506 9.99983 0.758194Z" fill="#331F17"></path>
+                  </svg>
+                </span>
+              </button>
+
+              <div class="faq-answer-wrapper faq-answer-wrapper-template--27935319949478__section_faq_PcKDgd" id="faq-panel-template--27935319949478__section_faq_PcKDgd-2" role="region" aria-labelledby="faq-button-template--27935319949478__section_faq_PcKDgd-2" style="height: 0px; overflow: hidden; transition: height 300ms;">
+                <div class="faq-answer" style="color:#331f17;">
+                  <p>Yes, our products are thoughtfully formulated for all skin types.</p>
+                </div>
+              </div>
+            </div>
+          
+            <div class="faq-item faq-item-template--27935319949478__section_faq_PcKDgd" style="background-color:#ffffff;">
+              <button class="faq-question faq-question-template--27935319949478__section_faq_PcKDgd" type="button" style="color:#331f17;" id="faq-button-template--27935319949478__section_faq_PcKDgd-3" aria-controls="faq-panel-template--27935319949478__section_faq_PcKDgd-3" aria-expanded="false">
+                Are your products suitable for all skin types?
+                <span class="faq-arrow">
+                  <svg xmlns="http://www.w3.org/2000/svg" width="10" height="7" viewBox="0 0 10 7" fill="none">
+                    <path d="M9.99983 0.758194C10.0031 0.610397 9.96023 0.465259 9.87718 0.342958C9.79414 0.220657 9.67499 0.12727 9.53641 0.0757818C9.39783 0.0242934 9.24668 0.0172614 9.10392 0.0556632C8.96116 0.0940651 8.83397 0.175993 8.73993 0.290056L5.0115 4.64221L1.28438 0.290056C1.22639 0.211153 1.15277 0.145073 1.06806 0.0959555C0.983344 0.0468378 0.889377 0.0157403 0.792089 0.00460997C0.694802 -0.00652037 0.596285 0.00255653 0.502668 0.0312721C0.409052 0.0599877 0.322345 0.107723 0.248031 0.17149C0.173717 0.235256 0.113436 0.31368 0.0708342 0.401849C0.0282326 0.490018 0.00430489 0.586034 0.000529289 0.683883C-0.00324535 0.781733 0.0131674 0.879307 0.0488482 0.970497C0.0845299 1.06169 0.138654 1.14453 0.207833 1.21383L4.47113 6.19665C4.53791 6.2749 4.62079 6.33773 4.7142 6.38082C4.80761 6.42391 4.90929 6.44622 5.01216 6.44622C5.11503 6.44622 5.2167 6.42391 5.31011 6.38082C5.40352 6.33773 5.48649 6.2749 5.55326 6.19665L9.82066 1.21383C9.93247 1.08796 9.99587 0.926506 9.99983 0.758194Z" fill="#331F17"></path>
+                  </svg>
+                </span>
+              </button>
+
+              <div class="faq-answer-wrapper faq-answer-wrapper-template--27935319949478__section_faq_PcKDgd" id="faq-panel-template--27935319949478__section_faq_PcKDgd-3" role="region" aria-labelledby="faq-button-template--27935319949478__section_faq_PcKDgd-3" style="height: 0px; overflow: hidden; transition: height 300ms;">
+                <div class="faq-answer" style="color:#331f17;">
+                  <p>Yes, our products are thoughtfully formulated for all skin types.</p>
+                </div>
+              </div>
+            </div>
+          
+            <div class="faq-item faq-item-template--27935319949478__section_faq_PcKDgd" style="background-color:#ffffff;">
+              <button class="faq-question faq-question-template--27935319949478__section_faq_PcKDgd" type="button" style="color:#331f17;" id="faq-button-template--27935319949478__section_faq_PcKDgd-4" aria-controls="faq-panel-template--27935319949478__section_faq_PcKDgd-4" aria-expanded="false">
+                Are your products suitable for all skin types?
+                <span class="faq-arrow">
+                  <svg xmlns="http://www.w3.org/2000/svg" width="10" height="7" viewBox="0 0 10 7" fill="none">
+                    <path d="M9.99983 0.758194C10.0031 0.610397 9.96023 0.465259 9.87718 0.342958C9.79414 0.220657 9.67499 0.12727 9.53641 0.0757818C9.39783 0.0242934 9.24668 0.0172614 9.10392 0.0556632C8.96116 0.0940651 8.83397 0.175993 8.73993 0.290056L5.0115 4.64221L1.28438 0.290056C1.22639 0.211153 1.15277 0.145073 1.06806 0.0959555C0.983344 0.0468378 0.889377 0.0157403 0.792089 0.00460997C0.694802 -0.00652037 0.596285 0.00255653 0.502668 0.0312721C0.409052 0.0599877 0.322345 0.107723 0.248031 0.17149C0.173717 0.235256 0.113436 0.31368 0.0708342 0.401849C0.0282326 0.490018 0.00430489 0.586034 0.000529289 0.683883C-0.00324535 0.781733 0.0131674 0.879307 0.0488482 0.970497C0.0845299 1.06169 0.138654 1.14453 0.207833 1.21383L4.47113 6.19665C4.53791 6.2749 4.62079 6.33773 4.7142 6.38082C4.80761 6.42391 4.90929 6.44622 5.01216 6.44622C5.11503 6.44622 5.2167 6.42391 5.31011 6.38082C5.40352 6.33773 5.48649 6.2749 5.55326 6.19665L9.82066 1.21383C9.93247 1.08796 9.99587 0.926506 9.99983 0.758194Z" fill="#331F17"></path>
+                  </svg>
+                </span>
+              </button>
+
+              <div class="faq-answer-wrapper faq-answer-wrapper-template--27935319949478__section_faq_PcKDgd" id="faq-panel-template--27935319949478__section_faq_PcKDgd-4" role="region" aria-labelledby="faq-button-template--27935319949478__section_faq_PcKDgd-4" style="height: 0px; overflow: hidden; transition: height 300ms;">
+                <div class="faq-answer" style="color:#331f17;">
+                  <p>Yes, our products are thoughtfully formulated for all skin types.</p>
+                </div>
+              </div>
+            </div>
+          
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<script>
+document.querySelectorAll('.faq-item-template--27935319949478__section_faq_PcKDgd').forEach((item, index) => {
+  const btn = item.querySelector('.faq-question-template--27935319949478__section_faq_PcKDgd');
+  const wrapper = item.querySelector('.faq-answer-wrapper-template--27935319949478__section_faq_PcKDgd');
+
+  // Unique IDs for ARIA
+  const buttonId = btn.id || `faq-button-template--27935319949478__section_faq_PcKDgd-${index}`;
+  const panelId = wrapper.id || `faq-panel-template--27935319949478__section_faq_PcKDgd-${index}`;
+
+  btn.id = buttonId;
+  wrapper.id = panelId;
+
+  btn.setAttribute('aria-controls', panelId);
+  btn.setAttribute('aria-expanded', 'false');
+  wrapper.setAttribute('role', 'region');
+  wrapper.setAttribute('aria-labelledby', buttonId);
+
+  // Initial height
+  wrapper.style.height = '0px';
+  wrapper.style.overflow = 'hidden';
+  wrapper.style.transition = 'height 300ms ease';
+
+  // Click handler
+  btn.addEventListener('click', toggleAccordion);
+
+  // Keyboard (Enter + Space)
+  btn.addEventListener('keydown', (e) => {
+    if (e.key === 'Enter' || e.key === ' ') {
+      e.preventDefault();
+      toggleAccordion();
+    }
+  });
+
+  // Open accordion when focused via keyboard (Tab)
+  btn.addEventListener('focus', () => {
+    if (!item.classList.contains('active')) {
+      expand(wrapper, btn, item);
+    }
+  });
+
+  function toggleAccordion() {
+    const isOpen = item.classList.contains('active');
+
+    if (isOpen) {
+      collapse(wrapper, btn, item);
+    } else {
+      expand(wrapper, btn, item);
+    }
+  }
+
+  function expand(wrapper, btn, item) {
+    wrapper.style.height = wrapper.scrollHeight + 'px';
+    btn.setAttribute('aria-expanded', 'true');
+    item.classList.add('active');
+
+    // After transition, set height to auto for dynamic content
+    wrapper.addEventListener(
+      'transitionend',
+      () => {
+        if (item.classList.contains('active')) {
+          wrapper.style.height = 'auto';
+        }
+      },
+      { once: true }
+    );
+  }
+
+  function collapse(wrapper, btn, item) {
+    // Fix for smooth collapse from auto height
+    wrapper.style.height = wrapper.scrollHeight + 'px';
+    requestAnimationFrame(() => {
+      wrapper.style.height = '0px';
+    });
+    btn.setAttribute('aria-expanded', 'false');
+    item.classList.remove('active');
+  }
+});
+
+</script>
+
+
+
+</div>
+```
+
+## 5. shopify-section-template--27935319949478__image_gallery_a3gXAi
+
+- Tag: div
+- Classes: shopify-section
+- Headings: On Instagram
+
+```html
+<div id="shopify-section-template--27935319949478__image_gallery_a3gXAi" class="shopify-section"><style data-shopify="">
+  .section-template--27935319949478__image_gallery_a3gXAi-image-gallery .gallery_post_img_1, .gallery_post_img_2 , .gallery_post_img_1 img, .gallery_post_img_2 img, .image.gly_img {
+      border-radius: 10px;
+  }
+  .section-template--27935319949478__image_gallery_a3gXAi-image-gallery .gallery_post_img_1, .gallery_post_img_2, .image.gly_img {
+      position: relative;
+      background: #f0e1cb;
+  }
+  .section-template--27935319949478__image_gallery_a3gXAi-image-gallery .section-heading-block {
+      text-align: center;
+  }
+  .section-template--27935319949478__image_gallery_a3gXAi-image-gallery .image_gallery, .gallery_follow_btn {
+      text-align: center;
+  }
+  .section-template--27935319949478__image_gallery_a3gXAi-padding {
+      padding-top: 60.0px;
+      margin-right: 0px;
+      margin-left: 0px;
+      padding-bottom: 60.0px;
+  }
+  @media screen and (min-width: 1200px) {
+      .image_gallery_feeds {
+          display: flex;
+          gap: 20px;
+      }
+      .gallery_post_images {
+          display: flex;
+          flex-direction: column;
+          gap: 24px;
+          height: 100%;
+          width: calc(20% - 16px);
+      }
+  }
+  @media screen and (min-width: 787px) {
+      .section-template--27935319949478__image_gallery_a3gXAi-padding {
+          padding-top: 100px;
+          padding-bottom: 100px;
+      }
+  }
+   @media screen and (max-width: 787px) {
+      .section-template--27935319949478__image_gallery_a3gXAi-padding {
+          padding-top: 40px;
+          padding-bottom: 40px;
+      }
+   }
+</style>
+
+<link href="//dynamic-preview.myshopify.com/cdn/shop/t/18/assets/image-gallery.css?v=172404911478003057681771645050" rel="stylesheet" type="text/css" media="all">
+
+<div class="image_gallery_wrpr section-template--27935319949478__image_gallery_a3gXAi-padding color-scheme-1 section-template--27935319949478__image_gallery_a3gXAi-image-gallery">
+  <div class="page-width">
+    <div class="image_gallery_content_container">
+      <div class="image_gallery">
+        
+          <div class="section-heading-block  section-heading-overlay">
+            
+              <span class="section-subtitle">Connect with Us</span>
+            
+            <h2 class="section-heading">On Instagram</h2>
+          </div>
+        
+      </div>
+      <div class="image_gallery_feeds image_gallery_feeds--template--27935319949478__image_gallery_a3gXAi swiper swiper-initialized swiper-horizontal swiper-backface-hidden">
+        <div class="swiper-wrapper" id="swiper-wrapper-3a3b84265e710d452" aria-live="polite">
+          
+            <div class="gallery_post_images swiper-slide swiper-slide-active" role="group" aria-label="1 / 10" style="width: 460px; margin-right: 20px;">
+              <div class="gallery_post_img_1 ">
+                
+                
+                  
+
+
+
+<div class="image gly_img">
+  <img src="//dynamic-preview.myshopify.com/cdn/shop/files/f85013edb31a11e0b0d9f42cdba240a948a35be7_0ea7288c-5271-4b21-9cc6-2a896c286f5a.webp?v=1767791724&amp;width=1500" alt="" srcset="//dynamic-preview.myshopify.com/cdn/shop/files/f85013edb31a11e0b0d9f42cdba240a948a35be7_0ea7288c-5271-4b21-9cc6-2a896c286f5a.webp?v=1767791724&amp;width=352 352w, //dynamic-preview.myshopify.com/cdn/shop/files/f85013edb31a11e0b0d9f42cdba240a948a35be7_0ea7288c-5271-4b21-9cc6-2a896c286f5a.webp?v=1767791724&amp;width=832 832w, //dynamic-preview.myshopify.com/cdn/shop/files/f85013edb31a11e0b0d9f42cdba240a948a35be7_0ea7288c-5271-4b21-9cc6-2a896c286f5a.webp?v=1767791724&amp;width=1200 1200w, //dynamic-preview.myshopify.com/cdn/shop/files/f85013edb31a11e0b0d9f42cdba240a948a35be7_0ea7288c-5271-4b21-9cc6-2a896c286f5a.webp?v=1767791724&amp;width=1500 1500w" width="1500" height="2000" loading="lazy">
+</div>
+
+
+
+                  
+                    <a href="#" class="img_url" aria-label="View image"></a>
+                  
+                
+              </div>
+              <div class="gallery_post_img_2 ">
+                
+                
+                  
+
+
+
+<div class="image gly_img">
+  <img src="//dynamic-preview.myshopify.com/cdn/shop/files/7d2e4d26dff2462994e457dcac0b5ab36932aa1c_a1e96e1a-7829-4b3a-933f-d2ec3c1be2c3.webp?v=1767791724&amp;width=1920" alt="" srcset="//dynamic-preview.myshopify.com/cdn/shop/files/7d2e4d26dff2462994e457dcac0b5ab36932aa1c_a1e96e1a-7829-4b3a-933f-d2ec3c1be2c3.webp?v=1767791724&amp;width=352 352w, //dynamic-preview.myshopify.com/cdn/shop/files/7d2e4d26dff2462994e457dcac0b5ab36932aa1c_a1e96e1a-7829-4b3a-933f-d2ec3c1be2c3.webp?v=1767791724&amp;width=832 832w, //dynamic-preview.myshopify.com/cdn/shop/files/7d2e4d26dff2462994e457dcac0b5ab36932aa1c_a1e96e1a-7829-4b3a-933f-d2ec3c1be2c3.webp?v=1767791724&amp;width=1200 1200w, //dynamic-preview.myshopify.com/cdn/shop/files/7d2e4d26dff2462994e457dcac0b5ab36932aa1c_a1e96e1a-7829-4b3a-933f-d2ec3c1be2c3.webp?v=1767791724&amp;width=1920 1920w" width="1920" height="1920" loading="lazy">
+</div>
+
+
+
+                  
+                    <a href="#" class="img_url" aria-label="View image"></a>
+                  
+                
+              </div>
+            </div>
+          
+            <div class="gallery_post_images swiper-slide swiper-slide-next" role="group" aria-label="2 / 10" style="width: 460px; margin-right: 20px;">
+              <div class="gallery_post_img_1 ">
+                
+                
+                  
+
+
+
+<div class="image gly_img">
+  <img src="//dynamic-preview.myshopify.com/cdn/shop/files/6a86def3f96eb84ad298b48f72f5353f7e550045_c88c530d-d2ab-40cd-bf17-cec04e44fd7c.webp?v=1767791724&amp;width=1920" alt="" srcset="//dynamic-preview.myshopify.com/cdn/shop/files/6a86def3f96eb84ad298b48f72f5353f7e550045_c88c530d-d2ab-40cd-bf17-cec04e44fd7c.webp?v=1767791724&amp;width=352 352w, //dynamic-preview.myshopify.com/cdn/shop/files/6a86def3f96eb84ad298b48f72f5353f7e550045_c88c530d-d2ab-40cd-bf17-cec04e44fd7c.webp?v=1767791724&amp;width=832 832w, //dynamic-preview.myshopify.com/cdn/shop/files/6a86def3f96eb84ad298b48f72f5353f7e550045_c88c530d-d2ab-40cd-bf17-cec04e44fd7c.webp?v=1767791724&amp;width=1200 1200w, //dynamic-preview.myshopify.com/cdn/shop/files/6a86def3f96eb84ad298b48f72f5353f7e550045_c88c530d-d2ab-40cd-bf17-cec04e44fd7c.webp?v=1767791724&amp;width=1920 1920w" width="1920" height="1312" loading="lazy">
+</div>
+
+
+
+                  
+                
+              </div>
+              <div class="gallery_post_img_2 ">
+                
+                
+                  
+
+
+
+<div class="image gly_img">
+  <img src="//dynamic-preview.myshopify.com/cdn/shop/files/a0f712785092d0e9e5e7a074d144a901476300b1_1b9dac00-499b-44c1-b833-f0e20a6a33a8.webp?v=1767791724&amp;width=1368" alt="" srcset="//dynamic-preview.myshopify.com/cdn/shop/files/a0f712785092d0e9e5e7a074d144a901476300b1_1b9dac00-499b-44c1-b833-f0e20a6a33a8.webp?v=1767791724&amp;width=352 352w, //dynamic-preview.myshopify.com/cdn/shop/files/a0f712785092d0e9e5e7a074d144a901476300b1_1b9dac00-499b-44c1-b833-f0e20a6a33a8.webp?v=1767791724&amp;width=832 832w, //dynamic-preview.myshopify.com/cdn/shop/files/a0f712785092d0e9e5e7a074d144a901476300b1_1b9dac00-499b-44c1-b833-f0e20a6a33a8.webp?v=1767791724&amp;width=1200 1200w, //dynamic-preview.myshopify.com/cdn/shop/files/a0f712785092d0e9e5e7a074d144a901476300b1_1b9dac00-499b-44c1-b833-f0e20a6a33a8.webp?v=1767791724&amp;width=1368 1368w" width="1368" height="2000" loading="lazy">
+</div>
+
+
+
+                  
+                
+              </div>
+            </div>
+          
+            <div class="gallery_post_images swiper-slide" role="group" aria-label="3 / 10" style="width: 460px; margin-right: 20px;">
+              <div class="gallery_post_img_1 ">
+                
+                
+                  
+
+
+
+<div class="image gly_img">
+  <img src="//dynamic-preview.myshopify.com/cdn/shop/files/f0150d1ca4db59deed28f41fc5b41c3cede42444_ddcb061b-9add-4f5f-aa07-ac70b2a9005e.webp?v=1767791724&amp;width=1125" alt="" srcset="//dynamic-preview.myshopify.com/cdn/shop/files/f0150d1ca4db59deed28f41fc5b41c3cede42444_ddcb061b-9add-4f5f-aa07-ac70b2a9005e.webp?v=1767791724&amp;width=352 352w, //dynamic-preview.myshopify.com/cdn/shop/files/f0150d1ca4db59deed28f41fc5b41c3cede42444_ddcb061b-9add-4f5f-aa07-ac70b2a9005e.webp?v=1767791724&amp;width=832 832w, //dynamic-preview.myshopify.com/cdn/shop/files/f0150d1ca4db59deed28f41fc5b41c3cede42444_ddcb061b-9add-4f5f-aa07-ac70b2a9005e.webp?v=1767791724&amp;width=1125 1125w" width="1125" height="2000" loading="lazy">
+</div>
+
+
+
+                  
+                
+              </div>
+              <div class="gallery_post_img_2 ">
+                
+                
+                  
+
+
+
+<div class="image gly_img">
+  <img src="//dynamic-preview.myshopify.com/cdn/shop/files/096d4267db52e6aebed2d0159c54ef36fbe1a8a3_e01e6c04-0f84-494a-9473-90452d2bc54f.webp?v=1767791724&amp;width=1333" alt="" srcset="//dynamic-preview.myshopify.com/cdn/shop/files/096d4267db52e6aebed2d0159c54ef36fbe1a8a3_e01e6c04-0f84-494a-9473-90452d2bc54f.webp?v=1767791724&amp;width=352 352w, //dynamic-preview.myshopify.com/cdn/shop/files/096d4267db52e6aebed2d0159c54ef36fbe1a8a3_e01e6c04-0f84-494a-9473-90452d2bc54f.webp?v=1767791724&amp;width=832 832w, //dynamic-preview.myshopify.com/cdn/shop/files/096d4267db52e6aebed2d0159c54ef36fbe1a8a3_e01e6c04-0f84-494a-9473-90452d2bc54f.webp?v=1767791724&amp;width=1200 1200w, //dynamic-preview.myshopify.com/cdn/shop/files/096d4267db52e6aebed2d0159c54ef36fbe1a8a3_e01e6c04-0f84-494a-9473-90452d2bc54f.webp?v=1767791724&amp;width=1333 1333w" width="1333" height="2000" loading="lazy">
+</div>
+
+
+
+                  
+                
+              </div>
+            </div>
+          
+            <div class="gallery_post_images swiper-slide" role="group" aria-label="4 / 10" style="width: 460px; margin-right: 20px;">
+              <div class="gallery_post_img_1 ">
+                
+                
+                  
+
+
+
+<div class="image gly_img">
+  <img src="//dynamic-preview.myshopify.com/cdn/shop/files/7d7f0b56e7a3adc0fb92bd10859483c339507c7d_c2d394de-02e4-4ee2-a6d5-a64bccf3c7b9.webp?v=1767791723&amp;width=1920" alt="" srcset="//dynamic-preview.myshopify.com/cdn/shop/files/7d7f0b56e7a3adc0fb92bd10859483c339507c7d_c2d394de-02e4-4ee2-a6d5-a64bccf3c7b9.webp?v=1767791723&amp;width=352 352w, //dynamic-preview.myshopify.com/cdn/shop/files/7d7f0b56e7a3adc0fb92bd10859483c339507c7d_c2d394de-02e4-4ee2-a6d5-a64bccf3c7b9.webp?v=1767791723&amp;width=832 832w, //dynamic-preview.myshopify.com/cdn/shop/files/7d7f0b56e7a3adc0fb92bd10859483c339507c7d_c2d394de-02e4-4ee2-a6d5-a64bccf3c7b9.webp?v=1767791723&amp;width=1200 1200w, //dynamic-preview.myshopify.com/cdn/shop/files/7d7f0b56e7a3adc0fb92bd10859483c339507c7d_c2d394de-02e4-4ee2-a6d5-a64bccf3c7b9.webp?v=1767791723&amp;width=1920 1920w" width="1920" height="1440" loading="lazy">
+</div>
+
+
+
+                  
+                
+              </div>
+              <div class="gallery_post_img_2 ">
+                
+                
+                  
+
+
+
+<div class="image gly_img">
+  <img src="//dynamic-preview.myshopify.com/cdn/shop/files/3351d13f9dd3ccdd12827d23da378f950ac687d4_3a9fde41-0d04-4973-a97a-c75f1d51ed03.webp?v=1767791724&amp;width=1368" alt="" srcset="//dynamic-preview.myshopify.com/cdn/shop/files/3351d13f9dd3ccdd12827d23da378f950ac687d4_3a9fde41-0d04-4973-a97a-c75f1d51ed03.webp?v=1767791724&amp;width=352 352w, //dynamic-preview.myshopify.com/cdn/shop/files/3351d13f9dd3ccdd12827d23da378f950ac687d4_3a9fde41-0d04-4973-a97a-c75f1d51ed03.webp?v=1767791724&amp;width=832 832w, //dynamic-preview.myshopify.com/cdn/shop/files/3351d13f9dd3ccdd12827d23da378f950ac687d4_3a9fde41-0d04-4973-a97a-c75f1d51ed03.webp?v=1767791724&amp;width=1200 1200w, //dynamic-preview.myshopify.com/cdn/shop/files/3351d13f9dd3ccdd12827d23da378f950ac687d4_3a9fde41-0d04-4973-a97a-c75f1d51ed03.webp?v=1767791724&amp;width=1368 1368w" width="1368" height="2000" loading="lazy">
+</div>
+
+
+
+                  
+                
+              </div>
+            </div>
+          
+            <div class="gallery_post_images swiper-slide" role="group" aria-label="5 / 10" style="width: 460px; margin-right: 20px;">
+              <div class="gallery_post_img_1 ">
+                
+                
+                  
+
+
+
+<div class="image gly_img">
+  <img src="//dynamic-preview.myshopify.com/cdn/shop/files/626ee5698208a503f3cf908910760dbc293322fa_1_56b6698e-25db-4f1a-b793-7fbe1d48e307.webp?v=1767791724&amp;width=1920" alt="" srcset="//dynamic-preview.myshopify.com/cdn/shop/files/626ee5698208a503f3cf908910760dbc293322fa_1_56b6698e-25db-4f1a-b793-7fbe1d48e307.webp?v=1767791724&amp;width=352 352w, //dynamic-preview.myshopify.com/cdn/shop/files/626ee5698208a503f3cf908910760dbc293322fa_1_56b6698e-25db-4f1a-b793-7fbe1d48e307.webp?v=1767791724&amp;width=832 832w, //dynamic-preview.myshopify.com/cdn/shop/files/626ee5698208a503f3cf908910760dbc293322fa_1_56b6698e-25db-4f1a-b793-7fbe1d48e307.webp?v=1767791724&amp;width=1200 1200w, //dynamic-preview.myshopify.com/cdn/shop/files/626ee5698208a503f3cf908910760dbc293322fa_1_56b6698e-25db-4f1a-b793-7fbe1d48e307.webp?v=1767791724&amp;width=1920 1920w" width="1920" height="1920" loading="lazy">
+</div>
+
+
+
+                  
+                
+              </div>
+              <div class="gallery_post_img_2 ">
+                
+                
+                  
+
+
+
+<div class="image gly_img">
+  <img src="//dynamic-preview.myshopify.com/cdn/shop/files/ef7fd799518995acaa6748353e1177cb155228f1_9acd0393-bf43-414e-ad57-8c80ad677f56.webp?v=1767791724&amp;width=1368" alt="" srcset="//dynamic-preview.myshopify.com/cdn/shop/files/ef7fd799518995acaa6748353e1177cb155228f1_9acd0393-bf43-414e-ad57-8c80ad677f56.webp?v=1767791724&amp;width=352 352w, //dynamic-preview.myshopify.com/cdn/shop/files/ef7fd799518995acaa6748353e1177cb155228f1_9acd0393-bf43-414e-ad57-8c80ad677f56.webp?v=1767791724&amp;width=832 832w, //dynamic-preview.myshopify.com/cdn/shop/files/ef7fd799518995acaa6748353e1177cb155228f1_9acd0393-bf43-414e-ad57-8c80ad677f56.webp?v=1767791724&amp;width=1200 1200w, //dynamic-preview.myshopify.com/cdn/shop/files/ef7fd799518995acaa6748353e1177cb155228f1_9acd0393-bf43-414e-ad57-8c80ad677f56.webp?v=1767791724&amp;width=1368 1368w" width="1368" height="2000" loading="lazy">
+</div>
+
+
+
+                  
+                
+              </div>
+            </div>
+          
+          
+            <div class="gallery_post_mb swiper-slide" role="group" aria-label="6 / 10" style="margin-right: 20px;">
+              
+              
+                
+
+
+
+<div class="image gly_img">
+  <img src="//dynamic-preview.myshopify.com/cdn/shop/files/f85013edb31a11e0b0d9f42cdba240a948a35be7_0ea7288c-5271-4b21-9cc6-2a896c286f5a.webp?v=1767791724&amp;width=1500" alt="" srcset="//dynamic-preview.myshopify.com/cdn/shop/files/f85013edb31a11e0b0d9f42cdba240a948a35be7_0ea7288c-5271-4b21-9cc6-2a896c286f5a.webp?v=1767791724&amp;width=352 352w, //dynamic-preview.myshopify.com/cdn/shop/files/f85013edb31a11e0b0d9f42cdba240a948a35be7_0ea7288c-5271-4b21-9cc6-2a896c286f5a.webp?v=1767791724&amp;width=832 832w, //dynamic-preview.myshopify.com/cdn/shop/files/f85013edb31a11e0b0d9f42cdba240a948a35be7_0ea7288c-5271-4b21-9cc6-2a896c286f5a.webp?v=1767791724&amp;width=1200 1200w, //dynamic-preview.myshopify.com/cdn/shop/files/f85013edb31a11e0b0d9f42cdba240a948a35be7_0ea7288c-5271-4b21-9cc6-2a896c286f5a.webp?v=1767791724&amp;width=1500 1500w" width="1500" height="2000" loading="lazy">
+</div>
+
+
+
+                
+                  <a href="#" class="img_url" aria-label="View image"></a>
+                
+              
+              
+              
+                
+
+
+
+<div class="image gly_img">
+  <img src="//dynamic-preview.myshopify.com/cdn/shop/files/7d2e4d26dff2462994e457dcac0b5ab36932aa1c_a1e96e1a-7829-4b3a-933f-d2ec3c1be2c3.webp?v=1767791724&amp;width=1920" alt="" srcset="//dynamic-preview.myshopify.com/cdn/shop/files/7d2e4d26dff2462994e457dcac0b5ab36932aa1c_a1e96e1a-7829-4b3a-933f-d2ec3c1be2c3.webp?v=1767791724&amp;width=352 352w, //dynamic-preview.myshopify.com/cdn/shop/files/7d2e4d26dff2462994e457dcac0b5ab36932aa1c_a1e96e1a-7829-4b3a-933f-d2ec3c1be2c3.webp?v=1767791724&amp;width=832 832w, //dynamic-preview.myshopify.com/cdn/shop/files/7d2e4d26dff2462994e457dcac0b5ab36932aa1c_a1e96e1a-7829-4b3a-933f-d2ec3c1be2c3.webp?v=1767791724&amp;width=1200 1200w, //dynamic-preview.myshopify.com/cdn/shop/files/7d2e4d26dff2462994e457dcac0b5ab36932aa1c_a1e96e1a-7829-4b3a-933f-d2ec3c1be2c3.webp?v=1767791724&amp;width=1920 1920w" width="1920" height="1920" loading="lazy">
+</div>
+
+
+
+                
+                  <a href="#" class="img_url" aria-label="View image"></a>
+                
+              
+            </div>
+          
+            <div class="gallery_post_mb swiper-slide" role="group" aria-label="7 / 10" style="margin-right: 20px;">
+              
+              
+                
+
+
+
+<div class="image gly_img">
+  <img src="//dynamic-preview.myshopify.com/cdn/shop/files/6a86def3f96eb84ad298b48f72f5353f7e550045_c88c530d-d2ab-40cd-bf17-cec04e44fd7c.webp?v=1767791724&amp;width=1920" alt="" srcset="//dynamic-preview.myshopify.com/cdn/shop/files/6a86def3f96eb84ad298b48f72f5353f7e550045_c88c530d-d2ab-40cd-bf17-cec04e44fd7c.webp?v=1767791724&amp;width=352 352w, //dynamic-preview.myshopify.com/cdn/shop/files/6a86def3f96eb84ad298b48f72f5353f7e550045_c88c530d-d2ab-40cd-bf17-cec04e44fd7c.webp?v=1767791724&amp;width=832 832w, //dynamic-preview.myshopify.com/cdn/shop/files/6a86def3f96eb84ad298b48f72f5353f7e550045_c88c530d-d2ab-40cd-bf17-cec04e44fd7c.webp?v=1767791724&amp;width=1200 1200w, //dynamic-preview.myshopify.com/cdn/shop/files/6a86def3f96eb84ad298b48f72f5353f7e550045_c88c530d-d2ab-40cd-bf17-cec04e44fd7c.webp?v=1767791724&amp;width=1920 1920w" width="1920" height="1312" loading="lazy">
+</div>
+
+
+
+                
+              
+              
+              
+                
+
+
+
+<div class="image gly_img">
+  <img src="//dynamic-preview.myshopify.com/cdn/shop/files/a0f712785092d0e9e5e7a074d144a901476300b1_1b9dac00-499b-44c1-b833-f0e20a6a33a8.webp?v=1767791724&amp;width=1368" alt="" srcset="//dynamic-preview.myshopify.com/cdn/shop/files/a0f712785092d0e9e5e7a074d144a901476300b1_1b9dac00-499b-44c1-b833-f0e20a6a33a8.webp?v=1767791724&amp;width=352 352w, //dynamic-preview.myshopify.com/cdn/shop/files/a0f712785092d0e9e5e7a074d144a901476300b1_1b9dac00-499b-44c1-b833-f0e20a6a33a8.webp?v=1767791724&amp;width=832 832w, //dynamic-preview.myshopify.com/cdn/shop/files/a0f712785092d0e9e5e7a074d144a901476300b1_1b9dac00-499b-44c1-b833-f0e20a6a33a8.webp?v=1767791724&amp;width=1200 1200w, //dynamic-preview.myshopify.com/cdn/shop/files/a0f712785092d0e9e5e7a074d144a901476300b1_1b9dac00-499b-44c1-b833-f0e20a6a33a8.webp?v=1767791724&amp;width=1368 1368w" width="1368" height="2000" loading="lazy">
+</div>
+
+
+
+                
+              
+            </div>
+          
+            <div class="gallery_post_mb swiper-slide" role="group" aria-label="8 / 10" style="margin-right: 20px;">
+              
+              
+                
+
+
+
+<div class="image gly_img">
+  <img src="//dynamic-preview.myshopify.com/cdn/shop/files/f0150d1ca4db59deed28f41fc5b41c3cede42444_ddcb061b-9add-4f5f-aa07-ac70b2a9005e.webp?v=1767791724&amp;width=1125" alt="" srcset="//dynamic-preview.myshopify.com/cdn/shop/files/f0150d1ca4db59deed28f41fc5b41c3cede42444_ddcb061b-9add-4f5f-aa07-ac70b2a9005e.webp?v=1767791724&amp;width=352 352w, //dynamic-preview.myshopify.com/cdn/shop/files/f0150d1ca4db59deed28f41fc5b41c3cede42444_ddcb061b-9add-4f5f-aa07-ac70b2a9005e.webp?v=1767791724&amp;width=832 832w, //dynamic-preview.myshopify.com/cdn/shop/files/f0150d1ca4db59deed28f41fc5b41c3cede42444_ddcb061b-9add-4f5f-aa07-ac70b2a9005e.webp?v=1767791724&amp;width=1125 1125w" width="1125" height="2000" loading="lazy">
+</div>
+
+
+
+                
+              
+              
+              
+                
+
+
+
+<div class="image gly_img">
+  <img src="//dynamic-preview.myshopify.com/cdn/shop/files/096d4267db52e6aebed2d0159c54ef36fbe1a8a3_e01e6c04-0f84-494a-9473-90452d2bc54f.webp?v=1767791724&amp;width=1333" alt="" srcset="//dynamic-preview.myshopify.com/cdn/shop/files/096d4267db52e6aebed2d0159c54ef36fbe1a8a3_e01e6c04-0f84-494a-9473-90452d2bc54f.webp?v=1767791724&amp;width=352 352w, //dynamic-preview.myshopify.com/cdn/shop/files/096d4267db52e6aebed2d0159c54ef36fbe1a8a3_e01e6c04-0f84-494a-9473-90452d2bc54f.webp?v=1767791724&amp;width=832 832w, //dynamic-preview.myshopify.com/cdn/shop/files/096d4267db52e6aebed2d0159c54ef36fbe1a8a3_e01e6c04-0f84-494a-9473-90452d2bc54f.webp?v=1767791724&amp;width=1200 1200w, //dynamic-preview.myshopify.com/cdn/shop/files/096d4267db52e6aebed2d0159c54ef36fbe1a8a3_e01e6c04-0f84-494a-9473-90452d2bc54f.webp?v=1767791724&amp;width=1333 1333w" width="1333" height="2000" loading="lazy">
+</div>
+
+
+
+                
+              
+            </div>
+          
+            <div class="gallery_post_mb swiper-slide" role="group" aria-label="9 / 10" style="margin-right: 20px;">
+              
+              
+                
+
+
+
+<div class="image gly_img">
+  <img src="//dynamic-preview.myshopify.com/cdn/shop/files/7d7f0b56e7a3adc0fb92bd10859483c339507c7d_c2d394de-02e4-4ee2-a6d5-a64bccf3c7b9.webp?v=1767791723&amp;width=1920" alt="" srcset="//dynamic-preview.myshopify.com/cdn/shop/files/7d7f0b56e7a3adc0fb92bd10859483c339507c7d_c2d394de-02e4-4ee2-a6d5-a64bccf3c7b9.webp?v=1767791723&amp;width=352 352w, //dynamic-preview.myshopify.com/cdn/shop/files/7d7f0b56e7a3adc0fb92bd10859483c339507c7d_c2d394de-02e4-4ee2-a6d5-a64bccf3c7b9.webp?v=1767791723&amp;width=832 832w, //dynamic-preview.myshopify.com/cdn/shop/files/7d7f0b56e7a3adc0fb92bd10859483c339507c7d_c2d394de-02e4-4ee2-a6d5-a64bccf3c7b9.webp?v=1767791723&amp;width=1200 1200w, //dynamic-preview.myshopify.com/cdn/shop/files/7d7f0b56e7a3adc0fb92bd10859483c339507c7d_c2d394de-02e4-4ee2-a6d5-a64bccf3c7b9.webp?v=1767791723&amp;width=1920 1920w" width="1920" height="1440" loading="lazy">
+</div>
+
+
+
+                
+              
+              
+              
+                
+
+
+
+<div class="image gly_img">
+  <img src="//dynamic-preview.myshopify.com/cdn/shop/files/3351d13f9dd3ccdd12827d23da378f950ac687d4_3a9fde41-0d04-4973-a97a-c75f1d51ed03.webp?v=1767791724&amp;width=1368" alt="" srcset="//dynamic-preview.myshopify.com/cdn/shop/files/3351d13f9dd3ccdd12827d23da378f950ac687d4_3a9fde41-0d04-4973-a97a-c75f1d51ed03.webp?v=1767791724&amp;width=352 352w, //dynamic-preview.myshopify.com/cdn/shop/files/3351d13f9dd3ccdd12827d23da378f950ac687d4_3a9fde41-0d04-4973-a97a-c75f1d51ed03.webp?v=1767791724&amp;width=832 832w, //dynamic-preview.myshopify.com/cdn/shop/files/3351d13f9dd3ccdd12827d23da378f950ac687d4_3a9fde41-0d04-4973-a97a-c75f1d51ed03.webp?v=1767791724&amp;width=1200 1200w, //dynamic-preview.myshopify.com/cdn/shop/files/3351d13f9dd3ccdd12827d23da378f950ac687d4_3a9fde41-0d04-4973-a97a-c75f1d51ed03.webp?v=1767791724&amp;width=1368 1368w" width="1368" height="2000" loading="lazy">
+</div>
+
+
+
+                
+              
+            </div>
+          
+            <div class="gallery_post_mb swiper-slide" role="group" aria-label="10 / 10" style="margin-right: 20px;">
+              
+              
+                
+
+
+
+<div class="image gly_img">
+  <img src="//dynamic-preview.myshopify.com/cdn/shop/files/626ee5698208a503f3cf908910760dbc293322fa_1_56b6698e-25db-4f1a-b793-7fbe1d48e307.webp?v=1767791724&amp;width=1920" alt="" srcset="//dynamic-preview.myshopify.com/cdn/shop/files/626ee5698208a503f3cf908910760dbc293322fa_1_56b6698e-25db-4f1a-b793-7fbe1d48e307.webp?v=1767791724&amp;width=352 352w, //dynamic-preview.myshopify.com/cdn/shop/files/626ee5698208a503f3cf908910760dbc293322fa_1_56b6698e-25db-4f1a-b793-7fbe1d48e307.webp?v=1767791724&amp;width=832 832w, //dynamic-preview.myshopify.com/cdn/shop/files/626ee5698208a503f3cf908910760dbc293322fa_1_56b6698e-25db-4f1a-b793-7fbe1d48e307.webp?v=1767791724&amp;width=1200 1200w, //dynamic-preview.myshopify.com/cdn/shop/files/626ee5698208a503f3cf908910760dbc293322fa_1_56b6698e-25db-4f1a-b793-7fbe1d48e307.webp?v=1767791724&amp;width=1920 1920w" width="1920" height="1920" loading="lazy">
+</div>
+
+
+
+                
+              
+              
+              
+                
+
+
+
+<div class="image gly_img">
+  <img src="//dynamic-preview.myshopify.com/cdn/shop/files/ef7fd799518995acaa6748353e1177cb155228f1_9acd0393-bf43-414e-ad57-8c80ad677f56.webp?v=1767791724&amp;width=1368" alt="" srcset="//dynamic-preview.myshopify.com/cdn/shop/files/ef7fd799518995acaa6748353e1177cb155228f1_9acd0393-bf43-414e-ad57-8c80ad677f56.webp?v=1767791724&amp;width=352 352w, //dynamic-preview.myshopify.com/cdn/shop/files/ef7fd799518995acaa6748353e1177cb155228f1_9acd0393-bf43-414e-ad57-8c80ad677f56.webp?v=1767791724&amp;width=832 832w, //dynamic-preview.myshopify.com/cdn/shop/files/ef7fd799518995acaa6748353e1177cb155228f1_9acd0393-bf43-414e-ad57-8c80ad677f56.webp?v=1767791724&amp;width=1200 1200w, //dynamic-preview.myshopify.com/cdn/shop/files/ef7fd799518995acaa6748353e1177cb155228f1_9acd0393-bf43-414e-ad57-8c80ad677f56.webp?v=1767791724&amp;width=1368 1368w" width="1368" height="2000" loading="lazy">
+</div>
+
+
+
+                
+              
+            </div>
+          
+        </div>
+        
+          <div class="gallerySwiperButtons">
+            <div class="gallerySwiperBtnNext gallerySwiperBtnNext--template--27935319949478__image_gallery_a3gXAi sliderNextBtn" tabindex="0" role="button" aria-label="Next slide" aria-controls="swiper-wrapper-3a3b84265e710d452" aria-disabled="false"><svg width="30" height="30" viewBox="0 0 30 30" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_1196_7149)">
+<path d="M29.8096 14.5231L22.9898 7.70324C22.7448 7.41717 22.3142 7.38383 22.0282 7.62887C21.7421 7.87385 21.7088 8.30438 21.9538 8.59045C21.9767 8.61712 22.0015 8.64203 22.0282 8.66482L27.6818 14.3253H0.681965C0.305349 14.3253 0 14.6307 0 15.0073C0 15.384 0.305349 15.6893 0.681965 15.6893H27.6818L22.0282 21.3429C21.7421 21.5879 21.7088 22.0185 21.9538 22.3045C22.1988 22.5906 22.6293 22.6239 22.9154 22.3789C22.9421 22.356 22.967 22.3312 22.9898 22.3045L29.8096 15.4846C30.074 15.2187 30.074 14.7891 29.8096 14.5231Z" fill="#331F17"></path>
+</g>
+<defs>
+<clipPath id="clip0_1196_7149">
+<rect width="30.0079" height="30.0079" fill="white"></rect>
+</clipPath>
+</defs>
+</svg></div>
+            <div class="gallerySwiperBtnPrev gallerySwiperBtnPrev--template--27935319949478__image_gallery_a3gXAi sliderPrevBtn swiper-button-disabled" tabindex="-1" role="button" aria-label="Previous slide" aria-controls="swiper-wrapper-3a3b84265e710d452" aria-disabled="true"><svg width="30" height="30" viewBox="0 0 30 30" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_1196_7157)">
+<path d="M0.198328 14.5231L7.01815 7.70324C7.26313 7.41717 7.69367 7.38383 7.97973 7.62887C8.2658 7.87385 8.29915 8.30438 8.05411 8.59045C8.03125 8.61712 8.0064 8.64203 7.97973 8.66482L2.3261 14.3253H29.3259C29.7026 14.3253 30.0079 14.6307 30.0079 15.0073C30.0079 15.384 29.7026 15.6893 29.3259 15.6893H2.3261L7.97973 21.3429C8.2658 21.5879 8.29915 22.0185 8.05411 22.3045C7.80907 22.5906 7.37859 22.6239 7.09252 22.3789C7.06586 22.356 7.04095 22.3312 7.01815 22.3045L0.198269 15.4846C-0.0661125 15.2187 -0.0661125 14.7891 0.198328 14.5231Z" fill="#331F17"></path>
+</g>
+<defs>
+<clipPath id="clip0_1196_7157">
+<rect width="30.0079" height="30.0079" fill="white" transform="matrix(-1 0 0 1 30.0079 0)"></rect>
+</clipPath>
+</defs>
+</svg></div>
+          </div>
+          <div class="mobil_swiper-pagination-main mobil_swiper-pagination-image-gallery swiper-image-gallery-pagination-mobile--template--27935319949478__image_gallery_a3gXAi swiper-pagination-clickable swiper-pagination-bullets swiper-pagination-horizontal"><span class="swiper-pagination-bullet swiper-pagination-bullet-active" tabindex="0" role="button" aria-label="Go to slide 1" aria-current="true"></span><span class="swiper-pagination-bullet" tabindex="0" role="button" aria-label="Go to slide 2"></span><span class="swiper-pagination-bullet" tabindex="0" role="button" aria-label="Go to slide 3"></span></div>
+        
+      <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
+       <div class="gallery_follow_btn">
+        
+          <button type="button" class="button btn-prime">
+            Follow Us
+          </button>
+        
+      </div>
+    </div>
+  </div>
+</div>
+
+<script>
+  document.addEventListener('DOMContentLoaded', () => {
+    document.querySelectorAll('.image_gallery_feeds').forEach((slider) => {
+      const section = slider.closest('[id^="shopify-section-"]');
+      if (!section) return;
+
+      const paginationEl = section.querySelector('.mobil_swiper-pagination-image-gallery');
+      const nextBtn = section.querySelector('.gallerySwiperBtnNext');
+      const prevBtn = section.querySelector('.gallerySwiperBtnPrev');
+
+      whenSwiperReady(() => {
+        new Swiper(slider, {
+          slidesPerView: 1,
+          spaceBetween: 10,
+          autoplay: slider.dataset.autoplay === 'true',
+
+          navigation: {
+            nextEl: nextBtn,
+            prevEl: prevBtn,
+          },
+
+          pagination: paginationEl
+            ? {
+                el: paginationEl,
+                clickable: true,
+                enabled: true,
+              }
+            : false,
+
+          breakpoints: {
+            425: {
+              slidesPerView: 2,
+              spaceBetween: 10,
+              pagination: { enabled: true },
+            },
+            989: {
+              slidesPerView: 2.5,
+              spaceBetween: 10,
+              pagination: { enabled: true },
+            },
+            1024: {
+              slidesPerView: 3,
+              spaceBetween: 20,
+              pagination: { enabled: true },
+            },
+            1500: {
+              slidesPerView: 5,
+              spaceBetween: 20,
+              pagination: { enabled: false },
+            },
+          },
+        });
+      });
+    });
+  });
+</script>
+
+</div>
+```
+
+## 6. shopify-section-template--27935319949478__logo_list_L4e8fT
+
+- Tag: div
+- Classes: shopify-section
+- Headings: None
+
+```html
+<div id="shopify-section-template--27935319949478__logo_list_L4e8fT" class="shopify-section"><style data-shopify="">
+    .brand_logo_img {
+        width: 14.2%;
+    }
+    
+    
+    .brand_logo_list {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        width: 100%;
+    }
+    
+    
+    .brand_logo_list .swiper-wrapper {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        width: 100%;
+    }
+    
+    .section-template--27935319949478__logo_list_L4e8fT-padding {
+        padding-top: 25.2px;
+        padding-right: 0.0px;
+        padding-left: 0.0px;
+        padding-bottom: 25.2px;
+    }
+    @media screen and (min-width: 787px) {
+        .section-template--27935319949478__logo_list_L4e8fT-padding {
+            padding-top: 42px;
+            padding-right: 0px;
+            padding-left: 0px;
+            padding-bottom: 42px;
+        }
+    }
+</style>
+
+<link href="//dynamic-preview.myshopify.com/cdn/shop/t/18/assets/logo-list.css?v=3696240939599679571771645050" rel="stylesheet" type="text/css" media="all">
+
+<div class="logo_list_wrpr section-template--27935319949478__logo_list_L4e8fT-padding color-scheme-3">
+    <div class="page-width">
+        
+        <div class="logo_list logo_list--template--27935319949478__logo_list_L4e8fT swiper swiper-initialized swiper-horizontal swiper-backface-hidden">
+            <div class="swiper-wrapper" id="swiper-wrapper-4b20885edbd128107" aria-live="off">
+            
+            
+            <div class="logo_list_img swiper-slide swiper-slide-active" role="group" aria-label="1 / 7" style="width: 202.857px;">
+                
+                    
+
+
+
+<div class="image ">
+  <img src="//dynamic-preview.myshopify.com/cdn/shop/files/2_2.svg?v=1767791478&amp;width=128" alt="" srcset="//dynamic-preview.myshopify.com/cdn/shop/files/2_2.svg?v=1767791478&amp;width=128 128w" width="128" height="66" loading="lazy">
+</div>
+
+
+
+                
+                
+            </div>
+            
+            
+            <div class="logo_list_img swiper-slide swiper-slide-next" role="group" aria-label="2 / 7" style="width: 202.857px;">
+                
+                    
+
+
+
+<div class="image ">
+  <img src="//dynamic-preview.myshopify.com/cdn/shop/files/3_2.svg?v=1767791586&amp;width=137" alt="" srcset="//dynamic-preview.myshopify.com/cdn/shop/files/3_2.svg?v=1767791586&amp;width=137 137w" width="137" height="46" loading="lazy">
+</div>
+
+
+
+                
+                
+            </div>
+            
+            
+            <div class="logo_list_img swiper-slide" role="group" aria-label="3 / 7" style="width: 202.857px;">
+                
+                    
+
+
+
+<div class="image ">
+  <img src="//dynamic-preview.myshopify.com/cdn/shop/files/4.svg?v=1767788334&amp;width=102" alt="" srcset="//dynamic-preview.myshopify.com/cdn/shop/files/4.svg?v=1767788334&amp;width=102 102w" width="102" height="63" loading="lazy">
+</div>
+
+
+
+                
+                
+            </div>
+            
+            
+            <div class="logo_list_img swiper-slide" role="group" aria-label="4 / 7" style="width: 202.857px;">
+                
+                    
+
+
+
+<div class="image ">
+  <img src="//dynamic-preview.myshopify.com/cdn/shop/files/5.svg?v=1767788334&amp;width=128" alt="" srcset="//dynamic-preview.myshopify.com/cdn/shop/files/5.svg?v=1767788334&amp;width=128 128w" width="128" height="80" loading="lazy">
+</div>
+
+
+
+                
+                
+            </div>
+            
+            
+            <div class="logo_list_img swiper-slide" role="group" aria-label="5 / 7" style="width: 202.857px;">
+                
+                    
+
+
+
+<div class="image ">
+  <img src="//dynamic-preview.myshopify.com/cdn/shop/files/6.svg?v=1767788334&amp;width=128" alt="" srcset="//dynamic-preview.myshopify.com/cdn/shop/files/6.svg?v=1767788334&amp;width=128 128w" width="128" height="57" loading="lazy">
+</div>
+
+
+
+                
+                
+            </div>
+            
+            
+            <div class="logo_list_img swiper-slide" role="group" aria-label="6 / 7" style="width: 202.857px;">
+                
+                    
+
+
+
+<div class="image ">
+  <img src="//dynamic-preview.myshopify.com/cdn/shop/files/7.svg?v=1767791510&amp;width=88" alt="" srcset="//dynamic-preview.myshopify.com/cdn/shop/files/7.svg?v=1767791510&amp;width=88 88w" width="88" height="84" loading="lazy">
+</div>
+
+
+
+                
+                
+            </div>
+            
+            
+            <div class="logo_list_img swiper-slide" role="group" aria-label="7 / 7" style="width: 202.857px;">
+                
+                    
+
+
+
+<div class="image ">
+  <img src="//dynamic-preview.myshopify.com/cdn/shop/files/8.svg?v=1767788334&amp;width=106" alt="" srcset="//dynamic-preview.myshopify.com/cdn/shop/files/8.svg?v=1767788334&amp;width=106 106w" width="106" height="63" loading="lazy">
+</div>
+
+
+
+                
+                
+            </div>
+            
+            </div>
+        <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
+    </div>
+</div>
+
+<script>
+    whenSwiperReady(() => {
+    var logoListSwiper = new Swiper(".logo_list--template--27935319949478__logo_list_L4e8fT", {
+    slidesPerView: 1.8,
+    autoplay: true,
+    breakpoints: {
+        640: { slidesPerView: 3 },
+        768: { slidesPerView: 4 },
+        1024: { slidesPerView: 6 },
+        1200: { slidesPerView: 7 },
+    },
+    });
+     });
+</script>
+</div>
+```

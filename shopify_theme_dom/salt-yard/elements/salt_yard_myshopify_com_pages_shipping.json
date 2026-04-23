@@ -1,0 +1,24 @@
+{
+  "pageUrl": "https://salt-yard.myshopify.com/pages/shipping",
+  "pageTitle": "Shipping – Symmetry Theme Salt Yard",
+  "pageSlug": "salt_yard_myshopify_com_pages_shipping",
+  "sections": [
+    {
+      "refId": "salt_yard_myshopify_com_pages_shipping__section_01",
+      "index": 1,
+      "selectorHint": "div.container.cf",
+      "typeGuess": "content-section",
+      "patternTags": [
+        "top-of-page",
+        "product-commerce"
+      ],
+      "headingSample": [
+        "Shipping"
+      ],
+      "textSample": "Shipping - To DE/FR/BE/LU/AT/DK/UK €9 (free above €100)- To rest of EU €15 (free above €150)- To rest of Europe €25 (free above €200)- To rest of World €35 (free above €300)Salt Yard has a 14-day return policy: any unwanted items needs to be shipped within 14 days of receipt. Aft",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_pages_shipping/salt_yard_myshopify_com_pages_shipping__section_01.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/pages/salt_yard_myshopify_com_pages_shipping.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/pages/salt_yard_myshopify_com_pages_shipping.json"
+    }
+  ]
+}

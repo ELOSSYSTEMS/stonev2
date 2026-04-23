@@ -1,0 +1,35 @@
+{
+  "pageUrl": "https://shift-sketch.myshopify.com/blogs/journal",
+  "pageTitle": "Journal – Shift Sketch",
+  "pageSlug": "shift_sketch_myshopify_com_blogs_journal",
+  "sections": [
+    {
+      "refId": "shift_sketch_myshopify_com_blogs_journal__section_01",
+      "index": 1,
+      "selectorHint": "#shopify-section-template--27266934178167__main",
+      "typeGuess": "hero",
+      "patternTags": [
+        "hero-candidate",
+        "top-of-page",
+        "image-heavy",
+        "slider",
+        "cta-cluster",
+        "card-grid",
+        "product-commerce",
+        "editorial-media"
+      ],
+      "headingSample": [
+        "Journal",
+        "A Guide to Choosing the Right Sketchbook for Beginners",
+        "Best Pens, Pencils, and Markers for Sketchbooks",
+        "How to Combine a Planner and Calendar System",
+        "The Best Compact Planners for Busy People",
+        "How to Turn a Sketchbook into a Daily Journal"
+      ],
+      "textSample": ".section-template--27266934178167__main-padding { padding-top: 0; padding-bottom: 0; } @media screen and (min-width: 750px) { .section-template--27266934178167__main-padding { padding-top: 0; padding-bottom: 0; } } @media screen and (min-width: 1440px) { .section-template--272669",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/shift-sketch/elements/shift_sketch_myshopify_com_blogs_journal/shift_sketch_myshopify_com_blogs_journal__section_01.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/shift-sketch/pages/shift_sketch_myshopify_com_blogs_journal.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/shift-sketch/pages/shift_sketch_myshopify_com_blogs_journal.json"
+    }
+  ]
+}

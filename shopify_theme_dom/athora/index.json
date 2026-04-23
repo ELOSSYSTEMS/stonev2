@@ -1,0 +1,128 @@
+{
+  "themeSlug": "athora",
+  "url": "https://athora-theme.myshopify.com",
+  "origin": "https://athora-theme.myshopify.com",
+  "mode": "templates",
+  "clean": true,
+  "screenshots": "home",
+  "discoveredCount": 252,
+  "scrapedCount": 6,
+  "inspirationReferenceCount": 27,
+  "outputDir": "/home/elos/.openclaw/workspace/shopify_theme_dom/athora",
+  "trashedOutput": "/home/elos/.openclaw/workspace/.trash/shopify-theme-dom/2026-04-09T16-26-49-631Z_athora",
+  "generatedAt": "2026-04-09T16:29:42.866Z",
+  "pages": [
+    {
+      "url": "https://athora-theme.myshopify.com/",
+      "slug": "athora_theme_myshopify_com",
+      "title": "Athora | Modern Fashion & Activewear Shopify Theme – Athora Store",
+      "type": "home",
+      "headings": [
+        "Performance running collection",
+        "Everyday athleisure collection",
+        "Active training collection",
+        "Shop by category",
+        "Built to perform designed to inspire",
+        "Unleash your style potentia",
+        "Unleash your style potentia",
+        "Our science-backed products"
+      ],
+      "sections": 19,
+      "screenshot": "/home/elos/.openclaw/workspace/shopify_theme_dom/athora/screens/athora_theme_myshopify_com.png",
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/athora/elements/athora_theme_myshopify_com.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/athora/elements/athora_theme_myshopify_com.json"
+    },
+    {
+      "url": "https://athora-theme.myshopify.com/products/gift-wrap",
+      "slug": "athora_theme_myshopify_com_products_gift_wrap",
+      "title": "Gift wrap – Athora Store",
+      "type": "product",
+      "headings": [
+        "Gift wrap",
+        "Ask a question",
+        "FlexCore™ Fabric Blend",
+        "Precision in Every Detail",
+        "Move strong. feel stronger.",
+        "Push harder. last longer.",
+        "Frequently asked questions",
+        "Still looking for an answer?"
+      ],
+      "sections": 7,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/athora/elements/athora_theme_myshopify_com_products_gift_wrap.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/athora/elements/athora_theme_myshopify_com_products_gift_wrap.json"
+    },
+    {
+      "url": "https://athora-theme.myshopify.com/collections/frontpage",
+      "slug": "athora_theme_myshopify_com_collections_frontpage",
+      "title": "Home page – Athora Store",
+      "type": "collection",
+      "headings": [
+        "Collection: Home page",
+        "Fast free shipping",
+        "Hassle-free returns",
+        "100% secure checkout",
+        "Customer Service",
+        "Sign up now",
+        "Popular categories",
+        "Best seller"
+      ],
+      "sections": 3,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/athora/elements/athora_theme_myshopify_com_collections_frontpage.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/athora/elements/athora_theme_myshopify_com_collections_frontpage.json"
+    },
+    {
+      "url": "https://athora-theme.myshopify.com/pages/contact",
+      "slug": "athora_theme_myshopify_com_pages_contact",
+      "title": "Contact – Athora Store",
+      "type": "page",
+      "headings": [
+        "Drop us a line.",
+        "Sign up now",
+        "Popular categories",
+        "Best seller"
+      ],
+      "sections": 1,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/athora/elements/athora_theme_myshopify_com_pages_contact.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/athora/elements/athora_theme_myshopify_com_pages_contact.json"
+    },
+    {
+      "url": "https://athora-theme.myshopify.com/blogs/journal",
+      "slug": "athora_theme_myshopify_com_blogs_journal",
+      "title": "Journal – Athora Store",
+      "type": "blog",
+      "headings": [
+        "Journal",
+        "The rise of sustainable activewear",
+        "Why activewear became everyday essentials",
+        "How activewear shapes athleisure culture",
+        "The psychology of activewear confidence",
+        "The psychology of color in activewear",
+        "Technology shaping modern activewear design",
+        "Sign up now"
+      ],
+      "sections": 2,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/athora/elements/athora_theme_myshopify_com_blogs_journal.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/athora/elements/athora_theme_myshopify_com_blogs_journal.json"
+    },
+    {
+      "url": "https://athora-theme.myshopify.com/blogs/journal/styling-activewear-from-gym-to-street",
+      "slug": "athora_theme_myshopify_com_blogs_journal_styling_activewear_from_gym_to_street",
+      "title": "Styling activewear from gym to street – Athora Store",
+      "type": "article",
+      "headings": [
+        "Styling activewear from gym to street",
+        "Sign up now",
+        "Popular categories",
+        "Best seller"
+      ],
+      "sections": 2,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/athora/elements/athora_theme_myshopify_com_blogs_journal_styling_activewear_from_gym_to_street.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/athora/elements/athora_theme_myshopify_com_blogs_journal_styling_activewear_from_gym_to_street.json"
+    }
+  ]
+}

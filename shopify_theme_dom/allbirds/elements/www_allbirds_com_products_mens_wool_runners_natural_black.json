@@ -1,0 +1,175 @@
+{
+  "pageUrl": "https://www.allbirds.com/products/mens-wool-runners-natural-black",
+  "pageTitle": "Men's Wool Runners - Black - Everyday Sneakers | Allbirds",
+  "pageSlug": "www_allbirds_com_products_mens_wool_runners_natural_black",
+  "sections": [
+    {
+      "refId": "www_allbirds_com_products_mens_wool_runners_natural_black__section_01",
+      "index": 1,
+      "selectorHint": "#shopify-section-template--16198744997968__main_product_QqEJXU",
+      "typeGuess": "hero",
+      "patternTags": [
+        "hero-candidate",
+        "top-of-page",
+        "image-heavy",
+        "slider",
+        "cta-cluster",
+        "card-grid",
+        "product-commerce",
+        "category-navigation",
+        "editorial-media"
+      ],
+      "headingSample": [
+        "Men's Wool Runner",
+        "Men's Wool Runner"
+      ],
+      "textSample": "Home/mens/Men's Wool RunnerMen's Wool Runner Also available in: Women's Sizes $110+ Free shipping (6690) Previous ImageNext ImageMen's Wool Runner Also available in: Women's Sizes $110+ Free shipping (6690) SaleColor:Natural Black(classic edition) Men's Sizes Women's Sizes 8 9 10",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/allbirds/elements/www_allbirds_com_products_mens_wool_runners_natural_black/www_allbirds_com_products_mens_wool_runners_natural_black__section_01.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/allbirds/pages/www_allbirds_com_products_mens_wool_runners_natural_black.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/allbirds/pages/www_allbirds_com_products_mens_wool_runners_natural_black.json"
+    },
+    {
+      "refId": "www_allbirds_com_products_mens_wool_runners_natural_black__section_02",
+      "index": 2,
+      "selectorHint": "#shopify-section-template--16198744997968__product_details_9UhnFH",
+      "typeGuess": "product-grid",
+      "patternTags": [
+        "image-heavy",
+        "slider",
+        "cta-cluster",
+        "card-grid",
+        "product-commerce",
+        "editorial-media"
+      ],
+      "headingSample": [
+        "THE DETAILS",
+        "MATERIALLY BETTER",
+        "WASH & CARE"
+      ],
+      "textSample": "THE DETAILSA true original, our Wool Runner combines soft Merino wool with cloud-like comfort.MATERIALLY BETTEROur responsibly-sourced Merino wool provides a cozy fit that’s soft and itch-free on the inside and durable on the outside, while a sugarcane-based SweetFoam® midsole of",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/allbirds/elements/www_allbirds_com_products_mens_wool_runners_natural_black/www_allbirds_com_products_mens_wool_runners_natural_black__section_02.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/allbirds/pages/www_allbirds_com_products_mens_wool_runners_natural_black.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/allbirds/pages/www_allbirds_com_products_mens_wool_runners_natural_black.json"
+    },
+    {
+      "refId": "www_allbirds_com_products_mens_wool_runners_natural_black__section_03",
+      "index": 3,
+      "selectorHint": "#shopify-section-template--16198744997968__color-grid",
+      "typeGuess": "editorial-media",
+      "patternTags": [
+        "image-heavy",
+        "slider",
+        "cta-cluster",
+        "product-commerce",
+        "editorial-media"
+      ],
+      "headingSample": [],
+      "textSample": "Classic CasualFrom trips to the store, dinner with friends, or just taking a walk, consider this your everyday go-to.SHOP NOW",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/allbirds/elements/www_allbirds_com_products_mens_wool_runners_natural_black/www_allbirds_com_products_mens_wool_runners_natural_black__section_03.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/allbirds/pages/www_allbirds_com_products_mens_wool_runners_natural_black.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/allbirds/pages/www_allbirds_com_products_mens_wool_runners_natural_black.json"
+    },
+    {
+      "refId": "www_allbirds_com_products_mens_wool_runners_natural_black__section_04",
+      "index": 4,
+      "selectorHint": "#shopify-section-template--16198744997968__material_hero_feature_DLcWa8",
+      "typeGuess": "editorial-media",
+      "patternTags": [
+        "video",
+        "image-heavy",
+        "slider",
+        "product-commerce",
+        "editorial-media"
+      ],
+      "headingSample": [
+        "SOFT WOOL",
+        "ODOR MINIMIZING",
+        "SUPPORTIVE",
+        "RESPONSIBLY SOURCED",
+        "SOFT WOOL",
+        "ODOR MINIMIZING"
+      ],
+      "textSample": "SOFT WOOLSuperfine fibers have a luxurious feel and help regulate temperature.ODOR MINIMIZINGNaturally anti-microbial, wool locks away moisture to maximize freshness. SUPPORTIVEOur proprietary sugarcane-based SweetFoam® midsole is both sturdy and super soft.RESPONSIBLY SOURCEDOur",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/allbirds/elements/www_allbirds_com_products_mens_wool_runners_natural_black/www_allbirds_com_products_mens_wool_runners_natural_black__section_04.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/allbirds/pages/www_allbirds_com_products_mens_wool_runners_natural_black.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/allbirds/pages/www_allbirds_com_products_mens_wool_runners_natural_black.json"
+    },
+    {
+      "refId": "www_allbirds_com_products_mens_wool_runners_natural_black__section_05",
+      "index": 5,
+      "selectorHint": "#shopify-section-template--16198744997968__recommendations_carousel_3AMBYc",
+      "typeGuess": "editorial-media",
+      "patternTags": [
+        "image-heavy",
+        "slider",
+        "cta-cluster",
+        "product-commerce",
+        "editorial-media"
+      ],
+      "headingSample": [
+        "You May Also Like",
+        "Select a size"
+      ],
+      "textSample": "You May Also Like NEWNEWMen's Varsity Parchment $120Add to CartNEWNEWMen's Allbirds Slide Natural Black $27$55Add to CartNEWNEWMen's Varsity Cruiser Light Burnt Olive $115Add to CartMen's Tree Runner Navy Night $100Add to CartNEWNEWMen's Runner NZ Terralux Light Grey $135Add to C",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/allbirds/elements/www_allbirds_com_products_mens_wool_runners_natural_black/www_allbirds_com_products_mens_wool_runners_natural_black__section_05.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/allbirds/pages/www_allbirds_com_products_mens_wool_runners_natural_black.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/allbirds/pages/www_allbirds_com_products_mens_wool_runners_natural_black.json"
+    },
+    {
+      "refId": "www_allbirds_com_products_mens_wool_runners_natural_black__section_06",
+      "index": 6,
+      "selectorHint": "#shopify-section-template--16198744997968__product_reviews_BTfBq7",
+      "typeGuess": "product-grid",
+      "patternTags": [
+        "cta-cluster",
+        "card-grid",
+        "product-commerce"
+      ],
+      "headingSample": [
+        "Reviews for Men's Wool Runner"
+      ],
+      "textSample": "Reviews for Men's Wool Runner Customer Reviews4.66690 ReviewsCustomers sayAI-generated from customer reviews.The Allbirds Wool Runner is highly praised for its comfort, fit, and style. Customers appreciate its soft feel and great look, making it suitable for everyday casual wear.",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/allbirds/elements/www_allbirds_com_products_mens_wool_runners_natural_black/www_allbirds_com_products_mens_wool_runners_natural_black__section_06.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/allbirds/pages/www_allbirds_com_products_mens_wool_runners_natural_black.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/allbirds/pages/www_allbirds_com_products_mens_wool_runners_natural_black.json"
+    },
+    {
+      "refId": "www_allbirds_com_products_mens_wool_runners_natural_black__section_07",
+      "index": 7,
+      "selectorHint": "#shopify-section-template--16198744997968__brand_message_f36Rdi",
+      "typeGuess": "product-grid",
+      "patternTags": [
+        "image-heavy",
+        "card-grid",
+        "product-commerce",
+        "editorial-media",
+        "marquee"
+      ],
+      "headingSample": [
+        "Better Things in a Better Way"
+      ],
+      "textSample": "Better Things in a Better Way Looking to the world's greatest innovator - NatureLearn More Responsible Energy Renewable Materials Regenerative Agriculture Responsible Energy Renewable Materials Regenerative Agriculture",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/allbirds/elements/www_allbirds_com_products_mens_wool_runners_natural_black/www_allbirds_com_products_mens_wool_runners_natural_black__section_07.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/allbirds/pages/www_allbirds_com_products_mens_wool_runners_natural_black.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/allbirds/pages/www_allbirds_com_products_mens_wool_runners_natural_black.json"
+    },
+    {
+      "refId": "www_allbirds_com_products_mens_wool_runners_natural_black__section_08",
+      "index": 8,
+      "selectorHint": "#shopify-section-template--16198744997968__product_size_chart_eUfWpw",
+      "typeGuess": "editorial-media",
+      "patternTags": [
+        "image-heavy",
+        "product-commerce",
+        "editorial-media"
+      ],
+      "headingSample": [
+        "Men's Wool Runner"
+      ],
+      "textSample": "Men's Wool RunnerThe Wool Runner fits true-to-size for most customers.Average WidthAverage Length US 8 9 10 11 12 13 14 UK 7 8 9 10 11 12 13 cm 26 27 28 29 30 31 32",
+      "screenshotPath": null,
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/allbirds/pages/www_allbirds_com_products_mens_wool_runners_natural_black.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/allbirds/pages/www_allbirds_com_products_mens_wool_runners_natural_black.json"
+    }
+  ]
+}

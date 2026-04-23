@@ -1,0 +1,298 @@
+# Shopify page scrape
+
+- URL: https://dynamic-preview.myshopify.com/pages/faq
+- Title: FAQ – Dynamic
+- Body classes: 
+- Custom elements: announcement-bar, back-to-top, cart-contents, footer-section, localization-form, mobile-drawer, search-drawer, shop-cart-sync
+- Headings: FAQ | Frequently asked questions | Newsletter | About Dynamic | Shop | Quick links | Customer Care
+
+## 1. shopify-section-template--27935320047782__main
+
+- Tag: div
+- Classes: shopify-section
+- Headings: FAQ
+
+```html
+<div id="shopify-section-template--27935320047782__main" class="shopify-section"><style data-shopify="">
+  .collection_list_wrapper-template--27935320047782__main {
+    padding-top: 0px;
+    padding-bottom: 40px;
+    margin: 0 10px;;
+
+  }
+
+
+
+  @media screen and (max-width: 640px) {
+    .collection_list_wrapper-template--27935320047782__main {
+      padding-top: 0px;
+      padding-bottom: 20px;
+    }
+  }
+</style>
+
+<link href="//dynamic-preview.myshopify.com/cdn/shop/t/18/assets/page-hero-banner.css?v=58205107822548130091771645050" rel="stylesheet" type="text/css" media="all">
+
+
+  <link href="//dynamic-preview.myshopify.com/cdn/shop/t/18/assets/page-breadcrumbs.css?v=10444629455867775861771645050" rel="stylesheet" type="text/css" media="all">
+
+<section class="page-hero  collection_list_wrapper-template--27935320047782__main" style="
+    --heading-color: #fef9f2;
+    --subheading-color: #fef9f2;
+    --breadcrumb-color: #fef9f2;
+    --radius: 12px;
+  ">
+  
+    <div class="page-hero__media">
+      
+        
+        <img src="//dynamic-preview.myshopify.com/cdn/shop/files/bg_10.png?v=1767792296&amp;width=2000" alt="FAQ" srcset="//dynamic-preview.myshopify.com/cdn/shop/files/bg_10.png?v=1767792296&amp;width=375 375w, //dynamic-preview.myshopify.com/cdn/shop/files/bg_10.png?v=1767792296&amp;width=550 550w, //dynamic-preview.myshopify.com/cdn/shop/files/bg_10.png?v=1767792296&amp;width=750 750w, //dynamic-preview.myshopify.com/cdn/shop/files/bg_10.png?v=1767792296&amp;width=1100 1100w, //dynamic-preview.myshopify.com/cdn/shop/files/bg_10.png?v=1767792296&amp;width=1500 1500w, //dynamic-preview.myshopify.com/cdn/shop/files/bg_10.png?v=1767792296&amp;width=2000 2000w" width="2000" height="422" loading="lazy" sizes="100vw">
+      
+
+      <div class="page-hero__content">
+        
+          <h1 class="page-hero__title">FAQ</h1>
+          <div class="page-hero__subtitle"></div>
+        
+
+        
+          <div class="page-hero__breadcrumb">
+            
+<div class="breadcrumbs_wrapper" role="navigation" aria-label="breadcrumbs">
+    <div class="container">
+      <ol class="breadcrumbs__list">
+        <li class="breadcrumbs__item">
+          <a class="breadcrumbs__link" href="/">Home</a>
+        </li>
+        <li class="separator" aria-hidden="true">|</li><li class="breadcrumbs__item">
+              <a class="breadcrumbs__link" href="/pages/faq" aria-current="page">FAQ</a>
+            </li></ol>
+    </div>
+  </div>
+          </div>
+        
+      </div>
+    </div>
+
+  
+</section>
+
+
+</div>
+```
+
+## 2. shopify-section-template--27935320047782__section_faq_BbRDgT
+
+- Tag: div
+- Classes: shopify-section
+- Headings: Frequently asked questions
+
+```html
+<div id="shopify-section-template--27935320047782__section_faq_BbRDgT" class="shopify-section"><link href="//dynamic-preview.myshopify.com/cdn/shop/t/18/assets/section-faq.css?v=76999566613359359721771645050" rel="stylesheet" type="text/css" media="all">
+
+<style>
+    #image-faq-template--27935320047782__section_faq_BbRDgT {
+    --section-bg: #fef9f2;
+    --faq-bg: #f0e1cb;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    background-color: var(--section-bg);
+  }
+</style>
+
+<section id="image-faq-template--27935320047782__section_faq_BbRDgT" class="image-faq-section image-left no-image">
+  <div class="page-width">
+    <div class="image-faq-wrapper">
+      <div class="image-faq-image">
+        
+          <svg class="placeholder-svg" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 525.5 525.5"><path d="M324.5 212.7H203c-1.6 0-2.8 1.3-2.8 2.8V308c0 1.6 1.3 2.8 2.8 2.8h121.6c1.6 0 2.8-1.3 2.8-2.8v-92.5c0-1.6-1.3-2.8-2.9-2.8zm1.1 95.3c0 .6-.5 1.1-1.1 1.1H203c-.6 0-1.1-.5-1.1-1.1v-92.5c0-.6.5-1.1 1.1-1.1h121.6c.6 0 1.1.5 1.1 1.1V308z"></path><path d="M210.4 299.5H240v.1s.1 0 .2-.1h75.2v-76.2h-105v76.2zm1.8-7.2l20-20c1.6-1.6 3.8-2.5 6.1-2.5s4.5.9 6.1 2.5l1.5 1.5 16.8 16.8c-12.9 3.3-20.7 6.3-22.8 7.2h-27.7v-5.5zm101.5-10.1c-20.1 1.7-36.7 4.8-49.1 7.9l-16.9-16.9 26.3-26.3c1.6-1.6 3.8-2.5 6.1-2.5s4.5.9 6.1 2.5l27.5 27.5v7.8zm-68.9 15.5c9.7-3.5 33.9-10.9 68.9-13.8v13.8h-68.9zm68.9-72.7v46.8l-26.2-26.2c-1.9-1.9-4.5-3-7.3-3s-5.4 1.1-7.3 3l-26.3 26.3-.9-.9c-1.9-1.9-4.5-3-7.3-3s-5.4 1.1-7.3 3l-18.8 18.8V225h101.4z"></path><path d="M232.8 254c4.6 0 8.3-3.7 8.3-8.3s-3.7-8.3-8.3-8.3-8.3 3.7-8.3 8.3 3.7 8.3 8.3 8.3zm0-14.9c3.6 0 6.6 2.9 6.6 6.6s-2.9 6.6-6.6 6.6-6.6-2.9-6.6-6.6 3-6.6 6.6-6.6z"></path></svg>
+        
+      </div>
+
+      <div class="image-faq-content">
+        
+          <div class="section-heading-block  section-heading-overlay  ">
+            
+              <span class="section-subtitle" style="color:#898078;opacity: .4;">Top heading</span>
+            
+            <h2 class="section-heading" style="color:#331f17;">Frequently asked questions</h2>
+          </div>
+        
+
+        <div class="faq-list">
+          
+            <div class="faq-item faq-item-template--27935320047782__section_faq_BbRDgT" style="background-color:#ffffff;">
+              <button class="faq-question faq-question-template--27935320047782__section_faq_BbRDgT" type="button" style="color:#331f17;" id="faq-button-template--27935320047782__section_faq_BbRDgT-0" aria-controls="faq-panel-template--27935320047782__section_faq_BbRDgT-0" aria-expanded="false">
+                Are your products suitable for all skin types?
+                <span class="faq-arrow">
+                  <svg xmlns="http://www.w3.org/2000/svg" width="10" height="7" viewBox="0 0 10 7" fill="none">
+                    <path d="M9.99983 0.758194C10.0031 0.610397 9.96023 0.465259 9.87718 0.342958C9.79414 0.220657 9.67499 0.12727 9.53641 0.0757818C9.39783 0.0242934 9.24668 0.0172614 9.10392 0.0556632C8.96116 0.0940651 8.83397 0.175993 8.73993 0.290056L5.0115 4.64221L1.28438 0.290056C1.22639 0.211153 1.15277 0.145073 1.06806 0.0959555C0.983344 0.0468378 0.889377 0.0157403 0.792089 0.00460997C0.694802 -0.00652037 0.596285 0.00255653 0.502668 0.0312721C0.409052 0.0599877 0.322345 0.107723 0.248031 0.17149C0.173717 0.235256 0.113436 0.31368 0.0708342 0.401849C0.0282326 0.490018 0.00430489 0.586034 0.000529289 0.683883C-0.00324535 0.781733 0.0131674 0.879307 0.0488482 0.970497C0.0845299 1.06169 0.138654 1.14453 0.207833 1.21383L4.47113 6.19665C4.53791 6.2749 4.62079 6.33773 4.7142 6.38082C4.80761 6.42391 4.90929 6.44622 5.01216 6.44622C5.11503 6.44622 5.2167 6.42391 5.31011 6.38082C5.40352 6.33773 5.48649 6.2749 5.55326 6.19665L9.82066 1.21383C9.93247 1.08796 9.99587 0.926506 9.99983 0.758194Z" fill="#331F17"></path>
+                  </svg>
+                </span>
+              </button>
+
+              <div class="faq-answer-wrapper faq-answer-wrapper-template--27935320047782__section_faq_BbRDgT" id="faq-panel-template--27935320047782__section_faq_BbRDgT-0" role="region" aria-labelledby="faq-button-template--27935320047782__section_faq_BbRDgT-0" style="height: 0px; overflow: hidden; transition: height 300ms;">
+                <div class="faq-answer" style="color:#331f17;">
+                  <p>Yes, our products are thoughtfully formulated for all skin types.</p>
+                </div>
+              </div>
+            </div>
+          
+            <div class="faq-item faq-item-template--27935320047782__section_faq_BbRDgT" style="background-color:#ffffff;">
+              <button class="faq-question faq-question-template--27935320047782__section_faq_BbRDgT" type="button" style="color:#331f17;" id="faq-button-template--27935320047782__section_faq_BbRDgT-1" aria-controls="faq-panel-template--27935320047782__section_faq_BbRDgT-1" aria-expanded="false">
+                Are your products suitable for all skin types?
+                <span class="faq-arrow">
+                  <svg xmlns="http://www.w3.org/2000/svg" width="10" height="7" viewBox="0 0 10 7" fill="none">
+                    <path d="M9.99983 0.758194C10.0031 0.610397 9.96023 0.465259 9.87718 0.342958C9.79414 0.220657 9.67499 0.12727 9.53641 0.0757818C9.39783 0.0242934 9.24668 0.0172614 9.10392 0.0556632C8.96116 0.0940651 8.83397 0.175993 8.73993 0.290056L5.0115 4.64221L1.28438 0.290056C1.22639 0.211153 1.15277 0.145073 1.06806 0.0959555C0.983344 0.0468378 0.889377 0.0157403 0.792089 0.00460997C0.694802 -0.00652037 0.596285 0.00255653 0.502668 0.0312721C0.409052 0.0599877 0.322345 0.107723 0.248031 0.17149C0.173717 0.235256 0.113436 0.31368 0.0708342 0.401849C0.0282326 0.490018 0.00430489 0.586034 0.000529289 0.683883C-0.00324535 0.781733 0.0131674 0.879307 0.0488482 0.970497C0.0845299 1.06169 0.138654 1.14453 0.207833 1.21383L4.47113 6.19665C4.53791 6.2749 4.62079 6.33773 4.7142 6.38082C4.80761 6.42391 4.90929 6.44622 5.01216 6.44622C5.11503 6.44622 5.2167 6.42391 5.31011 6.38082C5.40352 6.33773 5.48649 6.2749 5.55326 6.19665L9.82066 1.21383C9.93247 1.08796 9.99587 0.926506 9.99983 0.758194Z" fill="#331F17"></path>
+                  </svg>
+                </span>
+              </button>
+
+              <div class="faq-answer-wrapper faq-answer-wrapper-template--27935320047782__section_faq_BbRDgT" id="faq-panel-template--27935320047782__section_faq_BbRDgT-1" role="region" aria-labelledby="faq-button-template--27935320047782__section_faq_BbRDgT-1" style="height: 0px; overflow: hidden; transition: height 300ms;">
+                <div class="faq-answer" style="color:#331f17;">
+                  <p>Yes, our products are thoughtfully formulated for all skin types.</p>
+                </div>
+              </div>
+            </div>
+          
+            <div class="faq-item faq-item-template--27935320047782__section_faq_BbRDgT" style="background-color:#ffffff;">
+              <button class="faq-question faq-question-template--27935320047782__section_faq_BbRDgT" type="button" style="color:#331f17;" id="faq-button-template--27935320047782__section_faq_BbRDgT-2" aria-controls="faq-panel-template--27935320047782__section_faq_BbRDgT-2" aria-expanded="false">
+                Are your products suitable for all skin types?
+                <span class="faq-arrow">
+                  <svg xmlns="http://www.w3.org/2000/svg" width="10" height="7" viewBox="0 0 10 7" fill="none">
+                    <path d="M9.99983 0.758194C10.0031 0.610397 9.96023 0.465259 9.87718 0.342958C9.79414 0.220657 9.67499 0.12727 9.53641 0.0757818C9.39783 0.0242934 9.24668 0.0172614 9.10392 0.0556632C8.96116 0.0940651 8.83397 0.175993 8.73993 0.290056L5.0115 4.64221L1.28438 0.290056C1.22639 0.211153 1.15277 0.145073 1.06806 0.0959555C0.983344 0.0468378 0.889377 0.0157403 0.792089 0.00460997C0.694802 -0.00652037 0.596285 0.00255653 0.502668 0.0312721C0.409052 0.0599877 0.322345 0.107723 0.248031 0.17149C0.173717 0.235256 0.113436 0.31368 0.0708342 0.401849C0.0282326 0.490018 0.00430489 0.586034 0.000529289 0.683883C-0.00324535 0.781733 0.0131674 0.879307 0.0488482 0.970497C0.0845299 1.06169 0.138654 1.14453 0.207833 1.21383L4.47113 6.19665C4.53791 6.2749 4.62079 6.33773 4.7142 6.38082C4.80761 6.42391 4.90929 6.44622 5.01216 6.44622C5.11503 6.44622 5.2167 6.42391 5.31011 6.38082C5.40352 6.33773 5.48649 6.2749 5.55326 6.19665L9.82066 1.21383C9.93247 1.08796 9.99587 0.926506 9.99983 0.758194Z" fill="#331F17"></path>
+                  </svg>
+                </span>
+              </button>
+
+              <div class="faq-answer-wrapper faq-answer-wrapper-template--27935320047782__section_faq_BbRDgT" id="faq-panel-template--27935320047782__section_faq_BbRDgT-2" role="region" aria-labelledby="faq-button-template--27935320047782__section_faq_BbRDgT-2" style="height: 0px; overflow: hidden; transition: height 300ms;">
+                <div class="faq-answer" style="color:#331f17;">
+                  <p>Yes, our products are thoughtfully formulated for all skin types.</p>
+                </div>
+              </div>
+            </div>
+          
+            <div class="faq-item faq-item-template--27935320047782__section_faq_BbRDgT" style="background-color:#ffffff;">
+              <button class="faq-question faq-question-template--27935320047782__section_faq_BbRDgT" type="button" style="color:#331f17;" id="faq-button-template--27935320047782__section_faq_BbRDgT-3" aria-controls="faq-panel-template--27935320047782__section_faq_BbRDgT-3" aria-expanded="false">
+                Are your products suitable for all skin types?
+                <span class="faq-arrow">
+                  <svg xmlns="http://www.w3.org/2000/svg" width="10" height="7" viewBox="0 0 10 7" fill="none">
+                    <path d="M9.99983 0.758194C10.0031 0.610397 9.96023 0.465259 9.87718 0.342958C9.79414 0.220657 9.67499 0.12727 9.53641 0.0757818C9.39783 0.0242934 9.24668 0.0172614 9.10392 0.0556632C8.96116 0.0940651 8.83397 0.175993 8.73993 0.290056L5.0115 4.64221L1.28438 0.290056C1.22639 0.211153 1.15277 0.145073 1.06806 0.0959555C0.983344 0.0468378 0.889377 0.0157403 0.792089 0.00460997C0.694802 -0.00652037 0.596285 0.00255653 0.502668 0.0312721C0.409052 0.0599877 0.322345 0.107723 0.248031 0.17149C0.173717 0.235256 0.113436 0.31368 0.0708342 0.401849C0.0282326 0.490018 0.00430489 0.586034 0.000529289 0.683883C-0.00324535 0.781733 0.0131674 0.879307 0.0488482 0.970497C0.0845299 1.06169 0.138654 1.14453 0.207833 1.21383L4.47113 6.19665C4.53791 6.2749 4.62079 6.33773 4.7142 6.38082C4.80761 6.42391 4.90929 6.44622 5.01216 6.44622C5.11503 6.44622 5.2167 6.42391 5.31011 6.38082C5.40352 6.33773 5.48649 6.2749 5.55326 6.19665L9.82066 1.21383C9.93247 1.08796 9.99587 0.926506 9.99983 0.758194Z" fill="#331F17"></path>
+                  </svg>
+                </span>
+              </button>
+
+              <div class="faq-answer-wrapper faq-answer-wrapper-template--27935320047782__section_faq_BbRDgT" id="faq-panel-template--27935320047782__section_faq_BbRDgT-3" role="region" aria-labelledby="faq-button-template--27935320047782__section_faq_BbRDgT-3" style="height: 0px; overflow: hidden; transition: height 300ms;">
+                <div class="faq-answer" style="color:#331f17;">
+                  <p>Yes, our products are thoughtfully formulated for all skin types.</p>
+                </div>
+              </div>
+            </div>
+          
+            <div class="faq-item faq-item-template--27935320047782__section_faq_BbRDgT" style="background-color:#ffffff;">
+              <button class="faq-question faq-question-template--27935320047782__section_faq_BbRDgT" type="button" style="color:#331f17;" id="faq-button-template--27935320047782__section_faq_BbRDgT-4" aria-controls="faq-panel-template--27935320047782__section_faq_BbRDgT-4" aria-expanded="false">
+                Are your products suitable for all skin types?
+                <span class="faq-arrow">
+                  <svg xmlns="http://www.w3.org/2000/svg" width="10" height="7" viewBox="0 0 10 7" fill="none">
+                    <path d="M9.99983 0.758194C10.0031 0.610397 9.96023 0.465259 9.87718 0.342958C9.79414 0.220657 9.67499 0.12727 9.53641 0.0757818C9.39783 0.0242934 9.24668 0.0172614 9.10392 0.0556632C8.96116 0.0940651 8.83397 0.175993 8.73993 0.290056L5.0115 4.64221L1.28438 0.290056C1.22639 0.211153 1.15277 0.145073 1.06806 0.0959555C0.983344 0.0468378 0.889377 0.0157403 0.792089 0.00460997C0.694802 -0.00652037 0.596285 0.00255653 0.502668 0.0312721C0.409052 0.0599877 0.322345 0.107723 0.248031 0.17149C0.173717 0.235256 0.113436 0.31368 0.0708342 0.401849C0.0282326 0.490018 0.00430489 0.586034 0.000529289 0.683883C-0.00324535 0.781733 0.0131674 0.879307 0.0488482 0.970497C0.0845299 1.06169 0.138654 1.14453 0.207833 1.21383L4.47113 6.19665C4.53791 6.2749 4.62079 6.33773 4.7142 6.38082C4.80761 6.42391 4.90929 6.44622 5.01216 6.44622C5.11503 6.44622 5.2167 6.42391 5.31011 6.38082C5.40352 6.33773 5.48649 6.2749 5.55326 6.19665L9.82066 1.21383C9.93247 1.08796 9.99587 0.926506 9.99983 0.758194Z" fill="#331F17"></path>
+                  </svg>
+                </span>
+              </button>
+
+              <div class="faq-answer-wrapper faq-answer-wrapper-template--27935320047782__section_faq_BbRDgT" id="faq-panel-template--27935320047782__section_faq_BbRDgT-4" role="region" aria-labelledby="faq-button-template--27935320047782__section_faq_BbRDgT-4" style="height: 0px; overflow: hidden; transition: height 300ms;">
+                <div class="faq-answer" style="color:#331f17;">
+                  <p>Yes, our products are thoughtfully formulated for all skin types.</p>
+                </div>
+              </div>
+            </div>
+          
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<script>
+document.querySelectorAll('.faq-item-template--27935320047782__section_faq_BbRDgT').forEach((item, index) => {
+  const btn = item.querySelector('.faq-question-template--27935320047782__section_faq_BbRDgT');
+  const wrapper = item.querySelector('.faq-answer-wrapper-template--27935320047782__section_faq_BbRDgT');
+
+  // Unique IDs for ARIA
+  const buttonId = btn.id || `faq-button-template--27935320047782__section_faq_BbRDgT-${index}`;
+  const panelId = wrapper.id || `faq-panel-template--27935320047782__section_faq_BbRDgT-${index}`;
+
+  btn.id = buttonId;
+  wrapper.id = panelId;
+
+  btn.setAttribute('aria-controls', panelId);
+  btn.setAttribute('aria-expanded', 'false');
+  wrapper.setAttribute('role', 'region');
+  wrapper.setAttribute('aria-labelledby', buttonId);
+
+  // Initial height
+  wrapper.style.height = '0px';
+  wrapper.style.overflow = 'hidden';
+  wrapper.style.transition = 'height 300ms ease';
+
+  // Click handler
+  btn.addEventListener('click', toggleAccordion);
+
+  // Keyboard (Enter + Space)
+  btn.addEventListener('keydown', (e) => {
+    if (e.key === 'Enter' || e.key === ' ') {
+      e.preventDefault();
+      toggleAccordion();
+    }
+  });
+
+  // Open accordion when focused via keyboard (Tab)
+  btn.addEventListener('focus', () => {
+    if (!item.classList.contains('active')) {
+      expand(wrapper, btn, item);
+    }
+  });
+
+  function toggleAccordion() {
+    const isOpen = item.classList.contains('active');
+
+    if (isOpen) {
+      collapse(wrapper, btn, item);
+    } else {
+      expand(wrapper, btn, item);
+    }
+  }
+
+  function expand(wrapper, btn, item) {
+    wrapper.style.height = wrapper.scrollHeight + 'px';
+    btn.setAttribute('aria-expanded', 'true');
+    item.classList.add('active');
+
+    // After transition, set height to auto for dynamic content
+    wrapper.addEventListener(
+      'transitionend',
+      () => {
+        if (item.classList.contains('active')) {
+          wrapper.style.height = 'auto';
+        }
+      },
+      { once: true }
+    );
+  }
+
+  function collapse(wrapper, btn, item) {
+    // Fix for smooth collapse from auto height
+    wrapper.style.height = wrapper.scrollHeight + 'px';
+    requestAnimationFrame(() => {
+      wrapper.style.height = '0px';
+    });
+    btn.setAttribute('aria-expanded', 'false');
+    item.classList.remove('active');
+  }
+});
+
+</script>
+
+
+
+</div>
+```

@@ -1,0 +1,23 @@
+{
+  "pageUrl": "https://shift-sketch.myshopify.com/fr/pages/measurements",
+  "pageTitle": "Mesures – Shift Sketch",
+  "pageSlug": "shift_sketch_myshopify_com_fr_pages_measurements",
+  "sections": [
+    {
+      "refId": "shift_sketch_myshopify_com_fr_pages_measurements__section_01",
+      "index": 1,
+      "selectorHint": "#shopify-section-template--27266934047095__page_info",
+      "typeGuess": "content-section",
+      "patternTags": [
+        "top-of-page"
+      ],
+      "headingSample": [
+        "Mesures"
+      ],
+      "textSample": "Mesures Dimensions et poids Paramètres Dimensions Profondeur 21½\" Hauteur 17¼\" Largeur 21½\" Poids 15 lb",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/shift-sketch/elements/shift_sketch_myshopify_com_fr_pages_measurements/shift_sketch_myshopify_com_fr_pages_measurements__section_01.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/shift-sketch/pages/shift_sketch_myshopify_com_fr_pages_measurements.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/shift-sketch/pages/shift_sketch_myshopify_com_fr_pages_measurements.json"
+    }
+  ]
+}

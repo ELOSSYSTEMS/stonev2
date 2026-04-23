@@ -1,0 +1,24 @@
+{
+  "pageUrl": "https://shift-sketch.myshopify.com/pages/shipping-returns-product-popup",
+  "pageTitle": "Shipping & Returns product popup – Shift Sketch",
+  "pageSlug": "shift_sketch_myshopify_com_pages_shipping_returns_product_popup",
+  "sections": [
+    {
+      "refId": "shift_sketch_myshopify_com_pages_shipping_returns_product_popup__section_01",
+      "index": 1,
+      "selectorHint": "#shopify-section-template--27266934047095__page_info",
+      "typeGuess": "content-section",
+      "patternTags": [
+        "top-of-page",
+        "product-commerce"
+      ],
+      "headingSample": [
+        "Shipping & Returns product popup"
+      ],
+      "textSample": "Shipping & Returns product popup Shipping Orders are processed within 1–2 business days. Standard delivery typically takes 3–7 business days depending on location. Tracking details are provided once the order ships. Returns Returns are accepted within 14 days for unused items in ",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/shift-sketch/elements/shift_sketch_myshopify_com_pages_shipping_returns_product_popup/shift_sketch_myshopify_com_pages_shipping_returns_product_popup__section_01.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/shift-sketch/pages/shift_sketch_myshopify_com_pages_shipping_returns_product_popup.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/shift-sketch/pages/shift_sketch_myshopify_com_pages_shipping_returns_product_popup.json"
+    }
+  ]
+}

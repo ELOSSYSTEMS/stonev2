@@ -1,0 +1,30 @@
+{
+  "jobId": "shopify-theme-dom-20260409-192242-586619",
+  "command": "batch",
+  "mode": "templates",
+  "outputRoot": "/home/elos/.openclaw/workspace/shopify_theme_dom",
+  "generatedAt": "2026-04-09T16:29:42.890Z",
+  "themesRequested": 2,
+  "themesCompleted": 2,
+  "themesFailed": 0,
+  "results": [
+    {
+      "themeSlug": "allbirds",
+      "url": "https://www.allbirds.com",
+      "outputDir": "/home/elos/.openclaw/workspace/shopify_theme_dom/allbirds",
+      "discoveredCount": 278,
+      "scrapedCount": 4,
+      "inspirationReferenceCount": 24,
+      "state": "completed"
+    },
+    {
+      "themeSlug": "athora",
+      "url": "https://athora-theme.myshopify.com",
+      "outputDir": "/home/elos/.openclaw/workspace/shopify_theme_dom/athora",
+      "discoveredCount": 252,
+      "scrapedCount": 6,
+      "inspirationReferenceCount": 27,
+      "state": "completed"
+    }
+  ]
+}

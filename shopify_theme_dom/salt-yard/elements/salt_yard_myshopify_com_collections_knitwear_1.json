@@ -1,0 +1,34 @@
+{
+  "pageUrl": "https://salt-yard.myshopify.com/collections/knitwear-1",
+  "pageTitle": "Knitwear – Symmetry Theme Salt Yard",
+  "pageSlug": "salt_yard_myshopify_com_collections_knitwear_1",
+  "sections": [
+    {
+      "refId": "salt_yard_myshopify_com_collections_knitwear_1__section_01",
+      "index": 1,
+      "selectorHint": "div.container.cf",
+      "typeGuess": "hero",
+      "patternTags": [
+        "hero-candidate",
+        "top-of-page",
+        "image-heavy",
+        "slider",
+        "cta-cluster",
+        "product-commerce",
+        "category-navigation",
+        "editorial-media"
+      ],
+      "headingSample": [
+        "New Arrivals",
+        "Sweaters & Hoodies",
+        "Trousers",
+        "Shirts",
+        "Knitwear"
+      ],
+      "textSample": "New Arrivals Sweaters & Hoodies Trousers Shirts Previous Next Knitwear Filter 11 products Sort by Featured FeaturedBest sellingAlphabetically, A-ZAlphabetically, Z-APrice, low to highPrice, high to lowDate, old to newDate, new to old Filter 11 products Sort by Featured FeaturedBe",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_collections_knitwear_1/salt_yard_myshopify_com_collections_knitwear_1__section_01.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/pages/salt_yard_myshopify_com_collections_knitwear_1.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/pages/salt_yard_myshopify_com_collections_knitwear_1.json"
+    }
+  ]
+}

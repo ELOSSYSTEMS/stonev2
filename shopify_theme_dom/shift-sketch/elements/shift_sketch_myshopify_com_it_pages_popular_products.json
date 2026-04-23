@@ -1,0 +1,61 @@
+{
+  "pageUrl": "https://shift-sketch.myshopify.com/it/pages/popular-products",
+  "pageTitle": "Prodotti popolari – Shift Sketch",
+  "pageSlug": "shift_sketch_myshopify_com_it_pages_popular_products",
+  "sections": [
+    {
+      "refId": "shift_sketch_myshopify_com_it_pages_popular_products__section_01",
+      "index": 1,
+      "selectorHint": "#shopify-section-template--28054232957303__popular-products",
+      "typeGuess": "hero",
+      "patternTags": [
+        "hero-candidate",
+        "top-of-page",
+        "image-heavy",
+        "slider",
+        "cta-cluster",
+        "card-grid",
+        "product-commerce",
+        "editorial-media"
+      ],
+      "headingSample": [
+        "Acquista i bestseller",
+        "Blocco da disegno della serie Pastel",
+        "Pianificatore di struttura giornaliera",
+        "Calendario da parete",
+        "Planner settimanale",
+        "Calendario a griglia semplice"
+      ],
+      "textSample": ".section-template--28054232957303__popular-products-padding { padding-top: 0; padding-bottom: 0; } @media screen and (min-width: 750px) { .section-template--28054232957303__popular-products-padding { padding-top: 0; padding-bottom: 0; } } @media screen and (min-width: 1440px) { .",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/shift-sketch/elements/shift_sketch_myshopify_com_it_pages_popular_products/shift_sketch_myshopify_com_it_pages_popular_products__section_01.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/shift-sketch/pages/shift_sketch_myshopify_com_it_pages_popular_products.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/shift-sketch/pages/shift_sketch_myshopify_com_it_pages_popular_products.json"
+    },
+    {
+      "refId": "shift_sketch_myshopify_com_it_pages_popular_products__section_02",
+      "index": 2,
+      "selectorHint": "#shopify-section-template--28054232957303__popular_products_4MUF97",
+      "typeGuess": "product-grid",
+      "patternTags": [
+        "image-heavy",
+        "slider",
+        "cta-cluster",
+        "card-grid",
+        "product-commerce",
+        "editorial-media"
+      ],
+      "headingSample": [
+        "Shop bestsellers",
+        "Blocco da disegno della serie Pastel",
+        "Pianificatore di struttura giornaliera",
+        "Calendario da parete",
+        "Planner settimanale",
+        "Calendario a griglia semplice"
+      ],
+      "textSample": ".section-template--28054232957303__popular_products_4MUF97-padding { padding-top: 0; padding-bottom: 0; } @media screen and (min-width: 750px) { .section-template--28054232957303__popular_products_4MUF97-padding { padding-top: 0; padding-bottom: 0; } } @media screen and (min-widt",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/shift-sketch/elements/shift_sketch_myshopify_com_it_pages_popular_products/shift_sketch_myshopify_com_it_pages_popular_products__section_02.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/shift-sketch/pages/shift_sketch_myshopify_com_it_pages_popular_products.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/shift-sketch/pages/shift_sketch_myshopify_com_it_pages_popular_products.json"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "pageUrl": "https://shift-sketch.myshopify.com/fr/pages/content-with-images",
+  "pageTitle": "Contenu avec images – Shift Sketch",
+  "pageSlug": "shift_sketch_myshopify_com_fr_pages_content_with_images",
+  "sections": [
+    {
+      "refId": "shift_sketch_myshopify_com_fr_pages_content_with_images__section_01",
+      "index": 1,
+      "selectorHint": "#shopify-section-template--28054232924535__content_with_images_zhiaFE",
+      "typeGuess": "hero",
+      "patternTags": [
+        "hero-candidate",
+        "top-of-page",
+        "image-heavy",
+        "product-commerce",
+        "editorial-media"
+      ],
+      "headingSample": [
+        "Objectif principal"
+      ],
+      "textSample": "#shopify-section-template--28054232924535__content_with_images_zhiaFE { padding-top: 0; padding-bottom: 6rem; } @media screen and (min-width: 750px) { #shopify-section-template--28054232924535__content_with_images_zhiaFE { padding-top: 0; padding-bottom: 8rem; } } @media screen a",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/shift-sketch/elements/shift_sketch_myshopify_com_fr_pages_content_with_images/shift_sketch_myshopify_com_fr_pages_content_with_images__section_01.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/shift-sketch/pages/shift_sketch_myshopify_com_fr_pages_content_with_images.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/shift-sketch/pages/shift_sketch_myshopify_com_fr_pages_content_with_images.json"
+    }
+  ]
+}

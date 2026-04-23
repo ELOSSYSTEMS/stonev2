@@ -1,0 +1,31 @@
+{
+  "pageUrl": "https://shift-sketch.myshopify.com/it/pages/blog-posts",
+  "pageTitle": "Post del blog – Shift Sketch",
+  "pageSlug": "shift_sketch_myshopify_com_it_pages_blog_posts",
+  "sections": [
+    {
+      "refId": "shift_sketch_myshopify_com_it_pages_blog_posts__section_01",
+      "index": 1,
+      "selectorHint": "#shopify-section-template--28054274015607__blog-posts",
+      "typeGuess": "hero",
+      "patternTags": [
+        "hero-candidate",
+        "top-of-page",
+        "image-heavy",
+        "cta-cluster",
+        "card-grid",
+        "editorial-media"
+      ],
+      "headingSample": [
+        "Rimani aggiornato sulle nostre ultime storie",
+        "Una guida per scegliere il giusto album da disegno per principianti",
+        "Le migliori penne, matite e pennarelli per taccuini da disegno",
+        "Come combinare un sistema di pianificazione e calendario"
+      ],
+      "textSample": ".section-template--28054274015607__blog-posts-padding { padding-top: 0; padding-bottom: 0; } @media screen and (min-width: 750px) { .section-template--28054274015607__blog-posts-padding { padding-top: 0; padding-bottom: 0; } } @media screen and (min-width: 1440px) { .section-temp",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/shift-sketch/elements/shift_sketch_myshopify_com_it_pages_blog_posts/shift_sketch_myshopify_com_it_pages_blog_posts__section_01.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/shift-sketch/pages/shift_sketch_myshopify_com_it_pages_blog_posts.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/shift-sketch/pages/shift_sketch_myshopify_com_it_pages_blog_posts.json"
+    }
+  ]
+}

@@ -1,0 +1,992 @@
+# Shopify page scrape
+
+- URL: https://zap-main.myshopify.com/es/pages/media-slider-banner
+- Title: Media slider banner
+- Body classes: template-page template-page-features-media-slider
+- Custom elements: burger-menu, cart-drawer, cart-drawer-items, cart-note, header-search, localization-form, predictive-search, product-card-small, shop-cart-sync, sticky-header
+- Headings: Infusión de miel y limón | Caja de luz | Caja de descubrimiento | Infusión de miel y limón | Caja de luz | Caja de descubrimiento | Subscribe to our Newsletter and Get 15% off your first order | Media slider banner | Mint & Lime | Rose Hibiscus | Passion | Honey Lemon Infusion | Rose Hibiscus | Original Energy | Sobre nosotros | productos | productos | Servicio al cliente | Servicio al cliente | información | información
+
+## 1. shopify-section-template--26224066232639__main
+
+- Tag: section
+- Classes: shopify-section page-section
+- Headings: Media slider banner
+
+```html
+<section id="shopify-section-template--26224066232639__main" class="shopify-section page-section"><link href="//zap-main.myshopify.com/cdn/shop/t/2/assets/section-main-page.css?v=165534704276754180541772782652" rel="stylesheet" type="text/css" media="all">
+<style data-shopify="">.section-template--26224066232639__main-padding {
+
+  padding-top: 4rem;
+
+
+
+  padding-bottom: 0;
+
+}
+
+@media screen and (min-width: 750px) { .section-template--26224066232639__main-padding {
+
+  padding-top: 5rem;
+
+
+
+  padding-bottom: 0;
+
+} }
+
+@media screen and (min-width: 1360px) { .section-template--26224066232639__main-padding {
+
+  padding-top: 8rem;
+
+
+
+  padding-bottom: 0;
+
+} }
+
+</style><div class="section-template--26224066232639__main-padding container page-width--narrow">
+  <div class="page-header">
+    <div class="page-header__inner">
+      <h1 class="main-page-title page-title title--page h2">Media slider banner</h1>
+    </div>
+  </div>
+  <div class="rte">
+    
+  </div>
+</div>
+
+
+</section>
+```
+
+## 2. shopify-section-template--26224066232639__media_banner_slider_mFJcYT
+
+- Tag: section
+- Classes: shopify-section section-media-banner-slider
+- Headings: Mint & Lime | Rose Hibiscus | Passion
+
+```html
+<section id="shopify-section-template--26224066232639__media_banner_slider_mFJcYT" class="shopify-section section-media-banner-slider"><link href="//zap-main.myshopify.com/cdn/shop/t/2/assets/section-media-banner-slider.css?v=90598046448106656031773296843" rel="stylesheet" type="text/css" media="all">
+<script src="//zap-main.myshopify.com/cdn/shop/t/2/assets/media-banner-slider.js?v=33691777315959968601774260004" defer="defer"></script>
+
+<style data-shopify="">
+  .section-template--26224066232639__media_banner_slider_mFJcYT-padding {
+
+  padding-top: 0;
+
+
+
+  padding-bottom: 0;
+
+}
+
+@media screen and (min-width: 750px) { .section-template--26224066232639__media_banner_slider_mFJcYT-padding {
+
+  padding-top: 0;
+
+
+
+  padding-bottom: 0;
+
+} }
+
+@media screen and (min-width: 1360px) { .section-template--26224066232639__media_banner_slider_mFJcYT-padding {
+
+  padding-top: 0;
+
+
+
+  padding-bottom: 0;
+
+} }
+
+  #shopify-section-template--26224066232639__media_banner_slider_mFJcYT {
+
+  padding-top: 0;
+
+
+
+  padding-bottom: 0;
+
+}
+
+@media screen and (min-width: 750px) { #shopify-section-template--26224066232639__media_banner_slider_mFJcYT {
+
+  padding-top: 0;
+
+
+
+  padding-bottom: 0;
+
+} }
+
+@media screen and (min-width: 1360px) { #shopify-section-template--26224066232639__media_banner_slider_mFJcYT {
+
+  padding-top: 0;
+
+
+
+  padding-bottom: 0;
+
+
+} }
+
+</style>
+
+
+  <style data-shopify="">
+        .section-template--26224066232639__media_banner_slider_mFJcYT .media-banner-slider__slide-slide_zptCfh::before {
+          content: "";
+          display: block;
+          width: 0;
+          padding-bottom: 56.25%;
+        }
+
+        @media screen and (min-width: 576px) {
+          .section-template--26224066232639__media_banner_slider_mFJcYT .media-banner-slider__slide-slide_zptCfh::before {
+            content: "";
+            display: block;
+            width: 0;
+            padding-bottom: 56.25%;
+          }
+        }
+    
+        
+
+        
+      
+  </style>
+
+
+  <style data-shopify="">
+        .section-template--26224066232639__media_banner_slider_mFJcYT .media-banner-slider__slide-slide_RNegAK::before {
+          content: "";
+          display: block;
+          width: 0;
+          padding-bottom: 56.25%;
+        }
+
+        @media screen and (min-width: 576px) {
+          .section-template--26224066232639__media_banner_slider_mFJcYT .media-banner-slider__slide-slide_RNegAK::before {
+            content: "";
+            display: block;
+            width: 0;
+            padding-bottom: 56.25%;
+          }
+        }
+    
+        
+
+        
+      
+  </style>
+
+
+  <style data-shopify="">
+        .section-template--26224066232639__media_banner_slider_mFJcYT .media-banner-slider__slide-slide_PdThwY::before {
+          content: "";
+          display: block;
+          width: 0;
+          padding-bottom: 56.25%;
+        }
+
+        @media screen and (min-width: 576px) {
+          .section-template--26224066232639__media_banner_slider_mFJcYT .media-banner-slider__slide-slide_PdThwY::before {
+            content: "";
+            display: block;
+            width: 0;
+            padding-bottom: 56.25%;
+          }
+        }
+    
+        
+
+        
+      
+  </style>
+<div class="section-template--26224066232639__media_banner_slider_mFJcYT media-banner-slider media-banner-slider--overlay color-background-1 background section-template--26224066232639__media_banner_slider_mFJcYT-padding media-banner-slider--border-top" data-slide-position="full_width_image" data-autoplay="false" data-loop="true" data-stop-on-hover="false" data-pagination="true" data-navigation="false" data-animation-type="slide" data-full-width="false">
+  <div class="media-banner-slider__container container media-banner-slider--with-controls media-banner-slider--controls-center media-banner-slider--content-top">
+    <div class="media-banner-slider__swiper media-banner-slider__swiper--overlay swiper media-banner-slider__swiper--top swiper-initialized swiper-horizontal swiper-watch-progress swiper-backface-hidden">
+      
+        
+
+        
+
+        <div class="media-banner-slider__rotating-text color-background-1 media-banner-slider__rotating-text--top">
+          <svg viewBox="0 0 132 132">
+            <defs>
+              <path id="circlePath" d="
+                  M 66,66
+                  m -38, 0
+                  a 38,38 0 1,1 76,0
+                  a 38,38 0 1,1 -76,0" transform="rotate(180,66,66)"></path>
+            </defs>
+            <text>
+              <textPath xlink:href="#circlePath" textLength="216.0">
+                HERE FOR A GOOD TIME
+              </textPath>
+            </text>
+          </svg>
+        </div>
+      
+      <div class="swiper-wrapper" id="swiper-wrapper-c8586dfe8ed56130" aria-live="polite"><div class="media-banner-slider__slide swiper-slide media-banner-slider__slide-slide_zptCfh color-background-1 swiper-slide-visible swiper-slide-fully-visible swiper-slide-active" data-swiper-autoplay="5000" data-color-scheme="color-" style="--slide-overlay: 0.0; width: 1361px;" role="group" aria-label="1 / 3" data-swiper-slide-index="0">
+            <div class="media-banner-slider__outher-wrapper"><div class="media-banner-slider__content-wrapper media-banner-slider__content-wrapper--top" data-swiper-parallax="-700">
+                  <div class="media-banner-slider__content-group slide-content-animate"><div class="media-banner-slider__label media-banner-slider__label--pill">
+                        <div class="media-banner-slider__label-icons">
+                          <div class="media-banner-slider__label-icon-wrapper">
+                                <svg class="icon icon-star" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M7.30783 1.14622C7.52458 0.474163 8.47542 0.474161 8.69217 1.14622L10.0707 5.42053C10.1677 5.72151 10.4482 5.92527 10.7644 5.92458L15.2555 5.91476C15.9616 5.91322 16.2555 6.81753 15.6833 7.23134L12.0441 9.86319C11.7879 10.0485 11.6808 10.3782 11.7792 10.6788L13.1763 14.947C13.396 15.6181 12.6267 16.177 12.0564 15.7607L8.42877 13.113C8.17332 12.9265 7.82668 12.9265 7.57123 13.113L3.94364 15.7607C3.37327 16.177 2.60401 15.6181 2.82369 14.947L4.22085 10.6788C4.31923 10.3782 4.21211 10.0485 3.95586 9.86319L0.316723 7.23134C-0.255467 6.81753 0.0383596 5.91322 0.744504 5.91476L5.23559 5.92458C5.55183 5.92527 5.83228 5.72151 5.92935 5.42053L7.30783 1.14622Z" fill="currentColor"></path>
+</svg>
+
+</div><div class="media-banner-slider__label-icon-wrapper">
+                                <svg class="icon icon-star" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M7.30783 1.14622C7.52458 0.474163 8.47542 0.474161 8.69217 1.14622L10.0707 5.42053C10.1677 5.72151 10.4482 5.92527 10.7644 5.92458L15.2555 5.91476C15.9616 5.91322 16.2555 6.81753 15.6833 7.23134L12.0441 9.86319C11.7879 10.0485 11.6808 10.3782 11.7792 10.6788L13.1763 14.947C13.396 15.6181 12.6267 16.177 12.0564 15.7607L8.42877 13.113C8.17332 12.9265 7.82668 12.9265 7.57123 13.113L3.94364 15.7607C3.37327 16.177 2.60401 15.6181 2.82369 14.947L4.22085 10.6788C4.31923 10.3782 4.21211 10.0485 3.95586 9.86319L0.316723 7.23134C-0.255467 6.81753 0.0383596 5.91322 0.744504 5.91476L5.23559 5.92458C5.55183 5.92527 5.83228 5.72151 5.92935 5.42053L7.30783 1.14622Z" fill="currentColor"></path>
+</svg>
+
+</div><div class="media-banner-slider__label-icon-wrapper">
+                                <svg class="icon icon-star" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M7.30783 1.14622C7.52458 0.474163 8.47542 0.474161 8.69217 1.14622L10.0707 5.42053C10.1677 5.72151 10.4482 5.92527 10.7644 5.92458L15.2555 5.91476C15.9616 5.91322 16.2555 6.81753 15.6833 7.23134L12.0441 9.86319C11.7879 10.0485 11.6808 10.3782 11.7792 10.6788L13.1763 14.947C13.396 15.6181 12.6267 16.177 12.0564 15.7607L8.42877 13.113C8.17332 12.9265 7.82668 12.9265 7.57123 13.113L3.94364 15.7607C3.37327 16.177 2.60401 15.6181 2.82369 14.947L4.22085 10.6788C4.31923 10.3782 4.21211 10.0485 3.95586 9.86319L0.316723 7.23134C-0.255467 6.81753 0.0383596 5.91322 0.744504 5.91476L5.23559 5.92458C5.55183 5.92527 5.83228 5.72151 5.92935 5.42053L7.30783 1.14622Z" fill="currentColor"></path>
+</svg>
+
+</div><div class="media-banner-slider__label-icon-wrapper">
+                                <svg class="icon icon-star" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M7.30783 1.14622C7.52458 0.474163 8.47542 0.474161 8.69217 1.14622L10.0707 5.42053C10.1677 5.72151 10.4482 5.92527 10.7644 5.92458L15.2555 5.91476C15.9616 5.91322 16.2555 6.81753 15.6833 7.23134L12.0441 9.86319C11.7879 10.0485 11.6808 10.3782 11.7792 10.6788L13.1763 14.947C13.396 15.6181 12.6267 16.177 12.0564 15.7607L8.42877 13.113C8.17332 12.9265 7.82668 12.9265 7.57123 13.113L3.94364 15.7607C3.37327 16.177 2.60401 15.6181 2.82369 14.947L4.22085 10.6788C4.31923 10.3782 4.21211 10.0485 3.95586 9.86319L0.316723 7.23134C-0.255467 6.81753 0.0383596 5.91322 0.744504 5.91476L5.23559 5.92458C5.55183 5.92527 5.83228 5.72151 5.92935 5.42053L7.30783 1.14622Z" fill="currentColor"></path>
+</svg>
+
+</div><div class="media-banner-slider__label-icon-wrapper">
+                                <svg class="icon icon-star" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M7.30783 1.14622C7.52458 0.474163 8.47542 0.474161 8.69217 1.14622L10.0707 5.42053C10.1677 5.72151 10.4482 5.92527 10.7644 5.92458L15.2555 5.91476C15.9616 5.91322 16.2555 6.81753 15.6833 7.23134L12.0441 9.86319C11.7879 10.0485 11.6808 10.3782 11.7792 10.6788L13.1763 14.947C13.396 15.6181 12.6267 16.177 12.0564 15.7607L8.42877 13.113C8.17332 12.9265 7.82668 12.9265 7.57123 13.113L3.94364 15.7607C3.37327 16.177 2.60401 15.6181 2.82369 14.947L4.22085 10.6788C4.31923 10.3782 4.21211 10.0485 3.95586 9.86319L0.316723 7.23134C-0.255467 6.81753 0.0383596 5.91322 0.744504 5.91476L5.23559 5.92458C5.55183 5.92527 5.83228 5.72151 5.92935 5.42053L7.30783 1.14622Z" fill="currentColor"></path>
+</svg>
+
+</div>
+                        </div><span class="media-banner-slider__label-text body-small">1000s of Happy Customers!</span></div><h2 class="media-banner-slider__title-content h1">
+                        <span>Mint &amp; Lime</span>
+                      </h2><div class="media-banner-slider__description-content body-normal">
+                        <p>A chilled, refreshing drink made for easy, everyday hydration. Light, flavorful, and brewed to deliver a clean, energizing taste.</p>
+                      </div><div class="media-banner-slider__buttons-content">
+                        
+
+
+
+
+  <a href="/es/collections" aria-label="Shop Now" class="button button--primary media-banner-slider__button">
+    <div class="button__content">
+      <span class="button__label" data-label="Shop Now">Shop Now</span>
+    </div>
+    
+      <span class="animated-button-circle"></span>
+    
+  </a>
+
+
+                      </div></div>
+                </div>
+
+              <div class="media-banner-slider__media media-banner-slider__media--full-width">
+                
+
+<img src="//zap-main.myshopify.com/cdn/shop/files/02-content-04.jpg?v=1765822874&amp;width=2102" alt="" srcset="//zap-main.myshopify.com/cdn/shop/files/02-content-04.jpg?v=1765822874&amp;width=550 550w, //zap-main.myshopify.com/cdn/shop/files/02-content-04.jpg?v=1765822874&amp;width=720 720w, //zap-main.myshopify.com/cdn/shop/files/02-content-04.jpg?v=1765822874&amp;width=990 990w, //zap-main.myshopify.com/cdn/shop/files/02-content-04.jpg?v=1765822874&amp;width=1200 1200w, //zap-main.myshopify.com/cdn/shop/files/02-content-04.jpg?v=1765822874&amp;width=1500 1500w, //zap-main.myshopify.com/cdn/shop/files/02-content-04.jpg?v=1765822874&amp;width=1800 1800w" width="2102" height="1337" loading="lazy" class="media-banner-slider__image" sizes="(min-width: 1440px) calc(1 * 1280px), (min-width: 990px) calc(1 * 100vw), (min-width: 576px) calc(1 * 100vw), calc(1.4 * 100vw)" style="object-position: 50.0% 50.0%;" fetchpriority="auto">
+
+
+              </div>
+            </div>
+          </div><div class="media-banner-slider__slide swiper-slide media-banner-slider__slide-slide_RNegAK color-background-1 swiper-slide-next" data-swiper-autoplay="5000" data-color-scheme="color-" style="--slide-overlay: 0.0; width: 1361px;" role="group" aria-label="2 / 3" data-swiper-slide-index="1">
+            <div class="media-banner-slider__outher-wrapper"><div class="media-banner-slider__content-wrapper media-banner-slider__content-wrapper--top" data-swiper-parallax="-700">
+                  <div class="media-banner-slider__content-group"><div class="media-banner-slider__label media-banner-slider__label--pill">
+                        <div class="media-banner-slider__label-icons">
+                          <div class="media-banner-slider__label-icon-wrapper">
+                                <svg class="icon icon-star" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M7.30783 1.14622C7.52458 0.474163 8.47542 0.474161 8.69217 1.14622L10.0707 5.42053C10.1677 5.72151 10.4482 5.92527 10.7644 5.92458L15.2555 5.91476C15.9616 5.91322 16.2555 6.81753 15.6833 7.23134L12.0441 9.86319C11.7879 10.0485 11.6808 10.3782 11.7792 10.6788L13.1763 14.947C13.396 15.6181 12.6267 16.177 12.0564 15.7607L8.42877 13.113C8.17332 12.9265 7.82668 12.9265 7.57123 13.113L3.94364 15.7607C3.37327 16.177 2.60401 15.6181 2.82369 14.947L4.22085 10.6788C4.31923 10.3782 4.21211 10.0485 3.95586 9.86319L0.316723 7.23134C-0.255467 6.81753 0.0383596 5.91322 0.744504 5.91476L5.23559 5.92458C5.55183 5.92527 5.83228 5.72151 5.92935 5.42053L7.30783 1.14622Z" fill="currentColor"></path>
+</svg>
+
+</div><div class="media-banner-slider__label-icon-wrapper">
+                                <svg class="icon icon-star" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M7.30783 1.14622C7.52458 0.474163 8.47542 0.474161 8.69217 1.14622L10.0707 5.42053C10.1677 5.72151 10.4482 5.92527 10.7644 5.92458L15.2555 5.91476C15.9616 5.91322 16.2555 6.81753 15.6833 7.23134L12.0441 9.86319C11.7879 10.0485 11.6808 10.3782 11.7792 10.6788L13.1763 14.947C13.396 15.6181 12.6267 16.177 12.0564 15.7607L8.42877 13.113C8.17332 12.9265 7.82668 12.9265 7.57123 13.113L3.94364 15.7607C3.37327 16.177 2.60401 15.6181 2.82369 14.947L4.22085 10.6788C4.31923 10.3782 4.21211 10.0485 3.95586 9.86319L0.316723 7.23134C-0.255467 6.81753 0.0383596 5.91322 0.744504 5.91476L5.23559 5.92458C5.55183 5.92527 5.83228 5.72151 5.92935 5.42053L7.30783 1.14622Z" fill="currentColor"></path>
+</svg>
+
+</div><div class="media-banner-slider__label-icon-wrapper">
+                                <svg class="icon icon-star" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M7.30783 1.14622C7.52458 0.474163 8.47542 0.474161 8.69217 1.14622L10.0707 5.42053C10.1677 5.72151 10.4482 5.92527 10.7644 5.92458L15.2555 5.91476C15.9616 5.91322 16.2555 6.81753 15.6833 7.23134L12.0441 9.86319C11.7879 10.0485 11.6808 10.3782 11.7792 10.6788L13.1763 14.947C13.396 15.6181 12.6267 16.177 12.0564 15.7607L8.42877 13.113C8.17332 12.9265 7.82668 12.9265 7.57123 13.113L3.94364 15.7607C3.37327 16.177 2.60401 15.6181 2.82369 14.947L4.22085 10.6788C4.31923 10.3782 4.21211 10.0485 3.95586 9.86319L0.316723 7.23134C-0.255467 6.81753 0.0383596 5.91322 0.744504 5.91476L5.23559 5.92458C5.55183 5.92527 5.83228 5.72151 5.92935 5.42053L7.30783 1.14622Z" fill="currentColor"></path>
+</svg>
+
+</div><div class="media-banner-slider__label-icon-wrapper">
+                                <svg class="icon icon-star" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M7.30783 1.14622C7.52458 0.474163 8.47542 0.474161 8.69217 1.14622L10.0707 5.42053C10.1677 5.72151 10.4482 5.92527 10.7644 5.92458L15.2555 5.91476C15.9616 5.91322 16.2555 6.81753 15.6833 7.23134L12.0441 9.86319C11.7879 10.0485 11.6808 10.3782 11.7792 10.6788L13.1763 14.947C13.396 15.6181 12.6267 16.177 12.0564 15.7607L8.42877 13.113C8.17332 12.9265 7.82668 12.9265 7.57123 13.113L3.94364 15.7607C3.37327 16.177 2.60401 15.6181 2.82369 14.947L4.22085 10.6788C4.31923 10.3782 4.21211 10.0485 3.95586 9.86319L0.316723 7.23134C-0.255467 6.81753 0.0383596 5.91322 0.744504 5.91476L5.23559 5.92458C5.55183 5.92527 5.83228 5.72151 5.92935 5.42053L7.30783 1.14622Z" fill="currentColor"></path>
+</svg>
+
+</div><div class="media-banner-slider__label-icon-wrapper">
+                                <svg class="icon icon-star" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M7.30783 1.14622C7.52458 0.474163 8.47542 0.474161 8.69217 1.14622L10.0707 5.42053C10.1677 5.72151 10.4482 5.92527 10.7644 5.92458L15.2555 5.91476C15.9616 5.91322 16.2555 6.81753 15.6833 7.23134L12.0441 9.86319C11.7879 10.0485 11.6808 10.3782 11.7792 10.6788L13.1763 14.947C13.396 15.6181 12.6267 16.177 12.0564 15.7607L8.42877 13.113C8.17332 12.9265 7.82668 12.9265 7.57123 13.113L3.94364 15.7607C3.37327 16.177 2.60401 15.6181 2.82369 14.947L4.22085 10.6788C4.31923 10.3782 4.21211 10.0485 3.95586 9.86319L0.316723 7.23134C-0.255467 6.81753 0.0383596 5.91322 0.744504 5.91476L5.23559 5.92458C5.55183 5.92527 5.83228 5.72151 5.92935 5.42053L7.30783 1.14622Z" fill="currentColor"></path>
+</svg>
+
+</div>
+                        </div><span class="media-banner-slider__label-text body-small">1000s of Happy Customers!</span></div><h2 class="media-banner-slider__title-content h1">
+                        <span>Rose Hibiscus</span>
+                      </h2><div class="media-banner-slider__description-content body-normal">
+                        <p>A chilled, refreshing drink made for easy, everyday hydration. Light, flavorful, and brewed to deliver a clean, energizing taste.</p>
+                      </div><div class="media-banner-slider__buttons-content">
+                        
+
+
+
+
+  <a href="/es/collections" aria-label="Shop Now" class="button button--primary media-banner-slider__button">
+    <div class="button__content">
+      <span class="button__label" data-label="Shop Now">Shop Now</span>
+    </div>
+    
+      <span class="animated-button-circle"></span>
+    
+  </a>
+
+
+                      </div></div>
+                </div>
+
+              <div class="media-banner-slider__media media-banner-slider__media--full-width">
+                
+
+<img src="//zap-main.myshopify.com/cdn/shop/files/01-content-02.jpg?v=1765974212&amp;width=2457" alt="" srcset="//zap-main.myshopify.com/cdn/shop/files/01-content-02.jpg?v=1765974212&amp;width=550 550w, //zap-main.myshopify.com/cdn/shop/files/01-content-02.jpg?v=1765974212&amp;width=720 720w, //zap-main.myshopify.com/cdn/shop/files/01-content-02.jpg?v=1765974212&amp;width=990 990w, //zap-main.myshopify.com/cdn/shop/files/01-content-02.jpg?v=1765974212&amp;width=1200 1200w, //zap-main.myshopify.com/cdn/shop/files/01-content-02.jpg?v=1765974212&amp;width=1500 1500w, //zap-main.myshopify.com/cdn/shop/files/01-content-02.jpg?v=1765974212&amp;width=1800 1800w, //zap-main.myshopify.com/cdn/shop/files/01-content-02.jpg?v=1765974212&amp;width=2200 2200w" width="2457" height="1664" loading="lazy" class="media-banner-slider__image" sizes="(min-width: 1440px) calc(1 * 1280px), (min-width: 990px) calc(1 * 100vw), (min-width: 576px) calc(1 * 100vw), calc(1.4 * 100vw)" style="object-position: 50.0% 50.0%;" fetchpriority="auto">
+
+
+              </div>
+            </div>
+          </div><div class="media-banner-slider__slide swiper-slide media-banner-slider__slide-slide_PdThwY color-background-1" data-swiper-autoplay="5000" data-color-scheme="color-" style="--slide-overlay: 0.0; width: 1361px;" role="group" aria-label="3 / 3" data-swiper-slide-index="2">
+            <div class="media-banner-slider__outher-wrapper"><div class="media-banner-slider__content-wrapper media-banner-slider__content-wrapper--top" data-swiper-parallax="-700">
+                  <div class="media-banner-slider__content-group"><div class="media-banner-slider__label media-banner-slider__label--pill">
+                        <div class="media-banner-slider__label-icons">
+                          <div class="media-banner-slider__label-icon-wrapper">
+                                <svg class="icon icon-star" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M7.30783 1.14622C7.52458 0.474163 8.47542 0.474161 8.69217 1.14622L10.0707 5.42053C10.1677 5.72151 10.4482 5.92527 10.7644 5.92458L15.2555 5.91476C15.9616 5.91322 16.2555 6.81753 15.6833 7.23134L12.0441 9.86319C11.7879 10.0485 11.6808 10.3782 11.7792 10.6788L13.1763 14.947C13.396 15.6181 12.6267 16.177 12.0564 15.7607L8.42877 13.113C8.17332 12.9265 7.82668 12.9265 7.57123 13.113L3.94364 15.7607C3.37327 16.177 2.60401 15.6181 2.82369 14.947L4.22085 10.6788C4.31923 10.3782 4.21211 10.0485 3.95586 9.86319L0.316723 7.23134C-0.255467 6.81753 0.0383596 5.91322 0.744504 5.91476L5.23559 5.92458C5.55183 5.92527 5.83228 5.72151 5.92935 5.42053L7.30783 1.14622Z" fill="currentColor"></path>
+</svg>
+
+</div><div class="media-banner-slider__label-icon-wrapper">
+                                <svg class="icon icon-star" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M7.30783 1.14622C7.52458 0.474163 8.47542 0.474161 8.69217 1.14622L10.0707 5.42053C10.1677 5.72151 10.4482 5.92527 10.7644 5.92458L15.2555 5.91476C15.9616 5.91322 16.2555 6.81753 15.6833 7.23134L12.0441 9.86319C11.7879 10.0485 11.6808 10.3782 11.7792 10.6788L13.1763 14.947C13.396 15.6181 12.6267 16.177 12.0564 15.7607L8.42877 13.113C8.17332 12.9265 7.82668 12.9265 7.57123 13.113L3.94364 15.7607C3.37327 16.177 2.60401 15.6181 2.82369 14.947L4.22085 10.6788C4.31923 10.3782 4.21211 10.0485 3.95586 9.86319L0.316723 7.23134C-0.255467 6.81753 0.0383596 5.91322 0.744504 5.91476L5.23559 5.92458C5.55183 5.92527 5.83228 5.72151 5.92935 5.42053L7.30783 1.14622Z" fill="currentColor"></path>
+</svg>
+
+</div><div class="media-banner-slider__label-icon-wrapper">
+                                <svg class="icon icon-star" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M7.30783 1.14622C7.52458 0.474163 8.47542 0.474161 8.69217 1.14622L10.0707 5.42053C10.1677 5.72151 10.4482 5.92527 10.7644 5.92458L15.2555 5.91476C15.9616 5.91322 16.2555 6.81753 15.6833 7.23134L12.0441 9.86319C11.7879 10.0485 11.6808 10.3782 11.7792 10.6788L13.1763 14.947C13.396 15.6181 12.6267 16.177 12.0564 15.7607L8.42877 13.113C8.17332 12.9265 7.82668 12.9265 7.57123 13.113L3.94364 15.7607C3.37327 16.177 2.60401 15.6181 2.82369 14.947L4.22085 10.6788C4.31923 10.3782 4.21211 10.0485 3.95586 9.86319L0.316723 7.23134C-0.255467 6.81753 0.0383596 5.91322 0.744504 5.91476L5.23559 5.92458C5.55183 5.92527 5.83228 5.72151 5.92935 5.42053L7.30783 1.14622Z" fill="currentColor"></path>
+</svg>
+
+</div><div class="media-banner-slider__label-icon-wrapper">
+                                <svg class="icon icon-star" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M7.30783 1.14622C7.52458 0.474163 8.47542 0.474161 8.69217 1.14622L10.0707 5.42053C10.1677 5.72151 10.4482 5.92527 10.7644 5.92458L15.2555 5.91476C15.9616 5.91322 16.2555 6.81753 15.6833 7.23134L12.0441 9.86319C11.7879 10.0485 11.6808 10.3782 11.7792 10.6788L13.1763 14.947C13.396 15.6181 12.6267 16.177 12.0564 15.7607L8.42877 13.113C8.17332 12.9265 7.82668 12.9265 7.57123 13.113L3.94364 15.7607C3.37327 16.177 2.60401 15.6181 2.82369 14.947L4.22085 10.6788C4.31923 10.3782 4.21211 10.0485 3.95586 9.86319L0.316723 7.23134C-0.255467 6.81753 0.0383596 5.91322 0.744504 5.91476L5.23559 5.92458C5.55183 5.92527 5.83228 5.72151 5.92935 5.42053L7.30783 1.14622Z" fill="currentColor"></path>
+</svg>
+
+</div><div class="media-banner-slider__label-icon-wrapper">
+                                <svg class="icon icon-star" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M7.30783 1.14622C7.52458 0.474163 8.47542 0.474161 8.69217 1.14622L10.0707 5.42053C10.1677 5.72151 10.4482 5.92527 10.7644 5.92458L15.2555 5.91476C15.9616 5.91322 16.2555 6.81753 15.6833 7.23134L12.0441 9.86319C11.7879 10.0485 11.6808 10.3782 11.7792 10.6788L13.1763 14.947C13.396 15.6181 12.6267 16.177 12.0564 15.7607L8.42877 13.113C8.17332 12.9265 7.82668 12.9265 7.57123 13.113L3.94364 15.7607C3.37327 16.177 2.60401 15.6181 2.82369 14.947L4.22085 10.6788C4.31923 10.3782 4.21211 10.0485 3.95586 9.86319L0.316723 7.23134C-0.255467 6.81753 0.0383596 5.91322 0.744504 5.91476L5.23559 5.92458C5.55183 5.92527 5.83228 5.72151 5.92935 5.42053L7.30783 1.14622Z" fill="currentColor"></path>
+</svg>
+
+</div>
+                        </div><span class="media-banner-slider__label-text body-small">1000s of Happy Customers!</span></div><h2 class="media-banner-slider__title-content h1">
+                        <span>Passion</span>
+                      </h2><div class="media-banner-slider__description-content body-normal">
+                        <p>A chilled, refreshing drink made for easy, everyday hydration. Light, flavorful, and brewed to deliver a clean, energizing taste.</p>
+                      </div><div class="media-banner-slider__buttons-content">
+                        
+
+
+
+
+  <a href="/es/collections" aria-label="Shop Now" class="button button--primary media-banner-slider__button">
+    <div class="button__content">
+      <span class="button__label" data-label="Shop Now">Shop Now</span>
+    </div>
+    
+      <span class="animated-button-circle"></span>
+    
+  </a>
+
+
+                      </div></div>
+                </div>
+
+              <div class="media-banner-slider__media media-banner-slider__media--full-width">
+                
+
+<img src="//zap-main.myshopify.com/cdn/shop/files/02-prod.page-03.jpg?v=1765796582&amp;width=2816" alt="" srcset="//zap-main.myshopify.com/cdn/shop/files/02-prod.page-03.jpg?v=1765796582&amp;width=550 550w, //zap-main.myshopify.com/cdn/shop/files/02-prod.page-03.jpg?v=1765796582&amp;width=720 720w, //zap-main.myshopify.com/cdn/shop/files/02-prod.page-03.jpg?v=1765796582&amp;width=990 990w, //zap-main.myshopify.com/cdn/shop/files/02-prod.page-03.jpg?v=1765796582&amp;width=1200 1200w, //zap-main.myshopify.com/cdn/shop/files/02-prod.page-03.jpg?v=1765796582&amp;width=1500 1500w, //zap-main.myshopify.com/cdn/shop/files/02-prod.page-03.jpg?v=1765796582&amp;width=1800 1800w, //zap-main.myshopify.com/cdn/shop/files/02-prod.page-03.jpg?v=1765796582&amp;width=2200 2200w, //zap-main.myshopify.com/cdn/shop/files/02-prod.page-03.jpg?v=1765796582&amp;width=2600 2600w" width="2816" height="1472" loading="lazy" class="media-banner-slider__image" sizes="(min-width: 1440px) calc(1.07 * 1280px), (min-width: 990px) calc(1.07 * 100vw), (min-width: 576px) calc(1.07 * 100vw), calc(1.5 * 100vw)" style="object-position: 45.6231% 46.0104%;" fetchpriority="auto">
+
+
+              </div>
+            </div>
+          </div></div><div class="no-js-hidden media-banner-slider__controls media-banner-slider__controls--center"><div class="media-banner-slider__pagination swiper-pagination swiper-pagination-clickable swiper-pagination-bullets swiper-pagination-horizontal"><span class="swiper-pagination-bullet swiper-pagination-bullet-active" tabindex="0" role="button" aria-label="Go to slide 1" aria-current="true"></span><span class="swiper-pagination-bullet" tabindex="0" role="button" aria-label="Go to slide 2"></span><span class="swiper-pagination-bullet" tabindex="0" role="button" aria-label="Go to slide 3"></span></div></div><span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
+  </div>
+</div>
+
+
+</section>
+```
+
+## 3. shopify-section-template--26224066232639__media_banner_slider_tf8Qew
+
+- Tag: section
+- Classes: shopify-section section-media-banner-slider
+- Headings: Honey Lemon Infusion | Rose Hibiscus | Original Energy
+
+```html
+<section id="shopify-section-template--26224066232639__media_banner_slider_tf8Qew" class="shopify-section section-media-banner-slider"><link href="//zap-main.myshopify.com/cdn/shop/t/2/assets/section-media-banner-slider.css?v=90598046448106656031773296843" rel="stylesheet" type="text/css" media="all">
+<script src="//zap-main.myshopify.com/cdn/shop/t/2/assets/media-banner-slider.js?v=33691777315959968601774260004" defer="defer"></script>
+
+<style data-shopify="">
+  .section-template--26224066232639__media_banner_slider_tf8Qew-padding {
+
+  padding-top: 0;
+
+
+
+  padding-bottom: 0;
+
+}
+
+@media screen and (min-width: 750px) { .section-template--26224066232639__media_banner_slider_tf8Qew-padding {
+
+  padding-top: 0;
+
+
+
+  padding-bottom: 0;
+
+} }
+
+@media screen and (min-width: 1360px) { .section-template--26224066232639__media_banner_slider_tf8Qew-padding {
+
+  padding-top: 0;
+
+
+
+  padding-bottom: 0;
+
+} }
+
+  #shopify-section-template--26224066232639__media_banner_slider_tf8Qew {
+
+  padding-top: 0;
+
+
+
+  padding-bottom: 0;
+
+}
+
+@media screen and (min-width: 750px) { #shopify-section-template--26224066232639__media_banner_slider_tf8Qew {
+
+  padding-top: 0;
+
+
+
+  padding-bottom: 0;
+
+} }
+
+@media screen and (min-width: 1360px) { #shopify-section-template--26224066232639__media_banner_slider_tf8Qew {
+
+  padding-top: 0;
+
+
+
+  padding-bottom: 0;
+
+
+} }
+
+</style>
+
+
+  <style data-shopify="">
+        .section-template--26224066232639__media_banner_slider_tf8Qew .media-banner-slider__slide-slide_3exiqD::before {
+          content: "";
+          display: block;
+          width: 0;
+          padding-bottom: 42.86%;
+        }
+
+        @media screen and (min-width: 576px) {
+          .section-template--26224066232639__media_banner_slider_tf8Qew .media-banner-slider__slide-slide_3exiqD::before {
+            content: "";
+            display: block;
+            width: 0;
+            padding-bottom: 42.86%;
+          }
+        }
+    
+  </style>
+
+
+  <style data-shopify="">
+        .section-template--26224066232639__media_banner_slider_tf8Qew .media-banner-slider__slide-slide_xXC4Cw::before {
+          content: "";
+          display: block;
+          width: 0;
+          padding-bottom: 42.86%;
+        }
+
+        @media screen and (min-width: 576px) {
+          .section-template--26224066232639__media_banner_slider_tf8Qew .media-banner-slider__slide-slide_xXC4Cw::before {
+            content: "";
+            display: block;
+            width: 0;
+            padding-bottom: 42.86%;
+          }
+        }
+    
+  </style>
+
+
+  <style data-shopify="">
+        .section-template--26224066232639__media_banner_slider_tf8Qew .media-banner-slider__slide-slide_XUEzHh::before {
+          content: "";
+          display: block;
+          width: 0;
+          padding-bottom: 42.86%;
+        }
+
+        @media screen and (min-width: 576px) {
+          .section-template--26224066232639__media_banner_slider_tf8Qew .media-banner-slider__slide-slide_XUEzHh::before {
+            content: "";
+            display: block;
+            width: 0;
+            padding-bottom: 42.86%;
+          }
+        }
+    
+  </style>
+<div class="section-template--26224066232639__media_banner_slider_tf8Qew media-banner-slider media-banner-slider--overlay color-background-1 background section-template--26224066232639__media_banner_slider_tf8Qew-padding" data-slide-position="aside_image" data-autoplay="false" data-loop="true" data-stop-on-hover="false" data-pagination="true" data-navigation="false" data-animation-type="fade" data-full-width="true">
+  <div class="media-banner-slider__container media-banner-slider--with-controls media-banner-slider--controls-center media-banner-slider--content-top">
+    <div class="media-banner-slider__swiper media-banner-slider__swiper--overlay media-banner-slider__swiper--full-width swiper media-banner-slider__swiper--top swiper-fade swiper-initialized swiper-horizontal swiper-watch-progress swiper-backface-hidden">
+      
+      <div class="swiper-wrapper" id="swiper-wrapper-3242bf3c010e9e12" aria-live="polite"><div class="media-banner-slider__slide swiper-slide media-banner-slider__slide-slide_3exiqD color-background-1 swiper-slide-visible swiper-slide-fully-visible swiper-slide-active" data-swiper-autoplay="5000" data-color-scheme="color-" style="--slide-overlay: 0.0; width: 1425px; opacity: 1; transform: translate3d(0px, 0px, 0px);" role="group" aria-label="1 / 3" data-swiper-slide-index="0">
+            <div class="media-banner-slider__outher-wrapper"><div class="media-banner-slider__content-wrapper media-banner-slider__content-wrapper--top" data-swiper-parallax="-700">
+                  <div class="media-banner-slider__content-group slide-content-animate"><div class="media-banner-slider__label media-banner-slider__label--pill">
+                        <div class="media-banner-slider__label-icons">
+                          <div class="media-banner-slider__label-icon-wrapper">
+                                <svg class="icon icon-star" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M7.30783 1.14622C7.52458 0.474163 8.47542 0.474161 8.69217 1.14622L10.0707 5.42053C10.1677 5.72151 10.4482 5.92527 10.7644 5.92458L15.2555 5.91476C15.9616 5.91322 16.2555 6.81753 15.6833 7.23134L12.0441 9.86319C11.7879 10.0485 11.6808 10.3782 11.7792 10.6788L13.1763 14.947C13.396 15.6181 12.6267 16.177 12.0564 15.7607L8.42877 13.113C8.17332 12.9265 7.82668 12.9265 7.57123 13.113L3.94364 15.7607C3.37327 16.177 2.60401 15.6181 2.82369 14.947L4.22085 10.6788C4.31923 10.3782 4.21211 10.0485 3.95586 9.86319L0.316723 7.23134C-0.255467 6.81753 0.0383596 5.91322 0.744504 5.91476L5.23559 5.92458C5.55183 5.92527 5.83228 5.72151 5.92935 5.42053L7.30783 1.14622Z" fill="currentColor"></path>
+</svg>
+
+</div><div class="media-banner-slider__label-icon-wrapper">
+                                <svg class="icon icon-star" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M7.30783 1.14622C7.52458 0.474163 8.47542 0.474161 8.69217 1.14622L10.0707 5.42053C10.1677 5.72151 10.4482 5.92527 10.7644 5.92458L15.2555 5.91476C15.9616 5.91322 16.2555 6.81753 15.6833 7.23134L12.0441 9.86319C11.7879 10.0485 11.6808 10.3782 11.7792 10.6788L13.1763 14.947C13.396 15.6181 12.6267 16.177 12.0564 15.7607L8.42877 13.113C8.17332 12.9265 7.82668 12.9265 7.57123 13.113L3.94364 15.7607C3.37327 16.177 2.60401 15.6181 2.82369 14.947L4.22085 10.6788C4.31923 10.3782 4.21211 10.0485 3.95586 9.86319L0.316723 7.23134C-0.255467 6.81753 0.0383596 5.91322 0.744504 5.91476L5.23559 5.92458C5.55183 5.92527 5.83228 5.72151 5.92935 5.42053L7.30783 1.14622Z" fill="currentColor"></path>
+</svg>
+
+</div><div class="media-banner-slider__label-icon-wrapper">
+                                <svg class="icon icon-star" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M7.30783 1.14622C7.52458 0.474163 8.47542 0.474161 8.69217 1.14622L10.0707 5.42053C10.1677 5.72151 10.4482 5.92527 10.7644 5.92458L15.2555 5.91476C15.9616 5.91322 16.2555 6.81753 15.6833 7.23134L12.0441 9.86319C11.7879 10.0485 11.6808 10.3782 11.7792 10.6788L13.1763 14.947C13.396 15.6181 12.6267 16.177 12.0564 15.7607L8.42877 13.113C8.17332 12.9265 7.82668 12.9265 7.57123 13.113L3.94364 15.7607C3.37327 16.177 2.60401 15.6181 2.82369 14.947L4.22085 10.6788C4.31923 10.3782 4.21211 10.0485 3.95586 9.86319L0.316723 7.23134C-0.255467 6.81753 0.0383596 5.91322 0.744504 5.91476L5.23559 5.92458C5.55183 5.92527 5.83228 5.72151 5.92935 5.42053L7.30783 1.14622Z" fill="currentColor"></path>
+</svg>
+
+</div><div class="media-banner-slider__label-icon-wrapper">
+                                <svg class="icon icon-star" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M7.30783 1.14622C7.52458 0.474163 8.47542 0.474161 8.69217 1.14622L10.0707 5.42053C10.1677 5.72151 10.4482 5.92527 10.7644 5.92458L15.2555 5.91476C15.9616 5.91322 16.2555 6.81753 15.6833 7.23134L12.0441 9.86319C11.7879 10.0485 11.6808 10.3782 11.7792 10.6788L13.1763 14.947C13.396 15.6181 12.6267 16.177 12.0564 15.7607L8.42877 13.113C8.17332 12.9265 7.82668 12.9265 7.57123 13.113L3.94364 15.7607C3.37327 16.177 2.60401 15.6181 2.82369 14.947L4.22085 10.6788C4.31923 10.3782 4.21211 10.0485 3.95586 9.86319L0.316723 7.23134C-0.255467 6.81753 0.0383596 5.91322 0.744504 5.91476L5.23559 5.92458C5.55183 5.92527 5.83228 5.72151 5.92935 5.42053L7.30783 1.14622Z" fill="currentColor"></path>
+</svg>
+
+</div><div class="media-banner-slider__label-icon-wrapper">
+                                <svg class="icon icon-star" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M7.30783 1.14622C7.52458 0.474163 8.47542 0.474161 8.69217 1.14622L10.0707 5.42053C10.1677 5.72151 10.4482 5.92527 10.7644 5.92458L15.2555 5.91476C15.9616 5.91322 16.2555 6.81753 15.6833 7.23134L12.0441 9.86319C11.7879 10.0485 11.6808 10.3782 11.7792 10.6788L13.1763 14.947C13.396 15.6181 12.6267 16.177 12.0564 15.7607L8.42877 13.113C8.17332 12.9265 7.82668 12.9265 7.57123 13.113L3.94364 15.7607C3.37327 16.177 2.60401 15.6181 2.82369 14.947L4.22085 10.6788C4.31923 10.3782 4.21211 10.0485 3.95586 9.86319L0.316723 7.23134C-0.255467 6.81753 0.0383596 5.91322 0.744504 5.91476L5.23559 5.92458C5.55183 5.92527 5.83228 5.72151 5.92935 5.42053L7.30783 1.14622Z" fill="currentColor"></path>
+</svg>
+
+</div>
+                        </div><span class="media-banner-slider__label-text body-small">1000s of Happy Customers!</span></div><h2 class="media-banner-slider__title-content h2">
+                        <span>Honey Lemon Infusion</span>
+                      </h2><div class="media-banner-slider__description-content body-normal">
+                        <p>Golden honey meets bright lemon in every slow-steeped sip.</p>
+                      </div><div class="media-banner-slider__buttons-content">
+                        
+
+
+
+
+  <a href="/es/collections" aria-label="Shop Now" class="button button--secondary media-banner-slider__button">
+    <div class="button__content">
+      <span class="button__label" data-label="Shop Now">Shop Now</span>
+    </div>
+    
+      <span class="animated-button-circle"></span>
+    
+  </a>
+
+
+                      </div></div>
+                </div>
+
+              <div class="media-banner-slider__media media-banner-slider__media--aside">
+                
+
+<img src="//zap-main.myshopify.com/cdn/shop/files/01-drinks-hover-01_7c54261e-4414-465d-9210-f1dbbc4e1f1c.jpg?v=1765819927&amp;width=3000" alt="" srcset="//zap-main.myshopify.com/cdn/shop/files/01-drinks-hover-01_7c54261e-4414-465d-9210-f1dbbc4e1f1c.jpg?v=1765819927&amp;width=550 550w, //zap-main.myshopify.com/cdn/shop/files/01-drinks-hover-01_7c54261e-4414-465d-9210-f1dbbc4e1f1c.jpg?v=1765819927&amp;width=720 720w, //zap-main.myshopify.com/cdn/shop/files/01-drinks-hover-01_7c54261e-4414-465d-9210-f1dbbc4e1f1c.jpg?v=1765819927&amp;width=990 990w, //zap-main.myshopify.com/cdn/shop/files/01-drinks-hover-01_7c54261e-4414-465d-9210-f1dbbc4e1f1c.jpg?v=1765819927&amp;width=1200 1200w, //zap-main.myshopify.com/cdn/shop/files/01-drinks-hover-01_7c54261e-4414-465d-9210-f1dbbc4e1f1c.jpg?v=1765819927&amp;width=1500 1500w, //zap-main.myshopify.com/cdn/shop/files/01-drinks-hover-01_7c54261e-4414-465d-9210-f1dbbc4e1f1c.jpg?v=1765819927&amp;width=1800 1800w, //zap-main.myshopify.com/cdn/shop/files/01-drinks-hover-01_7c54261e-4414-465d-9210-f1dbbc4e1f1c.jpg?v=1765819927&amp;width=2200 2200w, //zap-main.myshopify.com/cdn/shop/files/01-drinks-hover-01_7c54261e-4414-465d-9210-f1dbbc4e1f1c.jpg?v=1765819927&amp;width=2600 2600w, //zap-main.myshopify.com/cdn/shop/files/01-drinks-hover-01_7c54261e-4414-465d-9210-f1dbbc4e1f1c.jpg?v=1765819927&amp;width=3000 3000w" width="3000" height="4000" loading="lazy" class="media-banner-slider__image" sizes="(min-width: 1440px) calc(1 * 100vw), (min-width: 990px) calc(1 * 100vw), (min-width: 576px) calc(1 * 100vw), calc(1 * 100vw)" style="object-position: 50.0% 50.0%;" fetchpriority="auto">
+
+
+              </div>
+            </div>
+          </div><div class="media-banner-slider__slide swiper-slide media-banner-slider__slide-slide_xXC4Cw color-background-1 swiper-slide-next" data-swiper-autoplay="5000" data-color-scheme="color-" style="--slide-overlay: 0.0; width: 1425px; opacity: 0; transform: translate3d(-1425px, 0px, 0px);" role="group" aria-label="2 / 3" data-swiper-slide-index="1">
+            <div class="media-banner-slider__outher-wrapper"><div class="media-banner-slider__content-wrapper media-banner-slider__content-wrapper--top" data-swiper-parallax="-700">
+                  <div class="media-banner-slider__content-group"><div class="media-banner-slider__label media-banner-slider__label--pill">
+                        <div class="media-banner-slider__label-icons">
+                          <div class="media-banner-slider__label-icon-wrapper">
+                                <svg class="icon icon-star" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M7.30783 1.14622C7.52458 0.474163 8.47542 0.474161 8.69217 1.14622L10.0707 5.42053C10.1677 5.72151 10.4482 5.92527 10.7644 5.92458L15.2555 5.91476C15.9616 5.91322 16.2555 6.81753 15.6833 7.23134L12.0441 9.86319C11.7879 10.0485 11.6808 10.3782 11.7792 10.6788L13.1763 14.947C13.396 15.6181 12.6267 16.177 12.0564 15.7607L8.42877 13.113C8.17332 12.9265 7.82668 12.9265 7.57123 13.113L3.94364 15.7607C3.37327 16.177 2.60401 15.6181 2.82369 14.947L4.22085 10.6788C4.31923 10.3782 4.21211 10.0485 3.95586 9.86319L0.316723 7.23134C-0.255467 6.81753 0.0383596 5.91322 0.744504 5.91476L5.23559 5.92458C5.55183 5.92527 5.83228 5.72151 5.92935 5.42053L7.30783 1.14622Z" fill="currentColor"></path>
+</svg>
+
+</div><div class="media-banner-slider__label-icon-wrapper">
+                                <svg class="icon icon-star" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M7.30783 1.14622C7.52458 0.474163 8.47542 0.474161 8.69217 1.14622L10.0707 5.42053C10.1677 5.72151 10.4482 5.92527 10.7644 5.92458L15.2555 5.91476C15.9616 5.91322 16.2555 6.81753 15.6833 7.23134L12.0441 9.86319C11.7879 10.0485 11.6808 10.3782 11.7792 10.6788L13.1763 14.947C13.396 15.6181 12.6267 16.177 12.0564 15.7607L8.42877 13.113C8.17332 12.9265 7.82668 12.9265 7.57123 13.113L3.94364 15.7607C3.37327 16.177 2.60401 15.6181 2.82369 14.947L4.22085 10.6788C4.31923 10.3782 4.21211 10.0485 3.95586 9.86319L0.316723 7.23134C-0.255467 6.81753 0.0383596 5.91322 0.744504 5.91476L5.23559 5.92458C5.55183 5.92527 5.83228 5.72151 5.92935 5.42053L7.30783 1.14622Z" fill="currentColor"></path>
+</svg>
+
+</div><div class="media-banner-slider__label-icon-wrapper">
+                                <svg class="icon icon-star" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M7.30783 1.14622C7.52458 0.474163 8.47542 0.474161 8.69217 1.14622L10.0707 5.42053C10.1677 5.72151 10.4482 5.92527 10.7644 5.92458L15.2555 5.91476C15.9616 5.91322 16.2555 6.81753 15.6833 7.23134L12.0441 9.86319C11.7879 10.0485 11.6808 10.3782 11.7792 10.6788L13.1763 14.947C13.396 15.6181 12.6267 16.177 12.0564 15.7607L8.42877 13.113C8.17332 12.9265 7.82668 12.9265 7.57123 13.113L3.94364 15.7607C3.37327 16.177 2.60401 15.6181 2.82369 14.947L4.22085 10.6788C4.31923 10.3782 4.21211 10.0485 3.95586 9.86319L0.316723 7.23134C-0.255467 6.81753 0.0383596 5.91322 0.744504 5.91476L5.23559 5.92458C5.55183 5.92527 5.83228 5.72151 5.92935 5.42053L7.30783 1.14622Z" fill="currentColor"></path>
+</svg>
+
+</div><div class="media-banner-slider__label-icon-wrapper">
+                                <svg class="icon icon-star" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M7.30783 1.14622C7.52458 0.474163 8.47542 0.474161 8.69217 1.14622L10.0707 5.42053C10.1677 5.72151 10.4482 5.92527 10.7644 5.92458L15.2555 5.91476C15.9616 5.91322 16.2555 6.81753 15.6833 7.23134L12.0441 9.86319C11.7879 10.0485 11.6808 10.3782 11.7792 10.6788L13.1763 14.947C13.396 15.6181 12.6267 16.177 12.0564 15.7607L8.42877 13.113C8.17332 12.9265 7.82668 12.9265 7.57123 13.113L3.94364 15.7607C3.37327 16.177 2.60401 15.6181 2.82369 14.947L4.22085 10.6788C4.31923 10.3782 4.21211 10.0485 3.95586 9.86319L0.316723 7.23134C-0.255467 6.81753 0.0383596 5.91322 0.744504 5.91476L5.23559 5.92458C5.55183 5.92527 5.83228 5.72151 5.92935 5.42053L7.30783 1.14622Z" fill="currentColor"></path>
+</svg>
+
+</div><div class="media-banner-slider__label-icon-wrapper">
+                                <svg class="icon icon-star" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M7.30783 1.14622C7.52458 0.474163 8.47542 0.474161 8.69217 1.14622L10.0707 5.42053C10.1677 5.72151 10.4482 5.92527 10.7644 5.92458L15.2555 5.91476C15.9616 5.91322 16.2555 6.81753 15.6833 7.23134L12.0441 9.86319C11.7879 10.0485 11.6808 10.3782 11.7792 10.6788L13.1763 14.947C13.396 15.6181 12.6267 16.177 12.0564 15.7607L8.42877 13.113C8.17332 12.9265 7.82668 12.9265 7.57123 13.113L3.94364 15.7607C3.37327 16.177 2.60401 15.6181 2.82369 14.947L4.22085 10.6788C4.31923 10.3782 4.21211 10.0485 3.95586 9.86319L0.316723 7.23134C-0.255467 6.81753 0.0383596 5.91322 0.744504 5.91476L5.23559 5.92458C5.55183 5.92527 5.83228 5.72151 5.92935 5.42053L7.30783 1.14622Z" fill="currentColor"></path>
+</svg>
+
+</div>
+                        </div><span class="media-banner-slider__label-text body-small">1000s of Happy Customers!</span></div><h2 class="media-banner-slider__title-content h2">
+                        <span>Rose Hibiscus</span>
+                      </h2><div class="media-banner-slider__description-content body-normal">
+                        <p>A chilled, refreshing drink made for easy, everyday hydration. Light, flavorful, and brewed to deliver a clean, energizing taste.</p>
+                      </div><div class="media-banner-slider__buttons-content">
+                        
+
+
+
+
+  <a href="/es/collections" aria-label="Shop Now" class="button button--secondary media-banner-slider__button">
+    <div class="button__content">
+      <span class="button__label" data-label="Shop Now">Shop Now</span>
+    </div>
+    
+      <span class="animated-button-circle"></span>
+    
+  </a>
+
+
+                      </div></div>
+                </div>
+
+              <div class="media-banner-slider__media media-banner-slider__media--aside">
+                
+
+<img src="//zap-main.myshopify.com/cdn/shop/files/05-drinks-hover-01_50e447a6-2bba-4069-982b-f8a6a8fe0dcd.jpg?v=1765820154&amp;width=3000" alt="" srcset="//zap-main.myshopify.com/cdn/shop/files/05-drinks-hover-01_50e447a6-2bba-4069-982b-f8a6a8fe0dcd.jpg?v=1765820154&amp;width=550 550w, //zap-main.myshopify.com/cdn/shop/files/05-drinks-hover-01_50e447a6-2bba-4069-982b-f8a6a8fe0dcd.jpg?v=1765820154&amp;width=720 720w, //zap-main.myshopify.com/cdn/shop/files/05-drinks-hover-01_50e447a6-2bba-4069-982b-f8a6a8fe0dcd.jpg?v=1765820154&amp;width=990 990w, //zap-main.myshopify.com/cdn/shop/files/05-drinks-hover-01_50e447a6-2bba-4069-982b-f8a6a8fe0dcd.jpg?v=1765820154&amp;width=1200 1200w, //zap-main.myshopify.com/cdn/shop/files/05-drinks-hover-01_50e447a6-2bba-4069-982b-f8a6a8fe0dcd.jpg?v=1765820154&amp;width=1500 1500w, //zap-main.myshopify.com/cdn/shop/files/05-drinks-hover-01_50e447a6-2bba-4069-982b-f8a6a8fe0dcd.jpg?v=1765820154&amp;width=1800 1800w, //zap-main.myshopify.com/cdn/shop/files/05-drinks-hover-01_50e447a6-2bba-4069-982b-f8a6a8fe0dcd.jpg?v=1765820154&amp;width=2200 2200w, //zap-main.myshopify.com/cdn/shop/files/05-drinks-hover-01_50e447a6-2bba-4069-982b-f8a6a8fe0dcd.jpg?v=1765820154&amp;width=2600 2600w, //zap-main.myshopify.com/cdn/shop/files/05-drinks-hover-01_50e447a6-2bba-4069-982b-f8a6a8fe0dcd.jpg?v=1765820154&amp;width=3000 3000w" width="3000" height="4000" loading="lazy" class="media-banner-slider__image" sizes="(min-width: 1440px) calc(1 * 100vw), (min-width: 990px) calc(1 * 100vw), (min-width: 576px) calc(1 * 100vw), calc(1 * 100vw)" style="object-position: 50.0% 50.0%;" fetchpriority="auto">
+
+
+              </div>
+            </div>
+          </div><div class="media-banner-slider__slide swiper-slide media-banner-slider__slide-slide_XUEzHh color-background-1" data-swiper-autoplay="5000" data-color-scheme="color-" style="--slide-overlay: 0.0; width: 1425px; opacity: 0; transform: translate3d(-2850px, 0px, 0px);" role="group" aria-label="3 / 3" data-swiper-slide-index="2">
+            <div class="media-banner-slider__outher-wrapper"><div class="media-banner-slider__content-wrapper media-banner-slider__content-wrapper--top" data-swiper-parallax="-700">
+                  <div class="media-banner-slider__content-group"><div class="media-banner-slider__label media-banner-slider__label--pill">
+                        <div class="media-banner-slider__label-icons">
+                          <div class="media-banner-slider__label-icon-wrapper">
+                                <svg class="icon icon-star" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M7.30783 1.14622C7.52458 0.474163 8.47542 0.474161 8.69217 1.14622L10.0707 5.42053C10.1677 5.72151 10.4482 5.92527 10.7644 5.92458L15.2555 5.91476C15.9616 5.91322 16.2555 6.81753 15.6833 7.23134L12.0441 9.86319C11.7879 10.0485 11.6808 10.3782 11.7792 10.6788L13.1763 14.947C13.396 15.6181 12.6267 16.177 12.0564 15.7607L8.42877 13.113C8.17332 12.9265 7.82668 12.9265 7.57123 13.113L3.94364 15.7607C3.37327 16.177 2.60401 15.6181 2.82369 14.947L4.22085 10.6788C4.31923 10.3782 4.21211 10.0485 3.95586 9.86319L0.316723 7.23134C-0.255467 6.81753 0.0383596 5.91322 0.744504 5.91476L5.23559 5.92458C5.55183 5.92527 5.83228 5.72151 5.92935 5.42053L7.30783 1.14622Z" fill="currentColor"></path>
+</svg>
+
+</div><div class="media-banner-slider__label-icon-wrapper">
+                                <svg class="icon icon-star" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M7.30783 1.14622C7.52458 0.474163 8.47542 0.474161 8.69217 1.14622L10.0707 5.42053C10.1677 5.72151 10.4482 5.92527 10.7644 5.92458L15.2555 5.91476C15.9616 5.91322 16.2555 6.81753 15.6833 7.23134L12.0441 9.86319C11.7879 10.0485 11.6808 10.3782 11.7792 10.6788L13.1763 14.947C13.396 15.6181 12.6267 16.177 12.0564 15.7607L8.42877 13.113C8.17332 12.9265 7.82668 12.9265 7.57123 13.113L3.94364 15.7607C3.37327 16.177 2.60401 15.6181 2.82369 14.947L4.22085 10.6788C4.31923 10.3782 4.21211 10.0485 3.95586 9.86319L0.316723 7.23134C-0.255467 6.81753 0.0383596 5.91322 0.744504 5.91476L5.23559 5.92458C5.55183 5.92527 5.83228 5.72151 5.92935 5.42053L7.30783 1.14622Z" fill="currentColor"></path>
+</svg>
+
+</div><div class="media-banner-slider__label-icon-wrapper">
+                                <svg class="icon icon-star" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M7.30783 1.14622C7.52458 0.474163 8.47542 0.474161 8.69217 1.14622L10.0707 5.42053C10.1677 5.72151 10.4482 5.92527 10.7644 5.92458L15.2555 5.91476C15.9616 5.91322 16.2555 6.81753 15.6833 7.23134L12.0441 9.86319C11.7879 10.0485 11.6808 10.3782 11.7792 10.6788L13.1763 14.947C13.396 15.6181 12.6267 16.177 12.0564 15.7607L8.42877 13.113C8.17332 12.9265 7.82668 12.9265 7.57123 13.113L3.94364 15.7607C3.37327 16.177 2.60401 15.6181 2.82369 14.947L4.22085 10.6788C4.31923 10.3782 4.21211 10.0485 3.95586 9.86319L0.316723 7.23134C-0.255467 6.81753 0.0383596 5.91322 0.744504 5.91476L5.23559 5.92458C5.55183 5.92527 5.83228 5.72151 5.92935 5.42053L7.30783 1.14622Z" fill="currentColor"></path>
+</svg>
+
+</div><div class="media-banner-slider__label-icon-wrapper">
+                                <svg class="icon icon-star" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M7.30783 1.14622C7.52458 0.474163 8.47542 0.474161 8.69217 1.14622L10.0707 5.42053C10.1677 5.72151 10.4482 5.92527 10.7644 5.92458L15.2555 5.91476C15.9616 5.91322 16.2555 6.81753 15.6833 7.23134L12.0441 9.86319C11.7879 10.0485 11.6808 10.3782 11.7792 10.6788L13.1763 14.947C13.396 15.6181 12.6267 16.177 12.0564 15.7607L8.42877 13.113C8.17332 12.9265 7.82668 12.9265 7.57123 13.113L3.94364 15.7607C3.37327 16.177 2.60401 15.6181 2.82369 14.947L4.22085 10.6788C4.31923 10.3782 4.21211 10.0485 3.95586 9.86319L0.316723 7.23134C-0.255467 6.81753 0.0383596 5.91322 0.744504 5.91476L5.23559 5.92458C5.55183 5.92527 5.83228 5.72151 5.92935 5.42053L7.30783 1.14622Z" fill="currentColor"></path>
+</svg>
+
+</div><div class="media-banner-slider__label-icon-wrapper">
+                                <svg class="icon icon-star" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M7.30783 1.14622C7.52458 0.474163 8.47542 0.474161 8.69217 1.14622L10.0707 5.42053C10.1677 5.72151 10.4482 5.92527 10.7644 5.92458L15.2555 5.91476C15.9616 5.91322 16.2555 6.81753 15.6833 7.23134L12.0441 9.86319C11.7879 10.0485 11.6808 10.3782 11.7792 10.6788L13.1763 14.947C13.396 15.6181 12.6267 16.177 12.0564 15.7607L8.42877 13.113C8.17332 12.9265 7.82668 12.9265 7.57123 13.113L3.94364 15.7607C3.37327 16.177 2.60401 15.6181 2.82369 14.947L4.22085 10.6788C4.31923 10.3782 4.21211 10.0485 3.95586 9.86319L0.316723 7.23134C-0.255467 6.81753 0.0383596 5.91322 0.744504 5.91476L5.23559 5.92458C5.55183 5.92527 5.83228 5.72151 5.92935 5.42053L7.30783 1.14622Z" fill="currentColor"></path>
+</svg>
+
+</div>
+                        </div><span class="media-banner-slider__label-text body-small">1000s of Happy Customers!</span></div><h2 class="media-banner-slider__title-content h2">
+                        <span>Original Energy</span>
+                      </h2><div class="media-banner-slider__description-content body-normal">
+                        <p>A chilled, refreshing drink made for easy, everyday hydration. Light, flavorful, and brewed to deliver a clean, energizing taste.</p>
+                      </div><div class="media-banner-slider__buttons-content">
+                        
+
+
+
+
+  <a href="/es/collections" aria-label="Shop Now" class="button button--secondary media-banner-slider__button">
+    <div class="button__content">
+      <span class="button__label" data-label="Shop Now">Shop Now</span>
+    </div>
+    
+      <span class="animated-button-circle"></span>
+    
+  </a>
+
+
+                      </div></div>
+                </div>
+
+              <div class="media-banner-slider__media media-banner-slider__media--aside">
+                
+
+<img src="//zap-main.myshopify.com/cdn/shop/files/04-drinks-hover-01_b1bdc229-0f25-4710-9a52-d3e81a3e1075.jpg?v=1765820113&amp;width=3000" alt="" srcset="//zap-main.myshopify.com/cdn/shop/files/04-drinks-hover-01_b1bdc229-0f25-4710-9a52-d3e81a3e1075.jpg?v=1765820113&amp;width=550 550w, //zap-main.myshopify.com/cdn/shop/files/04-drinks-hover-01_b1bdc229-0f25-4710-9a52-d3e81a3e1075.jpg?v=1765820113&amp;width=720 720w, //zap-main.myshopify.com/cdn/shop/files/04-drinks-hover-01_b1bdc229-0f25-4710-9a52-d3e81a3e1075.jpg?v=1765820113&amp;width=990 990w, //zap-main.myshopify.com/cdn/shop/files/04-drinks-hover-01_b1bdc229-0f25-4710-9a52-d3e81a3e1075.jpg?v=1765820113&amp;width=1200 1200w, //zap-main.myshopify.com/cdn/shop/files/04-drinks-hover-01_b1bdc229-0f25-4710-9a52-d3e81a3e1075.jpg?v=1765820113&amp;width=1500 1500w, //zap-main.myshopify.com/cdn/shop/files/04-drinks-hover-01_b1bdc229-0f25-4710-9a52-d3e81a3e1075.jpg?v=1765820113&amp;width=1800 1800w, //zap-main.myshopify.com/cdn/shop/files/04-drinks-hover-01_b1bdc229-0f25-4710-9a52-d3e81a3e1075.jpg?v=1765820113&amp;width=2200 2200w, //zap-main.myshopify.com/cdn/shop/files/04-drinks-hover-01_b1bdc229-0f25-4710-9a52-d3e81a3e1075.jpg?v=1765820113&amp;width=2600 2600w, //zap-main.myshopify.com/cdn/shop/files/04-drinks-hover-01_b1bdc229-0f25-4710-9a52-d3e81a3e1075.jpg?v=1765820113&amp;width=3000 3000w" width="3000" height="4000" loading="lazy" class="media-banner-slider__image" sizes="(min-width: 1440px) calc(1 * 100vw), (min-width: 990px) calc(1 * 100vw), (min-width: 576px) calc(1 * 100vw), calc(1 * 100vw)" style="object-position: 50.0% 50.0%;" fetchpriority="auto">
+
+
+              </div>
+            </div>
+          </div></div><div class="no-js-hidden media-banner-slider__controls media-banner-slider__controls--center container"><div class="media-banner-slider__pagination swiper-pagination swiper-pagination-clickable swiper-pagination-bullets swiper-pagination-horizontal"><span class="swiper-pagination-bullet swiper-pagination-bullet-active" tabindex="0" role="button" aria-label="Go to slide 1" aria-current="true"></span><span class="swiper-pagination-bullet" tabindex="0" role="button" aria-label="Go to slide 2"></span><span class="swiper-pagination-bullet" tabindex="0" role="button" aria-label="Go to slide 3"></span></div></div><span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
+  </div>
+</div>
+
+
+</section>
+```
+
+## 4. shopify-section-template--26224066232639__media_banner_slider_JPHVhR
+
+- Tag: section
+- Classes: shopify-section section-media-banner-slider
+- Headings: None
+
+```html
+<section id="shopify-section-template--26224066232639__media_banner_slider_JPHVhR" class="shopify-section section-media-banner-slider"><link href="//zap-main.myshopify.com/cdn/shop/t/2/assets/section-media-banner-slider.css?v=90598046448106656031773296843" rel="stylesheet" type="text/css" media="all">
+<script src="//zap-main.myshopify.com/cdn/shop/t/2/assets/media-banner-slider.js?v=33691777315959968601774260004" defer="defer"></script>
+
+<style data-shopify="">
+  .section-template--26224066232639__media_banner_slider_JPHVhR-padding {
+
+  padding-top: 0;
+
+
+
+  padding-bottom: 6.4rem;
+
+}
+
+@media screen and (min-width: 750px) { .section-template--26224066232639__media_banner_slider_JPHVhR-padding {
+
+  padding-top: 0;
+
+
+
+  padding-bottom: 8.8rem;
+
+} }
+
+@media screen and (min-width: 1360px) { .section-template--26224066232639__media_banner_slider_JPHVhR-padding {
+
+  padding-top: 0;
+
+
+
+  padding-bottom: 15rem;
+
+} }
+
+  #shopify-section-template--26224066232639__media_banner_slider_JPHVhR {
+
+  padding-top: 0;
+
+
+
+  padding-bottom: 0;
+
+}
+
+@media screen and (min-width: 750px) { #shopify-section-template--26224066232639__media_banner_slider_JPHVhR {
+
+  padding-top: 0;
+
+
+
+  padding-bottom: 0;
+
+} }
+
+@media screen and (min-width: 1360px) { #shopify-section-template--26224066232639__media_banner_slider_JPHVhR {
+
+  padding-top: 0;
+
+
+
+  padding-bottom: 0;
+
+
+} }
+
+</style>
+
+
+  <style data-shopify="">
+        .section-template--26224066232639__media_banner_slider_JPHVhR .media-banner-slider__slide-slide_f9da79::before {
+          content: "";
+          display: block;
+          width: 0;
+          padding-bottom: 56.25%;
+        }
+
+        @media screen and (min-width: 576px) {
+          .section-template--26224066232639__media_banner_slider_JPHVhR .media-banner-slider__slide-slide_f9da79::before {
+            content: "";
+            display: block;
+            width: 0;
+            padding-bottom: 56.25%;
+          }
+        }
+    
+        
+
+        
+      
+  </style>
+
+
+  <style data-shopify="">
+        .section-template--26224066232639__media_banner_slider_JPHVhR .media-banner-slider__slide-slide_MtwhaR::before {
+          content: "";
+          display: block;
+          width: 0;
+          padding-bottom: 56.25%;
+        }
+
+        @media screen and (min-width: 576px) {
+          .section-template--26224066232639__media_banner_slider_JPHVhR .media-banner-slider__slide-slide_MtwhaR::before {
+            content: "";
+            display: block;
+            width: 0;
+            padding-bottom: 56.25%;
+          }
+        }
+    
+        
+
+        
+      
+  </style>
+
+
+  <style data-shopify="">
+        .section-template--26224066232639__media_banner_slider_JPHVhR .media-banner-slider__slide-slide_i8xkgX::before {
+          content: "";
+          display: block;
+          width: 0;
+          padding-bottom: 56.25%;
+        }
+
+        @media screen and (min-width: 576px) {
+          .section-template--26224066232639__media_banner_slider_JPHVhR .media-banner-slider__slide-slide_i8xkgX::before {
+            content: "";
+            display: block;
+            width: 0;
+            padding-bottom: 56.25%;
+          }
+        }
+    
+        
+
+        
+      
+  </style>
+<div class="section-template--26224066232639__media_banner_slider_JPHVhR media-banner-slider media-banner-slider--overlay color-background-1 background section-template--26224066232639__media_banner_slider_JPHVhR-padding" data-slide-position="full_width_image" data-autoplay="false" data-loop="true" data-stop-on-hover="false" data-pagination="false" data-navigation="true" data-animation-type="slide" data-full-width="false">
+  <div class="media-banner-slider__container container media-banner-slider--content-top">
+    <div class="media-banner-slider__swiper media-banner-slider__swiper--overlay swiper media-banner-slider__swiper--top swiper-initialized swiper-horizontal swiper-watch-progress swiper-backface-hidden">
+      
+      <div class="swiper-wrapper" id="swiper-wrapper-db8abecb510d103ba" aria-live="polite"><div class="media-banner-slider__slide swiper-slide media-banner-slider__slide-slide_f9da79 color-background-1 swiper-slide-visible swiper-slide-fully-visible swiper-slide-active" data-swiper-autoplay="5000" data-color-scheme="color-" style="--slide-overlay: 0.0; width: 1361px;" role="group" aria-label="1 / 3" data-swiper-slide-index="0">
+            <div class="media-banner-slider__outher-wrapper">
+
+              <div class="media-banner-slider__media media-banner-slider__media--full-width">
+                
+
+<img src="//zap-main.myshopify.com/cdn/shop/files/02-prod.page-01.jpg?v=1765796517&amp;width=2652" alt="" srcset="//zap-main.myshopify.com/cdn/shop/files/02-prod.page-01.jpg?v=1765796517&amp;width=550 550w, //zap-main.myshopify.com/cdn/shop/files/02-prod.page-01.jpg?v=1765796517&amp;width=720 720w, //zap-main.myshopify.com/cdn/shop/files/02-prod.page-01.jpg?v=1765796517&amp;width=990 990w, //zap-main.myshopify.com/cdn/shop/files/02-prod.page-01.jpg?v=1765796517&amp;width=1200 1200w, //zap-main.myshopify.com/cdn/shop/files/02-prod.page-01.jpg?v=1765796517&amp;width=1500 1500w, //zap-main.myshopify.com/cdn/shop/files/02-prod.page-01.jpg?v=1765796517&amp;width=1800 1800w, //zap-main.myshopify.com/cdn/shop/files/02-prod.page-01.jpg?v=1765796517&amp;width=2200 2200w, //zap-main.myshopify.com/cdn/shop/files/02-prod.page-01.jpg?v=1765796517&amp;width=2600 2600w" width="2652" height="1344" loading="lazy" class="media-banner-slider__image" sizes="(min-width: 1440px) calc(1.11 * 1280px), (min-width: 990px) calc(1.11 * 100vw), (min-width: 576px) calc(1.11 * 100vw), calc(1.55 * 100vw)" style="object-position: 50.0% 50.0%;" fetchpriority="auto">
+
+
+              </div>
+            </div>
+          </div><div class="media-banner-slider__slide swiper-slide media-banner-slider__slide-slide_MtwhaR color-background-1 swiper-slide-next" data-swiper-autoplay="5000" data-color-scheme="color-" style="--slide-overlay: 0.0; width: 1361px;" role="group" aria-label="2 / 3" data-swiper-slide-index="1">
+            <div class="media-banner-slider__outher-wrapper">
+
+              <div class="media-banner-slider__media media-banner-slider__media--full-width">
+                
+
+<img src="//zap-main.myshopify.com/cdn/shop/files/02-prod.page-02.jpg?v=1772517251&amp;width=2560" alt="" srcset="//zap-main.myshopify.com/cdn/shop/files/02-prod.page-02.jpg?v=1772517251&amp;width=550 550w, //zap-main.myshopify.com/cdn/shop/files/02-prod.page-02.jpg?v=1772517251&amp;width=720 720w, //zap-main.myshopify.com/cdn/shop/files/02-prod.page-02.jpg?v=1772517251&amp;width=990 990w, //zap-main.myshopify.com/cdn/shop/files/02-prod.page-02.jpg?v=1772517251&amp;width=1200 1200w, //zap-main.myshopify.com/cdn/shop/files/02-prod.page-02.jpg?v=1772517251&amp;width=1500 1500w, //zap-main.myshopify.com/cdn/shop/files/02-prod.page-02.jpg?v=1772517251&amp;width=1800 1800w, //zap-main.myshopify.com/cdn/shop/files/02-prod.page-02.jpg?v=1772517251&amp;width=2200 2200w" width="2560" height="1298" loading="lazy" class="media-banner-slider__image" sizes="(min-width: 1440px) calc(1.11 * 1280px), (min-width: 990px) calc(1.11 * 100vw), (min-width: 576px) calc(1.11 * 100vw), calc(1.55 * 100vw)" style="object-position: 50.0% 50.0%;" fetchpriority="auto">
+
+
+              </div>
+            </div>
+          </div><div class="media-banner-slider__slide swiper-slide media-banner-slider__slide-slide_i8xkgX color-background-1" data-swiper-autoplay="5000" data-color-scheme="color-" style="--slide-overlay: 0.0; width: 1361px;" role="group" aria-label="3 / 3" data-swiper-slide-index="2">
+            <div class="media-banner-slider__outher-wrapper">
+
+              <div class="media-banner-slider__media media-banner-slider__media--full-width">
+                
+
+<img src="//zap-main.myshopify.com/cdn/shop/files/02-prod.page-03.jpg?v=1765796582&amp;width=2816" alt="" srcset="//zap-main.myshopify.com/cdn/shop/files/02-prod.page-03.jpg?v=1765796582&amp;width=550 550w, //zap-main.myshopify.com/cdn/shop/files/02-prod.page-03.jpg?v=1765796582&amp;width=720 720w, //zap-main.myshopify.com/cdn/shop/files/02-prod.page-03.jpg?v=1765796582&amp;width=990 990w, //zap-main.myshopify.com/cdn/shop/files/02-prod.page-03.jpg?v=1765796582&amp;width=1200 1200w, //zap-main.myshopify.com/cdn/shop/files/02-prod.page-03.jpg?v=1765796582&amp;width=1500 1500w, //zap-main.myshopify.com/cdn/shop/files/02-prod.page-03.jpg?v=1765796582&amp;width=1800 1800w, //zap-main.myshopify.com/cdn/shop/files/02-prod.page-03.jpg?v=1765796582&amp;width=2200 2200w, //zap-main.myshopify.com/cdn/shop/files/02-prod.page-03.jpg?v=1765796582&amp;width=2600 2600w" width="2816" height="1472" loading="lazy" class="media-banner-slider__image" sizes="(min-width: 1440px) calc(1.07 * 1280px), (min-width: 990px) calc(1.07 * 100vw), (min-width: 576px) calc(1.07 * 100vw), calc(1.5 * 100vw)" style="object-position: 45.6231% 46.0104%;" fetchpriority="auto">
+
+
+              </div>
+            </div>
+          </div></div><div class="media-banner-slider__nav-buttons">
+            
+
+
+
+
+
+<button class="slider-button slider-button--prev media-banner-slider__nav-button media-banner-slider__nav-button--prev" aria-label="Previous slide" tabindex="0" aria-controls="swiper-wrapper-db8abecb510d103ba">
+  <div class="slider-button__content">
+    <div class="slider-button__icons">
+      <span class="slider-button__icon slider-button__icon--1">
+        <svg class="icon icon-btn-arrow" width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M9 4L17.6485 12.4703L9 20.9407" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+</svg>
+
+      </span>
+      <span class="slider-button__icon slider-button__icon--2">
+        <svg class="icon icon-btn-arrow" width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M9 4L17.6485 12.4703L9 20.9407" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+</svg>
+
+      </span>
+    </div>
+  </div>
+  <span class="animated-slider-button-circle"></span>
+</button>
+
+            
+
+
+
+
+
+<button class="slider-button slider-button--next media-banner-slider__nav-button media-banner-slider__nav-button--next" aria-label="Next slide" tabindex="0" aria-controls="swiper-wrapper-db8abecb510d103ba">
+  <div class="slider-button__content">
+    <div class="slider-button__icons">
+      <span class="slider-button__icon slider-button__icon--1">
+        <svg class="icon icon-btn-arrow" width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M9 4L17.6485 12.4703L9 20.9407" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+</svg>
+
+      </span>
+      <span class="slider-button__icon slider-button__icon--2">
+        <svg class="icon icon-btn-arrow" width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M9 4L17.6485 12.4703L9 20.9407" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+</svg>
+
+      </span>
+    </div>
+  </div>
+  <span class="animated-slider-button-circle"></span>
+</button>
+
+          </div><span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
+  </div>
+</div>
+
+
+</section>
+```

@@ -1,0 +1,29 @@
+{
+  "pageUrl": "https://shift-sketch.myshopify.com/it/pages/customer-care",
+  "pageTitle": "Assistenza clienti – Shift Sketch",
+  "pageSlug": "shift_sketch_myshopify_com_it_pages_customer_care",
+  "sections": [
+    {
+      "refId": "shift_sketch_myshopify_com_it_pages_customer_care__section_01",
+      "index": 1,
+      "selectorHint": "#shopify-section-template--27266934014327__content_tabs",
+      "typeGuess": "cta-section",
+      "patternTags": [
+        "top-of-page",
+        "cta-cluster"
+      ],
+      "headingSample": [
+        "Con quali materiali sono realizzati i vostri prodotti?",
+        "Come posso prendermi cura o effettuare la manutenzione di questo prodotto?",
+        "Offrite garanzie o assicurazioni?",
+        "Posso restituire o cambiare un prodotto?",
+        "Quanto tempo impiega la spedizione?",
+        "Posso tracciare il mio ordine?"
+      ],
+      "textSample": "#shopify-section-template--27266934014327__content_tabs { padding-top: 2.4rem; padding-bottom: 8rem; } @media screen and (min-width: 750px) { #shopify-section-template--27266934014327__content_tabs { padding-top: 3.2rem; padding-bottom: 12rem; } } @media screen and (min-width: 14",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/shift-sketch/elements/shift_sketch_myshopify_com_it_pages_customer_care/shift_sketch_myshopify_com_it_pages_customer_care__section_01.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/shift-sketch/pages/shift_sketch_myshopify_com_it_pages_customer_care.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/shift-sketch/pages/shift_sketch_myshopify_com_it_pages_customer_care.json"
+    }
+  ]
+}

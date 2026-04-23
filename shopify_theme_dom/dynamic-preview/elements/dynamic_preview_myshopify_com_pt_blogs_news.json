@@ -1,0 +1,43 @@
+{
+  "pageUrl": "https://dynamic-preview.myshopify.com/pt/blogs/news",
+  "pageTitle": "Blogue – Dynamic",
+  "pageSlug": "dynamic_preview_myshopify_com_pt_blogs_news",
+  "sections": [
+    {
+      "refId": "dynamic_preview_myshopify_com_pt_blogs_news__section_01",
+      "index": 1,
+      "selectorHint": "#shopify-section-template--27935319818406__main_hero",
+      "typeGuess": "category-row",
+      "patternTags": [
+        "top-of-page",
+        "cta-cluster",
+        "card-grid",
+        "category-navigation",
+        "editorial-media"
+      ],
+      "headingSample": [
+        "Blogue"
+      ],
+      "textSample": ".collection_list_wrapper-template--27935319818406__main_hero { padding-top: 0px; padding-bottom: 40px; margin: 0 10px;; } @media screen and (max-width: 640px) { .collection_list_wrapper-template--27935319818406__main_hero { padding-top: 0px; padding-bottom: 20px; } } Blogue Descu",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_pt_blogs_news/dynamic_preview_myshopify_com_pt_blogs_news__section_01.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/pages/dynamic_preview_myshopify_com_pt_blogs_news.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/pages/dynamic_preview_myshopify_com_pt_blogs_news.json"
+    },
+    {
+      "refId": "dynamic_preview_myshopify_com_pt_blogs_news__section_02",
+      "index": 2,
+      "selectorHint": "#shopify-section-template--27935319818406__main",
+      "typeGuess": "editorial-media",
+      "patternTags": [
+        "image-heavy",
+        "cta-cluster",
+        "editorial-media"
+      ],
+      "headingSample": [],
+      "textSample": ".section-template--27935319818406__main-padding { padding-top: 8.0px; padding-bottom: 40.0px; } @media screen and (min-width: 787px) { .section-template--27935319818406__main-padding { padding-top: 20px; padding-bottom: 100px; } } 07 Jan 2026 O Segredo para um Brilho sem Esforço ",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_pt_blogs_news/dynamic_preview_myshopify_com_pt_blogs_news__section_02.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/pages/dynamic_preview_myshopify_com_pt_blogs_news.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/pages/dynamic_preview_myshopify_com_pt_blogs_news.json"
+    }
+  ]
+}

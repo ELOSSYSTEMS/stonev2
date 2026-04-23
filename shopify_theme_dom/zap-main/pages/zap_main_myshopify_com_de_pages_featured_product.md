@@ -1,0 +1,1186 @@
+# Shopify page scrape
+
+- URL: https://zap-main.myshopify.com/de/pages/featured-product
+- Title: Featured product
+- Body classes: template-page template-page-features-featured-product
+- Custom elements: burger-menu, cart-drawer, cart-drawer-items, cart-note, header-search, localization-form, modal-dialog, modal-opener, predictive-search, product-card-small, product-form, product-quantity-input, shop-cart-sync, shopify-accelerated-checkout, shopify-buy-it-now-button, sticky-header, variant-radios
+- Headings: Honig-Zitronen-Aufguss | Leuchtkasten | Entdeckerbox | Honig-Zitronen-Aufguss | Leuchtkasten | Entdeckerbox | Subscribe to our Newsletter and Get 15% off your first order | Featured product | Honig-Zitronen-Aufguss | Erfrischungsgetränk mit Minze und Limette | Über uns | Produkte | Produkte | Kundendienst | Kundendienst | Information | Information
+
+## 1. shopify-section-template--26223863923007__main
+
+- Tag: section
+- Classes: shopify-section page-section
+- Headings: Featured product
+
+```html
+<section id="shopify-section-template--26223863923007__main" class="shopify-section page-section"><link href="//zap-main.myshopify.com/cdn/shop/t/2/assets/section-main-page.css?v=165534704276754180541772782652" rel="stylesheet" type="text/css" media="all">
+<style data-shopify="">.section-template--26223863923007__main-padding {
+
+  padding-top: 4rem;
+
+
+
+  padding-bottom: 0;
+
+}
+
+@media screen and (min-width: 750px) { .section-template--26223863923007__main-padding {
+
+  padding-top: 5rem;
+
+
+
+  padding-bottom: 0;
+
+} }
+
+@media screen and (min-width: 1360px) { .section-template--26223863923007__main-padding {
+
+  padding-top: 8rem;
+
+
+
+  padding-bottom: 0;
+
+} }
+
+</style><div class="section-template--26223863923007__main-padding container page-width--narrow">
+  <div class="page-header">
+    <div class="page-header__inner">
+      <h1 class="main-page-title page-title title--page h2">Featured product</h1>
+    </div>
+  </div>
+  <div class="rte">
+    
+  </div>
+</div>
+
+
+</section>
+```
+
+## 2. shopify-section-template--26223863923007__featured_product_QLdARU
+
+- Tag: section
+- Classes: shopify-section featured-product-section
+- Headings: Honig-Zitronen-Aufguss
+
+```html
+<section id="shopify-section-template--26223863923007__featured_product_QLdARU" class="shopify-section featured-product-section" data-dropdowns-initialized="true"><link href="//zap-main.myshopify.com/cdn/shop/t/2/assets/component-deferred-media.css?v=170447359543856260801772782613" rel="stylesheet" type="text/css" media="all">
+<link href="//zap-main.myshopify.com/cdn/shop/t/2/assets/section-featured-product.css?v=107046695394884994011765438889" rel="stylesheet" type="text/css" media="all">
+
+<script src="//zap-main.myshopify.com/cdn/shop/t/2/assets/main-product.js?v=168347883943037458851774260004" defer="defer"></script><script src="//zap-main.myshopify.com/cdn/shop/t/2/assets/update-slider.js?v=34812274502213614211774260017" defer="defer"></script><style data-shopify="">.section-template--26223863923007__featured_product_QLdARU-padding {
+
+  padding-top: 3.2rem;
+
+
+
+  padding-bottom: 6.4rem;
+
+}
+
+@media screen and (min-width: 750px) { .section-template--26223863923007__featured_product_QLdARU-padding {
+
+  padding-top: 4rem;
+
+
+
+  padding-bottom: 8.8rem;
+
+} }
+
+@media screen and (min-width: 1360px) { .section-template--26223863923007__featured_product_QLdARU-padding {
+
+  padding-top: 5rem;
+
+
+
+  padding-bottom: 15rem;
+
+} }
+
+</style>
+
+<div class="featured-product color-background-1 background product section-template--26223863923007__featured_product_QLdARU-padding" style="--media-aspect-ratio: 1.0; --thumbs-width: 0px; --product-media-desktop-gap: 0px; --product-media-vertical-paddings: 152px">
+  <div class="container">
+    <div class="product-outer content">
+      <div class="product-media" data-section="main-template--26223863923007__featured_product_QLdARU" data-image-type="square"><div class="product-media__wrapper product-media__wrapper--horizontal">
+            <div class="product-media__list-wrapper">
+              <div class="product-media__list js-media-list swiper no-js-hidden swiper-initialized swiper-horizontal swiper-backface-hidden">
+                <div class="product-media__list-container swiper-wrapper" id="swiper-wrapper-89ca1e8fb793bcae" aria-live="polite"><div class="product-media-item swiper-slide active swiper-slide-active" data-media-id="template--26223863923007__featured_product_QLdARU-42411379786047" style="width: 854px; margin-right: 8px;" role="group" aria-label="1 / 4">
+                        
+<noscript><div class="product__media media" style="padding-bottom: 100.0%">
+      <img src="//zap-main.myshopify.com/cdn/shop/files/01-drinks_64ab6426-a500-4fe0-ae55-58057b35ae1c.jpg?v=1765819927&amp;width=3000" alt="" srcset="//zap-main.myshopify.com/cdn/shop/files/01-drinks_64ab6426-a500-4fe0-ae55-58057b35ae1c.jpg?v=1765819927&amp;width=375 375w, //zap-main.myshopify.com/cdn/shop/files/01-drinks_64ab6426-a500-4fe0-ae55-58057b35ae1c.jpg?v=1765819927&amp;width=425 425w, //zap-main.myshopify.com/cdn/shop/files/01-drinks_64ab6426-a500-4fe0-ae55-58057b35ae1c.jpg?v=1765819927&amp;width=576 576w, //zap-main.myshopify.com/cdn/shop/files/01-drinks_64ab6426-a500-4fe0-ae55-58057b35ae1c.jpg?v=1765819927&amp;width=632 632w, //zap-main.myshopify.com/cdn/shop/files/01-drinks_64ab6426-a500-4fe0-ae55-58057b35ae1c.jpg?v=1765819927&amp;width=700 700w, //zap-main.myshopify.com/cdn/shop/files/01-drinks_64ab6426-a500-4fe0-ae55-58057b35ae1c.jpg?v=1765819927&amp;width=800 800w, //zap-main.myshopify.com/cdn/shop/files/01-drinks_64ab6426-a500-4fe0-ae55-58057b35ae1c.jpg?v=1765819927&amp;width=900 900w, //zap-main.myshopify.com/cdn/shop/files/01-drinks_64ab6426-a500-4fe0-ae55-58057b35ae1c.jpg?v=1765819927&amp;width=1000 1000w, //zap-main.myshopify.com/cdn/shop/files/01-drinks_64ab6426-a500-4fe0-ae55-58057b35ae1c.jpg?v=1765819927&amp;width=1100 1100w, //zap-main.myshopify.com/cdn/shop/files/01-drinks_64ab6426-a500-4fe0-ae55-58057b35ae1c.jpg?v=1765819927&amp;width=1200 1200w, //zap-main.myshopify.com/cdn/shop/files/01-drinks_64ab6426-a500-4fe0-ae55-58057b35ae1c.jpg?v=1765819927&amp;width=1400 1400w, //zap-main.myshopify.com/cdn/shop/files/01-drinks_64ab6426-a500-4fe0-ae55-58057b35ae1c.jpg?v=1765819927&amp;width=1600 1600w, //zap-main.myshopify.com/cdn/shop/files/01-drinks_64ab6426-a500-4fe0-ae55-58057b35ae1c.jpg?v=1765819927&amp;width=1800 1800w, //zap-main.myshopify.com/cdn/shop/files/01-drinks_64ab6426-a500-4fe0-ae55-58057b35ae1c.jpg?v=1765819927&amp;width=2000 2000w" width="3000" height="4000" loading="lazy" sizes="(min-width: 1920px) calc(1057px * 1), (min-width: 1536px) calc(44vw * 1), (min-width: 1200px) calc(55vw * 1), (min-width: 750px) calc(64vw * 1), calc((100vw - 4rem) * 1)">
+    </div></noscript>
+
+<modal-opener class="product__modal-opener product__modal-opener--image no-js-hidden" data-modal="#ProductModal-template--26223863923007__featured_product_QLdARU">
+  <span class="product__media-icon motion-reduce product__media-icon--disabled-on-mobile" aria-hidden="true"><svg class="icon icon-plus-zoom" width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+	<path d="M15.9996 1.60001L15.9996 30.4M30.3996 16L1.59961 16" stroke="currentColor" stroke-width="2" stroke-linecap="round"></path>
+</svg></span>
+
+  <div class="product__media" style="padding-bottom: 100.0%">
+    <img src="//zap-main.myshopify.com/cdn/shop/files/01-drinks_64ab6426-a500-4fe0-ae55-58057b35ae1c.jpg?v=1765819927&amp;width=3000" alt="" srcset="//zap-main.myshopify.com/cdn/shop/files/01-drinks_64ab6426-a500-4fe0-ae55-58057b35ae1c.jpg?v=1765819927&amp;width=375 375w, //zap-main.myshopify.com/cdn/shop/files/01-drinks_64ab6426-a500-4fe0-ae55-58057b35ae1c.jpg?v=1765819927&amp;width=425 425w, //zap-main.myshopify.com/cdn/shop/files/01-drinks_64ab6426-a500-4fe0-ae55-58057b35ae1c.jpg?v=1765819927&amp;width=576 576w, //zap-main.myshopify.com/cdn/shop/files/01-drinks_64ab6426-a500-4fe0-ae55-58057b35ae1c.jpg?v=1765819927&amp;width=632 632w, //zap-main.myshopify.com/cdn/shop/files/01-drinks_64ab6426-a500-4fe0-ae55-58057b35ae1c.jpg?v=1765819927&amp;width=700 700w, //zap-main.myshopify.com/cdn/shop/files/01-drinks_64ab6426-a500-4fe0-ae55-58057b35ae1c.jpg?v=1765819927&amp;width=800 800w, //zap-main.myshopify.com/cdn/shop/files/01-drinks_64ab6426-a500-4fe0-ae55-58057b35ae1c.jpg?v=1765819927&amp;width=900 900w, //zap-main.myshopify.com/cdn/shop/files/01-drinks_64ab6426-a500-4fe0-ae55-58057b35ae1c.jpg?v=1765819927&amp;width=1000 1000w, //zap-main.myshopify.com/cdn/shop/files/01-drinks_64ab6426-a500-4fe0-ae55-58057b35ae1c.jpg?v=1765819927&amp;width=1100 1100w, //zap-main.myshopify.com/cdn/shop/files/01-drinks_64ab6426-a500-4fe0-ae55-58057b35ae1c.jpg?v=1765819927&amp;width=1200 1200w, //zap-main.myshopify.com/cdn/shop/files/01-drinks_64ab6426-a500-4fe0-ae55-58057b35ae1c.jpg?v=1765819927&amp;width=1400 1400w, //zap-main.myshopify.com/cdn/shop/files/01-drinks_64ab6426-a500-4fe0-ae55-58057b35ae1c.jpg?v=1765819927&amp;width=1600 1600w, //zap-main.myshopify.com/cdn/shop/files/01-drinks_64ab6426-a500-4fe0-ae55-58057b35ae1c.jpg?v=1765819927&amp;width=1800 1800w, //zap-main.myshopify.com/cdn/shop/files/01-drinks_64ab6426-a500-4fe0-ae55-58057b35ae1c.jpg?v=1765819927&amp;width=2000 2000w" width="3000" height="4000" loading="eager" sizes="(min-width: 1920px) calc(1057px * 1), (min-width: 1536px) calc(44vw * 1), (min-width: 1200px) calc(55vw * 1), (min-width: 750px) calc(64vw * 1), calc((100vw - 4rem) * 1)" style="object-position: 50.0% 50.0%;" fetchpriority="high">
+  </div>
+  <button class="product__media-toggle focus-inset product__media-toggle--disabled-on-mobile product__media-toggle--disabled-on-desktop" type="button" aria-haspopup="dialog" data-media-id="42411379786047">
+    <span class="visually-hidden">Medium 1 in Galerieansicht öffnen
+</span>
+  </button>
+</modal-opener>
+
+                      </div><div class="product-media-item swiper-slide swiper-slide-next" data-media-id="template--26223863923007__featured_product_QLdARU-42411379687743" style="width: 854px; margin-right: 8px;" role="group" aria-label="2 / 4">
+                        
+<noscript><div class="product__media media" style="padding-bottom: 100.0%">
+      <img src="//zap-main.myshopify.com/cdn/shop/files/01-drinks-hover-01_7c54261e-4414-465d-9210-f1dbbc4e1f1c.jpg?v=1765819927&amp;width=3000" alt="" srcset="//zap-main.myshopify.com/cdn/shop/files/01-drinks-hover-01_7c54261e-4414-465d-9210-f1dbbc4e1f1c.jpg?v=1765819927&amp;width=375 375w, //zap-main.myshopify.com/cdn/shop/files/01-drinks-hover-01_7c54261e-4414-465d-9210-f1dbbc4e1f1c.jpg?v=1765819927&amp;width=425 425w, //zap-main.myshopify.com/cdn/shop/files/01-drinks-hover-01_7c54261e-4414-465d-9210-f1dbbc4e1f1c.jpg?v=1765819927&amp;width=576 576w, //zap-main.myshopify.com/cdn/shop/files/01-drinks-hover-01_7c54261e-4414-465d-9210-f1dbbc4e1f1c.jpg?v=1765819927&amp;width=632 632w, //zap-main.myshopify.com/cdn/shop/files/01-drinks-hover-01_7c54261e-4414-465d-9210-f1dbbc4e1f1c.jpg?v=1765819927&amp;width=700 700w, //zap-main.myshopify.com/cdn/shop/files/01-drinks-hover-01_7c54261e-4414-465d-9210-f1dbbc4e1f1c.jpg?v=1765819927&amp;width=800 800w, //zap-main.myshopify.com/cdn/shop/files/01-drinks-hover-01_7c54261e-4414-465d-9210-f1dbbc4e1f1c.jpg?v=1765819927&amp;width=900 900w, //zap-main.myshopify.com/cdn/shop/files/01-drinks-hover-01_7c54261e-4414-465d-9210-f1dbbc4e1f1c.jpg?v=1765819927&amp;width=1000 1000w, //zap-main.myshopify.com/cdn/shop/files/01-drinks-hover-01_7c54261e-4414-465d-9210-f1dbbc4e1f1c.jpg?v=1765819927&amp;width=1100 1100w, //zap-main.myshopify.com/cdn/shop/files/01-drinks-hover-01_7c54261e-4414-465d-9210-f1dbbc4e1f1c.jpg?v=1765819927&amp;width=1200 1200w, //zap-main.myshopify.com/cdn/shop/files/01-drinks-hover-01_7c54261e-4414-465d-9210-f1dbbc4e1f1c.jpg?v=1765819927&amp;width=1400 1400w, //zap-main.myshopify.com/cdn/shop/files/01-drinks-hover-01_7c54261e-4414-465d-9210-f1dbbc4e1f1c.jpg?v=1765819927&amp;width=1600 1600w, //zap-main.myshopify.com/cdn/shop/files/01-drinks-hover-01_7c54261e-4414-465d-9210-f1dbbc4e1f1c.jpg?v=1765819927&amp;width=1800 1800w, //zap-main.myshopify.com/cdn/shop/files/01-drinks-hover-01_7c54261e-4414-465d-9210-f1dbbc4e1f1c.jpg?v=1765819927&amp;width=2000 2000w" width="3000" height="4000" loading="lazy" sizes="(min-width: 1920px) calc(1057px * 1), (min-width: 1536px) calc(44vw * 1), (min-width: 1200px) calc(55vw * 1), (min-width: 750px) calc(64vw * 1), calc((100vw - 4rem) * 1)">
+    </div></noscript>
+
+<modal-opener class="product__modal-opener product__modal-opener--image no-js-hidden" data-modal="#ProductModal-template--26223863923007__featured_product_QLdARU">
+  <span class="product__media-icon motion-reduce product__media-icon--disabled-on-mobile" aria-hidden="true"><svg class="icon icon-plus-zoom" width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+	<path d="M15.9996 1.60001L15.9996 30.4M30.3996 16L1.59961 16" stroke="currentColor" stroke-width="2" stroke-linecap="round"></path>
+</svg></span>
+
+  <div class="product__media" style="padding-bottom: 100.0%">
+    <img src="//zap-main.myshopify.com/cdn/shop/files/01-drinks-hover-01_7c54261e-4414-465d-9210-f1dbbc4e1f1c.jpg?v=1765819927&amp;width=3000" alt="" srcset="//zap-main.myshopify.com/cdn/shop/files/01-drinks-hover-01_7c54261e-4414-465d-9210-f1dbbc4e1f1c.jpg?v=1765819927&amp;width=375 375w, //zap-main.myshopify.com/cdn/shop/files/01-drinks-hover-01_7c54261e-4414-465d-9210-f1dbbc4e1f1c.jpg?v=1765819927&amp;width=425 425w, //zap-main.myshopify.com/cdn/shop/files/01-drinks-hover-01_7c54261e-4414-465d-9210-f1dbbc4e1f1c.jpg?v=1765819927&amp;width=576 576w, //zap-main.myshopify.com/cdn/shop/files/01-drinks-hover-01_7c54261e-4414-465d-9210-f1dbbc4e1f1c.jpg?v=1765819927&amp;width=632 632w, //zap-main.myshopify.com/cdn/shop/files/01-drinks-hover-01_7c54261e-4414-465d-9210-f1dbbc4e1f1c.jpg?v=1765819927&amp;width=700 700w, //zap-main.myshopify.com/cdn/shop/files/01-drinks-hover-01_7c54261e-4414-465d-9210-f1dbbc4e1f1c.jpg?v=1765819927&amp;width=800 800w, //zap-main.myshopify.com/cdn/shop/files/01-drinks-hover-01_7c54261e-4414-465d-9210-f1dbbc4e1f1c.jpg?v=1765819927&amp;width=900 900w, //zap-main.myshopify.com/cdn/shop/files/01-drinks-hover-01_7c54261e-4414-465d-9210-f1dbbc4e1f1c.jpg?v=1765819927&amp;width=1000 1000w, //zap-main.myshopify.com/cdn/shop/files/01-drinks-hover-01_7c54261e-4414-465d-9210-f1dbbc4e1f1c.jpg?v=1765819927&amp;width=1100 1100w, //zap-main.myshopify.com/cdn/shop/files/01-drinks-hover-01_7c54261e-4414-465d-9210-f1dbbc4e1f1c.jpg?v=1765819927&amp;width=1200 1200w, //zap-main.myshopify.com/cdn/shop/files/01-drinks-hover-01_7c54261e-4414-465d-9210-f1dbbc4e1f1c.jpg?v=1765819927&amp;width=1400 1400w, //zap-main.myshopify.com/cdn/shop/files/01-drinks-hover-01_7c54261e-4414-465d-9210-f1dbbc4e1f1c.jpg?v=1765819927&amp;width=1600 1600w, //zap-main.myshopify.com/cdn/shop/files/01-drinks-hover-01_7c54261e-4414-465d-9210-f1dbbc4e1f1c.jpg?v=1765819927&amp;width=1800 1800w, //zap-main.myshopify.com/cdn/shop/files/01-drinks-hover-01_7c54261e-4414-465d-9210-f1dbbc4e1f1c.jpg?v=1765819927&amp;width=2000 2000w" width="3000" height="4000" loading="lazy" sizes="(min-width: 1920px) calc(1057px * 1), (min-width: 1536px) calc(44vw * 1), (min-width: 1200px) calc(55vw * 1), (min-width: 750px) calc(64vw * 1), calc((100vw - 4rem) * 1)" style="object-position: 50.0% 50.0%;" fetchpriority="auto">
+  </div>
+  <button class="product__media-toggle focus-inset product__media-toggle--disabled-on-mobile product__media-toggle--disabled-on-desktop" type="button" aria-haspopup="dialog" data-media-id="42411379687743">
+    <span class="visually-hidden">Medium 2 in Galerieansicht öffnen
+</span>
+  </button>
+</modal-opener>
+
+                      </div><div class="product-media-item swiper-slide" data-media-id="template--26223863923007__featured_product_QLdARU-42411379720511" style="width: 854px; margin-right: 8px;" role="group" aria-label="3 / 4">
+                        
+<noscript><div class="product__media media" style="padding-bottom: 100.0%">
+      <img src="//zap-main.myshopify.com/cdn/shop/files/01-drinks-hover-02_f67b8cb9-b26e-42cb-a018-13374e2bf19f.jpg?v=1765819927&amp;width=3000" alt="" srcset="//zap-main.myshopify.com/cdn/shop/files/01-drinks-hover-02_f67b8cb9-b26e-42cb-a018-13374e2bf19f.jpg?v=1765819927&amp;width=375 375w, //zap-main.myshopify.com/cdn/shop/files/01-drinks-hover-02_f67b8cb9-b26e-42cb-a018-13374e2bf19f.jpg?v=1765819927&amp;width=425 425w, //zap-main.myshopify.com/cdn/shop/files/01-drinks-hover-02_f67b8cb9-b26e-42cb-a018-13374e2bf19f.jpg?v=1765819927&amp;width=576 576w, //zap-main.myshopify.com/cdn/shop/files/01-drinks-hover-02_f67b8cb9-b26e-42cb-a018-13374e2bf19f.jpg?v=1765819927&amp;width=632 632w, //zap-main.myshopify.com/cdn/shop/files/01-drinks-hover-02_f67b8cb9-b26e-42cb-a018-13374e2bf19f.jpg?v=1765819927&amp;width=700 700w, //zap-main.myshopify.com/cdn/shop/files/01-drinks-hover-02_f67b8cb9-b26e-42cb-a018-13374e2bf19f.jpg?v=1765819927&amp;width=800 800w, //zap-main.myshopify.com/cdn/shop/files/01-drinks-hover-02_f67b8cb9-b26e-42cb-a018-13374e2bf19f.jpg?v=1765819927&amp;width=900 900w, //zap-main.myshopify.com/cdn/shop/files/01-drinks-hover-02_f67b8cb9-b26e-42cb-a018-13374e2bf19f.jpg?v=1765819927&amp;width=1000 1000w, //zap-main.myshopify.com/cdn/shop/files/01-drinks-hover-02_f67b8cb9-b26e-42cb-a018-13374e2bf19f.jpg?v=1765819927&amp;width=1100 1100w, //zap-main.myshopify.com/cdn/shop/files/01-drinks-hover-02_f67b8cb9-b26e-42cb-a018-13374e2bf19f.jpg?v=1765819927&amp;width=1200 1200w, //zap-main.myshopify.com/cdn/shop/files/01-drinks-hover-02_f67b8cb9-b26e-42cb-a018-13374e2bf19f.jpg?v=1765819927&amp;width=1400 1400w, //zap-main.myshopify.com/cdn/shop/files/01-drinks-hover-02_f67b8cb9-b26e-42cb-a018-13374e2bf19f.jpg?v=1765819927&amp;width=1600 1600w, //zap-main.myshopify.com/cdn/shop/files/01-drinks-hover-02_f67b8cb9-b26e-42cb-a018-13374e2bf19f.jpg?v=1765819927&amp;width=1800 1800w, //zap-main.myshopify.com/cdn/shop/files/01-drinks-hover-02_f67b8cb9-b26e-42cb-a018-13374e2bf19f.jpg?v=1765819927&amp;width=2000 2000w" width="3000" height="4000" loading="lazy" sizes="(min-width: 1920px) calc(1057px * 1), (min-width: 1536px) calc(44vw * 1), (min-width: 1200px) calc(55vw * 1), (min-width: 750px) calc(64vw * 1), calc((100vw - 4rem) * 1)">
+    </div></noscript>
+
+<modal-opener class="product__modal-opener product__modal-opener--image no-js-hidden" data-modal="#ProductModal-template--26223863923007__featured_product_QLdARU">
+  <span class="product__media-icon motion-reduce product__media-icon--disabled-on-mobile" aria-hidden="true"><svg class="icon icon-plus-zoom" width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+	<path d="M15.9996 1.60001L15.9996 30.4M30.3996 16L1.59961 16" stroke="currentColor" stroke-width="2" stroke-linecap="round"></path>
+</svg></span>
+
+  <div class="product__media" style="padding-bottom: 100.0%">
+    <img src="//zap-main.myshopify.com/cdn/shop/files/01-drinks-hover-02_f67b8cb9-b26e-42cb-a018-13374e2bf19f.jpg?v=1765819927&amp;width=3000" alt="" srcset="//zap-main.myshopify.com/cdn/shop/files/01-drinks-hover-02_f67b8cb9-b26e-42cb-a018-13374e2bf19f.jpg?v=1765819927&amp;width=375 375w, //zap-main.myshopify.com/cdn/shop/files/01-drinks-hover-02_f67b8cb9-b26e-42cb-a018-13374e2bf19f.jpg?v=1765819927&amp;width=425 425w, //zap-main.myshopify.com/cdn/shop/files/01-drinks-hover-02_f67b8cb9-b26e-42cb-a018-13374e2bf19f.jpg?v=1765819927&amp;width=576 576w, //zap-main.myshopify.com/cdn/shop/files/01-drinks-hover-02_f67b8cb9-b26e-42cb-a018-13374e2bf19f.jpg?v=1765819927&amp;width=632 632w, //zap-main.myshopify.com/cdn/shop/files/01-drinks-hover-02_f67b8cb9-b26e-42cb-a018-13374e2bf19f.jpg?v=1765819927&amp;width=700 700w, //zap-main.myshopify.com/cdn/shop/files/01-drinks-hover-02_f67b8cb9-b26e-42cb-a018-13374e2bf19f.jpg?v=1765819927&amp;width=800 800w, //zap-main.myshopify.com/cdn/shop/files/01-drinks-hover-02_f67b8cb9-b26e-42cb-a018-13374e2bf19f.jpg?v=1765819927&amp;width=900 900w, //zap-main.myshopify.com/cdn/shop/files/01-drinks-hover-02_f67b8cb9-b26e-42cb-a018-13374e2bf19f.jpg?v=1765819927&amp;width=1000 1000w, //zap-main.myshopify.com/cdn/shop/files/01-drinks-hover-02_f67b8cb9-b26e-42cb-a018-13374e2bf19f.jpg?v=1765819927&amp;width=1100 1100w, //zap-main.myshopify.com/cdn/shop/files/01-drinks-hover-02_f67b8cb9-b26e-42cb-a018-13374e2bf19f.jpg?v=1765819927&amp;width=1200 1200w, //zap-main.myshopify.com/cdn/shop/files/01-drinks-hover-02_f67b8cb9-b26e-42cb-a018-13374e2bf19f.jpg?v=1765819927&amp;width=1400 1400w, //zap-main.myshopify.com/cdn/shop/files/01-drinks-hover-02_f67b8cb9-b26e-42cb-a018-13374e2bf19f.jpg?v=1765819927&amp;width=1600 1600w, //zap-main.myshopify.com/cdn/shop/files/01-drinks-hover-02_f67b8cb9-b26e-42cb-a018-13374e2bf19f.jpg?v=1765819927&amp;width=1800 1800w, //zap-main.myshopify.com/cdn/shop/files/01-drinks-hover-02_f67b8cb9-b26e-42cb-a018-13374e2bf19f.jpg?v=1765819927&amp;width=2000 2000w" width="3000" height="4000" loading="lazy" sizes="(min-width: 1920px) calc(1057px * 1), (min-width: 1536px) calc(44vw * 1), (min-width: 1200px) calc(55vw * 1), (min-width: 750px) calc(64vw * 1), calc((100vw - 4rem) * 1)" style="object-position: 50.0% 50.0%;" fetchpriority="auto">
+  </div>
+  <button class="product__media-toggle focus-inset product__media-toggle--disabled-on-mobile product__media-toggle--disabled-on-desktop" type="button" aria-haspopup="dialog" data-media-id="42411379720511">
+    <span class="visually-hidden">Medium 3 in Galerieansicht öffnen
+</span>
+  </button>
+</modal-opener>
+
+                      </div><div class="product-media-item swiper-slide" data-media-id="template--26223863923007__featured_product_QLdARU-42411379753279" role="group" aria-label="4 / 4" style="width: 854px; margin-right: 8px;">
+                        
+<noscript><div class="product__media media" style="padding-bottom: 100.0%">
+      <img src="//zap-main.myshopify.com/cdn/shop/files/01-drinks-hover-03_b6ddf563-0bdb-4cce-836f-fea4784ccb08.jpg?v=1765819927&amp;width=1760" alt="" srcset="//zap-main.myshopify.com/cdn/shop/files/01-drinks-hover-03_b6ddf563-0bdb-4cce-836f-fea4784ccb08.jpg?v=1765819927&amp;width=375 375w, //zap-main.myshopify.com/cdn/shop/files/01-drinks-hover-03_b6ddf563-0bdb-4cce-836f-fea4784ccb08.jpg?v=1765819927&amp;width=425 425w, //zap-main.myshopify.com/cdn/shop/files/01-drinks-hover-03_b6ddf563-0bdb-4cce-836f-fea4784ccb08.jpg?v=1765819927&amp;width=576 576w, //zap-main.myshopify.com/cdn/shop/files/01-drinks-hover-03_b6ddf563-0bdb-4cce-836f-fea4784ccb08.jpg?v=1765819927&amp;width=632 632w, //zap-main.myshopify.com/cdn/shop/files/01-drinks-hover-03_b6ddf563-0bdb-4cce-836f-fea4784ccb08.jpg?v=1765819927&amp;width=700 700w, //zap-main.myshopify.com/cdn/shop/files/01-drinks-hover-03_b6ddf563-0bdb-4cce-836f-fea4784ccb08.jpg?v=1765819927&amp;width=800 800w, //zap-main.myshopify.com/cdn/shop/files/01-drinks-hover-03_b6ddf563-0bdb-4cce-836f-fea4784ccb08.jpg?v=1765819927&amp;width=900 900w, //zap-main.myshopify.com/cdn/shop/files/01-drinks-hover-03_b6ddf563-0bdb-4cce-836f-fea4784ccb08.jpg?v=1765819927&amp;width=1000 1000w, //zap-main.myshopify.com/cdn/shop/files/01-drinks-hover-03_b6ddf563-0bdb-4cce-836f-fea4784ccb08.jpg?v=1765819927&amp;width=1100 1100w, //zap-main.myshopify.com/cdn/shop/files/01-drinks-hover-03_b6ddf563-0bdb-4cce-836f-fea4784ccb08.jpg?v=1765819927&amp;width=1200 1200w, //zap-main.myshopify.com/cdn/shop/files/01-drinks-hover-03_b6ddf563-0bdb-4cce-836f-fea4784ccb08.jpg?v=1765819927&amp;width=1400 1400w, //zap-main.myshopify.com/cdn/shop/files/01-drinks-hover-03_b6ddf563-0bdb-4cce-836f-fea4784ccb08.jpg?v=1765819927&amp;width=1600 1600w" width="1760" height="2336" loading="lazy" sizes="(min-width: 1920px) calc(1057px * 1), (min-width: 1536px) calc(44vw * 1), (min-width: 1200px) calc(55vw * 1), (min-width: 750px) calc(64vw * 1), calc((100vw - 4rem) * 1)">
+    </div></noscript>
+
+<modal-opener class="product__modal-opener product__modal-opener--image no-js-hidden" data-modal="#ProductModal-template--26223863923007__featured_product_QLdARU">
+  <span class="product__media-icon motion-reduce product__media-icon--disabled-on-mobile" aria-hidden="true"><svg class="icon icon-plus-zoom" width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+	<path d="M15.9996 1.60001L15.9996 30.4M30.3996 16L1.59961 16" stroke="currentColor" stroke-width="2" stroke-linecap="round"></path>
+</svg></span>
+
+  <div class="product__media" style="padding-bottom: 100.0%">
+    <img src="//zap-main.myshopify.com/cdn/shop/files/01-drinks-hover-03_b6ddf563-0bdb-4cce-836f-fea4784ccb08.jpg?v=1765819927&amp;width=1760" alt="" srcset="//zap-main.myshopify.com/cdn/shop/files/01-drinks-hover-03_b6ddf563-0bdb-4cce-836f-fea4784ccb08.jpg?v=1765819927&amp;width=375 375w, //zap-main.myshopify.com/cdn/shop/files/01-drinks-hover-03_b6ddf563-0bdb-4cce-836f-fea4784ccb08.jpg?v=1765819927&amp;width=425 425w, //zap-main.myshopify.com/cdn/shop/files/01-drinks-hover-03_b6ddf563-0bdb-4cce-836f-fea4784ccb08.jpg?v=1765819927&amp;width=576 576w, //zap-main.myshopify.com/cdn/shop/files/01-drinks-hover-03_b6ddf563-0bdb-4cce-836f-fea4784ccb08.jpg?v=1765819927&amp;width=632 632w, //zap-main.myshopify.com/cdn/shop/files/01-drinks-hover-03_b6ddf563-0bdb-4cce-836f-fea4784ccb08.jpg?v=1765819927&amp;width=700 700w, //zap-main.myshopify.com/cdn/shop/files/01-drinks-hover-03_b6ddf563-0bdb-4cce-836f-fea4784ccb08.jpg?v=1765819927&amp;width=800 800w, //zap-main.myshopify.com/cdn/shop/files/01-drinks-hover-03_b6ddf563-0bdb-4cce-836f-fea4784ccb08.jpg?v=1765819927&amp;width=900 900w, //zap-main.myshopify.com/cdn/shop/files/01-drinks-hover-03_b6ddf563-0bdb-4cce-836f-fea4784ccb08.jpg?v=1765819927&amp;width=1000 1000w, //zap-main.myshopify.com/cdn/shop/files/01-drinks-hover-03_b6ddf563-0bdb-4cce-836f-fea4784ccb08.jpg?v=1765819927&amp;width=1100 1100w, //zap-main.myshopify.com/cdn/shop/files/01-drinks-hover-03_b6ddf563-0bdb-4cce-836f-fea4784ccb08.jpg?v=1765819927&amp;width=1200 1200w, //zap-main.myshopify.com/cdn/shop/files/01-drinks-hover-03_b6ddf563-0bdb-4cce-836f-fea4784ccb08.jpg?v=1765819927&amp;width=1400 1400w, //zap-main.myshopify.com/cdn/shop/files/01-drinks-hover-03_b6ddf563-0bdb-4cce-836f-fea4784ccb08.jpg?v=1765819927&amp;width=1600 1600w" width="1760" height="2336" loading="lazy" sizes="(min-width: 1920px) calc(1057px * 1), (min-width: 1536px) calc(44vw * 1), (min-width: 1200px) calc(55vw * 1), (min-width: 750px) calc(64vw * 1), calc((100vw - 4rem) * 1)" style="object-position: 50.0% 50.0%;" fetchpriority="auto">
+  </div>
+  <button class="product__media-toggle focus-inset product__media-toggle--disabled-on-mobile product__media-toggle--disabled-on-desktop" type="button" aria-haspopup="dialog" data-media-id="42411379753279">
+    <span class="visually-hidden">Medium 4 in Galerieansicht öffnen
+</span>
+  </button>
+</modal-opener>
+
+                      </div></div>
+              <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
+
+              
+
+              <div class="product-badges-wrapper">
+<div class="product-badges">
+                    
+
+
+</div></div>
+
+              
+<div class="product-slider-nav no-js-hidden color-background-1 product-slider-nav--show-desktop">
+                    
+
+
+
+
+
+<button class="slider-button slider-button--prev product-slider-nav-prev swiper-button-disabled" aria-label="Previous slide" disabled="" tabindex="-1" aria-controls="swiper-wrapper-89ca1e8fb793bcae" aria-disabled="true">
+  <div class="slider-button__content">
+    <div class="slider-button__icons">
+      <span class="slider-button__icon slider-button__icon--1">
+        <svg class="icon icon-btn-arrow" width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M9 4L17.6485 12.4703L9 20.9407" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+</svg>
+
+      </span>
+      <span class="slider-button__icon slider-button__icon--2">
+        <svg class="icon icon-btn-arrow" width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M9 4L17.6485 12.4703L9 20.9407" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+</svg>
+
+      </span>
+    </div>
+  </div>
+  <span class="animated-slider-button-circle"></span>
+</button>
+
+                    
+
+
+
+
+
+<button class="slider-button slider-button--next product-slider-nav-next" aria-label="Next slide" tabindex="0" aria-controls="swiper-wrapper-89ca1e8fb793bcae" aria-disabled="false">
+  <div class="slider-button__content">
+    <div class="slider-button__icons">
+      <span class="slider-button__icon slider-button__icon--1">
+        <svg class="icon icon-btn-arrow" width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M9 4L17.6485 12.4703L9 20.9407" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+</svg>
+
+      </span>
+      <span class="slider-button__icon slider-button__icon--2">
+        <svg class="icon icon-btn-arrow" width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M9 4L17.6485 12.4703L9 20.9407" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+</svg>
+
+      </span>
+    </div>
+  </div>
+  <span class="animated-slider-button-circle"></span>
+</button>
+
+                  </div>
+
+              <div class="product-media__grid-noscript js-hidden">
+                <div class="product-media__list"><div class="product-media-item   " data-media-id="template--26223863923007__featured_product_QLdARU-42411379786047">
+                        
+<noscript><div class="product__media media" style="padding-bottom: 100.0%">
+      <img src="//zap-main.myshopify.com/cdn/shop/files/01-drinks_64ab6426-a500-4fe0-ae55-58057b35ae1c.jpg?v=1765819927&amp;width=3000" alt="" srcset="//zap-main.myshopify.com/cdn/shop/files/01-drinks_64ab6426-a500-4fe0-ae55-58057b35ae1c.jpg?v=1765819927&amp;width=375 375w, //zap-main.myshopify.com/cdn/shop/files/01-drinks_64ab6426-a500-4fe0-ae55-58057b35ae1c.jpg?v=1765819927&amp;width=425 425w, //zap-main.myshopify.com/cdn/shop/files/01-drinks_64ab6426-a500-4fe0-ae55-58057b35ae1c.jpg?v=1765819927&amp;width=576 576w, //zap-main.myshopify.com/cdn/shop/files/01-drinks_64ab6426-a500-4fe0-ae55-58057b35ae1c.jpg?v=1765819927&amp;width=632 632w, //zap-main.myshopify.com/cdn/shop/files/01-drinks_64ab6426-a500-4fe0-ae55-58057b35ae1c.jpg?v=1765819927&amp;width=700 700w, //zap-main.myshopify.com/cdn/shop/files/01-drinks_64ab6426-a500-4fe0-ae55-58057b35ae1c.jpg?v=1765819927&amp;width=800 800w, //zap-main.myshopify.com/cdn/shop/files/01-drinks_64ab6426-a500-4fe0-ae55-58057b35ae1c.jpg?v=1765819927&amp;width=900 900w, //zap-main.myshopify.com/cdn/shop/files/01-drinks_64ab6426-a500-4fe0-ae55-58057b35ae1c.jpg?v=1765819927&amp;width=1000 1000w, //zap-main.myshopify.com/cdn/shop/files/01-drinks_64ab6426-a500-4fe0-ae55-58057b35ae1c.jpg?v=1765819927&amp;width=1100 1100w, //zap-main.myshopify.com/cdn/shop/files/01-drinks_64ab6426-a500-4fe0-ae55-58057b35ae1c.jpg?v=1765819927&amp;width=1200 1200w, //zap-main.myshopify.com/cdn/shop/files/01-drinks_64ab6426-a500-4fe0-ae55-58057b35ae1c.jpg?v=1765819927&amp;width=1400 1400w, //zap-main.myshopify.com/cdn/shop/files/01-drinks_64ab6426-a500-4fe0-ae55-58057b35ae1c.jpg?v=1765819927&amp;width=1600 1600w, //zap-main.myshopify.com/cdn/shop/files/01-drinks_64ab6426-a500-4fe0-ae55-58057b35ae1c.jpg?v=1765819927&amp;width=1800 1800w, //zap-main.myshopify.com/cdn/shop/files/01-drinks_64ab6426-a500-4fe0-ae55-58057b35ae1c.jpg?v=1765819927&amp;width=2000 2000w" width="3000" height="4000" loading="lazy" sizes="(min-width: 1920px) calc(1057px * 1), (min-width: 1536px) calc(44vw * 1), (min-width: 1200px) calc(55vw * 1), (min-width: 750px) calc(64vw * 1), calc((100vw - 4rem) * 1)">
+    </div></noscript>
+
+<modal-opener class="product__modal-opener product__modal-opener--image no-js-hidden" data-modal="#ProductModal-template--26223863923007__featured_product_QLdARU">
+  <span class="product__media-icon motion-reduce product__media-icon--disabled-on-mobile" aria-hidden="true"><svg class="icon icon-plus-zoom" width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+	<path d="M15.9996 1.60001L15.9996 30.4M30.3996 16L1.59961 16" stroke="currentColor" stroke-width="2" stroke-linecap="round"></path>
+</svg></span>
+
+  <div class="product__media" style="padding-bottom: 100.0%">
+    <img src="//zap-main.myshopify.com/cdn/shop/files/01-drinks_64ab6426-a500-4fe0-ae55-58057b35ae1c.jpg?v=1765819927&amp;width=3000" alt="" srcset="//zap-main.myshopify.com/cdn/shop/files/01-drinks_64ab6426-a500-4fe0-ae55-58057b35ae1c.jpg?v=1765819927&amp;width=375 375w, //zap-main.myshopify.com/cdn/shop/files/01-drinks_64ab6426-a500-4fe0-ae55-58057b35ae1c.jpg?v=1765819927&amp;width=425 425w, //zap-main.myshopify.com/cdn/shop/files/01-drinks_64ab6426-a500-4fe0-ae55-58057b35ae1c.jpg?v=1765819927&amp;width=576 576w, //zap-main.myshopify.com/cdn/shop/files/01-drinks_64ab6426-a500-4fe0-ae55-58057b35ae1c.jpg?v=1765819927&amp;width=632 632w, //zap-main.myshopify.com/cdn/shop/files/01-drinks_64ab6426-a500-4fe0-ae55-58057b35ae1c.jpg?v=1765819927&amp;width=700 700w, //zap-main.myshopify.com/cdn/shop/files/01-drinks_64ab6426-a500-4fe0-ae55-58057b35ae1c.jpg?v=1765819927&amp;width=800 800w, //zap-main.myshopify.com/cdn/shop/files/01-drinks_64ab6426-a500-4fe0-ae55-58057b35ae1c.jpg?v=1765819927&amp;width=900 900w, //zap-main.myshopify.com/cdn/shop/files/01-drinks_64ab6426-a500-4fe0-ae55-58057b35ae1c.jpg?v=1765819927&amp;width=1000 1000w, //zap-main.myshopify.com/cdn/shop/files/01-drinks_64ab6426-a500-4fe0-ae55-58057b35ae1c.jpg?v=1765819927&amp;width=1100 1100w, //zap-main.myshopify.com/cdn/shop/files/01-drinks_64ab6426-a500-4fe0-ae55-58057b35ae1c.jpg?v=1765819927&amp;width=1200 1200w, //zap-main.myshopify.com/cdn/shop/files/01-drinks_64ab6426-a500-4fe0-ae55-58057b35ae1c.jpg?v=1765819927&amp;width=1400 1400w, //zap-main.myshopify.com/cdn/shop/files/01-drinks_64ab6426-a500-4fe0-ae55-58057b35ae1c.jpg?v=1765819927&amp;width=1600 1600w, //zap-main.myshopify.com/cdn/shop/files/01-drinks_64ab6426-a500-4fe0-ae55-58057b35ae1c.jpg?v=1765819927&amp;width=1800 1800w, //zap-main.myshopify.com/cdn/shop/files/01-drinks_64ab6426-a500-4fe0-ae55-58057b35ae1c.jpg?v=1765819927&amp;width=2000 2000w" width="3000" height="4000" loading="eager" sizes="(min-width: 1920px) calc(1057px * 1), (min-width: 1536px) calc(44vw * 1), (min-width: 1200px) calc(55vw * 1), (min-width: 750px) calc(64vw * 1), calc((100vw - 4rem) * 1)" style="object-position: 50.0% 50.0%;" fetchpriority="high">
+  </div>
+  <button class="product__media-toggle focus-inset product__media-toggle--disabled-on-mobile product__media-toggle--disabled-on-desktop" type="button" aria-haspopup="dialog" data-media-id="42411379786047">
+    <span class="visually-hidden">Medium 1 in Galerieansicht öffnen
+</span>
+  </button>
+</modal-opener>
+
+                      </div><div class="product-media-item   " data-media-id="template--26223863923007__featured_product_QLdARU-42411379687743">
+                        
+<noscript><div class="product__media media" style="padding-bottom: 100.0%">
+      <img src="//zap-main.myshopify.com/cdn/shop/files/01-drinks-hover-01_7c54261e-4414-465d-9210-f1dbbc4e1f1c.jpg?v=1765819927&amp;width=3000" alt="" srcset="//zap-main.myshopify.com/cdn/shop/files/01-drinks-hover-01_7c54261e-4414-465d-9210-f1dbbc4e1f1c.jpg?v=1765819927&amp;width=375 375w, //zap-main.myshopify.com/cdn/shop/files/01-drinks-hover-01_7c54261e-4414-465d-9210-f1dbbc4e1f1c.jpg?v=1765819927&amp;width=425 425w, //zap-main.myshopify.com/cdn/shop/files/01-drinks-hover-01_7c54261e-4414-465d-9210-f1dbbc4e1f1c.jpg?v=1765819927&amp;width=576 576w, //zap-main.myshopify.com/cdn/shop/files/01-drinks-hover-01_7c54261e-4414-465d-9210-f1dbbc4e1f1c.jpg?v=1765819927&amp;width=632 632w, //zap-main.myshopify.com/cdn/shop/files/01-drinks-hover-01_7c54261e-4414-465d-9210-f1dbbc4e1f1c.jpg?v=1765819927&amp;width=700 700w, //zap-main.myshopify.com/cdn/shop/files/01-drinks-hover-01_7c54261e-4414-465d-9210-f1dbbc4e1f1c.jpg?v=1765819927&amp;width=800 800w, //zap-main.myshopify.com/cdn/shop/files/01-drinks-hover-01_7c54261e-4414-465d-9210-f1dbbc4e1f1c.jpg?v=1765819927&amp;width=900 900w, //zap-main.myshopify.com/cdn/shop/files/01-drinks-hover-01_7c54261e-4414-465d-9210-f1dbbc4e1f1c.jpg?v=1765819927&amp;width=1000 1000w, //zap-main.myshopify.com/cdn/shop/files/01-drinks-hover-01_7c54261e-4414-465d-9210-f1dbbc4e1f1c.jpg?v=1765819927&amp;width=1100 1100w, //zap-main.myshopify.com/cdn/shop/files/01-drinks-hover-01_7c54261e-4414-465d-9210-f1dbbc4e1f1c.jpg?v=1765819927&amp;width=1200 1200w, //zap-main.myshopify.com/cdn/shop/files/01-drinks-hover-01_7c54261e-4414-465d-9210-f1dbbc4e1f1c.jpg?v=1765819927&amp;width=1400 1400w, //zap-main.myshopify.com/cdn/shop/files/01-drinks-hover-01_7c54261e-4414-465d-9210-f1dbbc4e1f1c.jpg?v=1765819927&amp;width=1600 1600w, //zap-main.myshopify.com/cdn/shop/files/01-drinks-hover-01_7c54261e-4414-465d-9210-f1dbbc4e1f1c.jpg?v=1765819927&amp;width=1800 1800w, //zap-main.myshopify.com/cdn/shop/files/01-drinks-hover-01_7c54261e-4414-465d-9210-f1dbbc4e1f1c.jpg?v=1765819927&amp;width=2000 2000w" width="3000" height="4000" loading="lazy" sizes="(min-width: 1920px) calc(1057px * 1), (min-width: 1536px) calc(44vw * 1), (min-width: 1200px) calc(55vw * 1), (min-width: 750px) calc(64vw * 1), calc((100vw - 4rem) * 1)">
+    </div></noscript>
+
+<modal-opener class="product__modal-opener product__modal-opener--image no-js-hidden" data-modal="#ProductModal-template--26223863923007__featured_product_QLdARU">
+  <span class="product__media-icon motion-reduce product__media-icon--disabled-on-mobile" aria-hidden="true"><svg class="icon icon-plus-zoom" width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+	<path d="M15.9996 1.60001L15.9996 30.4M30.3996 16L1.59961 16" stroke="currentColor" stroke-width="2" stroke-linecap="round"></path>
+</svg></span>
+
+  <div class="product__media" style="padding-bottom: 100.0%">
+    <img src="//zap-main.myshopify.com/cdn/shop/files/01-drinks-hover-01_7c54261e-4414-465d-9210-f1dbbc4e1f1c.jpg?v=1765819927&amp;width=3000" alt="" srcset="//zap-main.myshopify.com/cdn/shop/files/01-drinks-hover-01_7c54261e-4414-465d-9210-f1dbbc4e1f1c.jpg?v=1765819927&amp;width=375 375w, //zap-main.myshopify.com/cdn/shop/files/01-drinks-hover-01_7c54261e-4414-465d-9210-f1dbbc4e1f1c.jpg?v=1765819927&amp;width=425 425w, //zap-main.myshopify.com/cdn/shop/files/01-drinks-hover-01_7c54261e-4414-465d-9210-f1dbbc4e1f1c.jpg?v=1765819927&amp;width=576 576w, //zap-main.myshopify.com/cdn/shop/files/01-drinks-hover-01_7c54261e-4414-465d-9210-f1dbbc4e1f1c.jpg?v=1765819927&amp;width=632 632w, //zap-main.myshopify.com/cdn/shop/files/01-drinks-hover-01_7c54261e-4414-465d-9210-f1dbbc4e1f1c.jpg?v=1765819927&amp;width=700 700w, //zap-main.myshopify.com/cdn/shop/files/01-drinks-hover-01_7c54261e-4414-465d-9210-f1dbbc4e1f1c.jpg?v=1765819927&amp;width=800 800w, //zap-main.myshopify.com/cdn/shop/files/01-drinks-hover-01_7c54261e-4414-465d-9210-f1dbbc4e1f1c.jpg?v=1765819927&amp;width=900 900w, //zap-main.myshopify.com/cdn/shop/files/01-drinks-hover-01_7c54261e-4414-465d-9210-f1dbbc4e1f1c.jpg?v=1765819927&amp;width=1000 1000w, //zap-main.myshopify.com/cdn/shop/files/01-drinks-hover-01_7c54261e-4414-465d-9210-f1dbbc4e1f1c.jpg?v=1765819927&amp;width=1100 1100w, //zap-main.myshopify.com/cdn/shop/files/01-drinks-hover-01_7c54261e-4414-465d-9210-f1dbbc4e1f1c.jpg?v=1765819927&amp;width=1200 1200w, //zap-main.myshopify.com/cdn/shop/files/01-drinks-hover-01_7c54261e-4414-465d-9210-f1dbbc4e1f1c.jpg?v=1765819927&amp;width=1400 1400w, //zap-main.myshopify.com/cdn/shop/files/01-drinks-hover-01_7c54261e-4414-465d-9210-f1dbbc4e1f1c.jpg?v=1765819927&amp;width=1600 1600w, //zap-main.myshopify.com/cdn/shop/files/01-drinks-hover-01_7c54261e-4414-465d-9210-f1dbbc4e1f1c.jpg?v=1765819927&amp;width=1800 1800w, //zap-main.myshopify.com/cdn/shop/files/01-drinks-hover-01_7c54261e-4414-465d-9210-f1dbbc4e1f1c.jpg?v=1765819927&amp;width=2000 2000w" width="3000" height="4000" loading="lazy" sizes="(min-width: 1920px) calc(1057px * 1), (min-width: 1536px) calc(44vw * 1), (min-width: 1200px) calc(55vw * 1), (min-width: 750px) calc(64vw * 1), calc((100vw - 4rem) * 1)" style="object-position: 50.0% 50.0%;" fetchpriority="auto">
+  </div>
+  <button class="product__media-toggle focus-inset product__media-toggle--disabled-on-mobile product__media-toggle--disabled-on-desktop" type="button" aria-haspopup="dialog" data-media-id="42411379687743">
+    <span class="visually-hidden">Medium 2 in Galerieansicht öffnen
+</span>
+  </button>
+</modal-opener>
+
+                      </div><div class="product-media-item   " data-media-id="template--26223863923007__featured_product_QLdARU-42411379720511">
+                        
+<noscript><div class="product__media media" style="padding-bottom: 100.0%">
+      <img src="//zap-main.myshopify.com/cdn/shop/files/01-drinks-hover-02_f67b8cb9-b26e-42cb-a018-13374e2bf19f.jpg?v=1765819927&amp;width=3000" alt="" srcset="//zap-main.myshopify.com/cdn/shop/files/01-drinks-hover-02_f67b8cb9-b26e-42cb-a018-13374e2bf19f.jpg?v=1765819927&amp;width=375 375w, //zap-main.myshopify.com/cdn/shop/files/01-drinks-hover-02_f67b8cb9-b26e-42cb-a018-13374e2bf19f.jpg?v=1765819927&amp;width=425 425w, //zap-main.myshopify.com/cdn/shop/files/01-drinks-hover-02_f67b8cb9-b26e-42cb-a018-13374e2bf19f.jpg?v=1765819927&amp;width=576 576w, //zap-main.myshopify.com/cdn/shop/files/01-drinks-hover-02_f67b8cb9-b26e-42cb-a018-13374e2bf19f.jpg?v=1765819927&amp;width=632 632w, //zap-main.myshopify.com/cdn/shop/files/01-drinks-hover-02_f67b8cb9-b26e-42cb-a018-13374e2bf19f.jpg?v=1765819927&amp;width=700 700w, //zap-main.myshopify.com/cdn/shop/files/01-drinks-hover-02_f67b8cb9-b26e-42cb-a018-13374e2bf19f.jpg?v=1765819927&amp;width=800 800w, //zap-main.myshopify.com/cdn/shop/files/01-drinks-hover-02_f67b8cb9-b26e-42cb-a018-13374e2bf19f.jpg?v=1765819927&amp;width=900 900w, //zap-main.myshopify.com/cdn/shop/files/01-drinks-hover-02_f67b8cb9-b26e-42cb-a018-13374e2bf19f.jpg?v=1765819927&amp;width=1000 1000w, //zap-main.myshopify.com/cdn/shop/files/01-drinks-hover-02_f67b8cb9-b26e-42cb-a018-13374e2bf19f.jpg?v=1765819927&amp;width=1100 1100w, //zap-main.myshopify.com/cdn/shop/files/01-drinks-hover-02_f67b8cb9-b26e-42cb-a018-13374e2bf19f.jpg?v=1765819927&amp;width=1200 1200w, //zap-main.myshopify.com/cdn/shop/files/01-drinks-hover-02_f67b8cb9-b26e-42cb-a018-13374e2bf19f.jpg?v=1765819927&amp;width=1400 1400w, //zap-main.myshopify.com/cdn/shop/files/01-drinks-hover-02_f67b8cb9-b26e-42cb-a018-13374e2bf19f.jpg?v=1765819927&amp;width=1600 1600w, //zap-main.myshopify.com/cdn/shop/files/01-drinks-hover-02_f67b8cb9-b26e-42cb-a018-13374e2bf19f.jpg?v=1765819927&amp;width=1800 1800w, //zap-main.myshopify.com/cdn/shop/files/01-drinks-hover-02_f67b8cb9-b26e-42cb-a018-13374e2bf19f.jpg?v=1765819927&amp;width=2000 2000w" width="3000" height="4000" loading="lazy" sizes="(min-width: 1920px) calc(1057px * 1), (min-width: 1536px) calc(44vw * 1), (min-width: 1200px) calc(55vw * 1), (min-width: 750px) calc(64vw * 1), calc((100vw - 4rem) * 1)">
+    </div></noscript>
+
+<modal-opener class="product__modal-opener product__modal-opener--image no-js-hidden" data-modal="#ProductModal-template--26223863923007__featured_product_QLdARU">
+  <span class="product__media-icon motion-reduce product__media-icon--disabled-on-mobile" aria-hidden="true"><svg class="icon icon-plus-zoom" width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+	<path d="M15.9996 1.60001L15.9996 30.4M30.3996 16L1.59961 16" stroke="currentColor" stroke-width="2" stroke-linecap="round"></path>
+</svg></span>
+
+  <div class="product__media" style="padding-bottom: 100.0%">
+    <img src="//zap-main.myshopify.com/cdn/shop/files/01-drinks-hover-02_f67b8cb9-b26e-42cb-a018-13374e2bf19f.jpg?v=1765819927&amp;width=3000" alt="" srcset="//zap-main.myshopify.com/cdn/shop/files/01-drinks-hover-02_f67b8cb9-b26e-42cb-a018-13374e2bf19f.jpg?v=1765819927&amp;width=375 375w, //zap-main.myshopify.com/cdn/shop/files/01-drinks-hover-02_f67b8cb9-b26e-42cb-a018-13374e2bf19f.jpg?v=1765819927&amp;width=425 425w, //zap-main.myshopify.com/cdn/shop/files/01-drinks-hover-02_f67b8cb9-b26e-42cb-a018-13374e2bf19f.jpg?v=1765819927&amp;width=576 576w, //zap-main.myshopify.com/cdn/shop/files/01-drinks-hover-02_f67b8cb9-b26e-42cb-a018-13374e2bf19f.jpg?v=1765819927&amp;width=632 632w, //zap-main.myshopify.com/cdn/shop/files/01-drinks-hover-02_f67b8cb9-b26e-42cb-a018-13374e2bf19f.jpg?v=1765819927&amp;width=700 700w, //zap-main.myshopify.com/cdn/shop/files/01-drinks-hover-02_f67b8cb9-b26e-42cb-a018-13374e2bf19f.jpg?v=1765819927&amp;width=800 800w, //zap-main.myshopify.com/cdn/shop/files/01-drinks-hover-02_f67b8cb9-b26e-42cb-a018-13374e2bf19f.jpg?v=1765819927&amp;width=900 900w, //zap-main.myshopify.com/cdn/shop/files/01-drinks-hover-02_f67b8cb9-b26e-42cb-a018-13374e2bf19f.jpg?v=1765819927&amp;width=1000 1000w, //zap-main.myshopify.com/cdn/shop/files/01-drinks-hover-02_f67b8cb9-b26e-42cb-a018-13374e2bf19f.jpg?v=1765819927&amp;width=1100 1100w, //zap-main.myshopify.com/cdn/shop/files/01-drinks-hover-02_f67b8cb9-b26e-42cb-a018-13374e2bf19f.jpg?v=1765819927&amp;width=1200 1200w, //zap-main.myshopify.com/cdn/shop/files/01-drinks-hover-02_f67b8cb9-b26e-42cb-a018-13374e2bf19f.jpg?v=1765819927&amp;width=1400 1400w, //zap-main.myshopify.com/cdn/shop/files/01-drinks-hover-02_f67b8cb9-b26e-42cb-a018-13374e2bf19f.jpg?v=1765819927&amp;width=1600 1600w, //zap-main.myshopify.com/cdn/shop/files/01-drinks-hover-02_f67b8cb9-b26e-42cb-a018-13374e2bf19f.jpg?v=1765819927&amp;width=1800 1800w, //zap-main.myshopify.com/cdn/shop/files/01-drinks-hover-02_f67b8cb9-b26e-42cb-a018-13374e2bf19f.jpg?v=1765819927&amp;width=2000 2000w" width="3000" height="4000" loading="lazy" sizes="(min-width: 1920px) calc(1057px * 1), (min-width: 1536px) calc(44vw * 1), (min-width: 1200px) calc(55vw * 1), (min-width: 750px) calc(64vw * 1), calc((100vw - 4rem) * 1)" style="object-position: 50.0% 50.0%;" fetchpriority="auto">
+  </div>
+  <button class="product__media-toggle focus-inset product__media-toggle--disabled-on-mobile product__media-toggle--disabled-on-desktop" type="button" aria-haspopup="dialog" data-media-id="42411379720511">
+    <span class="visually-hidden">Medium 3 in Galerieansicht öffnen
+</span>
+  </button>
+</modal-opener>
+
+                      </div><div class="product-media-item   " data-media-id="template--26223863923007__featured_product_QLdARU-42411379753279">
+                        
+<noscript><div class="product__media media" style="padding-bottom: 100.0%">
+      <img src="//zap-main.myshopify.com/cdn/shop/files/01-drinks-hover-03_b6ddf563-0bdb-4cce-836f-fea4784ccb08.jpg?v=1765819927&amp;width=1760" alt="" srcset="//zap-main.myshopify.com/cdn/shop/files/01-drinks-hover-03_b6ddf563-0bdb-4cce-836f-fea4784ccb08.jpg?v=1765819927&amp;width=375 375w, //zap-main.myshopify.com/cdn/shop/files/01-drinks-hover-03_b6ddf563-0bdb-4cce-836f-fea4784ccb08.jpg?v=1765819927&amp;width=425 425w, //zap-main.myshopify.com/cdn/shop/files/01-drinks-hover-03_b6ddf563-0bdb-4cce-836f-fea4784ccb08.jpg?v=1765819927&amp;width=576 576w, //zap-main.myshopify.com/cdn/shop/files/01-drinks-hover-03_b6ddf563-0bdb-4cce-836f-fea4784ccb08.jpg?v=1765819927&amp;width=632 632w, //zap-main.myshopify.com/cdn/shop/files/01-drinks-hover-03_b6ddf563-0bdb-4cce-836f-fea4784ccb08.jpg?v=1765819927&amp;width=700 700w, //zap-main.myshopify.com/cdn/shop/files/01-drinks-hover-03_b6ddf563-0bdb-4cce-836f-fea4784ccb08.jpg?v=1765819927&amp;width=800 800w, //zap-main.myshopify.com/cdn/shop/files/01-drinks-hover-03_b6ddf563-0bdb-4cce-836f-fea4784ccb08.jpg?v=1765819927&amp;width=900 900w, //zap-main.myshopify.com/cdn/shop/files/01-drinks-hover-03_b6ddf563-0bdb-4cce-836f-fea4784ccb08.jpg?v=1765819927&amp;width=1000 1000w, //zap-main.myshopify.com/cdn/shop/files/01-drinks-hover-03_b6ddf563-0bdb-4cce-836f-fea4784ccb08.jpg?v=1765819927&amp;width=1100 1100w, //zap-main.myshopify.com/cdn/shop/files/01-drinks-hover-03_b6ddf563-0bdb-4cce-836f-fea4784ccb08.jpg?v=1765819927&amp;width=1200 1200w, //zap-main.myshopify.com/cdn/shop/files/01-drinks-hover-03_b6ddf563-0bdb-4cce-836f-fea4784ccb08.jpg?v=1765819927&amp;width=1400 1400w, //zap-main.myshopify.com/cdn/shop/files/01-drinks-hover-03_b6ddf563-0bdb-4cce-836f-fea4784ccb08.jpg?v=1765819927&amp;width=1600 1600w" width="1760" height="2336" loading="lazy" sizes="(min-width: 1920px) calc(1057px * 1), (min-width: 1536px) calc(44vw * 1), (min-width: 1200px) calc(55vw * 1), (min-width: 750px) calc(64vw * 1), calc((100vw - 4rem) * 1)">
+    </div></noscript>
+
+<modal-opener class="product__modal-opener product__modal-opener--image no-js-hidden" data-modal="#ProductModal-template--26223863923007__featured_product_QLdARU">
+  <span class="product__media-icon motion-reduce product__media-icon--disabled-on-mobile" aria-hidden="true"><svg class="icon icon-plus-zoom" width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+	<path d="M15.9996 1.60001L15.9996 30.4M30.3996 16L1.59961 16" stroke="currentColor" stroke-width="2" stroke-linecap="round"></path>
+</svg></span>
+
+  <div class="product__media" style="padding-bottom: 100.0%">
+    <img src="//zap-main.myshopify.com/cdn/shop/files/01-drinks-hover-03_b6ddf563-0bdb-4cce-836f-fea4784ccb08.jpg?v=1765819927&amp;width=1760" alt="" srcset="//zap-main.myshopify.com/cdn/shop/files/01-drinks-hover-03_b6ddf563-0bdb-4cce-836f-fea4784ccb08.jpg?v=1765819927&amp;width=375 375w, //zap-main.myshopify.com/cdn/shop/files/01-drinks-hover-03_b6ddf563-0bdb-4cce-836f-fea4784ccb08.jpg?v=1765819927&amp;width=425 425w, //zap-main.myshopify.com/cdn/shop/files/01-drinks-hover-03_b6ddf563-0bdb-4cce-836f-fea4784ccb08.jpg?v=1765819927&amp;width=576 576w, //zap-main.myshopify.com/cdn/shop/files/01-drinks-hover-03_b6ddf563-0bdb-4cce-836f-fea4784ccb08.jpg?v=1765819927&amp;width=632 632w, //zap-main.myshopify.com/cdn/shop/files/01-drinks-hover-03_b6ddf563-0bdb-4cce-836f-fea4784ccb08.jpg?v=1765819927&amp;width=700 700w, //zap-main.myshopify.com/cdn/shop/files/01-drinks-hover-03_b6ddf563-0bdb-4cce-836f-fea4784ccb08.jpg?v=1765819927&amp;width=800 800w, //zap-main.myshopify.com/cdn/shop/files/01-drinks-hover-03_b6ddf563-0bdb-4cce-836f-fea4784ccb08.jpg?v=1765819927&amp;width=900 900w, //zap-main.myshopify.com/cdn/shop/files/01-drinks-hover-03_b6ddf563-0bdb-4cce-836f-fea4784ccb08.jpg?v=1765819927&amp;width=1000 1000w, //zap-main.myshopify.com/cdn/shop/files/01-drinks-hover-03_b6ddf563-0bdb-4cce-836f-fea4784ccb08.jpg?v=1765819927&amp;width=1100 1100w, //zap-main.myshopify.com/cdn/shop/files/01-drinks-hover-03_b6ddf563-0bdb-4cce-836f-fea4784ccb08.jpg?v=1765819927&amp;width=1200 1200w, //zap-main.myshopify.com/cdn/shop/files/01-drinks-hover-03_b6ddf563-0bdb-4cce-836f-fea4784ccb08.jpg?v=1765819927&amp;width=1400 1400w, //zap-main.myshopify.com/cdn/shop/files/01-drinks-hover-03_b6ddf563-0bdb-4cce-836f-fea4784ccb08.jpg?v=1765819927&amp;width=1600 1600w" width="1760" height="2336" loading="lazy" sizes="(min-width: 1920px) calc(1057px * 1), (min-width: 1536px) calc(44vw * 1), (min-width: 1200px) calc(55vw * 1), (min-width: 750px) calc(64vw * 1), calc((100vw - 4rem) * 1)" style="object-position: 50.0% 50.0%;" fetchpriority="auto">
+  </div>
+  <button class="product__media-toggle focus-inset product__media-toggle--disabled-on-mobile product__media-toggle--disabled-on-desktop" type="button" aria-haspopup="dialog" data-media-id="42411379753279">
+    <span class="visually-hidden">Medium 4 in Galerieansicht öffnen
+</span>
+  </button>
+</modal-opener>
+
+                      </div></div>
+              </div>
+            </div>
+
+            
+<div class="product-media-sublist-outer no-js-hidden" style="--thumbs-height: 92px;">
+                <div class="product-media-sublist js-media-sublist swiper swiper-initialized swiper-horizontal swiper-free-mode swiper-watch-progress swiper-backface-hidden swiper-thumbs" data-thumbs-direction="horizontal">
+                  <div class="product-media-sublist__container swiper-wrapper" id="swiper-wrapper-f172b63c8920e3a8" aria-live="polite" style="transform: translate3d(0px, 0px, 0px);"><div class="product-media-subitem swiper-slide swiper-slide-visible swiper-slide-fully-visible swiper-slide-active swiper-slide-thumb-active" data-media-sub-id="template--26223863923007__featured_product_QLdARU-42411379786047" role="group" aria-label="1 / 4" style="margin-right: 8px;">
+                          <div class="product-media-subitem__media" style="padding-bottom: 100.0%;"><img src="//zap-main.myshopify.com/cdn/shop/files/01-drinks_64ab6426-a500-4fe0-ae55-58057b35ae1c.jpg?v=1765819927&amp;width=3000" alt="" srcset="//zap-main.myshopify.com/cdn/shop/files/01-drinks_64ab6426-a500-4fe0-ae55-58057b35ae1c.jpg?v=1765819927&amp;width=64 64w, //zap-main.myshopify.com/cdn/shop/files/01-drinks_64ab6426-a500-4fe0-ae55-58057b35ae1c.jpg?v=1765819927&amp;width=128 128w, //zap-main.myshopify.com/cdn/shop/files/01-drinks_64ab6426-a500-4fe0-ae55-58057b35ae1c.jpg?v=1765819927&amp;width=192 192w" width="3000" height="4000" loading="lazy" sizes="calc(64px * 1)" style="object-position: 50.0% 50.0%;
+                              object-fit: cover;">
+                          </div>
+                        </div><div class="product-media-subitem swiper-slide swiper-slide-visible swiper-slide-fully-visible swiper-slide-next" data-media-sub-id="template--26223863923007__featured_product_QLdARU-42411379687743" role="group" aria-label="2 / 4" style="margin-right: 8px;">
+                          <div class="product-media-subitem__media" style="padding-bottom: 100.0%;"><img src="//zap-main.myshopify.com/cdn/shop/files/01-drinks-hover-01_7c54261e-4414-465d-9210-f1dbbc4e1f1c.jpg?v=1765819927&amp;width=3000" alt="" srcset="//zap-main.myshopify.com/cdn/shop/files/01-drinks-hover-01_7c54261e-4414-465d-9210-f1dbbc4e1f1c.jpg?v=1765819927&amp;width=64 64w, //zap-main.myshopify.com/cdn/shop/files/01-drinks-hover-01_7c54261e-4414-465d-9210-f1dbbc4e1f1c.jpg?v=1765819927&amp;width=128 128w, //zap-main.myshopify.com/cdn/shop/files/01-drinks-hover-01_7c54261e-4414-465d-9210-f1dbbc4e1f1c.jpg?v=1765819927&amp;width=192 192w" width="3000" height="4000" loading="lazy" sizes="calc(64px * 1)" style="object-position: 50.0% 50.0%;
+                              object-fit: cover;">
+                          </div>
+                        </div><div class="product-media-subitem swiper-slide swiper-slide-visible swiper-slide-fully-visible" data-media-sub-id="template--26223863923007__featured_product_QLdARU-42411379720511" role="group" aria-label="3 / 4" style="margin-right: 8px;">
+                          <div class="product-media-subitem__media" style="padding-bottom: 100.0%;"><img src="//zap-main.myshopify.com/cdn/shop/files/01-drinks-hover-02_f67b8cb9-b26e-42cb-a018-13374e2bf19f.jpg?v=1765819927&amp;width=3000" alt="" srcset="//zap-main.myshopify.com/cdn/shop/files/01-drinks-hover-02_f67b8cb9-b26e-42cb-a018-13374e2bf19f.jpg?v=1765819927&amp;width=64 64w, //zap-main.myshopify.com/cdn/shop/files/01-drinks-hover-02_f67b8cb9-b26e-42cb-a018-13374e2bf19f.jpg?v=1765819927&amp;width=128 128w, //zap-main.myshopify.com/cdn/shop/files/01-drinks-hover-02_f67b8cb9-b26e-42cb-a018-13374e2bf19f.jpg?v=1765819927&amp;width=192 192w" width="3000" height="4000" loading="lazy" sizes="calc(64px * 1)" style="object-position: 50.0% 50.0%;
+                              object-fit: cover;">
+                          </div>
+                        </div><div class="product-media-subitem swiper-slide swiper-slide-visible swiper-slide-fully-visible" data-media-sub-id="template--26223863923007__featured_product_QLdARU-42411379753279" role="group" aria-label="4 / 4" style="margin-right: 8px;">
+                          <div class="product-media-subitem__media" style="padding-bottom: 100.0%;"><img src="//zap-main.myshopify.com/cdn/shop/files/01-drinks-hover-03_b6ddf563-0bdb-4cce-836f-fea4784ccb08.jpg?v=1765819927&amp;width=1760" alt="" srcset="//zap-main.myshopify.com/cdn/shop/files/01-drinks-hover-03_b6ddf563-0bdb-4cce-836f-fea4784ccb08.jpg?v=1765819927&amp;width=64 64w, //zap-main.myshopify.com/cdn/shop/files/01-drinks-hover-03_b6ddf563-0bdb-4cce-836f-fea4784ccb08.jpg?v=1765819927&amp;width=128 128w, //zap-main.myshopify.com/cdn/shop/files/01-drinks-hover-03_b6ddf563-0bdb-4cce-836f-fea4784ccb08.jpg?v=1765819927&amp;width=192 192w" width="1760" height="2336" loading="lazy" sizes="calc(64px * 1)" style="object-position: 50.0% 50.0%;
+                              object-fit: cover;">
+                          </div>
+                        </div></div>
+                <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
+              </div></div></div>
+
+      <div class="product-info-container" id="ProductInfo-template--26223863923007__featured_product_QLdARU" data-section="template--26223863923007__featured_product_QLdARU"><div class="product-text h6">Zap
+</div><div class="product-title-wrapper">
+                <h2 class="product-title h3"><a href="/de/products/honey-lemon-infusion">Honig-Zitronen-Aufguss</a></h2>
+              </div><div class="product-price no-js-hidden" id="price-template--26223863923007__featured_product_QLdARU">
+<div class="
+    price price--product body-xl">
+  <dl><div class="price__regular">
+      <dt class="visually-hidden">
+        <span class="visually-hidden visually-hidden--inline">Regulärer Preis</span>
+      </dt>
+      <dd>
+        <span class="price-item price-item--regular" dir="ltr">
+          $4.90
+        </span>
+      </dd>
+    </div>
+    <div class="price__sale">
+      <dt class="visually-hidden">
+        <span class="visually-hidden visually-hidden--inline">Angebotspreis</span>
+      </dt>
+      <dd>
+        <span class="price-item price-item--sale" dir="ltr">
+          $4.90
+        </span>
+      </dd>
+      <dt class="price__compare visually-hidden">
+        <span class="visually-hidden visually-hidden--inline">Regulärer Preis</span>
+      </dt>
+      <dd class="price__compare">
+        <s class="price-item price-item--regular" dir="ltr">
+          
+        </s>
+      </dd>
+    </div>
+    <dl class="unit-price caption hidden">
+      <dt class="visually-hidden">Stückpreis</dt>
+      <dd>
+        <span></span>
+        <span aria-hidden="true">/</span>
+        <span class="visually-hidden">&nbsp;pro&nbsp;</span>
+        <span></span>
+      </dd>
+    </dl>
+  </dl>
+</div>
+<div class="product-tax rte body-xs">Inkl. MwSt.
+<a href="/de/policies/shipping-policy">Versand</a> wird an der Kasse berechnet.
+</div></div><div class="installment-wrapper"><form method="post" action="/de/cart/add" id="product-form-installment-template--26223863923007__featured_product_QLdARU" accept-charset="UTF-8" class="installment caption-large" enctype="multipart/form-data"><input type="hidden" name="form_type" value="product" style=""><input type="hidden" name="utf8" value="✓" style=""><input type="hidden" name="id" value="51641467404607" style="">
+                    
+<input type="hidden" name="product-id" value="10178930344255" style=""><input type="hidden" name="section-id" value="template--26223863923007__featured_product_QLdARU" style=""></form></div><div class="product-feature"><div class="product-feature__icon-wrapper"><svg class="icon icon-feature-checkmark" width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M6 12.2632L10.4828 17L19 8" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+</svg>
+
+</div><span class="product-feature__text product-feature__text--weight-bold">
+                    0% sugar
+                  </span>
+                </div><div class="product-feature"><div class="product-feature__icon-wrapper"><svg class="icon icon-feature-checkmark" width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M6 12.2632L10.4828 17L19 8" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+</svg>
+
+</div><span class="product-feature__text product-feature__text--weight-bold">
+                    5 calories
+                  </span>
+                </div><div class="product-feature"><div class="product-feature__icon-wrapper"><svg class="icon icon-feature-checkmark" width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M6 12.2632L10.4828 17L19 8" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+</svg>
+
+</div><span class="product-feature__text product-feature__text--weight-bold">
+                    125 mg of Caffeine
+                  </span>
+                </div><div class="product-description-wrapper"><div class="product-description rte"><p><meta charset="utf-8">Ein gekühltes, erfrischendes Getränk für die einfache, tägliche Flüssigkeitszufuhr. Leicht, geschmackvoll und so gebraut, dass es einen klaren, belebenden Geschmack liefert.</p></div></div>
+<div class="product-parameters"><variant-radios id="variant-radios-template--26223863923007__featured_product_QLdARU" class="no-js-hidden" data-section="template--26223863923007__featured_product_QLdARU" data-url="/de/products/honey-lemon-infusion" data-update-url="false" data-unavailable-options-clickable="true" data-is-high-variant-product="false">
+                            <fieldset class="product-form__controls" id="SingleOptionSelector-0" data-option-position="1">
+                              <legend class="product-form__group-name body-normal">Größe:</legend>
+                              <div class="product-form__controls-group">
+                                
+
+
+    
+<input type="radio" id="template--26223863923007__featured_product_QLdARU-1-0" name="Größe" value="250 ml" form="product-form-template--26223863923007__featured_product_QLdARU" checked="" class="" data-option-value-id="5813113258303" style="">
+      <label for="template--26223863923007__featured_product_QLdARU-1-0"><svg class="icon icon-label-checkmark" width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <path d="M3 10.2632L7.48276 15L16 6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+        </svg><span>250 ml</span>
+        <span class="visually-hidden">Variante ausverkauft oder nicht verfügbar</span>
+      </label>
+  
+
+
+    
+<input type="radio" id="template--26223863923007__featured_product_QLdARU-1-1" name="Größe" value="400 ml" form="product-form-template--26223863923007__featured_product_QLdARU" class="" data-option-value-id="5813113291071" style="">
+      <label for="template--26223863923007__featured_product_QLdARU-1-1"><svg class="icon icon-label-checkmark" width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <path d="M3 10.2632L7.48276 15L16 6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+        </svg><span>400 ml</span>
+        <span class="visually-hidden">Variante ausverkauft oder nicht verfügbar</span>
+      </label>
+  
+
+                              </div>
+                            </fieldset>
+                            <fieldset class="product-form__controls" id="SingleOptionSelector-1" data-option-position="2">
+                              <legend class="product-form__group-name body-normal">Geschmack:</legend>
+                              <div class="product-form__controls-group">
+                                
+
+
+    
+<input type="radio" id="template--26223863923007__featured_product_QLdARU-2-0" name="Geschmack" value="Lemon" form="product-form-template--26223863923007__featured_product_QLdARU" checked="" class="" data-option-value-id="5813113323839" style="">
+      <label for="template--26223863923007__featured_product_QLdARU-2-0"><svg class="icon icon-label-checkmark" width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <path d="M3 10.2632L7.48276 15L16 6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+        </svg><span>Lemon</span>
+        <span class="visually-hidden">Variante ausverkauft oder nicht verfügbar</span>
+      </label>
+  
+
+
+    
+<input type="radio" id="template--26223863923007__featured_product_QLdARU-2-1" name="Geschmack" value="Honey" form="product-form-template--26223863923007__featured_product_QLdARU" class="" data-option-value-id="5813113356607" style="">
+      <label for="template--26223863923007__featured_product_QLdARU-2-1"><svg class="icon icon-label-checkmark" width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <path d="M3 10.2632L7.48276 15L16 6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+        </svg><span>Honey</span>
+        <span class="visually-hidden">Variante ausverkauft oder nicht verfügbar</span>
+      </label>
+  
+
+                              </div>
+                            </fieldset><script type="application/json" data-all-variants-no-high="">
+                            [{"id":51641467404607,"title":"250 ml \/ Lemon","option1":"250 ml","option2":"Lemon","option3":null,"sku":null,"requires_shipping":true,"taxable":true,"featured_image":null,"available":true,"name":"Honig-Zitronen-Aufguss - 250 ml \/ Lemon","public_title":"250 ml \/ Lemon","options":["250 ml","Lemon"],"price":490,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","requires_selling_plan":false,"selling_plan_allocations":[]},{"id":51641467437375,"title":"250 ml \/ Honey","option1":"250 ml","option2":"Honey","option3":null,"sku":null,"requires_shipping":true,"taxable":true,"featured_image":null,"available":true,"name":"Honig-Zitronen-Aufguss - 250 ml \/ Honey","public_title":"250 ml \/ Honey","options":["250 ml","Honey"],"price":490,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","requires_selling_plan":false,"selling_plan_allocations":[]},{"id":51641467470143,"title":"400 ml \/ Lemon","option1":"400 ml","option2":"Lemon","option3":null,"sku":null,"requires_shipping":true,"taxable":true,"featured_image":null,"available":true,"name":"Honig-Zitronen-Aufguss - 400 ml \/ Lemon","public_title":"400 ml \/ Lemon","options":["400 ml","Lemon"],"price":690,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","requires_selling_plan":false,"selling_plan_allocations":[]},{"id":51641467502911,"title":"400 ml \/ Honey","option1":"400 ml","option2":"Honey","option3":null,"sku":null,"requires_shipping":true,"taxable":true,"featured_image":null,"available":true,"name":"Honig-Zitronen-Aufguss - 400 ml \/ Honey","public_title":"400 ml \/ Honey","options":["400 ml","Honey"],"price":690,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","requires_selling_plan":false,"selling_plan_allocations":[]}]
+                          </script>
+
+                          <script type="application/json" data-selected-variant="">
+                            {"id":51641467404607,"title":"250 ml \/ Lemon","option1":"250 ml","option2":"Lemon","option3":null,"sku":null,"requires_shipping":true,"taxable":true,"featured_image":null,"available":true,"name":"Honig-Zitronen-Aufguss - 250 ml \/ Lemon","public_title":"250 ml \/ Lemon","options":["250 ml","Lemon"],"price":490,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","requires_selling_plan":false,"selling_plan_allocations":[]}
+                          </script>
+                        </variant-radios>
+
+                    <noscript class="product-form__noscript-wrapper-template--26223863923007__featured_product_QLdARU">
+                      <fieldset
+                        class="product-form__controls "
+                      >
+                        <label for="Variants-template--26223863923007__featured_product_QLdARU" class="product-form__group-name">Produktvarianten:</label
+                        >
+                        <div class="product-form__controls-group">
+                          <div class="select">
+                            <select
+                              name="id"
+                              id="Variants-template--26223863923007__featured_product_QLdARU"
+                              class="select__select"
+                              form="product-form-template--26223863923007__featured_product_QLdARU"
+                            ><option
+                                  
+                                    selected="selected"
+                                  
+                                  
+                                  value="51641467404607"
+                                >250 ml / Lemon - $4.90</option><option
+                                  
+                                  
+                                  value="51641467437375"
+                                >250 ml / Honey - $4.90</option><option
+                                  
+                                  
+                                  value="51641467470143"
+                                >400 ml / Lemon - $6.90</option><option
+                                  
+                                  
+                                  value="51641467502911"
+                                >400 ml / Honey - $6.90</option></select>
+                            <svg class="icon icon-caret" width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M14 8L10 12L6 8" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
+
+                          </div>
+                        </div>
+                      </fieldset>
+                    </noscript>
+                  </div><div id="Inventory-template--26223863923007__featured_product_QLdARU" class="product-inventory" role="status"><span class="product-inventory__inner product-inventory__inner--error body-normal">6 auf Lager</span></div><div class="product-buy-buttons"><product-form class="product-form" data-hide-errors="false">
+                    <div class="product-form__error-message-wrapper" role="alert" hidden="">
+                      <svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-error" viewBox="0 0 13 13">
+  <circle cx="6.5" cy="6.50049" r="5.5" stroke="white" stroke-width="2"></circle>
+  <circle cx="6.5" cy="6.5" r="5.5" fill="#B73C24" stroke="#B73C24" stroke-width="0.7"></circle>
+  <path d="M5.87413 3.52832L5.97439 7.57216H7.02713L7.12739 3.52832H5.87413ZM6.50076 9.66091C6.88091 9.66091 7.18169 9.37267 7.18169 9.00504C7.18169 8.63742 6.88091 8.34917 6.50076 8.34917C6.12061 8.34917 5.81982 8.63742 5.81982 9.00504C5.81982 9.37267 6.12061 9.66091 6.50076 9.66091Z" fill="white"></path>
+  <path d="M5.87413 3.17832H5.51535L5.52424 3.537L5.6245 7.58083L5.63296 7.92216H5.97439H7.02713H7.36856L7.37702 7.58083L7.47728 3.537L7.48617 3.17832H7.12739H5.87413ZM6.50076 10.0109C7.06121 10.0109 7.5317 9.57872 7.5317 9.00504C7.5317 8.43137 7.06121 7.99918 6.50076 7.99918C5.94031 7.99918 5.46982 8.43137 5.46982 9.00504C5.46982 9.57872 5.94031 10.0109 6.50076 10.0109Z" fill="white" stroke="#B73C24" stroke-width="0.7">
+</path></svg>
+
+                      <span class="product-form__error-message body-xs"></span>
+                    </div><form method="post" action="/de/cart/add" id="product-form-template--26223863923007__featured_product_QLdARU" accept-charset="UTF-8" class="form" enctype="multipart/form-data" novalidate="novalidate" data-type="add-to-cart-form"><input type="hidden" name="form_type" value="product" style=""><input type="hidden" name="utf8" value="✓" style=""><input type="hidden" name="id" value="51641467404607" style=""><div class="product-form__buttons">
+                        <div class="product-form__buttons-row"><div class="product-form__input product-form__quantity no-js-hidden"><product-quantity-input class="quantity">
+                                <button class="quantity__button no-js-hidden focus-inset" name="minus" type="button" disabled="">
+                                  <span class="visually-hidden">Menge für Honig-Zitronen-Aufguss verringern</span>
+                                  <svg class="icon icon-minus" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M13.3337 8L2.66699 8" stroke="currentColor" stroke-width="2" stroke-linecap="round"></path>
+</svg>
+
+                                </button>
+                                <input class="quantity__input focus-inset" type="number" name="quantity" id="Quantity-template--26223863923007__featured_product_QLdARU" data-cart-quantity="0" data-min="1" min="1" data-max="" max="" step="1" value="1" form="product-form-template--26223863923007__featured_product_QLdARU" style="">
+                                <label class="visually-hidden" for="Quantity-template--26223863923007__featured_product_QLdARU">
+                                  Menge
+                                </label>
+                                <button class="quantity__button no-js-hidden focus-inset" name="plus" type="button">
+                                  <span class="visually-hidden">Menge für Honig-Zitronen-Aufguss erhöhen</span>
+                                  <svg class="icon icon-plus" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M8.00033 2.66797V13.3346M13.3337 8.0013L2.66699 8.0013" stroke="currentColor" stroke-width="2" stroke-linecap="round"></path>
+</svg>
+
+                                </button>
+                              </product-quantity-input>
+                              <div class="quantity__rules caption"></div>
+                            </div><button type="submit" name="add" class="product-form__submit button button--transparent" aria-haspopup="dialog"><div class="button__content">
+                                <span class="button__label" data-label="In den Warenkorb" data-add-to-cart-label="">
+                                  In den Warenkorb
+                                </span>
+                              </div>
+
+                              <div class="animated-button-circle"></div>
+
+                              <div class="loading-overlay__spinner hidden"><svg aria-hidden="true" focusable="false" role="presentation" class="spinner" viewBox="0 0 66 66" xmlns="http://www.w3.org/2000/svg">
+  <circle class="path" fill="none" stroke-width="5" cx="33" cy="33" r="30"></circle>
+</svg>
+</div></button>
+                        </div><div class="product-form__checkout no-js-hidden">
+                            <div data-shopify="payment-button" class="shopify-payment-button"> <shopify-accelerated-checkout recommended="null" fallback="{&quot;supports_subs&quot;:true,&quot;supports_def_opts&quot;:true,&quot;name&quot;:&quot;buy_it_now&quot;,&quot;wallet_params&quot;:{}}" access-token="bc2dfccf943c923b2673d102777d5c03" buyer-country="US" buyer-locale="de" buyer-currency="USD" variant-params="[{&quot;id&quot;:51641467404607,&quot;requiresShipping&quot;:true},{&quot;id&quot;:51641467437375,&quot;requiresShipping&quot;:true},{&quot;id&quot;:51641467470143,&quot;requiresShipping&quot;:true},{&quot;id&quot;:51641467502911,&quot;requiresShipping&quot;:true}]" shop-id="96678281535" enabled-flags="[&quot;ce346acf&quot;,&quot;c0874428&quot;]" requires-shipping=""><shopify-buy-it-now-button access-token="bc2dfccf943c923b2673d102777d5c03" buyer-country="US" buyer-currency="USD" wallet-params="{}" page-type="product" slot="button" requires-shipping="" call-to-action=""><button type="button" class="shopify-payment-button__button shopify-payment-button__button--unbranded">Jetzt zum Checkout</button></shopify-buy-it-now-button></shopify-accelerated-checkout> <small id="shopify-buyer-consent" class="hidden" aria-hidden="true" data-consent-type="subscription"> Bei diesem Artikel handelt es sich um einen wiederkehrenden Kauf oder Kauf mit Zahlungsaufschub. Indem ich fortfahre, stimme ich den <span id="shopify-subscription-policy-button">Stornierungsrichtlinie</span> zu und autorisiere Sie, meine Zahlungsmethode zu den auf dieser Seite aufgeführten Preisen, in der Häufigkeit und zu den Terminen zu belasten, bis meine Bestellung ausgeführt wurde oder ich, sofern zulässig, storniere. </small> </div>
+                          </div></div><input type="hidden" name="product-id" value="10178930344255" style=""><input type="hidden" name="section-id" value="template--26223863923007__featured_product_QLdARU" style=""></form></product-form>
+                </div><div class="product-popup">
+                <modal-opener class="no-js-hidden" data-modal="#PopupModal-popup_J3CNjw">
+                  <button id="ProductPopup-popup_J3CNjw" class="product-popup__button focus-inset" type="button" aria-haspopup="dialog">
+                    <span class="product-popup__button-text body-normal">Ingredients &amp; Nutritions</span>
+                    <div class="product-popup__button-icon">
+                      <svg class="icon icon-eye" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none">
+<path d="M2.27407 13.2555C1.90864 12.4593 1.90864 11.5407 2.27407 10.7445C3.96562 7.05903 7.6844 4.5 12 4.5C16.3156 4.5 20.0344 7.05903 21.7259 10.7445C22.0914 11.5407 22.0914 12.4593 21.7259 13.2555C20.0344 16.941 16.3156 19.5 12 19.5C7.6844 19.5 3.96562 16.941 2.27407 13.2555Z" stroke="currentColor" stroke-width="1.7"></path>
+<path d="M15.2096 12C15.2096 13.7752 13.7726 15.2143 12 15.2143C10.2274 15.2143 8.79045 13.7752 8.79045 12C8.79045 10.2248 10.2274 8.78571 12 8.78571C13.7726 8.78571 15.2096 10.2248 15.2096 12Z" stroke="currentColor" stroke-width="1.7"></path>
+</svg>
+
+                    </div>
+                  </button>
+                </modal-opener>
+                
+              </div><div class="product-dropdown" data-product-dropdown="">
+                  <button class="product-dropdown__toggle" area-label="toggle" data-product-dropdown-toggle="">
+                    <span class="product-dropdown__toggle-text body-normal">Additional information</span>
+                    <div class="product-dropdown__toggle-icon"></div>
+                  </button>
+                  <div class="product-dropdown__content rte" data-product-dropdown-content=""><p>A chilled, refreshing drink made for easy, everyday hydration. Light, flavorful, and brewed to deliver a clean, energizing taste.<br><br></p></div>
+                </div>
+<a href="/de/products/honey-lemon-infusion" target="_blank" class="button button--underline product-full-details">
+              <span>Weitere Details anzeigen</span>
+            </a>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script type="application/ld+json">
+  {"@context":"http:\/\/schema.org\/","@id":"\/de\/products\/honey-lemon-infusion#product","@type":"ProductGroup","brand":{"@type":"Brand","name":"Zap"},"category":"Aufgüsse","description":"Ein gekühltes, erfrischendes Getränk für die einfache, tägliche Flüssigkeitszufuhr. Leicht, geschmackvoll und so gebraut, dass es einen klaren, belebenden Geschmack liefert.","hasVariant":[{"@id":"\/de\/products\/honey-lemon-infusion?variant=51641467404607#variant","@type":"Product","image":"https:\/\/zap-main.myshopify.com\/cdn\/shop\/files\/01-drinks_64ab6426-a500-4fe0-ae55-58057b35ae1c.jpg?v=1765819927\u0026width=1920","name":"Honig-Zitronen-Aufguss - 250 ml \/ Lemon","offers":{"@id":"\/de\/products\/honey-lemon-infusion?variant=51641467404607#offer","@type":"Offer","availability":"http:\/\/schema.org\/InStock","price":"4.90","priceCurrency":"USD","url":"https:\/\/zap-main.myshopify.com\/de\/products\/honey-lemon-infusion?variant=51641467404607"}},{"@id":"\/de\/products\/honey-lemon-infusion?variant=51641467437375#variant","@type":"Product","image":"https:\/\/zap-main.myshopify.com\/cdn\/shop\/files\/01-drinks_64ab6426-a500-4fe0-ae55-58057b35ae1c.jpg?v=1765819927\u0026width=1920","name":"Honig-Zitronen-Aufguss - 250 ml \/ Honey","offers":{"@id":"\/de\/products\/honey-lemon-infusion?variant=51641467437375#offer","@type":"Offer","availability":"http:\/\/schema.org\/InStock","price":"4.90","priceCurrency":"USD","url":"https:\/\/zap-main.myshopify.com\/de\/products\/honey-lemon-infusion?variant=51641467437375"}},{"@id":"\/de\/products\/honey-lemon-infusion?variant=51641467470143#variant","@type":"Product","image":"https:\/\/zap-main.myshopify.com\/cdn\/shop\/files\/01-drinks_64ab6426-a500-4fe0-ae55-58057b35ae1c.jpg?v=1765819927\u0026width=1920","name":"Honig-Zitronen-Aufguss - 400 ml \/ Lemon","offers":{"@id":"\/de\/products\/honey-lemon-infusion?variant=51641467470143#offer","@type":"Offer","availability":"http:\/\/schema.org\/InStock","price":"6.90","priceCurrency":"USD","url":"https:\/\/zap-main.myshopify.com\/de\/products\/honey-lemon-infusion?variant=51641467470143"}},{"@id":"\/de\/products\/honey-lemon-infusion?variant=51641467502911#variant","@type":"Product","image":"https:\/\/zap-main.myshopify.com\/cdn\/shop\/files\/01-drinks_64ab6426-a500-4fe0-ae55-58057b35ae1c.jpg?v=1765819927\u0026width=1920","name":"Honig-Zitronen-Aufguss - 400 ml \/ Honey","offers":{"@id":"\/de\/products\/honey-lemon-infusion?variant=51641467502911#offer","@type":"Offer","availability":"http:\/\/schema.org\/InStock","price":"6.90","priceCurrency":"USD","url":"https:\/\/zap-main.myshopify.com\/de\/products\/honey-lemon-infusion?variant=51641467502911"}}],"name":"Honig-Zitronen-Aufguss","productGroupID":"10178930344255","url":"https:\/\/zap-main.myshopify.com\/de\/products\/honey-lemon-infusion"}
+</script>
+</section>
+```
+
+## 3. shopify-section-template--26223863923007__featured_product_QqdwjC
+
+- Tag: section
+- Classes: shopify-section featured-product-section
+- Headings: Erfrischungsgetränk mit Minze und Limette
+
+```html
+<section id="shopify-section-template--26223863923007__featured_product_QqdwjC" class="shopify-section featured-product-section" data-dropdowns-initialized="true"><link href="//zap-main.myshopify.com/cdn/shop/t/2/assets/component-deferred-media.css?v=170447359543856260801772782613" rel="stylesheet" type="text/css" media="all">
+<link href="//zap-main.myshopify.com/cdn/shop/t/2/assets/section-featured-product.css?v=107046695394884994011765438889" rel="stylesheet" type="text/css" media="all">
+
+<script src="//zap-main.myshopify.com/cdn/shop/t/2/assets/main-product.js?v=168347883943037458851774260004" defer="defer"></script><script src="//zap-main.myshopify.com/cdn/shop/t/2/assets/update-slider.js?v=34812274502213614211774260017" defer="defer"></script><style data-shopify="">.section-template--26223863923007__featured_product_QqdwjC-padding {
+
+  padding-top: 6.4rem;
+
+
+
+  padding-bottom: 6.4rem;
+
+}
+
+@media screen and (min-width: 750px) { .section-template--26223863923007__featured_product_QqdwjC-padding {
+
+  padding-top: 8.8rem;
+
+
+
+  padding-bottom: 8.8rem;
+
+} }
+
+@media screen and (min-width: 1360px) { .section-template--26223863923007__featured_product_QqdwjC-padding {
+
+  padding-top: 15rem;
+
+
+
+  padding-bottom: 15rem;
+
+} }
+
+</style>
+
+<div class="featured-product color-background-1 background product section-template--26223863923007__featured_product_QqdwjC-padding" style="--media-aspect-ratio: 1.0; --thumbs-width: 92px; --product-media-desktop-gap: 2.4rem; --product-media-vertical-paddings: 4rem">
+  <div class="container">
+    <div class="product-outer product-outer--desktop-reverse content">
+      <div class="product-media" data-section="main-template--26223863923007__featured_product_QqdwjC" data-image-type="square"><div class="product-media__wrapper product-media__wrapper--vertical">
+            <div class="product-media__list-wrapper">
+              <div class="product-media__list js-media-list swiper no-js-hidden swiper-initialized swiper-horizontal swiper-backface-hidden">
+                <div class="product-media__list-container swiper-wrapper" id="swiper-wrapper-e2d31e998521f4b8" aria-live="polite"><div class="product-media-item swiper-slide active swiper-slide-active" data-media-id="template--26223863923007__featured_product_QqdwjC-42411381555519" style="width: 738px; margin-right: 8px;" role="group" aria-label="1 / 5">
+                        
+<noscript><div class="product__media media" style="padding-bottom: 100.0%">
+      <img src="//zap-main.myshopify.com/cdn/shop/files/02-drinks_0b3e694c-a916-4e01-9368-0838d0e286d4.jpg?v=1765819972&amp;width=3000" alt="" srcset="//zap-main.myshopify.com/cdn/shop/files/02-drinks_0b3e694c-a916-4e01-9368-0838d0e286d4.jpg?v=1765819972&amp;width=375 375w, //zap-main.myshopify.com/cdn/shop/files/02-drinks_0b3e694c-a916-4e01-9368-0838d0e286d4.jpg?v=1765819972&amp;width=425 425w, //zap-main.myshopify.com/cdn/shop/files/02-drinks_0b3e694c-a916-4e01-9368-0838d0e286d4.jpg?v=1765819972&amp;width=576 576w, //zap-main.myshopify.com/cdn/shop/files/02-drinks_0b3e694c-a916-4e01-9368-0838d0e286d4.jpg?v=1765819972&amp;width=632 632w, //zap-main.myshopify.com/cdn/shop/files/02-drinks_0b3e694c-a916-4e01-9368-0838d0e286d4.jpg?v=1765819972&amp;width=700 700w, //zap-main.myshopify.com/cdn/shop/files/02-drinks_0b3e694c-a916-4e01-9368-0838d0e286d4.jpg?v=1765819972&amp;width=800 800w, //zap-main.myshopify.com/cdn/shop/files/02-drinks_0b3e694c-a916-4e01-9368-0838d0e286d4.jpg?v=1765819972&amp;width=900 900w, //zap-main.myshopify.com/cdn/shop/files/02-drinks_0b3e694c-a916-4e01-9368-0838d0e286d4.jpg?v=1765819972&amp;width=1000 1000w, //zap-main.myshopify.com/cdn/shop/files/02-drinks_0b3e694c-a916-4e01-9368-0838d0e286d4.jpg?v=1765819972&amp;width=1100 1100w, //zap-main.myshopify.com/cdn/shop/files/02-drinks_0b3e694c-a916-4e01-9368-0838d0e286d4.jpg?v=1765819972&amp;width=1200 1200w, //zap-main.myshopify.com/cdn/shop/files/02-drinks_0b3e694c-a916-4e01-9368-0838d0e286d4.jpg?v=1765819972&amp;width=1400 1400w, //zap-main.myshopify.com/cdn/shop/files/02-drinks_0b3e694c-a916-4e01-9368-0838d0e286d4.jpg?v=1765819972&amp;width=1600 1600w, //zap-main.myshopify.com/cdn/shop/files/02-drinks_0b3e694c-a916-4e01-9368-0838d0e286d4.jpg?v=1765819972&amp;width=1800 1800w, //zap-main.myshopify.com/cdn/shop/files/02-drinks_0b3e694c-a916-4e01-9368-0838d0e286d4.jpg?v=1765819972&amp;width=2000 2000w" width="3000" height="4000" loading="lazy" sizes="(min-width: 1920px) calc(1057px * 1), (min-width: 1536px) calc(44vw * 1), (min-width: 1200px) calc(55vw * 1), (min-width: 750px) calc(64vw * 1), calc((100vw - 4rem) * 1)">
+    </div></noscript>
+
+<modal-opener class="product__modal-opener product__modal-opener--image no-js-hidden" data-modal="#ProductModal-template--26223863923007__featured_product_QqdwjC">
+  <span class="product__media-icon motion-reduce product__media-icon--disabled-on-mobile" aria-hidden="true"><svg class="icon icon-plus-zoom" width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+	<path d="M15.9996 1.60001L15.9996 30.4M30.3996 16L1.59961 16" stroke="currentColor" stroke-width="2" stroke-linecap="round"></path>
+</svg></span>
+
+  <div class="product__media" style="padding-bottom: 100.0%">
+    <img src="//zap-main.myshopify.com/cdn/shop/files/02-drinks_0b3e694c-a916-4e01-9368-0838d0e286d4.jpg?v=1765819972&amp;width=3000" alt="" srcset="//zap-main.myshopify.com/cdn/shop/files/02-drinks_0b3e694c-a916-4e01-9368-0838d0e286d4.jpg?v=1765819972&amp;width=375 375w, //zap-main.myshopify.com/cdn/shop/files/02-drinks_0b3e694c-a916-4e01-9368-0838d0e286d4.jpg?v=1765819972&amp;width=425 425w, //zap-main.myshopify.com/cdn/shop/files/02-drinks_0b3e694c-a916-4e01-9368-0838d0e286d4.jpg?v=1765819972&amp;width=576 576w, //zap-main.myshopify.com/cdn/shop/files/02-drinks_0b3e694c-a916-4e01-9368-0838d0e286d4.jpg?v=1765819972&amp;width=632 632w, //zap-main.myshopify.com/cdn/shop/files/02-drinks_0b3e694c-a916-4e01-9368-0838d0e286d4.jpg?v=1765819972&amp;width=700 700w, //zap-main.myshopify.com/cdn/shop/files/02-drinks_0b3e694c-a916-4e01-9368-0838d0e286d4.jpg?v=1765819972&amp;width=800 800w, //zap-main.myshopify.com/cdn/shop/files/02-drinks_0b3e694c-a916-4e01-9368-0838d0e286d4.jpg?v=1765819972&amp;width=900 900w, //zap-main.myshopify.com/cdn/shop/files/02-drinks_0b3e694c-a916-4e01-9368-0838d0e286d4.jpg?v=1765819972&amp;width=1000 1000w, //zap-main.myshopify.com/cdn/shop/files/02-drinks_0b3e694c-a916-4e01-9368-0838d0e286d4.jpg?v=1765819972&amp;width=1100 1100w, //zap-main.myshopify.com/cdn/shop/files/02-drinks_0b3e694c-a916-4e01-9368-0838d0e286d4.jpg?v=1765819972&amp;width=1200 1200w, //zap-main.myshopify.com/cdn/shop/files/02-drinks_0b3e694c-a916-4e01-9368-0838d0e286d4.jpg?v=1765819972&amp;width=1400 1400w, //zap-main.myshopify.com/cdn/shop/files/02-drinks_0b3e694c-a916-4e01-9368-0838d0e286d4.jpg?v=1765819972&amp;width=1600 1600w, //zap-main.myshopify.com/cdn/shop/files/02-drinks_0b3e694c-a916-4e01-9368-0838d0e286d4.jpg?v=1765819972&amp;width=1800 1800w, //zap-main.myshopify.com/cdn/shop/files/02-drinks_0b3e694c-a916-4e01-9368-0838d0e286d4.jpg?v=1765819972&amp;width=2000 2000w" width="3000" height="4000" loading="eager" sizes="(min-width: 1920px) calc(1057px * 1), (min-width: 1536px) calc(44vw * 1), (min-width: 1200px) calc(55vw * 1), (min-width: 750px) calc(64vw * 1), calc((100vw - 4rem) * 1)" style="object-position: 50.0% 50.0%;" fetchpriority="high">
+  </div>
+  <button class="product__media-toggle focus-inset product__media-toggle--disabled-on-mobile product__media-toggle--disabled-on-desktop" type="button" aria-haspopup="dialog" data-media-id="42411381555519">
+    <span class="visually-hidden">Medium 1 in Galerieansicht öffnen
+</span>
+  </button>
+</modal-opener>
+
+                      </div><div class="product-media-item swiper-slide swiper-slide-next" data-media-id="template--26223863923007__featured_product_QqdwjC-42411381424447" style="width: 738px; margin-right: 8px;" role="group" aria-label="2 / 5">
+                        
+<noscript><div class="product__media media" style="padding-bottom: 100.0%">
+      <img src="//zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-01_a02bfe24-061d-4f01-9e3b-ab6df13539a5.jpg?v=1765819972&amp;width=3000" alt="" srcset="//zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-01_a02bfe24-061d-4f01-9e3b-ab6df13539a5.jpg?v=1765819972&amp;width=375 375w, //zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-01_a02bfe24-061d-4f01-9e3b-ab6df13539a5.jpg?v=1765819972&amp;width=425 425w, //zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-01_a02bfe24-061d-4f01-9e3b-ab6df13539a5.jpg?v=1765819972&amp;width=576 576w, //zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-01_a02bfe24-061d-4f01-9e3b-ab6df13539a5.jpg?v=1765819972&amp;width=632 632w, //zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-01_a02bfe24-061d-4f01-9e3b-ab6df13539a5.jpg?v=1765819972&amp;width=700 700w, //zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-01_a02bfe24-061d-4f01-9e3b-ab6df13539a5.jpg?v=1765819972&amp;width=800 800w, //zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-01_a02bfe24-061d-4f01-9e3b-ab6df13539a5.jpg?v=1765819972&amp;width=900 900w, //zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-01_a02bfe24-061d-4f01-9e3b-ab6df13539a5.jpg?v=1765819972&amp;width=1000 1000w, //zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-01_a02bfe24-061d-4f01-9e3b-ab6df13539a5.jpg?v=1765819972&amp;width=1100 1100w, //zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-01_a02bfe24-061d-4f01-9e3b-ab6df13539a5.jpg?v=1765819972&amp;width=1200 1200w, //zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-01_a02bfe24-061d-4f01-9e3b-ab6df13539a5.jpg?v=1765819972&amp;width=1400 1400w, //zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-01_a02bfe24-061d-4f01-9e3b-ab6df13539a5.jpg?v=1765819972&amp;width=1600 1600w, //zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-01_a02bfe24-061d-4f01-9e3b-ab6df13539a5.jpg?v=1765819972&amp;width=1800 1800w, //zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-01_a02bfe24-061d-4f01-9e3b-ab6df13539a5.jpg?v=1765819972&amp;width=2000 2000w" width="3000" height="4000" loading="lazy" sizes="(min-width: 1920px) calc(1057px * 1), (min-width: 1536px) calc(44vw * 1), (min-width: 1200px) calc(55vw * 1), (min-width: 750px) calc(64vw * 1), calc((100vw - 4rem) * 1)">
+    </div></noscript>
+
+<modal-opener class="product__modal-opener product__modal-opener--image no-js-hidden" data-modal="#ProductModal-template--26223863923007__featured_product_QqdwjC">
+  <span class="product__media-icon motion-reduce product__media-icon--disabled-on-mobile" aria-hidden="true"><svg class="icon icon-plus-zoom" width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+	<path d="M15.9996 1.60001L15.9996 30.4M30.3996 16L1.59961 16" stroke="currentColor" stroke-width="2" stroke-linecap="round"></path>
+</svg></span>
+
+  <div class="product__media" style="padding-bottom: 100.0%">
+    <img src="//zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-01_a02bfe24-061d-4f01-9e3b-ab6df13539a5.jpg?v=1765819972&amp;width=3000" alt="" srcset="//zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-01_a02bfe24-061d-4f01-9e3b-ab6df13539a5.jpg?v=1765819972&amp;width=375 375w, //zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-01_a02bfe24-061d-4f01-9e3b-ab6df13539a5.jpg?v=1765819972&amp;width=425 425w, //zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-01_a02bfe24-061d-4f01-9e3b-ab6df13539a5.jpg?v=1765819972&amp;width=576 576w, //zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-01_a02bfe24-061d-4f01-9e3b-ab6df13539a5.jpg?v=1765819972&amp;width=632 632w, //zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-01_a02bfe24-061d-4f01-9e3b-ab6df13539a5.jpg?v=1765819972&amp;width=700 700w, //zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-01_a02bfe24-061d-4f01-9e3b-ab6df13539a5.jpg?v=1765819972&amp;width=800 800w, //zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-01_a02bfe24-061d-4f01-9e3b-ab6df13539a5.jpg?v=1765819972&amp;width=900 900w, //zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-01_a02bfe24-061d-4f01-9e3b-ab6df13539a5.jpg?v=1765819972&amp;width=1000 1000w, //zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-01_a02bfe24-061d-4f01-9e3b-ab6df13539a5.jpg?v=1765819972&amp;width=1100 1100w, //zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-01_a02bfe24-061d-4f01-9e3b-ab6df13539a5.jpg?v=1765819972&amp;width=1200 1200w, //zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-01_a02bfe24-061d-4f01-9e3b-ab6df13539a5.jpg?v=1765819972&amp;width=1400 1400w, //zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-01_a02bfe24-061d-4f01-9e3b-ab6df13539a5.jpg?v=1765819972&amp;width=1600 1600w, //zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-01_a02bfe24-061d-4f01-9e3b-ab6df13539a5.jpg?v=1765819972&amp;width=1800 1800w, //zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-01_a02bfe24-061d-4f01-9e3b-ab6df13539a5.jpg?v=1765819972&amp;width=2000 2000w" width="3000" height="4000" loading="lazy" sizes="(min-width: 1920px) calc(1057px * 1), (min-width: 1536px) calc(44vw * 1), (min-width: 1200px) calc(55vw * 1), (min-width: 750px) calc(64vw * 1), calc((100vw - 4rem) * 1)" style="object-position: 50.0% 50.0%;" fetchpriority="auto">
+  </div>
+  <button class="product__media-toggle focus-inset product__media-toggle--disabled-on-mobile product__media-toggle--disabled-on-desktop" type="button" aria-haspopup="dialog" data-media-id="42411381424447">
+    <span class="visually-hidden">Medium 2 in Galerieansicht öffnen
+</span>
+  </button>
+</modal-opener>
+
+                      </div><div class="product-media-item swiper-slide" data-media-id="template--26223863923007__featured_product_QqdwjC-42411381457215" style="width: 738px; margin-right: 8px;" role="group" aria-label="3 / 5">
+                        
+<noscript><div class="product__media media" style="padding-bottom: 100.0%">
+      <img src="//zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-02_5e5fbdea-9f6d-4067-a8c7-5f2adf036c5a.jpg?v=1765819972&amp;width=3000" alt="" srcset="//zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-02_5e5fbdea-9f6d-4067-a8c7-5f2adf036c5a.jpg?v=1765819972&amp;width=375 375w, //zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-02_5e5fbdea-9f6d-4067-a8c7-5f2adf036c5a.jpg?v=1765819972&amp;width=425 425w, //zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-02_5e5fbdea-9f6d-4067-a8c7-5f2adf036c5a.jpg?v=1765819972&amp;width=576 576w, //zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-02_5e5fbdea-9f6d-4067-a8c7-5f2adf036c5a.jpg?v=1765819972&amp;width=632 632w, //zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-02_5e5fbdea-9f6d-4067-a8c7-5f2adf036c5a.jpg?v=1765819972&amp;width=700 700w, //zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-02_5e5fbdea-9f6d-4067-a8c7-5f2adf036c5a.jpg?v=1765819972&amp;width=800 800w, //zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-02_5e5fbdea-9f6d-4067-a8c7-5f2adf036c5a.jpg?v=1765819972&amp;width=900 900w, //zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-02_5e5fbdea-9f6d-4067-a8c7-5f2adf036c5a.jpg?v=1765819972&amp;width=1000 1000w, //zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-02_5e5fbdea-9f6d-4067-a8c7-5f2adf036c5a.jpg?v=1765819972&amp;width=1100 1100w, //zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-02_5e5fbdea-9f6d-4067-a8c7-5f2adf036c5a.jpg?v=1765819972&amp;width=1200 1200w, //zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-02_5e5fbdea-9f6d-4067-a8c7-5f2adf036c5a.jpg?v=1765819972&amp;width=1400 1400w, //zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-02_5e5fbdea-9f6d-4067-a8c7-5f2adf036c5a.jpg?v=1765819972&amp;width=1600 1600w, //zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-02_5e5fbdea-9f6d-4067-a8c7-5f2adf036c5a.jpg?v=1765819972&amp;width=1800 1800w, //zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-02_5e5fbdea-9f6d-4067-a8c7-5f2adf036c5a.jpg?v=1765819972&amp;width=2000 2000w" width="3000" height="4000" loading="lazy" sizes="(min-width: 1920px) calc(1057px * 1), (min-width: 1536px) calc(44vw * 1), (min-width: 1200px) calc(55vw * 1), (min-width: 750px) calc(64vw * 1), calc((100vw - 4rem) * 1)">
+    </div></noscript>
+
+<modal-opener class="product__modal-opener product__modal-opener--image no-js-hidden" data-modal="#ProductModal-template--26223863923007__featured_product_QqdwjC">
+  <span class="product__media-icon motion-reduce product__media-icon--disabled-on-mobile" aria-hidden="true"><svg class="icon icon-plus-zoom" width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+	<path d="M15.9996 1.60001L15.9996 30.4M30.3996 16L1.59961 16" stroke="currentColor" stroke-width="2" stroke-linecap="round"></path>
+</svg></span>
+
+  <div class="product__media" style="padding-bottom: 100.0%">
+    <img src="//zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-02_5e5fbdea-9f6d-4067-a8c7-5f2adf036c5a.jpg?v=1765819972&amp;width=3000" alt="" srcset="//zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-02_5e5fbdea-9f6d-4067-a8c7-5f2adf036c5a.jpg?v=1765819972&amp;width=375 375w, //zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-02_5e5fbdea-9f6d-4067-a8c7-5f2adf036c5a.jpg?v=1765819972&amp;width=425 425w, //zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-02_5e5fbdea-9f6d-4067-a8c7-5f2adf036c5a.jpg?v=1765819972&amp;width=576 576w, //zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-02_5e5fbdea-9f6d-4067-a8c7-5f2adf036c5a.jpg?v=1765819972&amp;width=632 632w, //zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-02_5e5fbdea-9f6d-4067-a8c7-5f2adf036c5a.jpg?v=1765819972&amp;width=700 700w, //zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-02_5e5fbdea-9f6d-4067-a8c7-5f2adf036c5a.jpg?v=1765819972&amp;width=800 800w, //zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-02_5e5fbdea-9f6d-4067-a8c7-5f2adf036c5a.jpg?v=1765819972&amp;width=900 900w, //zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-02_5e5fbdea-9f6d-4067-a8c7-5f2adf036c5a.jpg?v=1765819972&amp;width=1000 1000w, //zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-02_5e5fbdea-9f6d-4067-a8c7-5f2adf036c5a.jpg?v=1765819972&amp;width=1100 1100w, //zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-02_5e5fbdea-9f6d-4067-a8c7-5f2adf036c5a.jpg?v=1765819972&amp;width=1200 1200w, //zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-02_5e5fbdea-9f6d-4067-a8c7-5f2adf036c5a.jpg?v=1765819972&amp;width=1400 1400w, //zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-02_5e5fbdea-9f6d-4067-a8c7-5f2adf036c5a.jpg?v=1765819972&amp;width=1600 1600w, //zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-02_5e5fbdea-9f6d-4067-a8c7-5f2adf036c5a.jpg?v=1765819972&amp;width=1800 1800w, //zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-02_5e5fbdea-9f6d-4067-a8c7-5f2adf036c5a.jpg?v=1765819972&amp;width=2000 2000w" width="3000" height="4000" loading="lazy" sizes="(min-width: 1920px) calc(1057px * 1), (min-width: 1536px) calc(44vw * 1), (min-width: 1200px) calc(55vw * 1), (min-width: 750px) calc(64vw * 1), calc((100vw - 4rem) * 1)" style="object-position: 50.0% 50.0%;" fetchpriority="auto">
+  </div>
+  <button class="product__media-toggle focus-inset product__media-toggle--disabled-on-mobile product__media-toggle--disabled-on-desktop" type="button" aria-haspopup="dialog" data-media-id="42411381457215">
+    <span class="visually-hidden">Medium 3 in Galerieansicht öffnen
+</span>
+  </button>
+</modal-opener>
+
+                      </div><div class="product-media-item swiper-slide" data-media-id="template--26223863923007__featured_product_QqdwjC-42411381489983" style="width: 738px; margin-right: 8px;" role="group" aria-label="4 / 5">
+                        
+<noscript><div class="product__media media" style="padding-bottom: 100.0%">
+      <img src="//zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-03_b6a3ed07-2458-44ab-9a9c-0c9f468006b3.jpg?v=1765819972&amp;width=1760" alt="" srcset="//zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-03_b6a3ed07-2458-44ab-9a9c-0c9f468006b3.jpg?v=1765819972&amp;width=375 375w, //zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-03_b6a3ed07-2458-44ab-9a9c-0c9f468006b3.jpg?v=1765819972&amp;width=425 425w, //zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-03_b6a3ed07-2458-44ab-9a9c-0c9f468006b3.jpg?v=1765819972&amp;width=576 576w, //zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-03_b6a3ed07-2458-44ab-9a9c-0c9f468006b3.jpg?v=1765819972&amp;width=632 632w, //zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-03_b6a3ed07-2458-44ab-9a9c-0c9f468006b3.jpg?v=1765819972&amp;width=700 700w, //zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-03_b6a3ed07-2458-44ab-9a9c-0c9f468006b3.jpg?v=1765819972&amp;width=800 800w, //zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-03_b6a3ed07-2458-44ab-9a9c-0c9f468006b3.jpg?v=1765819972&amp;width=900 900w, //zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-03_b6a3ed07-2458-44ab-9a9c-0c9f468006b3.jpg?v=1765819972&amp;width=1000 1000w, //zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-03_b6a3ed07-2458-44ab-9a9c-0c9f468006b3.jpg?v=1765819972&amp;width=1100 1100w, //zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-03_b6a3ed07-2458-44ab-9a9c-0c9f468006b3.jpg?v=1765819972&amp;width=1200 1200w, //zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-03_b6a3ed07-2458-44ab-9a9c-0c9f468006b3.jpg?v=1765819972&amp;width=1400 1400w, //zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-03_b6a3ed07-2458-44ab-9a9c-0c9f468006b3.jpg?v=1765819972&amp;width=1600 1600w" width="1760" height="2336" loading="lazy" sizes="(min-width: 1920px) calc(1057px * 1), (min-width: 1536px) calc(44vw * 1), (min-width: 1200px) calc(55vw * 1), (min-width: 750px) calc(64vw * 1), calc((100vw - 4rem) * 1)">
+    </div></noscript>
+
+<modal-opener class="product__modal-opener product__modal-opener--image no-js-hidden" data-modal="#ProductModal-template--26223863923007__featured_product_QqdwjC">
+  <span class="product__media-icon motion-reduce product__media-icon--disabled-on-mobile" aria-hidden="true"><svg class="icon icon-plus-zoom" width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+	<path d="M15.9996 1.60001L15.9996 30.4M30.3996 16L1.59961 16" stroke="currentColor" stroke-width="2" stroke-linecap="round"></path>
+</svg></span>
+
+  <div class="product__media" style="padding-bottom: 100.0%">
+    <img src="//zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-03_b6a3ed07-2458-44ab-9a9c-0c9f468006b3.jpg?v=1765819972&amp;width=1760" alt="" srcset="//zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-03_b6a3ed07-2458-44ab-9a9c-0c9f468006b3.jpg?v=1765819972&amp;width=375 375w, //zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-03_b6a3ed07-2458-44ab-9a9c-0c9f468006b3.jpg?v=1765819972&amp;width=425 425w, //zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-03_b6a3ed07-2458-44ab-9a9c-0c9f468006b3.jpg?v=1765819972&amp;width=576 576w, //zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-03_b6a3ed07-2458-44ab-9a9c-0c9f468006b3.jpg?v=1765819972&amp;width=632 632w, //zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-03_b6a3ed07-2458-44ab-9a9c-0c9f468006b3.jpg?v=1765819972&amp;width=700 700w, //zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-03_b6a3ed07-2458-44ab-9a9c-0c9f468006b3.jpg?v=1765819972&amp;width=800 800w, //zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-03_b6a3ed07-2458-44ab-9a9c-0c9f468006b3.jpg?v=1765819972&amp;width=900 900w, //zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-03_b6a3ed07-2458-44ab-9a9c-0c9f468006b3.jpg?v=1765819972&amp;width=1000 1000w, //zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-03_b6a3ed07-2458-44ab-9a9c-0c9f468006b3.jpg?v=1765819972&amp;width=1100 1100w, //zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-03_b6a3ed07-2458-44ab-9a9c-0c9f468006b3.jpg?v=1765819972&amp;width=1200 1200w, //zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-03_b6a3ed07-2458-44ab-9a9c-0c9f468006b3.jpg?v=1765819972&amp;width=1400 1400w, //zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-03_b6a3ed07-2458-44ab-9a9c-0c9f468006b3.jpg?v=1765819972&amp;width=1600 1600w" width="1760" height="2336" loading="lazy" sizes="(min-width: 1920px) calc(1057px * 1), (min-width: 1536px) calc(44vw * 1), (min-width: 1200px) calc(55vw * 1), (min-width: 750px) calc(64vw * 1), calc((100vw - 4rem) * 1)" style="object-position: 50.0% 50.0%;" fetchpriority="auto">
+  </div>
+  <button class="product__media-toggle focus-inset product__media-toggle--disabled-on-mobile product__media-toggle--disabled-on-desktop" type="button" aria-haspopup="dialog" data-media-id="42411381489983">
+    <span class="visually-hidden">Medium 4 in Galerieansicht öffnen
+</span>
+  </button>
+</modal-opener>
+
+                      </div><div class="product-media-item swiper-slide" data-media-id="template--26223863923007__featured_product_QqdwjC-42411381522751" role="group" aria-label="5 / 5" style="width: 738px; margin-right: 8px;">
+                        
+<noscript><div class="product__media media" style="padding-bottom: 100.0%">
+      <img src="//zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-04_a29ad45d-08ad-4159-b1b8-6dc43bf36e9d.jpg?v=1765819972&amp;width=2102" alt="" srcset="//zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-04_a29ad45d-08ad-4159-b1b8-6dc43bf36e9d.jpg?v=1765819972&amp;width=375 375w, //zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-04_a29ad45d-08ad-4159-b1b8-6dc43bf36e9d.jpg?v=1765819972&amp;width=425 425w, //zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-04_a29ad45d-08ad-4159-b1b8-6dc43bf36e9d.jpg?v=1765819972&amp;width=576 576w, //zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-04_a29ad45d-08ad-4159-b1b8-6dc43bf36e9d.jpg?v=1765819972&amp;width=632 632w, //zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-04_a29ad45d-08ad-4159-b1b8-6dc43bf36e9d.jpg?v=1765819972&amp;width=700 700w, //zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-04_a29ad45d-08ad-4159-b1b8-6dc43bf36e9d.jpg?v=1765819972&amp;width=800 800w, //zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-04_a29ad45d-08ad-4159-b1b8-6dc43bf36e9d.jpg?v=1765819972&amp;width=900 900w, //zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-04_a29ad45d-08ad-4159-b1b8-6dc43bf36e9d.jpg?v=1765819972&amp;width=1000 1000w, //zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-04_a29ad45d-08ad-4159-b1b8-6dc43bf36e9d.jpg?v=1765819972&amp;width=1100 1100w, //zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-04_a29ad45d-08ad-4159-b1b8-6dc43bf36e9d.jpg?v=1765819972&amp;width=1200 1200w, //zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-04_a29ad45d-08ad-4159-b1b8-6dc43bf36e9d.jpg?v=1765819972&amp;width=1400 1400w, //zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-04_a29ad45d-08ad-4159-b1b8-6dc43bf36e9d.jpg?v=1765819972&amp;width=1600 1600w, //zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-04_a29ad45d-08ad-4159-b1b8-6dc43bf36e9d.jpg?v=1765819972&amp;width=1800 1800w, //zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-04_a29ad45d-08ad-4159-b1b8-6dc43bf36e9d.jpg?v=1765819972&amp;width=2000 2000w" width="2102" height="2802" loading="lazy" sizes="(min-width: 1920px) calc(1057px * 1), (min-width: 1536px) calc(44vw * 1), (min-width: 1200px) calc(55vw * 1), (min-width: 750px) calc(64vw * 1), calc((100vw - 4rem) * 1)">
+    </div></noscript>
+
+<modal-opener class="product__modal-opener product__modal-opener--image no-js-hidden" data-modal="#ProductModal-template--26223863923007__featured_product_QqdwjC">
+  <span class="product__media-icon motion-reduce product__media-icon--disabled-on-mobile" aria-hidden="true"><svg class="icon icon-plus-zoom" width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+	<path d="M15.9996 1.60001L15.9996 30.4M30.3996 16L1.59961 16" stroke="currentColor" stroke-width="2" stroke-linecap="round"></path>
+</svg></span>
+
+  <div class="product__media" style="padding-bottom: 100.0%">
+    <img src="//zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-04_a29ad45d-08ad-4159-b1b8-6dc43bf36e9d.jpg?v=1765819972&amp;width=2102" alt="" srcset="//zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-04_a29ad45d-08ad-4159-b1b8-6dc43bf36e9d.jpg?v=1765819972&amp;width=375 375w, //zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-04_a29ad45d-08ad-4159-b1b8-6dc43bf36e9d.jpg?v=1765819972&amp;width=425 425w, //zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-04_a29ad45d-08ad-4159-b1b8-6dc43bf36e9d.jpg?v=1765819972&amp;width=576 576w, //zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-04_a29ad45d-08ad-4159-b1b8-6dc43bf36e9d.jpg?v=1765819972&amp;width=632 632w, //zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-04_a29ad45d-08ad-4159-b1b8-6dc43bf36e9d.jpg?v=1765819972&amp;width=700 700w, //zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-04_a29ad45d-08ad-4159-b1b8-6dc43bf36e9d.jpg?v=1765819972&amp;width=800 800w, //zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-04_a29ad45d-08ad-4159-b1b8-6dc43bf36e9d.jpg?v=1765819972&amp;width=900 900w, //zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-04_a29ad45d-08ad-4159-b1b8-6dc43bf36e9d.jpg?v=1765819972&amp;width=1000 1000w, //zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-04_a29ad45d-08ad-4159-b1b8-6dc43bf36e9d.jpg?v=1765819972&amp;width=1100 1100w, //zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-04_a29ad45d-08ad-4159-b1b8-6dc43bf36e9d.jpg?v=1765819972&amp;width=1200 1200w, //zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-04_a29ad45d-08ad-4159-b1b8-6dc43bf36e9d.jpg?v=1765819972&amp;width=1400 1400w, //zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-04_a29ad45d-08ad-4159-b1b8-6dc43bf36e9d.jpg?v=1765819972&amp;width=1600 1600w, //zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-04_a29ad45d-08ad-4159-b1b8-6dc43bf36e9d.jpg?v=1765819972&amp;width=1800 1800w, //zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-04_a29ad45d-08ad-4159-b1b8-6dc43bf36e9d.jpg?v=1765819972&amp;width=2000 2000w" width="2102" height="2802" loading="lazy" sizes="(min-width: 1920px) calc(1057px * 1), (min-width: 1536px) calc(44vw * 1), (min-width: 1200px) calc(55vw * 1), (min-width: 750px) calc(64vw * 1), calc((100vw - 4rem) * 1)" style="object-position: 50.0% 50.0%;" fetchpriority="auto">
+  </div>
+  <button class="product__media-toggle focus-inset product__media-toggle--disabled-on-mobile product__media-toggle--disabled-on-desktop" type="button" aria-haspopup="dialog" data-media-id="42411381522751">
+    <span class="visually-hidden">Medium 5 in Galerieansicht öffnen
+</span>
+  </button>
+</modal-opener>
+
+                      </div></div>
+              <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
+
+              
+
+              <div class="product-badges-wrapper">
+                  <span class="badge badge--sale body-small" aria-hidden="true">
+                    
+Angebot
+                  </span>
+<div class="product-badges">
+                    
+
+
+</div></div>
+
+              
+<div class="product-slider-nav no-js-hidden color-background-1 product-slider-nav--show-desktop product-slider-nav--show-mobile">
+                    
+
+
+
+
+
+<button class="slider-button slider-button--prev product-slider-nav-prev swiper-button-disabled" aria-label="Previous slide" disabled="" tabindex="-1" aria-controls="swiper-wrapper-e2d31e998521f4b8" aria-disabled="true">
+  <div class="slider-button__content">
+    <div class="slider-button__icons">
+      <span class="slider-button__icon slider-button__icon--1">
+        <svg class="icon icon-btn-arrow" width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M9 4L17.6485 12.4703L9 20.9407" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+</svg>
+
+      </span>
+      <span class="slider-button__icon slider-button__icon--2">
+        <svg class="icon icon-btn-arrow" width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M9 4L17.6485 12.4703L9 20.9407" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+</svg>
+
+      </span>
+    </div>
+  </div>
+  <span class="animated-slider-button-circle"></span>
+</button>
+
+                    
+
+
+
+
+
+<button class="slider-button slider-button--next product-slider-nav-next" aria-label="Next slide" tabindex="0" aria-controls="swiper-wrapper-e2d31e998521f4b8" aria-disabled="false">
+  <div class="slider-button__content">
+    <div class="slider-button__icons">
+      <span class="slider-button__icon slider-button__icon--1">
+        <svg class="icon icon-btn-arrow" width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M9 4L17.6485 12.4703L9 20.9407" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+</svg>
+
+      </span>
+      <span class="slider-button__icon slider-button__icon--2">
+        <svg class="icon icon-btn-arrow" width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M9 4L17.6485 12.4703L9 20.9407" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+</svg>
+
+      </span>
+    </div>
+  </div>
+  <span class="animated-slider-button-circle"></span>
+</button>
+
+                  </div>
+
+              <div class="product-media__grid-noscript js-hidden">
+                <div class="product-media__list"><div class="product-media-item   " data-media-id="template--26223863923007__featured_product_QqdwjC-42411381555519">
+                        
+<noscript><div class="product__media media" style="padding-bottom: 100.0%">
+      <img src="//zap-main.myshopify.com/cdn/shop/files/02-drinks_0b3e694c-a916-4e01-9368-0838d0e286d4.jpg?v=1765819972&amp;width=3000" alt="" srcset="//zap-main.myshopify.com/cdn/shop/files/02-drinks_0b3e694c-a916-4e01-9368-0838d0e286d4.jpg?v=1765819972&amp;width=375 375w, //zap-main.myshopify.com/cdn/shop/files/02-drinks_0b3e694c-a916-4e01-9368-0838d0e286d4.jpg?v=1765819972&amp;width=425 425w, //zap-main.myshopify.com/cdn/shop/files/02-drinks_0b3e694c-a916-4e01-9368-0838d0e286d4.jpg?v=1765819972&amp;width=576 576w, //zap-main.myshopify.com/cdn/shop/files/02-drinks_0b3e694c-a916-4e01-9368-0838d0e286d4.jpg?v=1765819972&amp;width=632 632w, //zap-main.myshopify.com/cdn/shop/files/02-drinks_0b3e694c-a916-4e01-9368-0838d0e286d4.jpg?v=1765819972&amp;width=700 700w, //zap-main.myshopify.com/cdn/shop/files/02-drinks_0b3e694c-a916-4e01-9368-0838d0e286d4.jpg?v=1765819972&amp;width=800 800w, //zap-main.myshopify.com/cdn/shop/files/02-drinks_0b3e694c-a916-4e01-9368-0838d0e286d4.jpg?v=1765819972&amp;width=900 900w, //zap-main.myshopify.com/cdn/shop/files/02-drinks_0b3e694c-a916-4e01-9368-0838d0e286d4.jpg?v=1765819972&amp;width=1000 1000w, //zap-main.myshopify.com/cdn/shop/files/02-drinks_0b3e694c-a916-4e01-9368-0838d0e286d4.jpg?v=1765819972&amp;width=1100 1100w, //zap-main.myshopify.com/cdn/shop/files/02-drinks_0b3e694c-a916-4e01-9368-0838d0e286d4.jpg?v=1765819972&amp;width=1200 1200w, //zap-main.myshopify.com/cdn/shop/files/02-drinks_0b3e694c-a916-4e01-9368-0838d0e286d4.jpg?v=1765819972&amp;width=1400 1400w, //zap-main.myshopify.com/cdn/shop/files/02-drinks_0b3e694c-a916-4e01-9368-0838d0e286d4.jpg?v=1765819972&amp;width=1600 1600w, //zap-main.myshopify.com/cdn/shop/files/02-drinks_0b3e694c-a916-4e01-9368-0838d0e286d4.jpg?v=1765819972&amp;width=1800 1800w, //zap-main.myshopify.com/cdn/shop/files/02-drinks_0b3e694c-a916-4e01-9368-0838d0e286d4.jpg?v=1765819972&amp;width=2000 2000w" width="3000" height="4000" loading="lazy" sizes="(min-width: 1920px) calc(1057px * 1), (min-width: 1536px) calc(44vw * 1), (min-width: 1200px) calc(55vw * 1), (min-width: 750px) calc(64vw * 1), calc((100vw - 4rem) * 1)">
+    </div></noscript>
+
+<modal-opener class="product__modal-opener product__modal-opener--image no-js-hidden" data-modal="#ProductModal-template--26223863923007__featured_product_QqdwjC">
+  <span class="product__media-icon motion-reduce product__media-icon--disabled-on-mobile" aria-hidden="true"><svg class="icon icon-plus-zoom" width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+	<path d="M15.9996 1.60001L15.9996 30.4M30.3996 16L1.59961 16" stroke="currentColor" stroke-width="2" stroke-linecap="round"></path>
+</svg></span>
+
+  <div class="product__media" style="padding-bottom: 100.0%">
+    <img src="//zap-main.myshopify.com/cdn/shop/files/02-drinks_0b3e694c-a916-4e01-9368-0838d0e286d4.jpg?v=1765819972&amp;width=3000" alt="" srcset="//zap-main.myshopify.com/cdn/shop/files/02-drinks_0b3e694c-a916-4e01-9368-0838d0e286d4.jpg?v=1765819972&amp;width=375 375w, //zap-main.myshopify.com/cdn/shop/files/02-drinks_0b3e694c-a916-4e01-9368-0838d0e286d4.jpg?v=1765819972&amp;width=425 425w, //zap-main.myshopify.com/cdn/shop/files/02-drinks_0b3e694c-a916-4e01-9368-0838d0e286d4.jpg?v=1765819972&amp;width=576 576w, //zap-main.myshopify.com/cdn/shop/files/02-drinks_0b3e694c-a916-4e01-9368-0838d0e286d4.jpg?v=1765819972&amp;width=632 632w, //zap-main.myshopify.com/cdn/shop/files/02-drinks_0b3e694c-a916-4e01-9368-0838d0e286d4.jpg?v=1765819972&amp;width=700 700w, //zap-main.myshopify.com/cdn/shop/files/02-drinks_0b3e694c-a916-4e01-9368-0838d0e286d4.jpg?v=1765819972&amp;width=800 800w, //zap-main.myshopify.com/cdn/shop/files/02-drinks_0b3e694c-a916-4e01-9368-0838d0e286d4.jpg?v=1765819972&amp;width=900 900w, //zap-main.myshopify.com/cdn/shop/files/02-drinks_0b3e694c-a916-4e01-9368-0838d0e286d4.jpg?v=1765819972&amp;width=1000 1000w, //zap-main.myshopify.com/cdn/shop/files/02-drinks_0b3e694c-a916-4e01-9368-0838d0e286d4.jpg?v=1765819972&amp;width=1100 1100w, //zap-main.myshopify.com/cdn/shop/files/02-drinks_0b3e694c-a916-4e01-9368-0838d0e286d4.jpg?v=1765819972&amp;width=1200 1200w, //zap-main.myshopify.com/cdn/shop/files/02-drinks_0b3e694c-a916-4e01-9368-0838d0e286d4.jpg?v=1765819972&amp;width=1400 1400w, //zap-main.myshopify.com/cdn/shop/files/02-drinks_0b3e694c-a916-4e01-9368-0838d0e286d4.jpg?v=1765819972&amp;width=1600 1600w, //zap-main.myshopify.com/cdn/shop/files/02-drinks_0b3e694c-a916-4e01-9368-0838d0e286d4.jpg?v=1765819972&amp;width=1800 1800w, //zap-main.myshopify.com/cdn/shop/files/02-drinks_0b3e694c-a916-4e01-9368-0838d0e286d4.jpg?v=1765819972&amp;width=2000 2000w" width="3000" height="4000" loading="eager" sizes="(min-width: 1920px) calc(1057px * 1), (min-width: 1536px) calc(44vw * 1), (min-width: 1200px) calc(55vw * 1), (min-width: 750px) calc(64vw * 1), calc((100vw - 4rem) * 1)" style="object-position: 50.0% 50.0%;" fetchpriority="high">
+  </div>
+  <button class="product__media-toggle focus-inset product__media-toggle--disabled-on-mobile product__media-toggle--disabled-on-desktop" type="button" aria-haspopup="dialog" data-media-id="42411381555519">
+    <span class="visually-hidden">Medium 1 in Galerieansicht öffnen
+</span>
+  </button>
+</modal-opener>
+
+                      </div><div class="product-media-item   " data-media-id="template--26223863923007__featured_product_QqdwjC-42411381424447">
+                        
+<noscript><div class="product__media media" style="padding-bottom: 100.0%">
+      <img src="//zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-01_a02bfe24-061d-4f01-9e3b-ab6df13539a5.jpg?v=1765819972&amp;width=3000" alt="" srcset="//zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-01_a02bfe24-061d-4f01-9e3b-ab6df13539a5.jpg?v=1765819972&amp;width=375 375w, //zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-01_a02bfe24-061d-4f01-9e3b-ab6df13539a5.jpg?v=1765819972&amp;width=425 425w, //zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-01_a02bfe24-061d-4f01-9e3b-ab6df13539a5.jpg?v=1765819972&amp;width=576 576w, //zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-01_a02bfe24-061d-4f01-9e3b-ab6df13539a5.jpg?v=1765819972&amp;width=632 632w, //zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-01_a02bfe24-061d-4f01-9e3b-ab6df13539a5.jpg?v=1765819972&amp;width=700 700w, //zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-01_a02bfe24-061d-4f01-9e3b-ab6df13539a5.jpg?v=1765819972&amp;width=800 800w, //zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-01_a02bfe24-061d-4f01-9e3b-ab6df13539a5.jpg?v=1765819972&amp;width=900 900w, //zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-01_a02bfe24-061d-4f01-9e3b-ab6df13539a5.jpg?v=1765819972&amp;width=1000 1000w, //zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-01_a02bfe24-061d-4f01-9e3b-ab6df13539a5.jpg?v=1765819972&amp;width=1100 1100w, //zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-01_a02bfe24-061d-4f01-9e3b-ab6df13539a5.jpg?v=1765819972&amp;width=1200 1200w, //zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-01_a02bfe24-061d-4f01-9e3b-ab6df13539a5.jpg?v=1765819972&amp;width=1400 1400w, //zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-01_a02bfe24-061d-4f01-9e3b-ab6df13539a5.jpg?v=1765819972&amp;width=1600 1600w, //zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-01_a02bfe24-061d-4f01-9e3b-ab6df13539a5.jpg?v=1765819972&amp;width=1800 1800w, //zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-01_a02bfe24-061d-4f01-9e3b-ab6df13539a5.jpg?v=1765819972&amp;width=2000 2000w" width="3000" height="4000" loading="lazy" sizes="(min-width: 1920px) calc(1057px * 1), (min-width: 1536px) calc(44vw * 1), (min-width: 1200px) calc(55vw * 1), (min-width: 750px) calc(64vw * 1), calc((100vw - 4rem) * 1)">
+    </div></noscript>
+
+<modal-opener class="product__modal-opener product__modal-opener--image no-js-hidden" data-modal="#ProductModal-template--26223863923007__featured_product_QqdwjC">
+  <span class="product__media-icon motion-reduce product__media-icon--disabled-on-mobile" aria-hidden="true"><svg class="icon icon-plus-zoom" width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+	<path d="M15.9996 1.60001L15.9996 30.4M30.3996 16L1.59961 16" stroke="currentColor" stroke-width="2" stroke-linecap="round"></path>
+</svg></span>
+
+  <div class="product__media" style="padding-bottom: 100.0%">
+    <img src="//zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-01_a02bfe24-061d-4f01-9e3b-ab6df13539a5.jpg?v=1765819972&amp;width=3000" alt="" srcset="//zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-01_a02bfe24-061d-4f01-9e3b-ab6df13539a5.jpg?v=1765819972&amp;width=375 375w, //zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-01_a02bfe24-061d-4f01-9e3b-ab6df13539a5.jpg?v=1765819972&amp;width=425 425w, //zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-01_a02bfe24-061d-4f01-9e3b-ab6df13539a5.jpg?v=1765819972&amp;width=576 576w, //zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-01_a02bfe24-061d-4f01-9e3b-ab6df13539a5.jpg?v=1765819972&amp;width=632 632w, //zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-01_a02bfe24-061d-4f01-9e3b-ab6df13539a5.jpg?v=1765819972&amp;width=700 700w, //zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-01_a02bfe24-061d-4f01-9e3b-ab6df13539a5.jpg?v=1765819972&amp;width=800 800w, //zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-01_a02bfe24-061d-4f01-9e3b-ab6df13539a5.jpg?v=1765819972&amp;width=900 900w, //zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-01_a02bfe24-061d-4f01-9e3b-ab6df13539a5.jpg?v=1765819972&amp;width=1000 1000w, //zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-01_a02bfe24-061d-4f01-9e3b-ab6df13539a5.jpg?v=1765819972&amp;width=1100 1100w, //zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-01_a02bfe24-061d-4f01-9e3b-ab6df13539a5.jpg?v=1765819972&amp;width=1200 1200w, //zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-01_a02bfe24-061d-4f01-9e3b-ab6df13539a5.jpg?v=1765819972&amp;width=1400 1400w, //zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-01_a02bfe24-061d-4f01-9e3b-ab6df13539a5.jpg?v=1765819972&amp;width=1600 1600w, //zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-01_a02bfe24-061d-4f01-9e3b-ab6df13539a5.jpg?v=1765819972&amp;width=1800 1800w, //zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-01_a02bfe24-061d-4f01-9e3b-ab6df13539a5.jpg?v=1765819972&amp;width=2000 2000w" width="3000" height="4000" loading="lazy" sizes="(min-width: 1920px) calc(1057px * 1), (min-width: 1536px) calc(44vw * 1), (min-width: 1200px) calc(55vw * 1), (min-width: 750px) calc(64vw * 1), calc((100vw - 4rem) * 1)" style="object-position: 50.0% 50.0%;" fetchpriority="auto">
+  </div>
+  <button class="product__media-toggle focus-inset product__media-toggle--disabled-on-mobile product__media-toggle--disabled-on-desktop" type="button" aria-haspopup="dialog" data-media-id="42411381424447">
+    <span class="visually-hidden">Medium 2 in Galerieansicht öffnen
+</span>
+  </button>
+</modal-opener>
+
+                      </div><div class="product-media-item   " data-media-id="template--26223863923007__featured_product_QqdwjC-42411381457215">
+                        
+<noscript><div class="product__media media" style="padding-bottom: 100.0%">
+      <img src="//zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-02_5e5fbdea-9f6d-4067-a8c7-5f2adf036c5a.jpg?v=1765819972&amp;width=3000" alt="" srcset="//zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-02_5e5fbdea-9f6d-4067-a8c7-5f2adf036c5a.jpg?v=1765819972&amp;width=375 375w, //zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-02_5e5fbdea-9f6d-4067-a8c7-5f2adf036c5a.jpg?v=1765819972&amp;width=425 425w, //zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-02_5e5fbdea-9f6d-4067-a8c7-5f2adf036c5a.jpg?v=1765819972&amp;width=576 576w, //zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-02_5e5fbdea-9f6d-4067-a8c7-5f2adf036c5a.jpg?v=1765819972&amp;width=632 632w, //zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-02_5e5fbdea-9f6d-4067-a8c7-5f2adf036c5a.jpg?v=1765819972&amp;width=700 700w, //zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-02_5e5fbdea-9f6d-4067-a8c7-5f2adf036c5a.jpg?v=1765819972&amp;width=800 800w, //zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-02_5e5fbdea-9f6d-4067-a8c7-5f2adf036c5a.jpg?v=1765819972&amp;width=900 900w, //zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-02_5e5fbdea-9f6d-4067-a8c7-5f2adf036c5a.jpg?v=1765819972&amp;width=1000 1000w, //zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-02_5e5fbdea-9f6d-4067-a8c7-5f2adf036c5a.jpg?v=1765819972&amp;width=1100 1100w, //zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-02_5e5fbdea-9f6d-4067-a8c7-5f2adf036c5a.jpg?v=1765819972&amp;width=1200 1200w, //zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-02_5e5fbdea-9f6d-4067-a8c7-5f2adf036c5a.jpg?v=1765819972&amp;width=1400 1400w, //zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-02_5e5fbdea-9f6d-4067-a8c7-5f2adf036c5a.jpg?v=1765819972&amp;width=1600 1600w, //zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-02_5e5fbdea-9f6d-4067-a8c7-5f2adf036c5a.jpg?v=1765819972&amp;width=1800 1800w, //zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-02_5e5fbdea-9f6d-4067-a8c7-5f2adf036c5a.jpg?v=1765819972&amp;width=2000 2000w" width="3000" height="4000" loading="lazy" sizes="(min-width: 1920px) calc(1057px * 1), (min-width: 1536px) calc(44vw * 1), (min-width: 1200px) calc(55vw * 1), (min-width: 750px) calc(64vw * 1), calc((100vw - 4rem) * 1)">
+    </div></noscript>
+
+<modal-opener class="product__modal-opener product__modal-opener--image no-js-hidden" data-modal="#ProductModal-template--26223863923007__featured_product_QqdwjC">
+  <span class="product__media-icon motion-reduce product__media-icon--disabled-on-mobile" aria-hidden="true"><svg class="icon icon-plus-zoom" width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+	<path d="M15.9996 1.60001L15.9996 30.4M30.3996 16L1.59961 16" stroke="currentColor" stroke-width="2" stroke-linecap="round"></path>
+</svg></span>
+
+  <div class="product__media" style="padding-bottom: 100.0%">
+    <img src="//zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-02_5e5fbdea-9f6d-4067-a8c7-5f2adf036c5a.jpg?v=1765819972&amp;width=3000" alt="" srcset="//zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-02_5e5fbdea-9f6d-4067-a8c7-5f2adf036c5a.jpg?v=1765819972&amp;width=375 375w, //zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-02_5e5fbdea-9f6d-4067-a8c7-5f2adf036c5a.jpg?v=1765819972&amp;width=425 425w, //zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-02_5e5fbdea-9f6d-4067-a8c7-5f2adf036c5a.jpg?v=1765819972&amp;width=576 576w, //zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-02_5e5fbdea-9f6d-4067-a8c7-5f2adf036c5a.jpg?v=1765819972&amp;width=632 632w, //zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-02_5e5fbdea-9f6d-4067-a8c7-5f2adf036c5a.jpg?v=1765819972&amp;width=700 700w, //zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-02_5e5fbdea-9f6d-4067-a8c7-5f2adf036c5a.jpg?v=1765819972&amp;width=800 800w, //zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-02_5e5fbdea-9f6d-4067-a8c7-5f2adf036c5a.jpg?v=1765819972&amp;width=900 900w, //zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-02_5e5fbdea-9f6d-4067-a8c7-5f2adf036c5a.jpg?v=1765819972&amp;width=1000 1000w, //zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-02_5e5fbdea-9f6d-4067-a8c7-5f2adf036c5a.jpg?v=1765819972&amp;width=1100 1100w, //zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-02_5e5fbdea-9f6d-4067-a8c7-5f2adf036c5a.jpg?v=1765819972&amp;width=1200 1200w, //zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-02_5e5fbdea-9f6d-4067-a8c7-5f2adf036c5a.jpg?v=1765819972&amp;width=1400 1400w, //zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-02_5e5fbdea-9f6d-4067-a8c7-5f2adf036c5a.jpg?v=1765819972&amp;width=1600 1600w, //zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-02_5e5fbdea-9f6d-4067-a8c7-5f2adf036c5a.jpg?v=1765819972&amp;width=1800 1800w, //zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-02_5e5fbdea-9f6d-4067-a8c7-5f2adf036c5a.jpg?v=1765819972&amp;width=2000 2000w" width="3000" height="4000" loading="lazy" sizes="(min-width: 1920px) calc(1057px * 1), (min-width: 1536px) calc(44vw * 1), (min-width: 1200px) calc(55vw * 1), (min-width: 750px) calc(64vw * 1), calc((100vw - 4rem) * 1)" style="object-position: 50.0% 50.0%;" fetchpriority="auto">
+  </div>
+  <button class="product__media-toggle focus-inset product__media-toggle--disabled-on-mobile product__media-toggle--disabled-on-desktop" type="button" aria-haspopup="dialog" data-media-id="42411381457215">
+    <span class="visually-hidden">Medium 3 in Galerieansicht öffnen
+</span>
+  </button>
+</modal-opener>
+
+                      </div><div class="product-media-item   " data-media-id="template--26223863923007__featured_product_QqdwjC-42411381489983">
+                        
+<noscript><div class="product__media media" style="padding-bottom: 100.0%">
+      <img src="//zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-03_b6a3ed07-2458-44ab-9a9c-0c9f468006b3.jpg?v=1765819972&amp;width=1760" alt="" srcset="//zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-03_b6a3ed07-2458-44ab-9a9c-0c9f468006b3.jpg?v=1765819972&amp;width=375 375w, //zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-03_b6a3ed07-2458-44ab-9a9c-0c9f468006b3.jpg?v=1765819972&amp;width=425 425w, //zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-03_b6a3ed07-2458-44ab-9a9c-0c9f468006b3.jpg?v=1765819972&amp;width=576 576w, //zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-03_b6a3ed07-2458-44ab-9a9c-0c9f468006b3.jpg?v=1765819972&amp;width=632 632w, //zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-03_b6a3ed07-2458-44ab-9a9c-0c9f468006b3.jpg?v=1765819972&amp;width=700 700w, //zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-03_b6a3ed07-2458-44ab-9a9c-0c9f468006b3.jpg?v=1765819972&amp;width=800 800w, //zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-03_b6a3ed07-2458-44ab-9a9c-0c9f468006b3.jpg?v=1765819972&amp;width=900 900w, //zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-03_b6a3ed07-2458-44ab-9a9c-0c9f468006b3.jpg?v=1765819972&amp;width=1000 1000w, //zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-03_b6a3ed07-2458-44ab-9a9c-0c9f468006b3.jpg?v=1765819972&amp;width=1100 1100w, //zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-03_b6a3ed07-2458-44ab-9a9c-0c9f468006b3.jpg?v=1765819972&amp;width=1200 1200w, //zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-03_b6a3ed07-2458-44ab-9a9c-0c9f468006b3.jpg?v=1765819972&amp;width=1400 1400w, //zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-03_b6a3ed07-2458-44ab-9a9c-0c9f468006b3.jpg?v=1765819972&amp;width=1600 1600w" width="1760" height="2336" loading="lazy" sizes="(min-width: 1920px) calc(1057px * 1), (min-width: 1536px) calc(44vw * 1), (min-width: 1200px) calc(55vw * 1), (min-width: 750px) calc(64vw * 1), calc((100vw - 4rem) * 1)">
+    </div></noscript>
+
+<modal-opener class="product__modal-opener product__modal-opener--image no-js-hidden" data-modal="#ProductModal-template--26223863923007__featured_product_QqdwjC">
+  <span class="product__media-icon motion-reduce product__media-icon--disabled-on-mobile" aria-hidden="true"><svg class="icon icon-plus-zoom" width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+	<path d="M15.9996 1.60001L15.9996 30.4M30.3996 16L1.59961 16" stroke="currentColor" stroke-width="2" stroke-linecap="round"></path>
+</svg></span>
+
+  <div class="product__media" style="padding-bottom: 100.0%">
+    <img src="//zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-03_b6a3ed07-2458-44ab-9a9c-0c9f468006b3.jpg?v=1765819972&amp;width=1760" alt="" srcset="//zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-03_b6a3ed07-2458-44ab-9a9c-0c9f468006b3.jpg?v=1765819972&amp;width=375 375w, //zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-03_b6a3ed07-2458-44ab-9a9c-0c9f468006b3.jpg?v=1765819972&amp;width=425 425w, //zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-03_b6a3ed07-2458-44ab-9a9c-0c9f468006b3.jpg?v=1765819972&amp;width=576 576w, //zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-03_b6a3ed07-2458-44ab-9a9c-0c9f468006b3.jpg?v=1765819972&amp;width=632 632w, //zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-03_b6a3ed07-2458-44ab-9a9c-0c9f468006b3.jpg?v=1765819972&amp;width=700 700w, //zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-03_b6a3ed07-2458-44ab-9a9c-0c9f468006b3.jpg?v=1765819972&amp;width=800 800w, //zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-03_b6a3ed07-2458-44ab-9a9c-0c9f468006b3.jpg?v=1765819972&amp;width=900 900w, //zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-03_b6a3ed07-2458-44ab-9a9c-0c9f468006b3.jpg?v=1765819972&amp;width=1000 1000w, //zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-03_b6a3ed07-2458-44ab-9a9c-0c9f468006b3.jpg?v=1765819972&amp;width=1100 1100w, //zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-03_b6a3ed07-2458-44ab-9a9c-0c9f468006b3.jpg?v=1765819972&amp;width=1200 1200w, //zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-03_b6a3ed07-2458-44ab-9a9c-0c9f468006b3.jpg?v=1765819972&amp;width=1400 1400w, //zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-03_b6a3ed07-2458-44ab-9a9c-0c9f468006b3.jpg?v=1765819972&amp;width=1600 1600w" width="1760" height="2336" loading="lazy" sizes="(min-width: 1920px) calc(1057px * 1), (min-width: 1536px) calc(44vw * 1), (min-width: 1200px) calc(55vw * 1), (min-width: 750px) calc(64vw * 1), calc((100vw - 4rem) * 1)" style="object-position: 50.0% 50.0%;" fetchpriority="auto">
+  </div>
+  <button class="product__media-toggle focus-inset product__media-toggle--disabled-on-mobile product__media-toggle--disabled-on-desktop" type="button" aria-haspopup="dialog" data-media-id="42411381489983">
+    <span class="visually-hidden">Medium 4 in Galerieansicht öffnen
+</span>
+  </button>
+</modal-opener>
+
+                      </div><div class="product-media-item   " data-media-id="template--26223863923007__featured_product_QqdwjC-42411381522751">
+                        
+<noscript><div class="product__media media" style="padding-bottom: 100.0%">
+      <img src="//zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-04_a29ad45d-08ad-4159-b1b8-6dc43bf36e9d.jpg?v=1765819972&amp;width=2102" alt="" srcset="//zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-04_a29ad45d-08ad-4159-b1b8-6dc43bf36e9d.jpg?v=1765819972&amp;width=375 375w, //zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-04_a29ad45d-08ad-4159-b1b8-6dc43bf36e9d.jpg?v=1765819972&amp;width=425 425w, //zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-04_a29ad45d-08ad-4159-b1b8-6dc43bf36e9d.jpg?v=1765819972&amp;width=576 576w, //zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-04_a29ad45d-08ad-4159-b1b8-6dc43bf36e9d.jpg?v=1765819972&amp;width=632 632w, //zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-04_a29ad45d-08ad-4159-b1b8-6dc43bf36e9d.jpg?v=1765819972&amp;width=700 700w, //zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-04_a29ad45d-08ad-4159-b1b8-6dc43bf36e9d.jpg?v=1765819972&amp;width=800 800w, //zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-04_a29ad45d-08ad-4159-b1b8-6dc43bf36e9d.jpg?v=1765819972&amp;width=900 900w, //zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-04_a29ad45d-08ad-4159-b1b8-6dc43bf36e9d.jpg?v=1765819972&amp;width=1000 1000w, //zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-04_a29ad45d-08ad-4159-b1b8-6dc43bf36e9d.jpg?v=1765819972&amp;width=1100 1100w, //zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-04_a29ad45d-08ad-4159-b1b8-6dc43bf36e9d.jpg?v=1765819972&amp;width=1200 1200w, //zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-04_a29ad45d-08ad-4159-b1b8-6dc43bf36e9d.jpg?v=1765819972&amp;width=1400 1400w, //zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-04_a29ad45d-08ad-4159-b1b8-6dc43bf36e9d.jpg?v=1765819972&amp;width=1600 1600w, //zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-04_a29ad45d-08ad-4159-b1b8-6dc43bf36e9d.jpg?v=1765819972&amp;width=1800 1800w, //zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-04_a29ad45d-08ad-4159-b1b8-6dc43bf36e9d.jpg?v=1765819972&amp;width=2000 2000w" width="2102" height="2802" loading="lazy" sizes="(min-width: 1920px) calc(1057px * 1), (min-width: 1536px) calc(44vw * 1), (min-width: 1200px) calc(55vw * 1), (min-width: 750px) calc(64vw * 1), calc((100vw - 4rem) * 1)">
+    </div></noscript>
+
+<modal-opener class="product__modal-opener product__modal-opener--image no-js-hidden" data-modal="#ProductModal-template--26223863923007__featured_product_QqdwjC">
+  <span class="product__media-icon motion-reduce product__media-icon--disabled-on-mobile" aria-hidden="true"><svg class="icon icon-plus-zoom" width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+	<path d="M15.9996 1.60001L15.9996 30.4M30.3996 16L1.59961 16" stroke="currentColor" stroke-width="2" stroke-linecap="round"></path>
+</svg></span>
+
+  <div class="product__media" style="padding-bottom: 100.0%">
+    <img src="//zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-04_a29ad45d-08ad-4159-b1b8-6dc43bf36e9d.jpg?v=1765819972&amp;width=2102" alt="" srcset="//zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-04_a29ad45d-08ad-4159-b1b8-6dc43bf36e9d.jpg?v=1765819972&amp;width=375 375w, //zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-04_a29ad45d-08ad-4159-b1b8-6dc43bf36e9d.jpg?v=1765819972&amp;width=425 425w, //zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-04_a29ad45d-08ad-4159-b1b8-6dc43bf36e9d.jpg?v=1765819972&amp;width=576 576w, //zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-04_a29ad45d-08ad-4159-b1b8-6dc43bf36e9d.jpg?v=1765819972&amp;width=632 632w, //zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-04_a29ad45d-08ad-4159-b1b8-6dc43bf36e9d.jpg?v=1765819972&amp;width=700 700w, //zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-04_a29ad45d-08ad-4159-b1b8-6dc43bf36e9d.jpg?v=1765819972&amp;width=800 800w, //zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-04_a29ad45d-08ad-4159-b1b8-6dc43bf36e9d.jpg?v=1765819972&amp;width=900 900w, //zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-04_a29ad45d-08ad-4159-b1b8-6dc43bf36e9d.jpg?v=1765819972&amp;width=1000 1000w, //zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-04_a29ad45d-08ad-4159-b1b8-6dc43bf36e9d.jpg?v=1765819972&amp;width=1100 1100w, //zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-04_a29ad45d-08ad-4159-b1b8-6dc43bf36e9d.jpg?v=1765819972&amp;width=1200 1200w, //zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-04_a29ad45d-08ad-4159-b1b8-6dc43bf36e9d.jpg?v=1765819972&amp;width=1400 1400w, //zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-04_a29ad45d-08ad-4159-b1b8-6dc43bf36e9d.jpg?v=1765819972&amp;width=1600 1600w, //zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-04_a29ad45d-08ad-4159-b1b8-6dc43bf36e9d.jpg?v=1765819972&amp;width=1800 1800w, //zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-04_a29ad45d-08ad-4159-b1b8-6dc43bf36e9d.jpg?v=1765819972&amp;width=2000 2000w" width="2102" height="2802" loading="lazy" sizes="(min-width: 1920px) calc(1057px * 1), (min-width: 1536px) calc(44vw * 1), (min-width: 1200px) calc(55vw * 1), (min-width: 750px) calc(64vw * 1), calc((100vw - 4rem) * 1)" style="object-position: 50.0% 50.0%;" fetchpriority="auto">
+  </div>
+  <button class="product__media-toggle focus-inset product__media-toggle--disabled-on-mobile product__media-toggle--disabled-on-desktop" type="button" aria-haspopup="dialog" data-media-id="42411381522751">
+    <span class="visually-hidden">Medium 5 in Galerieansicht öffnen
+</span>
+  </button>
+</modal-opener>
+
+                      </div></div>
+              </div>
+            </div>
+
+            
+<div class="product-media-sublist-outer no-js-hidden" style="--thumbs-height: 92px;">
+                <div class="product-media-sublist js-media-sublist swiper swiper-initialized swiper-vertical swiper-free-mode swiper-watch-progress swiper-backface-hidden swiper-thumbs" data-thumbs-direction="vertical">
+                  <div class="product-media-sublist__container swiper-wrapper" id="swiper-wrapper-7fadd8438e1c6b54" aria-live="polite" style="transform: translate3d(0px, 0px, 0px);"><div class="product-media-subitem swiper-slide swiper-slide-visible swiper-slide-fully-visible swiper-slide-active swiper-slide-thumb-active" data-media-sub-id="template--26223863923007__featured_product_QqdwjC-42411381555519" role="group" aria-label="1 / 5" style="margin-bottom: 8px;">
+                          <div class="product-media-subitem__media" style="padding-bottom: 100.0%;"><img src="//zap-main.myshopify.com/cdn/shop/files/02-drinks_0b3e694c-a916-4e01-9368-0838d0e286d4.jpg?v=1765819972&amp;width=3000" alt="" srcset="//zap-main.myshopify.com/cdn/shop/files/02-drinks_0b3e694c-a916-4e01-9368-0838d0e286d4.jpg?v=1765819972&amp;width=64 64w, //zap-main.myshopify.com/cdn/shop/files/02-drinks_0b3e694c-a916-4e01-9368-0838d0e286d4.jpg?v=1765819972&amp;width=128 128w, //zap-main.myshopify.com/cdn/shop/files/02-drinks_0b3e694c-a916-4e01-9368-0838d0e286d4.jpg?v=1765819972&amp;width=192 192w" width="3000" height="4000" loading="lazy" sizes="calc(64px * 1)" style="object-position: 50.0% 50.0%;
+                              object-fit: cover;">
+                          </div>
+                        </div><div class="product-media-subitem swiper-slide swiper-slide-visible swiper-slide-fully-visible swiper-slide-next" data-media-sub-id="template--26223863923007__featured_product_QqdwjC-42411381424447" role="group" aria-label="2 / 5" style="margin-bottom: 8px;">
+                          <div class="product-media-subitem__media" style="padding-bottom: 100.0%;"><img src="//zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-01_a02bfe24-061d-4f01-9e3b-ab6df13539a5.jpg?v=1765819972&amp;width=3000" alt="" srcset="//zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-01_a02bfe24-061d-4f01-9e3b-ab6df13539a5.jpg?v=1765819972&amp;width=64 64w, //zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-01_a02bfe24-061d-4f01-9e3b-ab6df13539a5.jpg?v=1765819972&amp;width=128 128w, //zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-01_a02bfe24-061d-4f01-9e3b-ab6df13539a5.jpg?v=1765819972&amp;width=192 192w" width="3000" height="4000" loading="lazy" sizes="calc(64px * 1)" style="object-position: 50.0% 50.0%;
+                              object-fit: cover;">
+                          </div>
+                        </div><div class="product-media-subitem swiper-slide swiper-slide-visible swiper-slide-fully-visible" data-media-sub-id="template--26223863923007__featured_product_QqdwjC-42411381457215" role="group" aria-label="3 / 5" style="margin-bottom: 8px;">
+                          <div class="product-media-subitem__media" style="padding-bottom: 100.0%;"><img src="//zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-02_5e5fbdea-9f6d-4067-a8c7-5f2adf036c5a.jpg?v=1765819972&amp;width=3000" alt="" srcset="//zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-02_5e5fbdea-9f6d-4067-a8c7-5f2adf036c5a.jpg?v=1765819972&amp;width=64 64w, //zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-02_5e5fbdea-9f6d-4067-a8c7-5f2adf036c5a.jpg?v=1765819972&amp;width=128 128w, //zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-02_5e5fbdea-9f6d-4067-a8c7-5f2adf036c5a.jpg?v=1765819972&amp;width=192 192w" width="3000" height="4000" loading="lazy" sizes="calc(64px * 1)" style="object-position: 50.0% 50.0%;
+                              object-fit: cover;">
+                          </div>
+                        </div><div class="product-media-subitem swiper-slide swiper-slide-visible swiper-slide-fully-visible" data-media-sub-id="template--26223863923007__featured_product_QqdwjC-42411381489983" role="group" aria-label="4 / 5" style="margin-bottom: 8px;">
+                          <div class="product-media-subitem__media" style="padding-bottom: 100.0%;"><img src="//zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-03_b6a3ed07-2458-44ab-9a9c-0c9f468006b3.jpg?v=1765819972&amp;width=1760" alt="" srcset="//zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-03_b6a3ed07-2458-44ab-9a9c-0c9f468006b3.jpg?v=1765819972&amp;width=64 64w, //zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-03_b6a3ed07-2458-44ab-9a9c-0c9f468006b3.jpg?v=1765819972&amp;width=128 128w, //zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-03_b6a3ed07-2458-44ab-9a9c-0c9f468006b3.jpg?v=1765819972&amp;width=192 192w" width="1760" height="2336" loading="lazy" sizes="calc(64px * 1)" style="object-position: 50.0% 50.0%;
+                              object-fit: cover;">
+                          </div>
+                        </div><div class="product-media-subitem swiper-slide swiper-slide-visible swiper-slide-fully-visible" data-media-sub-id="template--26223863923007__featured_product_QqdwjC-42411381522751" role="group" aria-label="5 / 5" style="margin-bottom: 8px;">
+                          <div class="product-media-subitem__media" style="padding-bottom: 100.0%;"><img src="//zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-04_a29ad45d-08ad-4159-b1b8-6dc43bf36e9d.jpg?v=1765819972&amp;width=2102" alt="" srcset="//zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-04_a29ad45d-08ad-4159-b1b8-6dc43bf36e9d.jpg?v=1765819972&amp;width=64 64w, //zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-04_a29ad45d-08ad-4159-b1b8-6dc43bf36e9d.jpg?v=1765819972&amp;width=128 128w, //zap-main.myshopify.com/cdn/shop/files/02-drinks-hover-04_a29ad45d-08ad-4159-b1b8-6dc43bf36e9d.jpg?v=1765819972&amp;width=192 192w" width="2102" height="2802" loading="lazy" sizes="calc(64px * 1)" style="object-position: 50.0% 50.0%;
+                              object-fit: cover;">
+                          </div>
+                        </div></div>
+                <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
+              </div></div></div>
+
+      <div class="product-info-container" id="ProductInfo-template--26223863923007__featured_product_QqdwjC" data-section="template--26223863923007__featured_product_QqdwjC"><div class="product-title-wrapper">
+                <h2 class="product-title h3"><a href="/de/products/mint-lime-refresher">Erfrischungsgetränk mit Minze und Limette</a></h2>
+              </div><div class="product-price no-js-hidden" id="price-template--26223863923007__featured_product_QqdwjC">
+<div class="
+    price price--product body-xl price--on-sale ">
+  <dl><div class="price__regular">
+      <dt class="visually-hidden">
+        <span class="visually-hidden visually-hidden--inline">Regulärer Preis</span>
+      </dt>
+      <dd>
+        <span class="price-item price-item--regular" dir="ltr">
+          $3.90
+        </span>
+      </dd>
+    </div>
+    <div class="price__sale">
+      <dt class="visually-hidden">
+        <span class="visually-hidden visually-hidden--inline">Angebotspreis</span>
+      </dt>
+      <dd>
+        <span class="price-item price-item--sale" dir="ltr">
+          $3.90
+        </span>
+      </dd>
+      <dt class="price__compare visually-hidden">
+        <span class="visually-hidden visually-hidden--inline">Regulärer Preis</span>
+      </dt>
+      <dd class="price__compare">
+        <s class="price-item price-item--regular" dir="ltr">
+          $4.90
+        </s>
+      </dd>
+    </div>
+    <dl class="unit-price caption hidden">
+      <dt class="visually-hidden">Stückpreis</dt>
+      <dd>
+        <span></span>
+        <span aria-hidden="true">/</span>
+        <span class="visually-hidden">&nbsp;pro&nbsp;</span>
+        <span></span>
+      </dd>
+    </dl>
+  </dl>
+</div>
+<div class="product-tax rte body-xs">Inkl. MwSt.
+<a href="/de/policies/shipping-policy">Versand</a> wird an der Kasse berechnet.
+</div></div><div class="installment-wrapper"><form method="post" action="/de/cart/add" id="product-form-installment-template--26223863923007__featured_product_QqdwjC" accept-charset="UTF-8" class="installment caption-large" enctype="multipart/form-data"><input type="hidden" name="form_type" value="product" style=""><input type="hidden" name="utf8" value="✓" style=""><input type="hidden" name="id" value="51641470419263" style="">
+                    
+<input type="hidden" name="product-id" value="10178932212031" style=""><input type="hidden" name="section-id" value="template--26223863923007__featured_product_QqdwjC" style=""></form></div><div class="product-description-wrapper"><div class="product-description rte"><p><meta charset="utf-8">Ein gekühltes, erfrischendes Getränk für die einfache, tägliche Flüssigkeitszufuhr. Leicht, geschmackvoll und so gebraut, dass es einen klaren, belebenden Geschmack liefert.</p></div></div>
+<div class="product-parameters"><variant-radios id="variant-radios-template--26223863923007__featured_product_QqdwjC" class="no-js-hidden" data-section="template--26223863923007__featured_product_QqdwjC" data-url="/de/products/mint-lime-refresher" data-update-url="false" data-unavailable-options-clickable="true" data-is-high-variant-product="false">
+                            <fieldset class="product-form__controls" id="SingleOptionSelector-0" data-option-position="1">
+                              <legend class="product-form__group-name body-normal">Größe:</legend>
+                              <div class="product-form__controls-group">
+                                
+
+
+    
+<input type="radio" id="template--26223863923007__featured_product_QqdwjC-1-0" name="Größe" value="250 ml" form="product-form-template--26223863923007__featured_product_QqdwjC" checked="" class="" data-option-value-id="5813121909055" style="">
+      <label for="template--26223863923007__featured_product_QqdwjC-1-0"><svg class="icon icon-label-checkmark" width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <path d="M3 10.2632L7.48276 15L16 6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+        </svg><span>250 ml</span>
+        <span class="visually-hidden">Variante ausverkauft oder nicht verfügbar</span>
+      </label>
+  
+
+
+    
+<input type="radio" id="template--26223863923007__featured_product_QqdwjC-1-1" name="Größe" value="400 ml" form="product-form-template--26223863923007__featured_product_QqdwjC" class="" data-option-value-id="5813121941823" style="">
+      <label for="template--26223863923007__featured_product_QqdwjC-1-1"><svg class="icon icon-label-checkmark" width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <path d="M3 10.2632L7.48276 15L16 6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+        </svg><span>400 ml</span>
+        <span class="visually-hidden">Variante ausverkauft oder nicht verfügbar</span>
+      </label>
+  
+
+                              </div>
+                            </fieldset>
+                            <fieldset class="product-form__controls" id="SingleOptionSelector-1" data-option-position="2">
+                              <legend class="product-form__group-name body-normal">Geschmack:</legend>
+                              <div class="product-form__controls-group">
+                                
+
+
+    
+<input type="radio" id="template--26223863923007__featured_product_QqdwjC-2-0" name="Geschmack" value="Minze" form="product-form-template--26223863923007__featured_product_QqdwjC" checked="" class="" data-option-value-id="5813121974591" style="">
+      <label for="template--26223863923007__featured_product_QqdwjC-2-0"><svg class="icon icon-label-checkmark" width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <path d="M3 10.2632L7.48276 15L16 6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+        </svg><span>Minze</span>
+        <span class="visually-hidden">Variante ausverkauft oder nicht verfügbar</span>
+      </label>
+  
+
+
+    
+<input type="radio" id="template--26223863923007__featured_product_QqdwjC-2-1" name="Geschmack" value="Kalk" form="product-form-template--26223863923007__featured_product_QqdwjC" class="" data-option-value-id="5813122007359" style="">
+      <label for="template--26223863923007__featured_product_QqdwjC-2-1"><svg class="icon icon-label-checkmark" width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <path d="M3 10.2632L7.48276 15L16 6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+        </svg><span>Kalk</span>
+        <span class="visually-hidden">Variante ausverkauft oder nicht verfügbar</span>
+      </label>
+  
+
+                              </div>
+                            </fieldset><script type="application/json" data-all-variants-no-high="">
+                            [{"id":51641470419263,"title":"250 ml \/ Minze","option1":"250 ml","option2":"Minze","option3":null,"sku":null,"requires_shipping":true,"taxable":true,"featured_image":null,"available":true,"name":"Erfrischungsgetränk mit Minze und Limette - 250 ml \/ Minze","public_title":"250 ml \/ Minze","options":["250 ml","Minze"],"price":390,"weight":0,"compare_at_price":490,"inventory_management":"shopify","barcode":"","requires_selling_plan":false,"selling_plan_allocations":[]},{"id":51641470452031,"title":"250 ml \/ Kalk","option1":"250 ml","option2":"Kalk","option3":null,"sku":null,"requires_shipping":true,"taxable":true,"featured_image":null,"available":true,"name":"Erfrischungsgetränk mit Minze und Limette - 250 ml \/ Kalk","public_title":"250 ml \/ Kalk","options":["250 ml","Kalk"],"price":390,"weight":0,"compare_at_price":490,"inventory_management":"shopify","barcode":"","requires_selling_plan":false,"selling_plan_allocations":[]},{"id":51641470484799,"title":"400 ml \/ Minze","option1":"400 ml","option2":"Minze","option3":null,"sku":null,"requires_shipping":true,"taxable":true,"featured_image":null,"available":true,"name":"Erfrischungsgetränk mit Minze und Limette - 400 ml \/ Minze","public_title":"400 ml \/ Minze","options":["400 ml","Minze"],"price":590,"weight":0,"compare_at_price":690,"inventory_management":"shopify","barcode":"","requires_selling_plan":false,"selling_plan_allocations":[]},{"id":51641470517567,"title":"400 ml \/ Kalk","option1":"400 ml","option2":"Kalk","option3":null,"sku":null,"requires_shipping":true,"taxable":true,"featured_image":null,"available":true,"name":"Erfrischungsgetränk mit Minze und Limette - 400 ml \/ Kalk","public_title":"400 ml \/ Kalk","options":["400 ml","Kalk"],"price":590,"weight":0,"compare_at_price":690,"inventory_management":"shopify","barcode":"","requires_selling_plan":false,"selling_plan_allocations":[]}]
+                          </script>
+
+                          <script type="application/json" data-selected-variant="">
+                            {"id":51641470419263,"title":"250 ml \/ Minze","option1":"250 ml","option2":"Minze","option3":null,"sku":null,"requires_shipping":true,"taxable":true,"featured_image":null,"available":true,"name":"Erfrischungsgetränk mit Minze und Limette - 250 ml \/ Minze","public_title":"250 ml \/ Minze","options":["250 ml","Minze"],"price":390,"weight":0,"compare_at_price":490,"inventory_management":"shopify","barcode":"","requires_selling_plan":false,"selling_plan_allocations":[]}
+                          </script>
+                        </variant-radios>
+
+                    <noscript class="product-form__noscript-wrapper-template--26223863923007__featured_product_QqdwjC">
+                      <fieldset
+                        class="product-form__controls "
+                      >
+                        <label for="Variants-template--26223863923007__featured_product_QqdwjC" class="product-form__group-name">Produktvarianten:</label
+                        >
+                        <div class="product-form__controls-group">
+                          <div class="select">
+                            <select
+                              name="id"
+                              id="Variants-template--26223863923007__featured_product_QqdwjC"
+                              class="select__select"
+                              form="product-form-template--26223863923007__featured_product_QqdwjC"
+                            ><option
+                                  
+                                    selected="selected"
+                                  
+                                  
+                                  value="51641470419263"
+                                >250 ml / Minze - $3.90</option><option
+                                  
+                                  
+                                  value="51641470452031"
+                                >250 ml / Kalk - $3.90</option><option
+                                  
+                                  
+                                  value="51641470484799"
+                                >400 ml / Minze - $5.90</option><option
+                                  
+                                  
+                                  value="51641470517567"
+                                >400 ml / Kalk - $5.90</option></select>
+                            <svg class="icon icon-caret" width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M14 8L10 12L6 8" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
+
+                          </div>
+                        </div>
+                      </fieldset>
+                    </noscript>
+                  </div><div id="Inventory-template--26223863923007__featured_product_QqdwjC" class="product-inventory" role="status"><span class="product-inventory__inner product-inventory__inner--error body-normal">4 auf Lager</span></div><div class="product-buy-buttons"><product-form class="product-form" data-hide-errors="false">
+                    <div class="product-form__error-message-wrapper" role="alert" hidden="">
+                      <svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-error" viewBox="0 0 13 13">
+  <circle cx="6.5" cy="6.50049" r="5.5" stroke="white" stroke-width="2"></circle>
+  <circle cx="6.5" cy="6.5" r="5.5" fill="#B73C24" stroke="#B73C24" stroke-width="0.7"></circle>
+  <path d="M5.87413 3.52832L5.97439 7.57216H7.02713L7.12739 3.52832H5.87413ZM6.50076 9.66091C6.88091 9.66091 7.18169 9.37267 7.18169 9.00504C7.18169 8.63742 6.88091 8.34917 6.50076 8.34917C6.12061 8.34917 5.81982 8.63742 5.81982 9.00504C5.81982 9.37267 6.12061 9.66091 6.50076 9.66091Z" fill="white"></path>
+  <path d="M5.87413 3.17832H5.51535L5.52424 3.537L5.6245 7.58083L5.63296 7.92216H5.97439H7.02713H7.36856L7.37702 7.58083L7.47728 3.537L7.48617 3.17832H7.12739H5.87413ZM6.50076 10.0109C7.06121 10.0109 7.5317 9.57872 7.5317 9.00504C7.5317 8.43137 7.06121 7.99918 6.50076 7.99918C5.94031 7.99918 5.46982 8.43137 5.46982 9.00504C5.46982 9.57872 5.94031 10.0109 6.50076 10.0109Z" fill="white" stroke="#B73C24" stroke-width="0.7">
+</path></svg>
+
+                      <span class="product-form__error-message body-xs"></span>
+                    </div><form method="post" action="/de/cart/add" id="product-form-template--26223863923007__featured_product_QqdwjC" accept-charset="UTF-8" class="form" enctype="multipart/form-data" novalidate="novalidate" data-type="add-to-cart-form"><input type="hidden" name="form_type" value="product" style=""><input type="hidden" name="utf8" value="✓" style=""><input type="hidden" name="id" value="51641470419263" style=""><div class="product-form__buttons">
+                        <div class="product-form__buttons-row"><div class="product-form__input product-form__quantity no-js-hidden"><product-quantity-input class="quantity">
+                                <button class="quantity__button no-js-hidden focus-inset" name="minus" type="button" disabled="">
+                                  <span class="visually-hidden">Menge für Erfrischungsgetränk mit Minze und Limette verringern</span>
+                                  <svg class="icon icon-minus" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M13.3337 8L2.66699 8" stroke="currentColor" stroke-width="2" stroke-linecap="round"></path>
+</svg>
+
+                                </button>
+                                <input class="quantity__input focus-inset" type="number" name="quantity" id="Quantity-template--26223863923007__featured_product_QqdwjC" data-cart-quantity="0" data-min="1" min="1" data-max="" max="" step="1" value="1" form="product-form-template--26223863923007__featured_product_QqdwjC" style="">
+                                <label class="visually-hidden" for="Quantity-template--26223863923007__featured_product_QqdwjC">
+                                  Menge
+                                </label>
+                                <button class="quantity__button no-js-hidden focus-inset" name="plus" type="button">
+                                  <span class="visually-hidden">Menge für Erfrischungsgetränk mit Minze und Limette erhöhen</span>
+                                  <svg class="icon icon-plus" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M8.00033 2.66797V13.3346M13.3337 8.0013L2.66699 8.0013" stroke="currentColor" stroke-width="2" stroke-linecap="round"></path>
+</svg>
+
+                                </button>
+                              </product-quantity-input>
+                              <div class="quantity__rules caption"></div>
+                            </div><button type="submit" name="add" class="product-form__submit button button--transparent" aria-haspopup="dialog"><div class="button__content">
+                                <span class="button__label" data-label="In den Warenkorb" data-add-to-cart-label="">
+                                  In den Warenkorb
+                                </span>
+                              </div>
+
+                              <div class="animated-button-circle"></div>
+
+                              <div class="loading-overlay__spinner hidden"><svg aria-hidden="true" focusable="false" role="presentation" class="spinner" viewBox="0 0 66 66" xmlns="http://www.w3.org/2000/svg">
+  <circle class="path" fill="none" stroke-width="5" cx="33" cy="33" r="30"></circle>
+</svg>
+</div></button>
+                        </div><div class="product-form__checkout no-js-hidden">
+                            <div data-shopify="payment-button" class="shopify-payment-button"> <shopify-accelerated-checkout recommended="null" fallback="{&quot;supports_subs&quot;:true,&quot;supports_def_opts&quot;:true,&quot;name&quot;:&quot;buy_it_now&quot;,&quot;wallet_params&quot;:{}}" access-token="bc2dfccf943c923b2673d102777d5c03" buyer-country="US" buyer-locale="de" buyer-currency="USD" variant-params="[{&quot;id&quot;:51641470419263,&quot;requiresShipping&quot;:true},{&quot;id&quot;:51641470452031,&quot;requiresShipping&quot;:true},{&quot;id&quot;:51641470484799,&quot;requiresShipping&quot;:true},{&quot;id&quot;:51641470517567,&quot;requiresShipping&quot;:true}]" shop-id="96678281535" enabled-flags="[&quot;ce346acf&quot;,&quot;c0874428&quot;]" requires-shipping=""><shopify-buy-it-now-button access-token="bc2dfccf943c923b2673d102777d5c03" buyer-country="US" buyer-currency="USD" wallet-params="{}" page-type="product" slot="button" requires-shipping="" call-to-action=""><button type="button" class="shopify-payment-button__button shopify-payment-button__button--unbranded">Jetzt zum Checkout</button></shopify-buy-it-now-button></shopify-accelerated-checkout> <small id="shopify-buyer-consent" class="hidden" aria-hidden="true" data-consent-type="subscription"> Bei diesem Artikel handelt es sich um einen wiederkehrenden Kauf oder Kauf mit Zahlungsaufschub. Indem ich fortfahre, stimme ich den <span id="shopify-subscription-policy-button">Stornierungsrichtlinie</span> zu und autorisiere Sie, meine Zahlungsmethode zu den auf dieser Seite aufgeführten Preisen, in der Häufigkeit und zu den Terminen zu belasten, bis meine Bestellung ausgeführt wurde oder ich, sofern zulässig, storniere. </small> </div>
+                          </div></div><input type="hidden" name="product-id" value="10178932212031" style=""><input type="hidden" name="section-id" value="template--26223863923007__featured_product_QqdwjC" style=""></form></product-form>
+                </div>
+<a href="/de/products/mint-lime-refresher" target="_blank" class="button button--underline product-full-details">
+              <span>Weitere Details anzeigen</span>
+            </a>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script type="application/ld+json">
+  {"@context":"http:\/\/schema.org\/","@id":"\/de\/products\/mint-lime-refresher#product","@type":"ProductGroup","brand":{"@type":"Brand","name":"Zap"},"category":"Sportgetränke","description":"Ein gekühltes, erfrischendes Getränk für die einfache, tägliche Flüssigkeitszufuhr. Leicht, geschmackvoll und so gebraut, dass es einen klaren, belebenden Geschmack liefert.","hasVariant":[{"@id":"\/de\/products\/mint-lime-refresher?variant=51641470419263#variant","@type":"Product","image":"https:\/\/zap-main.myshopify.com\/cdn\/shop\/files\/02-drinks_0b3e694c-a916-4e01-9368-0838d0e286d4.jpg?v=1765819972\u0026width=1920","name":"Erfrischungsgetränk mit Minze und Limette - 250 ml \/ Minze","offers":{"@id":"\/de\/products\/mint-lime-refresher?variant=51641470419263#offer","@type":"Offer","availability":"http:\/\/schema.org\/InStock","price":"3.90","priceCurrency":"USD","url":"https:\/\/zap-main.myshopify.com\/de\/products\/mint-lime-refresher?variant=51641470419263"}},{"@id":"\/de\/products\/mint-lime-refresher?variant=51641470452031#variant","@type":"Product","image":"https:\/\/zap-main.myshopify.com\/cdn\/shop\/files\/02-drinks_0b3e694c-a916-4e01-9368-0838d0e286d4.jpg?v=1765819972\u0026width=1920","name":"Erfrischungsgetränk mit Minze und Limette - 250 ml \/ Kalk","offers":{"@id":"\/de\/products\/mint-lime-refresher?variant=51641470452031#offer","@type":"Offer","availability":"http:\/\/schema.org\/InStock","price":"3.90","priceCurrency":"USD","url":"https:\/\/zap-main.myshopify.com\/de\/products\/mint-lime-refresher?variant=51641470452031"}},{"@id":"\/de\/products\/mint-lime-refresher?variant=51641470484799#variant","@type":"Product","image":"https:\/\/zap-main.myshopify.com\/cdn\/shop\/files\/02-drinks_0b3e694c-a916-4e01-9368-0838d0e286d4.jpg?v=1765819972\u0026width=1920","name":"Erfrischungsgetränk mit Minze und Limette - 400 ml \/ Minze","offers":{"@id":"\/de\/products\/mint-lime-refresher?variant=51641470484799#offer","@type":"Offer","availability":"http:\/\/schema.org\/InStock","price":"5.90","priceCurrency":"USD","url":"https:\/\/zap-main.myshopify.com\/de\/products\/mint-lime-refresher?variant=51641470484799"}},{"@id":"\/de\/products\/mint-lime-refresher?variant=51641470517567#variant","@type":"Product","image":"https:\/\/zap-main.myshopify.com\/cdn\/shop\/files\/02-drinks_0b3e694c-a916-4e01-9368-0838d0e286d4.jpg?v=1765819972\u0026width=1920","name":"Erfrischungsgetränk mit Minze und Limette - 400 ml \/ Kalk","offers":{"@id":"\/de\/products\/mint-lime-refresher?variant=51641470517567#offer","@type":"Offer","availability":"http:\/\/schema.org\/InStock","price":"5.90","priceCurrency":"USD","url":"https:\/\/zap-main.myshopify.com\/de\/products\/mint-lime-refresher?variant=51641470517567"}}],"name":"Erfrischungsgetränk mit Minze und Limette","productGroupID":"10178932212031","url":"https:\/\/zap-main.myshopify.com\/de\/products\/mint-lime-refresher"}
+</script>
+</section>
+```

@@ -1,0 +1,33 @@
+{
+  "pageUrl": "https://shift-sketch.myshopify.com/fr/pages/content-cards",
+  "pageTitle": "Cartes de contenu – Shift Sketch",
+  "pageSlug": "shift_sketch_myshopify_com_fr_pages_content_cards",
+  "sections": [
+    {
+      "refId": "shift_sketch_myshopify_com_fr_pages_content_cards__section_01",
+      "index": 1,
+      "selectorHint": "#shopify-section-template--28054268608887__content_cards_gKNrrL",
+      "typeGuess": "hero",
+      "patternTags": [
+        "hero-candidate",
+        "top-of-page",
+        "image-heavy",
+        "cta-cluster",
+        "card-grid",
+        "category-navigation",
+        "editorial-media"
+      ],
+      "headingSample": [
+        "Notre promesse envers vous",
+        "Brillant et lisse",
+        "Résistant aux déchirures",
+        "Écriture sans friction",
+        "Sans agents de blanchiment ni acides"
+      ],
+      "textSample": ".section-template--28054268608887__content_cards_gKNrrL-padding { padding-top: 0; padding-bottom: 0; } @media screen and (min-width: 750px) { .section-template--28054268608887__content_cards_gKNrrL-padding { padding-top: 0; padding-bottom: 0; } } @media screen and (min-width: 144",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/shift-sketch/elements/shift_sketch_myshopify_com_fr_pages_content_cards/shift_sketch_myshopify_com_fr_pages_content_cards__section_01.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/shift-sketch/pages/shift_sketch_myshopify_com_fr_pages_content_cards.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/shift-sketch/pages/shift_sketch_myshopify_com_fr_pages_content_cards.json"
+    }
+  ]
+}

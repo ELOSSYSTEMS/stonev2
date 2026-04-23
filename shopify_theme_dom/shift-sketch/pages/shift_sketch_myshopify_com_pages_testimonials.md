@@ -1,0 +1,611 @@
+# Shopify page scrape
+
+- URL: https://shift-sketch.myshopify.com/pages/testimonials
+- Title: Testimonials – Shift Sketch
+- Body classes: template-page template-page-testimonials
+- Custom elements: cart-drawer, cart-drawer-items, header-drawer, header-search, menu-drawer, modal-localization-form, modal-opener, modal-region-selector, predictive-search, product-card-featured, quick-view-modal, shop-cart-sync, sticky-header
+- Headings: Testimonials | Our customers say it best | Pastel Series Sketchbook | Daily Structure Planner | Essential Grid Planner | “I love how smooth and bright the paper is!Writing in my planner has never felt so satisfying.These products make staying organizedenjoyable.” | "The quality is outstanding. My sketchbook hasheld up beautifully, and I can write and drawwithout worrying about tearing the pages. Highlyrecommend!" | "From planners to accessories, everything feelsthoughtfully designed. I’ve never had such aseamless experience keeping my ideas andprojects in order." | Shop | Shop | Explore | Explore | Legal | Legal | Follow us | Join our Newsletter
+
+## 1. shopify-section-template--28054349939063__page_info
+
+- Tag: section
+- Classes: shopify-section page-section
+- Headings: Testimonials
+
+```html
+<section id="shopify-section-template--28054349939063__page_info" class="shopify-section page-section"><link href="//shift-sketch.myshopify.com/cdn/shop/t/2/assets/section-main-page.css?v=122541859386650611581774270656" rel="stylesheet" type="text/css" media="all">
+
+<div class="page-section-wrapper container align-left">
+  <div class="page-header">
+    <div class="page-header__inner">
+      <h1 class="page-header__inner-title h5">Testimonials</h1>
+    </div>
+  </div></div>
+
+
+</section>
+```
+
+## 2. shopify-section-template--28054349939063__testimonials_iJmMhk
+
+- Tag: section
+- Classes: shopify-section testimonials-section testimonials--slider-isBeggining
+- Headings: Our customers say it best | Pastel Series Sketchbook | Daily Structure Planner | Essential Grid Planner | “I love how smooth and bright the paper is!Writing in my planner has never felt so satisfying.These products make staying organizedenjoyable.” | "The quality is outstanding. My sketchbook hasheld up beautifully, and I can write and drawwithout worrying about tearing the pages. Highlyrecommend!"
+
+```html
+<section id="shopify-section-template--28054349939063__testimonials_iJmMhk" class="shopify-section testimonials-section testimonials--slider-isBeggining"><link href="//shift-sketch.myshopify.com/cdn/shop/t/2/assets/section-testimonials.css?v=175430636529820208781774515736" rel="stylesheet" type="text/css" media="all">
+
+<link href="//shift-sketch.myshopify.com/cdn/shop/t/2/assets/component-card.css?v=58533343598109286121773315752" rel="stylesheet" type="text/css" media="all">
+
+  <link href="//shift-sketch.myshopify.com/cdn/shop/t/2/assets/component-text-animation.css?v=29654218702570048421766398540" rel="stylesheet" type="text/css" media="all">
+  <script src="//shift-sketch.myshopify.com/cdn/shop/t/2/assets/split-type.min.js?v=100947066967010440601766398541" defer="defer"></script>
+
+<script src="//shift-sketch.myshopify.com/cdn/shop/t/2/assets/testimonials.js?v=32646272176075105051774516157" defer="defer"></script><style data-shopify="">.section-template--28054349939063__testimonials_iJmMhk-padding {
+
+  padding-top: 0;
+
+
+
+  padding-bottom: 0;
+
+}
+
+@media screen and (min-width: 750px) { .section-template--28054349939063__testimonials_iJmMhk-padding {
+
+  padding-top: 0;
+
+
+
+  padding-bottom: 0;
+
+} }
+
+@media screen and (min-width: 1440px) { .section-template--28054349939063__testimonials_iJmMhk-padding {
+
+  padding-top: 0;
+
+
+
+  padding-bottom: 0;
+
+} }
+
+  #shopify-section-template--28054349939063__testimonials_iJmMhk {
+
+  padding-top: 3.6rem;
+
+
+
+  padding-bottom: 6rem;
+
+}
+
+@media screen and (min-width: 750px) { #shopify-section-template--28054349939063__testimonials_iJmMhk {
+
+  padding-top: 5rem;
+
+
+
+  padding-bottom: 8rem;
+
+} }
+
+@media screen and (min-width: 1440px) { #shopify-section-template--28054349939063__testimonials_iJmMhk {
+
+  padding-top: 8rem;
+
+
+
+  padding-bottom: 12rem;
+
+
+} }
+
+</style>
+
+<style data-shopify="">
+  .start-spin {
+  	transition: all 5000s linear !important;
+  }
+  #shopify-section-template--28054349939063__testimonials_iJmMhk .testimonials__media-slide::after {
+    content: '';
+    display: block;
+    width: 0;
+    padding-bottom: 100%;
+  }
+</style>
+
+<div class="testimonials testimonials-template--28054349939063__testimonials_iJmMhk color-background-1 background section-template--28054349939063__testimonials_iJmMhk-padding">
+  <div>
+    
+
+
+<div class="container heading-group testimonials-header heading-group--border-bottom"><div class="heading-group__left">
+        
+          <div class="heading-group__subheading body-normal">
+            Reviews
+          </div>
+        
+<h3 class="title h5 size--h5 testimonials-header__title richtext-link-inside">Our customers say it best</h3></div></div>
+
+
+
+    <div class="testimonials__wrapper container " data-text-animation="true">
+      
+        <div class="testimonials__media-slide  testimonials__media-slide-img  color-background-1 background square mobile--">
+          <div class="testimonials__image-wrapper animate reveal--show" data-scroll-image-reveal="" data-reveal-initialized="">
+                
+
+                
+                <img src="//shift-sketch.myshopify.com/cdn/shop/files/07-promo-01.jpg?v=1770803161&amp;width=1824" alt="" srcset="//shift-sketch.myshopify.com/cdn/shop/files/07-promo-01.jpg?v=1770803161&amp;width=360 360w, //shift-sketch.myshopify.com/cdn/shop/files/07-promo-01.jpg?v=1770803161&amp;width=535 535w, //shift-sketch.myshopify.com/cdn/shop/files/07-promo-01.jpg?v=1770803161&amp;width=600 600w, //shift-sketch.myshopify.com/cdn/shop/files/07-promo-01.jpg?v=1770803161&amp;width=720 720w, //shift-sketch.myshopify.com/cdn/shop/files/07-promo-01.jpg?v=1770803161&amp;width=940 940w, //shift-sketch.myshopify.com/cdn/shop/files/07-promo-01.jpg?v=1770803161&amp;width=1066 1066w, //shift-sketch.myshopify.com/cdn/shop/files/07-promo-01.jpg?v=1770803161&amp;width=1200 1200w, //shift-sketch.myshopify.com/cdn/shop/files/07-promo-01.jpg?v=1770803161&amp;width=1400 1400w, //shift-sketch.myshopify.com/cdn/shop/files/07-promo-01.jpg?v=1770803161&amp;width=1600 1600w, //shift-sketch.myshopify.com/cdn/shop/files/07-promo-01.jpg?v=1770803161&amp;width=1800 1800w" width="1824" height="1824" loading="lazy" sizes="
+                    '(min-width: 1200px) calc(50vw * 1), calc(100vw * 1)'
+                  " class="testimonials__image scroll-image-reveal__target" style="object-fit: cover">
+              
+</div>
+          <div class="testimonials__media js-media-slider swiper swiper-fade swiper-initialized swiper-horizontal swiper-watch-progress swiper-backface-hidden" data-autoplay="true" data-swiper-autoplay="5000">
+            <div class="testimonials__media-wrapper  swiper-wrapper" id="swiper-wrapper-16102b77a8767664e" aria-live="polite">
+              
+                <div class="testimonials__media-wrapper-item swiper-slide swiper-slide-visible swiper-slide-fully-visible swiper-slide-active" role="group" aria-label="1 / 3" style="width: 688px; opacity: 1; transform: translate3d(0px, 0px, 0px);"><div class="testimonials__product ">
+                        
+
+<link href="//shift-sketch.myshopify.com/cdn/shop/t/2/assets/component-card-featured.css?v=126973288306612697161770711176" rel="stylesheet" type="text/css" media="all">
+
+
+<product-card-featured class="product-card-featured product-card-featured--mobile-1 color-background-4 background" data-product="pastel-series-sketchbook" data-product-id="15252514308471" tabindex="-1" style="--card-padding-bottom: 131.7%;">
+  <div class="product-card-featured__inner">
+    <div class="product-card-featured__media">
+<img src="//shift-sketch.myshopify.com/cdn/shop/files/02-sketchbook.jpg?v=1763710859&amp;width=2603" alt="Pastel Series Sketchbook" srcset="//shift-sketch.myshopify.com/cdn/shop/files/02-sketchbook.jpg?v=1763710859&amp;width=360 360w, //shift-sketch.myshopify.com/cdn/shop/files/02-sketchbook.jpg?v=1763710859&amp;width=535 535w, //shift-sketch.myshopify.com/cdn/shop/files/02-sketchbook.jpg?v=1763710859&amp;width=720 720w, //shift-sketch.myshopify.com/cdn/shop/files/02-sketchbook.jpg?v=1763710859&amp;width=940 940w, //shift-sketch.myshopify.com/cdn/shop/files/02-sketchbook.jpg?v=1763710859&amp;width=1066 1066w, //shift-sketch.myshopify.com/cdn/shop/files/02-sketchbook.jpg?v=1763710859&amp;width=1200 1200w, //shift-sketch.myshopify.com/cdn/shop/files/02-sketchbook.jpg?v=1763710859&amp;width=1400 1400w, //shift-sketch.myshopify.com/cdn/shop/files/02-sketchbook.jpg?v=1763710859&amp;width=1600 1600w, //shift-sketch.myshopify.com/cdn/shop/files/02-sketchbook.jpg?v=1763710859&amp;width=1800 1800w, //shift-sketch.myshopify.com/cdn/shop/files/02-sketchbook.jpg?v=1763710859&amp;width=2000 2000w, //shift-sketch.myshopify.com/cdn/shop/files/02-sketchbook.jpg?v=1763710859&amp;width=2200 2200w, //shift-sketch.myshopify.com/cdn/shop/files/02-sketchbook.jpg?v=1763710859&amp;width=2400 2400w, //shift-sketch.myshopify.com/cdn/shop/files/02-sketchbook.jpg?v=1763710859&amp;width=2600 2600w" width="2603" height="3470" loading="lazy" class="motion-reduce media--first" sizes="(min-width: 1200px) calc(1.03 * (100vw / 1)),calc(1.03 * 100vw)" style="object-fit: cover;">
+</div><div class="product-card-featured__top">
+        
+<div class="product-card-featured__badges body-normal"></div>
+      </div>
+<modal-opener class="product-card-featured__quickadd no-js-hidden" data-modal="#QuickView-15252514308471">
+          <button class="product-card-featured__button button button--primary focus-inset" aria-haspopup="dialog" data-product-url="/products/pastel-series-sketchbook" aria-label="Choose Options">
+            <div class="button__content">
+              <span class="button__label">
+                <svg class="icon-quick-add" width="38" height="38" viewBox="0 0 38 38" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M19 9.5C21.2398 9.50006 23.0557 11.3159 23.0557 13.5557V15.3213H27V27.7656H11V15.3213H14.9443V13.5557C14.9443 11.3159 16.7602 9.50006 19 9.5ZM19 10.5C17.3125 10.5001 15.9443 11.8682 15.9443 13.5557V15.3213H22.0557V13.5557C22.0557 11.8682 20.6875 10.5001 19 10.5Z" fill="currentColor"></path>
+  <rect class="colored-stroke" x="18.7" y="19.7" width="11.6" height="11.6" rx="5.8" fill="currentColor" stroke="transparent" stroke-width="1.4"></rect>
+  <path class="colored-stroke" d="M24.4998 23.5002L24.4998 27.4998M26.4996 25.5L22.5 25.5" stroke="transparent" stroke-width="1.4" stroke-linecap="square"></path>
+</svg>
+
+
+              </span>
+            </div>
+            <div class="loading-overlay__spinner hidden">
+              <svg aria-hidden="true" focusable="false" role="presentation" class="spinner" viewBox="0 0 66 66" xmlns="http://www.w3.org/2000/svg">
+  <circle class="path" fill="none" stroke-width="5" cx="33" cy="33" r="30"></circle>
+</svg>
+
+            </div>
+          </button>
+        </modal-opener>
+
+
+</div>
+
+  
+  <div class="product-card-featured__information">
+    <div class="product-card-featured__information-top"><h3 class="product-card-featured__title">
+        <a class="focus-inset" href="/products/pastel-series-sketchbook" aria-label="Pastel Series Sketchbook">Pastel Series Sketchbook</a>
+      </h3>
+
+      <div class="product-card-featured__price-group">
+        
+<div class="price">
+  <dl class="price-text"><div class="price__regular">
+      <dt class="visually-hidden">Regular price</dt>
+      <dd>
+        <span class="price-item price-item--regular">$11.00</span>
+      </dd>
+    </div>
+    <div class="price__sale">
+      <dt class="visually-hidden">Sale price</dt>
+      <dd>
+        <span class="price-item price-item--sale">$11.00</span>
+      </dd>
+      <dt class="visually-hidden">Regular price</dt>
+      <dd class="price__compare">
+        <s class="price-item price-item--regular"></s>
+      </dd>
+    </div>
+  </dl>
+
+  <dl class="unit-price hidden">
+    <dt class="visually-hidden">Unit price</dt>
+    <dd></dd>
+  </dl>
+</div>
+
+      </div>
+      
+
+          <div class="product-card-featured__description body-small">260 x 210 mm</div><div class="product-card-featured__error product-card__error body-xs" role="alert" hidden=""></div>
+    </div>
+  </div><a href="/products/pastel-series-sketchbook" class="product-card-featured__link-overlay focus-inset" aria-label="Product link"></a></product-card-featured>
+
+                      </div>
+                    </div>
+              
+                <div class="testimonials__media-wrapper-item swiper-slide swiper-slide-next" role="group" aria-label="2 / 3" style="width: 688px; opacity: 0; transform: translate3d(-688px, 0px, 0px);"><div class="testimonials__product ">
+                        
+
+<link href="//shift-sketch.myshopify.com/cdn/shop/t/2/assets/component-card-featured.css?v=126973288306612697161770711176" rel="stylesheet" type="text/css" media="all">
+
+
+<product-card-featured class="product-card-featured product-card-featured--mobile-1 color-background-4 background" data-product="daily-structure-planner" data-product-id="15252589969783" tabindex="-1" style="--card-padding-bottom: 131.7%;">
+  <div class="product-card-featured__inner">
+    <div class="product-card-featured__media">
+<img src="//shift-sketch.myshopify.com/cdn/shop/files/01-planner.jpg?v=1763717411&amp;width=1701" alt="Daily Structure Planner" srcset="//shift-sketch.myshopify.com/cdn/shop/files/01-planner.jpg?v=1763717411&amp;width=360 360w, //shift-sketch.myshopify.com/cdn/shop/files/01-planner.jpg?v=1763717411&amp;width=535 535w, //shift-sketch.myshopify.com/cdn/shop/files/01-planner.jpg?v=1763717411&amp;width=720 720w, //shift-sketch.myshopify.com/cdn/shop/files/01-planner.jpg?v=1763717411&amp;width=940 940w, //shift-sketch.myshopify.com/cdn/shop/files/01-planner.jpg?v=1763717411&amp;width=1066 1066w, //shift-sketch.myshopify.com/cdn/shop/files/01-planner.jpg?v=1763717411&amp;width=1200 1200w, //shift-sketch.myshopify.com/cdn/shop/files/01-planner.jpg?v=1763717411&amp;width=1400 1400w, //shift-sketch.myshopify.com/cdn/shop/files/01-planner.jpg?v=1763717411&amp;width=1600 1600w" width="1701" height="2268" loading="lazy" class="motion-reduce media--first" sizes="(min-width: 1200px) calc(1.03 * (100vw / 1)),calc(1.03 * 100vw)" style="object-fit: cover;">
+</div><div class="product-card-featured__top">
+        
+<div class="product-card-featured__badges body-normal"><span class="badge badge--custom" aria-hidden="true">New Arrival</span></div>
+      </div>
+<modal-opener class="product-card-featured__quickadd no-js-hidden" data-modal="#QuickView-15252589969783">
+          <button class="product-card-featured__button button button--primary focus-inset" aria-haspopup="dialog" data-product-url="/products/daily-structure-planner" aria-label="Choose Options">
+            <div class="button__content">
+              <span class="button__label">
+                <svg class="icon-quick-add" width="38" height="38" viewBox="0 0 38 38" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M19 9.5C21.2398 9.50006 23.0557 11.3159 23.0557 13.5557V15.3213H27V27.7656H11V15.3213H14.9443V13.5557C14.9443 11.3159 16.7602 9.50006 19 9.5ZM19 10.5C17.3125 10.5001 15.9443 11.8682 15.9443 13.5557V15.3213H22.0557V13.5557C22.0557 11.8682 20.6875 10.5001 19 10.5Z" fill="currentColor"></path>
+  <rect class="colored-stroke" x="18.7" y="19.7" width="11.6" height="11.6" rx="5.8" fill="currentColor" stroke="transparent" stroke-width="1.4"></rect>
+  <path class="colored-stroke" d="M24.4998 23.5002L24.4998 27.4998M26.4996 25.5L22.5 25.5" stroke="transparent" stroke-width="1.4" stroke-linecap="square"></path>
+</svg>
+
+
+              </span>
+            </div>
+            <div class="loading-overlay__spinner hidden">
+              <svg aria-hidden="true" focusable="false" role="presentation" class="spinner" viewBox="0 0 66 66" xmlns="http://www.w3.org/2000/svg">
+  <circle class="path" fill="none" stroke-width="5" cx="33" cy="33" r="30"></circle>
+</svg>
+
+            </div>
+          </button>
+        </modal-opener>
+
+
+</div>
+
+  
+  <div class="product-card-featured__information">
+    <div class="product-card-featured__information-top"><h3 class="product-card-featured__title">
+        <a class="focus-inset" href="/products/daily-structure-planner" aria-label="Daily Structure Planner">Daily Structure Planner</a>
+      </h3>
+
+      <div class="product-card-featured__price-group">
+        
+<div class="price">
+  <dl class="price-text"><div class="price__regular">
+      <dt class="visually-hidden">Regular price</dt>
+      <dd>
+        <span class="price-item price-item--regular">$14.00</span>
+      </dd>
+    </div>
+    <div class="price__sale">
+      <dt class="visually-hidden">Sale price</dt>
+      <dd>
+        <span class="price-item price-item--sale">$14.00</span>
+      </dd>
+      <dt class="visually-hidden">Regular price</dt>
+      <dd class="price__compare">
+        <s class="price-item price-item--regular"></s>
+      </dd>
+    </div>
+  </dl>
+
+  <dl class="unit-price hidden">
+    <dt class="visually-hidden">Unit price</dt>
+    <dd></dd>
+  </dl>
+</div>
+
+      </div>
+      
+
+          <div class="product-card-featured__description body-small">210 x 105 mm</div><div class="product-card-featured__error product-card__error body-xs" role="alert" hidden=""></div>
+    </div>
+  </div><a href="/products/daily-structure-planner" class="product-card-featured__link-overlay focus-inset" aria-label="Product link"></a></product-card-featured>
+
+                      </div>
+                    </div>
+              
+                <div class="testimonials__media-wrapper-item swiper-slide" role="group" aria-label="3 / 3" style="width: 688px; opacity: 0; transform: translate3d(-1376px, 0px, 0px);"><div class="testimonials__product ">
+                        
+
+<link href="//shift-sketch.myshopify.com/cdn/shop/t/2/assets/component-card-featured.css?v=126973288306612697161770711176" rel="stylesheet" type="text/css" media="all">
+
+
+<product-card-featured class="product-card-featured product-card-featured--mobile-1 color-background-4 background" data-product="essential-grid-planner" data-product-id="15252881572215" tabindex="-1" style="--card-padding-bottom: 131.7%;">
+  <div class="product-card-featured__inner">
+    <div class="product-card-featured__media">
+<img src="//shift-sketch.myshopify.com/cdn/shop/files/05-planner.jpg?v=1763732862&amp;width=1701" alt="Essential Grid Planner" srcset="//shift-sketch.myshopify.com/cdn/shop/files/05-planner.jpg?v=1763732862&amp;width=360 360w, //shift-sketch.myshopify.com/cdn/shop/files/05-planner.jpg?v=1763732862&amp;width=535 535w, //shift-sketch.myshopify.com/cdn/shop/files/05-planner.jpg?v=1763732862&amp;width=720 720w, //shift-sketch.myshopify.com/cdn/shop/files/05-planner.jpg?v=1763732862&amp;width=940 940w, //shift-sketch.myshopify.com/cdn/shop/files/05-planner.jpg?v=1763732862&amp;width=1066 1066w, //shift-sketch.myshopify.com/cdn/shop/files/05-planner.jpg?v=1763732862&amp;width=1200 1200w, //shift-sketch.myshopify.com/cdn/shop/files/05-planner.jpg?v=1763732862&amp;width=1400 1400w, //shift-sketch.myshopify.com/cdn/shop/files/05-planner.jpg?v=1763732862&amp;width=1600 1600w" width="1701" height="2268" loading="lazy" class="motion-reduce media--first" sizes="(min-width: 1200px) calc(1.03 * (100vw / 1)),calc(1.03 * 100vw)" style="object-fit: cover;">
+</div><div class="product-card-featured__top">
+        
+<div class="product-card-featured__badges body-normal"></div>
+      </div>
+<modal-opener class="product-card-featured__quickadd no-js-hidden" data-modal="#QuickView-15252881572215">
+          <button class="product-card-featured__button button button--primary focus-inset" aria-haspopup="dialog" data-product-url="/products/essential-grid-planner" aria-label="Choose Options">
+            <div class="button__content">
+              <span class="button__label">
+                <svg class="icon-quick-add" width="38" height="38" viewBox="0 0 38 38" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M19 9.5C21.2398 9.50006 23.0557 11.3159 23.0557 13.5557V15.3213H27V27.7656H11V15.3213H14.9443V13.5557C14.9443 11.3159 16.7602 9.50006 19 9.5ZM19 10.5C17.3125 10.5001 15.9443 11.8682 15.9443 13.5557V15.3213H22.0557V13.5557C22.0557 11.8682 20.6875 10.5001 19 10.5Z" fill="currentColor"></path>
+  <rect class="colored-stroke" x="18.7" y="19.7" width="11.6" height="11.6" rx="5.8" fill="currentColor" stroke="transparent" stroke-width="1.4"></rect>
+  <path class="colored-stroke" d="M24.4998 23.5002L24.4998 27.4998M26.4996 25.5L22.5 25.5" stroke="transparent" stroke-width="1.4" stroke-linecap="square"></path>
+</svg>
+
+
+              </span>
+            </div>
+            <div class="loading-overlay__spinner hidden">
+              <svg aria-hidden="true" focusable="false" role="presentation" class="spinner" viewBox="0 0 66 66" xmlns="http://www.w3.org/2000/svg">
+  <circle class="path" fill="none" stroke-width="5" cx="33" cy="33" r="30"></circle>
+</svg>
+
+            </div>
+          </button>
+        </modal-opener>
+
+
+</div>
+
+  
+  <div class="product-card-featured__information">
+    <div class="product-card-featured__information-top"><h3 class="product-card-featured__title">
+        <a class="focus-inset" href="/products/essential-grid-planner" aria-label="Essential Grid Planner">Essential Grid Planner</a>
+      </h3>
+
+      <div class="product-card-featured__price-group">
+        
+<div class="price">
+  <dl class="price-text"><div class="price__regular">
+      <dt class="visually-hidden">Regular price</dt>
+      <dd>
+        <span class="price-item price-item--regular">$12.50</span>
+      </dd>
+    </div>
+    <div class="price__sale">
+      <dt class="visually-hidden">Sale price</dt>
+      <dd>
+        <span class="price-item price-item--sale">$12.50</span>
+      </dd>
+      <dt class="visually-hidden">Regular price</dt>
+      <dd class="price__compare">
+        <s class="price-item price-item--regular"></s>
+      </dd>
+    </div>
+  </dl>
+
+  <dl class="unit-price hidden">
+    <dt class="visually-hidden">Unit price</dt>
+    <dd></dd>
+  </dl>
+</div>
+
+      </div>
+      
+
+          <div class="product-card-featured__description body-small">210 x 105 mm</div><div class="product-card-featured__error product-card__error body-xs" role="alert" hidden=""></div>
+    </div>
+  </div><a href="/products/essential-grid-planner" class="product-card-featured__link-overlay focus-inset" aria-label="Product link"></a></product-card-featured>
+
+                      </div>
+                    </div>
+              
+            </div>
+          <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
+          
+        </div>
+        <div class="testimonials__content js-content-slider swiper swiper-initialized swiper-horizontal swiper-backface-hidden" data-autoplay="true" data-stop-autoplay="true" data-swiper-autoplay="5000">
+          
+
+          <div class="testimonials__content-slider-wrapper  swiper-wrapper" id="swiper-wrapper-3d6f4d11d22c91cb" aria-live="off" style="transform: translate3d(0px, 0px, 0px);">
+            
+              <div class="testimonials__content-slide swiper-slide swiper-slide-active" role="group" aria-label="1 / 3" style="width: 688px; margin-right: 1px;">
+                
+                  <div class="testimonials__content-rating">
+                    <div class="testimonials__content-score">4 / 5</div>
+                    <div class="testimonials__content-stars">
+                      
+                        
+                        <svg class="icon icon-star testimonials-star" width="12" height="11" viewBox="0 0 12 11" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M5.54652 0.976482C5.72571 0.590616 6.27429 0.590616 6.45348 0.976482L7.58271 3.40803C7.65556 3.5649 7.80432 3.67298 7.97603 3.69379L10.6375 4.01636C11.0599 4.06755 11.2294 4.58927 10.9178 4.87894L8.9542 6.70428C8.82751 6.82204 8.77069 6.99692 8.80396 7.16666L9.31963 9.79756C9.40146 10.2151 8.95765 10.5375 8.58587 10.3307L6.24309 9.02724C6.09194 8.94315 5.90806 8.94315 5.75691 9.02724L3.41413 10.3307C3.04235 10.5375 2.59854 10.2151 2.68037 9.79756L3.19604 7.16666C3.22931 6.99692 3.17249 6.82204 3.0458 6.70428L1.08222 4.87894C0.770611 4.58927 0.940129 4.06755 1.36248 4.01636L4.02397 3.69379C4.19568 3.67298 4.34444 3.5649 4.41729 3.40803L5.54652 0.976482Z" fill="currentColor"></path>
+</svg>
+
+                      
+                        
+                        <svg class="icon icon-star testimonials-star" width="12" height="11" viewBox="0 0 12 11" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M5.54652 0.976482C5.72571 0.590616 6.27429 0.590616 6.45348 0.976482L7.58271 3.40803C7.65556 3.5649 7.80432 3.67298 7.97603 3.69379L10.6375 4.01636C11.0599 4.06755 11.2294 4.58927 10.9178 4.87894L8.9542 6.70428C8.82751 6.82204 8.77069 6.99692 8.80396 7.16666L9.31963 9.79756C9.40146 10.2151 8.95765 10.5375 8.58587 10.3307L6.24309 9.02724C6.09194 8.94315 5.90806 8.94315 5.75691 9.02724L3.41413 10.3307C3.04235 10.5375 2.59854 10.2151 2.68037 9.79756L3.19604 7.16666C3.22931 6.99692 3.17249 6.82204 3.0458 6.70428L1.08222 4.87894C0.770611 4.58927 0.940129 4.06755 1.36248 4.01636L4.02397 3.69379C4.19568 3.67298 4.34444 3.5649 4.41729 3.40803L5.54652 0.976482Z" fill="currentColor"></path>
+</svg>
+
+                      
+                        
+                        <svg class="icon icon-star testimonials-star" width="12" height="11" viewBox="0 0 12 11" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M5.54652 0.976482C5.72571 0.590616 6.27429 0.590616 6.45348 0.976482L7.58271 3.40803C7.65556 3.5649 7.80432 3.67298 7.97603 3.69379L10.6375 4.01636C11.0599 4.06755 11.2294 4.58927 10.9178 4.87894L8.9542 6.70428C8.82751 6.82204 8.77069 6.99692 8.80396 7.16666L9.31963 9.79756C9.40146 10.2151 8.95765 10.5375 8.58587 10.3307L6.24309 9.02724C6.09194 8.94315 5.90806 8.94315 5.75691 9.02724L3.41413 10.3307C3.04235 10.5375 2.59854 10.2151 2.68037 9.79756L3.19604 7.16666C3.22931 6.99692 3.17249 6.82204 3.0458 6.70428L1.08222 4.87894C0.770611 4.58927 0.940129 4.06755 1.36248 4.01636L4.02397 3.69379C4.19568 3.67298 4.34444 3.5649 4.41729 3.40803L5.54652 0.976482Z" fill="currentColor"></path>
+</svg>
+
+                      
+                        
+                        <svg class="icon icon-star testimonials-star" width="12" height="11" viewBox="0 0 12 11" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M5.54652 0.976482C5.72571 0.590616 6.27429 0.590616 6.45348 0.976482L7.58271 3.40803C7.65556 3.5649 7.80432 3.67298 7.97603 3.69379L10.6375 4.01636C11.0599 4.06755 11.2294 4.58927 10.9178 4.87894L8.9542 6.70428C8.82751 6.82204 8.77069 6.99692 8.80396 7.16666L9.31963 9.79756C9.40146 10.2151 8.95765 10.5375 8.58587 10.3307L6.24309 9.02724C6.09194 8.94315 5.90806 8.94315 5.75691 9.02724L3.41413 10.3307C3.04235 10.5375 2.59854 10.2151 2.68037 9.79756L3.19604 7.16666C3.22931 6.99692 3.17249 6.82204 3.0458 6.70428L1.08222 4.87894C0.770611 4.58927 0.940129 4.06755 1.36248 4.01636L4.02397 3.69379C4.19568 3.67298 4.34444 3.5649 4.41729 3.40803L5.54652 0.976482Z" fill="currentColor"></path>
+</svg>
+
+                      
+                        
+                        <svg class="icon icon-star testimonials-star testimonials-star-empty" width="12" height="11" viewBox="0 0 12 11" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M5.54652 0.976482C5.72571 0.590616 6.27429 0.590616 6.45348 0.976482L7.58271 3.40803C7.65556 3.5649 7.80432 3.67298 7.97603 3.69379L10.6375 4.01636C11.0599 4.06755 11.2294 4.58927 10.9178 4.87894L8.9542 6.70428C8.82751 6.82204 8.77069 6.99692 8.80396 7.16666L9.31963 9.79756C9.40146 10.2151 8.95765 10.5375 8.58587 10.3307L6.24309 9.02724C6.09194 8.94315 5.90806 8.94315 5.75691 9.02724L3.41413 10.3307C3.04235 10.5375 2.59854 10.2151 2.68037 9.79756L3.19604 7.16666C3.22931 6.99692 3.17249 6.82204 3.0458 6.70428L1.08222 4.87894C0.770611 4.58927 0.940129 4.06755 1.36248 4.01636L4.02397 3.69379C4.19568 3.67298 4.34444 3.5649 4.41729 3.40803L5.54652 0.976482Z" fill="currentColor"></path>
+</svg>
+
+                      
+                    </div>
+                  </div>
+                
+
+                <div class="testimonials__content-text  testimonials__content-text--animation">
+                    <h3 class="testimonials__content-heading h5 js-split-text visible"><div class="line" style="display: block; text-align: center; width: 100%;"><div class="word" style="display: inline-block;">“I</div> <div class="word" style="display: inline-block;">love</div> <div class="word" style="display: inline-block;">how</div> <div class="word" style="display: inline-block;">smooth</div> <div class="word" style="display: inline-block;">and</div> <div class="word" style="display: inline-block;">bright</div> <div class="word" style="display: inline-block;">the</div> <div class="word" style="display: inline-block;">paper</div> <div class="word" style="display: inline-block;">is!</div></div><div class="line" style="display: block; text-align: center; width: 100%;"><div class="word" style="display: inline-block;">Writing</div> <div class="word" style="display: inline-block;">in</div> <div class="word" style="display: inline-block;">my</div> <div class="word" style="display: inline-block;">planner</div> <div class="word" style="display: inline-block;">has</div> <div class="word" style="display: inline-block;">never</div> <div class="word" style="display: inline-block;">felt</div> <div class="word" style="display: inline-block;">so</div> <div class="word" style="display: inline-block;">satisfying.</div></div><div class="line" style="display: block; text-align: center; width: 100%;"><div class="word" style="display: inline-block;">These</div> <div class="word" style="display: inline-block;">products</div> <div class="word" style="display: inline-block;">make</div> <div class="word" style="display: inline-block;">staying</div> <div class="word" style="display: inline-block;">organized</div></div><div class="line" style="display: block; text-align: center; width: 100%;"><div class="word" style="display: inline-block;">enjoyable.”</div></div></h3><div class="testimonials__slide-info_box"><div class="testimonials__slide-info_progress">
+                          <div class="testimonials__slide-info_img"><img src="//shift-sketch.myshopify.com/cdn/shop/files/07-promo-01-review.jpg?v=1770802246&amp;width=2048" alt="" srcset="//shift-sketch.myshopify.com/cdn/shop/files/07-promo-01-review.jpg?v=1770802246&amp;width=360 360w, //shift-sketch.myshopify.com/cdn/shop/files/07-promo-01-review.jpg?v=1770802246&amp;width=535 535w, //shift-sketch.myshopify.com/cdn/shop/files/07-promo-01-review.jpg?v=1770802246&amp;width=720 720w, //shift-sketch.myshopify.com/cdn/shop/files/07-promo-01-review.jpg?v=1770802246&amp;width=940 940w, //shift-sketch.myshopify.com/cdn/shop/files/07-promo-01-review.jpg?v=1770802246&amp;width=1070 1070w, //shift-sketch.myshopify.com/cdn/shop/files/07-promo-01-review.jpg?v=1770802246&amp;width=1200 1200w, //shift-sketch.myshopify.com/cdn/shop/files/07-promo-01-review.jpg?v=1770802246&amp;width=1500 1500w, //shift-sketch.myshopify.com/cdn/shop/files/07-promo-01-review.jpg?v=1770802246&amp;width=1780 1780w, //shift-sketch.myshopify.com/cdn/shop/files/07-promo-01-review.jpg?v=1770802246&amp;width=2000 2000w" width="2048" height="2048" loading="lazy" sizes="(min-width: 1200px) calc((100vw - 128px)), calc((100vw - 40px))">
+                          </div>
+                          <div class="testimonials__slide-info_spinner">
+                            <svg width="48" height="48" viewBox="0 0 48 48" fill="none">
+                              <circle class="circle run" style="animation-duration: 5s" cx="24" cy="24" r="22" stroke="currentColor"></circle>
+                            </svg>
+                          </div>
+                        </div><div class="testimonials__slide-info">
+                        
+                          <span class="testimonials__content-author body-normal">Daniel Kim
+                          </span>
+                        
+                        
+                          <span class="testimonials__slide-position">
+                            Graphic Designer
+                          </span>
+                        
+                      </div>
+                    </div>
+                  
+                </div>
+              </div>
+            
+              <div class="testimonials__content-slide swiper-slide swiper-slide-next" role="group" aria-label="2 / 3" style="width: 688px; margin-right: 1px;">
+                
+                  <div class="testimonials__content-rating">
+                    <div class="testimonials__content-score">4 / 5</div>
+                    <div class="testimonials__content-stars">
+                      
+                        
+                        <svg class="icon icon-star testimonials-star" width="12" height="11" viewBox="0 0 12 11" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M5.54652 0.976482C5.72571 0.590616 6.27429 0.590616 6.45348 0.976482L7.58271 3.40803C7.65556 3.5649 7.80432 3.67298 7.97603 3.69379L10.6375 4.01636C11.0599 4.06755 11.2294 4.58927 10.9178 4.87894L8.9542 6.70428C8.82751 6.82204 8.77069 6.99692 8.80396 7.16666L9.31963 9.79756C9.40146 10.2151 8.95765 10.5375 8.58587 10.3307L6.24309 9.02724C6.09194 8.94315 5.90806 8.94315 5.75691 9.02724L3.41413 10.3307C3.04235 10.5375 2.59854 10.2151 2.68037 9.79756L3.19604 7.16666C3.22931 6.99692 3.17249 6.82204 3.0458 6.70428L1.08222 4.87894C0.770611 4.58927 0.940129 4.06755 1.36248 4.01636L4.02397 3.69379C4.19568 3.67298 4.34444 3.5649 4.41729 3.40803L5.54652 0.976482Z" fill="currentColor"></path>
+</svg>
+
+                      
+                        
+                        <svg class="icon icon-star testimonials-star" width="12" height="11" viewBox="0 0 12 11" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M5.54652 0.976482C5.72571 0.590616 6.27429 0.590616 6.45348 0.976482L7.58271 3.40803C7.65556 3.5649 7.80432 3.67298 7.97603 3.69379L10.6375 4.01636C11.0599 4.06755 11.2294 4.58927 10.9178 4.87894L8.9542 6.70428C8.82751 6.82204 8.77069 6.99692 8.80396 7.16666L9.31963 9.79756C9.40146 10.2151 8.95765 10.5375 8.58587 10.3307L6.24309 9.02724C6.09194 8.94315 5.90806 8.94315 5.75691 9.02724L3.41413 10.3307C3.04235 10.5375 2.59854 10.2151 2.68037 9.79756L3.19604 7.16666C3.22931 6.99692 3.17249 6.82204 3.0458 6.70428L1.08222 4.87894C0.770611 4.58927 0.940129 4.06755 1.36248 4.01636L4.02397 3.69379C4.19568 3.67298 4.34444 3.5649 4.41729 3.40803L5.54652 0.976482Z" fill="currentColor"></path>
+</svg>
+
+                      
+                        
+                        <svg class="icon icon-star testimonials-star" width="12" height="11" viewBox="0 0 12 11" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M5.54652 0.976482C5.72571 0.590616 6.27429 0.590616 6.45348 0.976482L7.58271 3.40803C7.65556 3.5649 7.80432 3.67298 7.97603 3.69379L10.6375 4.01636C11.0599 4.06755 11.2294 4.58927 10.9178 4.87894L8.9542 6.70428C8.82751 6.82204 8.77069 6.99692 8.80396 7.16666L9.31963 9.79756C9.40146 10.2151 8.95765 10.5375 8.58587 10.3307L6.24309 9.02724C6.09194 8.94315 5.90806 8.94315 5.75691 9.02724L3.41413 10.3307C3.04235 10.5375 2.59854 10.2151 2.68037 9.79756L3.19604 7.16666C3.22931 6.99692 3.17249 6.82204 3.0458 6.70428L1.08222 4.87894C0.770611 4.58927 0.940129 4.06755 1.36248 4.01636L4.02397 3.69379C4.19568 3.67298 4.34444 3.5649 4.41729 3.40803L5.54652 0.976482Z" fill="currentColor"></path>
+</svg>
+
+                      
+                        
+                        <svg class="icon icon-star testimonials-star" width="12" height="11" viewBox="0 0 12 11" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M5.54652 0.976482C5.72571 0.590616 6.27429 0.590616 6.45348 0.976482L7.58271 3.40803C7.65556 3.5649 7.80432 3.67298 7.97603 3.69379L10.6375 4.01636C11.0599 4.06755 11.2294 4.58927 10.9178 4.87894L8.9542 6.70428C8.82751 6.82204 8.77069 6.99692 8.80396 7.16666L9.31963 9.79756C9.40146 10.2151 8.95765 10.5375 8.58587 10.3307L6.24309 9.02724C6.09194 8.94315 5.90806 8.94315 5.75691 9.02724L3.41413 10.3307C3.04235 10.5375 2.59854 10.2151 2.68037 9.79756L3.19604 7.16666C3.22931 6.99692 3.17249 6.82204 3.0458 6.70428L1.08222 4.87894C0.770611 4.58927 0.940129 4.06755 1.36248 4.01636L4.02397 3.69379C4.19568 3.67298 4.34444 3.5649 4.41729 3.40803L5.54652 0.976482Z" fill="currentColor"></path>
+</svg>
+
+                      
+                        
+                        <svg class="icon icon-star testimonials-star testimonials-star-empty" width="12" height="11" viewBox="0 0 12 11" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M5.54652 0.976482C5.72571 0.590616 6.27429 0.590616 6.45348 0.976482L7.58271 3.40803C7.65556 3.5649 7.80432 3.67298 7.97603 3.69379L10.6375 4.01636C11.0599 4.06755 11.2294 4.58927 10.9178 4.87894L8.9542 6.70428C8.82751 6.82204 8.77069 6.99692 8.80396 7.16666L9.31963 9.79756C9.40146 10.2151 8.95765 10.5375 8.58587 10.3307L6.24309 9.02724C6.09194 8.94315 5.90806 8.94315 5.75691 9.02724L3.41413 10.3307C3.04235 10.5375 2.59854 10.2151 2.68037 9.79756L3.19604 7.16666C3.22931 6.99692 3.17249 6.82204 3.0458 6.70428L1.08222 4.87894C0.770611 4.58927 0.940129 4.06755 1.36248 4.01636L4.02397 3.69379C4.19568 3.67298 4.34444 3.5649 4.41729 3.40803L5.54652 0.976482Z" fill="currentColor"></path>
+</svg>
+
+                      
+                    </div>
+                  </div>
+                
+
+                <div class="testimonials__content-text  testimonials__content-text--animation">
+                    <h3 class="testimonials__content-heading h5 js-split-text visible"><div class="line" style="display: block; text-align: center; width: 100%;"><div class="word" style="display: inline-block;">"The</div> <div class="word" style="display: inline-block;">quality</div> <div class="word" style="display: inline-block;">is</div> <div class="word" style="display: inline-block;">outstanding.</div> <div class="word" style="display: inline-block;">My</div> <div class="word" style="display: inline-block;">sketchbook</div> <div class="word" style="display: inline-block;">has</div></div><div class="line" style="display: block; text-align: center; width: 100%;"><div class="word" style="display: inline-block;">held</div> <div class="word" style="display: inline-block;">up</div> <div class="word" style="display: inline-block;">beautifully,</div> <div class="word" style="display: inline-block;">and</div> <div class="word" style="display: inline-block;">I</div> <div class="word" style="display: inline-block;">can</div> <div class="word" style="display: inline-block;">write</div> <div class="word" style="display: inline-block;">and</div> <div class="word" style="display: inline-block;">draw</div></div><div class="line" style="display: block; text-align: center; width: 100%;"><div class="word" style="display: inline-block;">without</div> <div class="word" style="display: inline-block;">worrying</div> <div class="word" style="display: inline-block;">about</div> <div class="word" style="display: inline-block;">tearing</div> <div class="word" style="display: inline-block;">the</div> <div class="word" style="display: inline-block;">pages.</div> <div class="word" style="display: inline-block;">Highly</div></div><div class="line" style="display: block; text-align: center; width: 100%;"><div class="word" style="display: inline-block;">recommend!"</div></div></h3><div class="testimonials__slide-info_box"><div class="testimonials__slide-info_progress">
+                          <div class="testimonials__slide-info_img"><img src="//shift-sketch.myshopify.com/cdn/shop/files/07-promo-02-review.jpg?v=1770802208&amp;width=1690" alt="" srcset="//shift-sketch.myshopify.com/cdn/shop/files/07-promo-02-review.jpg?v=1770802208&amp;width=360 360w, //shift-sketch.myshopify.com/cdn/shop/files/07-promo-02-review.jpg?v=1770802208&amp;width=535 535w, //shift-sketch.myshopify.com/cdn/shop/files/07-promo-02-review.jpg?v=1770802208&amp;width=720 720w, //shift-sketch.myshopify.com/cdn/shop/files/07-promo-02-review.jpg?v=1770802208&amp;width=940 940w, //shift-sketch.myshopify.com/cdn/shop/files/07-promo-02-review.jpg?v=1770802208&amp;width=1070 1070w, //shift-sketch.myshopify.com/cdn/shop/files/07-promo-02-review.jpg?v=1770802208&amp;width=1200 1200w, //shift-sketch.myshopify.com/cdn/shop/files/07-promo-02-review.jpg?v=1770802208&amp;width=1500 1500w" width="1690" height="1690" loading="lazy" sizes="(min-width: 1200px) calc((100vw - 128px)), calc((100vw - 40px))">
+                          </div>
+                          <div class="testimonials__slide-info_spinner">
+                            <svg width="48" height="48" viewBox="0 0 48 48" fill="none">
+                              <circle class="circle " style="animation-duration: 5s" cx="24" cy="24" r="22" stroke="currentColor"></circle>
+                            </svg>
+                          </div>
+                        </div><div class="testimonials__slide-info">
+                        
+                          <span class="testimonials__content-author body-normal">Daniel Kim
+                          </span>
+                        
+                        
+                          <span class="testimonials__slide-position">
+                            Graphic Designer
+                          </span>
+                        
+                      </div>
+                    </div>
+                  
+                </div>
+              </div>
+            
+              <div class="testimonials__content-slide swiper-slide" role="group" aria-label="3 / 3" style="width: 688px; margin-right: 1px;">
+                
+                  <div class="testimonials__content-rating">
+                    <div class="testimonials__content-score">4 / 5</div>
+                    <div class="testimonials__content-stars">
+                      
+                        
+                        <svg class="icon icon-star testimonials-star" width="12" height="11" viewBox="0 0 12 11" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M5.54652 0.976482C5.72571 0.590616 6.27429 0.590616 6.45348 0.976482L7.58271 3.40803C7.65556 3.5649 7.80432 3.67298 7.97603 3.69379L10.6375 4.01636C11.0599 4.06755 11.2294 4.58927 10.9178 4.87894L8.9542 6.70428C8.82751 6.82204 8.77069 6.99692 8.80396 7.16666L9.31963 9.79756C9.40146 10.2151 8.95765 10.5375 8.58587 10.3307L6.24309 9.02724C6.09194 8.94315 5.90806 8.94315 5.75691 9.02724L3.41413 10.3307C3.04235 10.5375 2.59854 10.2151 2.68037 9.79756L3.19604 7.16666C3.22931 6.99692 3.17249 6.82204 3.0458 6.70428L1.08222 4.87894C0.770611 4.58927 0.940129 4.06755 1.36248 4.01636L4.02397 3.69379C4.19568 3.67298 4.34444 3.5649 4.41729 3.40803L5.54652 0.976482Z" fill="currentColor"></path>
+</svg>
+
+                      
+                        
+                        <svg class="icon icon-star testimonials-star" width="12" height="11" viewBox="0 0 12 11" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M5.54652 0.976482C5.72571 0.590616 6.27429 0.590616 6.45348 0.976482L7.58271 3.40803C7.65556 3.5649 7.80432 3.67298 7.97603 3.69379L10.6375 4.01636C11.0599 4.06755 11.2294 4.58927 10.9178 4.87894L8.9542 6.70428C8.82751 6.82204 8.77069 6.99692 8.80396 7.16666L9.31963 9.79756C9.40146 10.2151 8.95765 10.5375 8.58587 10.3307L6.24309 9.02724C6.09194 8.94315 5.90806 8.94315 5.75691 9.02724L3.41413 10.3307C3.04235 10.5375 2.59854 10.2151 2.68037 9.79756L3.19604 7.16666C3.22931 6.99692 3.17249 6.82204 3.0458 6.70428L1.08222 4.87894C0.770611 4.58927 0.940129 4.06755 1.36248 4.01636L4.02397 3.69379C4.19568 3.67298 4.34444 3.5649 4.41729 3.40803L5.54652 0.976482Z" fill="currentColor"></path>
+</svg>
+
+                      
+                        
+                        <svg class="icon icon-star testimonials-star" width="12" height="11" viewBox="0 0 12 11" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M5.54652 0.976482C5.72571 0.590616 6.27429 0.590616 6.45348 0.976482L7.58271 3.40803C7.65556 3.5649 7.80432 3.67298 7.97603 3.69379L10.6375 4.01636C11.0599 4.06755 11.2294 4.58927 10.9178 4.87894L8.9542 6.70428C8.82751 6.82204 8.77069 6.99692 8.80396 7.16666L9.31963 9.79756C9.40146 10.2151 8.95765 10.5375 8.58587 10.3307L6.24309 9.02724C6.09194 8.94315 5.90806 8.94315 5.75691 9.02724L3.41413 10.3307C3.04235 10.5375 2.59854 10.2151 2.68037 9.79756L3.19604 7.16666C3.22931 6.99692 3.17249 6.82204 3.0458 6.70428L1.08222 4.87894C0.770611 4.58927 0.940129 4.06755 1.36248 4.01636L4.02397 3.69379C4.19568 3.67298 4.34444 3.5649 4.41729 3.40803L5.54652 0.976482Z" fill="currentColor"></path>
+</svg>
+
+                      
+                        
+                        <svg class="icon icon-star testimonials-star" width="12" height="11" viewBox="0 0 12 11" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M5.54652 0.976482C5.72571 0.590616 6.27429 0.590616 6.45348 0.976482L7.58271 3.40803C7.65556 3.5649 7.80432 3.67298 7.97603 3.69379L10.6375 4.01636C11.0599 4.06755 11.2294 4.58927 10.9178 4.87894L8.9542 6.70428C8.82751 6.82204 8.77069 6.99692 8.80396 7.16666L9.31963 9.79756C9.40146 10.2151 8.95765 10.5375 8.58587 10.3307L6.24309 9.02724C6.09194 8.94315 5.90806 8.94315 5.75691 9.02724L3.41413 10.3307C3.04235 10.5375 2.59854 10.2151 2.68037 9.79756L3.19604 7.16666C3.22931 6.99692 3.17249 6.82204 3.0458 6.70428L1.08222 4.87894C0.770611 4.58927 0.940129 4.06755 1.36248 4.01636L4.02397 3.69379C4.19568 3.67298 4.34444 3.5649 4.41729 3.40803L5.54652 0.976482Z" fill="currentColor"></path>
+</svg>
+
+                      
+                        
+                        <svg class="icon icon-star testimonials-star testimonials-star-empty" width="12" height="11" viewBox="0 0 12 11" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M5.54652 0.976482C5.72571 0.590616 6.27429 0.590616 6.45348 0.976482L7.58271 3.40803C7.65556 3.5649 7.80432 3.67298 7.97603 3.69379L10.6375 4.01636C11.0599 4.06755 11.2294 4.58927 10.9178 4.87894L8.9542 6.70428C8.82751 6.82204 8.77069 6.99692 8.80396 7.16666L9.31963 9.79756C9.40146 10.2151 8.95765 10.5375 8.58587 10.3307L6.24309 9.02724C6.09194 8.94315 5.90806 8.94315 5.75691 9.02724L3.41413 10.3307C3.04235 10.5375 2.59854 10.2151 2.68037 9.79756L3.19604 7.16666C3.22931 6.99692 3.17249 6.82204 3.0458 6.70428L1.08222 4.87894C0.770611 4.58927 0.940129 4.06755 1.36248 4.01636L4.02397 3.69379C4.19568 3.67298 4.34444 3.5649 4.41729 3.40803L5.54652 0.976482Z" fill="currentColor"></path>
+</svg>
+
+                      
+                    </div>
+                  </div>
+                
+
+                <div class="testimonials__content-text  testimonials__content-text--animation">
+                    <h3 class="testimonials__content-heading h5 js-split-text visible"><div class="line" style="display: block; text-align: center; width: 100%;"><div class="word" style="display: inline-block;">"From</div> <div class="word" style="display: inline-block;">planners</div> <div class="word" style="display: inline-block;">to</div> <div class="word" style="display: inline-block;">accessories,</div> <div class="word" style="display: inline-block;">everything</div> <div class="word" style="display: inline-block;">feels</div></div><div class="line" style="display: block; text-align: center; width: 100%;"><div class="word" style="display: inline-block;">thoughtfully</div> <div class="word" style="display: inline-block;">designed.</div> <div class="word" style="display: inline-block;">I’ve</div> <div class="word" style="display: inline-block;">never</div> <div class="word" style="display: inline-block;">had</div> <div class="word" style="display: inline-block;">such</div> <div class="word" style="display: inline-block;">a</div></div><div class="line" style="display: block; text-align: center; width: 100%;"><div class="word" style="display: inline-block;">seamless</div> <div class="word" style="display: inline-block;">experience</div> <div class="word" style="display: inline-block;">keeping</div> <div class="word" style="display: inline-block;">my</div> <div class="word" style="display: inline-block;">ideas</div> <div class="word" style="display: inline-block;">and</div></div><div class="line" style="display: block; text-align: center; width: 100%;"><div class="word" style="display: inline-block;">projects</div> <div class="word" style="display: inline-block;">in</div> <div class="word" style="display: inline-block;">order."</div></div></h3><div class="testimonials__slide-info_box"><div class="testimonials__slide-info_progress">
+                          <div class="testimonials__slide-info_img"><img src="//shift-sketch.myshopify.com/cdn/shop/files/07-promo-03-review.jpg?v=1770803100&amp;width=4096" alt="" srcset="//shift-sketch.myshopify.com/cdn/shop/files/07-promo-03-review.jpg?v=1770803100&amp;width=360 360w, //shift-sketch.myshopify.com/cdn/shop/files/07-promo-03-review.jpg?v=1770803100&amp;width=535 535w, //shift-sketch.myshopify.com/cdn/shop/files/07-promo-03-review.jpg?v=1770803100&amp;width=720 720w, //shift-sketch.myshopify.com/cdn/shop/files/07-promo-03-review.jpg?v=1770803100&amp;width=940 940w, //shift-sketch.myshopify.com/cdn/shop/files/07-promo-03-review.jpg?v=1770803100&amp;width=1070 1070w, //shift-sketch.myshopify.com/cdn/shop/files/07-promo-03-review.jpg?v=1770803100&amp;width=1200 1200w, //shift-sketch.myshopify.com/cdn/shop/files/07-promo-03-review.jpg?v=1770803100&amp;width=1500 1500w, //shift-sketch.myshopify.com/cdn/shop/files/07-promo-03-review.jpg?v=1770803100&amp;width=1780 1780w, //shift-sketch.myshopify.com/cdn/shop/files/07-promo-03-review.jpg?v=1770803100&amp;width=2000 2000w, //shift-sketch.myshopify.com/cdn/shop/files/07-promo-03-review.jpg?v=1770803100&amp;width=2400 2400w, //shift-sketch.myshopify.com/cdn/shop/files/07-promo-03-review.jpg?v=1770803100&amp;width=2800 2800w, //shift-sketch.myshopify.com/cdn/shop/files/07-promo-03-review.jpg?v=1770803100&amp;width=3200 3200w" width="4096" height="4096" loading="lazy" sizes="(min-width: 1200px) calc((100vw - 128px)), calc((100vw - 40px))">
+                          </div>
+                          <div class="testimonials__slide-info_spinner">
+                            <svg width="48" height="48" viewBox="0 0 48 48" fill="none">
+                              <circle class="circle " style="animation-duration: 5s" cx="24" cy="24" r="22" stroke="currentColor"></circle>
+                            </svg>
+                          </div>
+                        </div><div class="testimonials__slide-info">
+                        
+                          <span class="testimonials__content-author body-normal">Daniel Kim
+                          </span>
+                        
+                        
+                          <span class="testimonials__slide-position">
+                            Graphic Designer
+                          </span>
+                        
+                      </div>
+                    </div>
+                  
+                </div>
+              </div>
+            
+          </div>
+
+          <div class="testimonials__content-pagination swiper-pagination swiper-pagination-round swiper-pagination-clickable swiper-pagination-bullets swiper-pagination-horizontal"><div class="swiper-pagination-bullet swiper-pagination-bullet-active" tabindex="0" aria-current="true"><span></span></div><div class="swiper-pagination-bullet" tabindex="0"><span></span></div><div class="swiper-pagination-bullet" tabindex="0"><span></span></div></div>
+        <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
+
+        
+      
+    </div>
+  </div>
+</div>
+
+
+</section>
+```

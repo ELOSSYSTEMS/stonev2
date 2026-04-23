@@ -1,0 +1,134 @@
+# Shopify page scrape
+
+- URL: https://shift-sketch.myshopify.com/pages/multicolumn
+- Title: Multicolumn – Shift Sketch
+- Body classes: template-page template-page-multicolumn
+- Custom elements: cart-drawer, cart-drawer-items, header-drawer, header-search, menu-drawer, modal-localization-form, modal-region-selector, predictive-search, shop-cart-sync, sticky-header
+- Headings: Multicolumn | Shipping Worldwide | Money-back guarantee | Free & easy 30 day return policy | Shop | Shop | Explore | Explore | Legal | Legal | Follow us | Join our Newsletter
+
+## 1. shopify-section-template--28054349906295__page_info
+
+- Tag: section
+- Classes: shopify-section page-section
+- Headings: Multicolumn
+
+```html
+<section id="shopify-section-template--28054349906295__page_info" class="shopify-section page-section"><link href="//shift-sketch.myshopify.com/cdn/shop/t/2/assets/section-main-page.css?v=122541859386650611581774270656" rel="stylesheet" type="text/css" media="all">
+
+<div class="page-section-wrapper container align-left">
+  <div class="page-header">
+    <div class="page-header__inner">
+      <h1 class="page-header__inner-title h5">Multicolumn</h1>
+    </div>
+  </div></div>
+
+
+</section>
+```
+
+## 2. shopify-section-template--28054349906295__multicolumn_EyhpEY
+
+- Tag: section
+- Classes: shopify-section multicolumn-section
+- Headings: Shipping Worldwide | Money-back guarantee | Free & easy 30 day return policy
+
+```html
+<section id="shopify-section-template--28054349906295__multicolumn_EyhpEY" class="shopify-section multicolumn-section"><link href="//shift-sketch.myshopify.com/cdn/shop/t/2/assets/section-multicolumn.css?v=46431626082870719291772793617" rel="stylesheet" type="text/css" media="all">
+
+<style data-shopify="">
+  .section-template--28054349906295__multicolumn_EyhpEY-padding {
+
+  padding-top: 1.6rem;
+
+
+
+  padding-bottom: 1.6rem;
+
+}
+
+@media screen and (min-width: 750px) { .section-template--28054349906295__multicolumn_EyhpEY-padding {
+
+  padding-top: 2.4rem;
+
+
+
+  padding-bottom: 2.4rem;
+
+} }
+
+@media screen and (min-width: 1440px) { .section-template--28054349906295__multicolumn_EyhpEY-padding {
+
+  padding-top: 3.2rem;
+
+
+
+  padding-bottom: 3.2rem;
+
+} }
+
+  #shopify-section-template--28054349906295__multicolumn_EyhpEY {
+
+  padding-top: 0;
+
+
+
+  padding-bottom: 6rem;
+
+}
+
+@media screen and (min-width: 750px) { #shopify-section-template--28054349906295__multicolumn_EyhpEY {
+
+  padding-top: 0;
+
+
+
+  padding-bottom: 8rem;
+
+} }
+
+@media screen and (min-width: 1440px) { #shopify-section-template--28054349906295__multicolumn_EyhpEY {
+
+  padding-top: 0;
+
+
+
+  padding-bottom: 12rem;
+
+
+} }
+
+</style>
+			
+<style data-shopify="">#shopify-section-template--28054349906295__multicolumn_EyhpEY {
+				 --per-row: 3;
+				  }</style><div class="multicolumn color-background-2 background section-template--28054349906295__multicolumn_EyhpEY-padding">
+  
+
+
+
+
+
+  <div class="container">
+    <div class="multicolumn__wrapper column-width-large"><div class="multicolumn-card multicolumn-card--width-large"><div class="multicolumn-card__icon"><svg class="icon icon-pack icon-pack--globe" aria-hidden="true" focusable="false" width="26" height="26" viewBox="0 0 26 26" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M15 24C13.7501 24 12.5776 23.7638 11.4826 23.2913C10.3876 22.8188 9.4338 22.1762 8.62125 21.3637C7.8087 20.5513 7.16872 19.595 6.70132 18.4949C6.23377 17.395 6 16.22 6 14.9701C6 13.715 6.23377 12.5438 6.70132 11.4563C7.16872 10.3688 7.8087 9.41873 8.62125 8.60618C9.4338 7.79378 10.3876 7.15628 11.4826 6.69368C12.5776 6.23123 13.7501 6 15 6C16.2551 6 17.4288 6.23123 18.5213 6.69368C19.6137 7.15628 20.5662 7.79378 21.3788 8.60618C22.1913 9.41873 22.8313 10.3688 23.2987 11.4563C23.7662 12.5438 24 13.715 24 14.9701C24 16.22 23.7662 17.395 23.2987 18.4949C22.8313 19.595 22.1913 20.5513 21.3788 21.3637C20.5662 22.1762 19.6137 22.8188 18.5213 23.2913C17.4288 23.7638 16.2551 24 15 24ZM15 22.515C15.48 21.975 15.885 21.375 16.215 20.715C16.545 20.055 16.815 19.295 17.025 18.4351H12.9901C13.19 19.255 13.455 20.0024 13.785 20.6774C14.115 21.3524 14.52 21.965 15 22.515ZM12.9451 22.2151C12.605 21.67 12.3113 21.0887 12.0638 20.4713C11.8163 19.8538 11.61 19.175 11.445 18.4351H8.31008C8.83508 19.3951 9.4563 20.1701 10.1738 20.76C10.8912 21.35 11.815 21.835 12.9451 22.2151ZM17.07 22.2C18.0701 21.8801 18.9663 21.3976 19.7588 20.7526C20.5512 20.1076 21.1949 19.3351 21.6899 18.4351H18.5701C18.395 19.165 18.1862 19.8387 17.9437 20.4563C17.7013 21.0738 17.4101 21.6551 17.07 22.2ZM7.755 16.935H11.1599C11.1149 16.565 11.0862 16.2237 11.0738 15.9113C11.0613 15.5988 11.0551 15.2851 11.0551 14.9701C11.0551 14.615 11.0638 14.2913 11.0812 13.9988C11.0987 13.7063 11.13 13.39 11.175 13.0499H7.755C7.66005 13.39 7.59383 13.7038 7.55633 13.9913C7.51883 14.2787 7.50008 14.605 7.50008 14.9701C7.50008 15.335 7.51883 15.6688 7.55633 15.9713C7.59383 16.2737 7.66005 16.595 7.755 16.935ZM12.6899 16.935H17.3249C17.38 16.5251 17.4163 16.1738 17.4338 15.8813C17.4512 15.5888 17.4599 15.2851 17.4599 14.9701C17.4599 14.665 17.4512 14.3712 17.4338 14.0888C17.4163 13.8063 17.38 13.46 17.3249 13.0499H12.6899C12.635 13.46 12.5988 13.8063 12.5813 14.0888C12.5637 14.3712 12.5549 14.665 12.5549 14.9701C12.5549 15.2851 12.5637 15.5888 12.5813 15.8813C12.5988 16.1738 12.635 16.5251 12.6899 16.935ZM18.825 16.935H22.245C22.34 16.595 22.4062 16.2737 22.4437 15.9713C22.4812 15.6688 22.4999 15.335 22.4999 14.9701C22.4999 14.605 22.4812 14.2787 22.4437 13.9913C22.4062 13.7038 22.34 13.39 22.245 13.0499H18.8401C18.8851 13.4999 18.9163 13.8662 18.9337 14.1488C18.9512 14.4313 18.96 14.705 18.96 14.9701C18.96 15.295 18.9488 15.6037 18.9263 15.8962C18.9038 16.1887 18.87 16.535 18.825 16.935ZM18.555 11.5501H21.6899C21.215 10.61 20.5813 9.8175 19.7887 9.1725C18.9962 8.5275 18.085 8.06498 17.0549 7.78493C17.395 8.31998 17.6863 8.89125 17.9288 9.49875C18.1712 10.1063 18.38 10.79 18.555 11.5501ZM12.9901 11.5501H17.0401C16.87 10.8001 16.6075 10.0801 16.2526 9.39007C15.8975 8.70007 15.48 8.07503 15 7.51493C14.55 7.96493 14.1675 8.50747 13.8525 9.14257C13.5375 9.77752 13.25 10.58 12.9901 11.5501ZM8.31008 11.5501H11.4601C11.615 10.82 11.8112 10.1537 12.0487 9.55118C12.2863 8.94878 12.5801 8.36505 12.93 7.8C11.9 8.08005 10.9962 8.53755 10.2188 9.1725C9.4413 9.80745 8.80508 10.6 8.31008 11.5501Z" fill="currentColor"></path></svg>
+</div>
+<div class="multicolumn-card__content"><h3 class="multicolumn-card__heading body-large ">
+                  <span class="richtext-link-inside">Shipping Worldwide</span>
+                </h3><p class="multicolumn-card__text richtext-link-inside body-normal">We deliver our products to customers around the globe, so you can enjoy your keyboard setup no matter where you are.</p></div></div>
+      <div class="multicolumn-card multicolumn-card--width-large"><div class="multicolumn-card__icon"><svg class="icon icon-pack icon-pack--cart" aria-hidden="true" focusable="false" width="26" height="26" viewBox="0 0 26 26" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M6.6665 6.66699L7.38079 9.04794M7.38079 9.04794L10.2379 18.5718H23.3332V9.04794H7.38079ZM20.9522 23.3337C20.2947 23.3337 19.7617 22.8007 19.7617 22.1432C19.7617 21.4857 20.2947 20.9527 20.9522 20.9527C21.6097 20.9527 22.1427 21.4857 22.1427 22.1432C22.1427 22.8007 21.6097 23.3337 20.9522 23.3337ZM11.4284 22.1432C11.4284 21.4857 11.9614 20.9527 12.6189 20.9527C13.2764 20.9527 13.8094 21.4857 13.8094 22.1432C13.8094 22.8007 13.2764 23.3337 12.6189 23.3337C11.9614 23.3337 11.4284 22.8007 11.4284 22.1432Z" stroke="currentColor" stroke-width="1.5"></path></svg>
+</div>
+<div class="multicolumn-card__content"><h3 class="multicolumn-card__heading body-large ">
+                  <span class="richtext-link-inside">Money-back guarantee</span>
+                </h3><p class="multicolumn-card__text richtext-link-inside body-normal">If you’re not completely satisfied with your purchase, we offer a full money-back guarantee for your peace of mind.</p></div></div>
+      <div class="multicolumn-card multicolumn-card--width-large"><div class="multicolumn-card__icon"><svg class="icon icon-pack icon-pack--arrow_back" aria-hidden="true" focusable="false" width="26" height="26" viewBox="0 0 26 26" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M6.53492 2.4L1.60156 7.40011M1.60156 7.40011L6.53492 12.4002M1.60156 7.40011L22.4016 7.40012L22.4016 18L12.0016 18" stroke="currentColor" stroke-width="2"></path></svg>
+</div>
+<div class="multicolumn-card__content"><h3 class="multicolumn-card__heading body-large ">
+                  <span class="richtext-link-inside">Free &amp; easy 30 day return policy</span>
+                </h3><p class="multicolumn-card__text richtext-link-inside body-normal">Returns are simple and free within 30 days, making it easy to shop with confidence and flexibility.</p></div></div>
+      
+    </div>
+  </div>
+</div>
+
+
+</section>
+```

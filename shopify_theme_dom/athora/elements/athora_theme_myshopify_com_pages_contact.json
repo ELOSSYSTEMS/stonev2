@@ -1,0 +1,24 @@
+{
+  "pageUrl": "https://athora-theme.myshopify.com/pages/contact",
+  "pageTitle": "Contact – Athora Store",
+  "pageSlug": "athora_theme_myshopify_com_pages_contact",
+  "sections": [
+    {
+      "refId": "athora_theme_myshopify_com_pages_contact__section_01",
+      "index": 1,
+      "selectorHint": "#shopify-section-template--18534946603147__contact_form_9ewmHX",
+      "typeGuess": "content-section",
+      "patternTags": [
+        "top-of-page",
+        "product-commerce"
+      ],
+      "headingSample": [
+        "Drop us a line."
+      ],
+      "textSample": "Drop us a line. Our dedicated support team is available to ensure you have the best shopping experience. Contact us anytime! Office Address:QQ59+W7 City of Orange, New Jersey Reach us directlysupport@athorastore.com Give us a call+1 (8888) 123-1088 Contact form Name Email * Phone",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/athora/elements/athora_theme_myshopify_com_pages_contact/athora_theme_myshopify_com_pages_contact__section_01.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/athora/pages/athora_theme_myshopify_com_pages_contact.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/athora/pages/athora_theme_myshopify_com_pages_contact.json"
+    }
+  ]
+}

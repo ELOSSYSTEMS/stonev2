@@ -1,0 +1,134 @@
+{
+  "pageUrl": "https://athora-theme.myshopify.com/products/gift-wrap",
+  "pageTitle": "Gift wrap – Athora Store",
+  "pageSlug": "athora_theme_myshopify_com_products_gift_wrap",
+  "sections": [
+    {
+      "refId": "athora_theme_myshopify_com_products_gift_wrap__section_01",
+      "index": 1,
+      "selectorHint": "#shopify-section-template--18534946734219__main",
+      "typeGuess": "product-grid",
+      "patternTags": [
+        "top-of-page",
+        "cta-cluster",
+        "card-grid",
+        "product-commerce",
+        "category-navigation",
+        "editorial-media",
+        "marquee"
+      ],
+      "headingSample": [
+        "Gift wrap",
+        "Ask a question"
+      ],
+      "textSample": "#main-product-template--18534946734219__main { --product-layout: \"pr-media pr-info\" / minmax(0, 0.65fr) minmax(0, 0.35fr); --product-gap: 3.5rem; --media-gap: 1.0rem; } Skip to product information Vendor:Athora Store Gift wrap Sale price $5.00 Make your gift extra special with ou",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/athora/elements/athora_theme_myshopify_com_products_gift_wrap/athora_theme_myshopify_com_products_gift_wrap__section_01.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/athora/pages/athora_theme_myshopify_com_products_gift_wrap.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/athora/pages/athora_theme_myshopify_com_products_gift_wrap.json"
+    },
+    {
+      "refId": "athora_theme_myshopify_com_products_gift_wrap__section_02",
+      "index": 2,
+      "selectorHint": "#shopify-section-template--18534946734219__media_with_text_overlay_fzn8gq",
+      "typeGuess": "editorial-media",
+      "patternTags": [
+        "video",
+        "image-heavy",
+        "editorial-media"
+      ],
+      "headingSample": [
+        "FlexCore™ Fabric Blend"
+      ],
+      "textSample": "#Section-template--18534946734219__media_with_text_overlay_fzn8gq { --color-overlay-opacity: 15%;} @media screen and (max-width: 767px) { #Section-template--18534946734219__media_with_text_overlay_fzn8gq .hdt-media-overlap-content {--media-overlap-content-h:350px;--aspect-ratio:a",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/athora/elements/athora_theme_myshopify_com_products_gift_wrap/athora_theme_myshopify_com_products_gift_wrap__section_02.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/athora/pages/athora_theme_myshopify_com_products_gift_wrap.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/athora/pages/athora_theme_myshopify_com_products_gift_wrap.json"
+    },
+    {
+      "refId": "athora_theme_myshopify_com_products_gift_wrap__section_03",
+      "index": 3,
+      "selectorHint": "#shopify-section-template--18534946734219__image_hotspots_Qfzm9y",
+      "typeGuess": "editorial-media",
+      "patternTags": [
+        "image-heavy",
+        "cta-cluster",
+        "editorial-media"
+      ],
+      "headingSample": [
+        "Precision in Every Detail"
+      ],
+      "textSample": "Precision in Every DetailEco-friendly, high-performance gear made from recycled materials. Hotspot Performance Fabric Performance Fabric Breathable, sweat-wicking, andultra-lightweight to keep you fresh and dry. Hotspot Performance Fabric Performance Fabric Breathable, sweat-wick",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/athora/elements/athora_theme_myshopify_com_products_gift_wrap/athora_theme_myshopify_com_products_gift_wrap__section_03.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/athora/pages/athora_theme_myshopify_com_products_gift_wrap.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/athora/pages/athora_theme_myshopify_com_products_gift_wrap.json"
+    },
+    {
+      "refId": "athora_theme_myshopify_com_products_gift_wrap__section_04",
+      "index": 4,
+      "selectorHint": "#shopify-section-template--18534946734219__scrolling_content_MUAqRD",
+      "typeGuess": "content-section",
+      "patternTags": [
+        "marquee"
+      ],
+      "headingSample": [],
+      "textSample": "92% faster drying time 40 Hours of Motion Testing 92% faster drying time 40 Hours of Motion Testing 92% faster drying time 40 Hours of Motion Testing 92% faster drying time 40 Hours of Motion Testing",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/athora/elements/athora_theme_myshopify_com_products_gift_wrap/athora_theme_myshopify_com_products_gift_wrap__section_04.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/athora/pages/athora_theme_myshopify_com_products_gift_wrap.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/athora/pages/athora_theme_myshopify_com_products_gift_wrap.json"
+    },
+    {
+      "refId": "athora_theme_myshopify_com_products_gift_wrap__section_05",
+      "index": 5,
+      "selectorHint": "#shopify-section-template--18534946734219__media_and_text_block_Unjizb",
+      "typeGuess": "editorial-media",
+      "patternTags": [
+        "video",
+        "image-heavy",
+        "slider",
+        "cta-cluster",
+        "category-navigation",
+        "editorial-media"
+      ],
+      "headingSample": [
+        "Move strong. feel stronger.",
+        "Push harder. last longer."
+      ],
+      "textSample": "#Section-template--18534946734219__media_and_text_block_Unjizb .hdt-media-text-scrollstack{ --height-item: 390px; --gap-arrow: 195px } @media screen and (min-width: 768px){ #Section-template--18534946734219__media_and_text_block_Unjizb .hdt-media-text-scrollstack{ --height-stack:",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/athora/elements/athora_theme_myshopify_com_products_gift_wrap/athora_theme_myshopify_com_products_gift_wrap__section_05.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/athora/pages/athora_theme_myshopify_com_products_gift_wrap.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/athora/pages/athora_theme_myshopify_com_products_gift_wrap.json"
+    },
+    {
+      "refId": "athora_theme_myshopify_com_products_gift_wrap__section_06",
+      "index": 6,
+      "selectorHint": "#shopify-section-template--18534946734219__faqs_eEdjjW",
+      "typeGuess": "content-section",
+      "patternTags": [
+        "product-commerce",
+        "category-navigation"
+      ],
+      "headingSample": [
+        "Frequently asked questions",
+        "Still looking for an answer?"
+      ],
+      "textSample": "Frequently asked questionsStill looking for an answer? Contact us What sizes are available for your activewear? Our activewear is available in a wide range of sizes from XS to XXL. Each product includes a detailed size chart to help you find your perfect fit. Is your activewear s",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/athora/elements/athora_theme_myshopify_com_products_gift_wrap/athora_theme_myshopify_com_products_gift_wrap__section_06.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/athora/pages/athora_theme_myshopify_com_products_gift_wrap.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/athora/pages/athora_theme_myshopify_com_products_gift_wrap.json"
+    },
+    {
+      "refId": "athora_theme_myshopify_com_products_gift_wrap__section_07",
+      "index": 7,
+      "selectorHint": "#shopify-section-template--18534946734219__text_width_icon_QRcCKi",
+      "typeGuess": "slider-section",
+      "patternTags": [
+        "slider"
+      ],
+      "headingSample": [],
+      "textSample": "Fast free shippingGet free shipping on orders of $100 or more Hassle-free returnsEasy returns within 14 days of delivery. 100% secure checkoutAll payments are processed securely Customer ServiceOur support team is available 24/7",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/athora/elements/athora_theme_myshopify_com_products_gift_wrap/athora_theme_myshopify_com_products_gift_wrap__section_07.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/athora/pages/athora_theme_myshopify_com_products_gift_wrap.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/athora/pages/athora_theme_myshopify_com_products_gift_wrap.json"
+    }
+  ]
+}

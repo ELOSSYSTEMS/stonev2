@@ -1,0 +1,140 @@
+{
+  "pageUrl": "https://elegance-canvas.myshopify.com/",
+  "pageTitle": "Elegance – Elegance-canvas",
+  "pageSlug": "elegance_canvas_myshopify_com",
+  "sections": [
+    {
+      "refId": "elegance_canvas_myshopify_com__section_01",
+      "index": 1,
+      "selectorHint": "#shopify-section-template--19562841243830__image_gallery_xpa9cU",
+      "typeGuess": "hero",
+      "patternTags": [
+        "hero-candidate",
+        "top-of-page",
+        "image-heavy",
+        "slider",
+        "cta-cluster",
+        "card-grid",
+        "category-navigation",
+        "editorial-media"
+      ],
+      "headingSample": [
+        "Search our site"
+      ],
+      "textSample": ".section-template--19562841243830__image_gallery_xpa9cU-padding { padding-top: 0px; padding-bottom: 0px; } @media screen and (min-width: 768px) { .section-template--19562841243830__image_gallery_xpa9cU-padding { padding-top: 0px; padding-bottom: 0px; } } @media screen and (min-wi",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com/elegance_canvas_myshopify_com__section_01.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/pages/elegance_canvas_myshopify_com.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/pages/elegance_canvas_myshopify_com.json"
+    },
+    {
+      "refId": "elegance_canvas_myshopify_com__section_02",
+      "index": 2,
+      "selectorHint": "#shopify-section-template--19562841243830__icons_with_text_dXeFfG",
+      "typeGuess": "editorial-media",
+      "patternTags": [
+        "image-heavy",
+        "slider",
+        "card-grid",
+        "editorial-media"
+      ],
+      "headingSample": [
+        "Expressive Elements",
+        "Artist Workshops",
+        "Seasonal Art Shows"
+      ],
+      "textSample": ".section-template--19562841243830__icons_with_text_dXeFfG-padding { padding-top: 80px; padding-bottom: 80px; } @media screen and (min-width: 768px) { .section-template--19562841243830__icons_with_text_dXeFfG-padding { padding-top: 120px; padding-bottom: 120px; } } @media screen a",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com/elegance_canvas_myshopify_com__section_02.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/pages/elegance_canvas_myshopify_com.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/pages/elegance_canvas_myshopify_com.json"
+    },
+    {
+      "refId": "elegance_canvas_myshopify_com__section_03",
+      "index": 3,
+      "selectorHint": "#shopify-section-template--19562841243830__featured_collection_PAffkz",
+      "typeGuess": "product-grid",
+      "patternTags": [
+        "image-heavy",
+        "slider",
+        "cta-cluster",
+        "card-grid",
+        "product-commerce",
+        "category-navigation",
+        "editorial-media"
+      ],
+      "headingSample": [
+        "Where Art Meets Heart Celebration of Creativity",
+        "Pro Art Series",
+        "Moonlit Breeze",
+        "Graceful Beauty",
+        "Mona’s Coffee",
+        "The Rebel Music"
+      ],
+      "textSample": "Add to cart .featured_Collection.featured_Collection-template--19562841243830__featured_collection_PAffkz { padding-bottom: 0px; padding-top: 0px; } @media screen and (min-width: 768px) { .featured_Collection.featured_Collection-template--19562841243830__featured_collection_PAffk",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com/elegance_canvas_myshopify_com__section_03.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/pages/elegance_canvas_myshopify_com.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/pages/elegance_canvas_myshopify_com.json"
+    },
+    {
+      "refId": "elegance_canvas_myshopify_com__section_04",
+      "index": 4,
+      "selectorHint": "#shopify-section-template--19562841243830__video_3k8AUU",
+      "typeGuess": "editorial-media",
+      "patternTags": [
+        "video",
+        "image-heavy",
+        "cta-cluster",
+        "editorial-media"
+      ],
+      "headingSample": [],
+      "textSample": ".section-template--19562841243830__video_3k8AUU-padding { padding-top: 0px; padding-bottom: 0px; } @media screen and (min-width: 768px) { .section-template--19562841243830__video_3k8AUU-padding { padding-top: 0px; padding-bottom: 0px; } } @media screen and (min-width: 1200px) { .",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com/elegance_canvas_myshopify_com__section_04.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/pages/elegance_canvas_myshopify_com.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/pages/elegance_canvas_myshopify_com.json"
+    },
+    {
+      "refId": "elegance_canvas_myshopify_com__section_05",
+      "index": 5,
+      "selectorHint": "#shopify-section-template--19562841243830__revealing_text_img_7NaybG",
+      "typeGuess": "editorial-media",
+      "patternTags": [
+        "image-heavy",
+        "editorial-media"
+      ],
+      "headingSample": [
+        "Discover the ideal destination for one-of-a-kind, inspirational, and beautifully created art items. Our online art store features a broad range of paintings.",
+        "john smith"
+      ],
+      "textSample": "/* ---------------------->swapping the class for padding inner and outer visiblity---start */ /* condition for without curve and with curves on both side (spaces-mobile) */ .revealing-text-img-template--19562841243830__revealing_text_img_7NaybG { padding-top: 0px; padding-bottom:",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com/elegance_canvas_myshopify_com__section_05.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/pages/elegance_canvas_myshopify_com.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/pages/elegance_canvas_myshopify_com.json"
+    },
+    {
+      "refId": "elegance_canvas_myshopify_com__section_06",
+      "index": 6,
+      "selectorHint": "#shopify-section-template--19562841243830__product_slider_NMJqMg",
+      "typeGuess": "product-grid",
+      "patternTags": [
+        "image-heavy",
+        "slider",
+        "cta-cluster",
+        "card-grid",
+        "product-commerce",
+        "category-navigation",
+        "editorial-media"
+      ],
+      "headingSample": [
+        "Signature Art Selections",
+        "Timeless Reflection",
+        "Moonlit Breeze",
+        "Graceful Beauty",
+        "Mona’s Coffee",
+        "The Rebel Music"
+      ],
+      "textSample": ".section-template--19562841243830__product_slider_NMJqMg-padding { padding-top: 40px; padding-bottom: 70px; } @media screen and (min-width: 768px) { .section-template--19562841243830__product_slider_NMJqMg-padding { padding-top: 60px; padding-bottom: 105px; } } @media screen and ",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com/elegance_canvas_myshopify_com__section_06.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/pages/elegance_canvas_myshopify_com.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/pages/elegance_canvas_myshopify_com.json"
+    }
+  ]
+}

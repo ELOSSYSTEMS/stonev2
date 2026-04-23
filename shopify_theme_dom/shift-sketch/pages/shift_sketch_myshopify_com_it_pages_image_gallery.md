@@ -1,0 +1,228 @@
+# Shopify page scrape
+
+- URL: https://shift-sketch.myshopify.com/it/pages/image-gallery
+- Title: Galleria di immagini – Shift Sketch
+- Body classes: template-page template-page-image-gallery
+- Custom elements: cart-drawer, cart-drawer-items, header-drawer, header-search, menu-drawer, modal-localization-form, modal-region-selector, predictive-search, shop-cart-sync, sticky-header
+- Headings: Galleria | Negozio | Negozio | Esplorare | Esplorare | Legal | Legal | Seguici | Iscriviti alla nostra newsletter
+
+## 1. shopify-section-template--28054288335223__image_gallery_aWCMJP
+
+- Tag: section
+- Classes: shopify-section image-gallery-section spaced-section
+- Headings: Galleria
+
+```html
+<section id="shopify-section-template--28054288335223__image_gallery_aWCMJP" class="shopify-section image-gallery-section spaced-section"><link href="//shift-sketch.myshopify.com/cdn/shop/t/2/assets/section-image-gallery.css?v=27383795708030610641772798521" rel="stylesheet" type="text/css" media="all">
+<script src="//shift-sketch.myshopify.com/cdn/shop/t/2/assets/image-gallery.js?v=108319881750430937921772798520" defer="defer"></script>
+
+<style data-shopify="">
+  #shopify-section-template--28054288335223__image_gallery_aWCMJP {
+
+  padding-top: 0;
+
+
+
+  padding-bottom: 6rem;
+
+}
+
+@media screen and (min-width: 750px) { #shopify-section-template--28054288335223__image_gallery_aWCMJP {
+
+  padding-top: 0;
+
+
+
+  padding-bottom: 8rem;
+
+} }
+
+@media screen and (min-width: 1440px) { #shopify-section-template--28054288335223__image_gallery_aWCMJP {
+
+  padding-top: 0;
+
+
+
+  padding-bottom: 12rem;
+
+
+} }
+
+  .section-template--28054288335223__image_gallery_aWCMJP-padding {
+
+  padding-top: 0;
+
+
+
+  padding-bottom: 0;
+
+}
+
+@media screen and (min-width: 750px) { .section-template--28054288335223__image_gallery_aWCMJP-padding {
+
+  padding-top: 0;
+
+
+
+  padding-bottom: 0;
+
+} }
+
+@media screen and (min-width: 1440px) { .section-template--28054288335223__image_gallery_aWCMJP-padding {
+
+  padding-top: 0;
+
+
+
+  padding-bottom: 0;
+
+} }
+
+</style>
+
+
+
+
+<style data-shopify="">.section-template--28054288335223__image_gallery_aWCMJP-padding .image-gallery__slide-image_gallery_slide_hTad79::before {
+      content: "";
+      display: block;
+      width: 0;
+      padding-bottom: 125.0%;
+    }
+
+    @media screen and (min-width: 576px) {
+      .section-template--28054288335223__image_gallery_aWCMJP-padding .image-gallery__slide-image_gallery_slide_hTad79::before {
+        content: "";
+        display: block;
+        width: 0;
+        padding-bottom: 125.0%;
+      }
+    }</style>
+<style data-shopify="">.section-template--28054288335223__image_gallery_aWCMJP-padding .image-gallery__slide-image_gallery_slide_VTpHfw::before {
+      content: "";
+      display: block;
+      width: 0;
+      padding-bottom: 125.0%;
+    }
+
+    @media screen and (min-width: 576px) {
+      .section-template--28054288335223__image_gallery_aWCMJP-padding .image-gallery__slide-image_gallery_slide_VTpHfw::before {
+        content: "";
+        display: block;
+        width: 0;
+        padding-bottom: 125.0%;
+      }
+    }</style>
+<style data-shopify="">.section-template--28054288335223__image_gallery_aWCMJP-padding .image-gallery__slide-image_gallery_slide_YWxFrm::before {
+      content: "";
+      display: block;
+      width: 0;
+      padding-bottom: 125.0%;
+    }
+
+    @media screen and (min-width: 576px) {
+      .section-template--28054288335223__image_gallery_aWCMJP-padding .image-gallery__slide-image_gallery_slide_YWxFrm::before {
+        content: "";
+        display: block;
+        width: 0;
+        padding-bottom: 125.0%;
+      }
+    }</style>
+<style data-shopify="">.section-template--28054288335223__image_gallery_aWCMJP-padding .image-gallery__slide-image_gallery_slide_ytGNxy::before {
+      content: "";
+      display: block;
+      width: 0;
+      padding-bottom: 125.0%;
+    }
+
+    @media screen and (min-width: 576px) {
+      .section-template--28054288335223__image_gallery_aWCMJP-padding .image-gallery__slide-image_gallery_slide_ytGNxy::before {
+        content: "";
+        display: block;
+        width: 0;
+        padding-bottom: 125.0%;
+      }
+    }</style>
+<style data-shopify="">.section-template--28054288335223__image_gallery_aWCMJP-padding .image-gallery__slide-image_gallery_slide_Y4yCjQ::before {
+      content: "";
+      display: block;
+      width: 0;
+      padding-bottom: 125.0%;
+    }
+
+    @media screen and (min-width: 576px) {
+      .section-template--28054288335223__image_gallery_aWCMJP-padding .image-gallery__slide-image_gallery_slide_Y4yCjQ::before {
+        content: "";
+        display: block;
+        width: 0;
+        padding-bottom: 125.0%;
+      }
+    }</style>
+<style data-shopify="">.section-template--28054288335223__image_gallery_aWCMJP-padding .image-gallery__slide-image_gallery_slide_kMzeVm::before {
+      content: "";
+      display: block;
+      width: 0;
+      padding-bottom: 125.0%;
+    }
+
+    @media screen and (min-width: 576px) {
+      .section-template--28054288335223__image_gallery_aWCMJP-padding .image-gallery__slide-image_gallery_slide_kMzeVm::before {
+        content: "";
+        display: block;
+        width: 0;
+        padding-bottom: 125.0%;
+      }
+    }</style>
+
+<div class="image-gallery color-background-1 background section-template--28054288335223__image_gallery_aWCMJP-padding">
+  
+
+
+<div class="container heading-group popular-products-header heading-group-center heading-group--border-bottom"><div class="heading-group__left">
+        
+<h2 class="title h5 size--h5 popular-products-header__title richtext-link-inside">Galleria</h2></div><div class="heading-group__actions heading-group__actions--end-on-mobile"><div class="heading-group__navigation no-js-hidden">
+            <button class="heading-group__navigation-button heading-group__navigation-button-prev swiper-button-prev focus-inset" tabindex="0" aria-label="Previous slide" aria-controls="swiper-wrapper-81de741e5349360c">
+              <svg class="icon icon-arrow-slider-left" width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M14 2L6 10L14 18" stroke="currentColor"></path>
+</svg>
+
+            </button>
+            <button class="heading-group__navigation-button heading-group__navigation-button-next swiper-button-next focus-inset" tabindex="0" aria-label="Next slide" aria-controls="swiper-wrapper-81de741e5349360c">
+              <svg class="icon icon-arrow-slider-right" width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M6 2L14 10L6 18" stroke="currentColor"></path>
+</svg>
+
+            </button>
+          </div></div></div>
+
+
+
+  <div class="image-gallery__wrapper" data-autoplay="false" data-loop="true" data-navigation="true" data-pagination="" data-slides-count="6" data-free-mode="">
+    <div class="image-gallery__slider swiper swiper-initialized swiper-horizontal swiper-backface-hidden">
+      <div class="image-gallery__slider-wrapper swiper-wrapper" id="swiper-wrapper-81de741e5349360c" aria-live="polite" style="transition-duration: 0ms; transition-delay: 0ms; transform: translate3d(-475px, 0px, 0px);"><div class="image-gallery__slide image-gallery__slide-image_gallery_slide_Y4yCjQ swiper-slide" data-swiper-autoplay="5000" role="group" aria-label="5 / 6" data-swiper-slide-index="4" style="width: 451px; margin-right: 24px;">
+<img src="//shift-sketch.myshopify.com/cdn/shop/files/03-product-04.jpg?v=1770805466&amp;width=1856" alt="" srcset="//shift-sketch.myshopify.com/cdn/shop/files/03-product-04.jpg?v=1770805466&amp;width=550 550w, //shift-sketch.myshopify.com/cdn/shop/files/03-product-04.jpg?v=1770805466&amp;width=720 720w, //shift-sketch.myshopify.com/cdn/shop/files/03-product-04.jpg?v=1770805466&amp;width=990 990w, //shift-sketch.myshopify.com/cdn/shop/files/03-product-04.jpg?v=1770805466&amp;width=1200 1200w, //shift-sketch.myshopify.com/cdn/shop/files/03-product-04.jpg?v=1770805466&amp;width=1500 1500w, //shift-sketch.myshopify.com/cdn/shop/files/03-product-04.jpg?v=1770805466&amp;width=1800 1800w" width="1856" height="2290" loading="lazy" class="image-gallery__slide-image" sizes="100vw" style="object-position: 50.0% 50.0%;" fetchpriority="auto">
+<div class="image-gallery__slide-overlay" style="opacity: 0.0"></div>
+          </div><div class="image-gallery__slide image-gallery__slide-image_gallery_slide_kMzeVm swiper-slide swiper-slide-prev" data-swiper-autoplay="5000" role="group" aria-label="6 / 6" data-swiper-slide-index="5" style="width: 451px; margin-right: 24px;">
+<img src="//shift-sketch.myshopify.com/cdn/shop/files/03-product-05.jpg?v=1770805465&amp;width=1704" alt="" srcset="//shift-sketch.myshopify.com/cdn/shop/files/03-product-05.jpg?v=1770805465&amp;width=550 550w, //shift-sketch.myshopify.com/cdn/shop/files/03-product-05.jpg?v=1770805465&amp;width=720 720w, //shift-sketch.myshopify.com/cdn/shop/files/03-product-05.jpg?v=1770805465&amp;width=990 990w, //shift-sketch.myshopify.com/cdn/shop/files/03-product-05.jpg?v=1770805465&amp;width=1200 1200w, //shift-sketch.myshopify.com/cdn/shop/files/03-product-05.jpg?v=1770805465&amp;width=1500 1500w" width="1704" height="2272" loading="lazy" class="image-gallery__slide-image" sizes="100vw" style="object-position: 50.0% 50.0%;" fetchpriority="auto">
+<div class="image-gallery__slide-overlay" style="opacity: 0.0"></div>
+          </div><div class="image-gallery__slide image-gallery__slide-image_gallery_slide_hTad79 swiper-slide swiper-slide-active" data-swiper-autoplay="5000" role="group" aria-label="1 / 6" data-swiper-slide-index="0" style="width: 451px; margin-right: 24px;">
+<img src="//shift-sketch.myshopify.com/cdn/shop/files/03-product-06-v1.jpg?v=1770805466&amp;width=2048" alt="" srcset="//shift-sketch.myshopify.com/cdn/shop/files/03-product-06-v1.jpg?v=1770805466&amp;width=550 550w, //shift-sketch.myshopify.com/cdn/shop/files/03-product-06-v1.jpg?v=1770805466&amp;width=720 720w, //shift-sketch.myshopify.com/cdn/shop/files/03-product-06-v1.jpg?v=1770805466&amp;width=990 990w, //shift-sketch.myshopify.com/cdn/shop/files/03-product-06-v1.jpg?v=1770805466&amp;width=1200 1200w, //shift-sketch.myshopify.com/cdn/shop/files/03-product-06-v1.jpg?v=1770805466&amp;width=1500 1500w, //shift-sketch.myshopify.com/cdn/shop/files/03-product-06-v1.jpg?v=1770805466&amp;width=1800 1800w" width="2048" height="2528" loading="eager" class="image-gallery__slide-image" sizes="100vw" style="object-position: 50.0% 50.0%;" fetchpriority="high">
+<div class="image-gallery__slide-overlay" style="opacity: 0.0"></div>
+          </div><div class="image-gallery__slide image-gallery__slide-image_gallery_slide_VTpHfw swiper-slide swiper-slide-next" data-swiper-autoplay="5000" role="group" aria-label="2 / 6" data-swiper-slide-index="1" style="width: 451px; margin-right: 24px;">
+<img src="//shift-sketch.myshopify.com/cdn/shop/files/03-product-01.jpg?v=1770805411&amp;width=1538" alt="" srcset="//shift-sketch.myshopify.com/cdn/shop/files/03-product-01.jpg?v=1770805411&amp;width=550 550w, //shift-sketch.myshopify.com/cdn/shop/files/03-product-01.jpg?v=1770805411&amp;width=720 720w, //shift-sketch.myshopify.com/cdn/shop/files/03-product-01.jpg?v=1770805411&amp;width=990 990w, //shift-sketch.myshopify.com/cdn/shop/files/03-product-01.jpg?v=1770805411&amp;width=1200 1200w, //shift-sketch.myshopify.com/cdn/shop/files/03-product-01.jpg?v=1770805411&amp;width=1500 1500w" width="1538" height="2048" loading="lazy" class="image-gallery__slide-image" sizes="100vw" style="object-position: 50.0% 50.0%;" fetchpriority="auto">
+<div class="image-gallery__slide-overlay" style="opacity: 0.0"></div>
+          </div><div class="image-gallery__slide image-gallery__slide-image_gallery_slide_YWxFrm swiper-slide" data-swiper-autoplay="5000" role="group" aria-label="3 / 6" data-swiper-slide-index="2" style="width: 451px; margin-right: 24px;">
+<img src="//shift-sketch.myshopify.com/cdn/shop/files/03-product-02.jpg?v=1770805410&amp;width=1427" alt="" srcset="//shift-sketch.myshopify.com/cdn/shop/files/03-product-02.jpg?v=1770805410&amp;width=550 550w, //shift-sketch.myshopify.com/cdn/shop/files/03-product-02.jpg?v=1770805410&amp;width=720 720w, //shift-sketch.myshopify.com/cdn/shop/files/03-product-02.jpg?v=1770805410&amp;width=990 990w, //shift-sketch.myshopify.com/cdn/shop/files/03-product-02.jpg?v=1770805410&amp;width=1200 1200w" width="1427" height="1760" loading="lazy" class="image-gallery__slide-image" sizes="100vw" style="object-position: 50.0% 50.0%;" fetchpriority="auto">
+<div class="image-gallery__slide-overlay" style="opacity: 0.0"></div>
+          </div><div class="image-gallery__slide image-gallery__slide-image_gallery_slide_ytGNxy swiper-slide" data-swiper-autoplay="5000" role="group" aria-label="4 / 6" data-swiper-slide-index="3" style="width: 451px; margin-right: 24px;">
+<img src="//shift-sketch.myshopify.com/cdn/shop/files/03-product-03.jpg?v=1770805410&amp;width=1824" alt="" srcset="//shift-sketch.myshopify.com/cdn/shop/files/03-product-03.jpg?v=1770805410&amp;width=550 550w, //shift-sketch.myshopify.com/cdn/shop/files/03-product-03.jpg?v=1770805410&amp;width=720 720w, //shift-sketch.myshopify.com/cdn/shop/files/03-product-03.jpg?v=1770805410&amp;width=990 990w, //shift-sketch.myshopify.com/cdn/shop/files/03-product-03.jpg?v=1770805410&amp;width=1200 1200w, //shift-sketch.myshopify.com/cdn/shop/files/03-product-03.jpg?v=1770805410&amp;width=1500 1500w, //shift-sketch.myshopify.com/cdn/shop/files/03-product-03.jpg?v=1770805410&amp;width=1800 1800w" width="1824" height="2251" loading="lazy" class="image-gallery__slide-image" sizes="100vw" style="object-position: 50.0% 50.0%;" fetchpriority="auto">
+<div class="image-gallery__slide-overlay" style="opacity: 0.0"></div>
+          </div></div><div class="no-js-hidden image-gallery__cursor" style="color: ">Pagina successiva</div><span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
+
+    
+  </div>
+</div>
+
+
+</section>
+```

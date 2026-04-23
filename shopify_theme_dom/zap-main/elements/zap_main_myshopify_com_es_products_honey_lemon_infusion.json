@@ -1,0 +1,118 @@
+{
+  "pageUrl": "https://zap-main.myshopify.com/es/products/honey-lemon-infusion",
+  "pageTitle": "Infusión de miel y limón",
+  "pageSlug": "zap_main_myshopify_com_es_products_honey_lemon_infusion",
+  "sections": [
+    {
+      "refId": "zap_main_myshopify_com_es_products_honey_lemon_infusion__section_01",
+      "index": 1,
+      "selectorHint": "#shopify-section-template--25743036940607__main-product",
+      "typeGuess": "hero",
+      "patternTags": [
+        "hero-candidate",
+        "top-of-page",
+        "image-heavy",
+        "slider",
+        "cta-cluster",
+        "card-grid",
+        "product-commerce",
+        "editorial-media"
+      ],
+      "headingSample": [
+        "Infusión de miel y limón"
+      ],
+      "textSample": ".section-template--25743036940607__main-product-padding { padding-top: 2.4rem; padding-bottom: 5rem; } @media screen and (min-width: 750px) { .section-template--25743036940607__main-product-padding { padding-top: 3.2rem; padding-bottom: 7.2rem; } } @media screen and (min-width: 1",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_es_products_honey_lemon_infusion/zap_main_myshopify_com_es_products_honey_lemon_infusion__section_01.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/pages/zap_main_myshopify_com_es_products_honey_lemon_infusion.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/pages/zap_main_myshopify_com_es_products_honey_lemon_infusion.json"
+    },
+    {
+      "refId": "zap_main_myshopify_com_es_products_honey_lemon_infusion__section_02",
+      "index": 2,
+      "selectorHint": "#shopify-section-template--25743036940607__ticker_banner_bF3HUC",
+      "typeGuess": "content-section",
+      "patternTags": [
+        "category-navigation"
+      ],
+      "headingSample": [],
+      "textSample": "#shopify-section-template--25743036940607__ticker_banner_bF3HUC { padding-top: 0; padding-bottom: 0; } @media screen and (min-width: 750px) { #shopify-section-template--25743036940607__ticker_banner_bF3HUC { padding-top: 0; padding-bottom: 0; } } @media screen and (min-width: 136",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_es_products_honey_lemon_infusion/zap_main_myshopify_com_es_products_honey_lemon_infusion__section_02.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/pages/zap_main_myshopify_com_es_products_honey_lemon_infusion.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/pages/zap_main_myshopify_com_es_products_honey_lemon_infusion.json"
+    },
+    {
+      "refId": "zap_main_myshopify_com_es_products_honey_lemon_infusion__section_03",
+      "index": 3,
+      "selectorHint": "#shopify-section-template--25743036940607__image_with_text_FNfrjr",
+      "typeGuess": "editorial-media",
+      "patternTags": [
+        "editorial-media"
+      ],
+      "headingSample": [
+        "Energía",
+        "Ánimo",
+        "Enfocar",
+        "Inmunidad"
+      ],
+      "textSample": ".section-template--25743036940607__image_with_text_FNfrjr-padding { padding-top: 5rem; padding-bottom: 5rem; } @media screen and (min-width: 750px) { .section-template--25743036940607__image_with_text_FNfrjr-padding { padding-top: 7.2rem; padding-bottom: 7.2rem; } } @media screen",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_es_products_honey_lemon_infusion/zap_main_myshopify_com_es_products_honey_lemon_infusion__section_03.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/pages/zap_main_myshopify_com_es_products_honey_lemon_infusion.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/pages/zap_main_myshopify_com_es_products_honey_lemon_infusion.json"
+    },
+    {
+      "refId": "zap_main_myshopify_com_es_products_honey_lemon_infusion__section_04",
+      "index": 4,
+      "selectorHint": "#shopify-section-template--25743036940607__benefits_Hn7Wxx",
+      "typeGuess": "content-section",
+      "patternTags": [],
+      "headingSample": [
+        "Delicioso.Refrescante.Cero compensaciones."
+      ],
+      "textSample": ".section-template--25743036940607__benefits_Hn7Wxx-padding { padding-top: 5rem; padding-bottom: 5rem; } @media screen and (min-width: 750px) { .section-template--25743036940607__benefits_Hn7Wxx-padding { padding-top: 7.2rem; padding-bottom: 7.2rem; } } @media screen and (min-widt",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_es_products_honey_lemon_infusion/zap_main_myshopify_com_es_products_honey_lemon_infusion__section_04.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/pages/zap_main_myshopify_com_es_products_honey_lemon_infusion.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/pages/zap_main_myshopify_com_es_products_honey_lemon_infusion.json"
+    },
+    {
+      "refId": "zap_main_myshopify_com_es_products_honey_lemon_infusion__section_05",
+      "index": 5,
+      "selectorHint": "#shopify-section-template--25743036940607__media_banner_slider_h8ApBn",
+      "typeGuess": "editorial-media",
+      "patternTags": [
+        "image-heavy",
+        "slider",
+        "cta-cluster",
+        "editorial-media"
+      ],
+      "headingSample": [],
+      "textSample": ".section-template--25743036940607__media_banner_slider_h8ApBn-padding { padding-top: 0; padding-bottom: 0; } @media screen and (min-width: 750px) { .section-template--25743036940607__media_banner_slider_h8ApBn-padding { padding-top: 0; padding-bottom: 0; } } @media screen and (mi",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_es_products_honey_lemon_infusion/zap_main_myshopify_com_es_products_honey_lemon_infusion__section_05.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/pages/zap_main_myshopify_com_es_products_honey_lemon_infusion.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/pages/zap_main_myshopify_com_es_products_honey_lemon_infusion.json"
+    },
+    {
+      "refId": "zap_main_myshopify_com_es_products_honey_lemon_infusion__section_06",
+      "index": 6,
+      "selectorHint": "#shopify-section-template--25743036940607__testimonials",
+      "typeGuess": "product-grid",
+      "patternTags": [
+        "image-heavy",
+        "slider",
+        "cta-cluster",
+        "card-grid",
+        "product-commerce",
+        "editorial-media"
+      ],
+      "headingSample": [
+        "Infusión de miel y limón",
+        "Energía original",
+        "Enfriador de pasión",
+        "Caja de luz"
+      ],
+      "textSample": ".section-template--25743036940607__testimonials-padding { padding-top: 5rem; padding-bottom: 5rem; } @media screen and (min-width: 750px) { .section-template--25743036940607__testimonials-padding { padding-top: 7.2rem; padding-bottom: 7.2rem; } } @media screen and (min-width: 136",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_es_products_honey_lemon_infusion/zap_main_myshopify_com_es_products_honey_lemon_infusion__section_06.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/pages/zap_main_myshopify_com_es_products_honey_lemon_infusion.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/pages/zap_main_myshopify_com_es_products_honey_lemon_infusion.json"
+    }
+  ]
+}

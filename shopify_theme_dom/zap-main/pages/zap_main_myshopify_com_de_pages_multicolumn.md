@@ -1,0 +1,359 @@
+# Shopify page scrape
+
+- URL: https://zap-main.myshopify.com/de/pages/multicolumn
+- Title: Multicolumn
+- Body classes: template-page template-page-features-multicolumn
+- Custom elements: burger-menu, cart-drawer, cart-drawer-items, cart-note, header-search, localization-form, predictive-search, product-card-small, shop-cart-sync, sticky-header
+- Headings: Honig-Zitronen-Aufguss | Leuchtkasten | Entdeckerbox | Honig-Zitronen-Aufguss | Leuchtkasten | Entdeckerbox | Subscribe to our Newsletter and Get 15% off your first order | Multicolumn | A flavor for every mood | Natural Energy | Daily Immunity | Evening Calm | A flavor for every mood | Natural Energy | Evening Calm | Über uns | Produkte | Produkte | Kundendienst | Kundendienst | Information | Information
+
+## 1. shopify-section-template--26224066298175__main
+
+- Tag: section
+- Classes: shopify-section page-section
+- Headings: Multicolumn
+
+```html
+<section id="shopify-section-template--26224066298175__main" class="shopify-section page-section"><link href="//zap-main.myshopify.com/cdn/shop/t/2/assets/section-main-page.css?v=165534704276754180541772782652" rel="stylesheet" type="text/css" media="all">
+<style data-shopify="">.section-template--26224066298175__main-padding {
+
+  padding-top: 4rem;
+
+
+
+  padding-bottom: 0;
+
+}
+
+@media screen and (min-width: 750px) { .section-template--26224066298175__main-padding {
+
+  padding-top: 5rem;
+
+
+
+  padding-bottom: 0;
+
+} }
+
+@media screen and (min-width: 1360px) { .section-template--26224066298175__main-padding {
+
+  padding-top: 8rem;
+
+
+
+  padding-bottom: 0;
+
+} }
+
+</style><div class="section-template--26224066298175__main-padding container page-width--narrow">
+  <div class="page-header">
+    <div class="page-header__inner">
+      <h1 class="main-page-title page-title title--page h2">Multicolumn</h1>
+    </div>
+  </div>
+  <div class="rte">
+    
+  </div>
+</div>
+
+
+</section>
+```
+
+## 2. shopify-section-template--26224066298175__multicolumn_VJXqJ9
+
+- Tag: section
+- Classes: shopify-section spaced-section multicolumn-section anim-active
+- Headings: A flavor for every mood | Natural Energy | Daily Immunity | Evening Calm
+
+```html
+<section id="shopify-section-template--26224066298175__multicolumn_VJXqJ9" class="shopify-section spaced-section multicolumn-section anim-active"><link href="//zap-main.myshopify.com/cdn/shop/t/2/assets/section-multicolumn.css?v=155717221334045274841772782653" rel="stylesheet" type="text/css" media="all">
+
+
+<script src="//zap-main.myshopify.com/cdn/shop/t/2/assets/multicolumn.js?v=68407897684888755231774260005" defer="defer"></script><style data-shopify="">
+  .section-template--26224066298175__multicolumn_VJXqJ9-padding {
+
+  padding-top: 5rem;
+
+
+
+  padding-bottom: 5rem;
+
+}
+
+@media screen and (min-width: 750px) { .section-template--26224066298175__multicolumn_VJXqJ9-padding {
+
+  padding-top: 7.2rem;
+
+
+
+  padding-bottom: 7.2rem;
+
+} }
+
+@media screen and (min-width: 1360px) { .section-template--26224066298175__multicolumn_VJXqJ9-padding {
+
+  padding-top: 10rem;
+
+
+
+  padding-bottom: 10rem;
+
+} }
+
+  #shopify-section-template--26224066298175__multicolumn_VJXqJ9 {
+
+  padding-top: 0;
+
+
+
+  padding-bottom: 0;
+
+}
+
+@media screen and (min-width: 750px) { #shopify-section-template--26224066298175__multicolumn_VJXqJ9 {
+
+  padding-top: 0;
+
+
+
+  padding-bottom: 0;
+
+} }
+
+@media screen and (min-width: 1360px) { #shopify-section-template--26224066298175__multicolumn_VJXqJ9 {
+
+  padding-top: 0;
+
+
+
+  padding-bottom: 0;
+
+
+} }
+
+</style>
+<style data-shopify="">.section-template--26224066298175__multicolumn_VJXqJ9-padding .multicolumn-grid__wrapper {
+    --row_gap: 2.4rem;
+    --column_gap: 2.4rem;
+  }</style><style data-shopify="">
+    #shopify-section-template--26224066298175__multicolumn_VJXqJ9 [data-enable-header-animation] .multicolumn__heading .word {
+      opacity: 0;
+      transform: translateY(20px);
+      display: inline-block;
+      white-space: nowrap;
+    }
+
+    #shopify-section-template--26224066298175__multicolumn_VJXqJ9 [data-enable-header-animation] .multicolumn__description {
+      opacity: 0;
+      transform: translateY(20px);
+    }
+
+    #shopify-section-template--26224066298175__multicolumn_VJXqJ9.anim-active [data-enable-header-animation] .multicolumn__heading .word {
+      animation: fadeInWord 0.4s cubic-bezier(0.5, 0, 0, 1) forwards;
+      animation-delay: calc(var(--heading-delay) + (var(--word-index) * 0.1s));
+    }
+
+    #shopify-section-template--26224066298175__multicolumn_VJXqJ9.anim-active [data-enable-header-animation] .multicolumn__description {
+      animation: fadeInUp 0.4s cubic-bezier(0.5, 0, 0, 1) forwards;
+      animation-delay: var(--description-delay);
+    }
+  </style>
+<div class="multicolumn color-background-1  multicolumn--border-top background section-template--26224066298175__multicolumn_VJXqJ9-padding" data-enable-header-animation="true" style="--heading-delay: 0s; --description-delay: 0.5s;">
+  <div class="container"><div class="multicolumn__header multicolumn__header--center"><h2 class="multicolumn__heading h2"><span class="word" style="--word-index: 0">A</span> <span class="word" style="--word-index: 1">flavor</span> <span class="word" style="--word-index: 2">for</span> <span class="word" style="--word-index: 3">every</span> <span class="word" style="--word-index: 4">mood</span></h2><p class="multicolumn__description body-normal">From tangy citrus to sweet berries and earthy greens — explore our range of deliciously functional drinks.</p></div>
+      <div class="content multicolumn-grid">
+        <div class="multicolumn-grid__wrapper multicolumn-grid__wrapper--3">
+          
+<div class="multicolumn-card"><a href="/de/collections" class="multicolumn-card__link"></a>
+<div class="multicolumn-card__image-wrapper multicolumn-card__image-wrapper--round multicolumn-card__image-wrapper--square"><img src="//zap-main.myshopify.com/cdn/shop/files/02-blog-06.jpg?v=1765973686&amp;width=1754" alt="" srcset="//zap-main.myshopify.com/cdn/shop/files/02-blog-06.jpg?v=1765973686&amp;width=40 40w, //zap-main.myshopify.com/cdn/shop/files/02-blog-06.jpg?v=1765973686&amp;width=80 80w, //zap-main.myshopify.com/cdn/shop/files/02-blog-06.jpg?v=1765973686&amp;width=120 120w, //zap-main.myshopify.com/cdn/shop/files/02-blog-06.jpg?v=1765973686&amp;width=240 240w, //zap-main.myshopify.com/cdn/shop/files/02-blog-06.jpg?v=1765973686&amp;width=300 300w, //zap-main.myshopify.com/cdn/shop/files/02-blog-06.jpg?v=1765973686&amp;width=360 360w, //zap-main.myshopify.com/cdn/shop/files/02-blog-06.jpg?v=1765973686&amp;width=535 535w, //zap-main.myshopify.com/cdn/shop/files/02-blog-06.jpg?v=1765973686&amp;width=600 600w, //zap-main.myshopify.com/cdn/shop/files/02-blog-06.jpg?v=1765973686&amp;width=720 720w, //zap-main.myshopify.com/cdn/shop/files/02-blog-06.jpg?v=1765973686&amp;width=940 940w, //zap-main.myshopify.com/cdn/shop/files/02-blog-06.jpg?v=1765973686&amp;width=1200 1200w, //zap-main.myshopify.com/cdn/shop/files/02-blog-06.jpg?v=1765973686&amp;width=1400 1400w, //zap-main.myshopify.com/cdn/shop/files/02-blog-06.jpg?v=1765973686&amp;width=1600 1600w" width="1754" height="1584" loading="lazy" sizes="(min-width: 1440px) calc(1 * 406px), (min-width: 1200px) calc(1 * 28vw), (min-width: 990px) calc(1 * 30vw), (min-width: 750px) calc(1 * 46vw), (min-width: 576px) calc(1 * 45vw), 91vw" style="object-fit: cover;" class="multicolumn-card__image">
+                  </div><div class="multicolumn-card__content multicolumn-card__content--center"><h3 class="multicolumn-card__heading h4 multicolumn-card__heading--font-heading">Natural Energy</h3><p class="multicolumn-card__text body-normal">A smooth caffeine-free blend of guarana and citrus to wake you up naturally without the jitters.</p></div></div>
+            
+          
+<div class="multicolumn-card">
+<div class="multicolumn-card__image-wrapper multicolumn-card__image-wrapper--round multicolumn-card__image-wrapper--square"><img src="//zap-main.myshopify.com/cdn/shop/files/02-merchandize-01.jpg?v=1765829793&amp;width=2026" alt="" srcset="//zap-main.myshopify.com/cdn/shop/files/02-merchandize-01.jpg?v=1765829793&amp;width=40 40w, //zap-main.myshopify.com/cdn/shop/files/02-merchandize-01.jpg?v=1765829793&amp;width=80 80w, //zap-main.myshopify.com/cdn/shop/files/02-merchandize-01.jpg?v=1765829793&amp;width=120 120w, //zap-main.myshopify.com/cdn/shop/files/02-merchandize-01.jpg?v=1765829793&amp;width=240 240w, //zap-main.myshopify.com/cdn/shop/files/02-merchandize-01.jpg?v=1765829793&amp;width=300 300w, //zap-main.myshopify.com/cdn/shop/files/02-merchandize-01.jpg?v=1765829793&amp;width=360 360w, //zap-main.myshopify.com/cdn/shop/files/02-merchandize-01.jpg?v=1765829793&amp;width=535 535w, //zap-main.myshopify.com/cdn/shop/files/02-merchandize-01.jpg?v=1765829793&amp;width=600 600w, //zap-main.myshopify.com/cdn/shop/files/02-merchandize-01.jpg?v=1765829793&amp;width=720 720w, //zap-main.myshopify.com/cdn/shop/files/02-merchandize-01.jpg?v=1765829793&amp;width=940 940w, //zap-main.myshopify.com/cdn/shop/files/02-merchandize-01.jpg?v=1765829793&amp;width=1200 1200w, //zap-main.myshopify.com/cdn/shop/files/02-merchandize-01.jpg?v=1765829793&amp;width=1400 1400w, //zap-main.myshopify.com/cdn/shop/files/02-merchandize-01.jpg?v=1765829793&amp;width=1600 1600w, //zap-main.myshopify.com/cdn/shop/files/02-merchandize-01.jpg?v=1765829793&amp;width=1800 1800w, //zap-main.myshopify.com/cdn/shop/files/02-merchandize-01.jpg?v=1765829793&amp;width=2000 2000w" width="2026" height="1664" loading="lazy" sizes="(min-width: 1440px) calc(1 * 406px), (min-width: 1200px) calc(1 * 28vw), (min-width: 990px) calc(1 * 30vw), (min-width: 750px) calc(1 * 46vw), (min-width: 576px) calc(1 * 45vw), 91vw" style="object-fit: cover;" class="multicolumn-card__image">
+                  </div><div class="multicolumn-card__content multicolumn-card__content--center"><h3 class="multicolumn-card__heading h4 multicolumn-card__heading--font-heading">Daily Immunity</h3><p class="multicolumn-card__text body-normal">Packed with vitamin C, zinc, and elderberry to support your immune system every day.</p></div></div>
+            
+          
+<div class="multicolumn-card">
+<div class="multicolumn-card__image-wrapper multicolumn-card__image-wrapper--round multicolumn-card__image-wrapper--square"><img src="//zap-main.myshopify.com/cdn/shop/files/02-our.story.jpg?v=1765806289&amp;width=2048" alt="" srcset="//zap-main.myshopify.com/cdn/shop/files/02-our.story.jpg?v=1765806289&amp;width=40 40w, //zap-main.myshopify.com/cdn/shop/files/02-our.story.jpg?v=1765806289&amp;width=80 80w, //zap-main.myshopify.com/cdn/shop/files/02-our.story.jpg?v=1765806289&amp;width=120 120w, //zap-main.myshopify.com/cdn/shop/files/02-our.story.jpg?v=1765806289&amp;width=240 240w, //zap-main.myshopify.com/cdn/shop/files/02-our.story.jpg?v=1765806289&amp;width=300 300w, //zap-main.myshopify.com/cdn/shop/files/02-our.story.jpg?v=1765806289&amp;width=360 360w, //zap-main.myshopify.com/cdn/shop/files/02-our.story.jpg?v=1765806289&amp;width=535 535w, //zap-main.myshopify.com/cdn/shop/files/02-our.story.jpg?v=1765806289&amp;width=600 600w, //zap-main.myshopify.com/cdn/shop/files/02-our.story.jpg?v=1765806289&amp;width=720 720w, //zap-main.myshopify.com/cdn/shop/files/02-our.story.jpg?v=1765806289&amp;width=940 940w, //zap-main.myshopify.com/cdn/shop/files/02-our.story.jpg?v=1765806289&amp;width=1200 1200w, //zap-main.myshopify.com/cdn/shop/files/02-our.story.jpg?v=1765806289&amp;width=1400 1400w, //zap-main.myshopify.com/cdn/shop/files/02-our.story.jpg?v=1765806289&amp;width=1600 1600w, //zap-main.myshopify.com/cdn/shop/files/02-our.story.jpg?v=1765806289&amp;width=1800 1800w, //zap-main.myshopify.com/cdn/shop/files/02-our.story.jpg?v=1765806289&amp;width=2000 2000w" width="2048" height="2048" loading="lazy" sizes="(min-width: 1440px) calc(1 * 406px), (min-width: 1200px) calc(1 * 28vw), (min-width: 990px) calc(1 * 30vw), (min-width: 750px) calc(1 * 46vw), (min-width: 576px) calc(1 * 45vw), 91vw" style="object-fit: cover;" class="multicolumn-card__image">
+                  </div><div class="multicolumn-card__content multicolumn-card__content--center"><h3 class="multicolumn-card__heading h4 multicolumn-card__heading--font-heading">Evening Calm</h3><p class="multicolumn-card__text body-normal">A soothing mix of chamomile, lavender, and magnesium to help you unwind and sleep better.</p></div></div>
+            
+          
+        </div>
+      </div>
+    
+<div class="multicolumn-buttons multicolumn-buttons--center">
+        
+
+
+
+
+  <a href="/de/collections" aria-label="Shop Now" class="button button--primary multicolumn__button">
+    <div class="button__content">
+      <span class="button__label" data-label="Shop Now">Shop Now</span>
+    </div>
+    
+      <span class="animated-button-circle"></span>
+    
+  </a>
+
+
+      </div></div>
+</div>
+
+
+</section>
+```
+
+## 3. shopify-section-template--26224066298175__multicolumn_W3m4hh
+
+- Tag: section
+- Classes: shopify-section spaced-section multicolumn-section anim-active
+- Headings: A flavor for every mood | Natural Energy | Evening Calm
+
+```html
+<section id="shopify-section-template--26224066298175__multicolumn_W3m4hh" class="shopify-section spaced-section multicolumn-section anim-active"><link href="//zap-main.myshopify.com/cdn/shop/t/2/assets/section-multicolumn.css?v=155717221334045274841772782653" rel="stylesheet" type="text/css" media="all">
+
+
+<script src="//zap-main.myshopify.com/cdn/shop/t/2/assets/multicolumn.js?v=68407897684888755231774260005" defer="defer"></script><style data-shopify="">
+  .section-template--26224066298175__multicolumn_W3m4hh-padding {
+
+  padding-top: 5rem;
+
+
+
+  padding-bottom: 6.4rem;
+
+}
+
+@media screen and (min-width: 750px) { .section-template--26224066298175__multicolumn_W3m4hh-padding {
+
+  padding-top: 7.2rem;
+
+
+
+  padding-bottom: 8.8rem;
+
+} }
+
+@media screen and (min-width: 1360px) { .section-template--26224066298175__multicolumn_W3m4hh-padding {
+
+  padding-top: 10rem;
+
+
+
+  padding-bottom: 15rem;
+
+} }
+
+  #shopify-section-template--26224066298175__multicolumn_W3m4hh {
+
+  padding-top: 0;
+
+
+
+  padding-bottom: 0;
+
+}
+
+@media screen and (min-width: 750px) { #shopify-section-template--26224066298175__multicolumn_W3m4hh {
+
+  padding-top: 0;
+
+
+
+  padding-bottom: 0;
+
+} }
+
+@media screen and (min-width: 1360px) { #shopify-section-template--26224066298175__multicolumn_W3m4hh {
+
+  padding-top: 0;
+
+
+
+  padding-bottom: 0;
+
+
+} }
+
+</style>
+<style data-shopify="">.section-template--26224066298175__multicolumn_W3m4hh-padding .multicolumn-grid__wrapper {
+    --row_gap: 3.2rem;
+    --column_gap: 3.2rem;
+  }</style><style data-shopify="">
+    #shopify-section-template--26224066298175__multicolumn_W3m4hh [data-enable-header-animation] .multicolumn__heading .word {
+      opacity: 0;
+      transform: translateY(20px);
+      display: inline-block;
+      white-space: nowrap;
+    }
+
+    #shopify-section-template--26224066298175__multicolumn_W3m4hh [data-enable-header-animation] .multicolumn__description {
+      opacity: 0;
+      transform: translateY(20px);
+    }
+
+    #shopify-section-template--26224066298175__multicolumn_W3m4hh.anim-active [data-enable-header-animation] .multicolumn__heading .word {
+      animation: fadeInWord 0.4s cubic-bezier(0.5, 0, 0, 1) forwards;
+      animation-delay: calc(var(--heading-delay) + (var(--word-index) * 0.1s));
+    }
+
+    #shopify-section-template--26224066298175__multicolumn_W3m4hh.anim-active [data-enable-header-animation] .multicolumn__description {
+      animation: fadeInUp 0.4s cubic-bezier(0.5, 0, 0, 1) forwards;
+      animation-delay: var(--description-delay);
+    }
+  </style>
+<div class="multicolumn color-background-1  multicolumn--border-top multicolumn--border-bottom background section-template--26224066298175__multicolumn_W3m4hh-padding" data-enable-header-animation="true" style="--heading-delay: 0s; --description-delay: 0.5s;">
+  <div class="container"><div class="multicolumn__header multicolumn__header--center"><h2 class="multicolumn__heading h2"><span class="word" style="--word-index: 0">A</span> <span class="word" style="--word-index: 1">flavor</span> <span class="word" style="--word-index: 2">for</span> <span class="word" style="--word-index: 3">every</span> <span class="word" style="--word-index: 4">mood</span></h2><p class="multicolumn__description body-normal">From tangy citrus to sweet berries and earthy greens — explore our range of deliciously functional drinks.</p></div>
+      <div class="content multicolumn-grid">
+        <div class="multicolumn-grid__wrapper multicolumn-grid__wrapper--2">
+          
+<div class="multicolumn-card"><a href="/de/collections" class="multicolumn-card__link"></a>
+<div class="multicolumn-card__image-wrapper multicolumn-card__image-wrapper--sharp multicolumn-card__image-wrapper--square"><img src="//zap-main.myshopify.com/cdn/shop/files/02-blog-06.jpg?v=1765973686&amp;width=1754" alt="" srcset="//zap-main.myshopify.com/cdn/shop/files/02-blog-06.jpg?v=1765973686&amp;width=40 40w, //zap-main.myshopify.com/cdn/shop/files/02-blog-06.jpg?v=1765973686&amp;width=80 80w, //zap-main.myshopify.com/cdn/shop/files/02-blog-06.jpg?v=1765973686&amp;width=120 120w, //zap-main.myshopify.com/cdn/shop/files/02-blog-06.jpg?v=1765973686&amp;width=240 240w, //zap-main.myshopify.com/cdn/shop/files/02-blog-06.jpg?v=1765973686&amp;width=300 300w, //zap-main.myshopify.com/cdn/shop/files/02-blog-06.jpg?v=1765973686&amp;width=360 360w, //zap-main.myshopify.com/cdn/shop/files/02-blog-06.jpg?v=1765973686&amp;width=535 535w, //zap-main.myshopify.com/cdn/shop/files/02-blog-06.jpg?v=1765973686&amp;width=600 600w, //zap-main.myshopify.com/cdn/shop/files/02-blog-06.jpg?v=1765973686&amp;width=720 720w, //zap-main.myshopify.com/cdn/shop/files/02-blog-06.jpg?v=1765973686&amp;width=940 940w, //zap-main.myshopify.com/cdn/shop/files/02-blog-06.jpg?v=1765973686&amp;width=1200 1200w, //zap-main.myshopify.com/cdn/shop/files/02-blog-06.jpg?v=1765973686&amp;width=1400 1400w, //zap-main.myshopify.com/cdn/shop/files/02-blog-06.jpg?v=1765973686&amp;width=1600 1600w" width="1754" height="1584" loading="lazy" sizes="(min-width: 1440px) calc(1 * 624px), (min-width: 1200px) calc(1 * 44vw), (min-width: 990px) calc(1 * 47vw), (min-width: 750px) calc(1 * 46vw), (min-width: 576px) 45vw, 91vw" style="object-fit: cover;" class="multicolumn-card__image">
+                  </div><div class="multicolumn-card__content multicolumn-card__content--center"><h3 class="multicolumn-card__heading h3 multicolumn-card__heading--font-heading">Natural Energy</h3><p class="multicolumn-card__text body-normal">A smooth caffeine-free blend of guarana and citrus to wake you up naturally without the jitters.</p></div>
+
+
+
+
+  <a href="/de/collections" aria-label="Learn more" class="button button--primary multicolumn-card__button">
+    <div class="button__content">
+      <span class="button__label" data-label="Learn more">Learn more</span>
+    </div>
+    
+      <span class="animated-button-circle"></span>
+    
+  </a>
+
+
+</div>
+            
+          
+<div class="multicolumn-card"><a href="/de/collections" class="multicolumn-card__link"></a>
+<div class="multicolumn-card__image-wrapper multicolumn-card__image-wrapper--sharp multicolumn-card__image-wrapper--square"><img src="//zap-main.myshopify.com/cdn/shop/files/02-our.story.jpg?v=1765806289&amp;width=2048" alt="" srcset="//zap-main.myshopify.com/cdn/shop/files/02-our.story.jpg?v=1765806289&amp;width=40 40w, //zap-main.myshopify.com/cdn/shop/files/02-our.story.jpg?v=1765806289&amp;width=80 80w, //zap-main.myshopify.com/cdn/shop/files/02-our.story.jpg?v=1765806289&amp;width=120 120w, //zap-main.myshopify.com/cdn/shop/files/02-our.story.jpg?v=1765806289&amp;width=240 240w, //zap-main.myshopify.com/cdn/shop/files/02-our.story.jpg?v=1765806289&amp;width=300 300w, //zap-main.myshopify.com/cdn/shop/files/02-our.story.jpg?v=1765806289&amp;width=360 360w, //zap-main.myshopify.com/cdn/shop/files/02-our.story.jpg?v=1765806289&amp;width=535 535w, //zap-main.myshopify.com/cdn/shop/files/02-our.story.jpg?v=1765806289&amp;width=600 600w, //zap-main.myshopify.com/cdn/shop/files/02-our.story.jpg?v=1765806289&amp;width=720 720w, //zap-main.myshopify.com/cdn/shop/files/02-our.story.jpg?v=1765806289&amp;width=940 940w, //zap-main.myshopify.com/cdn/shop/files/02-our.story.jpg?v=1765806289&amp;width=1200 1200w, //zap-main.myshopify.com/cdn/shop/files/02-our.story.jpg?v=1765806289&amp;width=1400 1400w, //zap-main.myshopify.com/cdn/shop/files/02-our.story.jpg?v=1765806289&amp;width=1600 1600w, //zap-main.myshopify.com/cdn/shop/files/02-our.story.jpg?v=1765806289&amp;width=1800 1800w, //zap-main.myshopify.com/cdn/shop/files/02-our.story.jpg?v=1765806289&amp;width=2000 2000w" width="2048" height="2048" loading="lazy" sizes="(min-width: 1440px) calc(1 * 624px), (min-width: 1200px) calc(1 * 44vw), (min-width: 990px) calc(1 * 47vw), (min-width: 750px) calc(1 * 46vw), (min-width: 576px) 45vw, 91vw" style="object-fit: cover;" class="multicolumn-card__image">
+                  </div><div class="multicolumn-card__content multicolumn-card__content--center"><h3 class="multicolumn-card__heading h3 multicolumn-card__heading--font-heading">Evening Calm</h3><p class="multicolumn-card__text body-normal">A soothing mix of chamomile, lavender, and magnesium to help you unwind and sleep better.</p></div>
+
+
+
+
+  <a href="/de/collections" aria-label="Learn more" class="button button--primary multicolumn-card__button">
+    <div class="button__content">
+      <span class="button__label" data-label="Learn more">Learn more</span>
+    </div>
+    
+      <span class="animated-button-circle"></span>
+    
+  </a>
+
+
+</div>
+            
+          
+        </div>
+      </div>
+    
+</div>
+</div>
+
+
+</section>
+```

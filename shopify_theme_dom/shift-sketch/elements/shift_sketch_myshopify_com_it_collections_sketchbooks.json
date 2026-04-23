@@ -1,0 +1,36 @@
+{
+  "pageUrl": "https://shift-sketch.myshopify.com/it/collections/sketchbooks",
+  "pageTitle": "Taccuini da disegno – Shift Sketch",
+  "pageSlug": "shift_sketch_myshopify_com_it_collections_sketchbooks",
+  "sections": [
+    {
+      "refId": "shift_sketch_myshopify_com_it_collections_sketchbooks__section_01",
+      "index": 1,
+      "selectorHint": "#shopify-section-template--27266934243703__product-grid",
+      "typeGuess": "hero",
+      "patternTags": [
+        "hero-candidate",
+        "top-of-page",
+        "image-heavy",
+        "slider",
+        "cta-cluster",
+        "card-grid",
+        "product-commerce",
+        "category-navigation",
+        "editorial-media"
+      ],
+      "headingSample": [
+        "Collezione: Taccuini da disegno",
+        "Blocco da disegno compatto",
+        "Quaderno a blocchi neutri",
+        "Diario degli schizzi del modello S",
+        "Libro di bozza sul campo",
+        "Blocco da disegno della serie Pastel"
+      ],
+      "textSample": "#shopify-section-template--27266934243703__product-grid { padding-top: 0; padding-bottom: 8rem; } @media screen and (min-width: 750px) { #shopify-section-template--27266934243703__product-grid { padding-top: 0; padding-bottom: 12rem; } } @media screen and (min-width: 1440px) { #s",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/shift-sketch/elements/shift_sketch_myshopify_com_it_collections_sketchbooks/shift_sketch_myshopify_com_it_collections_sketchbooks__section_01.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/shift-sketch/pages/shift_sketch_myshopify_com_it_collections_sketchbooks.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/shift-sketch/pages/shift_sketch_myshopify_com_it_collections_sketchbooks.json"
+    }
+  ]
+}

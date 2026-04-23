@@ -1,0 +1,81 @@
+{
+  "pageUrl": "https://poetic-theme-jewelry.myshopify.com/products/astro-pearl-floating-necklace",
+  "pageTitle": "Astro Pearl Floating Necklace – Poetic Theme Jewelry",
+  "pageSlug": "poetic_theme_jewelry_myshopify_com_products_astro_pearl_floating_necklace",
+  "sections": [
+    {
+      "refId": "poetic_theme_jewelry_myshopify_com_products_astro_pearl_floating_necklace__section_01",
+      "index": 1,
+      "selectorHint": "#shopify-section-template--20973157482648__spacer_y8APwr",
+      "typeGuess": "content-section",
+      "patternTags": [
+        "top-of-page"
+      ],
+      "headingSample": [],
+      "textSample": "#spacer--template--20973157482648__spacer_y8APwr { padding-top: 30px; padding-bottom: 20px; --line-opacity: 0.1; } @media only screen and (max-width: 749px) { #spacer--template--20973157482648__spacer_y8APwr { padding-top: calc(30 * 0.6)px; padding-bottom: calc(20 * 0.6)px; } }",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/poetic-theme-jewelry/elements/poetic_theme_jewelry_myshopify_com_products_astro_pearl_floating_necklace/poetic_theme_jewelry_myshopify_com_products_astro_pearl_floating_necklace__section_01.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/poetic-theme-jewelry/pages/poetic_theme_jewelry_myshopify_com_products_astro_pearl_floating_necklace.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/poetic-theme-jewelry/pages/poetic_theme_jewelry_myshopify_com_products_astro_pearl_floating_necklace.json"
+    },
+    {
+      "refId": "poetic_theme_jewelry_myshopify_com_products_astro_pearl_floating_necklace__section_02",
+      "index": 2,
+      "selectorHint": "#shopify-section-template--20973157482648__main",
+      "typeGuess": "product-grid",
+      "patternTags": [
+        "image-heavy",
+        "slider",
+        "cta-cluster",
+        "card-grid",
+        "product-commerce",
+        "category-navigation",
+        "editorial-media"
+      ],
+      "headingSample": [
+        "Astro Pearl Floating Necklace",
+        "You may also like"
+      ],
+      "textSample": ".main-product-page { --section-padding-top: 0px; --section-padding-bottom: 30px; } .main-product-page .main-media-slider { min-width: 0; max-width: 100%; flex: 1; } .breadcrumbs { --breadscrumb-color: var(--text-icon-text); } .breadcrumbs__list { list-style-type: none; margin: 0;",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/poetic-theme-jewelry/elements/poetic_theme_jewelry_myshopify_com_products_astro_pearl_floating_necklace/poetic_theme_jewelry_myshopify_com_products_astro_pearl_floating_necklace__section_02.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/poetic-theme-jewelry/pages/poetic_theme_jewelry_myshopify_com_products_astro_pearl_floating_necklace.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/poetic-theme-jewelry/pages/poetic_theme_jewelry_myshopify_com_products_astro_pearl_floating_necklace.json"
+    },
+    {
+      "refId": "poetic_theme_jewelry_myshopify_com_products_astro_pearl_floating_necklace__section_03",
+      "index": 3,
+      "selectorHint": "#shopify-section-template--20973157482648__horizontal_tabs_PkdF98",
+      "typeGuess": "editorial-media",
+      "patternTags": [
+        "image-heavy",
+        "product-commerce",
+        "category-navigation",
+        "editorial-media"
+      ],
+      "headingSample": [],
+      "textSample": "#horizontal-tabs-template--20973157482648__horizontal_tabs_PkdF98 { --section-padding-top: 24px; --section-padding-bottom: 50px; } #template--20973157482648__horizontal_tabs_PkdF98, #template--20973157482648__horizontal_tabs_PkdF98 * { } Unique features of our products Design Wit",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/poetic-theme-jewelry/elements/poetic_theme_jewelry_myshopify_com_products_astro_pearl_floating_necklace/poetic_theme_jewelry_myshopify_com_products_astro_pearl_floating_necklace__section_03.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/poetic-theme-jewelry/pages/poetic_theme_jewelry_myshopify_com_products_astro_pearl_floating_necklace.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/poetic-theme-jewelry/pages/poetic_theme_jewelry_myshopify_com_products_astro_pearl_floating_necklace.json"
+    },
+    {
+      "refId": "poetic_theme_jewelry_myshopify_com_products_astro_pearl_floating_necklace__section_04",
+      "index": 4,
+      "selectorHint": "#shopify-section-template--20973157482648__related-products",
+      "typeGuess": "product-grid",
+      "patternTags": [
+        "image-heavy",
+        "slider",
+        "cta-cluster",
+        "card-grid",
+        "product-commerce",
+        "category-navigation",
+        "editorial-media"
+      ],
+      "headingSample": [],
+      "textSample": ".section-template--20973157482648__related-products-padding { padding-top: 38px; padding-bottom: 18px; } @media screen and (min-width: 750px) { .section-template--20973157482648__related-products-padding { padding-top: 50px; padding-bottom: 24px; } } Related products Recently vie",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/poetic-theme-jewelry/elements/poetic_theme_jewelry_myshopify_com_products_astro_pearl_floating_necklace/poetic_theme_jewelry_myshopify_com_products_astro_pearl_floating_necklace__section_04.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/poetic-theme-jewelry/pages/poetic_theme_jewelry_myshopify_com_products_astro_pearl_floating_necklace.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/poetic-theme-jewelry/pages/poetic_theme_jewelry_myshopify_com_products_astro_pearl_floating_necklace.json"
+    }
+  ]
+}

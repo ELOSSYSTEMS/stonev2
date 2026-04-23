@@ -1,0 +1,151 @@
+# Shopify page scrape
+
+- URL: https://elegance-canvas.myshopify.com/nl/pages/contact
+- Title: Contact – Elegance-canvas
+- Body classes: gradient
+- Custom elements: localization-form, predictive-search, shop-cart-sync
+- Headings: Winkelwagen | Je winkelwagen is leeg. | Zoekopdracht | Menu | Contact | Reach Out for an Exploration of Creative Art Works | Join our creative community
+
+## 1. shopify-section-template--19562841342134__contact_YwEcbj
+
+- Tag: section
+- Classes: shopify-section section-contact-form
+- Headings: Reach Out for an Exploration of Creative Art Works
+
+```html
+<section id="shopify-section-template--19562841342134__contact_YwEcbj" class="shopify-section section-contact-form"><style data-shopify="">.section-template--19562841342134__contact_YwEcbj-padding {
+    padding-top: 70px;
+    padding-bottom: 70px;
+  }
+
+  @media screen and (min-width: 768px) {
+    .section-template--19562841342134__contact_YwEcbj-padding {
+      padding-top: 105px;
+      padding-bottom: 105px;
+    }
+  }
+  @media screen and (min-width: 1200px) {
+    .section-template--19562841342134__contact_YwEcbj-padding {
+      padding-top: 140px;
+      padding-bottom: 140px;
+    }
+  }</style>
+
+
+
+
+
+
+<style data-shopify="">
+  .section-template--19562841342134__contact_YwEcbj .form-content #social_icons.d-flex{justify-content:center}
+  .section-template--19562841342134__contact_YwEcbj .form-content.form_second{flex-direction: column-reverse;}
+  .section-template--19562841342134__contact_YwEcbj .form-content .contact_details span.icons svg {width: 15px;height: 15px;}
+  .section-template--19562841342134__contact_YwEcbj .form-content .contact_details .left_map{min-height:500px;}
+  .section-template--19562841342134__contact_YwEcbj .form-content iframe{width:100%;}
+  @media screen and (min-width:992px){
+  .border-lg-start{border-left:var(--bs-input-border) solid rgba(var(--color-input-border)) !important;}
+  .border-lg-end{border-right:var(--bs-input-border) solid rgba(var(--color-input-border))!important;}
+  .section-template--19562841342134__contact_YwEcbj .form-content.form_second{flex-direction: row-reverse;}
+  }
+  @media (min-width: 576px) {
+  .section-template--19562841342134__contact_YwEcbj .form-content .title-container h2,.section-template--19562841342134__contact_YwEcbj .form-content .title-container
+  p:not(.caption) {max-width: 100%;}
+  }
+
+  
+  textarea.form-control{
+     border-radius: var(--bs-border-radius-xl) !important;
+  }
+  
+
+</style>
+
+
+
+
+<div class="color-scheme-1 gradient section-template--19562841342134__contact_YwEcbj section-template--19562841342134__contact_YwEcbj-padding">
+  <div class="container gx-sm-4">
+    <style data-shopify="">
+
+
+  .title-container{ margin-bottom:clamp(1.875rem, 1.625rem + 1.25vw, 3.125rem); }
+    @media (min-width: 576px) {
+       .title-container{
+        max-width:90%;
+      }
+   }
+    @media (max-width: 575.98px) {
+       .title-container{
+        max-width:100%;
+      }
+   }
+  
+
+  /* 
+     @media (min-width: 576px) {
+      .title-container{
+        max-width:90%;
+      }
+     }
+      */
+  
+</style>
+<div class="text-break title-container text-center mx-auto  "><h2 class="mx-auto col-11 col-lg-9 h1">
+        Reach Out for an Exploration of Creative Art Works
+      </h2></div>
+    <div class="
+        form-content row-gap-lg-5 row-gap-4 
+        
+        
+      ">
+      <div class="
+          form-container position-lg-sticky  col-12 col-lg-9 mx-lg-auto  
+
+          
+        ">
+        
+<div id="contact-form-container">
+  <form method="post" action="/nl/contact#contact_form" id="contact_form" accept-charset="UTF-8" class="contact-form"><input type="hidden" name="form_type" value="contact" style=""><input type="hidden" name="utf8" value="✓" style="">
+    
+<div class="row row-cols-1   row-cols-sm-2  ">
+      <div class="mb-4 mb-sm-5">
+        <h4 class="mb-0">
+          <label class="mb-3" for="first-name">Jouw naam *</label>
+        </h4>
+        <input type="text" class="form-control " name="contact[first_name]" id="first-name" placeholder="Jouw naam" required="" aria-required="true" style="">
+      </div>
+      <div class="mb-4 mb-sm-5">
+        <h4 class="mb-0">
+          <label class="mb-3" for="email">E-mail *</label>
+        </h4>
+        <input type="email" class="form-control " name="contact[email]" id="email" placeholder="Uw e-mailadres" pattern="^([a-zA-Z0-9_\-\+\.]+)@([a-zA-Z0-9_\-\.]+)\.([a-zA-Z]{2,9})$" required="" aria-required="true" style="">
+      </div>
+    </div>
+    <div class="mb-4 mb-sm-5">
+      <h4 class="mb-0">
+        <label class="mb-3" for="phone">Je telefoon *</label>
+      </h4>
+      <input type="tel" class="form-control " name="contact[phone]" id="phone" placeholder="Je telefoon" required="" aria-required="true" style="">
+    </div>
+    <div class="mb-4 mb-sm-5">
+      <h4 class="mb-0">
+        <label class="mb-3" for="message">Bericht *</label>
+      </h4>
+      <textarea class="form-control contact-message" name="contact[body]" id="message" rows="5" placeholder="Aanvullende informatie" required="" aria-required="true" style=""></textarea>
+    </div>
+    <div class="d-flex justify-content-center">
+      <button type="submit" class="btn btn-primary rounded-pill ">Bericht verzenden</button>
+    </div>
+  </form>
+</div>
+
+      </div>
+
+      <!-- form image -->
+      
+    </div>
+  </div>
+</div>
+
+</section>
+```

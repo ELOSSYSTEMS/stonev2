@@ -1,0 +1,68 @@
+{
+  "pageUrl": "https://www.allbirds.com/collections/mens",
+  "pageTitle": "Allbirds: Sustainable Men’s Shoes, Wear-All-Day Comfort",
+  "pageSlug": "www_allbirds_com_collections_mens",
+  "sections": [
+    {
+      "refId": "www_allbirds_com_collections_mens__section_01",
+      "index": 1,
+      "selectorHint": "#shopify-section-template--16198736805968__collection-header",
+      "typeGuess": "hero",
+      "patternTags": [
+        "hero-candidate",
+        "top-of-page",
+        "image-heavy",
+        "cta-cluster",
+        "category-navigation",
+        "editorial-media"
+      ],
+      "headingSample": [
+        "Men's Shoes"
+      ],
+      "textSample": "Home / Men's Shoes Men's Shoes Sustainable, supportive, and wildly comfortable, our sneakers are always ready when you are.",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/allbirds/elements/www_allbirds_com_collections_mens/www_allbirds_com_collections_mens__section_01.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/allbirds/pages/www_allbirds_com_collections_mens.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/allbirds/pages/www_allbirds_com_collections_mens.json"
+    },
+    {
+      "refId": "www_allbirds_com_collections_mens__section_02",
+      "index": 2,
+      "selectorHint": "#shopify-section-template--16198736805968__collection-product-grid",
+      "typeGuess": "product-grid",
+      "patternTags": [
+        "image-heavy",
+        "slider",
+        "cta-cluster",
+        "card-grid",
+        "product-commerce",
+        "category-navigation",
+        "editorial-media"
+      ],
+      "headingSample": [
+        "Select a size"
+      ],
+      "textSample": "Filter and Sortmenwomen Filter Collapse filters (42 products)Apply filtersmenwomen Featured Best selling Alphabetically, A-Z Alphabetically, Z-A Price, low to high Price, high to low Date, old to new Date, new to old Filter and Sort Sort ByFeaturedBest sellingAlphabetically, A-ZA",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/allbirds/elements/www_allbirds_com_collections_mens/www_allbirds_com_collections_mens__section_02.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/allbirds/pages/www_allbirds_com_collections_mens.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/allbirds/pages/www_allbirds_com_collections_mens.json"
+    },
+    {
+      "refId": "www_allbirds_com_collections_mens__section_03",
+      "index": 3,
+      "selectorHint": "#shopify-section-template--16198736805968__collection-faqs",
+      "typeGuess": "cta-section",
+      "patternTags": [
+        "cta-cluster",
+        "product-commerce",
+        "category-navigation"
+      ],
+      "headingSample": [
+        "Men's Shoes"
+      ],
+      "textSample": "Men's Shoes Find your perfect blend of style and comfort with our collection of men’s shoes for any occasion. From business casual days to meeting up with friends after work to taking on your favorite trail, our men’s shoes provide the ultimate in sustainable support for every st",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/allbirds/elements/www_allbirds_com_collections_mens/www_allbirds_com_collections_mens__section_03.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/allbirds/pages/www_allbirds_com_collections_mens.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/allbirds/pages/www_allbirds_com_collections_mens.json"
+    }
+  ]
+}

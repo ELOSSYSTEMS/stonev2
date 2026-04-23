@@ -1,0 +1,38 @@
+{
+  "pageUrl": "https://salt-yard.myshopify.com/",
+  "pageTitle": "Symmetry - Versatile, fashionable, professional, premium theme – Symmetry Theme Salt Yard",
+  "pageSlug": "salt_yard_myshopify_com",
+  "sections": [
+    {
+      "refId": "salt_yard_myshopify_com__section_01",
+      "index": 1,
+      "selectorHint": "div.container.cf",
+      "typeGuess": "hero",
+      "patternTags": [
+        "hero-candidate",
+        "top-of-page",
+        "video",
+        "image-heavy",
+        "slider",
+        "cta-cluster",
+        "card-grid",
+        "product-commerce",
+        "category-navigation",
+        "editorial-media",
+        "marquee"
+      ],
+      "headingSample": [
+        "Effortless design.Iconic brands.",
+        "Essentials",
+        "New Knitwear Arrivals",
+        "The Cropped Jean",
+        "Exude confidence",
+        "New Arrivals"
+      ],
+      "textSample": "#section-id-template--26857880027209__1594980584619 .height--fixed { --image-height: 560px; } @media (min-width: 768px) { #section-id-template--26857880027209__1594980584619 .height--fixed { --image-height: 800px; } } #section-id-template--26857880027209__1594980584619 .block-848",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com/salt_yard_myshopify_com__section_01.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/pages/salt_yard_myshopify_com.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/pages/salt_yard_myshopify_com.json"
+    }
+  ]
+}

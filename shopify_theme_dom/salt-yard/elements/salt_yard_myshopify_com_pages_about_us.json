@@ -1,0 +1,25 @@
+{
+  "pageUrl": "https://salt-yard.myshopify.com/pages/about-us",
+  "pageTitle": "Shopify premium mobile friendly ecommerce theme - try for FREE! – Symmetry Theme Salt Yard",
+  "pageSlug": "salt_yard_myshopify_com_pages_about_us",
+  "sections": [
+    {
+      "refId": "salt_yard_myshopify_com_pages_about_us__section_01",
+      "index": 1,
+      "selectorHint": "div.container.cf",
+      "typeGuess": "editorial-media",
+      "patternTags": [
+        "top-of-page",
+        "product-commerce",
+        "editorial-media"
+      ],
+      "headingSample": [
+        "About Us"
+      ],
+      "textSample": "About Us Our story began in 2001 in a small studio in the middle of nowhere. With only one desk and next to no free time, our brand was born. Our passion for unique design and collaboration brought our vision, and products, to life. Our products bring together the finest material",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_pages_about_us/salt_yard_myshopify_com_pages_about_us__section_01.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/pages/salt_yard_myshopify_com_pages_about_us.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/pages/salt_yard_myshopify_com_pages_about_us.json"
+    }
+  ]
+}

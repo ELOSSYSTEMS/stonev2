@@ -1,0 +1,34 @@
+{
+  "pageUrl": "https://shift-sketch.myshopify.com/it/pages/featured-products",
+  "pageTitle": "Prodotti in evidenza – Shift Sketch",
+  "pageSlug": "shift_sketch_myshopify_com_it_pages_featured_products",
+  "sections": [
+    {
+      "refId": "shift_sketch_myshopify_com_it_pages_featured_products__section_01",
+      "index": 1,
+      "selectorHint": "#shopify-section-template--28054268707191__featured_products_FnXqhP",
+      "typeGuess": "hero",
+      "patternTags": [
+        "hero-candidate",
+        "top-of-page",
+        "image-heavy",
+        "slider",
+        "cta-cluster",
+        "card-grid",
+        "product-commerce",
+        "category-navigation",
+        "editorial-media"
+      ],
+      "headingSample": [
+        "Abbozza, pianifica, crea",
+        "Productivity Planner Pro",
+        "Calendario da parete Organizer",
+        "Blocco note 01"
+      ],
+      "textSample": ".section-template--28054268707191__featured_products_FnXqhP-padding { padding-top: 2.4rem; padding-bottom: 6rem; } @media screen and (min-width: 750px) { .section-template--28054268707191__featured_products_FnXqhP-padding { padding-top: 3.2rem; padding-bottom: 8rem; } } @media sc",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/shift-sketch/elements/shift_sketch_myshopify_com_it_pages_featured_products/shift_sketch_myshopify_com_it_pages_featured_products__section_01.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/shift-sketch/pages/shift_sketch_myshopify_com_it_pages_featured_products.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/shift-sketch/pages/shift_sketch_myshopify_com_it_pages_featured_products.json"
+    }
+  ]
+}

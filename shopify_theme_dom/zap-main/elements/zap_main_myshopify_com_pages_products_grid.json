@@ -1,0 +1,73 @@
+{
+  "pageUrl": "https://zap-main.myshopify.com/pages/products-grid",
+  "pageTitle": "Products grid",
+  "pageSlug": "zap_main_myshopify_com_pages_products_grid",
+  "sections": [
+    {
+      "refId": "zap_main_myshopify_com_pages_products_grid__section_01",
+      "index": 1,
+      "selectorHint": "#shopify-section-template--26224255402303__main",
+      "typeGuess": "content-section",
+      "patternTags": [
+        "top-of-page",
+        "product-commerce"
+      ],
+      "headingSample": [
+        "Products grid"
+      ],
+      "textSample": ".section-template--26224255402303__main-padding { padding-top: 4rem; padding-bottom: 0; } @media screen and (min-width: 750px) { .section-template--26224255402303__main-padding { padding-top: 5rem; padding-bottom: 0; } } @media screen and (min-width: 1360px) { .section-template--",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_pages_products_grid/zap_main_myshopify_com_pages_products_grid__section_01.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/pages/zap_main_myshopify_com_pages_products_grid.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/pages/zap_main_myshopify_com_pages_products_grid.json"
+    },
+    {
+      "refId": "zap_main_myshopify_com_pages_products_grid__section_02",
+      "index": 2,
+      "selectorHint": "#shopify-section-template--26224255402303__products_grid_eXrXEG",
+      "typeGuess": "product-grid",
+      "patternTags": [
+        "image-heavy",
+        "cta-cluster",
+        "card-grid",
+        "product-commerce",
+        "category-navigation",
+        "editorial-media"
+      ],
+      "headingSample": [
+        "Find your flavor",
+        "Discovery Box",
+        "Ginger Boost",
+        "Honey Lemon Infusion",
+        "Light Box",
+        "Mint Lime Refresher"
+      ],
+      "textSample": ".section-template--26224255402303__products_grid_eXrXEG-padding { padding-top: 5rem; padding-bottom: 5rem; } @media screen and (min-width: 750px) { .section-template--26224255402303__products_grid_eXrXEG-padding { padding-top: 7.2rem; padding-bottom: 7.2rem; } } @media screen and",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_pages_products_grid/zap_main_myshopify_com_pages_products_grid__section_02.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/pages/zap_main_myshopify_com_pages_products_grid.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/pages/zap_main_myshopify_com_pages_products_grid.json"
+    },
+    {
+      "refId": "zap_main_myshopify_com_pages_products_grid__section_03",
+      "index": 3,
+      "selectorHint": "#shopify-section-template--26224255402303__products_grid_JYRKkN",
+      "typeGuess": "product-grid",
+      "patternTags": [
+        "image-heavy",
+        "cta-cluster",
+        "card-grid",
+        "product-commerce",
+        "category-navigation",
+        "editorial-media"
+      ],
+      "headingSample": [
+        "Explore Our Sets",
+        "Discovery Box",
+        "Light Box"
+      ],
+      "textSample": ".section-template--26224255402303__products_grid_JYRKkN-padding { padding-top: 5rem; padding-bottom: 6.4rem; } @media screen and (min-width: 750px) { .section-template--26224255402303__products_grid_JYRKkN-padding { padding-top: 7.2rem; padding-bottom: 8.8rem; } } @media screen a",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_pages_products_grid/zap_main_myshopify_com_pages_products_grid__section_03.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/pages/zap_main_myshopify_com_pages_products_grid.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/pages/zap_main_myshopify_com_pages_products_grid.json"
+    }
+  ]
+}

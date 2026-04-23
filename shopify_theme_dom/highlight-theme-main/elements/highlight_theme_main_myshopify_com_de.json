@@ -1,0 +1,127 @@
+{
+  "pageUrl": "https://highlight-theme-main.myshopify.com/de",
+  "pageTitle": "Markieren Sie das Shopify-Design – Highlight Theme",
+  "pageSlug": "highlight_theme_main_myshopify_com_de",
+  "sections": [
+    {
+      "refId": "highlight_theme_main_myshopify_com_de__section_01",
+      "index": 1,
+      "selectorHint": "#shopify-section-template--15068634382497__163186463508de9885",
+      "typeGuess": "hero",
+      "patternTags": [
+        "hero-candidate",
+        "top-of-page",
+        "video",
+        "image-heavy",
+        "slider",
+        "cta-cluster",
+        "product-commerce",
+        "category-navigation",
+        "editorial-media"
+      ],
+      "headingSample": [
+        "Beschreibbare Dinge",
+        "Reflektierende Dinge",
+        "Zuhause & Essen",
+        "Beschreibbare Dinge",
+        "Reflektierende Dinge",
+        "Zuhause & Essen"
+      ],
+      "textSample": "Erkunden Sie alleBeschreibbare Dinge01 / Schreiben Sie Ihre Nachricht! Beschreibbares Sweatshirt 💪 Drück dich aus! Erkunden Sie alle Alles erkundenReflektierende Dinge02 / Safety first sowie Style Tasche zur Rettung! ⚠️ Die schwingenden Reflektoren Treten Sie ein und aus! Alles ",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/highlight-theme-main/elements/highlight_theme_main_myshopify_com_de/highlight_theme_main_myshopify_com_de__section_01.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/highlight-theme-main/pages/highlight_theme_main_myshopify_com_de.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/highlight-theme-main/pages/highlight_theme_main_myshopify_com_de.json"
+    },
+    {
+      "refId": "highlight_theme_main_myshopify_com_de__section_02",
+      "index": 2,
+      "selectorHint": "#shopify-section-template--15068634382497__163186464490ff9176",
+      "typeGuess": "editorial-media",
+      "patternTags": [
+        "image-heavy",
+        "cta-cluster",
+        "product-commerce",
+        "category-navigation",
+        "editorial-media"
+      ],
+      "headingSample": [
+        "Am beliebtesten",
+        "Jedes Produkt, vom lebensrettenden Reflektor bis zum handgefertigten Lutscher, steckt voller Innovationen. Die Produktidee steht an erster Stelle, gefolgt von minimalistischem Design.Mehr erfahren"
+      ],
+      "textSample": "Sammlung Am beliebtesten Alle erkunden Zum Warenkorb hinzufügen Reflektierende Tragetasche mit SPLASH-Print Preis$30.00 Breathable fabric Optionen auswählen Reflektierendes T-Shirt Preis$45.00 Gift packaging Optionen auswählen Beschreibbares Sweatshirt Von $79.00$99.00 Highly ref",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/highlight-theme-main/elements/highlight_theme_main_myshopify_com_de/highlight_theme_main_myshopify_com_de__section_02.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/highlight-theme-main/pages/highlight_theme_main_myshopify_com_de.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/highlight-theme-main/pages/highlight_theme_main_myshopify_com_de.json"
+    },
+    {
+      "refId": "highlight_theme_main_myshopify_com_de__section_03",
+      "index": 3,
+      "selectorHint": "#shopify-section-template--15068634382497__16318659684ff7363b",
+      "typeGuess": "editorial-media",
+      "patternTags": [
+        "image-heavy",
+        "editorial-media"
+      ],
+      "headingSample": [],
+      "textSample": "Über uns Das Designstudio MARCH konzentriert sich auf reflektierende Accessoires, beschreibbare Kleidungskollektionen, Innenausstattung und andere innovative Artikel, die den Alltag verbessern. 👌🏻",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/highlight-theme-main/elements/highlight_theme_main_myshopify_com_de/highlight_theme_main_myshopify_com_de__section_03.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/highlight-theme-main/pages/highlight_theme_main_myshopify_com_de.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/highlight-theme-main/pages/highlight_theme_main_myshopify_com_de.json"
+    },
+    {
+      "refId": "highlight_theme_main_myshopify_com_de__section_04",
+      "index": 4,
+      "selectorHint": "#shopify-section-template--15068634382497__163186597224c648dc",
+      "typeGuess": "editorial-media",
+      "patternTags": [
+        "image-heavy",
+        "cta-cluster",
+        "product-commerce",
+        "category-navigation",
+        "editorial-media"
+      ],
+      "headingSample": [
+        "Entdecken Sie unsere Kollektionen"
+      ],
+      "textSample": "Entdecken Sie unsere Kollektionen Reflektierendes Zubehör Beschreibbares T-Shirt Kleidung Zuhause & Essen #shopify-section-template--15068634382497__163186597224c648dc .image-with-text-overlay-holder, #shopify-section-template--15068634382497__163186597224c648dc .image-with-text-",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/highlight-theme-main/elements/highlight_theme_main_myshopify_com_de/highlight_theme_main_myshopify_com_de__section_04.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/highlight-theme-main/pages/highlight_theme_main_myshopify_com_de.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/highlight-theme-main/pages/highlight_theme_main_myshopify_com_de.json"
+    },
+    {
+      "refId": "highlight_theme_main_myshopify_com_de__section_05",
+      "index": 5,
+      "selectorHint": "#shopify-section-template--15068634382497__1631875799480e8971",
+      "typeGuess": "content-section",
+      "patternTags": [
+        "category-navigation"
+      ],
+      "headingSample": [],
+      "textSample": "Auf saubere und clevere Weise Ungewöhnliche übliche Dinge Erkunde alle Dinge",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/highlight-theme-main/elements/highlight_theme_main_myshopify_com_de/highlight_theme_main_myshopify_com_de__section_05.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/highlight-theme-main/pages/highlight_theme_main_myshopify_com_de.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/highlight-theme-main/pages/highlight_theme_main_myshopify_com_de.json"
+    },
+    {
+      "refId": "highlight_theme_main_myshopify_com_de__section_06",
+      "index": 6,
+      "selectorHint": "#shopify-section-template--15068634382497__1632382181fad54150",
+      "typeGuess": "editorial-media",
+      "patternTags": [
+        "image-heavy",
+        "slider",
+        "cta-cluster",
+        "product-commerce",
+        "category-navigation",
+        "editorial-media"
+      ],
+      "headingSample": [
+        "Letzte Artikel"
+      ],
+      "textSample": "Letzte Artikel Optionen auswählen Reflektierende Socken Von $12.00 Optionen auswählen Reflektierendes T-Shirt Preis$45.00 Optionen auswählen Reflektierende Knöpfe Preis$12.00 Zum Warenkorb hinzufügen Reflektierendes Abzeichen x2 Preis$8.00 Optionen auswählen Reflektierendes Abzei",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/highlight-theme-main/elements/highlight_theme_main_myshopify_com_de/highlight_theme_main_myshopify_com_de__section_06.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/highlight-theme-main/pages/highlight_theme_main_myshopify_com_de.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/highlight-theme-main/pages/highlight_theme_main_myshopify_com_de.json"
+    }
+  ]
+}

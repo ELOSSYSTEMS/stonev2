@@ -1,0 +1,31 @@
+{
+  "pageUrl": "https://salt-yard.myshopify.com/pages/faq",
+  "pageTitle": "FAQs – Symmetry Theme Salt Yard",
+  "pageSlug": "salt_yard_myshopify_com_pages_faq",
+  "sections": [
+    {
+      "refId": "salt_yard_myshopify_com_pages_faq__section_01",
+      "index": 1,
+      "selectorHint": "div.container.cf",
+      "typeGuess": "editorial-media",
+      "patternTags": [
+        "top-of-page",
+        "cta-cluster",
+        "product-commerce",
+        "editorial-media"
+      ],
+      "headingSample": [
+        "Customer Help",
+        "FAQ",
+        "Ordering",
+        "Shipping",
+        "Returns & Exchanges",
+        "Sustainability"
+      ],
+      "textSample": "#section-id-template--26857880125513__heading .height--fixed { --image-height: 400px; } @media (min-width: 768px) { #section-id-template--26857880125513__heading .height--fixed { --image-height: 480px; } } #section-id-template--26857880125513__heading .block-670533c2-c2ef-4669-8b",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_pages_faq/salt_yard_myshopify_com_pages_faq__section_01.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/pages/salt_yard_myshopify_com_pages_faq.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/pages/salt_yard_myshopify_com_pages_faq.json"
+    }
+  ]
+}

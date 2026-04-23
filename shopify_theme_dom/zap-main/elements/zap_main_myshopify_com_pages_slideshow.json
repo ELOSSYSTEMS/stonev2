@@ -1,0 +1,67 @@
+{
+  "pageUrl": "https://zap-main.myshopify.com/pages/slideshow",
+  "pageTitle": "Slideshow",
+  "pageSlug": "zap_main_myshopify_com_pages_slideshow",
+  "sections": [
+    {
+      "refId": "zap_main_myshopify_com_pages_slideshow__section_01",
+      "index": 1,
+      "selectorHint": "#shopify-section-template--26224231776575__main",
+      "typeGuess": "content-section",
+      "patternTags": [
+        "top-of-page"
+      ],
+      "headingSample": [
+        "Slideshow"
+      ],
+      "textSample": ".section-template--26224231776575__main-padding { padding-top: 4rem; padding-bottom: 0; } @media screen and (min-width: 750px) { .section-template--26224231776575__main-padding { padding-top: 5rem; padding-bottom: 0; } } @media screen and (min-width: 1360px) { .section-template--",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_pages_slideshow/zap_main_myshopify_com_pages_slideshow__section_01.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/pages/zap_main_myshopify_com_pages_slideshow.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/pages/zap_main_myshopify_com_pages_slideshow.json"
+    },
+    {
+      "refId": "zap_main_myshopify_com_pages_slideshow__section_02",
+      "index": 2,
+      "selectorHint": "#shopify-section-template--26224231776575__slideshow_DwaM9B",
+      "typeGuess": "editorial-media",
+      "patternTags": [
+        "image-heavy",
+        "slider",
+        "cta-cluster",
+        "product-commerce",
+        "editorial-media"
+      ],
+      "headingSample": [
+        "SUPERCOLD",
+        "COOLKICK",
+        "FLAVORBLAST"
+      ],
+      "textSample": "#shopify-section-template--26224231776575__slideshow_DwaM9B { padding-top: 0; padding-bottom: 0; } @media screen and (min-width: 750px) { #shopify-section-template--26224231776575__slideshow_DwaM9B { padding-top: 0; padding-bottom: 0; } } @media screen and (min-width: 1360px) { #",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_pages_slideshow/zap_main_myshopify_com_pages_slideshow__section_02.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/pages/zap_main_myshopify_com_pages_slideshow.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/pages/zap_main_myshopify_com_pages_slideshow.json"
+    },
+    {
+      "refId": "zap_main_myshopify_com_pages_slideshow__section_03",
+      "index": 3,
+      "selectorHint": "#shopify-section-template--26224231776575__slideshow_E6gLpC",
+      "typeGuess": "editorial-media",
+      "patternTags": [
+        "image-heavy",
+        "slider",
+        "cta-cluster",
+        "product-commerce",
+        "editorial-media"
+      ],
+      "headingSample": [
+        "SUPER COLD",
+        "COOL KICK",
+        "FLAVOR BLAST"
+      ],
+      "textSample": "#shopify-section-template--26224231776575__slideshow_E6gLpC { padding-top: 6.4rem; padding-bottom: 6.4rem; } @media screen and (min-width: 750px) { #shopify-section-template--26224231776575__slideshow_E6gLpC { padding-top: 8.8rem; padding-bottom: 8.8rem; } } @media screen and (mi",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_pages_slideshow/zap_main_myshopify_com_pages_slideshow__section_03.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/pages/zap_main_myshopify_com_pages_slideshow.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/pages/zap_main_myshopify_com_pages_slideshow.json"
+    }
+  ]
+}

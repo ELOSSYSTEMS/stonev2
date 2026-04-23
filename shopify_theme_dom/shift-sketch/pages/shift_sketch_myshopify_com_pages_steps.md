@@ -1,0 +1,182 @@
+# Shopify page scrape
+
+- URL: https://shift-sketch.myshopify.com/pages/steps
+- Title: Steps – Shift Sketch
+- Body classes: template-page template-page-steps
+- Custom elements: cart-drawer, cart-drawer-items, header-drawer, header-search, menu-drawer, modal-localization-form, modal-region-selector, predictive-search, shop-cart-sync, sticky-header
+- Headings: Steps | “From concept to creation. Every detail covered.” | Shop | Shop | Explore | Explore | Legal | Legal | Follow us | Join our Newsletter
+
+## 1. shopify-section-template--28054630793591__page_info
+
+- Tag: section
+- Classes: shopify-section page-section
+- Headings: Steps
+
+```html
+<section id="shopify-section-template--28054630793591__page_info" class="shopify-section page-section"><link href="//shift-sketch.myshopify.com/cdn/shop/t/2/assets/section-main-page.css?v=122541859386650611581774270656" rel="stylesheet" type="text/css" media="all">
+
+<div class="page-section-wrapper container align-left">
+  <div class="page-header">
+    <div class="page-header__inner">
+      <h1 class="page-header__inner-title h5">Steps</h1>
+    </div>
+  </div></div>
+
+
+</section>
+```
+
+## 2. shopify-section-template--28054630793591__steps_VnWtXf
+
+- Tag: section
+- Classes: shopify-section steps-section
+- Headings: “From concept to creation. Every detail covered.”
+
+```html
+<section id="shopify-section-template--28054630793591__steps_VnWtXf" class="shopify-section steps-section"><link href="//shift-sketch.myshopify.com/cdn/shop/t/2/assets/section-steps.css?v=167070155242407798351766398541" rel="stylesheet" type="text/css" media="all">
+
+<style data-shopify="">
+  #shopify-section-template--28054630793591__steps_VnWtXf {
+
+  padding-top: 0;
+
+
+
+  padding-bottom: 8rem;
+
+}
+
+@media screen and (min-width: 750px) { #shopify-section-template--28054630793591__steps_VnWtXf {
+
+  padding-top: 0;
+
+
+
+  padding-bottom: 12rem;
+
+} }
+
+@media screen and (min-width: 1440px) { #shopify-section-template--28054630793591__steps_VnWtXf {
+
+  padding-top: 0;
+
+
+
+  padding-bottom: 15rem;
+
+
+} }
+
+</style>
+
+
+
+
+<style data-shopify="">.steps-template--28054630793591__steps_VnWtXf .steps__image-wrapper::before {
+    content: '';
+    display: block;
+    width: 0;
+    padding-bottom: 100%;
+  }
+
+  @media (min-width: 990px){
+    .steps-template--28054630793591__steps_VnWtXf .steps__image-wrapper::before {
+      content: '';
+      display: block;
+      width: 0;
+      padding-bottom: 100%;
+    }
+  }</style><div class="steps steps-template--28054630793591__steps_VnWtXf">
+  <div class="container">
+    <div class="steps__wrapper">
+      
+        <h3 class="steps-heading h3 richtext-link-inside">
+          “From concept to creation.  Every detail covered.”
+        </h3>
+      
+      <div class="steps__box"><div class="steps__blocks">
+            
+              
+                <div class="steps__item">
+                  
+                    <div class="steps__label">
+                      1926
+                    </div>
+                  
+                  
+                    <div class="steps__text body-large richtext-link-inside">
+                      The journey begins. The first handcrafted sketchbooks, planners, and pads are created, combining traditional techniques with a vision for timeless design.
+                    </div>
+                  
+                </div>
+              
+            
+              
+                <div class="steps__item">
+                  
+                    <div class="steps__label">
+                      1940
+                    </div>
+                  
+                  
+                    <div class="steps__text body-large richtext-link-inside">
+                      Expanding horizons. New formats, layouts, and materials are introduced, blending innovation with classic craftsmanship to enhance everyday productivity and creativity.
+                    </div>
+                  
+                </div>
+              
+            
+              
+                <div class="steps__item">
+                  
+                    <div class="steps__label">
+                      1970
+                    </div>
+                  
+                  
+                    <div class="steps__text body-large richtext-link-inside">
+                      Modern inspiration. The focus shifts to contemporary styles, creating stationery that suits evolving workspaces, creative needs, and personal routines.
+                    </div>
+                  
+                </div>
+              
+            
+              
+                <div class="steps__item">
+                  
+                    <div class="steps__label">
+                      2020
+                    </div>
+                  
+                  
+                    <div class="steps__text body-large richtext-link-inside">
+                      A new era. Sustainable materials and thoughtful design practices shape a collection that honors tradition while embracing the future of creativity and organization.
+                    </div>
+                  
+                </div>
+              
+            
+          </div>
+        <div class="steps__image-block">
+          
+            <h4 class="steps-side-heading parallax-text vertical-text" data-parallax="400" style="transform: translateY(76px);">
+              Headquarters
+            </h4>
+          
+          <div class="steps__image-wrapper">
+            
+              
+              
+              
+<img src="//shift-sketch.myshopify.com/cdn/shop/files/04-about.jpg?v=1770804918&amp;width=2048" alt="" srcset="//shift-sketch.myshopify.com/cdn/shop/files/04-about.jpg?v=1770804918&amp;width=360 360w, //shift-sketch.myshopify.com/cdn/shop/files/04-about.jpg?v=1770804918&amp;width=535 535w, //shift-sketch.myshopify.com/cdn/shop/files/04-about.jpg?v=1770804918&amp;width=600 600w, //shift-sketch.myshopify.com/cdn/shop/files/04-about.jpg?v=1770804918&amp;width=720 720w, //shift-sketch.myshopify.com/cdn/shop/files/04-about.jpg?v=1770804918&amp;width=940 940w, //shift-sketch.myshopify.com/cdn/shop/files/04-about.jpg?v=1770804918&amp;width=1066 1066w, //shift-sketch.myshopify.com/cdn/shop/files/04-about.jpg?v=1770804918&amp;width=1200 1200w, //shift-sketch.myshopify.com/cdn/shop/files/04-about.jpg?v=1770804918&amp;width=1400 1400w, //shift-sketch.myshopify.com/cdn/shop/files/04-about.jpg?v=1770804918&amp;width=1600 1600w, //shift-sketch.myshopify.com/cdn/shop/files/04-about.jpg?v=1770804918&amp;width=1800 1800w, //shift-sketch.myshopify.com/cdn/shop/files/04-about.jpg?v=1770804918&amp;width=2000 2000w" width="2048" height="2048" loading="lazy" sizes="(min-width: 750px) calc(50vw * 1), calc(100vw * 1)" class="steps__image" style="object-fit: cover">
+            
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+</section>
+```

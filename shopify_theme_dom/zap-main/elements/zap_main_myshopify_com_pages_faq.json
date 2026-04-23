@@ -1,0 +1,56 @@
+{
+  "pageUrl": "https://zap-main.myshopify.com/pages/faq",
+  "pageTitle": "FAQ",
+  "pageSlug": "zap_main_myshopify_com_pages_faq",
+  "sections": [
+    {
+      "refId": "zap_main_myshopify_com_pages_faq__section_01",
+      "index": 1,
+      "selectorHint": "#shopify-section-template--25743251341631__collapsible_content_LzK6iw",
+      "typeGuess": "cta-section",
+      "patternTags": [
+        "top-of-page",
+        "cta-cluster"
+      ],
+      "headingSample": [
+        "Frequently Asked Questions"
+      ],
+      "textSample": "#shopify-section-template--25743251341631__collapsible_content_LzK6iw [data-enable-header-animation] .collapsible-content__heading .word { opacity: 0; transform: translateY(20px); display: inline-block; white-space: nowrap; } #shopify-section-template--25743251341631__collapsible",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_pages_faq/zap_main_myshopify_com_pages_faq__section_01.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/pages/zap_main_myshopify_com_pages_faq.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/pages/zap_main_myshopify_com_pages_faq.json"
+    },
+    {
+      "refId": "zap_main_myshopify_com_pages_faq__section_02",
+      "index": 2,
+      "selectorHint": "#shopify-section-template--25743251341631__image-carousel",
+      "typeGuess": "editorial-media",
+      "patternTags": [
+        "image-heavy",
+        "slider",
+        "category-navigation",
+        "editorial-media"
+      ],
+      "headingSample": [],
+      "textSample": "#shopify-section-template--25743251341631__image-carousel { padding-top: 0; padding-bottom: 0; } @media screen and (min-width: 750px) { #shopify-section-template--25743251341631__image-carousel { padding-top: 0; padding-bottom: 0; } } @media screen and (min-width: 1360px) { #shop",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_pages_faq/zap_main_myshopify_com_pages_faq__section_02.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/pages/zap_main_myshopify_com_pages_faq.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/pages/zap_main_myshopify_com_pages_faq.json"
+    },
+    {
+      "refId": "zap_main_myshopify_com_pages_faq__section_03",
+      "index": 3,
+      "selectorHint": "#shopify-section-template--25743251341631__social-media",
+      "typeGuess": "cta-section",
+      "patternTags": [
+        "cta-cluster",
+        "card-grid"
+      ],
+      "headingSample": [],
+      "textSample": ".section-template--25743251341631__social-media-padding { padding-top: 0; padding-bottom: 0; } @media screen and (min-width: 750px) { .section-template--25743251341631__social-media-padding { padding-top: 0; padding-bottom: 0; } } @media screen and (min-width: 1360px) { .section-",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_pages_faq/zap_main_myshopify_com_pages_faq__section_03.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/pages/zap_main_myshopify_com_pages_faq.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/pages/zap_main_myshopify_com_pages_faq.json"
+    }
+  ]
+}

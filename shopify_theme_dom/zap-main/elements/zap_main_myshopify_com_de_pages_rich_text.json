@@ -1,0 +1,39 @@
+{
+  "pageUrl": "https://zap-main.myshopify.com/de/pages/rich-text",
+  "pageTitle": "Rich text",
+  "pageSlug": "zap_main_myshopify_com_de_pages_rich_text",
+  "sections": [
+    {
+      "refId": "zap_main_myshopify_com_de_pages_rich_text__section_01",
+      "index": 1,
+      "selectorHint": "#shopify-section-template--26224395190591__main",
+      "typeGuess": "content-section",
+      "patternTags": [
+        "top-of-page"
+      ],
+      "headingSample": [
+        "Rich text"
+      ],
+      "textSample": ".section-template--26224395190591__main-padding { padding-top: 4rem; padding-bottom: 0; } @media screen and (min-width: 750px) { .section-template--26224395190591__main-padding { padding-top: 5rem; padding-bottom: 0; } } @media screen and (min-width: 1360px) { .section-template--",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_de_pages_rich_text/zap_main_myshopify_com_de_pages_rich_text__section_01.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/pages/zap_main_myshopify_com_de_pages_rich_text.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/pages/zap_main_myshopify_com_de_pages_rich_text.json"
+    },
+    {
+      "refId": "zap_main_myshopify_com_de_pages_rich_text__section_02",
+      "index": 2,
+      "selectorHint": "#shopify-section-template--26224395190591__rich_text_BwGFAn",
+      "typeGuess": "cta-section",
+      "patternTags": [
+        "cta-cluster"
+      ],
+      "headingSample": [
+        "“We’re here to create with intention — not just to make things, but to make them matter.”"
+      ],
+      "textSample": ".section-template--26224395190591__rich_text_BwGFAn-padding { padding-top: 5rem; padding-bottom: 6.4rem; } @media screen and (min-width: 750px) { .section-template--26224395190591__rich_text_BwGFAn-padding { padding-top: 7.2rem; padding-bottom: 8.8rem; } } @media screen and (min-",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_de_pages_rich_text/zap_main_myshopify_com_de_pages_rich_text__section_02.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/pages/zap_main_myshopify_com_de_pages_rich_text.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/pages/zap_main_myshopify_com_de_pages_rich_text.json"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "pageUrl": "https://dynamic-preview.myshopify.com/pt/pages/contact",
+  "pageTitle": "Contactos – Dynamic",
+  "pageSlug": "dynamic_preview_myshopify_com_pt_pages_contact",
+  "sections": [
+    {
+      "refId": "dynamic_preview_myshopify_com_pt_pages_contact__section_01",
+      "index": 1,
+      "selectorHint": "#shopify-section-template--27935320015014__page_hero_banner_UXTzWw",
+      "typeGuess": "category-row",
+      "patternTags": [
+        "top-of-page",
+        "cta-cluster",
+        "card-grid",
+        "category-navigation",
+        "editorial-media"
+      ],
+      "headingSample": [
+        "Entre em Contacto Connosco"
+      ],
+      "textSample": ".collection_list_wrapper-template--27935320015014__page_hero_banner_UXTzWw { padding-top: 0px; padding-bottom: 20px; margin: 0 10px;; } @media screen and (max-width: 640px) { .collection_list_wrapper-template--27935320015014__page_hero_banner_UXTzWw { padding-top: 0px; padding-bo",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_pt_pages_contact/dynamic_preview_myshopify_com_pt_pages_contact__section_01.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/pages/dynamic_preview_myshopify_com_pt_pages_contact.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/pages/dynamic_preview_myshopify_com_pt_pages_contact.json"
+    },
+    {
+      "refId": "dynamic_preview_myshopify_com_pt_pages_contact__section_02",
+      "index": 2,
+      "selectorHint": "#shopify-section-template--27935320015014__contact_info_qa7iJE",
+      "typeGuess": "editorial-media",
+      "patternTags": [
+        "image-heavy",
+        "editorial-media"
+      ],
+      "headingSample": [
+        "Apoio ao Cliente"
+      ],
+      "textSample": "Apoio ao Cliente A nossa equipa de apoio ao cliente está aqui para o ajudar em cada etapa do processo. Quer tenha questões sobre os nossos produtos, a sua encomenda ou recomendações de cuidados de pele, estamos apenas a uma mensagem de distância. Telefone (800) 555-0199 E-mail xy",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_pt_pages_contact/dynamic_preview_myshopify_com_pt_pages_contact__section_02.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/pages/dynamic_preview_myshopify_com_pt_pages_contact.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/pages/dynamic_preview_myshopify_com_pt_pages_contact.json"
+    },
+    {
+      "refId": "dynamic_preview_myshopify_com_pt_pages_contact__section_03",
+      "index": 3,
+      "selectorHint": "#shopify-section-template--27935320015014__contact_form_UhcCFc",
+      "typeGuess": "content-section",
+      "patternTags": [],
+      "headingSample": [
+        "Envie-nos Uma Mensagem"
+      ],
+      "textSample": "Envie-nos Uma Mensagem Tem uma pergunta ou pedido especial? Preencha o formulário abaixo, e a nossa equipa entrará em contacto consigo o mais rapidamente possível. Full Name Email Phone Subject Subject General Inquiry Custom Order Support Message Submit Now",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_pt_pages_contact/dynamic_preview_myshopify_com_pt_pages_contact__section_03.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/pages/dynamic_preview_myshopify_com_pt_pages_contact.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/pages/dynamic_preview_myshopify_com_pt_pages_contact.json"
+    }
+  ]
+}

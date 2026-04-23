@@ -1,0 +1,73 @@
+{
+  "pageUrl": "https://zap-main.myshopify.com/pages/testimonials",
+  "pageTitle": "Testimonials",
+  "pageSlug": "zap_main_myshopify_com_pages_testimonials",
+  "sections": [
+    {
+      "refId": "zap_main_myshopify_com_pages_testimonials__section_01",
+      "index": 1,
+      "selectorHint": "#shopify-section-template--26224414720319__main",
+      "typeGuess": "content-section",
+      "patternTags": [
+        "top-of-page"
+      ],
+      "headingSample": [
+        "Testimonials"
+      ],
+      "textSample": ".section-template--26224414720319__main-padding { padding-top: 4rem; padding-bottom: 0; } @media screen and (min-width: 750px) { .section-template--26224414720319__main-padding { padding-top: 5rem; padding-bottom: 0; } } @media screen and (min-width: 1360px) { .section-template--",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_pages_testimonials/zap_main_myshopify_com_pages_testimonials__section_01.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/pages/zap_main_myshopify_com_pages_testimonials.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/pages/zap_main_myshopify_com_pages_testimonials.json"
+    },
+    {
+      "refId": "zap_main_myshopify_com_pages_testimonials__section_02",
+      "index": 2,
+      "selectorHint": "#shopify-section-template--26224414720319__testimonials_qYikp6",
+      "typeGuess": "product-grid",
+      "patternTags": [
+        "image-heavy",
+        "slider",
+        "cta-cluster",
+        "card-grid",
+        "product-commerce",
+        "editorial-media"
+      ],
+      "headingSample": [
+        "Honey Lemon Infusion",
+        "Original Energy",
+        "Passion Cooler",
+        "Light Box"
+      ],
+      "textSample": ".section-template--26224414720319__testimonials_qYikp6-padding { padding-top: 5rem; padding-bottom: 5rem; } @media screen and (min-width: 750px) { .section-template--26224414720319__testimonials_qYikp6-padding { padding-top: 7.2rem; padding-bottom: 7.2rem; } } @media screen and (",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_pages_testimonials/zap_main_myshopify_com_pages_testimonials__section_02.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/pages/zap_main_myshopify_com_pages_testimonials.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/pages/zap_main_myshopify_com_pages_testimonials.json"
+    },
+    {
+      "refId": "zap_main_myshopify_com_pages_testimonials__section_03",
+      "index": 3,
+      "selectorHint": "#shopify-section-template--26224414720319__testimonials_EwKatN",
+      "typeGuess": "product-grid",
+      "patternTags": [
+        "image-heavy",
+        "slider",
+        "cta-cluster",
+        "card-grid",
+        "product-commerce",
+        "editorial-media"
+      ],
+      "headingSample": [
+        "Real reviews from real customers who love our drinks.",
+        "Ginger Boost",
+        "Honey Lemon Infusion",
+        "Original Energy",
+        "Passion Cooler",
+        "Light Box"
+      ],
+      "textSample": ".section-template--26224414720319__testimonials_EwKatN-padding { padding-top: 4rem; padding-bottom: 6.4rem; } @media screen and (min-width: 750px) { .section-template--26224414720319__testimonials_EwKatN-padding { padding-top: 5rem; padding-bottom: 8.8rem; } } @media screen and (",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_pages_testimonials/zap_main_myshopify_com_pages_testimonials__section_03.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/pages/zap_main_myshopify_com_pages_testimonials.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/pages/zap_main_myshopify_com_pages_testimonials.json"
+    }
+  ]
+}

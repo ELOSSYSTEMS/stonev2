@@ -1,0 +1,67 @@
+{
+  "pageUrl": "https://zap-main.myshopify.com/de/pages/ticker",
+  "pageTitle": "Ticker",
+  "pageSlug": "zap_main_myshopify_com_de_pages_ticker",
+  "sections": [
+    {
+      "refId": "zap_main_myshopify_com_de_pages_ticker__section_01",
+      "index": 1,
+      "selectorHint": "#shopify-section-template--26224395223359__main",
+      "typeGuess": "content-section",
+      "patternTags": [
+        "top-of-page"
+      ],
+      "headingSample": [
+        "Ticker"
+      ],
+      "textSample": ".section-template--26224395223359__main-padding { padding-top: 4rem; padding-bottom: 0; } @media screen and (min-width: 750px) { .section-template--26224395223359__main-padding { padding-top: 5rem; padding-bottom: 0; } } @media screen and (min-width: 1360px) { .section-template--",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_de_pages_ticker/zap_main_myshopify_com_de_pages_ticker__section_01.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/pages/zap_main_myshopify_com_de_pages_ticker.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/pages/zap_main_myshopify_com_de_pages_ticker.json"
+    },
+    {
+      "refId": "zap_main_myshopify_com_de_pages_ticker__section_02",
+      "index": 2,
+      "selectorHint": "#shopify-section-template--26224395223359__ticker_banner_Vrptff",
+      "typeGuess": "content-section",
+      "patternTags": [
+        "category-navigation"
+      ],
+      "headingSample": [],
+      "textSample": "#shopify-section-template--26224395223359__ticker_banner_Vrptff { padding-top: 0; padding-bottom: 0; } @media screen and (min-width: 750px) { #shopify-section-template--26224395223359__ticker_banner_Vrptff { padding-top: 0; padding-bottom: 0; } } @media screen and (min-width: 136",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_de_pages_ticker/zap_main_myshopify_com_de_pages_ticker__section_02.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/pages/zap_main_myshopify_com_de_pages_ticker.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/pages/zap_main_myshopify_com_de_pages_ticker.json"
+    },
+    {
+      "refId": "zap_main_myshopify_com_de_pages_ticker__section_03",
+      "index": 3,
+      "selectorHint": "#shopify-section-template--26224395223359__ticker_banner_77yY77",
+      "typeGuess": "content-section",
+      "patternTags": [
+        "category-navigation"
+      ],
+      "headingSample": [],
+      "textSample": "#shopify-section-template--26224395223359__ticker_banner_77yY77 { padding-top: 6.4rem; padding-bottom: 0; } @media screen and (min-width: 750px) { #shopify-section-template--26224395223359__ticker_banner_77yY77 { padding-top: 8.8rem; padding-bottom: 0; } } @media screen and (min-",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_de_pages_ticker/zap_main_myshopify_com_de_pages_ticker__section_03.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/pages/zap_main_myshopify_com_de_pages_ticker.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/pages/zap_main_myshopify_com_de_pages_ticker.json"
+    },
+    {
+      "refId": "zap_main_myshopify_com_de_pages_ticker__section_04",
+      "index": 4,
+      "selectorHint": "#shopify-section-template--26224395223359__ticker_banner_MHPnfK",
+      "typeGuess": "editorial-media",
+      "patternTags": [
+        "image-heavy",
+        "category-navigation",
+        "editorial-media"
+      ],
+      "headingSample": [],
+      "textSample": "#shopify-section-template--26224395223359__ticker_banner_MHPnfK { padding-top: 6.4rem; padding-bottom: 6.4rem; } @media screen and (min-width: 750px) { #shopify-section-template--26224395223359__ticker_banner_MHPnfK { padding-top: 8.8rem; padding-bottom: 8.8rem; } } @media screen",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_de_pages_ticker/zap_main_myshopify_com_de_pages_ticker__section_04.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/pages/zap_main_myshopify_com_de_pages_ticker.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/pages/zap_main_myshopify_com_de_pages_ticker.json"
+    }
+  ]
+}

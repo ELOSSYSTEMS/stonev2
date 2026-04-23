@@ -1,0 +1,80 @@
+{
+  "pageUrl": "https://highlight-theme-main.myshopify.com/pages/help-faq",
+  "pageTitle": "Help / FAQ – Highlight Theme",
+  "pageSlug": "highlight_theme_main_myshopify_com_pages_help_faq",
+  "sections": [
+    {
+      "refId": "highlight_theme_main_myshopify_com_pages_help_faq__section_01",
+      "index": 1,
+      "selectorHint": "#shopify-section-template--15101582868641__main",
+      "typeGuess": "content-section",
+      "patternTags": [
+        "top-of-page"
+      ],
+      "headingSample": [
+        "Help / FAQ"
+      ],
+      "textSample": "Help / FAQ MARCH has no control over additional charges to customs clearance. If you refuse the package, for this reason, customs authorities may charge MARCH an administration fee, and this fee will be deducted from the requested refund amount. .section-w-margin { margin-bottom:",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/highlight-theme-main/elements/highlight_theme_main_myshopify_com_pages_help_faq/highlight_theme_main_myshopify_com_pages_help_faq__section_01.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/highlight-theme-main/pages/highlight_theme_main_myshopify_com_pages_help_faq.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/highlight-theme-main/pages/highlight_theme_main_myshopify_com_pages_help_faq.json"
+    },
+    {
+      "refId": "highlight_theme_main_myshopify_com_pages_help_faq__section_02",
+      "index": 2,
+      "selectorHint": "#shopify-section-template--15101582868641__faq",
+      "typeGuess": "content-section",
+      "patternTags": [
+        "product-commerce"
+      ],
+      "headingSample": [
+        "Frequently asked questions"
+      ],
+      "textSample": "Frequently asked questions Shipping details Estimated shipping costs will be indicated when your shopping cart is ready to check out. Delivery details Deliveries to countries outside the European Union may be subject to import duties and/or taxes, which are charged once the produ",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/highlight-theme-main/elements/highlight_theme_main_myshopify_com_pages_help_faq/highlight_theme_main_myshopify_com_pages_help_faq__section_02.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/highlight-theme-main/pages/highlight_theme_main_myshopify_com_pages_help_faq.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/highlight-theme-main/pages/highlight_theme_main_myshopify_com_pages_help_faq.json"
+    },
+    {
+      "refId": "highlight_theme_main_myshopify_com_pages_help_faq__section_03",
+      "index": 3,
+      "selectorHint": "#shopify-section-template--15101582868641__1632465486836cba2b",
+      "typeGuess": "content-section",
+      "patternTags": [],
+      "headingSample": [
+        "Other FAQ"
+      ],
+      "textSample": "Other FAQ How MARCH reflective badge works? Reflective badge works as a regular safety reflector. When it’s dark outside and a light source is directly pointed to the reflective surface it reflects that light. The badge does not shine by itself since it is not an electronic devic",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/highlight-theme-main/elements/highlight_theme_main_myshopify_com_pages_help_faq/highlight_theme_main_myshopify_com_pages_help_faq__section_03.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/highlight-theme-main/pages/highlight_theme_main_myshopify_com_pages_help_faq.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/highlight-theme-main/pages/highlight_theme_main_myshopify_com_pages_help_faq.json"
+    },
+    {
+      "refId": "highlight_theme_main_myshopify_com_pages_help_faq__section_04",
+      "index": 4,
+      "selectorHint": "#shopify-section-sections--16050587173025__text-columns-with-icons",
+      "typeGuess": "content-section",
+      "patternTags": [],
+      "headingSample": [],
+      "textSample": "Same Day Dispatch All orders placed before 4pm Monday to Friday are dispatched same day. Free & Fast Delivery A free fully-trackable 2-day delivery service on all orders over $150. Exchanges & Returns You have 30 days from the shipping date to return your purchase FREE OF CHARGE.",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/highlight-theme-main/elements/highlight_theme_main_myshopify_com_pages_help_faq/highlight_theme_main_myshopify_com_pages_help_faq__section_04.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/highlight-theme-main/pages/highlight_theme_main_myshopify_com_pages_help_faq.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/highlight-theme-main/pages/highlight_theme_main_myshopify_com_pages_help_faq.json"
+    },
+    {
+      "refId": "highlight_theme_main_myshopify_com_pages_help_faq__section_05",
+      "index": 5,
+      "selectorHint": "#shopify-section-sections--16050587173025__footer",
+      "typeGuess": "cta-section",
+      "patternTags": [
+        "cta-cluster",
+        "card-grid"
+      ],
+      "headingSample": [],
+      "textSample": "About MARCH does not invent new things but improves existing ones. LINKS Search Help / FAQ Sizing & Fit Shipping & returns Contacts Newsletter Enter your email Submit Invite customers to join your newsletter.Link to your privacy policy. Language English English Español Italiano D",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/highlight-theme-main/elements/highlight_theme_main_myshopify_com_pages_help_faq/highlight_theme_main_myshopify_com_pages_help_faq__section_05.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/highlight-theme-main/pages/highlight_theme_main_myshopify_com_pages_help_faq.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/highlight-theme-main/pages/highlight_theme_main_myshopify_com_pages_help_faq.json"
+    }
+  ]
+}

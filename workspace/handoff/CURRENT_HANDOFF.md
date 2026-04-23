@@ -2,135 +2,40 @@
 
 ## Summary
 
-- `Verified`: Bounded merchandising is complete and paused.
-- `Verified`: The first static shoppable-media proof is verified.
-- `Verified`: The first interaction-aware shoppable-media focus proof is verified.
-- `Verified`: The first drawer-style shoppable-media proof is verified.
-- `Verified`: The first overlay-style shoppable-media proof is verified.
-- `Verified`: The first motion-aware shoppable-media story proof is now fully verified.
-- `Verified`: The bounded shoppable-media motion-story lane has now been frontier-reviewed and judged locally exhausted.
-- `Verified`: The post-shoppable-media controlled expansion proposal is complete and keeps runtime fail-closed.
-- `Verified`: The companion-systems controlled expansion proposal is complete and reopens planning only in a collection-first, docs-only form.
-- `Verified`: The collection-companion broader boundary package is complete and keeps the family reopening fail-closed at the planning level.
-- `Verified`: The collection-companion controlled expansion proposal is complete and narrows the next evidence-backed lane to `collection support strip`.
-- `Verified`: The collection support strip boundary package is complete and defines one exact docs-only support-strip case while keeping runtime authorization fail-closed.
-- `Verified`: The collection support strip runtime-readiness proposal is complete and justifies one later docs-only runtime-facing boundary package while still keeping runtime implementation fail-closed.
-- `Verified`: The collection support strip runtime boundary package is complete and states one exact future support-strip contract for an editor-authored collection-page-hosted strip while still keeping runtime implementation and implementation-surface authorization fail-closed.
-- `Verified`: The post-collection-support-strip runtime-boundary frontier review is complete and concludes that the support-strip lane is locally exhausted at the docs-only contract-definition edge.
-- `Verified`: The post-collection-support-strip controlled expansion proposal is complete and concludes that no later `collection companion` or broader companion-family reopening is justified from the current evidence.
-- `Verified`: The companion roadmap deferral proposal is complete and explicitly defers unresolved `collection companion` and `PDP companion` work behind later Phase 4 preset-pack planning while keeping runtime and preset implementation fail-closed.
-- `Verified`: The Phase 4 preset-pack sequencing proposal is complete and concludes that preset planning may begin only through a docs-only preset-pack boundary proposal that keeps deferred companion-family work explicit and runtime authorization fail-closed.
-- `Verified`: The Phase 4 preset-pack boundary proposal is complete and concludes that only resolved shared families and shared settings may inform preset planning now, while companion-dependent preset assumptions stay blocked or placeholder-bound.
-- `Verified`: The Phase 4 preset-pack shared-defaults proposal is complete and concludes that the five roadmap presets can now be expressed coherently through homepage-first shared defaults only, while collection-dependent and PDP-dependent assumptions remain blocked or placeholder-bound.
-- `Verified`: The Phase 4 homepage-first preset-pack implementation-boundary proposal is complete and concludes that one exact homepage-only preset-pack runtime-facing boundary can now be stated as a future homepage composition/defaults contract, while runtime implementation and blocked collection/PDP domains remain fail-closed.
-- `Verified`: The Phase 4 post-homepage-first preset-pack implementation-boundary frontier review is complete and concludes that homepage-first preset-pack planning is locally exhausted at the docs-only contract-definition edge and that no later implementation-admission proposal is justified from the current evidence.
+- `Verified`: Bounded section-family runtime proof work remains complete on neutral `page.stone-runtime*.json` hosts only.
+- `Verified`: `UNIT-139` states one exact homepage-only preset composition/defaults contract and keeps collection/PDP domains fail-closed.
+- `Verified`: `UNIT-140` concludes that homepage-first preset-pack planning was locally exhausted at the docs-only contract-definition edge.
+- `Verified`: `UNIT-141` preserved that governed pause without authorizing a later lane.
+- `Verified`: `UNIT-142` admitted `shopify_theme_dom/` as fresh canonical evidence but did not reopen one exact next lane.
+- `Verified`: A user-directed governance override approved `UNIT-143` as the next homepage-first lane only.
+- `Verified`: `UNIT-143` passed and admitted exactly one five-file homepage runtime proof slice for `UNIT-144`.
+- `Verified`: `UNIT-144` passed inside that exact five-file boundary and kept the repo homepage-first only.
+- `Verified`: `UNIT-145` passed, confirmed the five-file homepage proof stayed exact, rejected a second homepage runtime slice, and routed only to the docs-only shell/navigation boundary in `UNIT-146`.
+- `Verified`: `UNIT-146` passed, admitted only one docs-only shell/navigation runtime-boundary next step, and rejected broad theme-shell authority.
 
 ## Current State
 
-- `Verified`: `UNIT-122` defines one exact five-file motion-aware shoppable-media boundary.
-- `Verified`: `UNIT-123` implements the bounded non-JS motion story slice inside the exact approved five-file runtime boundary.
-- `Verified`: `UNIT-124` verifies the motion story slice stayed inside the exact approved five-file runtime boundary with unchanged protected surfaces and intact locale parity.
-- `Verified`: `UNIT-125` records that no further automatic shoppable-media runtime slice is justified from the verified motion-story proof.
-- `Verified`: `UNIT-126` records that the next honest higher-boundary planning problem is a docs-only Phase 3 companion-systems question rather than another shoppable-media or motion/media step.
-- `Verified`: `UNIT-127` records that companion-family planning may reopen only through a collection-first docs-only boundary and rejects PDP-first or shared-companion reopening as the immediate next move.
-- `Verified`: `UNIT-128` records that one broader collection-companion boundary is justified only as a docs-only planning step and rejects direct runtime-facing authorization.
-- `Verified`: `UNIT-129` records that `collection support strip` is the only evidence-backed narrowed collection-companion lane and rejects banner, curated explainer, and navigation-aid narrowing as the immediate next move.
-- `Verified`: `UNIT-130` records that one exact docs-only `collection support strip` boundary can be defined, but a runtime-facing boundary is not yet approved.
-- `Verified`: `UNIT-131` records that one later docs-only runtime-facing `collection support strip` boundary is justified only for an editor-authored collection-page-hosted support strip, but runtime implementation is not approved.
-- `Verified`: `UNIT-132` records that one exact docs-only runtime-facing `collection support strip` boundary can now be stated, but runtime implementation, runtime file scope, schema scope, and host-surface selection remain unapproved.
-- `Verified`: `UNIT-133` records that support-strip planning is locally exhausted at the docs-only contract-definition edge and that no support-strip implementation-admission proposal is justified from the current evidence.
-- `Verified`: `UNIT-134` records that no later `collection companion` or broader companion-family reopening is justified from the current evidence and that only a docs-only companion roadmap deferral proposal remains approved.
-- `Verified`: `UNIT-135` records that unresolved `collection companion` and `PDP companion` work are explicitly deferred behind later Phase 4 preset-pack planning.
-- `Verified`: `UNIT-136` records that Phase 4 preset-pack planning may begin now, but only through a docs-only preset-pack boundary proposal that keeps deferred companion-family work explicit and keeps runtime authorization fail-closed.
-- `Verified`: `UNIT-137` records that preset planning may use only resolved shared families and shared settings now, and that collection-dependent and PDP-dependent preset assumptions must stay blocked or placeholder-bound.
-- `Verified`: `UNIT-138` records homepage-first shared defaults for `jewelry`, `apparel`, `electronics`, `beauty`, and `home-lifestyle` using admitted shared families and shared settings only, while keeping collection-template and PDP-template assumptions explicit placeholders.
-- `Verified`: `UNIT-139` records that one exact homepage-only preset-pack runtime-facing boundary can now be stated as a future homepage composition/defaults contract, while runtime implementation, runtime file scope, schema scope, and blocked collection/PDP domains remain fail-closed.
-- `Verified`: `UNIT-140` records that homepage-first preset-pack planning is locally exhausted at the docs-only contract-definition edge, that no later implementation-admission proposal is justified from the current evidence, and that the repo should remain paused until fresh canonical evidence appears.
-- `Verified`: `UNIT-141` preserves that governed pause without altering the admitted homepage-only preset composition/defaults contract or reopening any blocked collection/PDP domain.
-- `Verified`: `state/NEXT_ACTION.md` remains pinned to `UNIT-141` as the active governed pause state rather than advancing to a new planning or runtime unit.
+- `Verified`: The local corpus covers 9 store captures with homepage, collection, PDP, page, blog, search, and policy evidence.
+- `Verified`: The current runtime contains reusable section primitives and 33 `page.stone-runtime*.json` templates.
+- `Verified`: The current runtime includes one canonical homepage host template at `index.json` and still lacks other canonical Shopify host templates such as `collection.json`, `product.json`, `blog.json`, `article.json`, `search.json`, `list-collections.json`, and `cart.json`.
+- `Verified`: The homepage-first runtime proof exists in `stone-base.css`, `stone-hero-opening.liquid`, `index.json`, and the two locale schema files only.
+- `Verified`: `project/layout/theme.liquid` currently contains a base body shell and `MainContent`, but no header, footer, primary navigation, utility navigation, search entry, cart entry, or locale-switch shell.
+- `Verified`: `collection companion`, `PDP companion`, `collection behavior`, `PDP support behavior`, `collection-template starter structure`, and `PDP-template starter structure` remain explicit and blocked.
+- `Verified`: `UNIT-152` is now approved as the next docs-only global shell/navigation runtime-boundary package.
+- `Verified`: `UNIT-147` through `UNIT-151` remain pre-authored conditional packages and are not approved.
 
 ## Changed Or Seeded Files
 
-- `Verified`: `project/assets/stone-base.css`
-- `Verified`: `project/sections/stone-shoppable-media-motion-story.liquid`
-- `Verified`: `project/templates/page.stone-runtime-shoppable-media-motion-story.json`
-- `Verified`: `project/locales/he.default.schema.json`
-- `Verified`: `project/locales/en.schema.json`
-- `Verified`: `workspace/plans/phase-3-post-shoppable-media-motion-story-frontier-review-v1/PLAN.v1.md`
-- `Verified`: `workspace/plans/phase-3-post-shoppable-media-motion-story-frontier-review-v1/ASSUMPTIONS.v1.md`
-- `Verified`: `workspace/plans/phase-3-post-shoppable-media-motion-story-frontier-review-v1/CHECKS.v1.md`
-- `Verified`: `workspace/plans/phase-3-post-shoppable-media-motion-story-frontier-review-v1/RISKS.v1.md`
-- `Verified`: `workspace/plans/phase-3-post-shoppable-media-motion-story-frontier-review-v1/HANDOFF.v1.md`
-- `Verified`: `workspace/plans/phase-3-post-shoppable-media-controlled-expansion-proposal-v1/PLAN.v1.md`
-- `Verified`: `workspace/plans/phase-3-post-shoppable-media-controlled-expansion-proposal-v1/ASSUMPTIONS.v1.md`
-- `Verified`: `workspace/plans/phase-3-post-shoppable-media-controlled-expansion-proposal-v1/CHECKS.v1.md`
-- `Verified`: `workspace/plans/phase-3-post-shoppable-media-controlled-expansion-proposal-v1/RISKS.v1.md`
-- `Verified`: `workspace/plans/phase-3-post-shoppable-media-controlled-expansion-proposal-v1/HANDOFF.v1.md`
-- `Verified`: `workspace/plans/phase-3-companion-systems-controlled-expansion-proposal-v1/PLAN.v1.md`
-- `Verified`: `workspace/plans/phase-3-companion-systems-controlled-expansion-proposal-v1/ASSUMPTIONS.v1.md`
-- `Verified`: `workspace/plans/phase-3-companion-systems-controlled-expansion-proposal-v1/CHECKS.v1.md`
-- `Verified`: `workspace/plans/phase-3-companion-systems-controlled-expansion-proposal-v1/RISKS.v1.md`
-- `Verified`: `workspace/plans/phase-3-companion-systems-controlled-expansion-proposal-v1/HANDOFF.v1.md`
-- `Verified`: `workspace/plans/phase-3-collection-companion-broader-boundary-v1/PLAN.v1.md`
-- `Verified`: `workspace/plans/phase-3-collection-companion-broader-boundary-v1/ASSUMPTIONS.v1.md`
-- `Verified`: `workspace/plans/phase-3-collection-companion-broader-boundary-v1/CHECKS.v1.md`
-- `Verified`: `workspace/plans/phase-3-collection-companion-broader-boundary-v1/RISKS.v1.md`
-- `Verified`: `workspace/plans/phase-3-collection-companion-broader-boundary-v1/HANDOFF.v1.md`
-- `Verified`: `workspace/plans/phase-3-collection-companion-controlled-expansion-proposal-v1/PLAN.v1.md`
-- `Verified`: `workspace/plans/phase-3-collection-companion-controlled-expansion-proposal-v1/ASSUMPTIONS.v1.md`
-- `Verified`: `workspace/plans/phase-3-collection-companion-controlled-expansion-proposal-v1/CHECKS.v1.md`
-- `Verified`: `workspace/plans/phase-3-collection-companion-controlled-expansion-proposal-v1/RISKS.v1.md`
-- `Verified`: `workspace/plans/phase-3-collection-companion-controlled-expansion-proposal-v1/HANDOFF.v1.md`
-- `Verified`: `workspace/plans/phase-3-collection-support-strip-boundary-v1/PLAN.v1.md`
-- `Verified`: `workspace/plans/phase-3-collection-support-strip-boundary-v1/ASSUMPTIONS.v1.md`
-- `Verified`: `workspace/plans/phase-3-collection-support-strip-boundary-v1/CHECKS.v1.md`
-- `Verified`: `workspace/plans/phase-3-collection-support-strip-boundary-v1/RISKS.v1.md`
-- `Verified`: `workspace/plans/phase-3-collection-support-strip-boundary-v1/HANDOFF.v1.md`
-- `Verified`: `workspace/plans/phase-3-collection-support-strip-runtime-readiness-proposal-v1/PLAN.v1.md`
-- `Verified`: `workspace/plans/phase-3-collection-support-strip-runtime-readiness-proposal-v1/ASSUMPTIONS.v1.md`
-- `Verified`: `workspace/plans/phase-3-collection-support-strip-runtime-readiness-proposal-v1/CHECKS.v1.md`
-- `Verified`: `workspace/plans/phase-3-collection-support-strip-runtime-readiness-proposal-v1/RISKS.v1.md`
-- `Verified`: `workspace/plans/phase-3-collection-support-strip-runtime-readiness-proposal-v1/HANDOFF.v1.md`
-- `Verified`: `workspace/plans/phase-3-collection-support-strip-runtime-boundary-v1/PLAN.v1.md`
-- `Verified`: `workspace/plans/phase-3-collection-support-strip-runtime-boundary-v1/ASSUMPTIONS.v1.md`
-- `Verified`: `workspace/plans/phase-3-collection-support-strip-runtime-boundary-v1/CHECKS.v1.md`
-- `Verified`: `workspace/plans/phase-3-collection-support-strip-runtime-boundary-v1/RISKS.v1.md`
-- `Verified`: `workspace/plans/phase-3-collection-support-strip-runtime-boundary-v1/HANDOFF.v1.md`
-- `Verified`: `workspace/plans/phase-3-post-collection-support-strip-runtime-boundary-frontier-review-v1/PLAN.v1.md`
-- `Verified`: `workspace/plans/phase-3-post-collection-support-strip-runtime-boundary-frontier-review-v1/ASSUMPTIONS.v1.md`
-- `Verified`: `workspace/plans/phase-3-post-collection-support-strip-runtime-boundary-frontier-review-v1/CHECKS.v1.md`
-- `Verified`: `workspace/plans/phase-3-post-collection-support-strip-runtime-boundary-frontier-review-v1/RISKS.v1.md`
-- `Verified`: `workspace/plans/phase-3-post-collection-support-strip-runtime-boundary-frontier-review-v1/HANDOFF.v1.md`
-- `Verified`: `workspace/plans/phase-3-post-collection-support-strip-controlled-expansion-proposal-v1/PLAN.v1.md`
-- `Verified`: `workspace/plans/phase-3-post-collection-support-strip-controlled-expansion-proposal-v1/ASSUMPTIONS.v1.md`
-- `Verified`: `workspace/plans/phase-3-post-collection-support-strip-controlled-expansion-proposal-v1/CHECKS.v1.md`
-- `Verified`: `workspace/plans/phase-3-post-collection-support-strip-controlled-expansion-proposal-v1/RISKS.v1.md`
-- `Verified`: `workspace/plans/phase-3-post-collection-support-strip-controlled-expansion-proposal-v1/HANDOFF.v1.md`
-- `Verified`: `workspace/plans/phase-3-companion-roadmap-deferral-proposal-v1/PLAN.v1.md`
-- `Verified`: `workspace/plans/phase-3-companion-roadmap-deferral-proposal-v1/ASSUMPTIONS.v1.md`
-- `Verified`: `workspace/plans/phase-3-companion-roadmap-deferral-proposal-v1/CHECKS.v1.md`
-- `Verified`: `workspace/plans/phase-3-companion-roadmap-deferral-proposal-v1/RISKS.v1.md`
-- `Verified`: `workspace/plans/phase-3-companion-roadmap-deferral-proposal-v1/HANDOFF.v1.md`
-- `Verified`: `workspace/plans/phase-4-preset-pack-sequencing-proposal-v1/PLAN.v1.md`
-- `Verified`: `workspace/plans/phase-4-preset-pack-sequencing-proposal-v1/ASSUMPTIONS.v1.md`
-- `Verified`: `workspace/plans/phase-4-preset-pack-sequencing-proposal-v1/CHECKS.v1.md`
-- `Verified`: `workspace/plans/phase-4-preset-pack-sequencing-proposal-v1/RISKS.v1.md`
-- `Verified`: `workspace/plans/phase-4-preset-pack-sequencing-proposal-v1/HANDOFF.v1.md`
-- `Verified`: `workspace/plans/phase-4-preset-pack-boundary-proposal-v1/PLAN.v1.md`
-- `Verified`: `workspace/plans/phase-4-preset-pack-boundary-proposal-v1/ASSUMPTIONS.v1.md`
-- `Verified`: `workspace/plans/phase-4-preset-pack-boundary-proposal-v1/CHECKS.v1.md`
-- `Verified`: `workspace/plans/phase-4-preset-pack-boundary-proposal-v1/RISKS.v1.md`
-- `Verified`: `workspace/plans/phase-4-preset-pack-boundary-proposal-v1/HANDOFF.v1.md`
-- `Verified`: `workspace/plans/phase-4-preset-pack-shared-defaults-proposal-v1/PLAN.v1.md`
-- `Verified`: `workspace/plans/phase-4-preset-pack-shared-defaults-proposal-v1/ASSUMPTIONS.v1.md`
-- `Verified`: `workspace/plans/phase-4-preset-pack-shared-defaults-proposal-v1/CHECKS.v1.md`
-- `Verified`: `workspace/plans/phase-4-preset-pack-shared-defaults-proposal-v1/RISKS.v1.md`
-- `Verified`: `workspace/plans/phase-4-preset-pack-shared-defaults-proposal-v1/HANDOFF.v1.md`
-- `Verified`: `workspace/plans/phase-4-homepage-first-preset-pack-implementation-boundary-proposal-v1/PLAN.v1.md`
-- `Verified`: `workspace/plans/phase-4-homepage-first-preset-pack-implementation-boundary-proposal-v1/ASSUMPTIONS.v1.md`
-- `Verified`: `workspace/plans/phase-4-homepage-first-preset-pack-implementation-boundary-proposal-v1/CHECKS.v1.md`
-- `Verified`: `workspace/plans/phase-4-homepage-first-preset-pack-implementation-boundary-proposal-v1/RISKS.v1.md`
-- `Verified`: `workspace/plans/phase-4-homepage-first-preset-pack-implementation-boundary-proposal-v1/HANDOFF.v1.md`
+- `Verified`: `workspace/plans/phase-4-global-shell-navigation-reopen-boundary-v1/PLAN.v1.md`
+- `Verified`: `workspace/plans/phase-4-global-shell-navigation-reopen-boundary-v1/ASSUMPTIONS.v1.md`
+- `Verified`: `workspace/plans/phase-4-global-shell-navigation-reopen-boundary-v1/CHECKS.v1.md`
+- `Verified`: `workspace/plans/phase-4-global-shell-navigation-reopen-boundary-v1/RISKS.v1.md`
+- `Verified`: `workspace/plans/phase-4-global-shell-navigation-reopen-boundary-v1/HANDOFF.v1.md`
+- `Verified`: `workspace/plans/phase-4-global-shell-navigation-runtime-boundary-v1/PLAN.v1.md`
+- `Verified`: `workspace/plans/phase-4-global-shell-navigation-runtime-boundary-v1/ASSUMPTIONS.v1.md`
+- `Verified`: `workspace/plans/phase-4-global-shell-navigation-runtime-boundary-v1/CHECKS.v1.md`
+- `Verified`: `workspace/plans/phase-4-global-shell-navigation-runtime-boundary-v1/RISKS.v1.md`
+- `Verified`: `workspace/plans/phase-4-global-shell-navigation-runtime-boundary-v1/HANDOFF.v1.md`
 - `Verified`: `state/ORCHESTRATION_STATE.md`
 - `Verified`: `state/STATUS.md`
 - `Verified`: `state/NEXT_ACTION.md`
@@ -141,56 +46,25 @@
 
 ## Open Assumptions
 
-- `Verified`: Motion behavior remains native and non-JS, with manual inline video playback only.
-- `Verified`: No broader motion-system runtime step is approved.
-- `Verified`: No autoplay, no looping requirement, no custom playback controls, no wider JS scope, and no heavier commerce expansion are approved from the current frontier review.
-- `Verified`: No collection-template or PDP-template runtime work is approved from the current broader boundary.
-- `Verified`: No collection archive controls or navigation-system drift are approved from the current broader boundary.
-- `Verified`: No direct `PDP companion` reopening is approved from the current broader boundary.
-- `Verified`: No collection banner authority or curated collection explainer/editorial drift is approved from the current controlled-expansion proposal.
-- `Verified`: No runtime implementation is approved from the current runtime-readiness proposal.
-- `Verified`: No collection-derived strip contract or `product-card behavior` reuse is approved from the current runtime-readiness proposal.
-- `Verified`: No runtime implementation, runtime file scope, schema scope, or host-surface selection is approved from the current runtime-boundary package.
-- `Verified`: No support-strip implementation-admission proposal is approved from the current frontier review.
-- `Verified`: No later `collection companion` reopening is approved from the current controlled-expansion proposal.
-- `Verified`: No broader companion-family reopening is approved from the current controlled-expansion proposal.
-- `Verified`: Unresolved `collection companion` and `PDP companion` work are explicitly deferred behind later Phase 4 preset-pack planning.
-- `Verified`: No preset-pack boundary proposal may treat deferred companion-family work as implicitly resolved.
-- `Verified`: No collection behavior or PDP support behavior domain is approved as a preset-pack input from the current evidence.
-- `Verified`: No collection-template starter structure or PDP-template starter structure is approved from the shared-defaults evidence.
-- `Verified`: No homepage-only preset-pack implementation-boundary proposal may treat its contract as implementation approval.
-- `Verified`: No later preset-pack implementation-admission proposal is approved from the current evidence.
-- `Verified`: No further preset-pack planning unit is approved from the current evidence.
-- `Inference`: The honest next state remains a governed pause that preserves the homepage-only preset contract without consuming blocked companion domains.
+- `Verified`: The homepage-only preset composition/defaults contract from `UNIT-139` and `UNIT-140` remains intact.
+- `Verified`: The user-directed override has been consumed only to pass `UNIT-143`, execute `UNIT-144`, verify `UNIT-145`, and complete `UNIT-146` as docs-only.
+- `Verified`: No homepage lane beyond the exact `UNIT-144` five-file proof slice is approved.
+- `Verified`: No collection or PDP reopen is approved.
+- `Verified`: No shell/navigation runtime implementation is approved.
+- `Verified`: No editorial/search, preset realization, hardening, search-results behavior, predictive-search behavior, cart drawer behavior, or checkout-sensitive behavior lane is approved.
+- `Verified`: No authored package for `UNIT-147` through `UNIT-151` is approved to execute.
+- `Inference`: The verified homepage proof and shell reopen decision justify exact shell/navigation runtime-boundary authoring, not implementation.
 
 ## Recommended Next Step
 
-- `Verified`: Maintain the governed pause recorded as `UNIT-141`.
-- `Verified`: Do not reopen preset-pack planning or any implementation-admission review without fresh canonical evidence.
+- `Verified`: Execute `UNIT-152` only as the docs-only global shell/navigation runtime-boundary package.
+- `Verified`: Keep collection/PDP lanes blocked and keep `UNIT-147` through `UNIT-151` conditional until predecessor checks pass.
+- `Inference`: If `UNIT-152` cannot state an exact minimal runtime file boundary without broad shell drift, stop rather than widening the runtime scope.
 
 ## Resume Checks
 
-- `Verified`: Read `workspace/plans/phase-3-collection-companion-broader-boundary-v1/PLAN.v1.md` and `workspace/plans/phase-3-collection-companion-broader-boundary-v1/HANDOFF.v1.md`.
+- `Verified`: Read `workspace/plans/phase-4-global-shell-navigation-runtime-boundary-v1/PLAN.v1.md` and `workspace/plans/phase-4-global-shell-navigation-runtime-boundary-v1/HANDOFF.v1.md`.
 - `Verified`: Read `state/ORCHESTRATION_STATE.md`, `state/STATUS.md`, `state/NEXT_ACTION.md`, `state/FEATURE_STATUS.md`, `state/PROGRESS.md`, and `state/SESSION_LOG.md`.
-- `Verified`: Treat `UNIT-125` as accepted evidence that the bounded shoppable-media runway is locally exhausted at the motion-story edge.
-- `Verified`: Treat `UNIT-126` as accepted evidence that the next higher-boundary planning problem became a docs-only companion-systems question.
-- `Verified`: Treat `UNIT-127` as accepted evidence that any reopening must stay collection-first, docs-only, and fail-closed on runtime authorization.
-- `Verified`: Treat `UNIT-128` as accepted evidence that the family may reopen only through another docs-only collection-first proposal rather than a runtime-facing boundary.
-- `Verified`: Treat `UNIT-129` as accepted evidence that `collection support strip` is the only next narrowed lane justified strongly enough for a separate boundary package.
-- `Verified`: Treat `UNIT-130` as accepted evidence that one exact docs-only support-strip case can be defined but still does not justify runtime authorization.
-- `Verified`: Treat `UNIT-131` as accepted evidence that one later docs-only runtime-facing boundary is justified only for an editor-authored collection-page-hosted support strip and still does not justify runtime implementation.
-- `Verified`: Treat `UNIT-132` as accepted evidence that one exact docs-only runtime-facing boundary can now be stated while runtime implementation and implementation-surface authorization remain fail-closed.
-- `Verified`: Treat `UNIT-133` as accepted evidence that support-strip planning is locally exhausted at the docs-only contract-definition edge and does not justify a support-strip implementation-admission step.
-- `Verified`: Treat `UNIT-134` as accepted evidence that no later `collection companion` or broader companion-family reopening is justified from the current evidence and that only a roadmap-deferral planning question remains approved.
-- `Verified`: Treat `UNIT-135` as accepted evidence that unresolved `collection companion` and `PDP companion` work are explicitly deferred behind later Phase 4 preset-pack planning.
-- `Verified`: Treat `UNIT-136` as accepted evidence that Phase 4 preset-pack planning may begin only through a docs-only preset-pack boundary proposal that keeps deferred companion-family work explicit and runtime authorization fail-closed.
-- `Verified`: Treat `UNIT-137` as accepted evidence that only resolved shared families and shared settings may inform preset planning now, and that companion-dependent preset assumptions must stay blocked or placeholder-bound.
-- `Verified`: Treat `UNIT-138` as accepted evidence that the five roadmap presets can now be expressed coherently through homepage-first shared defaults only, while collection-template and PDP-template assumptions remain blocked or placeholder-bound.
-- `Verified`: Treat `UNIT-139` as accepted evidence that one exact homepage-only preset-pack runtime-facing boundary can now be stated as a future homepage composition/defaults contract while runtime implementation and blocked collection/PDP domains remain fail-closed.
-- `Verified`: Treat `UNIT-140` as accepted evidence that homepage-first preset-pack planning is locally exhausted at the contract-definition edge and that no later implementation-admission proposal is justified from the current evidence.
-- `Verified`: Run `node HARNESS/checks/harness-check.mjs` during the `UNIT-136` planning pass.
-- `Verified`: Run `node HARNESS/checks/harness-check.mjs` during the `UNIT-137` planning pass.
-- `Verified`: Run `node HARNESS/checks/harness-check.mjs` during the `UNIT-138` planning pass.
-- `Verified`: Run `node HARNESS/checks/harness-check.mjs` during the `UNIT-139` planning pass.
-- `Verified`: Run `node HARNESS/checks/harness-check.mjs` during the `UNIT-140` planning pass.
-- `Verified`: Do not authorize new runtime work, broader companion-family reopening, collection behavior, PDP support behavior, collection-template starter structure, PDP-template starter structure, preset implementation, or implementation-admission review unless fresh canonical evidence produces a new explicit approval package.
+- `Verified`: Treat the active approval as the docs-only continuation of a narrow user-directed homepage-first override plus the completed `UNIT-146` shell/navigation reopen decision.
+- `Verified`: Keep focus on exact shell/navigation runtime-boundary definition and the continued blocked status of collection/PDP, editorial/search, preset realization, hardening, search-results behavior, predictive search, cart drawer behavior, and checkout-sensitive behavior.
+- `Verified`: Run `node HARNESS/checks/harness-check.mjs`.

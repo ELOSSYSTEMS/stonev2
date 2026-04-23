@@ -1,0 +1,80 @@
+{
+  "pageUrl": "https://highlight-theme-main.myshopify.com/es/pages/help-faq",
+  "pageTitle": "Ayuda / Preguntas frecuentes – Highlight Theme",
+  "pageSlug": "highlight_theme_main_myshopify_com_es_pages_help_faq",
+  "sections": [
+    {
+      "refId": "highlight_theme_main_myshopify_com_es_pages_help_faq__section_01",
+      "index": 1,
+      "selectorHint": "#shopify-section-template--15101582868641__main",
+      "typeGuess": "content-section",
+      "patternTags": [
+        "top-of-page"
+      ],
+      "headingSample": [
+        "Ayuda / Preguntas frecuentes"
+      ],
+      "textSample": "Ayuda / Preguntas frecuentes MARCH no tiene control sobre los cargos adicionales al despacho de aduana. Si rechaza el paquete, por este motivo, las autoridades aduaneras pueden cobrarle a MARCH una tarifa de administración, y esta tarifa se deducirá del monto del reembolso solici",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/highlight-theme-main/elements/highlight_theme_main_myshopify_com_es_pages_help_faq/highlight_theme_main_myshopify_com_es_pages_help_faq__section_01.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/highlight-theme-main/pages/highlight_theme_main_myshopify_com_es_pages_help_faq.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/highlight-theme-main/pages/highlight_theme_main_myshopify_com_es_pages_help_faq.json"
+    },
+    {
+      "refId": "highlight_theme_main_myshopify_com_es_pages_help_faq__section_02",
+      "index": 2,
+      "selectorHint": "#shopify-section-template--15101582868641__faq",
+      "typeGuess": "content-section",
+      "patternTags": [
+        "product-commerce"
+      ],
+      "headingSample": [
+        "Preguntas frecuentes"
+      ],
+      "textSample": "Preguntas frecuentes Detalles de envío Los costos de envío estimados se indicarán cuando su carrito de compras esté listo para pagar. Detalles de la entrega Las entregas a países fuera de la Unión Europea pueden estar sujetas a aranceles y/o impuestos de importación, que se cobra",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/highlight-theme-main/elements/highlight_theme_main_myshopify_com_es_pages_help_faq/highlight_theme_main_myshopify_com_es_pages_help_faq__section_02.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/highlight-theme-main/pages/highlight_theme_main_myshopify_com_es_pages_help_faq.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/highlight-theme-main/pages/highlight_theme_main_myshopify_com_es_pages_help_faq.json"
+    },
+    {
+      "refId": "highlight_theme_main_myshopify_com_es_pages_help_faq__section_03",
+      "index": 3,
+      "selectorHint": "#shopify-section-template--15101582868641__1632465486836cba2b",
+      "typeGuess": "content-section",
+      "patternTags": [],
+      "headingSample": [
+        "Otras preguntas frecuentes"
+      ],
+      "textSample": "Otras preguntas frecuentes ¿Cómo funciona el distintivo reflectante MARCH? La insignia reflectante funciona como un reflector de seguridad regular. Cuando está oscuro afuera y una fuente de luz apunta directamente a la superficie reflectante, refleja esa luz. El distintivo no bri",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/highlight-theme-main/elements/highlight_theme_main_myshopify_com_es_pages_help_faq/highlight_theme_main_myshopify_com_es_pages_help_faq__section_03.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/highlight-theme-main/pages/highlight_theme_main_myshopify_com_es_pages_help_faq.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/highlight-theme-main/pages/highlight_theme_main_myshopify_com_es_pages_help_faq.json"
+    },
+    {
+      "refId": "highlight_theme_main_myshopify_com_es_pages_help_faq__section_04",
+      "index": 4,
+      "selectorHint": "#shopify-section-sections--16050587173025__text-columns-with-icons",
+      "typeGuess": "content-section",
+      "patternTags": [],
+      "headingSample": [],
+      "textSample": "Same Day Dispatch All orders placed before 4pm Monday to Friday are dispatched same day. Free & Fast Delivery A free fully-trackable 2-day delivery service on all orders over $150. Exchanges & Returns You have 30 days from the shipping date to return your purchase FREE OF CHARGE.",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/highlight-theme-main/elements/highlight_theme_main_myshopify_com_es_pages_help_faq/highlight_theme_main_myshopify_com_es_pages_help_faq__section_04.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/highlight-theme-main/pages/highlight_theme_main_myshopify_com_es_pages_help_faq.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/highlight-theme-main/pages/highlight_theme_main_myshopify_com_es_pages_help_faq.json"
+    },
+    {
+      "refId": "highlight_theme_main_myshopify_com_es_pages_help_faq__section_05",
+      "index": 5,
+      "selectorHint": "#shopify-section-sections--16050587173025__footer",
+      "typeGuess": "cta-section",
+      "patternTags": [
+        "cta-cluster",
+        "card-grid"
+      ],
+      "headingSample": [],
+      "textSample": "About MARCH does not invent new things but improves existing ones. LINKS Búsqueda Ayuda / Preguntas frecuentes Talla y ajuste Envío y devoluciones Contactos Newsletter Correo electrónico Registrarme Invite customers to join your newsletter.Link to your privacy policy. Idioma Espa",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/highlight-theme-main/elements/highlight_theme_main_myshopify_com_es_pages_help_faq/highlight_theme_main_myshopify_com_es_pages_help_faq__section_05.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/highlight-theme-main/pages/highlight_theme_main_myshopify_com_es_pages_help_faq.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/highlight-theme-main/pages/highlight_theme_main_myshopify_com_es_pages_help_faq.json"
+    }
+  ]
+}

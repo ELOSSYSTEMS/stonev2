@@ -1,0 +1,49 @@
+{
+  "url": "https://salt-yard.myshopify.com/pages/customer-help",
+  "title": "Customer Help – Symmetry Theme Salt Yard",
+  "bodyClasses": "template-page\n swatch-source-theme swatch-method-variant-images swatch-style-icon_square cc-animate-enabled",
+  "headings": [
+    "Customer Help",
+    "Do you ship overseas?",
+    "How long will it take to get my order?",
+    "What shipping carriers do you use?",
+    "Can I return my product?",
+    "Can I get my product personalized?",
+    "Are these Q&As real?",
+    "Sign up and get 10% off your first order"
+  ],
+  "customElements": [
+    "announcement-bar",
+    "cart-drawer",
+    "cart-form",
+    "countdown-timer",
+    "country-selector",
+    "main-navigation",
+    "main-search",
+    "mobile-disclosure",
+    "page-header",
+    "pop-up",
+    "product-block",
+    "search-suggestions",
+    "shopify-account",
+    "shopify-store"
+  ],
+  "mainOuterHtml": "<main id=\"content\" role=\"main\">\n    <div class=\"container cf\">\n\n      <div id=\"shopify-section-template--26857880158281__main\" class=\"shopify-section page-section-spacing\"><div class=\"container container--reading-width\"><div class=\"page-header\">\n      <h1 class=\"majortitle\">Customer Help</h1>\n    </div><div class=\"rte cf\"><h3>Do you ship overseas?</h3>\n<p>Yes, we ship all over the world. Shipping costs will apply, and will be added at checkout. We run discounts and promotions all year, so stay tuned for exclusive deals.</p>\n<h3>How long will it take to get my order?</h3>\n<p>It depends on where you are. Orders processed here will take 5-7 business days to arrive. Overseas deliveries can take anywhere from 7-16 days. Delivery details will be provided in your confirmation email.</p>\n<h3>What shipping carriers do you use?</h3>\n<p>We use all major carriers, and local courier partners. You’ll be asked to select a delivery method during checkout.</p>\n<h3>Can I return my product?</h3>\n<p>We always aim for make sure our customers love our products, but if you do need to return an order, we’re happy to help. Just email us directly and we’ll take you through the process.</p>\n<h3>Can I get my product personalized?</h3>\n<p>It depends on the creator and the product. All options are outlined on the product page, so look out for customization options there.</p>\n<h3>Are these Q&amp;As real?</h3>\n<p>No. This is demonstration content, designed to showcase how pages could look with your own content.</p></div>\n</div>\n\n\n\n\n</div>\n\n    </div>\n  </main>",
+  "sections": [
+    {
+      "index": 1,
+      "id": null,
+      "tag": "div",
+      "classes": "container cf",
+      "headingSample": [
+        "Customer Help",
+        "Do you ship overseas?",
+        "How long will it take to get my order?",
+        "What shipping carriers do you use?",
+        "Can I return my product?",
+        "Can I get my product personalized?"
+      ],
+      "outerHTML": "<div class=\"container cf\">\n\n      <div id=\"shopify-section-template--26857880158281__main\" class=\"shopify-section page-section-spacing\"><div class=\"container container--reading-width\"><div class=\"page-header\">\n      <h1 class=\"majortitle\">Customer Help</h1>\n    </div><div class=\"rte cf\"><h3>Do you ship overseas?</h3>\n<p>Yes, we ship all over the world. Shipping costs will apply, and will be added at checkout. We run discounts and promotions all year, so stay tuned for exclusive deals.</p>\n<h3>How long will it take to get my order?</h3>\n<p>It depends on where you are. Orders processed here will take 5-7 business days to arrive. Overseas deliveries can take anywhere from 7-16 days. Delivery details will be provided in your confirmation email.</p>\n<h3>What shipping carriers do you use?</h3>\n<p>We use all major carriers, and local courier partners. You’ll be asked to select a delivery method during checkout.</p>\n<h3>Can I return my product?</h3>\n<p>We always aim for make sure our customers love our products, but if you do need to return an order, we’re happy to help. Just email us directly and we’ll take you through the process.</p>\n<h3>Can I get my product personalized?</h3>\n<p>It depends on the creator and the product. All options are outlined on the product page, so look out for customization options there.</p>\n<h3>Are these Q&amp;As real?</h3>\n<p>No. This is demonstration content, designed to showcase how pages could look with your own content.</p></div>\n</div>\n\n\n\n\n</div>\n\n    </div>"
+    }
+  ]
+}

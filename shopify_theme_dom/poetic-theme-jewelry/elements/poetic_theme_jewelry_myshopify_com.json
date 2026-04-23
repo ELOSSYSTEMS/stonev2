@@ -1,0 +1,111 @@
+{
+  "pageUrl": "https://poetic-theme-jewelry.myshopify.com/",
+  "pageTitle": "Poetic Theme Jewelry",
+  "pageSlug": "poetic_theme_jewelry_myshopify_com",
+  "sections": [
+    {
+      "refId": "poetic_theme_jewelry_myshopify_com__section_01",
+      "index": 1,
+      "selectorHint": "#shopify-section-template--20973157187736__spacer_caQFRj",
+      "typeGuess": "content-section",
+      "patternTags": [
+        "top-of-page"
+      ],
+      "headingSample": [],
+      "textSample": "#spacer--template--20973157187736__spacer_caQFRj { padding-top: 50px; padding-bottom: 30px; --line-opacity: 0.1; } @media only screen and (max-width: 749px) { #spacer--template--20973157187736__spacer_caQFRj { padding-top: calc(50 * 0.6)px; padding-bottom: calc(30 * 0.6)px; } }",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/poetic-theme-jewelry/elements/poetic_theme_jewelry_myshopify_com/poetic_theme_jewelry_myshopify_com__section_01.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/poetic-theme-jewelry/pages/poetic_theme_jewelry_myshopify_com.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/poetic-theme-jewelry/pages/poetic_theme_jewelry_myshopify_com.json"
+    },
+    {
+      "refId": "poetic_theme_jewelry_myshopify_com__section_02",
+      "index": 2,
+      "selectorHint": "#shopify-section-template--20973157187736__collection_list_g3YQLM",
+      "typeGuess": "product-grid",
+      "patternTags": [
+        "image-heavy",
+        "slider",
+        "cta-cluster",
+        "card-grid",
+        "product-commerce",
+        "category-navigation",
+        "editorial-media"
+      ],
+      "headingSample": [],
+      "textSample": "#collection-list-template--20973157187736__collection_list_g3YQLM { --collection-list-padding-top: 32px; --collection-list-padding-bottom: 0px; } #collection-card-featured_collection_MJ9KY4 { --overlay-media-opacity: 0.1; } Birthstones Collection Quick View BIRTHSTONES COLLECTION",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/poetic-theme-jewelry/elements/poetic_theme_jewelry_myshopify_com/poetic_theme_jewelry_myshopify_com__section_02.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/poetic-theme-jewelry/pages/poetic_theme_jewelry_myshopify_com.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/poetic-theme-jewelry/pages/poetic_theme_jewelry_myshopify_com.json"
+    },
+    {
+      "refId": "poetic_theme_jewelry_myshopify_com__section_03",
+      "index": 3,
+      "selectorHint": "#shopify-section-template--20973157187736__featured_collection_gird_w86kqK",
+      "typeGuess": "product-grid",
+      "patternTags": [
+        "image-heavy",
+        "slider",
+        "cta-cluster",
+        "card-grid",
+        "product-commerce",
+        "category-navigation",
+        "editorial-media"
+      ],
+      "headingSample": [],
+      "textSample": ".section-template--20973157187736__featured_collection_gird_w86kqK-padding { padding-top: 15px; padding-bottom: 27px; } .section-template--20973157187736__featured_collection_gird_w86kqK-padding .bg-view-more.grid__item:before { opacity: 0.0; } @media screen and (min-width: 750px",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/poetic-theme-jewelry/elements/poetic_theme_jewelry_myshopify_com/poetic_theme_jewelry_myshopify_com__section_03.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/poetic-theme-jewelry/pages/poetic_theme_jewelry_myshopify_com.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/poetic-theme-jewelry/pages/poetic_theme_jewelry_myshopify_com.json"
+    },
+    {
+      "refId": "poetic_theme_jewelry_myshopify_com__section_04",
+      "index": 4,
+      "selectorHint": "#shopify-section-template--20973157187736__image_banner_jkGfad",
+      "typeGuess": "editorial-media",
+      "patternTags": [
+        "image-heavy",
+        "cta-cluster",
+        "category-navigation",
+        "editorial-media"
+      ],
+      "headingSample": [],
+      "textSample": "#Banner-template--20973157187736__image_banner_jkGfad .banner .banner__media{ --image-ratio: 1.5432098765432098; --banner-image-url: url('//poetic-theme-jewelry.myshopify.com/cdn/shop/files/63134AF2-A12B-4450-B1F6-9694B3AC8924.jpg?v=1758687454&width=400'); --banner-image-focal-po",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/poetic-theme-jewelry/elements/poetic_theme_jewelry_myshopify_com/poetic_theme_jewelry_myshopify_com__section_04.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/poetic-theme-jewelry/pages/poetic_theme_jewelry_myshopify_com.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/poetic-theme-jewelry/pages/poetic_theme_jewelry_myshopify_com.json"
+    },
+    {
+      "refId": "poetic_theme_jewelry_myshopify_com__section_05",
+      "index": 5,
+      "selectorHint": "#shopify-section-template--20973157187736__text_with_images_NAtTYH",
+      "typeGuess": "editorial-media",
+      "patternTags": [
+        "image-heavy",
+        "product-commerce",
+        "category-navigation",
+        "editorial-media"
+      ],
+      "headingSample": [],
+      "textSample": "#template--20973157187736__text_with_images_NAtTYH { padding-top: 50px; padding-bottom: 50px; --image-height: 75px; --line-height: 75px; } #template--20973157187736__text_with_images_NAtTYH .text-with-images .text-with-images__container { max-width: var(--content-width); } Establ",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/poetic-theme-jewelry/elements/poetic_theme_jewelry_myshopify_com/poetic_theme_jewelry_myshopify_com__section_05.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/poetic-theme-jewelry/pages/poetic_theme_jewelry_myshopify_com.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/poetic-theme-jewelry/pages/poetic_theme_jewelry_myshopify_com.json"
+    },
+    {
+      "refId": "poetic_theme_jewelry_myshopify_com__section_06",
+      "index": 6,
+      "selectorHint": "#shopify-section-template--20973157187736__image_with_text_m9qxci",
+      "typeGuess": "editorial-media",
+      "patternTags": [
+        "image-heavy",
+        "product-commerce",
+        "editorial-media"
+      ],
+      "headingSample": [],
+      "textSample": "#image-with-text-template--20973157187736__image_with_text_m9qxci { --section-padding-top: 0px; --section-padding-bottom: 0px; } Radiant Gifts #image-with-text__heading-heading_FpH6yW, #image-with-text__heading-heading_FpH6yW * { } Mira Necklace Inspired by the historic art scene",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/poetic-theme-jewelry/elements/poetic_theme_jewelry_myshopify_com/poetic_theme_jewelry_myshopify_com__section_06.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/poetic-theme-jewelry/pages/poetic_theme_jewelry_myshopify_com.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/poetic-theme-jewelry/pages/poetic_theme_jewelry_myshopify_com.json"
+    }
+  ]
+}

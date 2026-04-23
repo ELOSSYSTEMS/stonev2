@@ -1,0 +1,73 @@
+{
+  "jobId": "shopify-theme-dom-20260409-193258-587497",
+  "command": "batch",
+  "mode": "full",
+  "outputRoot": "/home/elos/.openclaw/workspace/shopify_theme_dom",
+  "generatedAt": "2026-04-09T18:40:55.856Z",
+  "themesRequested": 7,
+  "themesCompleted": 6,
+  "themesFailed": 1,
+  "results": [
+    {
+      "themeSlug": "salt-yard",
+      "url": "https://salt-yard.myshopify.com/",
+      "outputDir": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard",
+      "discoveredCount": 105,
+      "scrapedCount": 105,
+      "inspirationReferenceCount": 100,
+      "state": "completed"
+    },
+    {
+      "themeSlug": "highlight-theme-main",
+      "url": "https://highlight-theme-main.myshopify.com/",
+      "outputDir": "/home/elos/.openclaw/workspace/shopify_theme_dom/highlight-theme-main",
+      "discoveredCount": 275,
+      "scrapedCount": 275,
+      "inspirationReferenceCount": 1124,
+      "state": "completed"
+    },
+    {
+      "themeSlug": "poetic-theme-jewelry",
+      "url": "https://poetic-theme-jewelry.myshopify.com/",
+      "outputDir": "/home/elos/.openclaw/workspace/shopify_theme_dom/poetic-theme-jewelry",
+      "state": "failed",
+      "error": "page.goto: Timeout 45000ms exceeded.\nCall log:\n  - navigating to \"https://poetic-theme-jewelry.myshopify.com/products/hat\", waiting until \"domcontentloaded\"\n"
+    },
+    {
+      "themeSlug": "zap-main",
+      "url": "https://zap-main.myshopify.com/",
+      "outputDir": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main",
+      "discoveredCount": 205,
+      "scrapedCount": 205,
+      "inspirationReferenceCount": 632,
+      "state": "completed"
+    },
+    {
+      "themeSlug": "elegance-canvas",
+      "url": "https://elegance-canvas.myshopify.com/",
+      "outputDir": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas",
+      "discoveredCount": 122,
+      "scrapedCount": 122,
+      "inspirationReferenceCount": 250,
+      "state": "completed"
+    },
+    {
+      "themeSlug": "shift-sketch",
+      "url": "https://shift-sketch.myshopify.com/",
+      "outputDir": "/home/elos/.openclaw/workspace/shopify_theme_dom/shift-sketch",
+      "discoveredCount": 275,
+      "scrapedCount": 275,
+      "inspirationReferenceCount": 647,
+      "state": "completed"
+    },
+    {
+      "themeSlug": "dynamic-preview",
+      "url": "https://dynamic-preview.myshopify.com/",
+      "outputDir": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview",
+      "discoveredCount": 134,
+      "scrapedCount": 134,
+      "inspirationReferenceCount": 373,
+      "state": "completed"
+    }
+  ]
+}

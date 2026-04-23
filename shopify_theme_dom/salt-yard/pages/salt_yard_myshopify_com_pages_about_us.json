@@ -1,0 +1,38 @@
+{
+  "url": "https://salt-yard.myshopify.com/pages/about-us",
+  "title": "Shopify premium mobile friendly ecommerce theme - try for FREE! – Symmetry Theme Salt Yard",
+  "bodyClasses": "template-page\n swatch-source-theme swatch-method-variant-images swatch-style-icon_square cc-animate-enabled",
+  "headings": [
+    "About Us",
+    "Sign up and get 10% off your first order"
+  ],
+  "customElements": [
+    "announcement-bar",
+    "cart-drawer",
+    "cart-form",
+    "countdown-timer",
+    "country-selector",
+    "main-navigation",
+    "main-search",
+    "mobile-disclosure",
+    "page-header",
+    "pop-up",
+    "product-block",
+    "search-suggestions",
+    "shopify-account",
+    "shopify-store"
+  ],
+  "mainOuterHtml": "<main id=\"content\" role=\"main\">\n    <div class=\"container cf\">\n\n      <div id=\"shopify-section-template--26857880158281__main\" class=\"shopify-section page-section-spacing\"><div class=\"container container--reading-width\"><div class=\"page-header\">\n      <h1 class=\"majortitle\">About Us</h1>\n    </div><div class=\"rte cf\"><p><img src=\"https://cdn.shopify.com/s/files/1/0237/1187/files/store5_0e7b2224-5626-4d9a-af1d-3af14f91003a.jpg?v=1614947658\" alt=\"\"></p>\n<meta charset=\"utf-8\">\n<p>&nbsp;</p>\n<p><span>Our story began in 2001 in a small studio in the middle of nowhere. With only one desk and next to no free time, our brand was born. Our passion for unique design and collaboration brought our vision, and products, to life.</span></p>\n<p>Our products bring together the finest materials and stunning design to create something very special. We believe in quality, care, and creating unique products that everyone can enjoy.</p>\n<p>Colorful, creative, and inspired by what we see everyday, each product represents what we love about the world we live in. We hope they’ll inspire you too.</p></div>\n</div>\n\n\n\n\n</div>\n\n    </div>\n  </main>",
+  "sections": [
+    {
+      "index": 1,
+      "id": null,
+      "tag": "div",
+      "classes": "container cf",
+      "headingSample": [
+        "About Us"
+      ],
+      "outerHTML": "<div class=\"container cf\">\n\n      <div id=\"shopify-section-template--26857880158281__main\" class=\"shopify-section page-section-spacing\"><div class=\"container container--reading-width\"><div class=\"page-header\">\n      <h1 class=\"majortitle\">About Us</h1>\n    </div><div class=\"rte cf\"><p><img src=\"https://cdn.shopify.com/s/files/1/0237/1187/files/store5_0e7b2224-5626-4d9a-af1d-3af14f91003a.jpg?v=1614947658\" alt=\"\"></p>\n<meta charset=\"utf-8\">\n<p>&nbsp;</p>\n<p><span>Our story began in 2001 in a small studio in the middle of nowhere. With only one desk and next to no free time, our brand was born. Our passion for unique design and collaboration brought our vision, and products, to life.</span></p>\n<p>Our products bring together the finest materials and stunning design to create something very special. We believe in quality, care, and creating unique products that everyone can enjoy.</p>\n<p>Colorful, creative, and inspired by what we see everyday, each product represents what we love about the world we live in. We hope they’ll inspire you too.</p></div>\n</div>\n\n\n\n\n</div>\n\n    </div>"
+    }
+  ]
+}

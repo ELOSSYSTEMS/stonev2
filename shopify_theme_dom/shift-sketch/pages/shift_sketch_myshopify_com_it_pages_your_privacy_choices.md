@@ -1,0 +1,39 @@
+# Shopify page scrape
+
+- URL: https://shift-sketch.myshopify.com/it/pages/your-privacy-choices
+- Title: Le tue scelte sulla privacy – Shift Sketch
+- Body classes: template-page template-page
+- Custom elements: cart-drawer, cart-drawer-items, header-drawer, header-search, menu-drawer, modal-localization-form, modal-region-selector, predictive-search, shop-cart-sync, sticky-header
+- Headings: Le tue scelte sulla privacy | Negozio | Negozio | Esplorare | Esplorare | Legal | Legal | Seguici | Iscriviti alla nostra newsletter
+
+## 1. shopify-section-template--27266934047095__page_info
+
+- Tag: section
+- Classes: shopify-section page-section
+- Headings: Le tue scelte sulla privacy
+
+```html
+<section id="shopify-section-template--27266934047095__page_info" class="shopify-section page-section"><link href="//shift-sketch.myshopify.com/cdn/shop/t/2/assets/section-main-page.css?v=122541859386650611581774270656" rel="stylesheet" type="text/css" media="all">
+
+<div class="page-section-wrapper container align-left">
+  <div class="page-header">
+    <div class="page-header__inner">
+      <h1 class="page-header__inner-title h5">Le tue scelte sulla privacy </h1>
+    </div>
+  </div><div class="rte">
+      <p><link rel="stylesheet" type="text/css" href="https://cdn.shopify.com/shopifycloud/privacy-banner/data-sale-opt-out.css"><meta charset="utf-8"></p>
+
+<p> Come descritto nella nostra Informativa sulla privacy, raccogliamo informazioni personali dalle tue interazioni con noi e con il nostro sito web, anche tramite cookie e tecnologie simili. Potremmo anche condividere queste informazioni personali con terze parti, inclusi partner pubblicitari. Lo facciamo per mostrarti annunci pubblicitari su altri siti web più pertinenti ai tuoi interessi e per altri motivi descritti nella nostra informativa sulla privacy.</p>
+
+<p> La condivisione di informazioni personali per pubblicità mirata basata sulla tua interazione su diversi siti web può essere considerata "vendita", "condivisione" o "pubblicità mirata" ai sensi di alcune leggi sulla privacy degli Stati Uniti. A seconda del luogo in cui vivi, potresti avere il diritto di rifiutare queste attività. Se desideri esercitare questo diritto di rifiuto, segui le istruzioni riportate di seguito.</p>
+
+ <p>Se visiti il ​​nostro sito web con il segnale di preferenza di esclusione del Controllo globale della privacy abilitato, a seconda di dove ti trovi, tratteremo questo come una richiesta di esclusione da attività che potrebbero essere considerate una "vendita" o una "condivisione" di informazioni personali o altri usi che potrebbero essere considerati pubblicità mirata per il dispositivo e il browser che hai utilizzato per visitare il nostro sito web. </p>
+
+<div id="pc--optOutFormContainer" data-not-applicable="To opt out of the &quot;sale&quot; or &quot;sharing&quot; of your personal information collected using cookies and other device-based identifiers as described above, you must be browsing from one of the applicable US states referred to above." data-description="If you would like to opt out of activity that may be considered a &quot;sale&quot; or &quot;share,&quot; or &quot;targeted advertising&quot;, please submit your email." data-email-label="Email" data-success="Opted-out successfully" data-error="A problem occurred, try submitting your email again" data-form-description="By clicking “opt out“, the browser on this device will be opted out of sharing personal data. If you select the checkbox and enter an email, the related customer account will also be opted out." data-form-email-label="Email" data-form-opt-out-account-label="Don't share data from my account (optional)" data-form-button-text="Opt out" data-form-opted-out="The browser on this device is opted out" data-form-success="You have successfully opted out" data-form-error="A problem occurred, please try again"></div>
+
+<p></p>
+    </div></div>
+
+
+</section>
+```

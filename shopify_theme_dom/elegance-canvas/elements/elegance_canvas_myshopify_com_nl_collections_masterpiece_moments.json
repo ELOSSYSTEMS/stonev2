@@ -1,0 +1,35 @@
+{
+  "pageUrl": "https://elegance-canvas.myshopify.com/nl/collections/masterpiece-moments",
+  "pageTitle": "Meesterlijke momenten – Elegance-canvas",
+  "pageSlug": "elegance_canvas_myshopify_com_nl_collections_masterpiece_moments",
+  "sections": [
+    {
+      "refId": "elegance_canvas_myshopify_com_nl_collections_masterpiece_moments__section_01",
+      "index": 1,
+      "selectorHint": "#shopify-section-template--19562840981686__main",
+      "typeGuess": "hero",
+      "patternTags": [
+        "hero-candidate",
+        "top-of-page",
+        "image-heavy",
+        "slider",
+        "cta-cluster",
+        "card-grid",
+        "product-commerce",
+        "category-navigation",
+        "editorial-media"
+      ],
+      "headingSample": [
+        "Digitale Harmonie",
+        "Vriendelijke bloesems",
+        "Gouden Lente",
+        "Sierlijke schoonheid",
+        "Alle filters"
+      ],
+      "textSample": ".section-template--19562840981686__main-padding { padding-top: 70px; padding-bottom: 70px; } @media screen and (min-width: 768px) { .section-template--19562840981686__main-padding { padding-top: 105px; padding-bottom: 105px; } } @media screen and (min-width: 1200px) { .section-te",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_nl_collections_masterpiece_moments/elegance_canvas_myshopify_com_nl_collections_masterpiece_moments__section_01.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/pages/elegance_canvas_myshopify_com_nl_collections_masterpiece_moments.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/pages/elegance_canvas_myshopify_com_nl_collections_masterpiece_moments.json"
+    }
+  ]
+}

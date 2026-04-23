@@ -1,0 +1,23 @@
+{
+  "pageUrl": "https://shift-sketch.myshopify.com/fr/pages/specifications",
+  "pageTitle": "Caractéristiques – Shift Sketch",
+  "pageSlug": "shift_sketch_myshopify_com_fr_pages_specifications",
+  "sections": [
+    {
+      "refId": "shift_sketch_myshopify_com_fr_pages_specifications__section_01",
+      "index": 1,
+      "selectorHint": "#shopify-section-template--27266934047095__page_info",
+      "typeGuess": "content-section",
+      "patternTags": [
+        "top-of-page"
+      ],
+      "headingSample": [
+        "Caractéristiques"
+      ],
+      "textSample": "Caractéristiques Cadre Structure en frêne massif et pieds en nylon. Assise en mousse de polyuréthane et revêtement mural. Couverture Tissu, cuir ou peau de selle. Housse amovible (sauf pour la peau de selle).",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/shift-sketch/elements/shift_sketch_myshopify_com_fr_pages_specifications/shift_sketch_myshopify_com_fr_pages_specifications__section_01.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/shift-sketch/pages/shift_sketch_myshopify_com_fr_pages_specifications.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/shift-sketch/pages/shift_sketch_myshopify_com_fr_pages_specifications.json"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "pageUrl": "https://dynamic-preview.myshopify.com/pt/collections/frontpage",
+  "pageTitle": "Página inicial – Dynamic",
+  "pageSlug": "dynamic_preview_myshopify_com_pt_collections_frontpage",
+  "sections": [
+    {
+      "refId": "dynamic_preview_myshopify_com_pt_collections_frontpage__section_01",
+      "index": 1,
+      "selectorHint": "#shopify-section-template--27935319883942__main-hero",
+      "typeGuess": "category-row",
+      "patternTags": [
+        "top-of-page",
+        "cta-cluster",
+        "card-grid",
+        "category-navigation",
+        "editorial-media"
+      ],
+      "headingSample": [
+        "Página inicial"
+      ],
+      "textSample": ".collection_list_wrapper-template--27935319883942__main-hero { padding-top: 0px; padding-bottom: 0px; margin: 0 10px;; } @media screen and (max-width: 640px) { .collection_list_wrapper-template--27935319883942__main-hero { padding-top: 0px; padding-bottom: 0px; } } Página inicial",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_pt_collections_frontpage/dynamic_preview_myshopify_com_pt_collections_frontpage__section_01.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/pages/dynamic_preview_myshopify_com_pt_collections_frontpage.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/pages/dynamic_preview_myshopify_com_pt_collections_frontpage.json"
+    },
+    {
+      "refId": "dynamic_preview_myshopify_com_pt_collections_frontpage__section_02",
+      "index": 2,
+      "selectorHint": "#shopify-section-template--27935319883942__main",
+      "typeGuess": "product-grid",
+      "patternTags": [
+        "image-heavy",
+        "slider",
+        "cta-cluster",
+        "card-grid",
+        "product-commerce",
+        "category-navigation",
+        "editorial-media",
+        "marquee"
+      ],
+      "headingSample": [
+        "Filtros"
+      ],
+      "textSample": ".main_collection_wrapper-template--27935319883942__main { padding-top: 50px; padding-bottom: 40px; } @media screen and (max-width: 640px) { .main_collection_wrapper-template--27935319883942__main { padding-top: 20px; padding-bottom: 20px; } } Filtro Total de produtos: 1 Ordenar p",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_pt_collections_frontpage/dynamic_preview_myshopify_com_pt_collections_frontpage__section_02.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/pages/dynamic_preview_myshopify_com_pt_collections_frontpage.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/pages/dynamic_preview_myshopify_com_pt_collections_frontpage.json"
+    }
+  ]
+}

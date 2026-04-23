@@ -8,14 +8,14 @@
 
 ## Current Phase
 
-- `Verified`: Active roadmap phase: Phase 4 homepage-first preset-pack implementation-boundary frontier review completed; `UNIT-141` maintained the resulting governed pause at the homepage-only preset-pack contract-definition frontier with runtime authorization and blocked companion-family domains still fail-closed
-- `Verified`: Last completed phase slice: Phase 4 post-homepage-first preset-pack implementation-boundary frontier review
-- `Inference`: No new bounded slice is justified from the current evidence; fresh canonical evidence would still be required before preset-pack planning or implementation-admission review can reopen honestly
+- `Verified`: Active roadmap phase: Phase 4 docs-only shell/navigation runtime-boundary after the completed shell/navigation reopen decision (`UNIT-146`)
+- `Verified`: Last completed phase slice: Phase 4 global shell/navigation reopen boundary (`UNIT-146`)
+- `Verified`: The user-directed governance override has now been consumed only to pass `UNIT-143`, execute `UNIT-144`, verify `UNIT-145`, and complete the docs-only `UNIT-146` shell/navigation reopen decision.
 
 ## Approval State
 
-- `Verified`: Current next action approval: CONDITIONALLY_APPROVED
-- `Verified`: Approval basis: `UNIT-140` concluded that homepage-first preset-pack planning is locally exhausted at the docs-only contract-definition edge, and `UNIT-141` maintained the resulting governed pause without admitting any new planning or implementation-authority scope
+- `Verified`: Current next action approval: APPROVED
+- `Verified`: Approval basis: `UNIT-146` passed as a docs-only shell/navigation reopen boundary and admitted only `UNIT-152`, a docs-only global shell/navigation runtime-boundary package, while keeping `UNIT-147` through `UNIT-151` blocked.
 
 ## Lock State
 

@@ -1,0 +1,29 @@
+{
+  "pageUrl": "https://salt-yard.myshopify.com/pages/customer-help",
+  "pageTitle": "Customer Help – Symmetry Theme Salt Yard",
+  "pageSlug": "salt_yard_myshopify_com_pages_customer_help",
+  "sections": [
+    {
+      "refId": "salt_yard_myshopify_com_pages_customer_help__section_01",
+      "index": 1,
+      "selectorHint": "div.container.cf",
+      "typeGuess": "content-section",
+      "patternTags": [
+        "top-of-page",
+        "product-commerce"
+      ],
+      "headingSample": [
+        "Customer Help",
+        "Do you ship overseas?",
+        "How long will it take to get my order?",
+        "What shipping carriers do you use?",
+        "Can I return my product?",
+        "Can I get my product personalized?"
+      ],
+      "textSample": "Customer Help Do you ship overseas? Yes, we ship all over the world. Shipping costs will apply, and will be added at checkout. We run discounts and promotions all year, so stay tuned for exclusive deals. How long will it take to get my order? It depends on where you are. Orders p",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_pages_customer_help/salt_yard_myshopify_com_pages_customer_help__section_01.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/pages/salt_yard_myshopify_com_pages_customer_help.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/pages/salt_yard_myshopify_com_pages_customer_help.json"
+    }
+  ]
+}

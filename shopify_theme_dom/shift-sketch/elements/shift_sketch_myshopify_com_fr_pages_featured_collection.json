@@ -1,0 +1,34 @@
+{
+  "pageUrl": "https://shift-sketch.myshopify.com/fr/pages/featured-collection",
+  "pageTitle": "Collection vedette – Shift Sketch",
+  "pageSlug": "shift_sketch_myshopify_com_fr_pages_featured_collection",
+  "sections": [
+    {
+      "refId": "shift_sketch_myshopify_com_fr_pages_featured_collection__section_01",
+      "index": 1,
+      "selectorHint": "#shopify-section-template--28054213394807__featured_collection_gb69FE",
+      "typeGuess": "hero",
+      "patternTags": [
+        "hero-candidate",
+        "top-of-page",
+        "image-heavy",
+        "cta-cluster",
+        "card-grid",
+        "product-commerce",
+        "category-navigation",
+        "editorial-media"
+      ],
+      "headingSample": [
+        "La maison n'est pas seulement un abri, c'est l'endroit où votre cœur trouve la paix.",
+        "Découvrez notre",
+        "Bloc-notes compact",
+        "Calendrier quotidien",
+        "Bloc-notes essentiel"
+      ],
+      "textSample": "#shopify-section-template--28054213394807__featured_collection_gb69FE { padding-top: 0; padding-bottom: 6rem; } @media screen and (min-width: 750px) { #shopify-section-template--28054213394807__featured_collection_gb69FE { padding-top: 0; padding-bottom: 8rem; } } @media screen a",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/shift-sketch/elements/shift_sketch_myshopify_com_fr_pages_featured_collection/shift_sketch_myshopify_com_fr_pages_featured_collection__section_01.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/shift-sketch/pages/shift_sketch_myshopify_com_fr_pages_featured_collection.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/shift-sketch/pages/shift_sketch_myshopify_com_fr_pages_featured_collection.json"
+    }
+  ]
+}

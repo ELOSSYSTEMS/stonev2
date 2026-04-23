@@ -1,0 +1,31 @@
+{
+  "pageUrl": "https://dynamic-preview.myshopify.com/blogs/news/the-science-of-radiance",
+  "pageTitle": "The Science of Radiance – Dynamic",
+  "pageSlug": "dynamic_preview_myshopify_com_blogs_news_the_science_of_radiance",
+  "sections": [
+    {
+      "refId": "dynamic_preview_myshopify_com_blogs_news_the_science_of_radiance__section_01",
+      "index": 1,
+      "selectorHint": "#shopify-section-template--27935319752870__article_nBjnMW",
+      "typeGuess": "editorial-media",
+      "patternTags": [
+        "top-of-page",
+        "product-commerce",
+        "category-navigation",
+        "editorial-media"
+      ],
+      "headingSample": [
+        "The Science of Radiance",
+        "Understanding Your Skin Barrier",
+        "The Power of Antioxidants",
+        "Cell Turnover and Renewal",
+        "Hydration at the Cellular Level",
+        "Collagen and Elasticity"
+      ],
+      "textSample": ".article_content__wrpr { padding-top: calc(16px / 2); padding-bottom: calc(16px / 2); } .article__hero-banner, .article__hero-banner img { border-radius: 10px; } .section-template--27935319752870__article_nBjnMW-padding { padding-top: calc(16px / 2); margin-left: 12px; margin-rig",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_blogs_news_the_science_of_radiance/dynamic_preview_myshopify_com_blogs_news_the_science_of_radiance__section_01.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/pages/dynamic_preview_myshopify_com_blogs_news_the_science_of_radiance.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/pages/dynamic_preview_myshopify_com_blogs_news_the_science_of_radiance.json"
+    }
+  ]
+}

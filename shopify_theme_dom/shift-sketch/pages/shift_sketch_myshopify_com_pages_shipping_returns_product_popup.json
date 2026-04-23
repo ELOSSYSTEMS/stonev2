@@ -1,0 +1,41 @@
+{
+  "url": "https://shift-sketch.myshopify.com/pages/shipping-returns-product-popup",
+  "title": "Shipping & Returns product popup – Shift Sketch",
+  "bodyClasses": "template-page template-page",
+  "headings": [
+    "Shipping & Returns product popup",
+    "Shop",
+    "Shop",
+    "Explore",
+    "Explore",
+    "Legal",
+    "Legal",
+    "Follow us",
+    "Join our Newsletter"
+  ],
+  "customElements": [
+    "cart-drawer",
+    "cart-drawer-items",
+    "header-drawer",
+    "header-search",
+    "menu-drawer",
+    "modal-localization-form",
+    "modal-region-selector",
+    "predictive-search",
+    "shop-cart-sync",
+    "sticky-header"
+  ],
+  "mainOuterHtml": "<main id=\"MainContent\" class=\"content-for-layout focus-none\" role=\"main\" tabindex=\"-1\">\n      <section id=\"shopify-section-template--27266934047095__page_info\" class=\"shopify-section page-section\"><link href=\"//shift-sketch.myshopify.com/cdn/shop/t/2/assets/section-main-page.css?v=122541859386650611581774270656\" rel=\"stylesheet\" type=\"text/css\" media=\"all\">\n\n<div class=\"page-section-wrapper container align-left\">\n  <div class=\"page-header\">\n    <div class=\"page-header__inner\">\n      <h1 class=\"page-header__inner-title h5\">Shipping &amp; Returns product popup</h1>\n    </div>\n  </div><div class=\"rte\">\n      <h6 style=\"font-weight: 500; font-size: 18px; margin-bottom: 12px;\">Shipping</h6>\n<p style=\"font-weight: 400; font-size: 14px; margin-bottom: 32px;\"><span>Orders are processed within 1–2 business days. Standard delivery typically takes 3–7 business days depending on location. Tracking details are provided once the order ships.</span></p>\n<h6 style=\"font-weight: 500; font-size: 18px; margin-bottom: 12px;\">Returns</h6>\n<p style=\"font-weight: 400; font-size: 14px;\"><span>Returns are accepted within 14 days for unused items in original condition. Items with visible signs of use may not be eligible for return.</span></p>\n    </div></div>\n\n\n</section>\n    </main>",
+  "sections": [
+    {
+      "index": 1,
+      "id": "shopify-section-template--27266934047095__page_info",
+      "tag": "section",
+      "classes": "shopify-section page-section",
+      "headingSample": [
+        "Shipping & Returns product popup"
+      ],
+      "outerHTML": "<section id=\"shopify-section-template--27266934047095__page_info\" class=\"shopify-section page-section\"><link href=\"//shift-sketch.myshopify.com/cdn/shop/t/2/assets/section-main-page.css?v=122541859386650611581774270656\" rel=\"stylesheet\" type=\"text/css\" media=\"all\">\n\n<div class=\"page-section-wrapper container align-left\">\n  <div class=\"page-header\">\n    <div class=\"page-header__inner\">\n      <h1 class=\"page-header__inner-title h5\">Shipping &amp; Returns product popup</h1>\n    </div>\n  </div><div class=\"rte\">\n      <h6 style=\"font-weight: 500; font-size: 18px; margin-bottom: 12px;\">Shipping</h6>\n<p style=\"font-weight: 400; font-size: 14px; margin-bottom: 32px;\"><span>Orders are processed within 1–2 business days. Standard delivery typically takes 3–7 business days depending on location. Tracking details are provided once the order ships.</span></p>\n<h6 style=\"font-weight: 500; font-size: 18px; margin-bottom: 12px;\">Returns</h6>\n<p style=\"font-weight: 400; font-size: 14px;\"><span>Returns are accepted within 14 days for unused items in original condition. Items with visible signs of use may not be eligible for return.</span></p>\n    </div></div>\n\n\n</section>"
+    }
+  ]
+}

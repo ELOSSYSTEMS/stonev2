@@ -1,0 +1,380 @@
+# Shopify page scrape
+
+- URL: https://zap-main.myshopify.com/es/pages/image-parallax-with-text
+- Title: Image parallax with text
+- Body classes: template-page template-page-features-image-parallax
+- Custom elements: burger-menu, cart-drawer, cart-drawer-items, cart-note, header-search, localization-form, predictive-search, product-card-small, shop-cart-sync, sticky-header
+- Headings: Infusión de miel y limón | Caja de luz | Caja de descubrimiento | Infusión de miel y limón | Caja de luz | Caja de descubrimiento | Subscribe to our Newsletter and Get 15% off your first order | Image parallax with text | Brewed to Refresh Every Sip | Brewed to Refresh Every Sip | Sobre nosotros | productos | productos | Servicio al cliente | Servicio al cliente | información | información
+
+## 1. shopify-section-template--26224011018559__main
+
+- Tag: section
+- Classes: shopify-section page-section
+- Headings: Image parallax with text
+
+```html
+<section id="shopify-section-template--26224011018559__main" class="shopify-section page-section"><link href="//zap-main.myshopify.com/cdn/shop/t/2/assets/section-main-page.css?v=165534704276754180541772782652" rel="stylesheet" type="text/css" media="all">
+<style data-shopify="">.section-template--26224011018559__main-padding {
+
+  padding-top: 4rem;
+
+
+
+  padding-bottom: 0;
+
+}
+
+@media screen and (min-width: 750px) { .section-template--26224011018559__main-padding {
+
+  padding-top: 5rem;
+
+
+
+  padding-bottom: 0;
+
+} }
+
+@media screen and (min-width: 1360px) { .section-template--26224011018559__main-padding {
+
+  padding-top: 8rem;
+
+
+
+  padding-bottom: 0;
+
+} }
+
+</style><div class="section-template--26224011018559__main-padding container page-width--narrow">
+  <div class="page-header">
+    <div class="page-header__inner">
+      <h1 class="main-page-title page-title title--page h2">Image parallax with text</h1>
+    </div>
+  </div>
+  <div class="rte">
+    
+  </div>
+</div>
+
+
+</section>
+```
+
+## 2. shopify-section-template--26224011018559__image_parallax_with_text_nmkaMR
+
+- Tag: section
+- Classes: shopify-section section-image-parallax-with-text overlay-section
+- Headings: Brewed to Refresh Every Sip
+
+```html
+<section id="shopify-section-template--26224011018559__image_parallax_with_text_nmkaMR" class="shopify-section section-image-parallax-with-text overlay-section"><link href="//zap-main.myshopify.com/cdn/shop/t/2/assets/section-image-parallax-with-text.css?v=43022329667377001871772782649" rel="stylesheet" type="text/css" media="all">
+<script src="//zap-main.myshopify.com/cdn/shop/t/2/assets/image-parallax.js?v=59313096678909689331774260000" defer="defer"></script><style data-shopify="">.section-template--26224011018559__image_parallax_with_text_nmkaMR-padding {
+
+  padding-top: 5rem;
+
+
+
+  padding-bottom: 5rem;
+
+}
+
+@media screen and (min-width: 750px) { .section-template--26224011018559__image_parallax_with_text_nmkaMR-padding {
+
+  padding-top: 7.2rem;
+
+
+
+  padding-bottom: 7.2rem;
+
+} }
+
+@media screen and (min-width: 1360px) { .section-template--26224011018559__image_parallax_with_text_nmkaMR-padding {
+
+  padding-top: 10rem;
+
+
+
+  padding-bottom: 10rem;
+
+} }
+
+  #shopify-section-template--26224011018559__image_parallax_with_text_nmkaMR {
+
+  padding-top: 0;
+
+
+
+  padding-bottom: 0;
+
+}
+
+@media screen and (min-width: 750px) { #shopify-section-template--26224011018559__image_parallax_with_text_nmkaMR {
+
+  padding-top: 0;
+
+
+
+  padding-bottom: 0;
+
+} }
+
+@media screen and (min-width: 1360px) { #shopify-section-template--26224011018559__image_parallax_with_text_nmkaMR {
+
+  padding-top: 0;
+
+
+
+  padding-bottom: 0;
+
+
+} }
+
+</style>
+<div class="image-parallax-with-text-container color-background-1 background">
+  <div class="image-parallax-with-text  image-parallax-with-text--border-top image-parallax-with-text--border-bottom section-template--26224011018559__image_parallax_with_text_nmkaMR-padding"><div class="container image-parallax-with-text__container"><div class="image-parallax-with-text__subheading-wrapper image-parallax-with-text__subheading-wrapper--animation-container image-parallax-with-text__subheading-wrapper--line-type-1 visible">
+          <p class="image-parallax-with-text__subheading body-xl">
+            <span class="image-parallax-with-text__text-wrapper">Flavors You Can Feel<svg viewBox="0 0 226 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <path d="M1.5 1.5C20.6941 1.5 28.3857 1.5431 41.7047 2.08333C83.1976 3.76631 124.846 3 166.371 3C184.854 3 203.259 1.5 221.71 1.5C235.545 1.5 194.139 3.75793 180.311 4.125C140.815 5.1734 101.351 6.52635 61.8664 7.83333C47.1491 8.32049 32.4254 8.56301 17.7071 9C16.2597 9.04297 13.7349 9.04813 12.0468 9.375C11.703 9.44156 12.7258 9.61324 13.0759 9.58333C34.3315 7.76788 56.1609 9.08245 77.4438 9.375C104.439 9.74607 131.515 9.1283 158.465 10.5" stroke="#fedc2d" stroke-width="2" stroke-linecap="round" class="image-parallax-with-text__line image-parallax-with-text__line--animation animated"></path>
+                  </svg>
+            </span>
+          </p>
+        </div>
+<h2 id="main-text-template--26224011018559__image_parallax_with_text_nmkaMR" class="image-parallax-with-text__main-text h1 animated-text" data-section-id="template--26224011018559__image_parallax_with_text_nmkaMR" data-animation-ready="true"><span class="word" style="--word-index: 0">Brewed</span><span class="word-space" style="--word-index: 0">&nbsp;</span><span class="word" style="--word-index: 1">to</span><span class="word-space" style="--word-index: 1">&nbsp;</span><span class="word" style="--word-index: 2">Refresh</span><span class="word-space" style="--word-index: 2">&nbsp;</span><span class="word" style="--word-index: 3">Every</span><span class="word-space" style="--word-index: 3">&nbsp;</span><span class="word" style="--word-index: 4">Sip</span></h2>
+<p class="image-parallax-with-text__description body-normal">Refreshing, bold, and perfectly balanced for any moment — a crisp brew made to energize, uplift, and keep you feeling fresh with every sip.</p><div class="image-parallax-with-text__button-wrapper">
+          
+
+
+
+
+  <a href="/es/collections/frontpage" aria-label="Shop Now" class="button button--primary image-parallax-with-text__button">
+    <div class="button__content">
+      <span class="button__label" data-label="Shop Now">Shop Now</span>
+    </div>
+    
+      <span class="animated-button-circle"></span>
+    
+  </a>
+
+
+        </div></div><style>.image-parallax-with-text__image-wrapper--elem-1 {
+            left: 11%;
+            top: calc(85% - 20%);
+          }
+          .image-parallax-with-text__image-wrapper--elem-1 .image-parallax-with-text__image-inner-wrapper {
+            rotate: 0deg;
+          }.image-parallax-with-text__image-wrapper--elem-2 {
+            left: 83%;
+            top: calc(31% - 20%);
+          }
+          .image-parallax-with-text__image-wrapper--elem-2 .image-parallax-with-text__image-inner-wrapper {
+            rotate: 0deg;
+          }.image-parallax-with-text__image-wrapper--elem-3 {
+            left: 9%;
+            top: calc(29% - 20%);
+          }
+          .image-parallax-with-text__image-wrapper--elem-3 .image-parallax-with-text__image-inner-wrapper {
+            rotate: 0deg;
+          }.image-parallax-with-text__image-wrapper--elem-4 {
+            left: 83%;
+            top: calc(85% - 20%);
+          }
+          .image-parallax-with-text__image-wrapper--elem-4 .image-parallax-with-text__image-inner-wrapper {
+            rotate: 0deg;
+          }</style><div class="
+            image-parallax
+            image-parallax-with-text__image-wrapper
+            image-parallax-with-text__image-wrapper--adapt
+            image-parallax-with-text__image-wrapper--elem-1
+            position-11-85
+          " data-parallax-property="translateY" data-parallax-property-value="100" data-parallax-steps="0, 100" data-parallax-direction="down" style="visibility: visible; transform: translateX(-50%) translateY(57.5974px);">
+          <div class="scroll-animate image-parallax-with-text__image-inner-wrapper image-parallax-with-text__image-inner-wrapper--rounded bounceIn visible" data-has-image-animation="true" style="width: 144px">
+            
+              
+<img src="//zap-main.myshopify.com/cdn/shop/files/Group_2.svg?v=1765553348&amp;width=149" alt="" srcset="//zap-main.myshopify.com/cdn/shop/files/Group_2.svg?v=1765553348&amp;width=100 100w" width="149" height="115" loading="lazy" fetchpriority="auto" sizes="(min-width: 0px) calc(144px * 1.3)" class="image-parallax-with-text__image">
+</div>
+        </div><div class="
+            image-parallax
+            image-parallax-with-text__image-wrapper
+            image-parallax-with-text__image-wrapper--square
+            image-parallax-with-text__image-wrapper--elem-2
+            position-83-31
+          " data-parallax-property="translateY" data-parallax-property-value="100" data-parallax-steps="0, 100" data-parallax-direction="up" style="visibility: visible; transform: translateX(-50%) translateY(24.2515px);">
+          <div class="scroll-animate image-parallax-with-text__image-inner-wrapper image-parallax-with-text__image-inner-wrapper--rounded bounceIn visible" data-has-image-animation="true" style="width: 88px">
+            
+              
+<img src="//zap-main.myshopify.com/cdn/shop/files/Group_13.svg?v=1765553316&amp;width=89" alt="" width="89" height="89" loading="lazy" fetchpriority="auto" sizes="(min-width: 0px) calc(88px * 1)" class="image-parallax-with-text__image">
+</div>
+        </div><div class="
+            image-parallax
+            image-parallax-with-text__image-wrapper
+            image-parallax-with-text__image-wrapper--square
+            image-parallax-with-text__image-wrapper--elem-3
+            position-9-29
+          " data-parallax-property="translateY" data-parallax-property-value="100" data-parallax-steps="0, 100" data-parallax-direction="down" style="visibility: visible; transform: translateX(-50%) translateY(74.7015px);">
+          <div class="scroll-animate image-parallax-with-text__image-inner-wrapper image-parallax-with-text__image-inner-wrapper--rounded bounceIn visible" data-has-image-animation="true" style="width: 140px">
+            
+              
+<img src="//zap-main.myshopify.com/cdn/shop/files/03-promo-01.webp?v=1765553237&amp;width=4000" alt="" srcset="//zap-main.myshopify.com/cdn/shop/files/03-promo-01.webp?v=1765553237&amp;width=100 100w, //zap-main.myshopify.com/cdn/shop/files/03-promo-01.webp?v=1765553237&amp;width=200 200w, //zap-main.myshopify.com/cdn/shop/files/03-promo-01.webp?v=1765553237&amp;width=300 300w, //zap-main.myshopify.com/cdn/shop/files/03-promo-01.webp?v=1765553237&amp;width=400 400w, //zap-main.myshopify.com/cdn/shop/files/03-promo-01.webp?v=1765553237&amp;width=600 600w, //zap-main.myshopify.com/cdn/shop/files/03-promo-01.webp?v=1765553237&amp;width=700 700w, //zap-main.myshopify.com/cdn/shop/files/03-promo-01.webp?v=1765553237&amp;width=800 800w, //zap-main.myshopify.com/cdn/shop/files/03-promo-01.webp?v=1765553237&amp;width=900 900w, //zap-main.myshopify.com/cdn/shop/files/03-promo-01.webp?v=1765553237&amp;width=1000 1000w, //zap-main.myshopify.com/cdn/shop/files/03-promo-01.webp?v=1765553237&amp;width=1200 1200w" width="4000" height="4000" loading="lazy" fetchpriority="auto" sizes="(min-width: 0px) calc(140px * 1)" class="image-parallax-with-text__image">
+</div>
+        </div><div class="
+            image-parallax
+            image-parallax-with-text__image-wrapper
+            image-parallax-with-text__image-wrapper--square
+            image-parallax-with-text__image-wrapper--elem-4
+            position-83-85
+          " data-parallax-property="translateY" data-parallax-property-value="100" data-parallax-steps="0, 100" data-parallax-direction="up" style="visibility: visible; transform: translateX(-50%) translateY(43.2101px);">
+          <div class="scroll-animate image-parallax-with-text__image-inner-wrapper image-parallax-with-text__image-inner-wrapper--rounded bounceIn visible" data-has-image-animation="true" style="width: 144px">
+            
+              
+<img src="//zap-main.myshopify.com/cdn/shop/files/03-promo-02.webp?v=1765553459&amp;width=4000" alt="" srcset="//zap-main.myshopify.com/cdn/shop/files/03-promo-02.webp?v=1765553459&amp;width=100 100w, //zap-main.myshopify.com/cdn/shop/files/03-promo-02.webp?v=1765553459&amp;width=200 200w, //zap-main.myshopify.com/cdn/shop/files/03-promo-02.webp?v=1765553459&amp;width=300 300w, //zap-main.myshopify.com/cdn/shop/files/03-promo-02.webp?v=1765553459&amp;width=400 400w, //zap-main.myshopify.com/cdn/shop/files/03-promo-02.webp?v=1765553459&amp;width=600 600w, //zap-main.myshopify.com/cdn/shop/files/03-promo-02.webp?v=1765553459&amp;width=700 700w, //zap-main.myshopify.com/cdn/shop/files/03-promo-02.webp?v=1765553459&amp;width=800 800w, //zap-main.myshopify.com/cdn/shop/files/03-promo-02.webp?v=1765553459&amp;width=900 900w, //zap-main.myshopify.com/cdn/shop/files/03-promo-02.webp?v=1765553459&amp;width=1000 1000w, //zap-main.myshopify.com/cdn/shop/files/03-promo-02.webp?v=1765553459&amp;width=1200 1200w" width="4000" height="4000" loading="lazy" fetchpriority="auto" sizes="(min-width: 0px) calc(144px * 1)" class="image-parallax-with-text__image">
+</div>
+        </div></div>
+</div>
+
+
+</section>
+```
+
+## 3. shopify-section-template--26224011018559__image_parallax_with_text_4AwUje
+
+- Tag: section
+- Classes: shopify-section section-image-parallax-with-text overlay-section
+- Headings: Brewed to Refresh Every Sip
+
+```html
+<section id="shopify-section-template--26224011018559__image_parallax_with_text_4AwUje" class="shopify-section section-image-parallax-with-text overlay-section"><link href="//zap-main.myshopify.com/cdn/shop/t/2/assets/section-image-parallax-with-text.css?v=43022329667377001871772782649" rel="stylesheet" type="text/css" media="all">
+<script src="//zap-main.myshopify.com/cdn/shop/t/2/assets/image-parallax.js?v=59313096678909689331774260000" defer="defer"></script><style data-shopify="">.section-template--26224011018559__image_parallax_with_text_4AwUje-padding {
+
+  padding-top: 6.4rem;
+
+
+
+  padding-bottom: 6.4rem;
+
+}
+
+@media screen and (min-width: 750px) { .section-template--26224011018559__image_parallax_with_text_4AwUje-padding {
+
+  padding-top: 8.8rem;
+
+
+
+  padding-bottom: 8.8rem;
+
+} }
+
+@media screen and (min-width: 1360px) { .section-template--26224011018559__image_parallax_with_text_4AwUje-padding {
+
+  padding-top: 15rem;
+
+
+
+  padding-bottom: 15rem;
+
+} }
+
+  #shopify-section-template--26224011018559__image_parallax_with_text_4AwUje {
+
+  padding-top: 0;
+
+
+
+  padding-bottom: 0;
+
+}
+
+@media screen and (min-width: 750px) { #shopify-section-template--26224011018559__image_parallax_with_text_4AwUje {
+
+  padding-top: 0;
+
+
+
+  padding-bottom: 0;
+
+} }
+
+@media screen and (min-width: 1360px) { #shopify-section-template--26224011018559__image_parallax_with_text_4AwUje {
+
+  padding-top: 0;
+
+
+
+  padding-bottom: 0;
+
+
+} }
+
+</style>
+<div class="image-parallax-with-text-container color-background-1 background">
+  <div class="image-parallax-with-text  image-parallax-with-text--border-bottom section-template--26224011018559__image_parallax_with_text_4AwUje-padding"><div class="image-parallax-with-text__bg-image-wrapper">
+          
+<picture style="display: block; width: 100%; height: 100%;">
+              <source srcset="//zap-main.myshopify.com/cdn/shop/files/Line.webp?v=1765439843&amp;width=360 360w, //zap-main.myshopify.com/cdn/shop/files/Line.webp?v=1765439843&amp;width=720 720w, //zap-main.myshopify.com/cdn/shop/files/Line.webp?v=1765439843&amp;width=1080 1080w, //zap-main.myshopify.com/cdn/shop/files/Line.webp?v=1765439843&amp;width=1200 1200w, //zap-main.myshopify.com/cdn/shop/files/Line.webp?v=1765439843&amp;width=1440 1440w, //zap-main.myshopify.com/cdn/shop/files/Line.webp?v=1765439843&amp;width=1800 1800w, //zap-main.myshopify.com/cdn/shop/files/Line.webp?v=1765439843&amp;width=2200 2200w, //zap-main.myshopify.com/cdn/shop/files/Line.webp?v=1765439843&amp;width=2800 2800w, //zap-main.myshopify.com/cdn/shop/files/Line.webp?v=1765439843&amp;width=3200 3200w, //zap-main.myshopify.com/cdn/shop/files/Line.webp?v=1765439843&amp;width=3840 3840w" media="(max-width: 575px)" sizes="calc(1.2 * 100vw)">
+              <source srcset="//zap-main.myshopify.com/cdn/shop/files/Line.webp?v=1765439843&amp;width=360 360w, //zap-main.myshopify.com/cdn/shop/files/Line.webp?v=1765439843&amp;width=720 720w, //zap-main.myshopify.com/cdn/shop/files/Line.webp?v=1765439843&amp;width=1080 1080w, //zap-main.myshopify.com/cdn/shop/files/Line.webp?v=1765439843&amp;width=1200 1200w, //zap-main.myshopify.com/cdn/shop/files/Line.webp?v=1765439843&amp;width=1440 1440w, //zap-main.myshopify.com/cdn/shop/files/Line.webp?v=1765439843&amp;width=1800 1800w, //zap-main.myshopify.com/cdn/shop/files/Line.webp?v=1765439843&amp;width=2200 2200w, //zap-main.myshopify.com/cdn/shop/files/Line.webp?v=1765439843&amp;width=2800 2800w, //zap-main.myshopify.com/cdn/shop/files/Line.webp?v=1765439843&amp;width=3200 3200w, //zap-main.myshopify.com/cdn/shop/files/Line.webp?v=1765439843&amp;width=3840 3840w" media="(min-width: 576px)" sizes="calc(1.2 * 100vw)">
+              <img src="//zap-main.myshopify.com/cdn/shop/files/Line.webp?v=1765439843&amp;width=4200" alt="" width="4200" height="2144" sizes="calc(1.2 * 100vw)" class="image-parallax-with-text__bg-image" loading="lazy" fetchpriority="auto" style="--focal_point_desktop: 50.0% 50.0%; --focal_point_mobile: 50.0% 50.0%;">
+            </picture></div><div class="container image-parallax-with-text__container"><div class="image-parallax-with-text__subheading-wrapper image-parallax-with-text__subheading-wrapper--animation-container image-parallax-with-text__subheading-wrapper--line-type-1 visible">
+          <p class="image-parallax-with-text__subheading body-xl">
+            <span class="image-parallax-with-text__text-wrapper">Flavors You Can Feel<svg viewBox="0 0 226 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <path d="M1.5 1.5C20.6941 1.5 28.3857 1.5431 41.7047 2.08333C83.1976 3.76631 124.846 3 166.371 3C184.854 3 203.259 1.5 221.71 1.5C235.545 1.5 194.139 3.75793 180.311 4.125C140.815 5.1734 101.351 6.52635 61.8664 7.83333C47.1491 8.32049 32.4254 8.56301 17.7071 9C16.2597 9.04297 13.7349 9.04813 12.0468 9.375C11.703 9.44156 12.7258 9.61324 13.0759 9.58333C34.3315 7.76788 56.1609 9.08245 77.4438 9.375C104.439 9.74607 131.515 9.1283 158.465 10.5" stroke="#000000" stroke-width="2" stroke-linecap="round" class="image-parallax-with-text__line image-parallax-with-text__line--animation animated"></path>
+                  </svg>
+            </span>
+          </p>
+        </div>
+<h2 id="main-text-template--26224011018559__image_parallax_with_text_4AwUje" class="image-parallax-with-text__main-text h1 animated-text" data-section-id="template--26224011018559__image_parallax_with_text_4AwUje" data-animation-ready="true"><span class="word" style="--word-index: 0">Brewed</span><span class="word-space" style="--word-index: 0">&nbsp;</span><span class="word" style="--word-index: 1">to</span><span class="word-space" style="--word-index: 1">&nbsp;</span><span class="word" style="--word-index: 2">Refresh</span><span class="word-space" style="--word-index: 2">&nbsp;</span><span class="word" style="--word-index: 3">Every</span><span class="word-space" style="--word-index: 3">&nbsp;</span><span class="word" style="--word-index: 4">Sip</span></h2>
+<p class="image-parallax-with-text__description body-normal">Refreshing, bold, and perfectly balanced for any moment — a crisp brew made to energize, uplift, and keep you feeling fresh with every sip.</p><div class="image-parallax-with-text__button-wrapper">
+          
+
+
+
+
+  <a href="/es/collections/frontpage" aria-label="Shop Now" class="button button--primary image-parallax-with-text__button">
+    <div class="button__content">
+      <span class="button__label" data-label="Shop Now">Shop Now</span>
+    </div>
+    
+      <span class="animated-button-circle"></span>
+    
+  </a>
+
+
+        </div></div><style>.image-parallax-with-text__image-wrapper--elem-1 {
+            left: 11%;
+            top: calc(85% - 20%);
+          }
+          .image-parallax-with-text__image-wrapper--elem-1 .image-parallax-with-text__image-inner-wrapper {
+            rotate: 0deg;
+          }.image-parallax-with-text__image-wrapper--elem-2 {
+            left: 83%;
+            top: calc(31% - 20%);
+          }
+          .image-parallax-with-text__image-wrapper--elem-2 .image-parallax-with-text__image-inner-wrapper {
+            rotate: 0deg;
+          }</style><div class="
+            
+            image-parallax-with-text__image-wrapper
+            image-parallax-with-text__image-wrapper--adapt
+            image-parallax-with-text__image-wrapper--elem-1
+            position-11-85
+          ">
+          <div class="scroll-animate image-parallax-with-text__image-inner-wrapper image-parallax-with-text__image-inner-wrapper--rounded bounceIn visible" data-has-image-animation="true" style="width: 144px">
+            
+              
+<img src="//zap-main.myshopify.com/cdn/shop/files/Group_2.svg?v=1765553348&amp;width=149" alt="" srcset="//zap-main.myshopify.com/cdn/shop/files/Group_2.svg?v=1765553348&amp;width=100 100w" width="149" height="115" loading="lazy" fetchpriority="auto" sizes="(min-width: 0px) calc(144px * 1.3)" class="image-parallax-with-text__image">
+</div>
+        </div><div class="
+            
+            image-parallax-with-text__image-wrapper
+            image-parallax-with-text__image-wrapper--square
+            image-parallax-with-text__image-wrapper--elem-2
+            position-83-31
+          ">
+          <div class="scroll-animate image-parallax-with-text__image-inner-wrapper image-parallax-with-text__image-inner-wrapper--rounded bounceIn visible" data-has-image-animation="true" style="width: 88px">
+            
+              
+<img src="//zap-main.myshopify.com/cdn/shop/files/Group_13.svg?v=1765553316&amp;width=89" alt="" width="89" height="89" loading="lazy" fetchpriority="auto" sizes="(min-width: 0px) calc(88px * 1)" class="image-parallax-with-text__image">
+</div>
+        </div></div>
+</div>
+
+
+</section>
+```

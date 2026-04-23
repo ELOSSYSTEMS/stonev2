@@ -1,0 +1,517 @@
+# Shopify page scrape
+
+- URL: https://zap-main.myshopify.com/pages/countdown
+- Title: Countdown
+- Body classes: template-page template-page-features-countdown
+- Custom elements: burger-menu, cart-drawer, cart-drawer-items, cart-note, countdown-timer, header-search, localization-form, predictive-search, product-card-small, shop-cart-sync, sticky-header
+- Headings: Honey Lemon Infusion | Light Box | Discovery Box | Honey Lemon Infusion | Light Box | Discovery Box | Subscribe to our Newsletter and Get 15% off your first order | Countdown | Text after countdown has ended | Flash sale now on! | Flash sale now on! | Text after countdown has ended | Text after countdown has ended | Flash sale now on! | About us | products | products | Customer service | Customer service | information | information
+
+## 1. shopify-section-template--26223611248959__main
+
+- Tag: section
+- Classes: shopify-section page-section
+- Headings: Countdown
+
+```html
+<section id="shopify-section-template--26223611248959__main" class="shopify-section page-section"><link href="//zap-main.myshopify.com/cdn/shop/t/2/assets/section-main-page.css?v=165534704276754180541772782652" rel="stylesheet" type="text/css" media="all">
+<style data-shopify="">.section-template--26223611248959__main-padding {
+
+  padding-top: 4rem;
+
+
+
+  padding-bottom: 0;
+
+}
+
+@media screen and (min-width: 750px) { .section-template--26223611248959__main-padding {
+
+  padding-top: 5rem;
+
+
+
+  padding-bottom: 0;
+
+} }
+
+@media screen and (min-width: 1360px) { .section-template--26223611248959__main-padding {
+
+  padding-top: 8rem;
+
+
+
+  padding-bottom: 0;
+
+} }
+
+</style><div class="section-template--26223611248959__main-padding container page-width--narrow">
+  <div class="page-header">
+    <div class="page-header__inner">
+      <h1 class="main-page-title page-title title--page h2">Countdown</h1>
+    </div>
+  </div>
+  <div class="rte">
+    
+  </div>
+</div>
+
+
+</section>
+```
+
+## 2. shopify-section-template--26223611248959__countdown_qTJGwC
+
+- Tag: section
+- Classes: shopify-section countdown-section spaced-section
+- Headings: Text after countdown has ended | Flash sale now on!
+
+```html
+<section id="shopify-section-template--26223611248959__countdown_qTJGwC" class="shopify-section countdown-section spaced-section"><link href="//zap-main.myshopify.com/cdn/shop/t/2/assets/section-countdown.css?v=163047887072924866711772782645" rel="stylesheet" type="text/css" media="all">
+
+<script src="//zap-main.myshopify.com/cdn/shop/t/2/assets/countdown.js?v=152382541967060306981774259993" defer="defer"></script>
+
+
+
+
+
+
+<style data-shopify="">.section-template--26223611248959__countdown_qTJGwC-padding {
+
+  padding-top: 5rem;
+
+
+
+  padding-bottom: 5rem;
+
+}
+
+@media screen and (min-width: 750px) { .section-template--26223611248959__countdown_qTJGwC-padding {
+
+  padding-top: 7.2rem;
+
+
+
+  padding-bottom: 7.2rem;
+
+} }
+
+@media screen and (min-width: 1360px) { .section-template--26223611248959__countdown_qTJGwC-padding {
+
+  padding-top: 10rem;
+
+
+
+  padding-bottom: 10rem;
+
+} }
+
+  #shopify-section-template--26223611248959__countdown_qTJGwC {
+
+  padding-top: 0;
+
+
+
+  padding-bottom: 0;
+
+}
+
+@media screen and (min-width: 750px) { #shopify-section-template--26223611248959__countdown_qTJGwC {
+
+  padding-top: 0;
+
+
+
+  padding-bottom: 0;
+
+} }
+
+@media screen and (min-width: 1360px) { #shopify-section-template--26223611248959__countdown_qTJGwC {
+
+  padding-top: 0;
+
+
+
+  padding-bottom: 0;
+
+
+} }
+
+</style><div class="countdown__outer section-template--26223611248959__countdown_qTJGwC-padding color-background-1 background countdown__outer--border-top countdown__outer--border-bottom">
+  <countdown-timer class="countdown countdown--with_image js-countdown js-countdown-template--26223611248959__countdown_qTJGwC" data-date="2026-12-01" data-time="00:00" data-completed="show_text" data-mock-timer="true" data-mock-days="2" data-mock-hours="3">
+    <div class="countdown__container countdown__container--image-desktop-right countdown__container--image-mobile-bottom container">
+      <div class="countdown__timer color-background-3">
+          <div class="countdown-ticker countdown-ticker--upper" dir="ltr">
+            <div class="countdown-ticker-wrapper">
+              <span class="countdown-ticker-collection countdown-ticker-collection--1"><span class="countdown-ticker-item body-xl">Flash Sale!</span><span class="countdown-ticker-item body-xl">Flash Sale!</span><span class="countdown-ticker-item body-xl">Flash Sale!</span><span class="countdown-ticker-item body-xl">Flash Sale!</span><span class="countdown-ticker-item body-xl">Flash Sale!</span><span class="countdown-ticker-item body-xl">Flash Sale!</span><span class="countdown-ticker-item body-xl">Flash Sale!</span><span class="countdown-ticker-item body-xl">Flash Sale!</span><span class="countdown-ticker-item body-xl">Flash Sale!</span><span class="countdown-ticker-item body-xl">Flash Sale!</span><span class="countdown-ticker-item body-xl">Flash Sale!</span><span class="countdown-ticker-item body-xl">Flash Sale!</span></span>
+              <span class="countdown-ticker-collection countdown-ticker-collection--2"><span class="countdown-ticker-item body-xl">Flash Sale!</span><span class="countdown-ticker-item body-xl">Flash Sale!</span><span class="countdown-ticker-item body-xl">Flash Sale!</span><span class="countdown-ticker-item body-xl">Flash Sale!</span><span class="countdown-ticker-item body-xl">Flash Sale!</span><span class="countdown-ticker-item body-xl">Flash Sale!</span><span class="countdown-ticker-item body-xl">Flash Sale!</span><span class="countdown-ticker-item body-xl">Flash Sale!</span><span class="countdown-ticker-item body-xl">Flash Sale!</span><span class="countdown-ticker-item body-xl">Flash Sale!</span><span class="countdown-ticker-item body-xl">Flash Sale!</span><span class="countdown-ticker-item body-xl">Flash Sale!</span></span>
+            </div>
+          </div><div class="countdown__wrapper countdown__wrapper--align-center">
+<div class="countdown__main countdown__main--block-size-">
+                <div class="countdown__block">
+                  <div class="countdown__block_num">
+                    <span class="countdown_block_days h2">02</span>
+                    <span class="countdown_block_mark">Days</span>
+                  </div>
+                </div>
+                <div class="countdown__colon h2">:</div>
+                <div class="countdown__block">
+                  <div class="countdown__block_num">
+                    <span class="countdown_block_hours h2">02</span>
+                    <span class="countdown_block_mark">Hours</span>
+                  </div>
+                </div>
+                <div class="countdown__colon h2">:</div>
+                <div class="countdown__block">
+                  <div class="countdown__block_num">
+                    <span class="countdown_block_minutes h2">59</span>
+                    <span class="countdown_block_mark">Minutes</span>
+                  </div>
+                </div>
+                <div class="countdown__colon h2">:</div>
+                <div class="countdown__block">
+                  <div class="countdown__block_num">
+                    <span class="countdown_block_seconds h2">33</span>
+                    <span class="countdown_block_mark">Seconds</span>
+                  </div>
+                </div>
+              </div><div class="countdown__end-info align--center">
+                <h3 class="h3 countdown__end-info-text ">
+                  Text after countdown has ended
+                </h3>
+              </div><div class="countdown__content align--center">
+                  <h2 class="countdown__heading h4">Flash sale now on!</h2><div class="countdown__text">
+                    Light and clean, with minimal sugar and maximum refreshment.
+                  </div>
+
+
+
+
+  <a href="/collections/frontpage" aria-label="Shop Now" class="button button--primary countdown__button">
+    <div class="button__content">
+      <span class="button__label" data-label="Shop Now">Shop Now</span>
+    </div>
+    
+      <span class="animated-button-circle"></span>
+    
+  </a>
+
+
+</div></div>
+          <div class="countdown-ticker countdown-ticker--lower" dir="ltr">
+            <div class="countdown-ticker-wrapper">
+              <span class="countdown-ticker-collection countdown-ticker-collection--1"><span class="countdown-ticker-item body-xl">Flash Sale!</span><span class="countdown-ticker-item body-xl">Flash Sale!</span><span class="countdown-ticker-item body-xl">Flash Sale!</span><span class="countdown-ticker-item body-xl">Flash Sale!</span><span class="countdown-ticker-item body-xl">Flash Sale!</span><span class="countdown-ticker-item body-xl">Flash Sale!</span><span class="countdown-ticker-item body-xl">Flash Sale!</span><span class="countdown-ticker-item body-xl">Flash Sale!</span><span class="countdown-ticker-item body-xl">Flash Sale!</span><span class="countdown-ticker-item body-xl">Flash Sale!</span><span class="countdown-ticker-item body-xl">Flash Sale!</span><span class="countdown-ticker-item body-xl">Flash Sale!</span></span>
+              <span class="countdown-ticker-collection countdown-ticker-collection--2"><span class="countdown-ticker-item body-xl">Flash Sale!</span><span class="countdown-ticker-item body-xl">Flash Sale!</span><span class="countdown-ticker-item body-xl">Flash Sale!</span><span class="countdown-ticker-item body-xl">Flash Sale!</span><span class="countdown-ticker-item body-xl">Flash Sale!</span><span class="countdown-ticker-item body-xl">Flash Sale!</span><span class="countdown-ticker-item body-xl">Flash Sale!</span><span class="countdown-ticker-item body-xl">Flash Sale!</span><span class="countdown-ticker-item body-xl">Flash Sale!</span><span class="countdown-ticker-item body-xl">Flash Sale!</span><span class="countdown-ticker-item body-xl">Flash Sale!</span><span class="countdown-ticker-item body-xl">Flash Sale!</span></span>
+            </div>
+          </div></div>
+
+        
+
+        <div class="countdown__image color-background-3" style="--padding-bottom-desktop: 100%; --padding-bottom-mobile: 100%"><picture class="countdown__image-picture">
+              <source srcset="//zap-main.myshopify.com/cdn/shop/files/02-blog-09.jpg?v=1765974035&amp;width=360 360w, //zap-main.myshopify.com/cdn/shop/files/02-blog-09.jpg?v=1765974035&amp;width=533 533w, //zap-main.myshopify.com/cdn/shop/files/02-blog-09.jpg?v=1765974035&amp;width=720 720w, //zap-main.myshopify.com/cdn/shop/files/02-blog-09.jpg?v=1765974035&amp;width=940 940w, //zap-main.myshopify.com/cdn/shop/files/02-blog-09.jpg?v=1765974035&amp;width=1066 1066w, //zap-main.myshopify.com/cdn/shop/files/02-blog-09.jpg?v=1765974035&amp;width=1200 1200w, //zap-main.myshopify.com/cdn/shop/files/02-blog-09.jpg?v=1765974035&amp;width=1400 1400w, //zap-main.myshopify.com/cdn/shop/files/02-blog-09.jpg?v=1765974035&amp;width=1600 1600w, //zap-main.myshopify.com/cdn/shop/files/02-blog-09.jpg?v=1765974035&amp;width=1800 1800w, //zap-main.myshopify.com/cdn/shop/files/02-blog-09.jpg?v=1765974035&amp;width=2000 2000w, //zap-main.myshopify.com/cdn/shop/files/02-blog-09.jpg?v=1765974035&amp;width=2200 2200w, //zap-main.myshopify.com/cdn/shop/files/02-blog-09.jpg?v=1765974035&amp;width=2400 2400w, //zap-main.myshopify.com/cdn/shop/files/02-blog-09.jpg?v=1765974035&amp;width=2600 2600w, //zap-main.myshopify.com/cdn/shop/files/02-blog-09.jpg?v=1765974035&amp;width=2800 2800w, //zap-main.myshopify.com/cdn/shop/files/02-blog-09.jpg?v=1765974035&amp;width=3000 3000w, //zap-main.myshopify.com/cdn/shop/files/02-blog-09.jpg?v=1765974035&amp;width=3264 3264w, //zap-main.myshopify.com/cdn/shop/files/02-blog-09.jpg?v=1765974035&amp;width=3400 3400w, //zap-main.myshopify.com/cdn/shop/files/02-blog-09.jpg?v=1765974035&amp;width=3584 3584w, //zap-main.myshopify.com/cdn/shop/files/02-blog-09.jpg?v=1765974035&amp;width=3800 3800w, //zap-main.myshopify.com/cdn/shop/files/02-blog-09.jpg?v=1765974035&amp;width=4000 4000w, //zap-main.myshopify.com/cdn/shop/files/02-blog-09.jpg?v=1765974035&amp;width=4200 4200w, //zap-main.myshopify.com/cdn/shop/files/02-blog-09.jpg?v=1765974035&amp;width=4400 4400w, //zap-main.myshopify.com/cdn/shop/files/02-blog-09.jpg?v=1765974035&amp;width=4600 4600w, //zap-main.myshopify.com/cdn/shop/files/02-blog-09.jpg?v=1765974035&amp;width=4800 4800w, //zap-main.myshopify.com/cdn/shop/files/02-blog-09.jpg?v=1765974035&amp;width=5000 5000w, //zap-main.myshopify.com/cdn/shop/files/02-blog-09.jpg?v=1765974035&amp;width=5200 5200w, //zap-main.myshopify.com/cdn/shop/files/02-blog-09.jpg?v=1765974035&amp;width=5400 5400w, //zap-main.myshopify.com/cdn/shop/files/02-blog-09.jpg?v=1765974035&amp;width=5600 5600w" media="(max-width: 989px)" sizes="(min-width: 1920px) calc(916px * 1.1075498575498575), (min-width: 1440px) calc(47vw * 1.1075498575498575), (min-width: 1200px) calc(46vw * 1.1075498575498575), (min-width: 990px) calc(47vw * 1.1075498575498575), (min-width: 576px) calc(93vw * 1.1075498575498575), calc(92vw * 1.1075498575498575)">
+              <source srcset="//zap-main.myshopify.com/cdn/shop/files/02-blog-09.jpg?v=1765974035&amp;width=360 360w, //zap-main.myshopify.com/cdn/shop/files/02-blog-09.jpg?v=1765974035&amp;width=533 533w, //zap-main.myshopify.com/cdn/shop/files/02-blog-09.jpg?v=1765974035&amp;width=720 720w, //zap-main.myshopify.com/cdn/shop/files/02-blog-09.jpg?v=1765974035&amp;width=940 940w, //zap-main.myshopify.com/cdn/shop/files/02-blog-09.jpg?v=1765974035&amp;width=1066 1066w, //zap-main.myshopify.com/cdn/shop/files/02-blog-09.jpg?v=1765974035&amp;width=1200 1200w, //zap-main.myshopify.com/cdn/shop/files/02-blog-09.jpg?v=1765974035&amp;width=1400 1400w, //zap-main.myshopify.com/cdn/shop/files/02-blog-09.jpg?v=1765974035&amp;width=1600 1600w, //zap-main.myshopify.com/cdn/shop/files/02-blog-09.jpg?v=1765974035&amp;width=1800 1800w, //zap-main.myshopify.com/cdn/shop/files/02-blog-09.jpg?v=1765974035&amp;width=2000 2000w, //zap-main.myshopify.com/cdn/shop/files/02-blog-09.jpg?v=1765974035&amp;width=2200 2200w, //zap-main.myshopify.com/cdn/shop/files/02-blog-09.jpg?v=1765974035&amp;width=2400 2400w, //zap-main.myshopify.com/cdn/shop/files/02-blog-09.jpg?v=1765974035&amp;width=2600 2600w, //zap-main.myshopify.com/cdn/shop/files/02-blog-09.jpg?v=1765974035&amp;width=2800 2800w, //zap-main.myshopify.com/cdn/shop/files/02-blog-09.jpg?v=1765974035&amp;width=3000 3000w, //zap-main.myshopify.com/cdn/shop/files/02-blog-09.jpg?v=1765974035&amp;width=3264 3264w, //zap-main.myshopify.com/cdn/shop/files/02-blog-09.jpg?v=1765974035&amp;width=3400 3400w, //zap-main.myshopify.com/cdn/shop/files/02-blog-09.jpg?v=1765974035&amp;width=3584 3584w, //zap-main.myshopify.com/cdn/shop/files/02-blog-09.jpg?v=1765974035&amp;width=3800 3800w, //zap-main.myshopify.com/cdn/shop/files/02-blog-09.jpg?v=1765974035&amp;width=4000 4000w, //zap-main.myshopify.com/cdn/shop/files/02-blog-09.jpg?v=1765974035&amp;width=4200 4200w, //zap-main.myshopify.com/cdn/shop/files/02-blog-09.jpg?v=1765974035&amp;width=4400 4400w, //zap-main.myshopify.com/cdn/shop/files/02-blog-09.jpg?v=1765974035&amp;width=4600 4600w, //zap-main.myshopify.com/cdn/shop/files/02-blog-09.jpg?v=1765974035&amp;width=4800 4800w, //zap-main.myshopify.com/cdn/shop/files/02-blog-09.jpg?v=1765974035&amp;width=5000 5000w, //zap-main.myshopify.com/cdn/shop/files/02-blog-09.jpg?v=1765974035&amp;width=5200 5200w, //zap-main.myshopify.com/cdn/shop/files/02-blog-09.jpg?v=1765974035&amp;width=5400 5400w, //zap-main.myshopify.com/cdn/shop/files/02-blog-09.jpg?v=1765974035&amp;width=5600 5600w" media="(min-width: 990px)" sizes="(min-width: 1920px) calc(916px * 1.1075498575498575), (min-width: 1440px) calc(47vw * 1.1075498575498575), (min-width: 1200px) calc(46vw * 1.1075498575498575), (min-width: 990px) calc(47vw * 1.1075498575498575), (min-width: 576px) calc(93vw * 1.1075498575498575), calc(92vw * 1.1075498575498575)">
+              <img src="//zap-main.myshopify.com/cdn/shop/files/02-blog-09.jpg?v=1765974035&amp;width=1555" alt="" width="1555" height="1404" class="countdown__image-image" sizes="(min-width: 1920px) calc(916px * 1.1075498575498575), (min-width: 1440px) calc(47vw * 1.1075498575498575), (min-width: 1200px) calc(46vw * 1.1075498575498575), (min-width: 990px) calc(47vw * 1.1075498575498575), (min-width: 576px) calc(93vw * 1.1075498575498575), calc(92vw * 1.1075498575498575)" loading="lazy" fetchpriority="auto" style="--focal_point_desktop: 50.0% 50.0%; --focal_point_mobile: 50.0% 50.0%;">
+            </picture></div></div>
+  </countdown-timer>
+</div>
+
+
+</section>
+```
+
+## 3. shopify-section-template--26223611248959__countdown_jVtATA
+
+- Tag: section
+- Classes: shopify-section countdown-section spaced-section
+- Headings: Flash sale now on! | Text after countdown has ended
+
+```html
+<section id="shopify-section-template--26223611248959__countdown_jVtATA" class="shopify-section countdown-section spaced-section"><link href="//zap-main.myshopify.com/cdn/shop/t/2/assets/section-countdown.css?v=163047887072924866711772782645" rel="stylesheet" type="text/css" media="all">
+
+<script src="//zap-main.myshopify.com/cdn/shop/t/2/assets/countdown.js?v=152382541967060306981774259993" defer="defer"></script>
+
+
+
+
+
+
+<style data-shopify="">.section-template--26223611248959__countdown_jVtATA-padding {
+
+  padding-top: 0;
+
+
+
+  padding-bottom: 0;
+
+}
+
+@media screen and (min-width: 750px) { .section-template--26223611248959__countdown_jVtATA-padding {
+
+  padding-top: 0;
+
+
+
+  padding-bottom: 0;
+
+} }
+
+@media screen and (min-width: 1360px) { .section-template--26223611248959__countdown_jVtATA-padding {
+
+  padding-top: 0;
+
+
+
+  padding-bottom: 0;
+
+} }
+
+  #shopify-section-template--26223611248959__countdown_jVtATA {
+
+  padding-top: 0;
+
+
+
+  padding-bottom: 0;
+
+}
+
+@media screen and (min-width: 750px) { #shopify-section-template--26223611248959__countdown_jVtATA {
+
+  padding-top: 0;
+
+
+
+  padding-bottom: 0;
+
+} }
+
+@media screen and (min-width: 1360px) { #shopify-section-template--26223611248959__countdown_jVtATA {
+
+  padding-top: 0;
+
+
+
+  padding-bottom: 0;
+
+
+} }
+
+</style><div class="countdown__outer section-template--26223611248959__countdown_jVtATA-padding color-background-1 background countdown__outer--border-top">
+  <countdown-timer class="countdown countdown--compact js-countdown js-countdown-template--26223611248959__countdown_jVtATA" data-date="2026-12-01" data-time="00:00" data-completed="show_text" data-mock-timer="true" data-mock-days="2" data-mock-hours="3">
+    <div class="countdown__container countdown__container--image-desktop-right countdown__container--image-mobile-bottom">
+      <div class="countdown__timer color-background-4">
+          <div class="countdown-ticker countdown-ticker--upper" dir="ltr">
+            <div class="countdown-ticker-wrapper">
+              <span class="countdown-ticker-collection countdown-ticker-collection--1"><span class="countdown-ticker-item body-xl">Flash Sale!</span><span class="countdown-ticker-item body-xl">Flash Sale!</span><span class="countdown-ticker-item body-xl">Flash Sale!</span><span class="countdown-ticker-item body-xl">Flash Sale!</span><span class="countdown-ticker-item body-xl">Flash Sale!</span><span class="countdown-ticker-item body-xl">Flash Sale!</span><span class="countdown-ticker-item body-xl">Flash Sale!</span><span class="countdown-ticker-item body-xl">Flash Sale!</span><span class="countdown-ticker-item body-xl">Flash Sale!</span><span class="countdown-ticker-item body-xl">Flash Sale!</span><span class="countdown-ticker-item body-xl">Flash Sale!</span><span class="countdown-ticker-item body-xl">Flash Sale!</span><span class="countdown-ticker-item body-xl">Flash Sale!</span><span class="countdown-ticker-item body-xl">Flash Sale!</span><span class="countdown-ticker-item body-xl">Flash Sale!</span><span class="countdown-ticker-item body-xl">Flash Sale!</span><span class="countdown-ticker-item body-xl">Flash Sale!</span><span class="countdown-ticker-item body-xl">Flash Sale!</span><span class="countdown-ticker-item body-xl">Flash Sale!</span><span class="countdown-ticker-item body-xl">Flash Sale!</span><span class="countdown-ticker-item body-xl">Flash Sale!</span><span class="countdown-ticker-item body-xl">Flash Sale!</span><span class="countdown-ticker-item body-xl">Flash Sale!</span><span class="countdown-ticker-item body-xl">Flash Sale!</span></span>
+              <span class="countdown-ticker-collection countdown-ticker-collection--2"><span class="countdown-ticker-item body-xl">Flash Sale!</span><span class="countdown-ticker-item body-xl">Flash Sale!</span><span class="countdown-ticker-item body-xl">Flash Sale!</span><span class="countdown-ticker-item body-xl">Flash Sale!</span><span class="countdown-ticker-item body-xl">Flash Sale!</span><span class="countdown-ticker-item body-xl">Flash Sale!</span><span class="countdown-ticker-item body-xl">Flash Sale!</span><span class="countdown-ticker-item body-xl">Flash Sale!</span><span class="countdown-ticker-item body-xl">Flash Sale!</span><span class="countdown-ticker-item body-xl">Flash Sale!</span><span class="countdown-ticker-item body-xl">Flash Sale!</span><span class="countdown-ticker-item body-xl">Flash Sale!</span><span class="countdown-ticker-item body-xl">Flash Sale!</span><span class="countdown-ticker-item body-xl">Flash Sale!</span><span class="countdown-ticker-item body-xl">Flash Sale!</span><span class="countdown-ticker-item body-xl">Flash Sale!</span><span class="countdown-ticker-item body-xl">Flash Sale!</span><span class="countdown-ticker-item body-xl">Flash Sale!</span><span class="countdown-ticker-item body-xl">Flash Sale!</span><span class="countdown-ticker-item body-xl">Flash Sale!</span><span class="countdown-ticker-item body-xl">Flash Sale!</span><span class="countdown-ticker-item body-xl">Flash Sale!</span><span class="countdown-ticker-item body-xl">Flash Sale!</span><span class="countdown-ticker-item body-xl">Flash Sale!</span></span>
+            </div>
+          </div><div class="countdown__wrapper countdown__wrapper--align-center countdown__wrapper--compact countdown__wrapper--compact-3 container">
+<div class="countdown__content">
+                  <h2 class="countdown__heading h4">Flash sale now on!</h2><div class="countdown__text">
+                    Light and clean, with minimal sugar and maximum refreshment.
+                  </div></div><div class="countdown__main-wrapper">
+                <div class="countdown__main countdown__main--block-size-">
+                  <div class="countdown__block">
+                    <div class="countdown__block_num">
+                      <span class="countdown_block_days h2">02</span>
+                      <span class="countdown_block_mark">Days</span>
+                    </div>
+                  </div>
+                  <div class="countdown__colon h2">:</div>
+                  <div class="countdown__block">
+                    <div class="countdown__block_num">
+                      <span class="countdown_block_hours h2">02</span>
+                      <span class="countdown_block_mark">Hours</span>
+                    </div>
+                  </div>
+                  <div class="countdown__colon h2">:</div>
+                  <div class="countdown__block">
+                    <div class="countdown__block_num">
+                      <span class="countdown_block_minutes h2">59</span>
+                      <span class="countdown_block_mark">Minutes</span>
+                    </div>
+                  </div>
+                  <div class="countdown__colon h2">:</div>
+                  <div class="countdown__block">
+                    <div class="countdown__block_num">
+                      <span class="countdown_block_seconds h2">33</span>
+                      <span class="countdown_block_mark">Seconds</span>
+                    </div>
+                  </div>
+                </div><div class="countdown__end-info">
+                    <h3 class="h3 countdown__end-info-text ">
+                      Text after countdown has ended
+                    </h3>
+                  </div></div><div class="countdown__button-wrapper">
+                
+
+
+
+
+  <a href="/collections/frontpage" aria-label="Shop Now" class="button button--primary countdown__button">
+    <div class="button__content">
+      <span class="button__label" data-label="Shop Now">Shop Now</span>
+    </div>
+    
+      <span class="animated-button-circle"></span>
+    
+  </a>
+
+
+              </div></div>
+          <div class="countdown-ticker countdown-ticker--lower" dir="ltr">
+            <div class="countdown-ticker-wrapper">
+              <span class="countdown-ticker-collection countdown-ticker-collection--1"><span class="countdown-ticker-item body-xl">Flash Sale!</span><span class="countdown-ticker-item body-xl">Flash Sale!</span><span class="countdown-ticker-item body-xl">Flash Sale!</span><span class="countdown-ticker-item body-xl">Flash Sale!</span><span class="countdown-ticker-item body-xl">Flash Sale!</span><span class="countdown-ticker-item body-xl">Flash Sale!</span><span class="countdown-ticker-item body-xl">Flash Sale!</span><span class="countdown-ticker-item body-xl">Flash Sale!</span><span class="countdown-ticker-item body-xl">Flash Sale!</span><span class="countdown-ticker-item body-xl">Flash Sale!</span><span class="countdown-ticker-item body-xl">Flash Sale!</span><span class="countdown-ticker-item body-xl">Flash Sale!</span><span class="countdown-ticker-item body-xl">Flash Sale!</span><span class="countdown-ticker-item body-xl">Flash Sale!</span><span class="countdown-ticker-item body-xl">Flash Sale!</span><span class="countdown-ticker-item body-xl">Flash Sale!</span><span class="countdown-ticker-item body-xl">Flash Sale!</span><span class="countdown-ticker-item body-xl">Flash Sale!</span><span class="countdown-ticker-item body-xl">Flash Sale!</span><span class="countdown-ticker-item body-xl">Flash Sale!</span><span class="countdown-ticker-item body-xl">Flash Sale!</span><span class="countdown-ticker-item body-xl">Flash Sale!</span><span class="countdown-ticker-item body-xl">Flash Sale!</span><span class="countdown-ticker-item body-xl">Flash Sale!</span></span>
+              <span class="countdown-ticker-collection countdown-ticker-collection--2"><span class="countdown-ticker-item body-xl">Flash Sale!</span><span class="countdown-ticker-item body-xl">Flash Sale!</span><span class="countdown-ticker-item body-xl">Flash Sale!</span><span class="countdown-ticker-item body-xl">Flash Sale!</span><span class="countdown-ticker-item body-xl">Flash Sale!</span><span class="countdown-ticker-item body-xl">Flash Sale!</span><span class="countdown-ticker-item body-xl">Flash Sale!</span><span class="countdown-ticker-item body-xl">Flash Sale!</span><span class="countdown-ticker-item body-xl">Flash Sale!</span><span class="countdown-ticker-item body-xl">Flash Sale!</span><span class="countdown-ticker-item body-xl">Flash Sale!</span><span class="countdown-ticker-item body-xl">Flash Sale!</span><span class="countdown-ticker-item body-xl">Flash Sale!</span><span class="countdown-ticker-item body-xl">Flash Sale!</span><span class="countdown-ticker-item body-xl">Flash Sale!</span><span class="countdown-ticker-item body-xl">Flash Sale!</span><span class="countdown-ticker-item body-xl">Flash Sale!</span><span class="countdown-ticker-item body-xl">Flash Sale!</span><span class="countdown-ticker-item body-xl">Flash Sale!</span><span class="countdown-ticker-item body-xl">Flash Sale!</span><span class="countdown-ticker-item body-xl">Flash Sale!</span><span class="countdown-ticker-item body-xl">Flash Sale!</span><span class="countdown-ticker-item body-xl">Flash Sale!</span><span class="countdown-ticker-item body-xl">Flash Sale!</span></span>
+            </div>
+          </div></div></div>
+  </countdown-timer>
+</div>
+
+
+</section>
+```
+
+## 4. shopify-section-template--26223611248959__countdown_whenPz
+
+- Tag: section
+- Classes: shopify-section countdown-section spaced-section
+- Headings: Text after countdown has ended | Flash sale now on!
+
+```html
+<section id="shopify-section-template--26223611248959__countdown_whenPz" class="shopify-section countdown-section spaced-section"><link href="//zap-main.myshopify.com/cdn/shop/t/2/assets/section-countdown.css?v=163047887072924866711772782645" rel="stylesheet" type="text/css" media="all">
+
+<script src="//zap-main.myshopify.com/cdn/shop/t/2/assets/countdown.js?v=152382541967060306981774259993" defer="defer"></script>
+
+
+
+
+
+
+<style data-shopify="">.section-template--26223611248959__countdown_whenPz-padding {
+
+  padding-top: 6.4rem;
+
+
+
+  padding-bottom: 6.4rem;
+
+}
+
+@media screen and (min-width: 750px) { .section-template--26223611248959__countdown_whenPz-padding {
+
+  padding-top: 8.8rem;
+
+
+
+  padding-bottom: 8.8rem;
+
+} }
+
+@media screen and (min-width: 1360px) { .section-template--26223611248959__countdown_whenPz-padding {
+
+  padding-top: 15rem;
+
+
+
+  padding-bottom: 15rem;
+
+} }
+
+  #shopify-section-template--26223611248959__countdown_whenPz {
+
+  padding-top: 0;
+
+
+
+  padding-bottom: 0;
+
+}
+
+@media screen and (min-width: 750px) { #shopify-section-template--26223611248959__countdown_whenPz {
+
+  padding-top: 0;
+
+
+
+  padding-bottom: 0;
+
+} }
+
+@media screen and (min-width: 1360px) { #shopify-section-template--26223611248959__countdown_whenPz {
+
+  padding-top: 0;
+
+
+
+  padding-bottom: 0;
+
+
+} }
+
+</style><div class="countdown__outer section-template--26223611248959__countdown_whenPz-padding color-background-1 background">
+  <countdown-timer class="countdown countdown--with_image js-countdown js-countdown-template--26223611248959__countdown_whenPz" data-date="2026-12-01" data-time="00:00" data-completed="show_text" data-mock-timer="true" data-mock-days="2" data-mock-hours="3">
+    <div class="countdown__container countdown__container--image-desktop-left countdown__container--image-mobile-top container">
+      <div class="countdown__timer color-background-4"><div class="countdown__wrapper countdown__wrapper--align-center">
+<div class="countdown__main countdown__main--block-size-">
+                <div class="countdown__block">
+                  <div class="countdown__block_num">
+                    <span class="countdown_block_days h2">02</span>
+                    <span class="countdown_block_mark">Days</span>
+                  </div>
+                </div>
+                <div class="countdown__colon h2">:</div>
+                <div class="countdown__block">
+                  <div class="countdown__block_num">
+                    <span class="countdown_block_hours h2">02</span>
+                    <span class="countdown_block_mark">Hours</span>
+                  </div>
+                </div>
+                <div class="countdown__colon h2">:</div>
+                <div class="countdown__block">
+                  <div class="countdown__block_num">
+                    <span class="countdown_block_minutes h2">59</span>
+                    <span class="countdown_block_mark">Minutes</span>
+                  </div>
+                </div>
+                <div class="countdown__colon h2">:</div>
+                <div class="countdown__block">
+                  <div class="countdown__block_num">
+                    <span class="countdown_block_seconds h2">33</span>
+                    <span class="countdown_block_mark">Seconds</span>
+                  </div>
+                </div>
+              </div><div class="countdown__end-info align--center">
+                <h3 class="h3 countdown__end-info-text ">
+                  Text after countdown has ended
+                </h3>
+              </div><div class="countdown__content align--center">
+                  <h2 class="countdown__heading h3">Flash sale now on!</h2>
+
+
+
+
+  <a href="/collections/frontpage" aria-label="Shop Sale" class="button button--primary countdown__button">
+    <div class="button__content">
+      <span class="button__label" data-label="Shop Sale">Shop Sale</span>
+    </div>
+    
+      <span class="animated-button-circle"></span>
+    
+  </a>
+
+
+</div></div></div>
+
+        
+
+        <div class="countdown__image color-background-4" style="--padding-bottom-desktop: 56.25%; --padding-bottom-mobile: 56.25%"><picture class="countdown__image-picture">
+              <source srcset="//zap-main.myshopify.com/cdn/shop/files/02-content-03_4c8c568e-d851-411e-89a1-29b5f505e294.jpg?v=1765829833&amp;width=360 360w, //zap-main.myshopify.com/cdn/shop/files/02-content-03_4c8c568e-d851-411e-89a1-29b5f505e294.jpg?v=1765829833&amp;width=533 533w, //zap-main.myshopify.com/cdn/shop/files/02-content-03_4c8c568e-d851-411e-89a1-29b5f505e294.jpg?v=1765829833&amp;width=720 720w, //zap-main.myshopify.com/cdn/shop/files/02-content-03_4c8c568e-d851-411e-89a1-29b5f505e294.jpg?v=1765829833&amp;width=940 940w, //zap-main.myshopify.com/cdn/shop/files/02-content-03_4c8c568e-d851-411e-89a1-29b5f505e294.jpg?v=1765829833&amp;width=1066 1066w, //zap-main.myshopify.com/cdn/shop/files/02-content-03_4c8c568e-d851-411e-89a1-29b5f505e294.jpg?v=1765829833&amp;width=1200 1200w, //zap-main.myshopify.com/cdn/shop/files/02-content-03_4c8c568e-d851-411e-89a1-29b5f505e294.jpg?v=1765829833&amp;width=1400 1400w, //zap-main.myshopify.com/cdn/shop/files/02-content-03_4c8c568e-d851-411e-89a1-29b5f505e294.jpg?v=1765829833&amp;width=1600 1600w, //zap-main.myshopify.com/cdn/shop/files/02-content-03_4c8c568e-d851-411e-89a1-29b5f505e294.jpg?v=1765829833&amp;width=1800 1800w, //zap-main.myshopify.com/cdn/shop/files/02-content-03_4c8c568e-d851-411e-89a1-29b5f505e294.jpg?v=1765829833&amp;width=2000 2000w, //zap-main.myshopify.com/cdn/shop/files/02-content-03_4c8c568e-d851-411e-89a1-29b5f505e294.jpg?v=1765829833&amp;width=2200 2200w, //zap-main.myshopify.com/cdn/shop/files/02-content-03_4c8c568e-d851-411e-89a1-29b5f505e294.jpg?v=1765829833&amp;width=2400 2400w, //zap-main.myshopify.com/cdn/shop/files/02-content-03_4c8c568e-d851-411e-89a1-29b5f505e294.jpg?v=1765829833&amp;width=2600 2600w, //zap-main.myshopify.com/cdn/shop/files/02-content-03_4c8c568e-d851-411e-89a1-29b5f505e294.jpg?v=1765829833&amp;width=2800 2800w, //zap-main.myshopify.com/cdn/shop/files/02-content-03_4c8c568e-d851-411e-89a1-29b5f505e294.jpg?v=1765829833&amp;width=3000 3000w, //zap-main.myshopify.com/cdn/shop/files/02-content-03_4c8c568e-d851-411e-89a1-29b5f505e294.jpg?v=1765829833&amp;width=3264 3264w, //zap-main.myshopify.com/cdn/shop/files/02-content-03_4c8c568e-d851-411e-89a1-29b5f505e294.jpg?v=1765829833&amp;width=3400 3400w, //zap-main.myshopify.com/cdn/shop/files/02-content-03_4c8c568e-d851-411e-89a1-29b5f505e294.jpg?v=1765829833&amp;width=3584 3584w, //zap-main.myshopify.com/cdn/shop/files/02-content-03_4c8c568e-d851-411e-89a1-29b5f505e294.jpg?v=1765829833&amp;width=3800 3800w, //zap-main.myshopify.com/cdn/shop/files/02-content-03_4c8c568e-d851-411e-89a1-29b5f505e294.jpg?v=1765829833&amp;width=4000 4000w, //zap-main.myshopify.com/cdn/shop/files/02-content-03_4c8c568e-d851-411e-89a1-29b5f505e294.jpg?v=1765829833&amp;width=4200 4200w, //zap-main.myshopify.com/cdn/shop/files/02-content-03_4c8c568e-d851-411e-89a1-29b5f505e294.jpg?v=1765829833&amp;width=4400 4400w, //zap-main.myshopify.com/cdn/shop/files/02-content-03_4c8c568e-d851-411e-89a1-29b5f505e294.jpg?v=1765829833&amp;width=4600 4600w, //zap-main.myshopify.com/cdn/shop/files/02-content-03_4c8c568e-d851-411e-89a1-29b5f505e294.jpg?v=1765829833&amp;width=4800 4800w, //zap-main.myshopify.com/cdn/shop/files/02-content-03_4c8c568e-d851-411e-89a1-29b5f505e294.jpg?v=1765829833&amp;width=5000 5000w, //zap-main.myshopify.com/cdn/shop/files/02-content-03_4c8c568e-d851-411e-89a1-29b5f505e294.jpg?v=1765829833&amp;width=5200 5200w, //zap-main.myshopify.com/cdn/shop/files/02-content-03_4c8c568e-d851-411e-89a1-29b5f505e294.jpg?v=1765829833&amp;width=5400 5400w, //zap-main.myshopify.com/cdn/shop/files/02-content-03_4c8c568e-d851-411e-89a1-29b5f505e294.jpg?v=1765829833&amp;width=5600 5600w" media="(max-width: 989px)" sizes="(min-width: 1920px) calc(916px * 1.1), (min-width: 1440px) calc(47vw * 1.1), (min-width: 1200px) calc(46vw * 1.1), (min-width: 990px) calc(47vw * 1.1), (min-width: 576px) calc(93vw * 1.1), calc(92vw * 1.1)">
+              <source srcset="//zap-main.myshopify.com/cdn/shop/files/02-content-03_4c8c568e-d851-411e-89a1-29b5f505e294.jpg?v=1765829833&amp;width=360 360w, //zap-main.myshopify.com/cdn/shop/files/02-content-03_4c8c568e-d851-411e-89a1-29b5f505e294.jpg?v=1765829833&amp;width=533 533w, //zap-main.myshopify.com/cdn/shop/files/02-content-03_4c8c568e-d851-411e-89a1-29b5f505e294.jpg?v=1765829833&amp;width=720 720w, //zap-main.myshopify.com/cdn/shop/files/02-content-03_4c8c568e-d851-411e-89a1-29b5f505e294.jpg?v=1765829833&amp;width=940 940w, //zap-main.myshopify.com/cdn/shop/files/02-content-03_4c8c568e-d851-411e-89a1-29b5f505e294.jpg?v=1765829833&amp;width=1066 1066w, //zap-main.myshopify.com/cdn/shop/files/02-content-03_4c8c568e-d851-411e-89a1-29b5f505e294.jpg?v=1765829833&amp;width=1200 1200w, //zap-main.myshopify.com/cdn/shop/files/02-content-03_4c8c568e-d851-411e-89a1-29b5f505e294.jpg?v=1765829833&amp;width=1400 1400w, //zap-main.myshopify.com/cdn/shop/files/02-content-03_4c8c568e-d851-411e-89a1-29b5f505e294.jpg?v=1765829833&amp;width=1600 1600w, //zap-main.myshopify.com/cdn/shop/files/02-content-03_4c8c568e-d851-411e-89a1-29b5f505e294.jpg?v=1765829833&amp;width=1800 1800w, //zap-main.myshopify.com/cdn/shop/files/02-content-03_4c8c568e-d851-411e-89a1-29b5f505e294.jpg?v=1765829833&amp;width=2000 2000w, //zap-main.myshopify.com/cdn/shop/files/02-content-03_4c8c568e-d851-411e-89a1-29b5f505e294.jpg?v=1765829833&amp;width=2200 2200w, //zap-main.myshopify.com/cdn/shop/files/02-content-03_4c8c568e-d851-411e-89a1-29b5f505e294.jpg?v=1765829833&amp;width=2400 2400w, //zap-main.myshopify.com/cdn/shop/files/02-content-03_4c8c568e-d851-411e-89a1-29b5f505e294.jpg?v=1765829833&amp;width=2600 2600w, //zap-main.myshopify.com/cdn/shop/files/02-content-03_4c8c568e-d851-411e-89a1-29b5f505e294.jpg?v=1765829833&amp;width=2800 2800w, //zap-main.myshopify.com/cdn/shop/files/02-content-03_4c8c568e-d851-411e-89a1-29b5f505e294.jpg?v=1765829833&amp;width=3000 3000w, //zap-main.myshopify.com/cdn/shop/files/02-content-03_4c8c568e-d851-411e-89a1-29b5f505e294.jpg?v=1765829833&amp;width=3264 3264w, //zap-main.myshopify.com/cdn/shop/files/02-content-03_4c8c568e-d851-411e-89a1-29b5f505e294.jpg?v=1765829833&amp;width=3400 3400w, //zap-main.myshopify.com/cdn/shop/files/02-content-03_4c8c568e-d851-411e-89a1-29b5f505e294.jpg?v=1765829833&amp;width=3584 3584w, //zap-main.myshopify.com/cdn/shop/files/02-content-03_4c8c568e-d851-411e-89a1-29b5f505e294.jpg?v=1765829833&amp;width=3800 3800w, //zap-main.myshopify.com/cdn/shop/files/02-content-03_4c8c568e-d851-411e-89a1-29b5f505e294.jpg?v=1765829833&amp;width=4000 4000w, //zap-main.myshopify.com/cdn/shop/files/02-content-03_4c8c568e-d851-411e-89a1-29b5f505e294.jpg?v=1765829833&amp;width=4200 4200w, //zap-main.myshopify.com/cdn/shop/files/02-content-03_4c8c568e-d851-411e-89a1-29b5f505e294.jpg?v=1765829833&amp;width=4400 4400w, //zap-main.myshopify.com/cdn/shop/files/02-content-03_4c8c568e-d851-411e-89a1-29b5f505e294.jpg?v=1765829833&amp;width=4600 4600w, //zap-main.myshopify.com/cdn/shop/files/02-content-03_4c8c568e-d851-411e-89a1-29b5f505e294.jpg?v=1765829833&amp;width=4800 4800w, //zap-main.myshopify.com/cdn/shop/files/02-content-03_4c8c568e-d851-411e-89a1-29b5f505e294.jpg?v=1765829833&amp;width=5000 5000w, //zap-main.myshopify.com/cdn/shop/files/02-content-03_4c8c568e-d851-411e-89a1-29b5f505e294.jpg?v=1765829833&amp;width=5200 5200w, //zap-main.myshopify.com/cdn/shop/files/02-content-03_4c8c568e-d851-411e-89a1-29b5f505e294.jpg?v=1765829833&amp;width=5400 5400w, //zap-main.myshopify.com/cdn/shop/files/02-content-03_4c8c568e-d851-411e-89a1-29b5f505e294.jpg?v=1765829833&amp;width=5600 5600w" media="(min-width: 990px)" sizes="(min-width: 1920px) calc(916px * 1.1), (min-width: 1440px) calc(47vw * 1.1), (min-width: 1200px) calc(46vw * 1.1), (min-width: 990px) calc(47vw * 1.1), (min-width: 576px) calc(93vw * 1.1), calc(92vw * 1.1)">
+              <img src="//zap-main.myshopify.com/cdn/shop/files/02-content-03_4c8c568e-d851-411e-89a1-29b5f505e294.jpg?v=1765829833&amp;width=2048" alt="" width="2048" height="1590" class="countdown__image-image" sizes="(min-width: 1920px) calc(916px * 1.1), (min-width: 1440px) calc(47vw * 1.1), (min-width: 1200px) calc(46vw * 1.1), (min-width: 990px) calc(47vw * 1.1), (min-width: 576px) calc(93vw * 1.1), calc(92vw * 1.1)" loading="lazy" fetchpriority="auto" style="--focal_point_desktop: 50.0% 50.0%; --focal_point_mobile: 50.0% 50.0%;">
+            </picture></div></div>
+  </countdown-timer>
+</div>
+
+
+</section>
+```

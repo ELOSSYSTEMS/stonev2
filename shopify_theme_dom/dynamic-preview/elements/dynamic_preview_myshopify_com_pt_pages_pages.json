@@ -1,0 +1,26 @@
+{
+  "pageUrl": "https://dynamic-preview.myshopify.com/pt/pages/pages",
+  "pageTitle": "páginas – Dynamic",
+  "pageSlug": "dynamic_preview_myshopify_com_pt_pages_pages",
+  "sections": [
+    {
+      "refId": "dynamic_preview_myshopify_com_pt_pages_pages__section_01",
+      "index": 1,
+      "selectorHint": "#shopify-section-template--27935320080550__main",
+      "typeGuess": "category-row",
+      "patternTags": [
+        "top-of-page",
+        "cta-cluster",
+        "card-grid",
+        "category-navigation"
+      ],
+      "headingSample": [
+        "páginas"
+      ],
+      "textSample": ".collection_list_wrapper-template--27935320080550__main { padding-top: 0px; padding-bottom: 40px; margin: 0 10px;; } @media screen and (max-width: 640px) { .collection_list_wrapper-template--27935320080550__main { padding-top: 0px; padding-bottom: 20px; } } páginas Home | páginas",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_pt_pages_pages/dynamic_preview_myshopify_com_pt_pages_pages__section_01.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/pages/dynamic_preview_myshopify_com_pt_pages_pages.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/pages/dynamic_preview_myshopify_com_pt_pages_pages.json"
+    }
+  ]
+}

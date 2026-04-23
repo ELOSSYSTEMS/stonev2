@@ -1,0 +1,55 @@
+{
+  "pageUrl": "https://zap-main.myshopify.com/es/pages/contact-form",
+  "pageTitle": "Contact form",
+  "pageSlug": "zap_main_myshopify_com_es_pages_contact_form",
+  "sections": [
+    {
+      "refId": "zap_main_myshopify_com_es_pages_contact_form__section_01",
+      "index": 1,
+      "selectorHint": "#shopify-section-template--26223643984191__main",
+      "typeGuess": "content-section",
+      "patternTags": [
+        "top-of-page"
+      ],
+      "headingSample": [
+        "Contact form"
+      ],
+      "textSample": ".section-template--26223643984191__main-padding { padding-top: 4rem; padding-bottom: 0; } @media screen and (min-width: 750px) { .section-template--26223643984191__main-padding { padding-top: 5rem; padding-bottom: 0; } } @media screen and (min-width: 1360px) { .section-template--",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_es_pages_contact_form/zap_main_myshopify_com_es_pages_contact_form__section_01.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/pages/zap_main_myshopify_com_es_pages_contact_form.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/pages/zap_main_myshopify_com_es_pages_contact_form.json"
+    },
+    {
+      "refId": "zap_main_myshopify_com_es_pages_contact_form__section_02",
+      "index": 2,
+      "selectorHint": "#shopify-section-template--26223643984191__contact_form_FyfwJG",
+      "typeGuess": "content-section",
+      "patternTags": [
+        "product-commerce"
+      ],
+      "headingSample": [
+        "contacts"
+      ],
+      "textSample": ".section-template--26223643984191__contact_form_FyfwJG-padding { padding-top: 5rem; padding-bottom: 5rem; } @media screen and (min-width: 750px) { .section-template--26223643984191__contact_form_FyfwJG-padding { padding-top: 7.2rem; padding-bottom: 7.2rem; } } @media screen and (",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_es_pages_contact_form/zap_main_myshopify_com_es_pages_contact_form__section_02.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/pages/zap_main_myshopify_com_es_pages_contact_form.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/pages/zap_main_myshopify_com_es_pages_contact_form.json"
+    },
+    {
+      "refId": "zap_main_myshopify_com_es_pages_contact_form__section_03",
+      "index": 3,
+      "selectorHint": "#shopify-section-template--26223643984191__contact_form_TPHhQE",
+      "typeGuess": "content-section",
+      "patternTags": [
+        "product-commerce"
+      ],
+      "headingSample": [
+        "contacts"
+      ],
+      "textSample": ".section-template--26223643984191__contact_form_TPHhQE-padding { padding-top: 5rem; padding-bottom: 6.4rem; } @media screen and (min-width: 750px) { .section-template--26223643984191__contact_form_TPHhQE-padding { padding-top: 7.2rem; padding-bottom: 8.8rem; } } @media screen and",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_es_pages_contact_form/zap_main_myshopify_com_es_pages_contact_form__section_03.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/pages/zap_main_myshopify_com_es_pages_contact_form.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/pages/zap_main_myshopify_com_es_pages_contact_form.json"
+    }
+  ]
+}

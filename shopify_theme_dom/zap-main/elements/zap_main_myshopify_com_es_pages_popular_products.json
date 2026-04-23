@@ -1,0 +1,100 @@
+{
+  "pageUrl": "https://zap-main.myshopify.com/es/pages/popular-products",
+  "pageTitle": "Popular products",
+  "pageSlug": "zap_main_myshopify_com_es_pages_popular_products",
+  "sections": [
+    {
+      "refId": "zap_main_myshopify_com_es_pages_popular_products__section_01",
+      "index": 1,
+      "selectorHint": "#shopify-section-template--26224255435071__main",
+      "typeGuess": "content-section",
+      "patternTags": [
+        "top-of-page",
+        "product-commerce"
+      ],
+      "headingSample": [
+        "Popular products"
+      ],
+      "textSample": ".section-template--26224255435071__main-padding { padding-top: 4rem; padding-bottom: 0; } @media screen and (min-width: 750px) { .section-template--26224255435071__main-padding { padding-top: 5rem; padding-bottom: 0; } } @media screen and (min-width: 1360px) { .section-template--",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_es_pages_popular_products/zap_main_myshopify_com_es_pages_popular_products__section_01.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/pages/zap_main_myshopify_com_es_pages_popular_products.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/pages/zap_main_myshopify_com_es_pages_popular_products.json"
+    },
+    {
+      "refId": "zap_main_myshopify_com_es_pages_popular_products__section_02",
+      "index": 2,
+      "selectorHint": "#shopify-section-template--26224255435071__popular_products_yQMJca",
+      "typeGuess": "product-grid",
+      "patternTags": [
+        "image-heavy",
+        "slider",
+        "cta-cluster",
+        "card-grid",
+        "product-commerce",
+        "category-navigation",
+        "editorial-media"
+      ],
+      "headingSample": [
+        "Customer Favorites",
+        "Infusión de miel y limón",
+        "Refrescante de menta y lima",
+        "Energía original",
+        "Enfriador de pasión",
+        "Hibisco rosa"
+      ],
+      "textSample": ".section-template--26224255435071__popular_products_yQMJca-padding { padding-top: 5rem; padding-bottom: 5rem; } @media screen and (min-width: 750px) { .section-template--26224255435071__popular_products_yQMJca-padding { padding-top: 7.2rem; padding-bottom: 7.2rem; } } @media scre",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_es_pages_popular_products/zap_main_myshopify_com_es_pages_popular_products__section_02.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/pages/zap_main_myshopify_com_es_pages_popular_products.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/pages/zap_main_myshopify_com_es_pages_popular_products.json"
+    },
+    {
+      "refId": "zap_main_myshopify_com_es_pages_popular_products__section_03",
+      "index": 3,
+      "selectorHint": "#shopify-section-template--26224255435071__popular_products_EFm8rq",
+      "typeGuess": "product-grid",
+      "patternTags": [
+        "image-heavy",
+        "slider",
+        "cta-cluster",
+        "card-grid",
+        "product-commerce",
+        "category-navigation",
+        "editorial-media"
+      ],
+      "headingSample": [
+        "Find your new obsession",
+        "Infusión de miel y limón",
+        "Refrescante de menta y lima",
+        "Energía original"
+      ],
+      "textSample": ".section-template--26224255435071__popular_products_EFm8rq-padding { padding-top: 5rem; padding-bottom: 5rem; } @media screen and (min-width: 750px) { .section-template--26224255435071__popular_products_EFm8rq-padding { padding-top: 7.2rem; padding-bottom: 7.2rem; } } @media scre",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_es_pages_popular_products/zap_main_myshopify_com_es_pages_popular_products__section_03.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/pages/zap_main_myshopify_com_es_pages_popular_products.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/pages/zap_main_myshopify_com_es_pages_popular_products.json"
+    },
+    {
+      "refId": "zap_main_myshopify_com_es_pages_popular_products__section_04",
+      "index": 4,
+      "selectorHint": "#shopify-section-template--26224255435071__popular_products_T8Wbw4",
+      "typeGuess": "product-grid",
+      "patternTags": [
+        "image-heavy",
+        "cta-cluster",
+        "card-grid",
+        "product-commerce",
+        "category-navigation",
+        "editorial-media"
+      ],
+      "headingSample": [
+        "Popular Products",
+        "Infusión de miel y limón",
+        "Refrescante de menta y lima",
+        "Energía original"
+      ],
+      "textSample": ".section-template--26224255435071__popular_products_T8Wbw4-padding { padding-top: 5rem; padding-bottom: 6.4rem; } @media screen and (min-width: 750px) { .section-template--26224255435071__popular_products_T8Wbw4-padding { padding-top: 7.2rem; padding-bottom: 8.8rem; } } @media sc",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_es_pages_popular_products/zap_main_myshopify_com_es_pages_popular_products__section_04.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/pages/zap_main_myshopify_com_es_pages_popular_products.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/pages/zap_main_myshopify_com_es_pages_popular_products.json"
+    }
+  ]
+}

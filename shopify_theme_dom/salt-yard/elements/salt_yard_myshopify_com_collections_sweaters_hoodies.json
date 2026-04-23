@@ -1,0 +1,34 @@
+{
+  "pageUrl": "https://salt-yard.myshopify.com/collections/sweaters-hoodies",
+  "pageTitle": "Sweaters & Hoodies – Symmetry Theme Salt Yard",
+  "pageSlug": "salt_yard_myshopify_com_collections_sweaters_hoodies",
+  "sections": [
+    {
+      "refId": "salt_yard_myshopify_com_collections_sweaters_hoodies__section_01",
+      "index": 1,
+      "selectorHint": "div.container.cf",
+      "typeGuess": "hero",
+      "patternTags": [
+        "hero-candidate",
+        "top-of-page",
+        "image-heavy",
+        "slider",
+        "cta-cluster",
+        "product-commerce",
+        "category-navigation",
+        "editorial-media"
+      ],
+      "headingSample": [
+        "T-Shirts",
+        "New Arrivals",
+        "Best Sellers",
+        "Jackets",
+        "Sweaters & Hoodies"
+      ],
+      "textSample": "T-Shirts New Arrivals Best Sellers Jackets Previous Next Sweaters & Hoodies Filter 7 products Sort by Best selling Best sellingAlphabetically, A-ZAlphabetically, Z-APrice, low to highPrice, high to lowDate, old to newDate, new to old Filter 7 products Sort by Best selling Best se",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_collections_sweaters_hoodies/salt_yard_myshopify_com_collections_sweaters_hoodies__section_01.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/pages/salt_yard_myshopify_com_collections_sweaters_hoodies.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/pages/salt_yard_myshopify_com_collections_sweaters_hoodies.json"
+    }
+  ]
+}

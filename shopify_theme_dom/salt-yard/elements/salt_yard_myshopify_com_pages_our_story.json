@@ -1,0 +1,38 @@
+{
+  "pageUrl": "https://salt-yard.myshopify.com/pages/our-story",
+  "pageTitle": "Our Story – Symmetry Theme Salt Yard",
+  "pageSlug": "salt_yard_myshopify_com_pages_our_story",
+  "sections": [
+    {
+      "refId": "salt_yard_myshopify_com_pages_our_story__section_01",
+      "index": 1,
+      "selectorHint": "div.container.cf",
+      "typeGuess": "hero",
+      "patternTags": [
+        "hero-candidate",
+        "top-of-page",
+        "video",
+        "image-heavy",
+        "slider",
+        "cta-cluster",
+        "card-grid",
+        "product-commerce",
+        "category-navigation",
+        "editorial-media",
+        "marquee"
+      ],
+      "headingSample": [
+        "Our story",
+        "Unrecorded weaves together style and sustainability. Timeless designs constructed with the future in mind.",
+        "Our ethical approach",
+        "Exude confidence",
+        "We’re transparent, proud of everybody we work with and everything we do.",
+        "Designed to last"
+      ],
+      "textSample": "#section-id-template--26857880256585__cdffcd03-a94b-4d6e-a504-1fe0b70347d6 .height--fixed { --image-height: 400px; } @media (min-width: 768px) { #section-id-template--26857880256585__cdffcd03-a94b-4d6e-a504-1fe0b70347d6 .height--fixed { --image-height: 720px; } } #section-id-temp",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_pages_our_story/salt_yard_myshopify_com_pages_our_story__section_01.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/pages/salt_yard_myshopify_com_pages_our_story.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/pages/salt_yard_myshopify_com_pages_our_story.json"
+    }
+  ]
+}

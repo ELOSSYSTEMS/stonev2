@@ -1,0 +1,34 @@
+{
+  "pageUrl": "https://salt-yard.myshopify.com/collections/t-shirts",
+  "pageTitle": "T-Shirts – Symmetry Theme Salt Yard",
+  "pageSlug": "salt_yard_myshopify_com_collections_t_shirts",
+  "sections": [
+    {
+      "refId": "salt_yard_myshopify_com_collections_t_shirts__section_01",
+      "index": 1,
+      "selectorHint": "div.container.cf",
+      "typeGuess": "hero",
+      "patternTags": [
+        "hero-candidate",
+        "top-of-page",
+        "image-heavy",
+        "slider",
+        "cta-cluster",
+        "product-commerce",
+        "category-navigation",
+        "editorial-media"
+      ],
+      "headingSample": [
+        "Knitwear",
+        "New Arrivals",
+        "All Clothing",
+        "Best Sellers",
+        "T-Shirts"
+      ],
+      "textSample": "Knitwear New Arrivals All Clothing Best Sellers Previous Next T-Shirts Filter 2 products Sort by Best selling Best sellingAlphabetically, A-ZAlphabetically, Z-APrice, low to highPrice, high to lowDate, old to newDate, new to old Filter 2 products Sort by Best selling Best selling",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_collections_t_shirts/salt_yard_myshopify_com_collections_t_shirts__section_01.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/pages/salt_yard_myshopify_com_collections_t_shirts.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/pages/salt_yard_myshopify_com_collections_t_shirts.json"
+    }
+  ]
+}

@@ -1279,6 +1279,102 @@
         }
       }
     },
+    "stone_hero_opening": {
+      "name": "Hero opening",
+      "empty": "Add opening copy or a supporting image to validate this homepage hero surface.",
+      "settings": {
+        "heading": {
+          "label": "Section heading",
+          "info": "Optional. Displays the main homepage heading inside the shared section shell."
+        },
+        "eyebrow": {
+          "label": "Eyebrow",
+          "info": "Optional. Displays a short brand or campaign label above the opening copy."
+        },
+        "body": {
+          "label": "Opening copy",
+          "info": "Adds the primary rich-text introduction for the homepage opening."
+        },
+        "primary_cta_label": {
+          "label": "Primary CTA label",
+          "info": "Optional. Leave blank to hide the primary action."
+        },
+        "primary_cta_link": {
+          "label": "Primary CTA link",
+          "info": "Shown only when the primary CTA label is not blank."
+        },
+        "secondary_cta_label": {
+          "label": "Secondary CTA label",
+          "info": "Optional. Leave blank to hide the secondary action."
+        },
+        "secondary_cta_link": {
+          "label": "Secondary CTA link",
+          "info": "Shown only when the secondary CTA label is not blank."
+        },
+        "image": {
+          "label": "Supporting image",
+          "info": "Optional. Adds one homepage-safe supporting image beside the opening copy."
+        },
+        "image_alt": {
+          "label": "Image alt text",
+          "info": "Describe the supporting image for assistive technology when one is selected."
+        },
+        "surface_style": {
+          "label": "Surface style",
+          "info": "Controls whether the opening sits directly on the page or inside a soft surface.",
+          "options": {
+            "outline": {
+              "label": "Outline"
+            },
+            "soft": {
+              "label": "Soft"
+            }
+          }
+        },
+        "media_position": {
+          "label": "Media position",
+          "info": "Controls whether the supporting image appears before or after the opening copy on larger screens.",
+          "options": {
+            "start": {
+              "label": "Image first"
+            },
+            "end": {
+              "label": "Copy first"
+            }
+          }
+        },
+        "width_mode": {
+          "label": "Width mode",
+          "info": "Controls the container width for the section shell.",
+          "options": {
+            "narrow": {
+              "label": "Narrow"
+            },
+            "standard": {
+              "label": "Standard"
+            },
+            "wide": {
+              "label": "Wide"
+            }
+          }
+        },
+        "spacing_mode": {
+          "label": "Spacing mode",
+          "info": "Controls the vertical spacing for the section shell.",
+          "options": {
+            "compact": {
+              "label": "Compact"
+            },
+            "standard": {
+              "label": "Balanced"
+            },
+            "relaxed": {
+              "label": "Relaxed"
+            }
+          }
+        }
+      }
+    },
     "stone_story_split": {
       "name": "Story split",
       "empty": "Add editorial body copy to validate this story split section.",

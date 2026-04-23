@@ -1,0 +1,38 @@
+{
+  "url": "https://salt-yard.myshopify.com/pages/wide",
+  "title": "Wide – Symmetry Theme Salt Yard",
+  "bodyClasses": "template-page\n template-suffix-wide swatch-source-theme swatch-method-variant-images swatch-style-icon_square cc-animate-enabled",
+  "headings": [
+    "Wide",
+    "Sign up and get 10% off your first order"
+  ],
+  "customElements": [
+    "announcement-bar",
+    "cart-drawer",
+    "cart-form",
+    "countdown-timer",
+    "country-selector",
+    "main-navigation",
+    "main-search",
+    "mobile-disclosure",
+    "page-header",
+    "pop-up",
+    "product-block",
+    "search-suggestions",
+    "shopify-account",
+    "shopify-store"
+  ],
+  "mainOuterHtml": "<main id=\"content\" role=\"main\">\n    <div class=\"container cf\">\n\n      <div id=\"shopify-section-template--26857916760137__main\" class=\"shopify-section page-section-spacing\"><div class=\"container\"><div class=\"page-header\">\n      <h1 class=\"majortitle\">Wide</h1>\n    </div><div class=\"rte cf\"></div>\n</div>\n\n\n\n\n</div>\n\n    </div>\n  </main>",
+  "sections": [
+    {
+      "index": 1,
+      "id": null,
+      "tag": "div",
+      "classes": "container cf",
+      "headingSample": [
+        "Wide"
+      ],
+      "outerHTML": "<div class=\"container cf\">\n\n      <div id=\"shopify-section-template--26857916760137__main\" class=\"shopify-section page-section-spacing\"><div class=\"container\"><div class=\"page-header\">\n      <h1 class=\"majortitle\">Wide</h1>\n    </div><div class=\"rte cf\"></div>\n</div>\n\n\n\n\n</div>\n\n    </div>"
+    }
+  ]
+}

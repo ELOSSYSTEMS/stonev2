@@ -1,0 +1,34 @@
+{
+  "pageUrl": "https://salt-yard.myshopify.com/collections/jackets",
+  "pageTitle": "Jackets – Symmetry Theme Salt Yard",
+  "pageSlug": "salt_yard_myshopify_com_collections_jackets",
+  "sections": [
+    {
+      "refId": "salt_yard_myshopify_com_collections_jackets__section_01",
+      "index": 1,
+      "selectorHint": "div.container.cf",
+      "typeGuess": "hero",
+      "patternTags": [
+        "hero-candidate",
+        "top-of-page",
+        "image-heavy",
+        "slider",
+        "cta-cluster",
+        "product-commerce",
+        "category-navigation",
+        "editorial-media"
+      ],
+      "headingSample": [
+        "Denim",
+        "All Clothing",
+        "New Arrivals",
+        "Sale",
+        "Jackets"
+      ],
+      "textSample": "Denim All Clothing New Arrivals Sale Previous Next Jackets Filter 3 products Sort by Best selling Best sellingAlphabetically, A-ZAlphabetically, Z-APrice, low to highPrice, high to lowDate, old to newDate, new to old Filter 3 products Sort by Best selling Best sellingAlphabetical",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_collections_jackets/salt_yard_myshopify_com_collections_jackets__section_01.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/pages/salt_yard_myshopify_com_collections_jackets.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/pages/salt_yard_myshopify_com_collections_jackets.json"
+    }
+  ]
+}

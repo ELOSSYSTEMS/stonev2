@@ -1,0 +1,29 @@
+# Shopify page scrape
+
+- URL: https://shift-sketch.myshopify.com/fr/pages/specifications-new
+- Title: Specifications new – Shift Sketch
+- Body classes: template-page template-page
+- Custom elements: cart-drawer, cart-drawer-items, header-drawer, header-search, menu-drawer, modal-localization-form, modal-region-selector, predictive-search, shop-cart-sync, sticky-header
+- Headings: Specifications new | Boutique | Boutique | Explorer | Explorer | Légal | Légal | Suivez-nous | Abonnez-vous à notre newsletter
+
+## 1. shopify-section-template--27266934047095__page_info
+
+- Tag: section
+- Classes: shopify-section page-section
+- Headings: Specifications new
+
+```html
+<section id="shopify-section-template--27266934047095__page_info" class="shopify-section page-section"><link href="//shift-sketch.myshopify.com/cdn/shop/t/2/assets/section-main-page.css?v=122541859386650611581774270656" rel="stylesheet" type="text/css" media="all">
+
+<div class="page-section-wrapper container align-left">
+  <div class="page-header">
+    <div class="page-header__inner">
+      <h1 class="page-header__inner-title h5">Specifications new</h1>
+    </div>
+  </div><div class="rte">
+      <p><span>This notebook features a durable 300 gsm hardcover wrapped in textured paper for everyday use. Inside, it includes 192 pages of 100 gsm acid-free paper designed to prevent ink bleed-through with standard pens and gel pens.</span><span> </span><span>The binding is thread-stitched for improved durability and flat-lay writing. Suitable for note-taking, journaling, planning, and daily work use.</span></p>
+    </div></div>
+
+
+</section>
+```

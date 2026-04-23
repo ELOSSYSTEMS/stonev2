@@ -1,0 +1,27 @@
+{
+  "pageUrl": "https://shift-sketch.myshopify.com/pages/hero",
+  "pageTitle": "Hero – Shift Sketch",
+  "pageSlug": "shift_sketch_myshopify_com_pages_hero",
+  "sections": [
+    {
+      "refId": "shift_sketch_myshopify_com_pages_hero__section_01",
+      "index": 1,
+      "selectorHint": "#shopify-section-template--28054576628087__hero_PK4M6t",
+      "typeGuess": "hero",
+      "patternTags": [
+        "hero-candidate",
+        "top-of-page",
+        "image-heavy",
+        "category-navigation",
+        "editorial-media"
+      ],
+      "headingSample": [
+        "Every item in our collection is thoughtfully designed to turn everyday moments into inspiring, organized, and beautiful experiences."
+      ],
+      "textSample": "#shopify-section-template--28054576628087__hero_PK4M6t { padding-top: 0; padding-bottom: 6rem; } @media screen and (min-width: 750px) { #shopify-section-template--28054576628087__hero_PK4M6t { padding-top: 0; padding-bottom: 8rem; } } @media screen and (min-width: 1440px) { #shop",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/shift-sketch/elements/shift_sketch_myshopify_com_pages_hero/shift_sketch_myshopify_com_pages_hero__section_01.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/shift-sketch/pages/shift_sketch_myshopify_com_pages_hero.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/shift-sketch/pages/shift_sketch_myshopify_com_pages_hero.json"
+    }
+  ]
+}

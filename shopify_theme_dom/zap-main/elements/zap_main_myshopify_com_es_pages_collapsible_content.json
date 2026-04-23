@@ -1,0 +1,55 @@
+{
+  "pageUrl": "https://zap-main.myshopify.com/es/pages/collapsible-content",
+  "pageTitle": "Collapsible content",
+  "pageSlug": "zap_main_myshopify_com_es_pages_collapsible_content",
+  "sections": [
+    {
+      "refId": "zap_main_myshopify_com_es_pages_collapsible_content__section_01",
+      "index": 1,
+      "selectorHint": "#shopify-section-template--26223651160383__main",
+      "typeGuess": "content-section",
+      "patternTags": [
+        "top-of-page"
+      ],
+      "headingSample": [
+        "Collapsible content"
+      ],
+      "textSample": ".section-template--26223651160383__main-padding { padding-top: 4rem; padding-bottom: 0; } @media screen and (min-width: 750px) { .section-template--26223651160383__main-padding { padding-top: 5rem; padding-bottom: 0; } } @media screen and (min-width: 1360px) { .section-template--",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_es_pages_collapsible_content/zap_main_myshopify_com_es_pages_collapsible_content__section_01.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/pages/zap_main_myshopify_com_es_pages_collapsible_content.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/pages/zap_main_myshopify_com_es_pages_collapsible_content.json"
+    },
+    {
+      "refId": "zap_main_myshopify_com_es_pages_collapsible_content__section_02",
+      "index": 2,
+      "selectorHint": "#shopify-section-template--26223651160383__collapsible_content_tGJjVJ",
+      "typeGuess": "cta-section",
+      "patternTags": [
+        "cta-cluster"
+      ],
+      "headingSample": [
+        "Frequently Asked Questions"
+      ],
+      "textSample": "#shopify-section-template--26223651160383__collapsible_content_tGJjVJ [data-enable-header-animation] .collapsible-content__heading .word { opacity: 0; transform: translateY(20px); display: inline-block; white-space: nowrap; } #shopify-section-template--26223651160383__collapsible",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_es_pages_collapsible_content/zap_main_myshopify_com_es_pages_collapsible_content__section_02.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/pages/zap_main_myshopify_com_es_pages_collapsible_content.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/pages/zap_main_myshopify_com_es_pages_collapsible_content.json"
+    },
+    {
+      "refId": "zap_main_myshopify_com_es_pages_collapsible_content__section_03",
+      "index": 3,
+      "selectorHint": "#shopify-section-template--26223651160383__collapsible_content_VairYF",
+      "typeGuess": "cta-section",
+      "patternTags": [
+        "cta-cluster"
+      ],
+      "headingSample": [
+        "Frequently Asked Questions"
+      ],
+      "textSample": "#shopify-section-template--26223651160383__collapsible_content_VairYF [data-enable-header-animation] .collapsible-content__heading .word { opacity: 0; transform: translateY(20px); display: inline-block; white-space: nowrap; } #shopify-section-template--26223651160383__collapsible",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_es_pages_collapsible_content/zap_main_myshopify_com_es_pages_collapsible_content__section_03.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/pages/zap_main_myshopify_com_es_pages_collapsible_content.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/pages/zap_main_myshopify_com_es_pages_collapsible_content.json"
+    }
+  ]
+}

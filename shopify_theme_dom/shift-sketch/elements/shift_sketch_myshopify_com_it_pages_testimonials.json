@@ -1,0 +1,35 @@
+{
+  "pageUrl": "https://shift-sketch.myshopify.com/it/pages/testimonials",
+  "pageTitle": "Testimonianze – Shift Sketch",
+  "pageSlug": "shift_sketch_myshopify_com_it_pages_testimonials",
+  "sections": [
+    {
+      "refId": "shift_sketch_myshopify_com_it_pages_testimonials__section_01",
+      "index": 1,
+      "selectorHint": "#shopify-section-template--28054349939063__testimonials_iJmMhk",
+      "typeGuess": "hero",
+      "patternTags": [
+        "hero-candidate",
+        "top-of-page",
+        "image-heavy",
+        "slider",
+        "cta-cluster",
+        "card-grid",
+        "product-commerce",
+        "editorial-media"
+      ],
+      "headingSample": [
+        "I nostri clienti lo dicono meglio",
+        "Blocco da disegno della serie Pastel",
+        "Pianificatore di struttura giornaliera",
+        "Essential Grid Planner",
+        "\"Adoro quanto sia liscia e lucida la carta! Scriveresulla mia agenda non è mai stato così appagante.Questi prodotti rendono piacevolel'organizzazione.\"",
+        "\"La qualità è eccezionale. Il mio album dadisegno ha resistito benissimo e posso scrivere edisegnare senza preoccuparmi di strappare lepagine. Lo consiglio vivamente!\""
+      ],
+      "textSample": ".section-template--28054349939063__testimonials_iJmMhk-padding { padding-top: 0; padding-bottom: 0; } @media screen and (min-width: 750px) { .section-template--28054349939063__testimonials_iJmMhk-padding { padding-top: 0; padding-bottom: 0; } } @media screen and (min-width: 1440p",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/shift-sketch/elements/shift_sketch_myshopify_com_it_pages_testimonials/shift_sketch_myshopify_com_it_pages_testimonials__section_01.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/shift-sketch/pages/shift_sketch_myshopify_com_it_pages_testimonials.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/shift-sketch/pages/shift_sketch_myshopify_com_it_pages_testimonials.json"
+    }
+  ]
+}

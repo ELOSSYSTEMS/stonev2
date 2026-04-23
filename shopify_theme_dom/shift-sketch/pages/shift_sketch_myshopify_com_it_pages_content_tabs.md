@@ -1,0 +1,394 @@
+# Shopify page scrape
+
+- URL: https://shift-sketch.myshopify.com/it/pages/content-tabs
+- Title: Schede di contenuto – Shift Sketch
+- Body classes: template-page template-page-content-tabs
+- Custom elements: cart-drawer, cart-drawer-items, header-drawer, header-search, menu-drawer, modal-localization-form, modal-region-selector, predictive-search, shop-cart-sync, sticky-header
+- Headings: Schede di contenuto | Con quali materiali sono realizzati i vostri prodotti? | Come posso prendermi cura o effettuare la manutenzione di questo prodotto? | Offrite garanzie o assicurazioni? | Posso restituire o cambiare un prodotto? | Quanto tempo impiega la spedizione? | Posso tracciare il mio ordine? | I vostri prodotti sono ecosostenibili o sostenibili? | Posso contattare l'assistenza se ho altre domande? | Negozio | Negozio | Esplorare | Esplorare | Legal | Legal | Seguici | Iscriviti alla nostra newsletter
+
+## 1. shopify-section-template--28054288367991__page_info
+
+- Tag: section
+- Classes: shopify-section page-section
+- Headings: Schede di contenuto
+
+```html
+<section id="shopify-section-template--28054288367991__page_info" class="shopify-section page-section"><link href="//shift-sketch.myshopify.com/cdn/shop/t/2/assets/section-main-page.css?v=122541859386650611581774270656" rel="stylesheet" type="text/css" media="all">
+
+<div class="page-section-wrapper container align-left">
+  <div class="page-header">
+    <div class="page-header__inner">
+      <h1 class="page-header__inner-title h5">Schede di contenuto</h1>
+    </div>
+  </div></div>
+
+
+</section>
+```
+
+## 2. shopify-section-template--28054288367991__content_tabs
+
+- Tag: section
+- Classes: shopify-section content-tabs-section
+- Headings: Con quali materiali sono realizzati i vostri prodotti? | Come posso prendermi cura o effettuare la manutenzione di questo prodotto? | Offrite garanzie o assicurazioni? | Posso restituire o cambiare un prodotto? | Quanto tempo impiega la spedizione? | Posso tracciare il mio ordine?
+
+```html
+<section id="shopify-section-template--28054288367991__content_tabs" class="shopify-section content-tabs-section"><link href="//shift-sketch.myshopify.com/cdn/shop/t/2/assets/section-content-tabs.css?v=172174273705769630611773748592" rel="stylesheet" type="text/css" media="all">
+<script src="//shift-sketch.myshopify.com/cdn/shop/t/2/assets/content-tabs.js?v=149099020817444632351766398542" defer="defer"></script><style data-shopify="">#shopify-section-template--28054288367991__content_tabs {
+
+  padding-top: 2.4rem;
+
+
+
+  padding-bottom: 8rem;
+
+}
+
+@media screen and (min-width: 750px) { #shopify-section-template--28054288367991__content_tabs {
+
+  padding-top: 3.2rem;
+
+
+
+  padding-bottom: 12rem;
+
+} }
+
+@media screen and (min-width: 1440px) { #shopify-section-template--28054288367991__content_tabs {
+
+  padding-top: 4.8rem;
+
+
+
+  padding-bottom: 15rem;
+
+
+} }
+
+</style><div class="content-tabs container">
+  <div class="content-tabs__wrapper">
+    <div class="content-tabs__nav" data-tabs-nav="" data-cloned="true"><button class="content-tabs__tab body-extra-large active" data-tab-button="" data-target="AbUl1UlF4NG1YV1BSe__content_tab_fxLTih">
+      <span class="button__content">
+        <span class="button__icons-container">
+          <svg class="icon icon-arrow--tertiary-button" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M1.0278 8.04455L15.0738 8.04455M15.0738 8.04455L7.95312 15.1653M15.0738 8.04455L7.95312 0.923828" stroke="currentColor" stroke-linecap="square"></path>
+</svg>
+
+        </span>
+        <span class="button__label">Contatto</span>
+      </span>
+    </button><button class="content-tabs__tab body-extra-large" data-tab-button="" data-target="AZmF1VXJ3Y0FsbGdnN__content_tab_DHCqVR">
+      <span class="button__content">
+        <span class="button__icons-container">
+          <svg class="icon icon-arrow--tertiary-button" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M1.0278 8.04455L15.0738 8.04455M15.0738 8.04455L7.95312 15.1653M15.0738 8.04455L7.95312 0.923828" stroke="currentColor" stroke-linecap="square"></path>
+</svg>
+
+        </span>
+        <span class="button__label">Domande frequenti</span>
+      </span>
+    </button><button class="content-tabs__tab body-extra-large" data-tab-button="" data-target="AK2xTUCs2RjJQakUxZ__content_tab_NpaEhf">
+      <span class="button__content">
+        <span class="button__icons-container">
+          <svg class="icon icon-arrow--tertiary-button" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M1.0278 8.04455L15.0738 8.04455M15.0738 8.04455L7.95312 15.1653M15.0738 8.04455L7.95312 0.923828" stroke="currentColor" stroke-linecap="square"></path>
+</svg>
+
+        </span>
+        <span class="button__label">politica sulla riservatezza</span>
+      </span>
+    </button></div>
+
+    <div class="content-tabs__blocks">
+      <div id="shopify-block-AbUl1UlF4NG1YV1BSe__content_tab_fxLTih" class="shopify-block content-tabs-blocks"><div class="content-tabs__content active" id="AbUl1UlF4NG1YV1BSe__content_tab_fxLTih" data-tab-content="">
+  
+    <button class="content-tabs__tab body-extra-large active" data-tab-button="" data-target="AbUl1UlF4NG1YV1BSe__content_tab_fxLTih">
+      <span class="button__content">
+        <span class="button__icons-container">
+          <svg class="icon icon-arrow--tertiary-button" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M1.0278 8.04455L15.0738 8.04455M15.0738 8.04455L7.95312 15.1653M15.0738 8.04455L7.95312 0.923828" stroke="currentColor" stroke-linecap="square"></path>
+</svg>
+
+        </span>
+        <span class="button__label">Contatto</span>
+      </span>
+    </button>
+  
+  <div class="content-tabs__tabs">
+    <div id="shopify-block-ARzRtZW5NK1hSZXpaN__richtext_content_ptJh9e" class="shopify-block tab-richtext-content-block"><div class="content-tabs__tab-richtext-content rte">
+  <h6> Contattaci in qualsiasi momento</h6>
+<p> Compila il modulo sottostante con le tue domande o commenti. Apprezziamo il tuo feedback e ti risponderemo entro 24 ore. La tua soddisfazione è la nostra priorità.</p>
+<p> <strong>Ci piacerebbe sentire la tua opinione</strong></p> <p>Hai una domanda, un commento o vuoi semplicemente salutarci? Compila il modulo e ti risponderemo il prima possibile.</p>
+<p> <strong>Siamo qui per aiutarti</strong></p>
+<p> Se hai una domanda, un suggerimento o vuoi semplicemente chiacchierare, compila il modulo e ti risponderemo al più presto.</p>
+<p> <strong>Scrivici una riga</strong></p>
+<p> Hai qualcosa in mente? Faccelo sapere! Compila il modulo e ti contatteremo al più presto.</p>
+</div>
+
+
+</div>
+<div id="shopify-block-ATDNUQkRQNmcxMnBSU__contact_form_fJKLkd" class="shopify-block tab-contact-form-block"><div class="content-tabs__tab-contact-form">
+  <div class="content-tabs__tab-contact-form__wrapper"><form method="post" action="/it/contact#ContactFormTab-ATDNUQkRQNmcxMnBSU__contact_form_fJKLkd" id="ContactFormTab-ATDNUQkRQNmcxMnBSU__contact_form_fJKLkd" accept-charset="UTF-8" class="contact-form__form"><input type="hidden" name="form_type" value="contact" style=""><input type="hidden" name="utf8" value="✓" style=""><div class="field field__name">
+        <input class="field__input focus-inset" autocomplete="name" type="text" id="ContactFormTab-ATDNUQkRQNmcxMnBSU__contact_form_fJKLkd-name" dir="ltr" name="contact[Nome]" value="" placeholder="Nome" style="">
+        <label class="field__label body-small" for="ContactFormTab-ATDNUQkRQNmcxMnBSU__contact_form_fJKLkd-name">Nome</label>
+      </div>
+
+      <div class="field">
+        <input autocomplete="email" type="email" id="ContactFormTab-ATDNUQkRQNmcxMnBSU__contact_form_fJKLkd-email" dir="ltr" class="field__input focus-inset" name="contact[email]" spellcheck="false" pattern="[a-z0-9._%+\-]+@[a-z0-9.\-]+\.[a-z]{2,}$" autocapitalize="off" value="" aria-required="true" placeholder="E-mail" required="" style="">
+        <label class="field__label body-small" for="ContactFormTab-ATDNUQkRQNmcxMnBSU__contact_form_fJKLkd-email">E-mail</label></div>
+
+      <div class="field">
+        <input type="tel" id="ContactFormTab-ATDNUQkRQNmcxMnBSU__contact_form_fJKLkd-phone" dir="ltr" class="field__input" autocomplete="tel" name="contact[Numero di telefono]" pattern="[0-9\-]*" value="" placeholder="Numero di telefono" style="">
+        <label class="field__label body-small" for="ContactFormTab-ATDNUQkRQNmcxMnBSU__contact_form_fJKLkd-phone">Numero di telefono</label>
+      </div>
+
+      <div class="field">
+        <textarea id="ContactFormTab-ATDNUQkRQNmcxMnBSU__contact_form_fJKLkd-body" dir="ltr" class="text-area field__input" name="contact[Messaggio]" placeholder="Messaggio" aria-required="true" required="" style=""></textarea>
+        <label class="field__label body-small" for="ContactFormTab-ATDNUQkRQNmcxMnBSU__contact_form_fJKLkd-body">Messaggio</label>
+      </div>
+
+      <div class="contact-form__bottom">
+        <button type="submit" class="button button--primary focus-inset">
+          <div class="button__content">
+            <span class="button__label">Contact</span>
+          </div>
+        </button><div class="contact-form__add-text body-small richtext-link-inside">Cliccando sul pulsante "Contatti" confermo il mio consenso <a href="/it/policies/privacy-policy" title="politica sulla riservatezza">all'Informativa sulla privacy</a> e <a href="/it/policies/terms-of-service" title="Termini di servizio">ai Termini di utilizzo</a></div></div></form></div>
+</div>
+
+
+</div>
+
+  </div>
+</div>
+
+
+</div>
+<div id="shopify-block-AZmF1VXJ3Y0FsbGdnN__content_tab_DHCqVR" class="shopify-block content-tabs-blocks"><div class="content-tabs__content" id="AZmF1VXJ3Y0FsbGdnN__content_tab_DHCqVR" data-tab-content="">
+  
+    <button class="content-tabs__tab body-extra-large" data-tab-button="" data-target="AZmF1VXJ3Y0FsbGdnN__content_tab_DHCqVR">
+      <span class="button__content">
+        <span class="button__icons-container">
+          <svg class="icon icon-arrow--tertiary-button" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M1.0278 8.04455L15.0738 8.04455M15.0738 8.04455L7.95312 15.1653M15.0738 8.04455L7.95312 0.923828" stroke="currentColor" stroke-linecap="square"></path>
+</svg>
+
+        </span>
+        <span class="button__label">Domande frequenti</span>
+      </span>
+    </button>
+  
+  <div class="content-tabs__tabs">
+    <div id="shopify-block-AYWZ1cUoxQzNVUDdVM__collapsible_content_DTHDgX" class="shopify-block tab-collapsible-content-block"><div class="content-tabs__tab-collapsible-content">
+  
+    <div class="content-tabs__tab-collapsible-content-title body-extra-large">
+      Prodotto
+    </div>
+  
+  <div id="shopify-block-AclZSTmp1eFAyNndhR__collapsible_row_LpEFAa" class="shopify-block tab-collapsible-row-block"><div class="content-tabs__tab-collapsible-row">
+  
+    <div class="content-tabs__tab-collapsible-content__item active" tabindex="0"><h3 class="content-tabs__tab-collapsible-content__question body-large">
+          Con quali materiali sono realizzati i vostri prodotti?
+          <span class="content-tabs__tab-collapsible-content__question-icon"></span>
+        </h3><div class="content-tabs__tab-collapsible-content__answer">
+          <div class="content-tabs__tab-collapsible-content__answer-wrapper">
+            <div class="content-tabs__tab-collapsible-content__answer-description rte">
+              <p> Tutti i nostri prodotti sono realizzati con materiali di alta qualità e resistenti, selezionati per garantire longevità, funzionalità e stile. I materiali specifici variano a seconda della tipologia di prodotto e sono descritti in dettaglio in ogni pagina prodotto.</p>
+            </div>
+          </div>
+        </div></div>
+  
+</div>
+
+
+</div>
+<div id="shopify-block-AV3hFcFRQcXRnSDhzT__collapsible_row_WceQUH" class="shopify-block tab-collapsible-row-block"><div class="content-tabs__tab-collapsible-row">
+  
+    <div class="content-tabs__tab-collapsible-content__item" tabindex="0"><h3 class="content-tabs__tab-collapsible-content__question body-large">
+          Come posso prendermi cura o effettuare la manutenzione di questo prodotto?
+          <span class="content-tabs__tab-collapsible-content__question-icon"></span>
+        </h3><div class="content-tabs__tab-collapsible-content__answer">
+          <div class="content-tabs__tab-collapsible-content__answer-wrapper">
+            <div class="content-tabs__tab-collapsible-content__answer-description rte">
+              <p>Le istruzioni per la cura dipendono dalla categoria del prodotto, ma in genere consigliamo di seguire le istruzioni fornite con l'articolo, di mantenerlo pulito e di conservarlo correttamente quando non lo si utilizza, per preservarne la qualità e le prestazioni.</p>
+            </div>
+          </div>
+        </div></div>
+  
+</div>
+
+
+</div>
+<div id="shopify-block-ATEVMSEVRR21rYzRZZ__collapsible_row_VRceYz" class="shopify-block tab-collapsible-row-block"><div class="content-tabs__tab-collapsible-row">
+  
+    <div class="content-tabs__tab-collapsible-content__item" tabindex="0"><h3 class="content-tabs__tab-collapsible-content__question body-large">
+          Offrite garanzie o assicurazioni?
+          <span class="content-tabs__tab-collapsible-content__question-icon"></span>
+        </h3><div class="content-tabs__tab-collapsible-content__answer">
+          <div class="content-tabs__tab-collapsible-content__answer-wrapper">
+            <div class="content-tabs__tab-collapsible-content__answer-description rte">
+              <p> Sì. La maggior parte dei nostri prodotti è coperta da garanzia o garanzia soddisfatti o rimborsati. Per i termini e le condizioni dettagliate, consultare la pagina del prodotto o contattare il nostro team di supporto.</p>
+            </div>
+          </div>
+        </div></div>
+  
+</div>
+
+
+</div>
+<div id="shopify-block-AWnMyakRjOE1hZmZYM__collapsible_row_zq7N3p" class="shopify-block tab-collapsible-row-block"><div class="content-tabs__tab-collapsible-row">
+  
+    <div class="content-tabs__tab-collapsible-content__item" tabindex="0"><h3 class="content-tabs__tab-collapsible-content__question body-large">
+          Posso restituire o cambiare un prodotto?
+          <span class="content-tabs__tab-collapsible-content__question-icon"></span>
+        </h3><div class="content-tabs__tab-collapsible-content__answer">
+          <div class="content-tabs__tab-collapsible-content__answer-wrapper">
+            <div class="content-tabs__tab-collapsible-content__answer-description rte">
+              <p> Assolutamente sì. Offriamo una politica di reso e cambio flessibile. Gli articoli devono essere restituiti nelle condizioni originali entro i tempi indicati nella nostra pagina dei resi.</p>
+            </div>
+          </div>
+        </div></div>
+  
+</div>
+
+
+</div>
+
+</div>
+
+
+</div>
+<div id="shopify-block-ARHZaYWlRc3NHVXNRO__collapsible_content_UP6NgC" class="shopify-block tab-collapsible-content-block"><div class="content-tabs__tab-collapsible-content">
+  
+    <div class="content-tabs__tab-collapsible-content-title body-extra-large">
+      Spedizione
+    </div>
+  
+  <div id="shopify-block-AKzE5bEdESFNRVEV1c__collapsible_row_hCVrYt" class="shopify-block tab-collapsible-row-block"><div class="content-tabs__tab-collapsible-row">
+  
+    <div class="content-tabs__tab-collapsible-content__item active" tabindex="0"><h3 class="content-tabs__tab-collapsible-content__question body-large">
+          Quanto tempo impiega la spedizione?
+          <span class="content-tabs__tab-collapsible-content__question-icon"></span>
+        </h3><div class="content-tabs__tab-collapsible-content__answer">
+          <div class="content-tabs__tab-collapsible-content__answer-wrapper">
+            <div class="content-tabs__tab-collapsible-content__answer-description rte">
+              <p> I tempi di spedizione variano a seconda della località e del tipo di prodotto. I tempi di consegna stimati sono indicati al momento del pagamento e riceverai le informazioni di tracciamento una volta spedito l'ordine.</p>
+            </div>
+          </div>
+        </div></div>
+  
+</div>
+
+
+</div>
+<div id="shopify-block-Ad1cvc3VWNlh1aFZCW__collapsible_row_cTEBj8" class="shopify-block tab-collapsible-row-block"><div class="content-tabs__tab-collapsible-row">
+  
+    <div class="content-tabs__tab-collapsible-content__item" tabindex="0"><h3 class="content-tabs__tab-collapsible-content__question body-large">
+          Posso tracciare il mio ordine?
+          <span class="content-tabs__tab-collapsible-content__question-icon"></span>
+        </h3><div class="content-tabs__tab-collapsible-content__answer">
+          <div class="content-tabs__tab-collapsible-content__answer-wrapper">
+            <div class="content-tabs__tab-collapsible-content__answer-description rte">
+              <p> Sì. Una volta spedito l'ordine, riceverai un'e-mail di conferma con un numero di tracciamento per monitorare la consegna.</p>
+            </div>
+          </div>
+        </div></div>
+  
+</div>
+
+
+</div>
+<div id="shopify-block-AMVdJWU1qc0NQL05hY__collapsible_row_NiTqCP" class="shopify-block tab-collapsible-row-block"><div class="content-tabs__tab-collapsible-row">
+  
+    <div class="content-tabs__tab-collapsible-content__item" tabindex="0"><h3 class="content-tabs__tab-collapsible-content__question body-large">
+          I vostri prodotti sono ecosostenibili o sostenibili?
+          <span class="content-tabs__tab-collapsible-content__question-icon"></span>
+        </h3><div class="content-tabs__tab-collapsible-content__answer">
+          <div class="content-tabs__tab-collapsible-content__answer-wrapper">
+            <div class="content-tabs__tab-collapsible-content__answer-description rte">
+              <p>Ci impegniamo a utilizzare pratiche sostenibili e materiali provenienti da fonti responsabili, ove possibile. Informazioni specifiche sono disponibili su ogni pagina prodotto per gli articoli che evidenziano caratteristiche ecocompatibili.</p>
+            </div>
+          </div>
+        </div></div>
+  
+</div>
+
+
+</div>
+<div id="shopify-block-AeWZWSTE1enp0a0l2V__collapsible_row_JHhtrG" class="shopify-block tab-collapsible-row-block"><div class="content-tabs__tab-collapsible-row">
+  
+    <div class="content-tabs__tab-collapsible-content__item" tabindex="0"><h3 class="content-tabs__tab-collapsible-content__question body-large">
+          Posso contattare l'assistenza se ho altre domande?
+          <span class="content-tabs__tab-collapsible-content__question-icon"></span>
+        </h3><div class="content-tabs__tab-collapsible-content__answer">
+          <div class="content-tabs__tab-collapsible-content__answer-wrapper">
+            <div class="content-tabs__tab-collapsible-content__answer-description rte">
+              <p> Certamente. Il nostro team di supporto è disponibile per rispondere a qualsiasi domanda su prodotti, ordini o spedizioni. Puoi contattarci via email, chat o telefono.</p>
+            </div>
+          </div>
+        </div></div>
+  
+</div>
+
+
+</div>
+
+</div>
+
+
+</div>
+
+  </div>
+</div>
+
+
+</div>
+<div id="shopify-block-AK2xTUCs2RjJQakUxZ__content_tab_NpaEhf" class="shopify-block content-tabs-blocks"><div class="content-tabs__content" id="AK2xTUCs2RjJQakUxZ__content_tab_NpaEhf" data-tab-content="">
+  
+    <button class="content-tabs__tab body-extra-large" data-tab-button="" data-target="AK2xTUCs2RjJQakUxZ__content_tab_NpaEhf">
+      <span class="button__content">
+        <span class="button__icons-container">
+          <svg class="icon icon-arrow--tertiary-button" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M1.0278 8.04455L15.0738 8.04455M15.0738 8.04455L7.95312 15.1653M15.0738 8.04455L7.95312 0.923828" stroke="currentColor" stroke-linecap="square"></path>
+</svg>
+
+        </span>
+        <span class="button__label">politica sulla riservatezza</span>
+      </span>
+    </button>
+  
+  <div class="content-tabs__tabs">
+    <div id="shopify-block-Ac0xlSjNaK1RsUEwrW__richtext_content_pXEg76" class="shopify-block tab-richtext-content-block"><div class="content-tabs__tab-richtext-content rte">
+  <h6> Politica sulla riservatezza</h6>
+<p> Ultimo aggiornamento: 31 agosto 2024<br><br> La presente Informativa sulla privacy descrive come il Sito ("noi", "ci" o "nostro") raccoglie, utilizza e divulga i tuoi dati personali quando visiti, utilizzi i nostri servizi o effettui un acquisto dal nostro sito web (il "Sito") o comunichi con noi in altro modo in merito al Sito (collettivamente, i "Servizi"). Ai fini della presente Informativa sulla privacy, "tu" e "tuo" si riferiscono a te in qualità di utente dei Servizi, sia che tu sia un cliente, un visitatore del sito web o un altro individuo le cui informazioni sono state raccolte ai sensi della presente Informativa sulla privacy.<br><br> Si prega di leggere attentamente la presente Informativa sulla privacy.</p>
+</div>
+
+
+</div>
+<div id="shopify-block-AdFM3UCtUM0tMU2RYZ__richtext_content_pXEg77" class="shopify-block tab-richtext-content-block"><div class="content-tabs__tab-richtext-content rte">
+  <h6>Modifiche alla presente Informativa sulla privacy</h6>
+<p> Potremmo aggiornare la presente Informativa sulla Privacy di volta in volta, anche per riflettere modifiche alle nostre pratiche o per altri motivi operativi, legali o normativi. Pubblicheremo la versione aggiornata dell'Informativa sulla Privacy sul Sito, aggiorneremo la data di "Ultimo aggiornamento" e adotteremo tutte le altre misure richieste dalla legge applicabile.</p>
+</div>
+
+
+</div>
+<div id="shopify-block-AcnNTUWNENmxjM1Q1Y__richtext_content_pXEg78" class="shopify-block tab-richtext-content-block"><div class="content-tabs__tab-richtext-content rte">
+  <h6> Come raccogliamo e utilizziamo le tue informazioni personali</h6>
+<p> Per fornire i Servizi, raccogliamo e abbiamo raccolto negli ultimi 12 mesi informazioni personali su di te da diverse fonti, come indicato di seguito. Le informazioni che raccogliamo e utilizziamo variano a seconda delle tue modalità di interazione con noi.<br><br> Oltre agli usi specifici indicati di seguito, potremmo utilizzare le informazioni che raccogliamo su di te per comunicare con te, fornire o migliorare i Servizi, rispettare eventuali obblighi legali applicabili, applicare eventuali termini di servizio applicabili e per proteggere o difendere i Servizi, i nostri diritti e i diritti dei nostri utenti o di altri.</p>
+</div>
+
+
+</div>
+
+  </div>
+</div>
+
+
+</div>
+
+    </div>
+  </div>
+</div>
+
+
+</section>
+```

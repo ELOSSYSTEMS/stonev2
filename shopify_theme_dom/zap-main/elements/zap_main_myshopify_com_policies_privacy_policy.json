@@ -1,0 +1,31 @@
+{
+  "pageUrl": "https://zap-main.myshopify.com/policies/privacy-policy",
+  "pageTitle": "Privacy policy",
+  "pageSlug": "zap_main_myshopify_com_policies_privacy_policy",
+  "sections": [
+    {
+      "refId": "zap_main_myshopify_com_policies_privacy_policy__section_01",
+      "index": 1,
+      "selectorHint": "div.shopify-policy__container",
+      "typeGuess": "product-grid",
+      "patternTags": [
+        "top-of-page",
+        "cta-cluster",
+        "card-grid",
+        "product-commerce"
+      ],
+      "headingSample": [
+        "Privacy policy",
+        "Changes to This Privacy Policy",
+        "How We Collect and Use Your Personal Information",
+        "What Personal Information We Collect",
+        "Information We Collect Directly from You",
+        "Information We Collect about Your Usage"
+      ],
+      "textSample": "Privacy policy Last updated: December 18, 2025 This Privacy Policy describes how Zap Theme (the \"Site\", \"we\", \"us\", or \"our\") collects, uses, and discloses your personal information when you visit, use our services, or make a purchase from zap-main.myshopify.com (the \"Site\") or o",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_policies_privacy_policy/zap_main_myshopify_com_policies_privacy_policy__section_01.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/pages/zap_main_myshopify_com_policies_privacy_policy.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/pages/zap_main_myshopify_com_policies_privacy_policy.json"
+    }
+  ]
+}

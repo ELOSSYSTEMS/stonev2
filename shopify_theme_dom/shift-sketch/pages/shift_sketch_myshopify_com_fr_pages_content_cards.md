@@ -1,0 +1,198 @@
+# Shopify page scrape
+
+- URL: https://shift-sketch.myshopify.com/fr/pages/content-cards
+- Title: Cartes de contenu – Shift Sketch
+- Body classes: template-page template-page-content-cards
+- Custom elements: cart-drawer, cart-drawer-items, header-drawer, header-search, menu-drawer, modal-localization-form, modal-region-selector, predictive-search, shop-cart-sync, sticky-header
+- Headings: Cartes de contenu | Notre promesse envers vous | Brillant et lisse | Résistant aux déchirures | Écriture sans friction | Sans agents de blanchiment ni acides | Boutique | Boutique | Explorer | Explorer | Légal | Légal | Suivez-nous | Abonnez-vous à notre newsletter
+
+## 1. shopify-section-template--28054268608887__page_info
+
+- Tag: section
+- Classes: shopify-section page-section
+- Headings: Cartes de contenu
+
+```html
+<section id="shopify-section-template--28054268608887__page_info" class="shopify-section page-section"><link href="//shift-sketch.myshopify.com/cdn/shop/t/2/assets/section-main-page.css?v=122541859386650611581774270656" rel="stylesheet" type="text/css" media="all">
+
+<div class="page-section-wrapper container align-left">
+  <div class="page-header">
+    <div class="page-header__inner">
+      <h1 class="page-header__inner-title h5">Cartes de contenu</h1>
+    </div>
+  </div></div>
+
+
+</section>
+```
+
+## 2. shopify-section-template--28054268608887__content_cards_gKNrrL
+
+- Tag: section
+- Classes: shopify-section content-cards-section
+- Headings: Notre promesse envers vous | Brillant et lisse | Résistant aux déchirures | Écriture sans friction | Sans agents de blanchiment ni acides
+
+```html
+<section id="shopify-section-template--28054268608887__content_cards_gKNrrL" class="shopify-section content-cards-section"><link href="//shift-sketch.myshopify.com/cdn/shop/t/2/assets/section-content-cards.css?v=167722129893074956821774520962" rel="stylesheet" type="text/css" media="all">
+
+<style data-shopify="">
+  .section-template--28054268608887__content_cards_gKNrrL-padding {
+
+  padding-top: 0;
+
+
+
+  padding-bottom: 0;
+
+}
+
+@media screen and (min-width: 750px) { .section-template--28054268608887__content_cards_gKNrrL-padding {
+
+  padding-top: 0;
+
+
+
+  padding-bottom: 0;
+
+} }
+
+@media screen and (min-width: 1440px) { .section-template--28054268608887__content_cards_gKNrrL-padding {
+
+  padding-top: 0;
+
+
+
+  padding-bottom: 0;
+
+} }
+
+  #shopify-section-template--28054268608887__content_cards_gKNrrL {
+
+  padding-top: 0;
+
+
+
+  padding-bottom: 6rem;
+
+}
+
+@media screen and (min-width: 750px) { #shopify-section-template--28054268608887__content_cards_gKNrrL {
+
+  padding-top: 0;
+
+
+
+  padding-bottom: 8rem;
+
+} }
+
+@media screen and (min-width: 1440px) { #shopify-section-template--28054268608887__content_cards_gKNrrL {
+
+  padding-top: 0;
+
+
+
+  padding-bottom: 12rem;
+
+
+} }
+
+</style>
+
+<div class="content-cards color-background-1 background section-template--28054268608887__content_cards_gKNrrL-padding">
+  
+
+
+<div class="container heading-group content-cards-header heading-group--border-bottom"><div class="heading-group__left">
+        
+          <div class="heading-group__subheading body-normal">
+            Nos avantages
+          </div>
+        
+<h2 class="title h5 size--h5 content-cards-header__title richtext-link-inside">Notre promesse envers vous</h2></div></div>
+
+
+<div class="container content-cards__wrapper  content-cards__wrapper--4">
+        <div class="content-cards__item">
+          <div class="content-cards__item--content">
+            
+              <div class="content-cards__item--count">
+                <p class="body-small">
+                  01
+                </p>
+              </div>
+            
+            <div class="content-cards__item--main">
+              <div class="content-cards__image-wrapper content-cards__item--portrait animate reveal--show" style="--padding-bottom: 135.6%;" data-scroll-image-reveal="" data-reveal-sequence="" data-reveal-initialized="">
+<img src="//shift-sketch.myshopify.com/cdn/shop/files/06-promo-01.jpg?v=1770799380&amp;width=1727" alt="" srcset="//shift-sketch.myshopify.com/cdn/shop/files/06-promo-01.jpg?v=1770799380&amp;width=360 360w, //shift-sketch.myshopify.com/cdn/shop/files/06-promo-01.jpg?v=1770799380&amp;width=535 535w, //shift-sketch.myshopify.com/cdn/shop/files/06-promo-01.jpg?v=1770799380&amp;width=600 600w, //shift-sketch.myshopify.com/cdn/shop/files/06-promo-01.jpg?v=1770799380&amp;width=720 720w, //shift-sketch.myshopify.com/cdn/shop/files/06-promo-01.jpg?v=1770799380&amp;width=940 940w, //shift-sketch.myshopify.com/cdn/shop/files/06-promo-01.jpg?v=1770799380&amp;width=1066 1066w, //shift-sketch.myshopify.com/cdn/shop/files/06-promo-01.jpg?v=1770799380&amp;width=1200 1200w, //shift-sketch.myshopify.com/cdn/shop/files/06-promo-01.jpg?v=1770799380&amp;width=1400 1400w, //shift-sketch.myshopify.com/cdn/shop/files/06-promo-01.jpg?v=1770799380&amp;width=1600 1600w" width="1727" height="2272" loading="lazy" sizes="(min-width: 1200px) calc(1 * 25vw), (min-width: 576px) calc(1 * 50vw), calc(100vw * 1)" class="content-cards__image scroll-image-reveal__target" style="object-fit: cover">
+</div>
+              <div class="content-cards__info"><h3 class="content-cards__info-heading title body-extra-large">Brillant et lisse</h3><p class="content-cards__info-description body-normal">
+                    Découvrez un papier net, propre et agréable à utiliser, qui met en valeur chaque note et chaque croquis.
+                  </p></div><a href="/fr/collections/calendars" class="content-cards__link-overlay focus-inset" aria-label="Brillant et lisse"></a></div>
+          </div>
+        </div>
+      
+        <div class="content-cards__item">
+          <div class="content-cards__item--content">
+            
+              <div class="content-cards__item--count">
+                <p class="body-small">
+                  02
+                </p>
+              </div>
+            
+            <div class="content-cards__item--main">
+              <div class="content-cards__image-wrapper content-cards__item--portrait animate reveal--show" style="--padding-bottom: 135.6%;" data-scroll-image-reveal="" data-reveal-sequence="" data-reveal-initialized="">
+<img src="//shift-sketch.myshopify.com/cdn/shop/files/06-promo-02.jpg?v=1770799400&amp;width=1752" alt="" srcset="//shift-sketch.myshopify.com/cdn/shop/files/06-promo-02.jpg?v=1770799400&amp;width=360 360w, //shift-sketch.myshopify.com/cdn/shop/files/06-promo-02.jpg?v=1770799400&amp;width=535 535w, //shift-sketch.myshopify.com/cdn/shop/files/06-promo-02.jpg?v=1770799400&amp;width=600 600w, //shift-sketch.myshopify.com/cdn/shop/files/06-promo-02.jpg?v=1770799400&amp;width=720 720w, //shift-sketch.myshopify.com/cdn/shop/files/06-promo-02.jpg?v=1770799400&amp;width=940 940w, //shift-sketch.myshopify.com/cdn/shop/files/06-promo-02.jpg?v=1770799400&amp;width=1066 1066w, //shift-sketch.myshopify.com/cdn/shop/files/06-promo-02.jpg?v=1770799400&amp;width=1200 1200w, //shift-sketch.myshopify.com/cdn/shop/files/06-promo-02.jpg?v=1770799400&amp;width=1400 1400w, //shift-sketch.myshopify.com/cdn/shop/files/06-promo-02.jpg?v=1770799400&amp;width=1600 1600w" width="1752" height="2304" loading="lazy" sizes="(min-width: 1200px) calc(1 * 25vw), (min-width: 576px) calc(1 * 50vw), calc(100vw * 1)" class="content-cards__image scroll-image-reveal__target" style="object-fit: cover">
+</div>
+              <div class="content-cards__info"><h3 class="content-cards__info-heading title body-extra-large">Résistant aux déchirures</h3><p class="content-cards__info-description body-normal">
+                    Résistantes et solides, nos pages supportent une utilisation quotidienne sans se déchirer.
+                  </p></div><a href="/fr/collections/pads" class="content-cards__link-overlay focus-inset" aria-label="Résistant aux déchirures"></a></div>
+          </div>
+        </div>
+      
+        <div class="content-cards__item">
+          <div class="content-cards__item--content">
+            
+              <div class="content-cards__item--count">
+                <p class="body-small">
+                  03
+                </p>
+              </div>
+            
+            <div class="content-cards__item--main">
+              <div class="content-cards__image-wrapper content-cards__item--portrait animate reveal--show" style="--padding-bottom: 135.6%;" data-scroll-image-reveal="" data-reveal-sequence="" data-reveal-initialized="">
+<img src="//shift-sketch.myshopify.com/cdn/shop/files/06-promo-03.jpg?v=1770799424&amp;width=1824" alt="" srcset="//shift-sketch.myshopify.com/cdn/shop/files/06-promo-03.jpg?v=1770799424&amp;width=360 360w, //shift-sketch.myshopify.com/cdn/shop/files/06-promo-03.jpg?v=1770799424&amp;width=535 535w, //shift-sketch.myshopify.com/cdn/shop/files/06-promo-03.jpg?v=1770799424&amp;width=600 600w, //shift-sketch.myshopify.com/cdn/shop/files/06-promo-03.jpg?v=1770799424&amp;width=720 720w, //shift-sketch.myshopify.com/cdn/shop/files/06-promo-03.jpg?v=1770799424&amp;width=940 940w, //shift-sketch.myshopify.com/cdn/shop/files/06-promo-03.jpg?v=1770799424&amp;width=1066 1066w, //shift-sketch.myshopify.com/cdn/shop/files/06-promo-03.jpg?v=1770799424&amp;width=1200 1200w, //shift-sketch.myshopify.com/cdn/shop/files/06-promo-03.jpg?v=1770799424&amp;width=1400 1400w, //shift-sketch.myshopify.com/cdn/shop/files/06-promo-03.jpg?v=1770799424&amp;width=1600 1600w, //shift-sketch.myshopify.com/cdn/shop/files/06-promo-03.jpg?v=1770799424&amp;width=1800 1800w" width="1824" height="2400" loading="lazy" sizes="(min-width: 1200px) calc(1 * 25vw), (min-width: 576px) calc(1 * 50vw), calc(100vw * 1)" class="content-cards__image scroll-image-reveal__target" style="object-fit: cover">
+</div>
+              <div class="content-cards__info"><h3 class="content-cards__info-heading title body-extra-large">Écriture sans friction</h3><p class="content-cards__info-description body-normal">
+                    Glissez sans effort sur la page grâce à des surfaces lisses conçues pour une écriture et un dessin fluides.
+                  </p></div><a href="/fr/collections/planners" class="content-cards__link-overlay focus-inset" aria-label="Écriture sans friction"></a></div>
+          </div>
+        </div>
+      
+        <div class="content-cards__item">
+          <div class="content-cards__item--content">
+            
+              <div class="content-cards__item--count">
+                <p class="body-small">
+                  04
+                </p>
+              </div>
+            
+            <div class="content-cards__item--main">
+              <div class="content-cards__image-wrapper content-cards__item--portrait animate reveal--show" style="--padding-bottom: 135.6%;" data-scroll-image-reveal="" data-reveal-sequence="" data-reveal-initialized="">
+<img src="//shift-sketch.myshopify.com/cdn/shop/files/06-promo-04.jpg?v=1770799449&amp;width=1752" alt="" srcset="//shift-sketch.myshopify.com/cdn/shop/files/06-promo-04.jpg?v=1770799449&amp;width=360 360w, //shift-sketch.myshopify.com/cdn/shop/files/06-promo-04.jpg?v=1770799449&amp;width=535 535w, //shift-sketch.myshopify.com/cdn/shop/files/06-promo-04.jpg?v=1770799449&amp;width=600 600w, //shift-sketch.myshopify.com/cdn/shop/files/06-promo-04.jpg?v=1770799449&amp;width=720 720w, //shift-sketch.myshopify.com/cdn/shop/files/06-promo-04.jpg?v=1770799449&amp;width=940 940w, //shift-sketch.myshopify.com/cdn/shop/files/06-promo-04.jpg?v=1770799449&amp;width=1066 1066w, //shift-sketch.myshopify.com/cdn/shop/files/06-promo-04.jpg?v=1770799449&amp;width=1200 1200w, //shift-sketch.myshopify.com/cdn/shop/files/06-promo-04.jpg?v=1770799449&amp;width=1400 1400w, //shift-sketch.myshopify.com/cdn/shop/files/06-promo-04.jpg?v=1770799449&amp;width=1600 1600w" width="1752" height="2304" loading="lazy" sizes="(min-width: 1200px) calc(1 * 25vw), (min-width: 576px) calc(1 * 50vw), calc(100vw * 1)" class="content-cards__image scroll-image-reveal__target" style="object-fit: cover">
+</div>
+              <div class="content-cards__info"><h3 class="content-cards__info-heading title body-extra-large">Sans agents de blanchiment ni acides</h3><p class="content-cards__info-description body-normal">
+                    Fabriqué à partir de matériaux sûrs et écologiques, notre papier protège à la fois vos créations et l'environnement.
+                  </p></div><a href="/fr/collections/sketchbooks" class="content-cards__link-overlay focus-inset" aria-label="Sans agents de blanchiment ni acides"></a></div>
+          </div>
+        </div>
+      
+    </div>
+  
+</div>
+
+
+</section>
+```

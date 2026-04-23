@@ -1,0 +1,91 @@
+{
+  "pageUrl": "https://highlight-theme-main.myshopify.com/de/pages/unusual-usual-things",
+  "pageTitle": "Ungewöhnliche übliche Dinge – Highlight Theme",
+  "pageSlug": "highlight_theme_main_myshopify_com_de_pages_unusual_usual_things",
+  "sections": [
+    {
+      "refId": "highlight_theme_main_myshopify_com_de_pages_unusual_usual_things__section_01",
+      "index": 1,
+      "selectorHint": "#shopify-section-template--15096775311521__main",
+      "typeGuess": "content-section",
+      "patternTags": [
+        "top-of-page"
+      ],
+      "headingSample": [
+        "Ungewöhnliche übliche Dinge"
+      ],
+      "textSample": "Ungewöhnliche übliche Dinge .section-w-margin { margin-bottom: calc(var(--section-margin)/2); } .section-w-reduced-margin+.section-w-reduced-margin { margin-top: 0; } #shopify-section-template--15096775311521__main { margin-bottom: 0 !important; }",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/highlight-theme-main/elements/highlight_theme_main_myshopify_com_de_pages_unusual_usual_things/highlight_theme_main_myshopify_com_de_pages_unusual_usual_things__section_01.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/highlight-theme-main/pages/highlight_theme_main_myshopify_com_de_pages_unusual_usual_things.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/highlight-theme-main/pages/highlight_theme_main_myshopify_com_de_pages_unusual_usual_things.json"
+    },
+    {
+      "refId": "highlight_theme_main_myshopify_com_de_pages_unusual_usual_things__section_02",
+      "index": 2,
+      "selectorHint": "#shopify-section-template--15096775311521__1632463631169b17ac",
+      "typeGuess": "content-section",
+      "patternTags": [],
+      "headingSample": [],
+      "textSample": "MARCH Design Studio ist ein Produktentwicklungsunternehmen, das 2012 gegründet wurde. Angefangen als lokales Unternehmen in Vilnius, hat sich das Studio nach einigen Jahren zu einer international anerkannten Marke entwickelt, deren Produkte in mehr als 50 Ländern auf der ganzen W",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/highlight-theme-main/elements/highlight_theme_main_myshopify_com_de_pages_unusual_usual_things/highlight_theme_main_myshopify_com_de_pages_unusual_usual_things__section_02.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/highlight-theme-main/pages/highlight_theme_main_myshopify_com_de_pages_unusual_usual_things.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/highlight-theme-main/pages/highlight_theme_main_myshopify_com_de_pages_unusual_usual_things.json"
+    },
+    {
+      "refId": "highlight_theme_main_myshopify_com_de_pages_unusual_usual_things__section_03",
+      "index": 3,
+      "selectorHint": "#shopify-section-template--15096775311521__16327272998f0c0e5a",
+      "typeGuess": "content-section",
+      "patternTags": [],
+      "headingSample": [],
+      "textSample": "Über unsNachdem MARCH einen Bedarf oder ein Problem identifiziert und eine Lösung dafür gefunden hat, ist er bestrebt, moderne Materialien und Technologien im Produktionsprozess zu implementieren. MARCH hat ein breites und zuverlässiges Netzwerk von Lieferanten und Partnern aufge",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/highlight-theme-main/elements/highlight_theme_main_myshopify_com_de_pages_unusual_usual_things/highlight_theme_main_myshopify_com_de_pages_unusual_usual_things__section_03.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/highlight-theme-main/pages/highlight_theme_main_myshopify_com_de_pages_unusual_usual_things.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/highlight-theme-main/pages/highlight_theme_main_myshopify_com_de_pages_unusual_usual_things.json"
+    },
+    {
+      "refId": "highlight_theme_main_myshopify_com_de_pages_unusual_usual_things__section_04",
+      "index": 4,
+      "selectorHint": "#shopify-section-template--15096775311521__1632125416e67e4991",
+      "typeGuess": "editorial-media",
+      "patternTags": [
+        "editorial-media"
+      ],
+      "headingSample": [
+        "Martynas Kazimierėnas"
+      ],
+      "textSample": "Martynas Kazimierėnas „Das Leben ist voller Dinge, die einfach nicht richtig funktionieren, und wir haben die Mission, das zu ändern! Probleme zu finden und dann Lösungen anzubieten – sauber und clever – ist der Schlüssel zu unserem Erfolg. Außerdem – wir lieben Technologie und j",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/highlight-theme-main/elements/highlight_theme_main_myshopify_com_de_pages_unusual_usual_things/highlight_theme_main_myshopify_com_de_pages_unusual_usual_things__section_04.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/highlight-theme-main/pages/highlight_theme_main_myshopify_com_de_pages_unusual_usual_things.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/highlight-theme-main/pages/highlight_theme_main_myshopify_com_de_pages_unusual_usual_things.json"
+    },
+    {
+      "refId": "highlight_theme_main_myshopify_com_de_pages_unusual_usual_things__section_05",
+      "index": 5,
+      "selectorHint": "#shopify-section-template--15096775311521__1632125433ea11c45b",
+      "typeGuess": "editorial-media",
+      "patternTags": [
+        "editorial-media"
+      ],
+      "headingSample": [
+        "Eglė Opeikienė"
+      ],
+      "textSample": "Eglė Opeikienė „MARCH beobachtet ständig seine Umgebung und Dinge des täglichen Gebrauchs, um eine Lücke zu finden, um bestehende Objekte zu verbessern, neue Erfindungen anzuwenden und neue Prinzipien oder Gewohnheiten zu entwickeln. MARCH hat starke Ansichten zur Überproduktion.",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/highlight-theme-main/elements/highlight_theme_main_myshopify_com_de_pages_unusual_usual_things/highlight_theme_main_myshopify_com_de_pages_unusual_usual_things__section_05.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/highlight-theme-main/pages/highlight_theme_main_myshopify_com_de_pages_unusual_usual_things.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/highlight-theme-main/pages/highlight_theme_main_myshopify_com_de_pages_unusual_usual_things.json"
+    },
+    {
+      "refId": "highlight_theme_main_myshopify_com_de_pages_unusual_usual_things__section_06",
+      "index": 6,
+      "selectorHint": "#shopify-section-template--15096775311521__16321254492066331e",
+      "typeGuess": "content-section",
+      "patternTags": [],
+      "headingSample": [],
+      "textSample": "Nachdem MARCH einen Bedarf oder ein Problem identifiziert und eine Lösung dafür gefunden hat, ist er bestrebt, moderne Materialien und Technologien im Produktionsprozess zu implementieren.",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/highlight-theme-main/elements/highlight_theme_main_myshopify_com_de_pages_unusual_usual_things/highlight_theme_main_myshopify_com_de_pages_unusual_usual_things__section_06.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/highlight-theme-main/pages/highlight_theme_main_myshopify_com_de_pages_unusual_usual_things.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/highlight-theme-main/pages/highlight_theme_main_myshopify_com_de_pages_unusual_usual_things.json"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "pageUrl": "https://zap-main.myshopify.com/blogs/news/why-passion-is-the-boldest-flavor-in-our-collection",
+  "pageTitle": "Why Passion Is the Boldest Flavor in Our Collection",
+  "pageSlug": "zap_main_myshopify_com_blogs_news_why_passion_is_the_boldest_flavor_in_our_collection",
+  "sections": [
+    {
+      "refId": "zap_main_myshopify_com_blogs_news_why_passion_is_the_boldest_flavor_in_our_collection__section_01",
+      "index": 1,
+      "selectorHint": "#shopify-section-template--25743036449087__main-article",
+      "typeGuess": "hero",
+      "patternTags": [
+        "hero-candidate",
+        "top-of-page",
+        "image-heavy",
+        "cta-cluster",
+        "card-grid",
+        "category-navigation",
+        "editorial-media"
+      ],
+      "headingSample": [
+        "Why Passion Is the Boldest Flavor in Our Collection",
+        "“Energy should feel like clarity, not chaos. It should move with you, not against you."
+      ],
+      "textSample": ".section-template--25743036449087__main-article-padding { padding-top: 5rem; padding-bottom: 5rem; } @media screen and (min-width: 750px) { .section-template--25743036449087__main-article-padding { padding-top: 7.2rem; padding-bottom: 7.2rem; } } @media screen and (min-width: 136",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_blogs_news_why_passion_is_the_boldest_flavor_in_our_collection/zap_main_myshopify_com_blogs_news_why_passion_is_the_boldest_flavor_in_our_collection__section_01.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/pages/zap_main_myshopify_com_blogs_news_why_passion_is_the_boldest_flavor_in_our_collection.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/pages/zap_main_myshopify_com_blogs_news_why_passion_is_the_boldest_flavor_in_our_collection.json"
+    },
+    {
+      "refId": "zap_main_myshopify_com_blogs_news_why_passion_is_the_boldest_flavor_in_our_collection__section_02",
+      "index": 2,
+      "selectorHint": "#shopify-section-template--25743036449087__image-carousel",
+      "typeGuess": "editorial-media",
+      "patternTags": [
+        "image-heavy",
+        "slider",
+        "category-navigation",
+        "editorial-media"
+      ],
+      "headingSample": [],
+      "textSample": "#shopify-section-template--25743036449087__image-carousel { padding-top: 0; padding-bottom: 0; } @media screen and (min-width: 750px) { #shopify-section-template--25743036449087__image-carousel { padding-top: 0; padding-bottom: 0; } } @media screen and (min-width: 1360px) { #shop",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_blogs_news_why_passion_is_the_boldest_flavor_in_our_collection/zap_main_myshopify_com_blogs_news_why_passion_is_the_boldest_flavor_in_our_collection__section_02.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/pages/zap_main_myshopify_com_blogs_news_why_passion_is_the_boldest_flavor_in_our_collection.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/pages/zap_main_myshopify_com_blogs_news_why_passion_is_the_boldest_flavor_in_our_collection.json"
+    },
+    {
+      "refId": "zap_main_myshopify_com_blogs_news_why_passion_is_the_boldest_flavor_in_our_collection__section_03",
+      "index": 3,
+      "selectorHint": "#shopify-section-template--25743036449087__social-media",
+      "typeGuess": "cta-section",
+      "patternTags": [
+        "cta-cluster",
+        "card-grid"
+      ],
+      "headingSample": [],
+      "textSample": ".section-template--25743036449087__social-media-padding { padding-top: 0; padding-bottom: 0; } @media screen and (min-width: 750px) { .section-template--25743036449087__social-media-padding { padding-top: 0; padding-bottom: 0; } } @media screen and (min-width: 1360px) { .section-",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_blogs_news_why_passion_is_the_boldest_flavor_in_our_collection/zap_main_myshopify_com_blogs_news_why_passion_is_the_boldest_flavor_in_our_collection__section_03.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/pages/zap_main_myshopify_com_blogs_news_why_passion_is_the_boldest_flavor_in_our_collection.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/pages/zap_main_myshopify_com_blogs_news_why_passion_is_the_boldest_flavor_in_our_collection.json"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "url": "https://zap-main.myshopify.com/es/pages/slideshow",
+  "title": "Something went wrong",
+  "bodyClasses": "status-error status-code-500",
+  "headings": [
+    "There was a problem loading this website"
+  ],
+  "customElements": [],
+  "mainOuterHtml": null,
+  "sections": []
+}

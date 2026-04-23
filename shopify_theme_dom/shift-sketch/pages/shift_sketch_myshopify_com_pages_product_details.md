@@ -1,0 +1,116 @@
+# Shopify page scrape
+
+- URL: https://shift-sketch.myshopify.com/pages/product-details
+- Title: Product details – Shift Sketch
+- Body classes: template-page template-page-product-details
+- Custom elements: cart-drawer, cart-drawer-items, header-drawer, header-search, menu-drawer, modal-localization-form, modal-region-selector, predictive-search, shop-cart-sync, sticky-header
+- Headings: About product | Shop | Shop | Explore | Explore | Legal | Legal | Follow us | Join our Newsletter
+
+## 1. shopify-section-template--28054786408823__product_details_pV4wH9
+
+- Tag: section
+- Classes: shopify-section product-details-section
+- Headings: About product
+
+```html
+<section id="shopify-section-template--28054786408823__product_details_pV4wH9" class="shopify-section product-details-section"><link href="//shift-sketch.myshopify.com/cdn/shop/t/2/assets/section-product-details.css?v=19368341192221459551766398542" rel="stylesheet" type="text/css" media="all">
+<script src="//shift-sketch.myshopify.com/cdn/shop/t/2/assets/product-details.js?v=1439115530302341871766398541" defer="defer"></script><style data-shopify="">#shopify-section-template--28054786408823__product_details_pV4wH9 {
+
+  padding-top: 3.6rem;
+
+
+
+  padding-bottom: 6rem;
+
+}
+
+@media screen and (min-width: 750px) { #shopify-section-template--28054786408823__product_details_pV4wH9 {
+
+  padding-top: 5rem;
+
+
+
+  padding-bottom: 8rem;
+
+} }
+
+@media screen and (min-width: 1440px) { #shopify-section-template--28054786408823__product_details_pV4wH9 {
+
+  padding-top: 8rem;
+
+
+
+  padding-bottom: 12rem;
+
+
+} }
+
+</style>
+
+
+<style data-shopify="">.product-details-template--28054786408823__product_details_pV4wH9 .product-details__image-primary-wrapper::before {
+    content: '';
+    display: block;
+    width: 0;
+    padding-bottom: 138.4%;
+  }
+  .product-details-template--28054786408823__product_details_pV4wH9 .product-details__image-secondary-wrapper::before {
+    content: '';
+    display: block;
+    width: 0;
+    padding-bottom: 138.4%;
+  }</style><div class="product-details product-details-template--28054786408823__product_details_pV4wH9 background">
+  
+
+
+<div class="container heading-group product-details-header heading-group-center heading-group--border-bottom"><div class="heading-group__left">
+        
+<h2 class="title h5 size--h5 product-details-header__title richtext-link-inside">About product</h2></div></div>
+
+
+
+  <div class="product-details__wrapper container">
+    
+      <div class="product-details__main-description body-extra-large richtext-link-inside">
+        Designed with quality materials, it combines durability with elegant design, featuring clean lines and thoughtful details. Available in a range of finishes and colors, it brings comfort and personality to your home, whether in the living room, dining area, kitchen, or outdoor space.
+      </div>
+    
+    <div class="product-details__content">
+      <div class="product-details__left-block">
+        <div class="product-details__left-inner product-details__left-inner-parallax" style="transform: translateY(12.6521px);">
+          <div class="product-details__image-primary-wrapper product-details__image-wrapper product-details__animation-wrapper animate reveal--show">
+            
+            
+              
+              
+              
+<img src="//shift-sketch.myshopify.com/cdn/shop/files/02-product-01.jpg?v=1770805338&amp;width=1760" alt="" srcset="//shift-sketch.myshopify.com/cdn/shop/files/02-product-01.jpg?v=1770805338&amp;width=360 360w, //shift-sketch.myshopify.com/cdn/shop/files/02-product-01.jpg?v=1770805338&amp;width=535 535w, //shift-sketch.myshopify.com/cdn/shop/files/02-product-01.jpg?v=1770805338&amp;width=600 600w, //shift-sketch.myshopify.com/cdn/shop/files/02-product-01.jpg?v=1770805338&amp;width=720 720w, //shift-sketch.myshopify.com/cdn/shop/files/02-product-01.jpg?v=1770805338&amp;width=940 940w, //shift-sketch.myshopify.com/cdn/shop/files/02-product-01.jpg?v=1770805338&amp;width=1066 1066w, //shift-sketch.myshopify.com/cdn/shop/files/02-product-01.jpg?v=1770805338&amp;width=1200 1200w, //shift-sketch.myshopify.com/cdn/shop/files/02-product-01.jpg?v=1770805338&amp;width=1400 1400w, //shift-sketch.myshopify.com/cdn/shop/files/02-product-01.jpg?v=1770805338&amp;width=1600 1600w" width="1760" height="2171" loading="eager" sizes="(min-width: 750px) calc(50vw * 1.07), calc(100vw * 1.07)" class="product-details__image-primary product-details__image product-details__animation-item" style="object-fit: cover">
+            
+          </div>
+          
+            <div class="product-details__item-description body-normal richtext-link-inside">
+              Built with premium materials and attention to detail, this piece combines durability, comfort, and timeless style for any space.
+            </div>
+          
+        </div>
+      </div>
+
+      <div class="product-details__right-block">
+        <div class="product-details__image-secondary-wrapper product-details__image-wrapper product-details__animation-wrapper animate reveal--show">
+          
+          
+            
+            
+            
+<img src="//shift-sketch.myshopify.com/cdn/shop/files/02-product-02.jpg?v=1770805337&amp;width=1664" alt="" srcset="//shift-sketch.myshopify.com/cdn/shop/files/02-product-02.jpg?v=1770805337&amp;width=360 360w, //shift-sketch.myshopify.com/cdn/shop/files/02-product-02.jpg?v=1770805337&amp;width=535 535w, //shift-sketch.myshopify.com/cdn/shop/files/02-product-02.jpg?v=1770805337&amp;width=600 600w, //shift-sketch.myshopify.com/cdn/shop/files/02-product-02.jpg?v=1770805337&amp;width=720 720w, //shift-sketch.myshopify.com/cdn/shop/files/02-product-02.jpg?v=1770805337&amp;width=940 940w, //shift-sketch.myshopify.com/cdn/shop/files/02-product-02.jpg?v=1770805337&amp;width=1066 1066w, //shift-sketch.myshopify.com/cdn/shop/files/02-product-02.jpg?v=1770805337&amp;width=1200 1200w, //shift-sketch.myshopify.com/cdn/shop/files/02-product-02.jpg?v=1770805337&amp;width=1400 1400w, //shift-sketch.myshopify.com/cdn/shop/files/02-product-02.jpg?v=1770805337&amp;width=1600 1600w" width="1664" height="2218" loading="eager" sizes="(min-width: 750px) calc(50vw * 1), calc(100vw * 1)" class="product-details__image-secondary product-details__image product-details__animation-item" style="object-fit: cover">
+          
+        </div>
+        
+      </div>
+    </div>
+  </div>
+</div>
+
+
+</section>
+```

@@ -722,6 +722,124 @@ textarea {
   opacity: 0.82;
 }
 
+.stone-hero-opening-shell .stone-section-shell__inner {
+  gap: var(--stone-space-5);
+}
+
+.stone-hero-opening-shell .stone-section-shell__heading {
+  font-size: clamp(2.25rem, 6vw, 4.5rem);
+  line-height: 0.98;
+  max-inline-size: 11ch;
+}
+
+.stone-hero-opening {
+  display: grid;
+  gap: var(--stone-space-5);
+  align-items: center;
+}
+
+.stone-hero-opening--outline,
+.stone-hero-opening--soft {
+  padding: var(--stone-space-5);
+  border-radius: var(--stone-radius-2);
+}
+
+.stone-hero-opening--outline {
+  border: 1px solid var(--stone-color-border);
+  background: transparent;
+}
+
+.stone-hero-opening--soft {
+  background: var(--stone-color-surface);
+}
+
+.stone-hero-opening__copy,
+.stone-hero-opening__media {
+  min-inline-size: 0;
+}
+
+.stone-hero-opening__copy {
+  display: grid;
+  gap: var(--stone-space-4);
+  align-content: center;
+}
+
+.stone-hero-opening__eyebrow,
+.stone-hero-opening__empty,
+.stone-hero-opening__actions {
+  margin: 0;
+}
+
+.stone-hero-opening__eyebrow {
+  font-size: 0.875rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--stone-color-muted);
+}
+
+.stone-hero-opening__body {
+  display: grid;
+  gap: var(--stone-space-4);
+  max-inline-size: 38rem;
+}
+
+.stone-hero-opening__body > * {
+  margin: 0;
+}
+
+.stone-hero-opening__actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--stone-space-2);
+}
+
+.stone-hero-opening__image,
+.stone-hero-opening__placeholder {
+  display: block;
+  width: 100%;
+  border-radius: var(--stone-radius-2);
+  overflow: hidden;
+}
+
+.stone-hero-opening__image {
+  aspect-ratio: 5 / 4;
+  object-fit: cover;
+}
+
+.stone-hero-opening__placeholder {
+  border: 1px solid var(--stone-color-border);
+  background: var(--stone-color-canvas);
+}
+
+.stone-hero-opening__placeholder-svg {
+  display: block;
+  width: 100%;
+  height: auto;
+  aspect-ratio: 5 / 4;
+}
+
+@media (min-width: 64rem) {
+  .stone-hero-opening {
+    grid-template-columns: minmax(0, 1.05fr) minmax(0, 0.95fr);
+  }
+
+  .stone-hero-opening--start .stone-hero-opening__media {
+    order: 1;
+  }
+
+  .stone-hero-opening--start .stone-hero-opening__copy {
+    order: 2;
+  }
+
+  .stone-hero-opening--end .stone-hero-opening__copy {
+    order: 1;
+  }
+
+  .stone-hero-opening--end .stone-hero-opening__media {
+    order: 2;
+  }
+}
+
 .stone-story-split {
   display: grid;
   gap: var(--stone-space-4);

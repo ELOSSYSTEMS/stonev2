@@ -1,0 +1,33 @@
+{
+  "pageUrl": "https://elegance-canvas.myshopify.com/collections",
+  "pageTitle": "Collections – Elegance-canvas",
+  "pageSlug": "elegance_canvas_myshopify_com_collections",
+  "sections": [
+    {
+      "refId": "elegance_canvas_myshopify_com_collections__section_01",
+      "index": 1,
+      "selectorHint": "#shopify-section-template--19562841276598__main",
+      "typeGuess": "hero",
+      "patternTags": [
+        "hero-candidate",
+        "top-of-page",
+        "image-heavy",
+        "cta-cluster",
+        "card-grid",
+        "product-commerce",
+        "category-navigation",
+        "editorial-media"
+      ],
+      "headingSample": [
+        "Framed Art Prints",
+        "Pro Art Series",
+        "Abstract Adventures",
+        "Masterpiece Moments"
+      ],
+      "textSample": ".section-template--19562841276598__main-padding { padding-top: 80px; padding-bottom: 80px; } @media screen and (min-width: 768px) { .section-template--19562841276598__main-padding { padding-top: 120px; padding-bottom: 120px; } } @media screen and (min-width: 1200px) { .section-te",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_collections/elegance_canvas_myshopify_com_collections__section_01.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/pages/elegance_canvas_myshopify_com_collections.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/pages/elegance_canvas_myshopify_com_collections.json"
+    }
+  ]
+}

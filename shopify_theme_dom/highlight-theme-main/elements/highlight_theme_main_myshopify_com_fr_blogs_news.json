@@ -1,0 +1,55 @@
+{
+  "pageUrl": "https://highlight-theme-main.myshopify.com/fr/blogs/news",
+  "pageTitle": "Nouvelles – Highlight Theme",
+  "pageSlug": "highlight_theme_main_myshopify_com_fr_blogs_news",
+  "sections": [
+    {
+      "refId": "highlight_theme_main_myshopify_com_fr_blogs_news__section_01",
+      "index": 1,
+      "selectorHint": "#shopify-section-template--15101612753057__main",
+      "typeGuess": "hero",
+      "patternTags": [
+        "hero-candidate",
+        "top-of-page",
+        "image-heavy",
+        "cta-cluster",
+        "product-commerce",
+        "editorial-media"
+      ],
+      "headingSample": [
+        "Nouvelles"
+      ],
+      "textSample": "Nouvelles Le Magasin par Valise Noël. Berlin, Allemagne, à partir du 7 novembre 2019 18 March 2021The Valise Creative Consultancy revient avec une expérience de co-vente mettant en valeur des marques... Lire plus MAISON & OBJET Paris, France, 17-21 janvier 2020 10 March 2021MARCH",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/highlight-theme-main/elements/highlight_theme_main_myshopify_com_fr_blogs_news/highlight_theme_main_myshopify_com_fr_blogs_news__section_01.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/highlight-theme-main/pages/highlight_theme_main_myshopify_com_fr_blogs_news.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/highlight-theme-main/pages/highlight_theme_main_myshopify_com_fr_blogs_news.json"
+    },
+    {
+      "refId": "highlight_theme_main_myshopify_com_fr_blogs_news__section_02",
+      "index": 2,
+      "selectorHint": "#shopify-section-sections--16050587173025__text-columns-with-icons",
+      "typeGuess": "content-section",
+      "patternTags": [],
+      "headingSample": [],
+      "textSample": "Same Day Dispatch All orders placed before 4pm Monday to Friday are dispatched same day. Free & Fast Delivery A free fully-trackable 2-day delivery service on all orders over $150. Exchanges & Returns You have 30 days from the shipping date to return your purchase FREE OF CHARGE.",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/highlight-theme-main/elements/highlight_theme_main_myshopify_com_fr_blogs_news/highlight_theme_main_myshopify_com_fr_blogs_news__section_02.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/highlight-theme-main/pages/highlight_theme_main_myshopify_com_fr_blogs_news.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/highlight-theme-main/pages/highlight_theme_main_myshopify_com_fr_blogs_news.json"
+    },
+    {
+      "refId": "highlight_theme_main_myshopify_com_fr_blogs_news__section_03",
+      "index": 3,
+      "selectorHint": "#shopify-section-sections--16050587173025__footer",
+      "typeGuess": "cta-section",
+      "patternTags": [
+        "cta-cluster",
+        "card-grid"
+      ],
+      "headingSample": [],
+      "textSample": "About MARCH does not invent new things but improves existing ones. LINKS Chercher Aide/FAQ Dimensionnement et coupe Expédition & retours Contacts Newsletter Entrez votre adresse mail Envoyer Invite customers to join your newsletter.Link to your privacy policy. Langue Français Eng",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/highlight-theme-main/elements/highlight_theme_main_myshopify_com_fr_blogs_news/highlight_theme_main_myshopify_com_fr_blogs_news__section_03.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/highlight-theme-main/pages/highlight_theme_main_myshopify_com_fr_blogs_news.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/highlight-theme-main/pages/highlight_theme_main_myshopify_com_fr_blogs_news.json"
+    }
+  ]
+}

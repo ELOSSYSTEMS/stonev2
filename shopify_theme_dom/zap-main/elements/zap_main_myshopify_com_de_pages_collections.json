@@ -1,0 +1,65 @@
+{
+  "pageUrl": "https://zap-main.myshopify.com/de/pages/collections",
+  "pageTitle": "Collections",
+  "pageSlug": "zap_main_myshopify_com_de_pages_collections",
+  "sections": [
+    {
+      "refId": "zap_main_myshopify_com_de_pages_collections__section_01",
+      "index": 1,
+      "selectorHint": "#shopify-section-template--26223643951423__main",
+      "typeGuess": "content-section",
+      "patternTags": [
+        "top-of-page",
+        "category-navigation"
+      ],
+      "headingSample": [
+        "Collections"
+      ],
+      "textSample": ".section-template--26223643951423__main-padding { padding-top: 4rem; padding-bottom: 0; } @media screen and (min-width: 750px) { .section-template--26223643951423__main-padding { padding-top: 5rem; padding-bottom: 0; } } @media screen and (min-width: 1360px) { .section-template--",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_de_pages_collections/zap_main_myshopify_com_de_pages_collections__section_01.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/pages/zap_main_myshopify_com_de_pages_collections.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/pages/zap_main_myshopify_com_de_pages_collections.json"
+    },
+    {
+      "refId": "zap_main_myshopify_com_de_pages_collections__section_02",
+      "index": 2,
+      "selectorHint": "#shopify-section-template--26223643951423__collections_list_rTmbwR",
+      "typeGuess": "product-grid",
+      "patternTags": [
+        "image-heavy",
+        "cta-cluster",
+        "card-grid",
+        "product-commerce",
+        "category-navigation",
+        "editorial-media"
+      ],
+      "headingSample": [
+        "Our Collections"
+      ],
+      "textSample": ".section-template--26223643951423__collections_list_rTmbwR-padding { padding-top: 5rem; padding-bottom: 5rem; } @media screen and (min-width: 750px) { .section-template--26223643951423__collections_list_rTmbwR-padding { padding-top: 7.2rem; padding-bottom: 7.2rem; } } @media scre",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_de_pages_collections/zap_main_myshopify_com_de_pages_collections__section_02.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/pages/zap_main_myshopify_com_de_pages_collections.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/pages/zap_main_myshopify_com_de_pages_collections.json"
+    },
+    {
+      "refId": "zap_main_myshopify_com_de_pages_collections__section_03",
+      "index": 3,
+      "selectorHint": "#shopify-section-template--26223643951423__collections_list_NGjN36",
+      "typeGuess": "category-row",
+      "patternTags": [
+        "image-heavy",
+        "cta-cluster",
+        "card-grid",
+        "category-navigation",
+        "editorial-media"
+      ],
+      "headingSample": [
+        "Our Collections"
+      ],
+      "textSample": ".section-template--26223643951423__collections_list_NGjN36-padding { padding-top: 6.4rem; padding-bottom: 6.4rem; } @media screen and (min-width: 750px) { .section-template--26223643951423__collections_list_NGjN36-padding { padding-top: 8.8rem; padding-bottom: 8.8rem; } } @media ",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_de_pages_collections/zap_main_myshopify_com_de_pages_collections__section_03.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/pages/zap_main_myshopify_com_de_pages_collections.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/pages/zap_main_myshopify_com_de_pages_collections.json"
+    }
+  ]
+}

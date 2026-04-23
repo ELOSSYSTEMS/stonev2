@@ -1,0 +1,23 @@
+{
+  "pageUrl": "https://shift-sketch.myshopify.com/it/pages/specifications-new",
+  "pageTitle": "Specifications new – Shift Sketch",
+  "pageSlug": "shift_sketch_myshopify_com_it_pages_specifications_new",
+  "sections": [
+    {
+      "refId": "shift_sketch_myshopify_com_it_pages_specifications_new__section_01",
+      "index": 1,
+      "selectorHint": "#shopify-section-template--27266934047095__page_info",
+      "typeGuess": "content-section",
+      "patternTags": [
+        "top-of-page"
+      ],
+      "headingSample": [
+        "Specifications new"
+      ],
+      "textSample": "Specifications new This notebook features a durable 300 gsm hardcover wrapped in textured paper for everyday use. Inside, it includes 192 pages of 100 gsm acid-free paper designed to prevent ink bleed-through with standard pens and gel pens. The binding is thread-stitched for imp",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/shift-sketch/elements/shift_sketch_myshopify_com_it_pages_specifications_new/shift_sketch_myshopify_com_it_pages_specifications_new__section_01.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/shift-sketch/pages/shift_sketch_myshopify_com_it_pages_specifications_new.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/shift-sketch/pages/shift_sketch_myshopify_com_it_pages_specifications_new.json"
+    }
+  ]
+}

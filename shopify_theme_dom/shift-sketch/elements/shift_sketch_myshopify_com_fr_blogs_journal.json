@@ -1,0 +1,35 @@
+{
+  "pageUrl": "https://shift-sketch.myshopify.com/fr/blogs/journal",
+  "pageTitle": "Nouvelles – Shift Sketch",
+  "pageSlug": "shift_sketch_myshopify_com_fr_blogs_journal",
+  "sections": [
+    {
+      "refId": "shift_sketch_myshopify_com_fr_blogs_journal__section_01",
+      "index": 1,
+      "selectorHint": "#shopify-section-template--27266934178167__main",
+      "typeGuess": "hero",
+      "patternTags": [
+        "hero-candidate",
+        "top-of-page",
+        "image-heavy",
+        "slider",
+        "cta-cluster",
+        "card-grid",
+        "product-commerce",
+        "editorial-media"
+      ],
+      "headingSample": [
+        "Nouvelles",
+        "Guide pour choisir le bon carnet de croquis pour débutants",
+        "Les meilleurs stylos, crayons et marqueurs pour carnets de croquis",
+        "Comment combiner un agenda et un calendrier",
+        "Les meilleurs agendas compacts pour les personnes occupées",
+        "Comment transformer un carnet de croquis en journal intime"
+      ],
+      "textSample": ".section-template--27266934178167__main-padding { padding-top: 0; padding-bottom: 0; } @media screen and (min-width: 750px) { .section-template--27266934178167__main-padding { padding-top: 0; padding-bottom: 0; } } @media screen and (min-width: 1440px) { .section-template--272669",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/shift-sketch/elements/shift_sketch_myshopify_com_fr_blogs_journal/shift_sketch_myshopify_com_fr_blogs_journal__section_01.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/shift-sketch/pages/shift_sketch_myshopify_com_fr_blogs_journal.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/shift-sketch/pages/shift_sketch_myshopify_com_fr_blogs_journal.json"
+    }
+  ]
+}

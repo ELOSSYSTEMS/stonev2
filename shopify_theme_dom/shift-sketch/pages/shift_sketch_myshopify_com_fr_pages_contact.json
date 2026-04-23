@@ -1,0 +1,41 @@
+{
+  "url": "https://shift-sketch.myshopify.com/fr/pages/contact",
+  "title": "Contact – Shift Sketch",
+  "bodyClasses": "template-page template-page-contact",
+  "headings": [
+    "Contact Us",
+    "Boutique",
+    "Boutique",
+    "Explorer",
+    "Explorer",
+    "Légal",
+    "Légal",
+    "Suivez-nous",
+    "Abonnez-vous à notre newsletter"
+  ],
+  "customElements": [
+    "cart-drawer",
+    "cart-drawer-items",
+    "header-drawer",
+    "header-search",
+    "menu-drawer",
+    "modal-localization-form",
+    "modal-region-selector",
+    "predictive-search",
+    "shop-cart-sync",
+    "sticky-header"
+  ],
+  "mainOuterHtml": "<main id=\"MainContent\" class=\"content-for-layout focus-none\" role=\"main\" tabindex=\"-1\">\n      <section id=\"shopify-section-template--27266933981559__form\" class=\"shopify-section contact-section\"><link href=\"//shift-sketch.myshopify.com/cdn/shop/t/2/assets/section-contact-form.css?v=100122781351847540991766398546\" rel=\"stylesheet\" type=\"text/css\" media=\"all\">\n<style data-shopify=\"\">#shopify-section-template--27266933981559__form {\n\n  padding-top: 3.6rem;\n\n\n\n  padding-bottom: 8rem;\n\n}\n\n@media screen and (min-width: 750px) { #shopify-section-template--27266933981559__form {\n\n  padding-top: 5rem;\n\n\n\n  padding-bottom: 12rem;\n\n} }\n\n@media screen and (min-width: 1440px) { #shopify-section-template--27266933981559__form {\n\n  padding-top: 8rem;\n\n\n\n  padding-bottom: 15rem;\n\n\n} }\n\n</style><div class=\"contact-form\">\n  <div class=\"contact-form__container container\">\n    <div class=\"contact-form__inner\">\n      <div class=\"contact-form__wrapper\"><h3 class=\"contact-form__title-form h5 richtext-link-inside\">Contact Us</h3><p class=\"contact-form__text-form richtext-link-inside\">If you have any questions feel free to contact us, we promise to get back to you as quickly as we can.</p><form method=\"post\" action=\"/fr/contact#ContactForm\" id=\"ContactForm\" accept-charset=\"UTF-8\" class=\"contact-form__form\"><input type=\"hidden\" name=\"form_type\" value=\"contact\" style=\"\"><input type=\"hidden\" name=\"utf8\" value=\"✓\" style=\"\"><div class=\"field field__name\">\n            <input class=\"field__input focus-inset\" autocomplete=\"name\" type=\"text\" id=\"ContactForm-name\" dir=\"ltr\" name=\"contact[Nom]\" value=\"\" placeholder=\"Nom\" style=\"\">\n            <label class=\"field__label body-small\" for=\"ContactForm-name\">Nom</label>\n          </div>\n          <div class=\"field\">\n            <input autocomplete=\"email\" type=\"email\" id=\"ContactForm-email\" dir=\"ltr\" class=\"field__input focus-inset\" name=\"contact[email]\" spellcheck=\"false\" pattern=\"[a-z0-9._%+\\-]+@[a-z0-9.\\-]+\\.[a-z]{2,}$\" autocapitalize=\"off\" value=\"\" aria-required=\"true\" placeholder=\"E-mail\" required=\"\" style=\"\">\n            <label class=\"field__label body-small\" for=\"ContactForm-email\">E-mail</label></div>\n          <div class=\"field\">\n            <input type=\"tel\" id=\"ContactForm-phone\" dir=\"ltr\" class=\"field__input\" autocomplete=\"tel\" name=\"contact[Numéro de téléphone]\" pattern=\"[0-9\\-]*\" value=\"\" placeholder=\"Numéro de téléphone\" style=\"\">\n            <label class=\"field__label body-small\" for=\"ContactForm-phone\">Numéro de téléphone</label>\n          </div>\n          <div class=\"field\">\n            <textarea id=\"ContactForm-body\" dir=\"ltr\" class=\"text-area field__input\" name=\"contact[Message]\" placeholder=\"Message\" aria-required=\"true\" required=\"\" style=\"\"></textarea>\n            <label class=\"field__label body-small\" for=\"ContactForm-body\">Message</label>\n          </div>\n          <div class=\"contact-form__bottom\">\n            <button type=\"submit\" class=\"button button--primary focus-inset\">\n              <div class=\"button__content\">\n                \n                <span class=\"button__label\">Soumettre</span>\n              </div>\n            </button></div></form></div>\n    </div>\n  </div>\n</div>\n\n\n</section>\n    </main>",
+  "sections": [
+    {
+      "index": 1,
+      "id": "shopify-section-template--27266933981559__form",
+      "tag": "section",
+      "classes": "shopify-section contact-section",
+      "headingSample": [
+        "Contact Us"
+      ],
+      "outerHTML": "<section id=\"shopify-section-template--27266933981559__form\" class=\"shopify-section contact-section\"><link href=\"//shift-sketch.myshopify.com/cdn/shop/t/2/assets/section-contact-form.css?v=100122781351847540991766398546\" rel=\"stylesheet\" type=\"text/css\" media=\"all\">\n<style data-shopify=\"\">#shopify-section-template--27266933981559__form {\n\n  padding-top: 3.6rem;\n\n\n\n  padding-bottom: 8rem;\n\n}\n\n@media screen and (min-width: 750px) { #shopify-section-template--27266933981559__form {\n\n  padding-top: 5rem;\n\n\n\n  padding-bottom: 12rem;\n\n} }\n\n@media screen and (min-width: 1440px) { #shopify-section-template--27266933981559__form {\n\n  padding-top: 8rem;\n\n\n\n  padding-bottom: 15rem;\n\n\n} }\n\n</style><div class=\"contact-form\">\n  <div class=\"contact-form__container container\">\n    <div class=\"contact-form__inner\">\n      <div class=\"contact-form__wrapper\"><h3 class=\"contact-form__title-form h5 richtext-link-inside\">Contact Us</h3><p class=\"contact-form__text-form richtext-link-inside\">If you have any questions feel free to contact us, we promise to get back to you as quickly as we can.</p><form method=\"post\" action=\"/fr/contact#ContactForm\" id=\"ContactForm\" accept-charset=\"UTF-8\" class=\"contact-form__form\"><input type=\"hidden\" name=\"form_type\" value=\"contact\" style=\"\"><input type=\"hidden\" name=\"utf8\" value=\"✓\" style=\"\"><div class=\"field field__name\">\n            <input class=\"field__input focus-inset\" autocomplete=\"name\" type=\"text\" id=\"ContactForm-name\" dir=\"ltr\" name=\"contact[Nom]\" value=\"\" placeholder=\"Nom\" style=\"\">\n            <label class=\"field__label body-small\" for=\"ContactForm-name\">Nom</label>\n          </div>\n          <div class=\"field\">\n            <input autocomplete=\"email\" type=\"email\" id=\"ContactForm-email\" dir=\"ltr\" class=\"field__input focus-inset\" name=\"contact[email]\" spellcheck=\"false\" pattern=\"[a-z0-9._%+\\-]+@[a-z0-9.\\-]+\\.[a-z]{2,}$\" autocapitalize=\"off\" value=\"\" aria-required=\"true\" placeholder=\"E-mail\" required=\"\" style=\"\">\n            <label class=\"field__label body-small\" for=\"ContactForm-email\">E-mail</label></div>\n          <div class=\"field\">\n            <input type=\"tel\" id=\"ContactForm-phone\" dir=\"ltr\" class=\"field__input\" autocomplete=\"tel\" name=\"contact[Numéro de téléphone]\" pattern=\"[0-9\\-]*\" value=\"\" placeholder=\"Numéro de téléphone\" style=\"\">\n            <label class=\"field__label body-small\" for=\"ContactForm-phone\">Numéro de téléphone</label>\n          </div>\n          <div class=\"field\">\n            <textarea id=\"ContactForm-body\" dir=\"ltr\" class=\"text-area field__input\" name=\"contact[Message]\" placeholder=\"Message\" aria-required=\"true\" required=\"\" style=\"\"></textarea>\n            <label class=\"field__label body-small\" for=\"ContactForm-body\">Message</label>\n          </div>\n          <div class=\"contact-form__bottom\">\n            <button type=\"submit\" class=\"button button--primary focus-inset\">\n              <div class=\"button__content\">\n                \n                <span class=\"button__label\">Soumettre</span>\n              </div>\n            </button></div></form></div>\n    </div>\n  </div>\n</div>\n\n\n</section>"
+    }
+  ]
+}

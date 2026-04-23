@@ -1,0 +1,33 @@
+# Inspiration references for Featured products
+
+- Page URL: https://zap-main.myshopify.com/es/pages/featured-products
+- Page slug: zap_main_myshopify_com_es_pages_featured_products
+- Source page markdown: /home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/pages/zap_main_myshopify_com_es_pages_featured_products.md
+- Source page json: /home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/pages/zap_main_myshopify_com_es_pages_featured_products.json
+
+## zap_main_myshopify_com_es_pages_featured_products__section_01
+
+- Type guess: content-section
+- Selector hint: #shopify-section-template--26223871721791__main
+- Headings: Featured products
+- Pattern tags: top-of-page, product-commerce
+- Text sample: .section-template--26223871721791__main-padding { padding-top: 4rem; padding-bottom: 0; } @media screen and (min-width: 750px) { .section-template--26223871721791__main-padding { padding-top: 5rem; padding-bottom: 0; } } @media screen and (min-width: 1360px) { .section-template--
+- Screenshot: /home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_es_pages_featured_products/zap_main_myshopify_com_es_pages_featured_products__section_01.png
+
+## zap_main_myshopify_com_es_pages_featured_products__section_02
+
+- Type guess: product-grid
+- Selector hint: #shopify-section-template--26223871721791__featured_products_keryjR
+- Headings: Energy & Style | Caja de descubrimiento | Refuerzo de jengibre | Infusión de miel y limón | Enfriador de pasión | Energía original
+- Pattern tags: image-heavy, slider, cta-cluster, card-grid, product-commerce, editorial-media
+- Text sample: .section-template--26223871721791__featured_products_keryjR-padding { padding-top: 3.2rem; padding-bottom: 4rem; } @media screen and (min-width: 750px) { .section-template--26223871721791__featured_products_keryjR-padding { padding-top: 4rem; padding-bottom: 5rem; } } @media scre
+- Screenshot: /home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_es_pages_featured_products/zap_main_myshopify_com_es_pages_featured_products__section_02.png
+
+## zap_main_myshopify_com_es_pages_featured_products__section_03
+
+- Type guess: product-grid
+- Selector hint: #shopify-section-template--26223871721791__featured_products_DbWgmG
+- Headings: Our Sets | Caja de luz | Caja de descubrimiento
+- Pattern tags: image-heavy, slider, cta-cluster, card-grid, product-commerce, editorial-media
+- Text sample: .section-template--26223871721791__featured_products_DbWgmG-padding { padding-top: 4rem; padding-bottom: 6.4rem; } @media screen and (min-width: 750px) { .section-template--26223871721791__featured_products_DbWgmG-padding { padding-top: 5rem; padding-bottom: 8.8rem; } } @media sc
+- Screenshot: /home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_es_pages_featured_products/zap_main_myshopify_com_es_pages_featured_products__section_03.png

@@ -1,0 +1,473 @@
+# Shopify page scrape
+
+- URL: https://zap-main.myshopify.com/pages/newsletter
+- Title: Newsletter
+- Body classes: template-page template-page-features-newsletter
+- Custom elements: burger-menu, cart-drawer, cart-drawer-items, cart-note, header-search, localization-form, predictive-search, product-card-small, shop-cart-sync, sticky-header
+- Headings: Honey Lemon Infusion | Light Box | Discovery Box | Honey Lemon Infusion | Light Box | Discovery Box | Subscribe to our Newsletter and Get 15% off your first order | Newsletter | sign up to our newsletter | sign up to our newsletter | sign up to our newsletter | About us | products | products | Customer service | Customer service | information | information
+
+## 1. shopify-section-template--26224255369535__main
+
+- Tag: section
+- Classes: shopify-section page-section
+- Headings: Newsletter
+
+```html
+<section id="shopify-section-template--26224255369535__main" class="shopify-section page-section"><link href="//zap-main.myshopify.com/cdn/shop/t/2/assets/section-main-page.css?v=165534704276754180541772782652" rel="stylesheet" type="text/css" media="all">
+<style data-shopify="">.section-template--26224255369535__main-padding {
+
+  padding-top: 4rem;
+
+
+
+  padding-bottom: 0;
+
+}
+
+@media screen and (min-width: 750px) { .section-template--26224255369535__main-padding {
+
+  padding-top: 5rem;
+
+
+
+  padding-bottom: 0;
+
+} }
+
+@media screen and (min-width: 1360px) { .section-template--26224255369535__main-padding {
+
+  padding-top: 8rem;
+
+
+
+  padding-bottom: 0;
+
+} }
+
+</style><div class="section-template--26224255369535__main-padding container page-width--narrow">
+  <div class="page-header">
+    <div class="page-header__inner">
+      <h1 class="main-page-title page-title title--page h2">Newsletter</h1>
+    </div>
+  </div>
+  <div class="rte">
+    
+  </div>
+</div>
+
+
+</section>
+```
+
+## 2. shopify-section-template--26224255369535__newsletter_8JmK8B
+
+- Tag: section
+- Classes: shopify-section spaced-section newsletter-section anim-active
+- Headings: sign up to our newsletter
+
+```html
+<section id="shopify-section-template--26224255369535__newsletter_8JmK8B" class="shopify-section spaced-section newsletter-section anim-active"><link href="//zap-main.myshopify.com/cdn/shop/t/2/assets/section-newsletter.css?v=126360009002323593851772782654" rel="stylesheet" type="text/css" media="all">
+
+
+<script src="//zap-main.myshopify.com/cdn/shop/t/2/assets/newsletter.js?v=109811272760534841651774260005" defer="defer"></script><style data-shopify="">.section-template--26224255369535__newsletter_8JmK8B-padding {
+
+  padding-top: 5rem;
+
+
+
+  padding-bottom: 5rem;
+
+}
+
+@media screen and (min-width: 750px) { .section-template--26224255369535__newsletter_8JmK8B-padding {
+
+  padding-top: 7.2rem;
+
+
+
+  padding-bottom: 7.2rem;
+
+} }
+
+@media screen and (min-width: 1360px) { .section-template--26224255369535__newsletter_8JmK8B-padding {
+
+  padding-top: 10rem;
+
+
+
+  padding-bottom: 10rem;
+
+} }
+
+  #shopify-section-template--26224255369535__newsletter_8JmK8B {
+
+  padding-top: 0;
+
+
+
+  padding-bottom: 0;
+
+}
+
+@media screen and (min-width: 750px) { #shopify-section-template--26224255369535__newsletter_8JmK8B {
+
+  padding-top: 0;
+
+
+
+  padding-bottom: 0;
+
+} }
+
+@media screen and (min-width: 1360px) { #shopify-section-template--26224255369535__newsletter_8JmK8B {
+
+  padding-top: 0;
+
+
+
+  padding-bottom: 0;
+
+
+} }
+
+</style>
+<style data-shopify="">
+    #shopify-section-template--26224255369535__newsletter_8JmK8B [data-enable-header-animation] .newsletter__heading .word {
+      opacity: 0;
+      transform: translateY(20px);
+      display: inline-block;
+      white-space: nowrap;
+    }
+
+    #shopify-section-template--26224255369535__newsletter_8JmK8B [data-enable-header-animation] .newsletter__description {
+      opacity: 0;
+      transform: translateY(20px);
+    }
+
+    #shopify-section-template--26224255369535__newsletter_8JmK8B.anim-active [data-enable-header-animation] .newsletter__heading .word {
+      animation: fadeInWord 0.4s cubic-bezier(0.5, 0, 0, 1) forwards;
+      animation-delay: calc(var(--heading-delay) + (var(--word-index) * 0.1s));
+    }
+
+    #shopify-section-template--26224255369535__newsletter_8JmK8B.anim-active [data-enable-header-animation] .newsletter__description {
+      animation: fadeInUp 0.4s cubic-bezier(0.5, 0, 0, 1) forwards;
+      animation-delay: var(--description-delay);
+    }
+  </style>
+<div class="newsletter color-background-1 newsletter--border-top newsletter--border-bottom section-template--26224255369535__newsletter_8JmK8B-padding" data-enable-header-animation="true" style="--heading-delay: 0s; --description-delay: 0.5s;">
+  <div class="container">
+    <div class="newsletter__inner newsletter__inner--right"><div class="newsletter__form newsletter__form--center newsletter__form--without-img"><div class="newsletter__header"><h2 class="newsletter__heading h2"><span class="word" style="--word-index: 0">sign</span> <span class="word" style="--word-index: 1">up</span> <span class="word" style="--word-index: 2">to</span> <span class="word" style="--word-index: 3">our</span> <span class="word" style="--word-index: 4">newsletter</span></h2><p class="newsletter__description body-normal">Receive special offers and first look at new products.</p></div><div class="content">
+          <form method="post" action="/contact#contact_form" id="contact_form" accept-charset="UTF-8" class="newsletter-form"><input type="hidden" name="form_type" value="customer" style=""><input type="hidden" name="utf8" value="✓" style="">
+            <div class="newsletter-form__inner">
+              <input type="hidden" name="contact[tags]" value="newsletter" style="">
+              <div class="newsletter-form__field-wrapper">
+                <div class="field">
+                  <input id="NewsletterForm--template--26224255369535__newsletter_8JmK8B" type="email" dir="ltr" name="contact[email]" class="field__input field newsletter-form__input" value="" aria-required="true" autocorrect="off" autocapitalize="off" autocomplete="email" pattern="[a-z0-9._%+\-]+@[a-z0-9.\-]+\.[a-z]{2,}$" placeholder="Email Address" required="" style="">
+                  <label class="visually-hidden" for="NewsletterForm--template--26224255369535__newsletter_8JmK8B">Email Address</label>
+                </div></div>
+              <button type="submit" class="newsletter__button button button--primary focus-inset" name="commit">
+                <div class="button__content">
+                  <span class="button__label" data-label="Sign Up">Sign Up</span>
+                </div>
+                
+                  <span class="animated-button-circle"></span>
+                
+              </button>
+            </div><div class="newsletter-form-checkbox">
+                <input type="checkbox" name="newsletter_form_checkbox_template--26224255369535__newsletter_8JmK8B" id="newsletter_form_checkbox_template--26224255369535__newsletter_8JmK8B" required="" oninvalid="this.classList.add('is-invalid')" onchange="this.classList.remove('is-invalid')" style="">
+                <label class="newsletter-form-checkbox__label" for="newsletter_form_checkbox_template--26224255369535__newsletter_8JmK8B">
+                  <div class="newsletter-form-checkbox__label-icon">
+                    <svg class="icon icon-checkmark" width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M6 9.83333L9.16686 13.5C10.0002 10.5 12.1333 7.6 14 6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+</svg>
+
+                  </div>
+                  <p class="newsletter-form-checkbox__label-text body-xs">
+                    I agree to the company’s Privacy Policy and data processing terms
+                  </p>
+                  <p class="newsletter-form-checkbox__error body-xs">
+                    This field is required
+                  </p>
+                </label>
+              </div></form>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+</section>
+```
+
+## 3. shopify-section-template--26224255369535__newsletter_EktqRH
+
+- Tag: section
+- Classes: shopify-section spaced-section newsletter-section anim-active
+- Headings: sign up to our newsletter
+
+```html
+<section id="shopify-section-template--26224255369535__newsletter_EktqRH" class="shopify-section spaced-section newsletter-section anim-active"><link href="//zap-main.myshopify.com/cdn/shop/t/2/assets/section-newsletter.css?v=126360009002323593851772782654" rel="stylesheet" type="text/css" media="all">
+
+
+<script src="//zap-main.myshopify.com/cdn/shop/t/2/assets/newsletter.js?v=109811272760534841651774260005" defer="defer"></script><style data-shopify="">.section-template--26224255369535__newsletter_EktqRH-padding {
+
+  padding-top: 5rem;
+
+
+
+  padding-bottom: 5rem;
+
+}
+
+@media screen and (min-width: 750px) { .section-template--26224255369535__newsletter_EktqRH-padding {
+
+  padding-top: 7.2rem;
+
+
+
+  padding-bottom: 7.2rem;
+
+} }
+
+@media screen and (min-width: 1360px) { .section-template--26224255369535__newsletter_EktqRH-padding {
+
+  padding-top: 10rem;
+
+
+
+  padding-bottom: 10rem;
+
+} }
+
+  #shopify-section-template--26224255369535__newsletter_EktqRH {
+
+  padding-top: 0;
+
+
+
+  padding-bottom: 0;
+
+}
+
+@media screen and (min-width: 750px) { #shopify-section-template--26224255369535__newsletter_EktqRH {
+
+  padding-top: 0;
+
+
+
+  padding-bottom: 0;
+
+} }
+
+@media screen and (min-width: 1360px) { #shopify-section-template--26224255369535__newsletter_EktqRH {
+
+  padding-top: 0;
+
+
+
+  padding-bottom: 0;
+
+
+} }
+
+</style>
+<style data-shopify="">
+    #shopify-section-template--26224255369535__newsletter_EktqRH [data-enable-header-animation] .newsletter__heading .word {
+      opacity: 0;
+      transform: translateY(20px);
+      display: inline-block;
+      white-space: nowrap;
+    }
+
+    #shopify-section-template--26224255369535__newsletter_EktqRH [data-enable-header-animation] .newsletter__description {
+      opacity: 0;
+      transform: translateY(20px);
+    }
+
+    #shopify-section-template--26224255369535__newsletter_EktqRH.anim-active [data-enable-header-animation] .newsletter__heading .word {
+      animation: fadeInWord 0.4s cubic-bezier(0.5, 0, 0, 1) forwards;
+      animation-delay: calc(var(--heading-delay) + (var(--word-index) * 0.1s));
+    }
+
+    #shopify-section-template--26224255369535__newsletter_EktqRH.anim-active [data-enable-header-animation] .newsletter__description {
+      animation: fadeInUp 0.4s cubic-bezier(0.5, 0, 0, 1) forwards;
+      animation-delay: var(--description-delay);
+    }
+  </style>
+<div class="newsletter color-background-3 section-template--26224255369535__newsletter_EktqRH-padding" data-enable-header-animation="true" style="--heading-delay: 0s; --description-delay: 0.5s;">
+  <div class="container">
+    <div class="newsletter__inner newsletter__inner--right"><div class="newsletter__media-wrapper"><div class="newsletter__image-wrapper">
+              <img src="//zap-main.myshopify.com/cdn/shop/files/02-blog-013.jpg?v=1765973773&amp;width=1856" alt="" srcset="//zap-main.myshopify.com/cdn/shop/files/02-blog-013.jpg?v=1765973773&amp;width=360 360w, //zap-main.myshopify.com/cdn/shop/files/02-blog-013.jpg?v=1765973773&amp;width=535 535w, //zap-main.myshopify.com/cdn/shop/files/02-blog-013.jpg?v=1765973773&amp;width=720 720w, //zap-main.myshopify.com/cdn/shop/files/02-blog-013.jpg?v=1765973773&amp;width=956 956w, //zap-main.myshopify.com/cdn/shop/files/02-blog-013.jpg?v=1765973773&amp;width=1200 1200w" width="1856" height="1674" loading="lazy" sizes="(min-width: 1100px) 446px, calc((100vw - 20px))" class="newsletter__image">
+            </div><div class="newsletter__image-wrapper">
+              <img src="//zap-main.myshopify.com/cdn/shop/files/05-drinks-hover-03_5d1b1fe7-1ba2-45da-83e0-652abcb6c342.jpg?v=1765820154&amp;width=1728" alt="" srcset="//zap-main.myshopify.com/cdn/shop/files/05-drinks-hover-03_5d1b1fe7-1ba2-45da-83e0-652abcb6c342.jpg?v=1765820154&amp;width=360 360w, //zap-main.myshopify.com/cdn/shop/files/05-drinks-hover-03_5d1b1fe7-1ba2-45da-83e0-652abcb6c342.jpg?v=1765820154&amp;width=535 535w, //zap-main.myshopify.com/cdn/shop/files/05-drinks-hover-03_5d1b1fe7-1ba2-45da-83e0-652abcb6c342.jpg?v=1765820154&amp;width=720 720w, //zap-main.myshopify.com/cdn/shop/files/05-drinks-hover-03_5d1b1fe7-1ba2-45da-83e0-652abcb6c342.jpg?v=1765820154&amp;width=956 956w, //zap-main.myshopify.com/cdn/shop/files/05-drinks-hover-03_5d1b1fe7-1ba2-45da-83e0-652abcb6c342.jpg?v=1765820154&amp;width=1200 1200w" width="1728" height="2304" loading="lazy" sizes="(min-width: 1100px) 446px, calc((100vw - 20px))" class="newsletter__image">
+            </div></div><div class="newsletter__form newsletter__form--center"><div class="newsletter__header"><h2 class="newsletter__heading h2"><span class="word" style="--word-index: 0">sign</span> <span class="word" style="--word-index: 1">up</span> <span class="word" style="--word-index: 2">to</span> <span class="word" style="--word-index: 3">our</span> <span class="word" style="--word-index: 4">newsletter</span></h2><p class="newsletter__description body-normal">Receive special offers and first look at new products.</p></div><div class="content">
+          <form method="post" action="/contact#contact_form" id="contact_form" accept-charset="UTF-8" class="newsletter-form"><input type="hidden" name="form_type" value="customer" style=""><input type="hidden" name="utf8" value="✓" style="">
+            <div class="newsletter-form__inner">
+              <input type="hidden" name="contact[tags]" value="newsletter" style="">
+              <div class="newsletter-form__field-wrapper">
+                <div class="field">
+                  <input id="NewsletterForm--template--26224255369535__newsletter_EktqRH" type="email" dir="ltr" name="contact[email]" class="field__input field newsletter-form__input" value="" aria-required="true" autocorrect="off" autocapitalize="off" autocomplete="email" pattern="[a-z0-9._%+\-]+@[a-z0-9.\-]+\.[a-z]{2,}$" placeholder="Email Address" required="" style="">
+                  <label class="visually-hidden" for="NewsletterForm--template--26224255369535__newsletter_EktqRH">Email Address</label>
+                </div></div>
+              <button type="submit" class="newsletter__button button button--primary focus-inset" name="commit">
+                <div class="button__content">
+                  <span class="button__label" data-label="Sign Up">Sign Up</span>
+                </div>
+                
+                  <span class="animated-button-circle"></span>
+                
+              </button>
+            </div><div class="newsletter-form-checkbox">
+                <input type="checkbox" name="newsletter_form_checkbox_template--26224255369535__newsletter_EktqRH" id="newsletter_form_checkbox_template--26224255369535__newsletter_EktqRH" required="" oninvalid="this.classList.add('is-invalid')" onchange="this.classList.remove('is-invalid')" checked="" style="">
+                <label class="newsletter-form-checkbox__label" for="newsletter_form_checkbox_template--26224255369535__newsletter_EktqRH">
+                  <div class="newsletter-form-checkbox__label-icon">
+                    <svg class="icon icon-checkmark" width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M6 9.83333L9.16686 13.5C10.0002 10.5 12.1333 7.6 14 6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+</svg>
+
+                  </div>
+                  <p class="newsletter-form-checkbox__label-text body-xs">
+                    I agree to the company’s Privacy Policy and data processing terms
+                  </p>
+                  <p class="newsletter-form-checkbox__error body-xs">
+                    This field is required
+                  </p>
+                </label>
+              </div></form>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+</section>
+```
+
+## 4. shopify-section-template--26224255369535__newsletter_9xzLyA
+
+- Tag: section
+- Classes: shopify-section spaced-section newsletter-section anim-active
+- Headings: sign up to our newsletter
+
+```html
+<section id="shopify-section-template--26224255369535__newsletter_9xzLyA" class="shopify-section spaced-section newsletter-section anim-active"><link href="//zap-main.myshopify.com/cdn/shop/t/2/assets/section-newsletter.css?v=126360009002323593851772782654" rel="stylesheet" type="text/css" media="all">
+
+
+<script src="//zap-main.myshopify.com/cdn/shop/t/2/assets/newsletter.js?v=109811272760534841651774260005" defer="defer"></script><style data-shopify="">.section-template--26224255369535__newsletter_9xzLyA-padding {
+
+  padding-top: 6.4rem;
+
+
+
+  padding-bottom: 6.4rem;
+
+}
+
+@media screen and (min-width: 750px) { .section-template--26224255369535__newsletter_9xzLyA-padding {
+
+  padding-top: 8.8rem;
+
+
+
+  padding-bottom: 8.8rem;
+
+} }
+
+@media screen and (min-width: 1360px) { .section-template--26224255369535__newsletter_9xzLyA-padding {
+
+  padding-top: 15rem;
+
+
+
+  padding-bottom: 15rem;
+
+} }
+
+  #shopify-section-template--26224255369535__newsletter_9xzLyA {
+
+  padding-top: 0;
+
+
+
+  padding-bottom: 0;
+
+}
+
+@media screen and (min-width: 750px) { #shopify-section-template--26224255369535__newsletter_9xzLyA {
+
+  padding-top: 0;
+
+
+
+  padding-bottom: 0;
+
+} }
+
+@media screen and (min-width: 1360px) { #shopify-section-template--26224255369535__newsletter_9xzLyA {
+
+  padding-top: 0;
+
+
+
+  padding-bottom: 0;
+
+
+} }
+
+</style>
+<style data-shopify="">
+    #shopify-section-template--26224255369535__newsletter_9xzLyA [data-enable-header-animation] .newsletter__heading .word {
+      opacity: 0;
+      transform: translateY(20px);
+      display: inline-block;
+      white-space: nowrap;
+    }
+
+    #shopify-section-template--26224255369535__newsletter_9xzLyA [data-enable-header-animation] .newsletter__description {
+      opacity: 0;
+      transform: translateY(20px);
+    }
+
+    #shopify-section-template--26224255369535__newsletter_9xzLyA.anim-active [data-enable-header-animation] .newsletter__heading .word {
+      animation: fadeInWord 0.4s cubic-bezier(0.5, 0, 0, 1) forwards;
+      animation-delay: calc(var(--heading-delay) + (var(--word-index) * 0.1s));
+    }
+
+    #shopify-section-template--26224255369535__newsletter_9xzLyA.anim-active [data-enable-header-animation] .newsletter__description {
+      animation: fadeInUp 0.4s cubic-bezier(0.5, 0, 0, 1) forwards;
+      animation-delay: var(--description-delay);
+    }
+  </style>
+<div class="newsletter color-background-4 section-template--26224255369535__newsletter_9xzLyA-padding" data-enable-header-animation="true" style="--heading-delay: 0s; --description-delay: 0.5s;">
+  <div class="container">
+    <div class="newsletter__inner newsletter__inner--left"><div class="newsletter__media-wrapper"><div class="newsletter__image-wrapper">
+              <img src="//zap-main.myshopify.com/cdn/shop/files/03-profile-01.jpg?v=1765823556&amp;width=1856" alt="" srcset="//zap-main.myshopify.com/cdn/shop/files/03-profile-01.jpg?v=1765823556&amp;width=360 360w, //zap-main.myshopify.com/cdn/shop/files/03-profile-01.jpg?v=1765823556&amp;width=535 535w, //zap-main.myshopify.com/cdn/shop/files/03-profile-01.jpg?v=1765823556&amp;width=720 720w, //zap-main.myshopify.com/cdn/shop/files/03-profile-01.jpg?v=1765823556&amp;width=956 956w, //zap-main.myshopify.com/cdn/shop/files/03-profile-01.jpg?v=1765823556&amp;width=1200 1200w" width="1856" height="2262" loading="lazy" sizes="(min-width: 1100px) 924px, calc((100vw - 20px))" class="newsletter__image">
+            </div></div><div class="newsletter__form newsletter__form--left"><div class="newsletter__header"><h2 class="newsletter__heading h2"><span class="word" style="--word-index: 0">sign</span> <span class="word" style="--word-index: 1">up</span> <span class="word" style="--word-index: 2">to</span> <span class="word" style="--word-index: 3">our</span> <span class="word" style="--word-index: 4">newsletter</span></h2></div><div class="content">
+          <form method="post" action="/contact#contact_form" id="contact_form" accept-charset="UTF-8" class="newsletter-form"><input type="hidden" name="form_type" value="customer" style=""><input type="hidden" name="utf8" value="✓" style="">
+            <div class="newsletter-form__inner">
+              <input type="hidden" name="contact[tags]" value="newsletter" style="">
+              <div class="newsletter-form__field-wrapper">
+                <div class="field">
+                  <input id="NewsletterForm--template--26224255369535__newsletter_9xzLyA" type="email" dir="ltr" name="contact[email]" class="field__input field newsletter-form__input" value="" aria-required="true" autocorrect="off" autocapitalize="off" autocomplete="email" pattern="[a-z0-9._%+\-]+@[a-z0-9.\-]+\.[a-z]{2,}$" placeholder="Email Address" required="" style="">
+                  <label class="visually-hidden" for="NewsletterForm--template--26224255369535__newsletter_9xzLyA">Email Address</label>
+                </div></div>
+              <button type="submit" class="newsletter__button button button--primary focus-inset" name="commit">
+                <div class="button__content">
+                  <span class="button__label" data-label="Sign Up">Sign Up</span>
+                </div>
+                
+                  <span class="animated-button-circle"></span>
+                
+              </button>
+            </div></form>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+</section>
+```

@@ -1,0 +1,1625 @@
+# Shopify page scrape
+
+- URL: https://elegance-canvas.myshopify.com/fr/products/the-ballet-beauty
+- Title: La beauté du ballet – Elegance-canvas
+- Body classes: gradient
+- Custom elements: localization-form, main-product, pickup-availability, pickup-drawer, predictive-search, product-slider, section-swiper-slide, shop-cart-sync, shopify-accelerated-checkout, shopify-buy-it-now-button
+- Headings: Votre panier | Votre panier est vide | Recherche | Menu | La beauté du ballet | La beauté du ballet | India | Related products | Expressive Elements | Artist Workshops | Seasonal Art Shows | Join our creative community
+
+## 1. shopify-section-template--19562841473206__main
+
+- Tag: section
+- Classes: shopify-section section
+- Headings: La beauté du ballet | La beauté du ballet | India
+
+```html
+<section id="shopify-section-template--19562841473206__main" class="shopify-section section"> <style data-shopify="">.section-template--19562841473206__main-padding {
+    padding-top: 30px;
+    padding-bottom: 80px;
+  }
+
+  @media screen and (min-width: 768px) {
+    .section-template--19562841473206__main-padding {
+      padding-top: 45px;
+      padding-bottom: 120px;
+    }
+  }
+  @media screen and (min-width: 1200px) {
+    .section-template--19562841473206__main-padding {
+      padding-top: 60px;
+      padding-bottom: 160px;
+    }
+  }</style>
+    
+    <main-product data-gallerylayout="stack" id="product-template--19562841473206__main" data-sectionid="template--19562841473206__main" data-section-id="template--19562841473206__main" data-variantid="43553413693622" data-url="/fr/products/the-ballet-beauty" data-availabel="true">
+    <link href="//elegance-canvas.myshopify.com/cdn/shop/t/139/assets/main-product.css?v=163790321715666965461774876171" rel="stylesheet" type="text/css" media="all">
+<style data-shopify="">
+      .product-media { display: grid; grid-template-columns: minmax(0, 1fr); gap: 1rem;}
+      .product-media__main { width: 100%; }
+      .product-media__featured {  width: 100%; height: auto; display: block;}
+      .quanity_increment svg, .quanity_descrement svg { width: 1em; height: 1em; font-size: 14px;}
+      .product-3d-model__preview .product_media_preview{ z-index:2; }
+      .main-product.product-template--19562841473206__main  .product__details .variants ul li.option-item.swatch_has_color.highlighted:focus-visible {outline: 2px dashed currentColor;}
+      button.accordion-button:focus-visible span{  outline:1px solid rgb(var(--color-border));  }
+      .main-product .quantity-btn svg{ width: 1em; height: 1em; font-size: 14px;}
+      .main-product.product-template--19562841473206__main .quantity-btn{  color:rgb(var(--color-input-text-color));}
+      .product-template--19562841473206__main .swiper .swiper-card video {  pointer-events: auto; }
+      .product-template--19562841473206__main .my-carousel__swiper {  padding-bottom: 9vw;}
+      .product-template--19562841473206__main .my-carousel__actions {  position: relative;  width: 100%;  height: auto;  display: flex;  justify-content: space-evenly;  align-items: center;  gap: 20px;}
+      .product-template--19562841473206__main .my-carousel__control { display: inline-flex; border-radius: 0.25rem; font-size: 12px; font-weight: 500; padding: 0.5em 1em;}
+      .product-template--19562841473206__main .my-carousel__control:hover { cursor: pointer; }
+      .product-template--19562841473206__main .swiper-button-prev-arrow:hover{ transform:translateX(-5px);  }
+      .product-template--19562841473206__main .swiper-button-prev-arrow,
+      .product-template--19562841473206__main .swiper-button-next-arrow{  transition:all 0.5s linear;}
+      .product-template--19562841473206__main .swiper-button-next-arrow:hover{  transform:translateX(5px); }
+      .product-template--19562841473206__main .my-carousel-template--19562841473206__main .swiper-slide img { width: 100%; height: 100%; object-fit: cover;  }
+      .product-template--19562841473206__main .swiper-horizontal .swiper-slide.thumbnail-img img{ object-fit: cover; aspect-ratio: 1 / 1; }
+      .product-template--19562841473206__main .swiper-slide.thumbnail-img{ cursor:pointer;  border-radius:0px; overflow: hidden; }
+      #mainProduct .product__details > form > *{ margin-top: 1.5rem; margin-bottom: 0; }
+      #mainProduct .product__details > form > input+ :first-of-type{ margin-top: 0; }
+      #mainProduct .product__details .vendor_details .product_vendor{ font-size: var(--bs-font-sm); }
+      #mainProduct .form-message svg{ vertical-align: baseline; }
+      .main-product.product-template--19562841473206__main .product__details .variants ul[data-option-name="color"] li span{ position: absolute; inset: 0; }
+      /* vertical thumbnail */
+
+      .main-product.product-template--19562841473206__main .product__media .thaumbnail_left_container .thumbnail_left .swiper-vertical  { height:clamp(13.5rem,3.7083rem + 48.9583vw,34.0625rem); overflow: hidden !important; }
+      .main-product.product-template--19562841473206__main .product__media .thaumbnail_left_container .thumbnail_left .mySwiper3 .swiper-wrapper .swiper-slide.thumbnail-img{  place-content: center;  width: 100% !important;}
+      .main-product.product-template--19562841473206__main .product__media .thaumbnail_left_container .thumbnail_left .mySwiper3 .swiper-wrapper .swiper-slide.thumbnail-img img{ height:100%; width: 100%; aspect-ratio: 1; object-fit: cover;  }
+      .main-product.product-template--19562841473206__main .product__media .thaumbnail_left_container{ position: relative; padding-bottom: 0; outline-offset: 2px;      margin-right: 10px !important; }
+      .main-product.product-template--19562841473206__main .product__media .thaumbnail_left_container .thumbnail_left .mySwiper3 .swiper-wrapper .swiper-slide.thumbnail-img:focus-visible,
+      .product-template--19562841473206__main .swiper-slide.thumbnail-img:focus-visible{    outline-offset: 0px; outline: 2px dashed currentcolor;}
+      .main-product.product-template--19562841473206__main .product__media .main_carousel .swiper-slide .main_product_image:focus-visible{  outline-offset: 0px !important;}
+      .main-product.product-template--19562841473206__main .product__media .thaumbnail_left_container .thumbnail_left .mySwiper3:not(.swiper-initialized) .swiper-wrapper .swiper-slide{ height:130px; }
+      .main-product.product-template--19562841473206__main .thumbnail_left { width: 130px; }
+      .main-product.product-template--19562841473206__main .thumbnail_left:has(.mySwiper3:not(.swiper-initialized)) { width: 130px; }
+      .main-product.product-template--19562841473206__main .thumbnail_left:has(.mySwiper3:not(.swiper-initialized)) .swiper-wrapper { flex-direction: column; gap: 10px; height: clamp(13.5rem,3.7083rem + 48.9583vw,34.0625rem); }
+      .main-product.product-template--19562841473206__main .product__media.product--thumbnail_bottom .swiper.mySwiper2:not(.swiper-initialized) .swiper-slide.thumbnail-img{ width: 23%;}
+      .main-product.product-template--19562841473206__main .product__media.product--thumbnail_bottom .swiper.mySwiper2:not(.swiper-initialized) .swiper-slide.thumbnail-img img{ object-fit:cover; aspect-ratio: 1 / 1;}
+      .main-product.product-template--19562841473206__main .product__media .swiper:not(.swiper-initialized) .swiper-slide { margin-right: 10px; }
+      .main-product.product-template--19562841473206__main .product__media .thumbnail_left .thumbnail-img:not(.swiper-slide-thumb-active) .thumb img,
+      .main-product.product-template--19562841473206__main .product__media .swiper-horizontal .thumbnail-img:not(.swiper-slide-thumb-active) .thumb img  { border-radius:0px;  overflow: hidden; }
+      .main-product.product-template--19562841473206__main .product__media .thumbnail_left .thumbnail-img.swiper-slide-thumb-active .thumb img,
+      .main-product.product-template--19562841473206__main .product__media .swiper-horizontal .thumbnail-img.swiper-slide-thumb-active .thumb img { border: 2px solid var(--bs-border-color); border-radius:0px;  overflow: hidden;}
+      .main-product.product-template--19562841473206__main .product__media .main_carousel .swiper-slide .main_product_image,
+      .main-product.product-template--19562841473206__main .product__media .main_carousel .swiper-slide .product_media.product-3d-modal.product-active-media .product-3d-model__preview.product_media_preview,
+      .main-product.product-template--19562841473206__main .product__media .main_carousel .swiper-slide .product_media.product-3d-model__preview.product_media_preview .product_media_preview,
+      .main-product.product-template--19562841473206__main .product__media .main_carousel .swiper-slide .product_media.product-3d-modal.product-active-media .product-3d-model__main,
+      .main-product.product-template--19562841473206__main .product__media .main_carousel .swiper-slide .product-video_main{
+        border-radius:0px; overflow:hidden; display:block;  }
+      .main-product.product-template--19562841473206__main .product__details .form-message:empty{display:none !important}
+      .product-video_main  video { width: 100%; position: relative; max-width: 100%; height: 100%; z-index: 1; aspect-ratio: var(--aspect-ratio, 1); object-fit: cover;}
+      .main-product .placeholder_svg,
+      .main-product .product__media .main_carousel .swiper-slide{cursor:unset !important; overflow:hidden; border-radius:0px;}
+      .product_media .model-viewer-button {  gap: 6px;  background-color: rgb(var(--color-background));  color: rgb(var(--color-foreground));  display: flex;  align-items: center;  justify-content: center;  z-index: 1;  height: auto;  padding: .7rem .2rem;  border-radius:var(--btn-radius);  width: 100%;  margin-top: 10px;  margin-bottom:18px;  border:var(--bs-border-width) solid currentcolor;}
+      .section-template--19562841473206__main .main_carousel.swiper:not(.swiper-initialized) .swiper-wrapper .swiper-slide  { width: 100% !important; margin-right:10px !important; }
+      #pickupOffCanvas-pickup-availability .body-container svg{margin-bottom:2px;}
+      #pickupOffCanvas-pickup-availability .body-container >*:first-child{padding-top:0 !important}
+      .quickview_modal #mainProduct{padding:0 !important;}
+      .main-product .product__details .variants ul .option-item:not(.has_color) { border-radius: 0;}
+      .main-product  span.badge.h6.discount-badge{ margin-bottom: 0;}
+      iframe{ display: block; max-width: 100%; position: absolute; top: 0; left: 0; height: 100%; width: 100%;}
+      .main-product .my-carousel__actions .swiper-next.main-next.swiper-button-disabled,
+      .main-product .my-carousel__actions .swiper-prev.main-prev.swiper-button-disabled {  cursor: not-allowed; opacity: 0.35;}
+      /*media query*/
+      @media (min-width: 992px) {
+      .product__quantity-cart { grid-template-columns: 1fr auto;}
+      #mainProduct .stack-layout { flex-direction: column; }
+      .main-product  .product__details, .main-product  .product__media{ position: sticky; height: max-content !important; top: 0;}
+      #mainProduct .stack-layout ~ :is(.swiper-navigation, .swiper-pagination){ display:none!important;  }
+      .main-product.product-template--19562841473206__main .product__media[data-gallerylayout="stack"] .thumbsslider{display:none !important;}
+      .main-product.product-template--19562841473206__main .product__media[data-gallerylayout="stack"] .main_carousel .my-carousel__actions{display:none !important;}
+      }
+      @media (max-width: 1400px) and (min-width: 992px) {
+      .main-product.product-template--19562841473206__main .thumbnail_left { width: 100px; }
+       .main-product.product-template--19562841473206__main .product__media .thaumbnail_left_container .thumbnail_left .swiper-vertical {height:clamp(25rem, 13.6029rem + 18.3824vw, 29.6875rem);}
+    }
+      @media (max-width: 991px) {
+      .main-product.product-template--19562841473206__main .product__media[data-gallerylayout="stack"] .product__media-list .product_media.video_main .product_media_preview { display: none !important;}
+      .main-product.product-template--19562841473206__main .product__media[data-gallerylayout="stack"] .product__media-list .product_media .product-video_main {display:block !important;}
+      .main-product.product-template--19562841473206__main .product__media[data-gallerylayout="stack"] .swiper:not(.swiper-initialized) + .thumbsslider .swiper-slide.thumbnail-img{width:23%;}
+      .main-product.product-template--19562841473206__main .product__media[data-gallerylayout="stack"] .swiper:not(.swiper-initialized) + .thumbsslider .swiper-slide.thumbnail-img img{aspect-ratio:1; border-radius:0px;}
+      /* .main-product.product-template--19562841473206__main .product__media[data-gallerylayout="stack"] .thumbsslider{display:none !important;} */
+      .quickview-modal .main-product > .row .product__media.product--thumbnail_left{width:55%;}
+      .quickview-modal .main-product > .row  .product__details{width:45%;}
+       }
+      @media (max-width:767.98px){
+      .product .offcanvas .offcanvas-body{ width:100% !important; margin:0 !important;}
+      /* .main-product.product-template--19562841473206__main .product__media .thaumbnail_left_container .thumbnail_left .mySwiper3:not(.swiper-initialized) .swiper-wrapper .swiper-slide{ height:100px; } */
+      .main-product.product-template--19562841473206__main .thumbnail_left:has(.mySwiper3:not(.swiper-initialized)) .swiper-wrapper { flex-direction: column; gap: 10px; height:clamp(25rem, 6.1518rem + 52.356vw, 31.25rem); }
+         .main-product.product-template--19562841473206__main .product__media .thaumbnail_left_container{width:20%;}
+     .main-product.product-template--19562841473206__main .thumbnail_left{width:100%;}
+     .main-product.product-template--19562841473206__main .product__media .thaumbnail_left_container .thumbnail_left .swiper-vertical { height:clamp(25rem, 6.1518rem + 52.356vw, 31.25rem); }
+   .main-product.product-template--19562841473206__main .swiper.main_carousel{width:76%;}
+   .main-product.product-template--19562841473206__main .product__media[data-gallerylayout="thumbnail_left"] .swiper.main_carousel{width:80%;}
+      }
+      @media(max-width:575.98px){
+         .main-product.product-template--19562841473206__main .product__media .thaumbnail_left_container{width:24%;}
+     .main-product.product-template--19562841473206__main .thumbnail_left{width:100%;}
+     .main-product.product-template--19562841473206__main .product__media .thaumbnail_left_container .thumbnail_left .swiper-vertical { height: clamp(12.5rem, -3.125rem + 78.125vw, 25rem); }
+   .main-product.product-template--19562841473206__main .swiper.main_carousel{width:76%;}
+      /* .main-product.product-template--19562841473206__main .thumbnail_left:has(.mySwiper3:not(.swiper-initialized)) { width: 80px; }
+      .main-product.product-template--19562841473206__main .thumbnail_left { width: 80px; }
+      .main-product.product-template--19562841473206__main .product__media .thaumbnail_left_container .thumbnail_left .mySwiper3:not(.swiper-initialized) .swiper-wrapper .swiper-slide{ height:70px; }
+      .main-product.product-template--19562841473206__main .thumbnail_left:has(.mySwiper3:not(.swiper-initialized)) .swiper-wrapper { flex-direction: column; gap: 1rem; height: 250px; } */
+      
+    .main-product.product-template--19562841473206__main  .my-carousel__actions .main-next,
+     .main-product.product-template--19562841473206__main  .my-carousel__actions .main-prev{width:50px;}
+     
+    }
+      
+      
+      
+      .main-product.product-template--19562841473206__main .product__details .variants ul li.option-item.highlighted{ border: 1px solid rgba(var(--color-input-border));background: rgb(var(--color-input-bg)); color: rgba(var(--color-input-text-color)) !important;}
+      
+      
+      .main-product.product-template--19562841473206__main .product__details .variants ul li.option-item.highlighted{ border: 1px solid rgba(var(--color-input-border));background: rgb(var(--color-input-bg)); color: rgba(var(--color-input-text-color)) !important;}
+      
+      
+      .main-product.product-template--19562841473206__main .product__details .variants ul li.option-item.highlighted{ border: 1px solid rgba(var(--color-input-border));background: rgb(var(--color-input-bg)); color: rgba(var(--color-input-text-color)) !important;}
+      
+      
+      .main-product.product-template--19562841473206__main .product__details .variants ul li.option-item.highlighted{ border: 1px solid rgba(var(--color-input-border));background: rgb(var(--color-input-bg)); color: rgba(var(--color-input-text-color)) !important;}
+      
+      
+      .main-product.product-template--19562841473206__main .product__details .variants ul li.option-item.highlighted{ border: 1px solid rgba(var(--color-input-border));background: rgb(var(--color-input-bg)); color: rgba(var(--color-input-text-color)) !important;}
+      
+      
+      /*quickview*/
+      .quickview-drawer .main-product.product-template--19562841473206__main .product__media[data-gallerylayout="stack"] .thumbsslider{display:none !important;}
+      .quickview-drawer .main-product.product-template--19562841473206__main .product__media[data-gallerylayout="stack"] .product__media-list .product_media.video_main .product_media_preview,
+      .quickview-modal .main-product.product-template--19562841473206__main .product__media[data-gallerylayout="stack"] .product__media-list .product_media.video_main .product_media_preview  { display: none !important;}
+      .quickview-drawer .main-product.product-template--19562841473206__main .product__media[data-gallerylayout="stack"] .product__media-list .product_media .product-video_main,
+      .quickview-modal .main-product.product-template--19562841473206__main .product__media[data-gallerylayout="stack"] .product__media-list .product_media .product-video_main {display:block !important;}
+      .quickview-drawer .main-product.product-template--19562841473206__main .product__description,
+      .quickview-modal .main-product.product-template--19562841473206__main .product__description{display:none;}
+      
+       .quickview_modal{
+          height: 100% !important;
+          scrollbar-color: transparent transparent;
+          width: 100%;
+          margin: auto;
+          right: 0;
+          bottom: 0;
+          border-radius: var(--bs-modal-border-radius);
+          display: flex !important;
+          justify-content: center;
+      }
+      .quickview_modal .modal-dialog{ margin:0 !important; }
+      .quickview-modal .quickview-product[data-gallerylayout="stack"] .product__media { overflow-y:auto; height: clamp(31.25rem, 25rem + 13.0208vw, 40.625rem) !important; }/*500 to 650*/
+      .quickview-modal .quickview-product[data-gallerylayout="stack"] .thumbsslider{ display:none !important;}
+      
+
+      .quickview-drawer .main-product :is(.swiper .swiper-prev),
+      .quickview-drawer .main-product :is(.swiper .swiper-next) {
+         opacity: 1;
+      }
+
+      .quickview_modal .main-product .product__media .main_carousel  .my-carousel__actions,
+      .quickview-drawer .main-product .product__media .main_carousel  .my-carousel__actions{display:none !important;}
+      .quickview_modal .main-product .skip-to-content-link, .quickview-drawer .main-product .skip-to-content-link {
+      display: none !important;
+      }
+      .quickview-drawer  .main-product .product-stock,
+      .quickview_modal .main-product .product-stock {display:none !important;}
+      .quickview-drawer  .main-product .vendor_details,
+      .quickview_modal .main-product .vendor_details {display:none !important;}
+      .quickview-drawer .product--thumbnail_bottom .main_carousel.swiper:not(.swiper-initialized) .swiper-wrapper .swiper-slide.stack-first-element {
+      display: block !important;
+      }
+      .quickview-drawer .product--thumbnail_bottom .main_carousel.swiper:not(.swiper-initialized) .swiper-wrapper .swiper-slide {
+      display: none !important;
+      }
+      @media (max-width:1200px){
+      .quickview_modal .modal-dialog{max-width:95% !important;}
+      .quickview_modal .quickview-product .container-sm{width:100%; max-width:100%; padding:0; margin:0;}
+      .quickview-modal .product__media{padding-right:15px;}
+      }
+      .quick_View_modal .btn-close{ transform:translate(-20px, 20px);z-index:1; }
+      .quickview-modal :is(.product_media .product_media_preview){ width:100% !important; height:auto !important; }
+      .quickview-modal .product__media .swiper-slide  .swiper-card { width: 100% !important; height: 100% !important; }
+      .quickview-modal .product__media .swiper-slide .swiper-card product-model{ height:100% !important; width: 100%; }
+      .quickview-drawer .product__media .swiper-slide  .swiper-card { width: 100% !important; height: 100% !important; }
+      .quickview-drawer .product__media .swiper:not(.swiper-initialized) .swiper-slide{margin-right:0px;}
+      .quickview-drawer .main-product.product-template--19562841473206__main .thumbnail_left:has(.mySwiper3:not(.swiper-initialized)) .swiper-wrapper { flex-direction: column; gap:10px !important; height: clamp(19.6875rem, 17.1875rem + 5.2083vw, 23.4375rem); }
+      .quickview-drawer .product__media .thumbnail_left .swiper-wrapper{ height:clamp(19.6875rem, 17.1875rem + 5.2083vw, 23.4375rem) !important; align-items: center; }
+       .quickview-drawer   .product__media .thaumbnail_left_container .thumbnail_left .mySwiper3:not(.swiper-initialized) .swiper-wrapper .swiper-slide{height:85px !important; margin-right: 0 !important;}
+      .quickview-drawer .product__media .swiper-slide .swiper-card product-model{ height:100% !important; width: 100%; }
+      .quickview-drawer :is(.product__media){ padding-right: 0 !important; }
+      .quickview-drawer :is(.container-sm){ --bs-gutter-x: 20px; }
+      .quickview-product :is(.swiper-navigation){ display: none !important; }
+      .quickview-modal .product.container{ padding:0 !important; }
+      .quickview-product .product__heading h1{ font-size: var(--h2) !important; }
+      .quickview-product :is(.product__price-wrapper){ margin:0 !important; margin-top: .5rem!important; }
+      .quickview-product :is(.variants label,.recipient-fields__field label){ font-size: var(--h5) !important;}
+      .quickview-drawer .main-product{ max-width: 70%; margin: auto; width: 100%;}
+
+
+       .quickview-drawer #mainProduct  .stack-layout,
+      .quickview_modal  #mainProduct .stack-layout{flex-direction:unset;}
+      .quickview-drawer .row .product__media .swiper .swiper-pagination { display: none !important; }
+      .quickview-drawer .main-product .product__details{ padding:0 .5rem !important;}
+      .quickview-drawer .main-product .product__media .swiper-prev, .quickview-drawer .main-product .product__media .swiper-next{ display:none; }
+      .card_swiper .swiper-next, .card_swiper .swiper-prev{top:0; bottom:0; margin:auto; height:fit-content;}
+       .quickview_modal #mainProduct .stack-layout { width:100% !important;}
+       
+       @media (max-width: 767.98px){
+      .quickview-drawer .main-product{ width:100%; max-width:100%;}
+       }
+      .quickview-drawer .share_button, .quickview-modal .share_button  {display:none !important;}
+      .quickview-drawer .product__description, .quickview-modal .product__description {display:none !important;}
+      .quickview-drawer  .product__sku,  .quickview-modal .product__sku{ display: none !important;}
+      .quickview-drawer .quickview-product[data-gallerylayout="thumbnail_bottom"] .row,
+      .quickview-drawer .quickview-product[data-gallerylayout="thumbnail_left"] .row{display:flex; flex-direction:column;}
+      .quickview-drawer .quickview-product[data-gallerylayout="thumbnail_bottom"] .product__media,
+      .quickview-drawer .quickview-product[data-gallerylayout="thumbnail_bottom"] .product__details{width:100%;}
+      .quickview-drawer .quickview-product[data-gallerylayout="thumbnail_bottom"]  .main-product .product__details,
+      .quickview-drawer .quickview-product[data-gallerylayout="thumbnail_bottom"]  .main-product .product__media,
+      .quickview-drawer .quickview-product[data-gallerylayout="thumbnail_left"]  .main-product .product__details,
+      .quickview-drawer .quickview-product[data-gallerylayout="thumbnail_left"]  .main-product .product__media{position:unset; height:100%; width:100%;}
+      .quickview-drawer .quickview-product[data-gallerylayout="thumbnail_left"] .thumbnail_left,
+      .quickview-modal .quickview-product[data-gallerylayout="thumbnail_left"] .thumbnail_left { width: 80px !important; }
+      .quickview-drawer .quickview-product[data-gallerylayout="thumbnail_left"] .product__media .thaumbnail_left_container .thumbnail_left .swiper-vertical,
+      .quickview-modal .quickview-product[data-gallerylayout="thumbnail_left"] .product__media .thaumbnail_left_container .thumbnail_left .swiper-vertical  { height:clamp(19.6875rem, 17.1875rem + 5.2083vw, 23.4375rem) !important; overflow: hidden !important; }
+      .quickview-drawer .quickview-product[data-gallerylayout="thumbnail_left"] .swiper:not(.swiper-initialized)  .thumbnail_left .swiper-vertical  { height:clamp(19.6875rem, 17.1875rem + 5.2083vw, 23.4375rem) !important; overflow: hidden !important; }
+      /* .quickview-drawer .quickview-product[data-gallerylayout="thumbnail_left"] .swiper:not(.swiper-initialized)  .swiper-slide.thumbnail-img{height:80px !important;} */
+      @media (max-width:991px){
+       .quickview-drawer .quickview-product[data-gallerylayout="thumbnail_bottom"] .main-product,
+       .quickview-drawer .quickview-product[data-gallerylayout="thumbnail_left"] .main-product,
+       .quickview-drawer .quickview-product[data-gallerylayout="stack"] .main-product{ max-width:100% !important;}
+       .quickview-drawer .product__media-list.stack-layout .swiper-slide{height:400px!important}
+       .quickview-drawer .product__media-list.stack-layout .swiper-slide  >*{height:100% !important;}
+       }
+      
+      .quickview-modal .product__media{width:40%; margin:0 !important; position: -webkit-sticky !important; position: sticky!important; top: 0!important; z-index: 1020!important; }
+      .quickview-modal .product__details{width:60%; margin:0 !important; padding-top:1.5rem !important; padding-bottom:1.5rem !important;position: -webkit-sticky !important; position: sticky!important; top: 0!important; z-index: 1020!important; padding-left:0.5rem !important; padding-right:0.5rem !important;  height: fit-content !important; overflow-y:auto; scrollbar-width: none;}
+      .quickview-modal .main-product{padding-top:0 !important; padding-bottom:0 !important;}
+      .quickview_modal .modal-header{ z-index: 1021!important;}
+      .quickview_modal .main-product .product__media .main_carousel .swiper-slide{height:auto !important;}
+      .quickview_modal .main-product .product__media .main_carousel .swiper-slide:last-child{margin-bottom:0 !important}                                                                                      }
+       .quickview-drawer .quickview-product[data-gallerylayout="stack"] .main-product .mobile-load-default,
+       .quickview-drawer .quickview-product[data-gallerylayout="stack"] .main-product .stack-layout{display:flex; flex-direction:row !important; overflow-x:auto;}
+      @media (min-width:992px){
+       
+      .quickview-drawer .quickview-product[data-gallerylayout="stack"] .row{display:flex; flex-direction:row;}
+      .quickview-drawer .quickview-product[data-gallerylayout="stack"] .main-product{ max-width: 87% !important; margin-left: auto !important; margin:unset; width: 100%;}
+      .quickview-drawer .quickview-product[data-gallerylayout="stack"] .main-product .product__media{width:40% !important; padding-right: 20px !important;}
+      .quickview-drawer .quickview-product[data-gallerylayout="stack"] .main-product .product__details{width:60% !important;}
+      .quickview-drawer .quickview-product[data-gallerylayout="stack"] .main-product .mobile-load-default,
+      .quickview-drawer .quickview-product[data-gallerylayout="stack"] .main-product .stack-layout{display:unset; flex-direction:row !important; overflow-x:unset;}
+      
+      }
+/* without media query below condition */
+       
+      @media (max-width:991px){
+/* If you update these styles, apply the same changes in the  above*/
+      .quickview-drawer .quickview-product[data-gallerylayout="stack"] .main-product .mobile-load-default,
+       .quickview-drawer .quickview-product[data-gallerylayout="stack"] .main-product .stack-layout{display:flex; flex-direction:row !important; overflow-x:auto;}
+       .quickview-drawer .product--stack .swiper-slide{height:400px!important}
+       .quickview-drawer .product--stack .swiper-slide  >*{height:100% !important;}
+      }
+
+
+      
+      @media (max-width:991px){
+      .quickview-modal .product__media{width:60%;}
+      .quickview-modal .product__details{width:40%; height:100% !important;}
+      .drawer_quickview + div.offcanvas-backdrop{ opacity: 0; }
+      .quickview-drawer .row .product__media{ width:100% !important; margin-top:var(--bs-gutter-y) !important;}
+      }
+      
+     .quickview-modal .product--thumbnail_bottom .thumbsslider,
+     .quickview-drawer .product--thumbnail_bottom .thumbsslider{margin-top: 10px;}
+     .quickview-modal .quickview-product .container-sm{max-width:100%;}
+     @media (max-width:1080px){
+      .quickview-modal .product__details{
+        overflow-y: auto;
+        height: clamp(25rem, -2.6923rem + 57.6923vw, 36.25rem) !important;
+    scrollbar-width: none;
+      }
+       /* .quickview-drawer .main-product{ max-width:100%;} */
+    }
+    .quickview-drawer .main-product.product-template--19562841473206__main {padding:0 !important;}
+    .quickview-modal #mainProduct .product__details .price_block { margin-top: 1rem;}
+  </style>
+
+    
+
+    <link rel="stylesheet" href="//elegance-canvas.myshopify.com/cdn/shop/t/139/assets/photoswipe.min.css?v=92018174488706787841774876171" media="all" onload="this.media='all'"><div class="color-scheme-1 gradient">
+    <div class="container gx-5 gx-sm-4">
+    <div class="section-template--19562841473206__main main-product product-template--19562841473206__main section-template--19562841473206__main-padding" id="mainProduct" data-section="template--19562841473206__main" data-sectionid="template--19562841473206__main">
+    <div class="row g-0 gy-4 ">
+
+    
+    
+    <div data-variantid="43553413693622" data-selectedimageid="29034603544758" data-section="template--19562841473206__main" data-main-gallery-id="template--19562841473206__main" data-gallerylayout="stack" class="product__media product__media-template--19562841473206__main  pe-lg-4 col-12 col-lg-7 h-100 product--stack secondary_image">
+  <a href="#product-details-template--19562841473206__main" class="info position-absolute btn btn-primary  z-3  skip-to-content-link  visually-hidden px-3 py-2 ">
+    Accéder aux informations sur le produit
+    </a>
+    
+    <div class="swiper my-carousel-template--19562841473206__main main_carousel">
+    <div class="stack-layout" data-gallery="stack" data-gallery-mobile="thumbnail-bottom" id="swiper-wrapper-template--19562841473206__main" tabindex="-1"><div class="swiper-slide  stack-first-element   mb-3" tabindex="0" style="--aspect-ratio:120.15384615384615%;" data-media-id="29034603544758">
+  
+
+  
+    <div class="main_product_image" style="--aspect-ratio: 120.15384615384615%;" data-imageid="29034603544758">
+      
+      <img src="//elegance-canvas.myshopify.com/cdn/shop/files/Product10_01_1.jpg?v=1753776354&amp;width=2000" alt="La beauté du ballet" srcset="//elegance-canvas.myshopify.com/cdn/shop/files/Product10_01_1.jpg?v=1753776354&amp;width=375 375w, //elegance-canvas.myshopify.com/cdn/shop/files/Product10_01_1.jpg?v=1753776354&amp;width=550 550w, //elegance-canvas.myshopify.com/cdn/shop/files/Product10_01_1.jpg?v=1753776354&amp;width=750 750w, //elegance-canvas.myshopify.com/cdn/shop/files/Product10_01_1.jpg?v=1753776354&amp;width=992 992w, //elegance-canvas.myshopify.com/cdn/shop/files/Product10_01_1.jpg?v=1753776354&amp;width=1100 1100w, //elegance-canvas.myshopify.com/cdn/shop/files/Product10_01_1.jpg?v=1753776354&amp;width=1500 1500w, //elegance-canvas.myshopify.com/cdn/shop/files/Product10_01_1.jpg?v=1753776354&amp;width=1780 1780w, //elegance-canvas.myshopify.com/cdn/shop/files/Product10_01_1.jpg?v=1753776354&amp;width=2000 2000w" width="1300" height="1562" class="img-fluid media w-100" aria_hidden="true" fetchpriority="high" sizes="(min-width: 2000px) 33vw,
+      (min-width: 1500px) 40vw,
+      (min-width: 1100px) 50vw,
+      (min-width: 992px) 60vw,
+      (min-width: 750px) 70vw,
+      (min-width: 320px) 90vw">
+      
+</div> 
+
+
+
+</div>
+  
+    
+    
+    
+    
+    <div class="swiper-slide   mb-3" tabindex="0" style="--aspect-ratio:120.15384615384615%;" data-media-id="29034603577526">
+  
+
+  
+    <div class="main_product_image" style="--aspect-ratio: 120.15384615384615%;" data-imageid="29034603577526">
+      
+      <img src="//elegance-canvas.myshopify.com/cdn/shop/files/Product10_02.jpg?v=1766225924&amp;width=2000" alt="La beauté du ballet" srcset="//elegance-canvas.myshopify.com/cdn/shop/files/Product10_02.jpg?v=1766225924&amp;width=375 375w, //elegance-canvas.myshopify.com/cdn/shop/files/Product10_02.jpg?v=1766225924&amp;width=550 550w, //elegance-canvas.myshopify.com/cdn/shop/files/Product10_02.jpg?v=1766225924&amp;width=750 750w, //elegance-canvas.myshopify.com/cdn/shop/files/Product10_02.jpg?v=1766225924&amp;width=992 992w, //elegance-canvas.myshopify.com/cdn/shop/files/Product10_02.jpg?v=1766225924&amp;width=1100 1100w, //elegance-canvas.myshopify.com/cdn/shop/files/Product10_02.jpg?v=1766225924&amp;width=1500 1500w, //elegance-canvas.myshopify.com/cdn/shop/files/Product10_02.jpg?v=1766225924&amp;width=1780 1780w, //elegance-canvas.myshopify.com/cdn/shop/files/Product10_02.jpg?v=1766225924&amp;width=2000 2000w" width="1300" height="1562" class="img-fluid media w-100" aria_hidden="true" fetchpriority="high" sizes="(min-width: 2000px) 33vw,
+      (min-width: 1500px) 40vw,
+      (min-width: 1100px) 50vw,
+      (min-width: 992px) 60vw,
+      (min-width: 750px) 70vw,
+      (min-width: 320px) 90vw">
+      
+</div> 
+
+
+
+</div>
+  
+    
+    
+    <div class="swiper-slide   mb-3" tabindex="0" style="--aspect-ratio:120.15384615384615%;" data-media-id="29034603610294">
+  
+
+  
+    <div class="main_product_image" style="--aspect-ratio: 120.15384615384615%;" data-imageid="29034603610294">
+      
+      <img src="//elegance-canvas.myshopify.com/cdn/shop/files/Product10_03.jpg?v=1766225924&amp;width=2000" alt="La beauté du ballet" srcset="//elegance-canvas.myshopify.com/cdn/shop/files/Product10_03.jpg?v=1766225924&amp;width=375 375w, //elegance-canvas.myshopify.com/cdn/shop/files/Product10_03.jpg?v=1766225924&amp;width=550 550w, //elegance-canvas.myshopify.com/cdn/shop/files/Product10_03.jpg?v=1766225924&amp;width=750 750w, //elegance-canvas.myshopify.com/cdn/shop/files/Product10_03.jpg?v=1766225924&amp;width=992 992w, //elegance-canvas.myshopify.com/cdn/shop/files/Product10_03.jpg?v=1766225924&amp;width=1100 1100w, //elegance-canvas.myshopify.com/cdn/shop/files/Product10_03.jpg?v=1766225924&amp;width=1500 1500w, //elegance-canvas.myshopify.com/cdn/shop/files/Product10_03.jpg?v=1766225924&amp;width=1780 1780w, //elegance-canvas.myshopify.com/cdn/shop/files/Product10_03.jpg?v=1766225924&amp;width=2000 2000w" width="1300" height="1562" class="img-fluid media w-100" aria_hidden="true" fetchpriority="high" sizes="(min-width: 2000px) 33vw,
+      (min-width: 1500px) 40vw,
+      (min-width: 1100px) 50vw,
+      (min-width: 992px) 60vw,
+      (min-width: 750px) 70vw,
+      (min-width: 320px) 90vw">
+      
+</div> 
+
+
+
+</div>
+  
+    
+    
+    <div class="swiper-slide   mb-3" tabindex="0" style="--aspect-ratio:120.15384615384615%;" data-media-id="29034603643062">
+  
+
+  
+    <div class="main_product_image" style="--aspect-ratio: 120.15384615384615%;" data-imageid="29034603643062">
+      
+      <img src="//elegance-canvas.myshopify.com/cdn/shop/files/Product10_04.jpg?v=1766225924&amp;width=2000" alt="La beauté du ballet" srcset="//elegance-canvas.myshopify.com/cdn/shop/files/Product10_04.jpg?v=1766225924&amp;width=375 375w, //elegance-canvas.myshopify.com/cdn/shop/files/Product10_04.jpg?v=1766225924&amp;width=550 550w, //elegance-canvas.myshopify.com/cdn/shop/files/Product10_04.jpg?v=1766225924&amp;width=750 750w, //elegance-canvas.myshopify.com/cdn/shop/files/Product10_04.jpg?v=1766225924&amp;width=992 992w, //elegance-canvas.myshopify.com/cdn/shop/files/Product10_04.jpg?v=1766225924&amp;width=1100 1100w, //elegance-canvas.myshopify.com/cdn/shop/files/Product10_04.jpg?v=1766225924&amp;width=1500 1500w, //elegance-canvas.myshopify.com/cdn/shop/files/Product10_04.jpg?v=1766225924&amp;width=1780 1780w, //elegance-canvas.myshopify.com/cdn/shop/files/Product10_04.jpg?v=1766225924&amp;width=2000 2000w" width="1300" height="1562" class="img-fluid media w-100" aria_hidden="true" fetchpriority="high" sizes="(min-width: 2000px) 33vw,
+      (min-width: 1500px) 40vw,
+      (min-width: 1100px) 50vw,
+      (min-width: 992px) 60vw,
+      (min-width: 750px) 70vw,
+      (min-width: 320px) 90vw">
+      
+</div> 
+
+
+
+</div>
+  
+    
+    
+    </div>
+
+    <!-- Swiper navigation for mobile -->
+    <!-- <div class="swiper-pagination position-relative"></div> -->
+    
+    
+    
+
+
+    <div class="d-flex position-relative bottom-0 w-100 justify-content-center gap-5 my-carousel__actions py-4 my-carousel__actions">
+    <div class="product-prev-template--19562841473206__main swiper-prev main-prev d-inline-flex bottom-0 z-3 m-0 rounded-0 " role="button">
+
+<svg width="84" height="19" viewBox="0 0 84 19" fill="currentColor" xmlns="http://www.w3.org/2000/svg" class="icon_one">
+<path d="M83.9959 8.57675C65.7529 8.57675 47.514 8.58075 29.2711 8.58476C28.7374 8.58476 28.3055 8.14399 28.3381 7.61907C28.7374 1.66061 24.1257 -1.85756 18.5037 1.02349C12.4295 4.13295 9.12149 7.60304 1.11625 8.38842C0.814783 8.42047 0.566274 8.53667 0.350356 8.74905C0.118143 8.97745 0 9.25794 0 9.58251C0 10.1074 0.399243 10.5482 0.932926 10.6123C5.8257 11.1693 10.417 12.9524 14.7109 15.9817C20.5529 20.0729 28.4074 21.267 28.3911 11.3496C28.3911 10.8567 28.7903 10.4641 29.2914 10.4641C47.5263 10.4641 65.7652 10.46 84 10.456V8.57274L83.9959 8.57675ZM13.2484 9.41822L13.2972 9.99123C13.3298 10.3679 13.5295 10.5482 13.9124 10.5482L25.0953 10.6283C25.7105 10.6283 26.0934 10.9249 26.2278 11.5299C27.5111 17.4243 21.9014 18.3058 18.0556 15.7854C14.662 13.5575 11.2318 11.6782 7.75266 10.1235C7.23527 9.91109 7.21897 9.66666 7.70377 9.38617L20.3696 2.24965C21.9665 1.33204 24.0157 1.69267 25.2134 3.09914C26.3134 4.42546 26.676 5.84796 26.3134 7.38666C26.1464 8.0919 25.4986 8.59678 24.749 8.61281L13.9328 8.67692C13.4521 8.69295 13.2158 8.93738 13.2524 9.41421L13.2484 9.41822Z" fill="currentColor"></path>
+</svg>
+
+
+
+
+ </div>
+    <div class="product-next-template--19562841473206__main swiper-next main-next z-3 m-0  d-inline-flex bottom-0 rounded-0 " role="button">
+
+<svg width="84" height="19" viewBox="0 0 84 19" fill="currentColor" xmlns="http://www.w3.org/2000/svg" class="icon_one">
+<path d="M0.0040741 8.57675C18.2471 8.57675 36.486 8.58075 54.7289 8.58476C55.2626 8.58476 55.6945 8.14399 55.6619 7.61907C55.2626 1.66061 59.8743 -1.85756 65.4963 1.02349C71.5705 4.13295 74.8785 7.60304 82.8837 8.38842C83.1852 8.42047 83.4337 8.53667 83.6496 8.74905C83.8819 8.97745 84 9.25794 84 9.58251C84 10.1074 83.6008 10.5482 83.0671 10.6123C78.1743 11.1693 73.583 12.9524 69.2891 15.9817C63.4471 20.0729 55.5926 21.267 55.6089 11.3496C55.6089 10.8567 55.2097 10.4641 54.7086 10.4641C36.4737 10.4641 18.2348 10.46 0 10.456V8.57274L0.0040741 8.57675ZM70.7516 9.41822L70.7028 9.99123C70.6702 10.3679 70.4705 10.5482 70.0876 10.5482L58.9047 10.6283C58.2895 10.6283 57.9066 10.9249 57.7722 11.5299C56.4889 17.4243 62.0986 18.3058 65.9444 15.7854C69.338 13.5575 72.7682 11.6782 76.2473 10.1235C76.7647 9.91109 76.781 9.66666 76.2962 9.38617L63.6304 2.24965C62.0335 1.33204 59.9843 1.69267 58.7866 3.09914C57.6866 4.42546 57.324 5.84796 57.6866 7.38666C57.8536 8.0919 58.5014 8.59678 59.251 8.61281L70.0672 8.67692C70.5479 8.69295 70.7842 8.93738 70.7476 9.41421L70.7516 9.41822Z" fill="currentColor"></path>
+</svg>
+
+</div>
+    </div>
+
+    
+
+    </div>
+
+    
+    
+    <div thumbsslider="" class="thumbsslider swiper mySwiper2 mySwiper2-template--19562841473206__main  px-2  d-block">
+    <div class="swiper-wrapper">
+    
+    
+   <div tabindex="0" data-mediatype="image" class="swiper-slide thumbnail-img is-active 
+" data-media-id="29034603544758" data-sectionid="template--19562841473206__main">
+    <div class="h-100 w-100 thumb">
+    <img src="//elegance-canvas.myshopify.com/cdn/shop/files/Product10_01_1.jpg?v=1753776354&amp;width=500" alt="La beauté du ballet" srcset="//elegance-canvas.myshopify.com/cdn/shop/files/Product10_01_1.jpg?v=1753776354&amp;width=352 352w" width="1300" height="1562" loading="lazy" class="img-fluid" aria_hidden="true">
+</div>
+    </div>
+    
+    
+    
+    
+    
+    <div tabindex="0" data-mediatype="image" class="swiper-slide thumbnail-img   
+" data-sectionid="template--19562841473206__main" data-media-id="29034603577526">
+    <div class="h-100 w-100 thumb"><img src="//elegance-canvas.myshopify.com/cdn/shop/files/Product10_02.jpg?v=1766225924&amp;width=500" alt="La beauté du ballet" srcset="//elegance-canvas.myshopify.com/cdn/shop/files/Product10_02.jpg?v=1766225924&amp;width=80 80w, //elegance-canvas.myshopify.com/cdn/shop/files/Product10_02.jpg?v=1766225924&amp;width=120 120w, //elegance-canvas.myshopify.com/cdn/shop/files/Product10_02.jpg?v=1766225924&amp;width=160 160w, //elegance-canvas.myshopify.com/cdn/shop/files/Product10_02.jpg?v=1766225924&amp;width=500 500w" width="500" height="601" loading="lazy" class="img-fluid" aria_hidden="true" sizes="500px">
+    </div></div>
+    
+    
+    <div tabindex="0" data-mediatype="image" class="swiper-slide thumbnail-img   
+" data-sectionid="template--19562841473206__main" data-media-id="29034603610294">
+    <div class="h-100 w-100 thumb"><img src="//elegance-canvas.myshopify.com/cdn/shop/files/Product10_03.jpg?v=1766225924&amp;width=500" alt="La beauté du ballet" srcset="//elegance-canvas.myshopify.com/cdn/shop/files/Product10_03.jpg?v=1766225924&amp;width=80 80w, //elegance-canvas.myshopify.com/cdn/shop/files/Product10_03.jpg?v=1766225924&amp;width=120 120w, //elegance-canvas.myshopify.com/cdn/shop/files/Product10_03.jpg?v=1766225924&amp;width=160 160w, //elegance-canvas.myshopify.com/cdn/shop/files/Product10_03.jpg?v=1766225924&amp;width=500 500w" width="500" height="601" loading="lazy" class="img-fluid" aria_hidden="true" sizes="500px">
+    </div></div>
+    
+    
+    <div tabindex="0" data-mediatype="image" class="swiper-slide thumbnail-img   
+" data-sectionid="template--19562841473206__main" data-media-id="29034603643062">
+    <div class="h-100 w-100 thumb"><img src="//elegance-canvas.myshopify.com/cdn/shop/files/Product10_04.jpg?v=1766225924&amp;width=500" alt="La beauté du ballet" srcset="//elegance-canvas.myshopify.com/cdn/shop/files/Product10_04.jpg?v=1766225924&amp;width=80 80w, //elegance-canvas.myshopify.com/cdn/shop/files/Product10_04.jpg?v=1766225924&amp;width=120 120w, //elegance-canvas.myshopify.com/cdn/shop/files/Product10_04.jpg?v=1766225924&amp;width=160 160w, //elegance-canvas.myshopify.com/cdn/shop/files/Product10_04.jpg?v=1766225924&amp;width=500 500w" width="500" height="601" loading="lazy" class="img-fluid" aria_hidden="true" sizes="500px">
+    </div></div>
+    
+    </div>
+    </div>
+    
+    
+
+
+    </div>
+
+
+    
+
+
+
+    <div id="product-details-template--19562841473206__main" data-gallerylayout="stack" data-productsize="3" data-producttype="false" class="product__details ps-lg-4 col-12 col-lg-5 h-100 ">
+    <form method="post" action="/fr/cart/add" id="product_form_8095401803958" accept-charset="UTF-8" class="add-to-cart-form product-options-form product-summary__product-options-form" enctype="multipart/form-data" novalidate="novalidate"><input type="hidden" name="form_type" value="product" style=""><input type="hidden" name="utf8" value="✓" style="">
+    
+    
+    <div class="product__heading">
+    <h1 class="h2 mb-0 text-break">La beauté du ballet</h1>
+    </div>
+    
+    
+    
+    <div class="mb-3 price_block" id="price-template--19562841473206__main" role="status" aria-atomic="true">
+    <span class="price">Rs. 1,200.00</span>
+    
+    
+    <span class="product-unit-price">
+    
+    </span>
+    
+    
+<div class="product-tax-details">Taxes incluses.
+</div>
+    </div>
+    
+
+    
+    
+    <div class="variants_container" data-url="/fr/products/the-ballet-beauty" data-section="template--19562841473206__main" role="status" aria-atomic="true" data-availabilityid="43553413693622">
+    <div class="alert alert-warning alert-dismissible fade hide remove_notification d-none" role="alert">
+    <p id="cliked_itemss"></p>
+    <button type="button" class="btn-close variation_remove" data-bs-dismiss="alert" aria-label="Close"></button>
+    </div>
+
+    
+
+    
+    
+
+    <div class="variants">
+    
+    <div class="mb-3 h4 label">taille:</div>
+
+    <ul role="listbox" aria-label="Available designs" class="variant-options option-list-template--19562841473206__main list-unstyled d-flex flex-wrap mb-4 gap-3" data-option-index="1" data-option-name="" data-sectionid="template--19562841473206__main">
+
+    
+<li data-value="2489535529142" data-option-value="taille" data-option-position="0" data-swatch="24*48 pouces" data-availability="true" data-id="2489535529142" data-bs-toggle="tooltip" data-bs-placement="top" title="24*48 pouces" role="option" aria-checked="true" aria-selected="true" tabindex="0" class="option-item swatch z-2 btn
+     highlighted 
+     available 
+    
+    
+     none_color">
+
+    
+    24*48 pouces
+    
+    </li>
+    
+<li data-value="2489535463606" data-option-value="taille" data-option-position="1" data-swatch="12*24 pouces" data-availability="true" data-id="2489535463606" data-bs-toggle="tooltip" data-bs-placement="top" title="12*24 pouces" role="option" aria-checked="false" aria-selected="false" tabindex="-1" class="option-item swatch z-2 btn
+    
+     available 
+    
+    
+     none_color">
+
+    
+    12*24 pouces
+    
+    </li>
+    
+<li data-value="2489535496374" data-option-value="taille" data-option-position="2" data-swatch="12*48 pouces" data-availability="true" data-id="2489535496374" data-bs-toggle="tooltip" data-bs-placement="top" title="12*48 pouces" role="option" aria-checked="false" aria-selected="false" tabindex="-1" class="option-item swatch z-2 btn
+    
+     available 
+    
+    
+     none_color">
+
+    
+    12*48 pouces
+    
+    </li>
+    
+<li data-value="2489535561910" data-option-value="taille" data-option-position="3" data-swatch="48*96 pouces" data-availability="true" data-id="2489535561910" data-bs-toggle="tooltip" data-bs-placement="top" title="48*96 pouces" role="option" aria-checked="false" aria-selected="false" tabindex="-1" class="option-item swatch z-2 btn
+    
+     available 
+    
+    
+     none_color">
+
+    
+    48*96 pouces
+    
+    </li>
+    
+    <style>
+    
+    </style>
+    </ul>
+
+    
+    </div>
+    
+    
+
+    
+    
+
+    <div class="variants">
+    
+    <div class="mb-3 h4 label">Matériel:</div>
+
+    <ul role="listbox" aria-label="Available designs" class="variant-options option-list-template--19562841473206__main list-unstyled d-flex flex-wrap mb-4 gap-3" data-option-index="2" data-option-name="" data-sectionid="template--19562841473206__main">
+
+    
+<li data-value="2489535660214" data-option-value="Matériel" data-option-position="0" data-swatch="Bois de pin" data-availability="true" data-id="2489535660214" data-bs-toggle="tooltip" data-bs-placement="top" title="Bois de pin" role="option" aria-checked="true" aria-selected="true" tabindex="0" class="option-item swatch z-2 btn
+     highlighted 
+     available 
+    
+    
+     none_color">
+
+    
+    Bois de pin
+    
+    </li>
+    
+<li data-value="2489535594678" data-option-value="Matériel" data-option-position="1" data-swatch="Bois de récupération" data-availability="true" data-id="2489535594678" data-bs-toggle="tooltip" data-bs-placement="top" title="Bois de récupération" role="option" aria-checked="false" aria-selected="false" tabindex="-1" class="option-item swatch z-2 btn
+    
+     available 
+    
+    
+     none_color">
+
+    
+    Bois de récupération
+    
+    </li>
+    
+<li data-value="2489535627446" data-option-value="Matériel" data-option-position="2" data-swatch="Bois massif" data-availability="true" data-id="2489535627446" data-bs-toggle="tooltip" data-bs-placement="top" title="Bois massif" role="option" aria-checked="false" aria-selected="false" tabindex="-1" class="option-item swatch z-2 btn
+    
+     available 
+    
+    
+     none_color">
+
+    
+    Bois massif
+    
+    </li>
+    
+<li data-value="2489535692982" data-option-value="Matériel" data-option-position="3" data-swatch="Bois sculpté" data-availability="false" data-id="2489535692982" data-bs-toggle="tooltip" data-bs-placement="top" title="Bois sculpté" role="option" aria-checked="false" aria-selected="false" tabindex="-1" class="option-item swatch z-2 btn
+    
+    
+    
+    
+     none_color">
+
+    
+    Bois sculpté
+    
+    </li>
+    
+    <style>
+    
+    </style>
+    </ul>
+
+    
+    </div>
+    
+    
+
+    
+    
+
+    <div class="variants">
+    
+    <div class="mb-3 h4 label">Couleur:</div>
+
+    <ul role="listbox" aria-label="Available designs" class="variant-options option-list-template--19562841473206__main list-unstyled d-flex flex-wrap mb-4 gap-3" data-option-index="3" data-option-name="" data-sectionid="template--19562841473206__main">
+
+    
+<li data-value="2592484589750" data-option-value="Couleur" data-option-position="0" data-swatch="Green" data-availability="true" data-id="2592484589750" data-bs-toggle="tooltip" data-bs-placement="top" title="Green" role="option" aria-checked="true" aria-selected="true" tabindex="0" class="option-item swatch z-2 btn
+     highlighted 
+     available 
+    
+    
+    ">
+
+    
+    Green
+    
+    </li>
+    
+<li data-value="2592484622518" data-option-value="Couleur" data-option-position="1" data-swatch="Red" data-availability="true" data-id="2592484622518" data-bs-toggle="tooltip" data-bs-placement="top" title="Red" role="option" aria-checked="false" aria-selected="false" tabindex="-1" class="option-item swatch z-2 btn
+    
+     available 
+    
+    
+    ">
+
+    
+    Red
+    
+    </li>
+    
+<li data-value="2592484655286" data-option-value="Couleur" data-option-position="2" data-swatch="Blue" data-availability="true" data-id="2592484655286" data-bs-toggle="tooltip" data-bs-placement="top" title="Blue" role="option" aria-checked="false" aria-selected="false" tabindex="-1" class="option-item swatch z-2 btn
+    
+     available 
+    
+    
+    ">
+
+    
+    Blue
+    
+    </li>
+    
+<li data-value="2592484688054" data-option-value="Couleur" data-option-position="3" data-swatch="Yellow" data-availability="true" data-id="2592484688054" data-bs-toggle="tooltip" data-bs-placement="top" title="Yellow" role="option" aria-checked="false" aria-selected="false" tabindex="-1" class="option-item swatch z-2 btn
+    
+     available 
+    
+    
+    ">
+
+    
+    Yellow
+    
+    </li>
+    
+    <style>
+    
+    </style>
+    </ul>
+
+    
+    </div>
+    
+    
+
+    </div>
+    
+    
+    
+    <div class="buy_btns_grp">
+
+    <button id="clear-variant-button" type="button" class="btn btn-secondary rounded-pill mt-3 d-none">
+    Variantes claires
+    </button><div class="d-flex form-message align-items-center mb-3 "></div>
+    <div class="product__quantity-cart d-flex flex-wrap gap-3 mt-0">
+    <div class="quantity-selector position-relative flex-grow-1">
+    <label for="quantity" class="visually-hidden">Quantité</label>
+    <button type="button" id="decrement" data-section="template--19562841473206__main" aria-label="Decrement" class="decrement-btn quantity-btn position-absolute top-0 bottom-0 start-0 bg-transparent btn border-0 fs-4 py-0 px-4  quanity_descrement
+     " style="cursor: not-allowed;">
+    
+<svg xmlns="http://www.w3.org/2000/svg" width="9" height="2" viewBox="0 0 9 2" fill="none">
+<path d="M8.11456 -1.50204e-05V1.24799H0.00256252V-1.50204e-05H8.11456Z" fill="currentcolor"></path>
+</svg>
+    </button>
+    <input type="number" id="quantity" name="quantity" value="1" min="1" class="quantity-btn quantity quantity-input form-control w-100 py-3 outline-0" style="">
+    <button type="button" id="increment" data-section="template--19562841473206__main" aria-label="Increament" class="increment-btn quantity-btn  position-absolute top-0 bottom-0 end-0 bg-transparent btn border-0 fs-4 py-0 px-4 quanity_increment
+    ">
+    
+
+<svg xmlns="http://www.w3.org/2000/svg" width="10" height="10" viewBox="0 0 10 10" fill="none">
+<path d="M5.34944 3.88805H9.47744V5.13605H5.34944V9.26405H4.10144V5.13605H-0.00256243V3.88805H4.10144V4.64916e-05H5.34944V3.88805Z" fill="currentcolor"></path>
+</svg>
+    </button>
+    </div>
+    <label for="variant-select-template--19562841473206__main" class="visually-hidden">Variante</label>
+
+    <select class="variant-select" id="variant-select-template--19562841473206__main" name="id" hidden="">
+    
+    
+    
+
+    <option selected="selected" value="43553413693622" data-pickup=",, ,, ," data-taxable="true" data-pricediff=" 0 " data-taxesincluded="" data-sku="1ec183ec-7f38-48c2-81c1-37f4b64f3ba0" data-price="Rs. 1,200.00" data-cmpprice=" " data-stock="true" data-stockcount="100" data-unitprice="" data-options="24*48 pouces,Bois de pin,Green" data-availablecheck="available" data-unitmeasureprice="   " data-inventorycheck="true" data-continue-selling="false">
+    24*48 pouces / Bois de pin / Green
+    
+    </option>
+
+    </select>
+    <button type="submit" class="flex-grow-1 add-to-cart-button-template--19562841473206__main  btn btn-secondary rounded-pill">
+    
+    Ajouter au panier
+    
+    </button>
+    </div>
+    <div class="  mt-3 ">
+    
+    <div data-shopify="payment-button" class="shopify-payment-button"> <shopify-accelerated-checkout recommended="null" fallback="{&quot;supports_subs&quot;:true,&quot;supports_def_opts&quot;:true,&quot;name&quot;:&quot;buy_it_now&quot;,&quot;wallet_params&quot;:{}}" access-token="54078d7b6d18fae991f7f31757fbea5a" buyer-country="IN" buyer-locale="fr" buyer-currency="INR" variant-params="[{&quot;id&quot;:43553413693622,&quot;requiresShipping&quot;:true},{&quot;id&quot;:43705469206710,&quot;requiresShipping&quot;:true},{&quot;id&quot;:43705469239478,&quot;requiresShipping&quot;:true},{&quot;id&quot;:43705469272246,&quot;requiresShipping&quot;:true},{&quot;id&quot;:43553413726390,&quot;requiresShipping&quot;:true},{&quot;id&quot;:43705469305014,&quot;requiresShipping&quot;:true},{&quot;id&quot;:43705469337782,&quot;requiresShipping&quot;:true},{&quot;id&quot;:43705469370550,&quot;requiresShipping&quot;:true},{&quot;id&quot;:43553413660854,&quot;requiresShipping&quot;:true},{&quot;id&quot;:43705469403318,&quot;requiresShipping&quot;:true},{&quot;id&quot;:43705469436086,&quot;requiresShipping&quot;:true},{&quot;id&quot;:43705469468854,&quot;requiresShipping&quot;:true},{&quot;id&quot;:43553413497014,&quot;requiresShipping&quot;:false},{&quot;id&quot;:43705469501622,&quot;requiresShipping&quot;:true},{&quot;id&quot;:43705469534390,&quot;requiresShipping&quot;:true},{&quot;id&quot;:43705469567158,&quot;requiresShipping&quot;:true},{&quot;id&quot;:43553413529782,&quot;requiresShipping&quot;:true},{&quot;id&quot;:43705469599926,&quot;requiresShipping&quot;:true},{&quot;id&quot;:43705469632694,&quot;requiresShipping&quot;:true},{&quot;id&quot;:43705469665462,&quot;requiresShipping&quot;:true},{&quot;id&quot;:43553413464246,&quot;requiresShipping&quot;:true},{&quot;id&quot;:43705469698230,&quot;requiresShipping&quot;:true},{&quot;id&quot;:43705469730998,&quot;requiresShipping&quot;:true},{&quot;id&quot;:43705469763766,&quot;requiresShipping&quot;:true},{&quot;id&quot;:43553413595318,&quot;requiresShipping&quot;:true},{&quot;id&quot;:43705469796534,&quot;requiresShipping&quot;:true},{&quot;id&quot;:43705469829302,&quot;requiresShipping&quot;:true},{&quot;id&quot;:43705469862070,&quot;requiresShipping&quot;:true},{&quot;id&quot;:43553413628086,&quot;requiresShipping&quot;:true},{&quot;id&quot;:43705469894838,&quot;requiresShipping&quot;:true},{&quot;id&quot;:43705469927606,&quot;requiresShipping&quot;:true},{&quot;id&quot;:43705469960374,&quot;requiresShipping&quot;:true},{&quot;id&quot;:43553413562550,&quot;requiresShipping&quot;:true},{&quot;id&quot;:43705469993142,&quot;requiresShipping&quot;:true},{&quot;id&quot;:43705470025910,&quot;requiresShipping&quot;:true},{&quot;id&quot;:43705470058678,&quot;requiresShipping&quot;:true},{&quot;id&quot;:43553413791926,&quot;requiresShipping&quot;:true},{&quot;id&quot;:43705470091446,&quot;requiresShipping&quot;:true},{&quot;id&quot;:43705470124214,&quot;requiresShipping&quot;:true},{&quot;id&quot;:43705470156982,&quot;requiresShipping&quot;:true},{&quot;id&quot;:43553413824694,&quot;requiresShipping&quot;:true},{&quot;id&quot;:43705470189750,&quot;requiresShipping&quot;:true},{&quot;id&quot;:43705470222518,&quot;requiresShipping&quot;:true},{&quot;id&quot;:43705470255286,&quot;requiresShipping&quot;:true},{&quot;id&quot;:43553413759158,&quot;requiresShipping&quot;:true},{&quot;id&quot;:43705470288054,&quot;requiresShipping&quot;:true},{&quot;id&quot;:43705470320822,&quot;requiresShipping&quot;:true},{&quot;id&quot;:43705470353590,&quot;requiresShipping&quot;:true}]" shop-id="66214723766" enabled-flags="[&quot;ce346acf&quot;,&quot;c0874428&quot;]" requires-shipping=""><shopify-buy-it-now-button access-token="54078d7b6d18fae991f7f31757fbea5a" buyer-country="IN" buyer-currency="INR" wallet-params="{}" page-type="product" slot="button" requires-shipping="" call-to-action=""><button type="button" class="shopify-payment-button__button shopify-payment-button__button--unbranded">Acheter maintenant</button></shopify-buy-it-now-button></shopify-accelerated-checkout> <small id="shopify-buyer-consent" class="hidden" aria-hidden="true" data-consent-type="subscription"> Cet article constitue un achat récurrent ou différé. En continuant, j’accepte la <span id="shopify-subscription-policy-button">politique de résiliation</span> et vous autorise à facturer mon moyen de paiement aux prix, fréquences et dates listées sur cette page jusqu’à ce que ma commande soit traitée ou que je l’annule, si autorisé. </small> </div>
+    
+    </div>
+    </div>
+    
+    
+    
+      
+        
+          <pickup-availability class="pickup--availability block-pickup_availability_3p3kMU">
+            
+            <div class="mt-4">
+              <!-- Pickup Info Section --><div class="pickup_availability mt-4 d-grid align-items-end flex-wrap gap-2">
+                <div>
+                  <p class="mb-1" id="pickup-info">
+                    <svg width="18px" height="18px" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 100 100" style="enable-background:new 0 0 100 100;" xml:space="preserve">
+  <path style="fill:#74CF4C;" d="M1,55.241c4.315-4.334,8.719-8.756,13.27-13.326c3.352,3.332,6.728,6.712,10.112,10.085
+  c3.363,3.352,6.725,6.705,10.173,10.143c17.078-17.03,34.073-33.978,51.194-51.051c4.486,4.456,8.932,8.873,13.253,13.165
+  C77.454,45.866,55.979,67.405,34.539,88.909C23.389,77.715,12.208,66.492,1,55.241z"></path>
+</svg>  Ramassage disponible
+                    <span> India </span>
+                  </p>
+                  <p class="mb-0 pickuptime">Habituellement prête en 2 à 4&nbsp;jours.</p>
+                </div>
+                <div>
+                  <a id="ShowPickupDrawer" class="text-decoration-underline p-0 text-capitalize" data-bs-toggle="offcanvas" data-bs-target="#pickupOffCanvas-pickup-availability" aria-controls="pickupOffCanvas-pickup-availability" tabindex="0" role="button">Voir les informations du magasin
+</a>
+                </div>
+              </div></div>
+            <pickup-drawer class="offcanvas offcanvas-end" data-bs-scroll="false" tabindex="-1" id="pickupOffCanvas-pickup-availability" aria-labelledby="pickupDrawer-heading">
+              <div class="offcanvas-header text-center justify-content-center position-relative">
+                <h1 class="offcanvas-title " id="pickupDrawer">La beauté du ballet</h1>
+                <button type="button" class="btn-close m-3  position-absolute d-flex top-0 end-0" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+              </div>
+              <div class="pickup-variant-details text-center d-flex gap-2 align-items-center justify-content-center mb-4"><div class="pickup-variant-option">
+                
+                24*48 pouces
+
+
+                
+                /
+                
+                Bois de pin
+
+
+                
+                /
+                
+                Green
+
+</div></div>
+              <div class="line-decor position-relative">
+  <div class="container">
+    <div class="d-flex flex-nowrap align-items-center" style=" ">
+      
+      
+          <span class="line-left flex-grow-1"></span>
+          <div class="d-inline-flex divide-icon">
+  <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 102 64.9" style="enable-background:new 0 0 102 64.9;" xml:space="preserve">
+  <path d="M96.5,24.8c4.6-2.7,4.8-5.8,4.4-7.5c-0.6-3.4-4.1-6.4-8.5-7.3c-4.5-1.5-11.9,0.4-21.9,5.9c-3.3-2.3-8.1-6.3-11.9-9.5
+  	c-5.7-4.7-6.9-5.6-7.5-5.7c-0.1,0-0.1-0.1-0.2-0.1c-0.1,0-0.2,0-0.3,0.1h-0.1v0.1c-0.8,0.4-2.4,1.7-7,5.4c-3.9,3.3-8.8,7.3-12.1,9.6
+  	c-10-5.5-17.4-7.5-21.9-5.9c-4.3,0.9-7.9,4-8.5,7.3C0.8,18.8,1,22,5.5,24.7c8.8,5,19-0.4,26.1-5.1c7.2,4.1,13.9,8.9,17.5,11.5
+  	c-5,7.6-9.7,14.7-9.5,20.6c0.2,4.9,2.1,8.8,5.3,10.9c2.8,1.8,6.5,2,9.5,0.5c3.6-1.8,6-5.5,6.8-10.5c1.2-7.7-5.6-17.9-8.3-21.5
+  	c3.6-2.7,10.3-7.4,17.4-11.5C77.4,24.4,87.6,29.8,96.5,24.8L96.5,24.8z M20.5,21.7c-4.3,1.5-8,1.6-11.6,0.2c-1.7-1.2-2.4-2.6-2-4.1
+  	c0.5-1.9,2.6-3.6,4.4-4.3c3.5-1.2,9.2,0.3,17,4.4C25.3,19.6,22.7,20.8,20.5,21.7L20.5,21.7z M57.2,52.4c-0.3,2.9-1.7,4.6-2.8,5.4
+  	c-1.2,0.9-2.7,1.5-4.2,1.5c-0.2,0-0.4,0-0.6,0c-2.6-0.3-5.7-2.4-5.9-7.5c-0.2-5.9,3.3-12.2,7.1-18.2C53.4,37.1,58.3,45.8,57.2,52.4z
+  	 M51,28.6c-3.4-2.5-9.7-7-16.5-11c3.2-2.3,6.3-4.7,9-7l-0.5-0.6l0.5,0.5c2.7-2.1,5.2-4.2,7.3-5.6c2.1,1.4,4.7,3.5,7.4,5.7
+  	c2.8,2.2,5.8,4.6,9,7C60.6,21.7,54.4,26.1,51,28.6z M90.6,13.6c2.1,0.9,4.3,2.8,4.5,4.9c0.1,1.3-0.6,2.5-2.1,3.6
+  	c-6.2,2.4-12.3,0.1-19.4-4.1C81.4,13.8,87.1,12.4,90.6,13.6L90.6,13.6z"></path>
+  </svg>
+</div>
+
+          <span class="line-right flex-grow-1"></span>
+      
+
+    </div>
+  </div>
+</div>
+
+              <div class="offcanvas-body pt-sm-5 default">
+                <div class="chosen text-center pickup_breadcrumb"></div>
+                <!-- All Pickup Locations Section -->
+                <div class="body-container">
+                  
+                  
+                  <div class="pt-4 pb-1"><h3 class="h4 d-flex gap-1 align-items-center"> India </h3>
+                    <p class="mb-2 fw-bold d-flex align-items-center gap-2"> <svg width="18px" height="18px" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 100 100" style="enable-background:new 0 0 100 100;" xml:space="preserve">
+  <path style="fill:#74CF4C;" d="M1,55.241c4.315-4.334,8.719-8.756,13.27-13.326c3.352,3.332,6.728,6.712,10.112,10.085
+  c3.363,3.352,6.725,6.705,10.173,10.143c17.078-17.03,34.073-33.978,51.194-51.051c4.486,4.456,8.932,8.873,13.253,13.165
+  C77.454,45.866,55.979,67.405,34.539,88.909C23.389,77.715,12.208,66.492,1,55.241z"></path>
+</svg> Pickup available, Habituellement prête en 2 à 4&nbsp;jours</p><address class="pickup-availability-address mt-2">
+                      <p>141B,Civil Aerodrome Post<br>641001 Coimbatore TN<br>Inde</p>
+<div class="pt-2">+919876543210</div></address>
+                  </div>
+                  
+                  
+                </div>
+              </div>
+            </pickup-drawer>
+          </pickup-availability>
+        
+      
+
+    
+    
+    <input type="hidden" name="product-id" value="8095401803958" style=""><input type="hidden" name="section-id" value="template--19562841473206__main" style=""></form>
+    <!-- /form -->
+    </div>
+    </div>
+    </div>
+    </div>
+    </div>
+    
+
+    
+    
+
+    <script>
+    function setupShopifyXr(){
+    if (!window.ShopifyXR) {
+    document.addEventListener('shopify_xr_initialized', function() {
+    setupShopifyXr();
+    });
+    } else {
+    window.ShopifyXR.addModels([]);
+    window.ShopifyXR.setupXRElements();
+    }
+    }
+
+    window.Shopify.loadFeatures([
+    {
+    name: 'shopify-xr',
+    version: '1.0',
+    onLoad: setupShopifyXr
+    }
+    ]);
+
+    $(document).ready(function() {
+    var swatch_type =  $('#swatch_typeval').val()
+    var product_varsize = "3";
+    var product_giftcard = "false";
+
+
+
+    });
+
+
+    </script>
+    <script type="application/json" id="ProductJSON-8095401803958">
+    []
+    </script>
+
+    
+
+
+
+
+    
+
+    <script type="application/ld+json">
+    {"@context":"http:\/\/schema.org\/","@id":"\/fr\/products\/the-ballet-beauty#product","@type":"ProductGroup","brand":{"@type":"Brand","name":"Elegance-canvas"},"category":"Toiles à peindre","description":"Œuvre : Œuvre originale, 2024\n\n Dimensions : 8 x 10 pouces\n\n Type de cadre : Sans cadre\n\n Type de peinture : Aquarelle et encre sur papier coton texturé\n\n Détails de l'encadrement : Cadre fin noir ou noyer foncé\n\n Remarque : Certains objets sont fragiles et ne doivent pas être mis directement en contact avec le verre. Pour préserver leurs couleurs et leurs détails, nous recommandons l’utilisation d’un verre résistant aux UV.","hasVariant":[{"@id":"\/fr\/products\/the-ballet-beauty?variant=43553413693622#variant","@type":"Product","image":"https:\/\/elegance-canvas.myshopify.com\/cdn\/shop\/files\/Product10_01_1.jpg?v=1753776354\u0026width=1920","name":"La beauté du ballet - 24*48 pouces \/ Bois de pin \/ Green","offers":{"@id":"\/fr\/products\/the-ballet-beauty?variant=43553413693622#offer","@type":"Offer","availability":"http:\/\/schema.org\/InStock","price":"1200.00","priceCurrency":"INR","url":"https:\/\/elegance-canvas.myshopify.com\/fr\/products\/the-ballet-beauty?variant=43553413693622"},"sku":"1ec183ec-7f38-48c2-81c1-37f4b64f3ba0"},{"@id":"\/fr\/products\/the-ballet-beauty?variant=43705469206710#variant","@type":"Product","image":"https:\/\/elegance-canvas.myshopify.com\/cdn\/shop\/files\/Product10_01_1.jpg?v=1753776354\u0026width=1920","name":"La beauté du ballet - 24*48 pouces \/ Bois de pin \/ Red","offers":{"@id":"\/fr\/products\/the-ballet-beauty?variant=43705469206710#offer","@type":"Offer","availability":"http:\/\/schema.org\/InStock","price":"1200.00","priceCurrency":"INR","url":"https:\/\/elegance-canvas.myshopify.com\/fr\/products\/the-ballet-beauty?variant=43705469206710"}},{"@id":"\/fr\/products\/the-ballet-beauty?variant=43705469239478#variant","@type":"Product","image":"https:\/\/elegance-canvas.myshopify.com\/cdn\/shop\/files\/Product10_01_1.jpg?v=1753776354\u0026width=1920","name":"La beauté du ballet - 24*48 pouces \/ Bois de pin \/ Blue","offers":{"@id":"\/fr\/products\/the-ballet-beauty?variant=43705469239478#offer","@type":"Offer","availability":"http:\/\/schema.org\/InStock","price":"1200.00","priceCurrency":"INR","url":"https:\/\/elegance-canvas.myshopify.com\/fr\/products\/the-ballet-beauty?variant=43705469239478"}},{"@id":"\/fr\/products\/the-ballet-beauty?variant=43705469272246#variant","@type":"Product","image":"https:\/\/elegance-canvas.myshopify.com\/cdn\/shop\/files\/Product10_01_1.jpg?v=1753776354\u0026width=1920","name":"La beauté du ballet - 24*48 pouces \/ Bois de pin \/ Yellow","offers":{"@id":"\/fr\/products\/the-ballet-beauty?variant=43705469272246#offer","@type":"Offer","availability":"http:\/\/schema.org\/InStock","price":"1200.00","priceCurrency":"INR","url":"https:\/\/elegance-canvas.myshopify.com\/fr\/products\/the-ballet-beauty?variant=43705469272246"}},{"@id":"\/fr\/products\/the-ballet-beauty?variant=43553413726390#variant","@type":"Product","image":"https:\/\/elegance-canvas.myshopify.com\/cdn\/shop\/files\/Product10_01_1.jpg?v=1753776354\u0026width=1920","name":"La beauté du ballet - 24*48 pouces \/ Bois de récupération \/ Green","offers":{"@id":"\/fr\/products\/the-ballet-beauty?variant=43553413726390#offer","@type":"Offer","availability":"http:\/\/schema.org\/InStock","price":"1200.00","priceCurrency":"INR","url":"https:\/\/elegance-canvas.myshopify.com\/fr\/products\/the-ballet-beauty?variant=43553413726390"}},{"@id":"\/fr\/products\/the-ballet-beauty?variant=43705469305014#variant","@type":"Product","image":"https:\/\/elegance-canvas.myshopify.com\/cdn\/shop\/files\/Product10_01_1.jpg?v=1753776354\u0026width=1920","name":"La beauté du ballet - 24*48 pouces \/ Bois de récupération \/ Red","offers":{"@id":"\/fr\/products\/the-ballet-beauty?variant=43705469305014#offer","@type":"Offer","availability":"http:\/\/schema.org\/InStock","price":"1200.00","priceCurrency":"INR","url":"https:\/\/elegance-canvas.myshopify.com\/fr\/products\/the-ballet-beauty?variant=43705469305014"}},{"@id":"\/fr\/products\/the-ballet-beauty?variant=43705469337782#variant","@type":"Product","image":"https:\/\/elegance-canvas.myshopify.com\/cdn\/shop\/files\/Product10_01_1.jpg?v=1753776354\u0026width=1920","name":"La beauté du ballet - 24*48 pouces \/ Bois de récupération \/ Blue","offers":{"@id":"\/fr\/products\/the-ballet-beauty?variant=43705469337782#offer","@type":"Offer","availability":"http:\/\/schema.org\/InStock","price":"1200.00","priceCurrency":"INR","url":"https:\/\/elegance-canvas.myshopify.com\/fr\/products\/the-ballet-beauty?variant=43705469337782"}},{"@id":"\/fr\/products\/the-ballet-beauty?variant=43705469370550#variant","@type":"Product","image":"https:\/\/elegance-canvas.myshopify.com\/cdn\/shop\/files\/Product10_01_1.jpg?v=1753776354\u0026width=1920","name":"La beauté du ballet - 24*48 pouces \/ Bois de récupération \/ Yellow","offers":{"@id":"\/fr\/products\/the-ballet-beauty?variant=43705469370550#offer","@type":"Offer","availability":"http:\/\/schema.org\/InStock","price":"1200.00","priceCurrency":"INR","url":"https:\/\/elegance-canvas.myshopify.com\/fr\/products\/the-ballet-beauty?variant=43705469370550"}},{"@id":"\/fr\/products\/the-ballet-beauty?variant=43553413660854#variant","@type":"Product","image":"https:\/\/elegance-canvas.myshopify.com\/cdn\/shop\/files\/Product10_01_1.jpg?v=1753776354\u0026width=1920","name":"La beauté du ballet - 24*48 pouces \/ Bois massif \/ Green","offers":{"@id":"\/fr\/products\/the-ballet-beauty?variant=43553413660854#offer","@type":"Offer","availability":"http:\/\/schema.org\/InStock","price":"1200.00","priceCurrency":"INR","url":"https:\/\/elegance-canvas.myshopify.com\/fr\/products\/the-ballet-beauty?variant=43553413660854"}},{"@id":"\/fr\/products\/the-ballet-beauty?variant=43705469403318#variant","@type":"Product","image":"https:\/\/elegance-canvas.myshopify.com\/cdn\/shop\/files\/Product10_01_1.jpg?v=1753776354\u0026width=1920","name":"La beauté du ballet - 24*48 pouces \/ Bois massif \/ Red","offers":{"@id":"\/fr\/products\/the-ballet-beauty?variant=43705469403318#offer","@type":"Offer","availability":"http:\/\/schema.org\/InStock","price":"1200.00","priceCurrency":"INR","url":"https:\/\/elegance-canvas.myshopify.com\/fr\/products\/the-ballet-beauty?variant=43705469403318"}},{"@id":"\/fr\/products\/the-ballet-beauty?variant=43705469436086#variant","@type":"Product","image":"https:\/\/elegance-canvas.myshopify.com\/cdn\/shop\/files\/Product10_01_1.jpg?v=1753776354\u0026width=1920","name":"La beauté du ballet - 24*48 pouces \/ Bois massif \/ Blue","offers":{"@id":"\/fr\/products\/the-ballet-beauty?variant=43705469436086#offer","@type":"Offer","availability":"http:\/\/schema.org\/InStock","price":"1200.00","priceCurrency":"INR","url":"https:\/\/elegance-canvas.myshopify.com\/fr\/products\/the-ballet-beauty?variant=43705469436086"}},{"@id":"\/fr\/products\/the-ballet-beauty?variant=43705469468854#variant","@type":"Product","image":"https:\/\/elegance-canvas.myshopify.com\/cdn\/shop\/files\/Product10_01_1.jpg?v=1753776354\u0026width=1920","name":"La beauté du ballet - 24*48 pouces \/ Bois massif \/ Yellow","offers":{"@id":"\/fr\/products\/the-ballet-beauty?variant=43705469468854#offer","@type":"Offer","availability":"http:\/\/schema.org\/InStock","price":"1200.00","priceCurrency":"INR","url":"https:\/\/elegance-canvas.myshopify.com\/fr\/products\/the-ballet-beauty?variant=43705469468854"}},{"@id":"\/fr\/products\/the-ballet-beauty?variant=43553413497014#variant","@type":"Product","image":"https:\/\/elegance-canvas.myshopify.com\/cdn\/shop\/files\/Product10_02.jpg?v=1766225924\u0026width=1920","mpn":"978-3-16-148410-0","name":"La beauté du ballet - 12*24 pouces \/ Bois de pin \/ Green","offers":{"@id":"\/fr\/products\/the-ballet-beauty?variant=43553413497014#offer","@type":"Offer","availability":"http:\/\/schema.org\/InStock","price":"2200.00","priceCurrency":"INR","url":"https:\/\/elegance-canvas.myshopify.com\/fr\/products\/the-ballet-beauty?variant=43553413497014"},"sku":"ART-GPP-12x24-MC-SILK"},{"@id":"\/fr\/products\/the-ballet-beauty?variant=43705469501622#variant","@type":"Product","image":"https:\/\/elegance-canvas.myshopify.com\/cdn\/shop\/files\/Product10_02.jpg?v=1766225924\u0026width=1920","name":"La beauté du ballet - 12*24 pouces \/ Bois de pin \/ Red","offers":{"@id":"\/fr\/products\/the-ballet-beauty?variant=43705469501622#offer","@type":"Offer","availability":"http:\/\/schema.org\/InStock","price":"1200.00","priceCurrency":"INR","url":"https:\/\/elegance-canvas.myshopify.com\/fr\/products\/the-ballet-beauty?variant=43705469501622"}},{"@id":"\/fr\/products\/the-ballet-beauty?variant=43705469534390#variant","@type":"Product","image":"https:\/\/elegance-canvas.myshopify.com\/cdn\/shop\/files\/Product10_02.jpg?v=1766225924\u0026width=1920","name":"La beauté du ballet - 12*24 pouces \/ Bois de pin \/ Blue","offers":{"@id":"\/fr\/products\/the-ballet-beauty?variant=43705469534390#offer","@type":"Offer","availability":"http:\/\/schema.org\/InStock","price":"1200.00","priceCurrency":"INR","url":"https:\/\/elegance-canvas.myshopify.com\/fr\/products\/the-ballet-beauty?variant=43705469534390"}},{"@id":"\/fr\/products\/the-ballet-beauty?variant=43705469567158#variant","@type":"Product","image":"https:\/\/elegance-canvas.myshopify.com\/cdn\/shop\/files\/Product10_02.jpg?v=1766225924\u0026width=1920","name":"La beauté du ballet - 12*24 pouces \/ Bois de pin \/ Yellow","offers":{"@id":"\/fr\/products\/the-ballet-beauty?variant=43705469567158#offer","@type":"Offer","availability":"http:\/\/schema.org\/InStock","price":"1200.00","priceCurrency":"INR","url":"https:\/\/elegance-canvas.myshopify.com\/fr\/products\/the-ballet-beauty?variant=43705469567158"}},{"@id":"\/fr\/products\/the-ballet-beauty?variant=43553413529782#variant","@type":"Product","image":"https:\/\/elegance-canvas.myshopify.com\/cdn\/shop\/files\/Product10_02.jpg?v=1766225924\u0026width=1920","name":"La beauté du ballet - 12*24 pouces \/ Bois de récupération \/ Green","offers":{"@id":"\/fr\/products\/the-ballet-beauty?variant=43553413529782#offer","@type":"Offer","availability":"http:\/\/schema.org\/InStock","price":"2200.00","priceCurrency":"INR","url":"https:\/\/elegance-canvas.myshopify.com\/fr\/products\/the-ballet-beauty?variant=43553413529782"},"sku":"123"},{"@id":"\/fr\/products\/the-ballet-beauty?variant=43705469599926#variant","@type":"Product","image":"https:\/\/elegance-canvas.myshopify.com\/cdn\/shop\/files\/Product10_02.jpg?v=1766225924\u0026width=1920","name":"La beauté du ballet - 12*24 pouces \/ Bois de récupération \/ Red","offers":{"@id":"\/fr\/products\/the-ballet-beauty?variant=43705469599926#offer","@type":"Offer","availability":"http:\/\/schema.org\/InStock","price":"1200.00","priceCurrency":"INR","url":"https:\/\/elegance-canvas.myshopify.com\/fr\/products\/the-ballet-beauty?variant=43705469599926"}},{"@id":"\/fr\/products\/the-ballet-beauty?variant=43705469632694#variant","@type":"Product","image":"https:\/\/elegance-canvas.myshopify.com\/cdn\/shop\/files\/Product10_02.jpg?v=1766225924\u0026width=1920","name":"La beauté du ballet - 12*24 pouces \/ Bois de récupération \/ Blue","offers":{"@id":"\/fr\/products\/the-ballet-beauty?variant=43705469632694#offer","@type":"Offer","availability":"http:\/\/schema.org\/InStock","price":"1200.00","priceCurrency":"INR","url":"https:\/\/elegance-canvas.myshopify.com\/fr\/products\/the-ballet-beauty?variant=43705469632694"}},{"@id":"\/fr\/products\/the-ballet-beauty?variant=43705469665462#variant","@type":"Product","image":"https:\/\/elegance-canvas.myshopify.com\/cdn\/shop\/files\/Product10_02.jpg?v=1766225924\u0026width=1920","name":"La beauté du ballet - 12*24 pouces \/ Bois de récupération \/ Yellow","offers":{"@id":"\/fr\/products\/the-ballet-beauty?variant=43705469665462#offer","@type":"Offer","availability":"http:\/\/schema.org\/InStock","price":"1200.00","priceCurrency":"INR","url":"https:\/\/elegance-canvas.myshopify.com\/fr\/products\/the-ballet-beauty?variant=43705469665462"}},{"@id":"\/fr\/products\/the-ballet-beauty?variant=43553413464246#variant","@type":"Product","image":"https:\/\/elegance-canvas.myshopify.com\/cdn\/shop\/files\/Product10_02.jpg?v=1766225924\u0026width=1920","name":"La beauté du ballet - 12*24 pouces \/ Bois sculpté \/ Green","offers":{"@id":"\/fr\/products\/the-ballet-beauty?variant=43553413464246#offer","@type":"Offer","availability":"http:\/\/schema.org\/InStock","price":"2200.00","priceCurrency":"INR","url":"https:\/\/elegance-canvas.myshopify.com\/fr\/products\/the-ballet-beauty?variant=43553413464246"}},{"@id":"\/fr\/products\/the-ballet-beauty?variant=43705469698230#variant","@type":"Product","image":"https:\/\/elegance-canvas.myshopify.com\/cdn\/shop\/files\/Product10_02.jpg?v=1766225924\u0026width=1920","name":"La beauté du ballet - 12*24 pouces \/ Bois sculpté \/ Red","offers":{"@id":"\/fr\/products\/the-ballet-beauty?variant=43705469698230#offer","@type":"Offer","availability":"http:\/\/schema.org\/InStock","price":"1200.00","priceCurrency":"INR","url":"https:\/\/elegance-canvas.myshopify.com\/fr\/products\/the-ballet-beauty?variant=43705469698230"}},{"@id":"\/fr\/products\/the-ballet-beauty?variant=43705469730998#variant","@type":"Product","image":"https:\/\/elegance-canvas.myshopify.com\/cdn\/shop\/files\/Product10_02.jpg?v=1766225924\u0026width=1920","name":"La beauté du ballet - 12*24 pouces \/ Bois sculpté \/ Blue","offers":{"@id":"\/fr\/products\/the-ballet-beauty?variant=43705469730998#offer","@type":"Offer","availability":"http:\/\/schema.org\/InStock","price":"1200.00","priceCurrency":"INR","url":"https:\/\/elegance-canvas.myshopify.com\/fr\/products\/the-ballet-beauty?variant=43705469730998"}},{"@id":"\/fr\/products\/the-ballet-beauty?variant=43705469763766#variant","@type":"Product","image":"https:\/\/elegance-canvas.myshopify.com\/cdn\/shop\/files\/Product10_02.jpg?v=1766225924\u0026width=1920","name":"La beauté du ballet - 12*24 pouces \/ Bois sculpté \/ Yellow","offers":{"@id":"\/fr\/products\/the-ballet-beauty?variant=43705469763766#offer","@type":"Offer","availability":"http:\/\/schema.org\/InStock","price":"1200.00","priceCurrency":"INR","url":"https:\/\/elegance-canvas.myshopify.com\/fr\/products\/the-ballet-beauty?variant=43705469763766"}},{"@id":"\/fr\/products\/the-ballet-beauty?variant=43553413595318#variant","@type":"Product","image":"https:\/\/elegance-canvas.myshopify.com\/cdn\/shop\/files\/Product10_03.jpg?v=1766225924\u0026width=1920","name":"La beauté du ballet - 12*48 pouces \/ Bois de pin \/ Green","offers":{"@id":"\/fr\/products\/the-ballet-beauty?variant=43553413595318#offer","@type":"Offer","availability":"http:\/\/schema.org\/InStock","price":"2500.00","priceCurrency":"INR","url":"https:\/\/elegance-canvas.myshopify.com\/fr\/products\/the-ballet-beauty?variant=43553413595318"}},{"@id":"\/fr\/products\/the-ballet-beauty?variant=43705469796534#variant","@type":"Product","image":"https:\/\/elegance-canvas.myshopify.com\/cdn\/shop\/files\/Product10_03.jpg?v=1766225924\u0026width=1920","name":"La beauté du ballet - 12*48 pouces \/ Bois de pin \/ Red","offers":{"@id":"\/fr\/products\/the-ballet-beauty?variant=43705469796534#offer","@type":"Offer","availability":"http:\/\/schema.org\/InStock","price":"1200.00","priceCurrency":"INR","url":"https:\/\/elegance-canvas.myshopify.com\/fr\/products\/the-ballet-beauty?variant=43705469796534"}},{"@id":"\/fr\/products\/the-ballet-beauty?variant=43705469829302#variant","@type":"Product","image":"https:\/\/elegance-canvas.myshopify.com\/cdn\/shop\/files\/Product10_03.jpg?v=1766225924\u0026width=1920","name":"La beauté du ballet - 12*48 pouces \/ Bois de pin \/ Blue","offers":{"@id":"\/fr\/products\/the-ballet-beauty?variant=43705469829302#offer","@type":"Offer","availability":"http:\/\/schema.org\/InStock","price":"1200.00","priceCurrency":"INR","url":"https:\/\/elegance-canvas.myshopify.com\/fr\/products\/the-ballet-beauty?variant=43705469829302"}},{"@id":"\/fr\/products\/the-ballet-beauty?variant=43705469862070#variant","@type":"Product","image":"https:\/\/elegance-canvas.myshopify.com\/cdn\/shop\/files\/Product10_03.jpg?v=1766225924\u0026width=1920","name":"La beauté du ballet - 12*48 pouces \/ Bois de pin \/ Yellow","offers":{"@id":"\/fr\/products\/the-ballet-beauty?variant=43705469862070#offer","@type":"Offer","availability":"http:\/\/schema.org\/InStock","price":"1200.00","priceCurrency":"INR","url":"https:\/\/elegance-canvas.myshopify.com\/fr\/products\/the-ballet-beauty?variant=43705469862070"}},{"@id":"\/fr\/products\/the-ballet-beauty?variant=43553413628086#variant","@type":"Product","image":"https:\/\/elegance-canvas.myshopify.com\/cdn\/shop\/files\/Product10_03.jpg?v=1766225924\u0026width=1920","name":"La beauté du ballet - 12*48 pouces \/ Bois de récupération \/ Green","offers":{"@id":"\/fr\/products\/the-ballet-beauty?variant=43553413628086#offer","@type":"Offer","availability":"http:\/\/schema.org\/InStock","price":"2500.00","priceCurrency":"INR","url":"https:\/\/elegance-canvas.myshopify.com\/fr\/products\/the-ballet-beauty?variant=43553413628086"}},{"@id":"\/fr\/products\/the-ballet-beauty?variant=43705469894838#variant","@type":"Product","image":"https:\/\/elegance-canvas.myshopify.com\/cdn\/shop\/files\/Product10_03.jpg?v=1766225924\u0026width=1920","name":"La beauté du ballet - 12*48 pouces \/ Bois de récupération \/ Red","offers":{"@id":"\/fr\/products\/the-ballet-beauty?variant=43705469894838#offer","@type":"Offer","availability":"http:\/\/schema.org\/InStock","price":"1200.00","priceCurrency":"INR","url":"https:\/\/elegance-canvas.myshopify.com\/fr\/products\/the-ballet-beauty?variant=43705469894838"}},{"@id":"\/fr\/products\/the-ballet-beauty?variant=43705469927606#variant","@type":"Product","image":"https:\/\/elegance-canvas.myshopify.com\/cdn\/shop\/files\/Product10_03.jpg?v=1766225924\u0026width=1920","name":"La beauté du ballet - 12*48 pouces \/ Bois de récupération \/ Blue","offers":{"@id":"\/fr\/products\/the-ballet-beauty?variant=43705469927606#offer","@type":"Offer","availability":"http:\/\/schema.org\/InStock","price":"1200.00","priceCurrency":"INR","url":"https:\/\/elegance-canvas.myshopify.com\/fr\/products\/the-ballet-beauty?variant=43705469927606"}},{"@id":"\/fr\/products\/the-ballet-beauty?variant=43705469960374#variant","@type":"Product","image":"https:\/\/elegance-canvas.myshopify.com\/cdn\/shop\/files\/Product10_03.jpg?v=1766225924\u0026width=1920","name":"La beauté du ballet - 12*48 pouces \/ Bois de récupération \/ Yellow","offers":{"@id":"\/fr\/products\/the-ballet-beauty?variant=43705469960374#offer","@type":"Offer","availability":"http:\/\/schema.org\/InStock","price":"1200.00","priceCurrency":"INR","url":"https:\/\/elegance-canvas.myshopify.com\/fr\/products\/the-ballet-beauty?variant=43705469960374"}},{"@id":"\/fr\/products\/the-ballet-beauty?variant=43553413562550#variant","@type":"Product","image":"https:\/\/elegance-canvas.myshopify.com\/cdn\/shop\/files\/Product10_03.jpg?v=1766225924\u0026width=1920","name":"La beauté du ballet - 12*48 pouces \/ Bois massif \/ Green","offers":{"@id":"\/fr\/products\/the-ballet-beauty?variant=43553413562550#offer","@type":"Offer","availability":"http:\/\/schema.org\/InStock","price":"2500.00","priceCurrency":"INR","url":"https:\/\/elegance-canvas.myshopify.com\/fr\/products\/the-ballet-beauty?variant=43553413562550"}},{"@id":"\/fr\/products\/the-ballet-beauty?variant=43705469993142#variant","@type":"Product","image":"https:\/\/elegance-canvas.myshopify.com\/cdn\/shop\/files\/Product10_03.jpg?v=1766225924\u0026width=1920","name":"La beauté du ballet - 12*48 pouces \/ Bois massif \/ Red","offers":{"@id":"\/fr\/products\/the-ballet-beauty?variant=43705469993142#offer","@type":"Offer","availability":"http:\/\/schema.org\/InStock","price":"1200.00","priceCurrency":"INR","url":"https:\/\/elegance-canvas.myshopify.com\/fr\/products\/the-ballet-beauty?variant=43705469993142"}},{"@id":"\/fr\/products\/the-ballet-beauty?variant=43705470025910#variant","@type":"Product","image":"https:\/\/elegance-canvas.myshopify.com\/cdn\/shop\/files\/Product10_03.jpg?v=1766225924\u0026width=1920","name":"La beauté du ballet - 12*48 pouces \/ Bois massif \/ Blue","offers":{"@id":"\/fr\/products\/the-ballet-beauty?variant=43705470025910#offer","@type":"Offer","availability":"http:\/\/schema.org\/InStock","price":"1200.00","priceCurrency":"INR","url":"https:\/\/elegance-canvas.myshopify.com\/fr\/products\/the-ballet-beauty?variant=43705470025910"}},{"@id":"\/fr\/products\/the-ballet-beauty?variant=43705470058678#variant","@type":"Product","image":"https:\/\/elegance-canvas.myshopify.com\/cdn\/shop\/files\/Product10_03.jpg?v=1766225924\u0026width=1920","name":"La beauté du ballet - 12*48 pouces \/ Bois massif \/ Yellow","offers":{"@id":"\/fr\/products\/the-ballet-beauty?variant=43705470058678#offer","@type":"Offer","availability":"http:\/\/schema.org\/InStock","price":"1200.00","priceCurrency":"INR","url":"https:\/\/elegance-canvas.myshopify.com\/fr\/products\/the-ballet-beauty?variant=43705470058678"}},{"@id":"\/fr\/products\/the-ballet-beauty?variant=43553413791926#variant","@type":"Product","image":"https:\/\/elegance-canvas.myshopify.com\/cdn\/shop\/files\/Product10_04.jpg?v=1766225924\u0026width=1920","name":"La beauté du ballet - 48*96 pouces \/ Bois de pin \/ Green","offers":{"@id":"\/fr\/products\/the-ballet-beauty?variant=43553413791926#offer","@type":"Offer","availability":"http:\/\/schema.org\/InStock","price":"2850.00","priceCurrency":"INR","url":"https:\/\/elegance-canvas.myshopify.com\/fr\/products\/the-ballet-beauty?variant=43553413791926"}},{"@id":"\/fr\/products\/the-ballet-beauty?variant=43705470091446#variant","@type":"Product","image":"https:\/\/elegance-canvas.myshopify.com\/cdn\/shop\/files\/Product10_04.jpg?v=1766225924\u0026width=1920","name":"La beauté du ballet - 48*96 pouces \/ Bois de pin \/ Red","offers":{"@id":"\/fr\/products\/the-ballet-beauty?variant=43705470091446#offer","@type":"Offer","availability":"http:\/\/schema.org\/InStock","price":"1200.00","priceCurrency":"INR","url":"https:\/\/elegance-canvas.myshopify.com\/fr\/products\/the-ballet-beauty?variant=43705470091446"}},{"@id":"\/fr\/products\/the-ballet-beauty?variant=43705470124214#variant","@type":"Product","image":"https:\/\/elegance-canvas.myshopify.com\/cdn\/shop\/files\/Product10_04.jpg?v=1766225924\u0026width=1920","name":"La beauté du ballet - 48*96 pouces \/ Bois de pin \/ Blue","offers":{"@id":"\/fr\/products\/the-ballet-beauty?variant=43705470124214#offer","@type":"Offer","availability":"http:\/\/schema.org\/InStock","price":"1200.00","priceCurrency":"INR","url":"https:\/\/elegance-canvas.myshopify.com\/fr\/products\/the-ballet-beauty?variant=43705470124214"}},{"@id":"\/fr\/products\/the-ballet-beauty?variant=43705470156982#variant","@type":"Product","image":"https:\/\/elegance-canvas.myshopify.com\/cdn\/shop\/files\/Product10_04.jpg?v=1766225924\u0026width=1920","name":"La beauté du ballet - 48*96 pouces \/ Bois de pin \/ Yellow","offers":{"@id":"\/fr\/products\/the-ballet-beauty?variant=43705470156982#offer","@type":"Offer","availability":"http:\/\/schema.org\/InStock","price":"1200.00","priceCurrency":"INR","url":"https:\/\/elegance-canvas.myshopify.com\/fr\/products\/the-ballet-beauty?variant=43705470156982"}},{"@id":"\/fr\/products\/the-ballet-beauty?variant=43553413824694#variant","@type":"Product","image":"https:\/\/elegance-canvas.myshopify.com\/cdn\/shop\/files\/Product10_04.jpg?v=1766225924\u0026width=1920","name":"La beauté du ballet - 48*96 pouces \/ Bois de récupération \/ Green","offers":{"@id":"\/fr\/products\/the-ballet-beauty?variant=43553413824694#offer","@type":"Offer","availability":"http:\/\/schema.org\/InStock","price":"2850.00","priceCurrency":"INR","url":"https:\/\/elegance-canvas.myshopify.com\/fr\/products\/the-ballet-beauty?variant=43553413824694"}},{"@id":"\/fr\/products\/the-ballet-beauty?variant=43705470189750#variant","@type":"Product","image":"https:\/\/elegance-canvas.myshopify.com\/cdn\/shop\/files\/Product10_04.jpg?v=1766225924\u0026width=1920","name":"La beauté du ballet - 48*96 pouces \/ Bois de récupération \/ Red","offers":{"@id":"\/fr\/products\/the-ballet-beauty?variant=43705470189750#offer","@type":"Offer","availability":"http:\/\/schema.org\/InStock","price":"1200.00","priceCurrency":"INR","url":"https:\/\/elegance-canvas.myshopify.com\/fr\/products\/the-ballet-beauty?variant=43705470189750"}},{"@id":"\/fr\/products\/the-ballet-beauty?variant=43705470222518#variant","@type":"Product","image":"https:\/\/elegance-canvas.myshopify.com\/cdn\/shop\/files\/Product10_04.jpg?v=1766225924\u0026width=1920","name":"La beauté du ballet - 48*96 pouces \/ Bois de récupération \/ Blue","offers":{"@id":"\/fr\/products\/the-ballet-beauty?variant=43705470222518#offer","@type":"Offer","availability":"http:\/\/schema.org\/InStock","price":"1200.00","priceCurrency":"INR","url":"https:\/\/elegance-canvas.myshopify.com\/fr\/products\/the-ballet-beauty?variant=43705470222518"}},{"@id":"\/fr\/products\/the-ballet-beauty?variant=43705470255286#variant","@type":"Product","image":"https:\/\/elegance-canvas.myshopify.com\/cdn\/shop\/files\/Product10_04.jpg?v=1766225924\u0026width=1920","name":"La beauté du ballet - 48*96 pouces \/ Bois de récupération \/ Yellow","offers":{"@id":"\/fr\/products\/the-ballet-beauty?variant=43705470255286#offer","@type":"Offer","availability":"http:\/\/schema.org\/InStock","price":"1200.00","priceCurrency":"INR","url":"https:\/\/elegance-canvas.myshopify.com\/fr\/products\/the-ballet-beauty?variant=43705470255286"}},{"@id":"\/fr\/products\/the-ballet-beauty?variant=43553413759158#variant","@type":"Product","image":"https:\/\/elegance-canvas.myshopify.com\/cdn\/shop\/files\/Product10_04.jpg?v=1766225924\u0026width=1920","name":"La beauté du ballet - 48*96 pouces \/ Bois massif \/ Green","offers":{"@id":"\/fr\/products\/the-ballet-beauty?variant=43553413759158#offer","@type":"Offer","availability":"http:\/\/schema.org\/InStock","price":"2850.00","priceCurrency":"INR","url":"https:\/\/elegance-canvas.myshopify.com\/fr\/products\/the-ballet-beauty?variant=43553413759158"}},{"@id":"\/fr\/products\/the-ballet-beauty?variant=43705470288054#variant","@type":"Product","image":"https:\/\/elegance-canvas.myshopify.com\/cdn\/shop\/files\/Product10_04.jpg?v=1766225924\u0026width=1920","name":"La beauté du ballet - 48*96 pouces \/ Bois massif \/ Red","offers":{"@id":"\/fr\/products\/the-ballet-beauty?variant=43705470288054#offer","@type":"Offer","availability":"http:\/\/schema.org\/InStock","price":"1200.00","priceCurrency":"INR","url":"https:\/\/elegance-canvas.myshopify.com\/fr\/products\/the-ballet-beauty?variant=43705470288054"}},{"@id":"\/fr\/products\/the-ballet-beauty?variant=43705470320822#variant","@type":"Product","image":"https:\/\/elegance-canvas.myshopify.com\/cdn\/shop\/files\/Product10_04.jpg?v=1766225924\u0026width=1920","name":"La beauté du ballet - 48*96 pouces \/ Bois massif \/ Blue","offers":{"@id":"\/fr\/products\/the-ballet-beauty?variant=43705470320822#offer","@type":"Offer","availability":"http:\/\/schema.org\/InStock","price":"1200.00","priceCurrency":"INR","url":"https:\/\/elegance-canvas.myshopify.com\/fr\/products\/the-ballet-beauty?variant=43705470320822"}},{"@id":"\/fr\/products\/the-ballet-beauty?variant=43705470353590#variant","@type":"Product","image":"https:\/\/elegance-canvas.myshopify.com\/cdn\/shop\/files\/Product10_04.jpg?v=1766225924\u0026width=1920","name":"La beauté du ballet - 48*96 pouces \/ Bois massif \/ Yellow","offers":{"@id":"\/fr\/products\/the-ballet-beauty?variant=43705470353590#offer","@type":"Offer","availability":"http:\/\/schema.org\/InStock","price":"1200.00","priceCurrency":"INR","url":"https:\/\/elegance-canvas.myshopify.com\/fr\/products\/the-ballet-beauty?variant=43705470353590"}}],"name":"La beauté du ballet","productGroupID":"8095401803958","url":"https:\/\/elegance-canvas.myshopify.com\/fr\/products\/the-ballet-beauty"}
+    </script>
+
+
+  
+</main-product>
+</section>
+```
+
+## 2. shopify-section-template--19562841473206__related_product_d6tyGJ
+
+- Tag: section
+- Classes: shopify-section section section-related-product
+- Headings: Related products
+
+```html
+<section id="shopify-section-template--19562841473206__related_product_d6tyGJ" class="shopify-section section section-related-product"><link href="//elegance-canvas.myshopify.com/cdn/shop/t/139/assets/curve-seperator.css?v=95287128624772789801774876171" rel="stylesheet" type="text/css" media="all">
+<div class="modal fade video-modal" id="videoModalLabel" tabindex="-1" aria-labelledby="videoModalLabel" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered modal-xl">
+    <div class="modal-content">
+      <div class="modal-header">
+        
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Fermer"></button>
+      </div>
+      <div class="modal-body p-0">
+        <div class="quickview-modal row row-cols-2">
+          <div class="quickview_swiper swiper">
+            <div class="swiper-wrapper">
+              <div class="swiper-slide">
+                
+                  <svg class="placeholder-svg" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 525.5 525.5"><path d="M375.5 345.2c0-.1 0-.1 0 0 0-.1 0-.1 0 0-1.1-2.9-2.3-5.5-3.4-7.8-1.4-4.7-2.4-13.8-.5-19.8 3.4-10.6 3.6-40.6 1.2-54.5-2.3-14-12.3-29.8-18.5-36.9-5.3-6.2-12.8-14.9-15.4-17.9 8.6-5.6 13.3-13.3 14-23 0-.3 0-.6.1-.8.4-4.1-.6-9.9-3.9-13.5-2.1-2.3-4.8-3.5-8-3.5h-54.9c-.8-7.1-3-13-5.2-17.5-6.8-13.9-12.5-16.5-21.2-16.5h-.7c-8.7 0-14.4 2.5-21.2 16.5-2.2 4.5-4.4 10.4-5.2 17.5h-48.5c-3.2 0-5.9 1.2-8 3.5-3.2 3.6-4.3 9.3-3.9 13.5 0 .2 0 .5.1.8.7 9.8 5.4 17.4 14 23-2.6 3.1-10.1 11.7-15.4 17.9-6.1 7.2-16.1 22.9-18.5 36.9-2.2 13.3-1.2 47.4 1 54.9 1.1 3.8 1.4 14.5-.2 19.4-1.2 2.4-2.3 5-3.4 7.9-4.4 11.6-6.2 26.3-5 32.6 1.8 9.9 16.5 14.4 29.4 14.4h176.8c12.9 0 27.6-4.5 29.4-14.4 1.2-6.5-.5-21.1-5-32.7zm-97.7-178c.3-3.2.8-10.6-.2-18 2.4 4.3 5 10.5 5.9 18h-5.7zm-36.3-17.9c-1 7.4-.5 14.8-.2 18h-5.7c.9-7.5 3.5-13.7 5.9-18zm4.5-6.9c0-.1.1-.2.1-.4 4.4-5.3 8.4-5.8 13.1-5.8h.7c4.7 0 8.7.6 13.1 5.8 0 .1 0 .2.1.4 3.2 8.9 2.2 21.2 1.8 25h-30.7c-.4-3.8-1.3-16.1 1.8-25zm-70.7 42.5c0-.3 0-.6-.1-.9-.3-3.4.5-8.4 3.1-11.3 1-1.1 2.1-1.7 3.4-2.1l-.6.6c-2.8 3.1-3.7 8.1-3.3 11.6 0 .2 0 .5.1.8.3 3.5.9 11.7 10.6 18.8.3.2.8.2 1-.2.2-.3.2-.8-.2-1-9.2-6.7-9.8-14.4-10-17.7 0-.3 0-.6-.1-.8-.3-3.2.5-7.7 3-10.5.8-.8 1.7-1.5 2.6-1.9h155.7c1 .4 1.9 1.1 2.6 1.9 2.5 2.8 3.3 7.3 3 10.5 0 .2 0 .5-.1.8-.3 3.6-1 13.1-13.8 20.1-.3.2-.5.6-.3 1 .1.2.4.4.6.4.1 0 .2 0 .3-.1 13.5-7.5 14.3-17.5 14.6-21.3 0-.3 0-.5.1-.8.4-3.5-.5-8.5-3.3-11.6l-.6-.6c1.3.4 2.5 1.1 3.4 2.1 2.6 2.9 3.5 7.9 3.1 11.3 0 .3 0 .6-.1.9-1.5 20.9-23.6 31.4-65.5 31.4h-43.8c-41.8 0-63.9-10.5-65.4-31.4zm91 89.1h-7c0-1.5 0-3-.1-4.2-.2-12.5-2.2-31.1-2.7-35.1h3.6c.8 0 1.4-.6 1.4-1.4v-14.1h2.4v14.1c0 .8.6 1.4 1.4 1.4h3.7c-.4 3.9-2.4 22.6-2.7 35.1v4.2zm65.3 11.9h-16.8c-.4 0-.7.3-.7.7 0 .4.3.7.7.7h16.8v2.8h-62.2c0-.9-.1-1.9-.1-2.8h33.9c.4 0 .7-.3.7-.7 0-.4-.3-.7-.7-.7h-33.9c-.1-3.2-.1-6.3-.1-9h62.5v9zm-12.5 24.4h-6.3l.2-1.6h5.9l.2 1.6zm-5.8-4.5l1.6-12.3h2l1.6 12.3h-5.2zm-57-19.9h-62.4v-9h62.5c0 2.7 0 5.8-.1 9zm-62.4 1.4h62.4c0 .9-.1 1.8-.1 2.8H194v-2.8zm65.2 0h7.3c0 .9.1 1.8.1 2.8H259c.1-.9.1-1.8.1-2.8zm7.2-1.4h-7.2c.1-3.2.1-6.3.1-9h7c0 2.7 0 5.8.1 9zm-7.7-66.7v6.8h-9v-6.8h9zm-8.9 8.3h9v.7h-9v-.7zm0 2.1h9v2.3h-9v-2.3zm26-1.4h-9v-.7h9v.7zm-9 3.7v-2.3h9v2.3h-9zm9-5.9h-9v-6.8h9v6.8zm-119.3 91.1c-2.1-7.1-3-40.9-.9-53.6 2.2-13.5 11.9-28.6 17.8-35.6 5.6-6.5 13.5-15.7 15.7-18.3 11.4 6.4 28.7 9.6 51.8 9.6h6v14.1c0 .8.6 1.4 1.4 1.4h5.4c.3 3.1 2.4 22.4 2.7 35.1 0 1.2.1 2.6.1 4.2h-63.9c-.8 0-1.4.6-1.4 1.4v16.1c0 .8.6 1.4 1.4 1.4H256c-.8 11.8-2.8 24.7-8 33.3-2.6 4.4-4.9 8.5-6.9 12.2-.4.7-.1 1.6.6 1.9.2.1.4.2.6.2.5 0 1-.3 1.3-.8 1.9-3.7 4.2-7.7 6.8-12.1 5.4-9.1 7.6-22.5 8.4-34.7h7.8c.7 11.2 2.6 23.5 7.1 32.4.2.5.8.8 1.3.8.2 0 .4 0 .6-.2.7-.4 1-1.2.6-1.9-4.3-8.5-6.1-20.3-6.8-31.1H312l-2.4 18.6c-.1.4.1.8.3 1.1.3.3.7.5 1.1.5h9.6c.4 0 .8-.2 1.1-.5.3-.3.4-.7.3-1.1l-2.4-18.6H333c.8 0 1.4-.6 1.4-1.4v-16.1c0-.8-.6-1.4-1.4-1.4h-63.9c0-1.5 0-2.9.1-4.2.2-12.7 2.3-32 2.7-35.1h5.2c.8 0 1.4-.6 1.4-1.4v-14.1h6.2c23.1 0 40.4-3.2 51.8-9.6 2.3 2.6 10.1 11.8 15.7 18.3 5.9 6.9 15.6 22.1 17.8 35.6 2.2 13.4 2 43.2-1.1 53.1-1.2 3.9-1.4 8.7-1 13-1.7-2.8-2.9-4.4-3-4.6-.2-.3-.6-.5-.9-.6h-.5c-.2 0-.4.1-.5.2-.6.5-.8 1.4-.3 2 0 0 .2.3.5.8 1.4 2.1 5.6 8.4 8.9 16.7h-42.9v-43.8c0-.8-.6-1.4-1.4-1.4s-1.4.6-1.4 1.4v44.9c0 .1-.1.2-.1.3 0 .1 0 .2.1.3v9c-1.1 2-3.9 3.7-10.5 3.7h-7.5c-.4 0-.7.3-.7.7 0 .4.3.7.7.7h7.5c5 0 8.5-.9 10.5-2.8-.1 3.1-1.5 6.5-10.5 6.5H210.4c-9 0-10.5-3.4-10.5-6.5 2 1.9 5.5 2.8 10.5 2.8h67.4c.4 0 .7-.3.7-.7 0-.4-.3-.7-.7-.7h-67.4c-6.7 0-9.4-1.7-10.5-3.7v-54.5c0-.8-.6-1.4-1.4-1.4s-1.4.6-1.4 1.4v43.8h-43.6c4.2-10.2 9.4-17.4 9.5-17.5.5-.6.3-1.5-.3-2s-1.5-.3-2 .3c-.1.2-1.4 2-3.2 5 .1-4.9-.4-10.2-1.1-12.8zm221.4 60.2c-1.5 8.3-14.9 12-26.6 12H174.4c-11.8 0-25.1-3.8-26.6-12-1-5.7.6-19.3 4.6-30.2H197v9.8c0 6.4 4.5 9.7 13.4 9.7h105.4c8.9 0 13.4-3.3 13.4-9.7v-9.8h44c4 10.9 5.6 24.5 4.6 30.2z"></path><path d="M286.1 359.3c0 .4.3.7.7.7h14.7c.4 0 .7-.3.7-.7 0-.4-.3-.7-.7-.7h-14.7c-.3 0-.7.3-.7.7zm5.3-145.6c13.5-.5 24.7-2.3 33.5-5.3.4-.1.6-.5.4-.9-.1-.4-.5-.6-.9-.4-8.6 3-19.7 4.7-33 5.2-.4 0-.7.3-.7.7 0 .4.3.7.7.7zm-11.3.1c.4 0 .7-.3.7-.7 0-.4-.3-.7-.7-.7H242c-19.9 0-35.3-2.5-45.9-7.4-.4-.2-.8 0-.9.3-.2.4 0 .8.3.9 10.8 5 26.4 7.5 46.5 7.5h38.1zm-7.2 116.9c.4.1.9.1 1.4.1 1.7 0 3.4-.7 4.7-1.9 1.4-1.4 1.9-3.2 1.5-5-.2-.8-.9-1.2-1.7-1.1-.8.2-1.2.9-1.1 1.7.3 1.2-.4 2-.7 2.4-.9.9-2.2 1.3-3.4 1-.8-.2-1.5.3-1.7 1.1s.2 1.5 1 1.7z"></path><path d="M275.5 331.6c-.8 0-1.4.6-1.5 1.4 0 .8.6 1.4 1.4 1.5h.3c3.6 0 7-2.8 7.7-6.3.2-.8-.4-1.5-1.1-1.7-.8-.2-1.5.4-1.7 1.1-.4 2.3-2.8 4.2-5.1 4zm5.4 1.6c-.6.5-.6 1.4-.1 2 1.1 1.3 2.5 2.2 4.2 2.8.2.1.3.1.5.1.6 0 1.1-.3 1.3-.9.3-.7-.1-1.6-.8-1.8-1.2-.5-2.2-1.2-3-2.1-.6-.6-1.5-.6-2.1-.1zm-38.2 12.7c.5 0 .9 0 1.4-.1.8-.2 1.3-.9 1.1-1.7-.2-.8-.9-1.3-1.7-1.1-1.2.3-2.5-.1-3.4-1-.4-.4-1-1.2-.8-2.4.2-.8-.3-1.5-1.1-1.7-.8-.2-1.5.3-1.7 1.1-.4 1.8.1 3.7 1.5 5 1.2 1.2 2.9 1.9 4.7 1.9z"></path><path d="M241.2 349.6h.3c.8 0 1.4-.7 1.4-1.5s-.7-1.4-1.5-1.4c-2.3.1-4.6-1.7-5.1-4-.2-.8-.9-1.3-1.7-1.1-.8.2-1.3.9-1.1 1.7.7 3.5 4.1 6.3 7.7 6.3zm-9.7 3.6c.2 0 .3 0 .5-.1 1.6-.6 3-1.6 4.2-2.8.5-.6.5-1.5-.1-2s-1.5-.5-2 .1c-.8.9-1.8 1.6-3 2.1-.7.3-1.1 1.1-.8 1.8 0 .6.6.9 1.2.9z"></path></svg>
+                
+              </div>
+            </div>
+            <div class="swiper-next"></div>
+            <div class="swiper-prev"></div>
+          </div>
+          <div class="quickview_content mt-3">
+            <div class="quickview_vendor"></div>
+            <div class="description"></div>
+            <div class="product_title"></div>
+            <div class="product_price"></div>
+            <div class="product_tax"></div>
+            <div id="variant-list"></div>
+            <button class="quickadd-to-cart">Add to cart</button>
+          </div>
+          <!-- Content will be populated dynamically -->
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+<style data-shopify="">
+  
+    .featuredCollection {
+      padding-bottom: 20px;
+      padding-top: 20px;
+    }
+
+    @media screen and (min-width: 768px) {
+      .featuredCollection {
+        padding-bottom: 40px;
+        padding-top: 40px;
+      }
+    }
+  
+
+  
+    .section-related-product .product_slider .swiper-slide.swiper-slide-prev .card .card-image:hover .icon_container,
+    .section-related-product .product_slider .swiper-slide.swiper-slide-next .card .card-image:hover .icon_container {
+      opacity: 0;
+    }
+  
+</style>
+
+<product-slider class="related-product">
+  <div class="product_slider-template--19562841473206__related_product_d6tyGJ position-relative" data-section-id="template--19562841473206__related_product_d6tyGJ" data-layout-style="angled" data-desktop-grid="3" data-autoplay-delay="1000" data-space="20">
+    <div class="section-template--19562841473206__related_product_d6tyGJ-padding  color-scheme-3 curvy seperator position-relative slide_product">
+      
+        
+
+<style data-shopify="">
+  .section-template--19562841473206__related_product_d6tyGJ-padding { position: relative; z-index: calc(100 - 2); }
+  .section-template--19562841473206__related_product_d6tyGJ-padding .wdt-separator.wdt-separator__stroke {
+    overflow: visible;
+    width: calc(100% + 40px);
+    left: -20px;
+    -webkit-transform: translate(0%, -10%);
+    transform: translate(0%, -10%);
+    z-index: 8;
+  }
+  .section-template--19562841473206__related_product_d6tyGJ-padding .wdt-separator.wdt-separator__stroke .separator__stroke { stroke-width: 100; }
+</style>
+
+
+  <svg class="wdt-separator wdt-separator__stroke wdt-separator__top" viewBox="0 0 1920 154.3" preserveAspectRatio="none">
+    <path class="wdt__stroke_anim separator__stroke" id="text-path-item" d="M2.1,154.8C303,56.9,625.1,3.9,960,3.9c335,0,657.3,53.1,958.4,151" fill="none" stroke="rgba(var(--color-background), 0.3)"></path>
+  </svg>
+
+
+  <svg class="wdt-separator wdt-separator__stroke wdt-separator__down" viewBox="0 0 1920 154.3" preserveAspectRatio="none">
+    <path class="wdt__stroke_anim separator__stroke" id="text-path-item" d="M2.1,154.8C303,56.9,625.1,3.9,960,3.9c335,0,657.3,53.1,958.4,151" fill="none" stroke="rgba(var(--color-background), 0.3)"></path>
+  </svg>
+
+
+        <style data-shopify="">
+
+  
+  .seperator:has(> .curve-on-top)::before, .seperator:has(> .curve-on-bottom)::after,
+  .seperator:has(> .curve-on-both)::before, .seperator:has(> .curve-on-both)::after { 
+    display: block !important;
+    position: relative; 
+    content: ""; 
+    right: 0; 
+    left: 0; 
+    width: 100%; 
+    height: 15vw; 
+    background: var(--bs-body-bg);
+  }
+    .seperator:has(svg.wdt-separator.wdt-separator__stroke.wdt-separator__down):after {
+    bottom: -2px;
+    }
+    .seperator:has(svg.wdt-separator.wdt-separator__stroke.wdt-separator__top):before {
+    top: -2px;
+    }
+
+  /* Svg Wave */
+
+   .wdt-separator { z-index: 9; pointer-events: none; width: 100%; height: 15vw; fill: var(--gradient-background); display: block; position: absolute; width: calc(100% + 10px); left: -5px; }
+   .wdt-separator__top { top: 2px; /* -webkit-transform: translateY(-100%); transform: translateY(-100%); */}
+   .wdt-separator__down { bottom: 1px; /* -webkit-transform: translateY(100%); transform: translateY(100%); */  rotate: 180deg; filter:  }
+
+   .wdt-separator__top:is( .curve-on-invert-top, .curve-on-invert-both ) { top: -1px; /* -webkit-transform: translateY(-100%); transform: translateY(-100%); */ }
+   .wdt-separator__down:is( .curve-on-invert-bottom, .curve-on-invert-both ) { bottom: -1px; /* -webkit-transform: translateY(100%); transform: translateY(100%); */  rotate: 0deg; }
+
+
+
+
+
+
+  .section-template--19562841473206__related_product_d6tyGJ-padding.curvy{ 
+    
+        margin-top:6vw; 
+   
+   
+        margin-bottom:6vw;
+   
+}
+</style>
+
+  <svg class="wdt-separator wdt-separator__top curve-on-both" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 154.3" preserveAspectRatio="none">
+    <path class="wdt__path_anim separator__path" vector-effect="non-scaling-stroke" d="M2.1,154.8C303,56.9,625.1,3.9,960,3.9c335,0,657.3,53.1,958.4,151"></path>
+  </svg>
+
+
+
+  <svg class="wdt-separator wdt-separator__down curve-on-both" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 154.3" preserveAspectRatio="none">
+    <path class="wdt__path_anim separator__path" vector-effect="non-scaling-stroke" d="M2.1,154.8C303,56.9,625.1,3.9,960,3.9c335,0,657.3,53.1,958.4,151"></path>
+  </svg>
+
+
+ 
+
+ 
+
+      
+
+      <div class="product_slider position-relative  container-fluid px-0 ">
+        <div class="my-carousel product-recommendations-template--19562841473206__related_product_d6tyGJ" data-url="/fr/recommendations/products?section_id=template--19562841473206__related_product_d6tyGJ&amp;product_id=8095401803958">
+          <div class="swiper my-carousel__swiper-template--19562841473206__related_product_d6tyGJ position-relative pt-5 swiper-creative swiper-3d swiper-initialized swiper-horizontal swiper-watch-progress">
+            <div class="col-11 col-md-9 mx-auto">
+              <style data-shopify="">
+
+
+  .title-container{ margin-bottom:clamp(1.875rem, 1.625rem + 1.25vw, 3.125rem); }
+    @media (min-width: 576px) {
+       .title-container{
+        max-width:90%;
+      }
+   }
+    @media (max-width: 575.98px) {
+       .title-container{
+        max-width:100%;
+      }
+   }
+  
+
+  /* 
+     @media (min-width: 576px) {
+      .title-container{
+        max-width:90%;
+      }
+     }
+      */
+  
+</style>
+<div class="text-break title-container text-center mx-auto   position-relative z-3"><h2 class="mx-auto col-11 col-lg-9 h1">
+        Related products
+      </h2></div>
+            </div>
+
+            <div class="swiper-wrapper" id="swiper-wrapper-800cde165cb626b3" aria-live="polite" style="transform: translateX(calc(50% + 0px)); transition-duration: 0ms; transition-delay: 0ms;"></div>
+
+            
+              
+                <div class="my-carousel__actions d-flex gap-5   z-1 position-xl-absolute align-items-end top-50 start-0 end-0 justify-content-center justify-content-lg-evenly">
+                  <div class="btn--subtle my-carousel__control d-inline-flex my-carousel__control--prev main-prev swiper-prev swiper-button-lock" aria-label="Previous slide" tabindex="0" role="button" aria-controls="swiper-wrapper-800cde165cb626b3">
+                    
+
+<svg width="84" height="19" viewBox="0 0 84 19" fill="currentColor" xmlns="http://www.w3.org/2000/svg" class="icon_one">
+<path d="M83.9959 8.57675C65.7529 8.57675 47.514 8.58075 29.2711 8.58476C28.7374 8.58476 28.3055 8.14399 28.3381 7.61907C28.7374 1.66061 24.1257 -1.85756 18.5037 1.02349C12.4295 4.13295 9.12149 7.60304 1.11625 8.38842C0.814783 8.42047 0.566274 8.53667 0.350356 8.74905C0.118143 8.97745 0 9.25794 0 9.58251C0 10.1074 0.399243 10.5482 0.932926 10.6123C5.8257 11.1693 10.417 12.9524 14.7109 15.9817C20.5529 20.0729 28.4074 21.267 28.3911 11.3496C28.3911 10.8567 28.7903 10.4641 29.2914 10.4641C47.5263 10.4641 65.7652 10.46 84 10.456V8.57274L83.9959 8.57675ZM13.2484 9.41822L13.2972 9.99123C13.3298 10.3679 13.5295 10.5482 13.9124 10.5482L25.0953 10.6283C25.7105 10.6283 26.0934 10.9249 26.2278 11.5299C27.5111 17.4243 21.9014 18.3058 18.0556 15.7854C14.662 13.5575 11.2318 11.6782 7.75266 10.1235C7.23527 9.91109 7.21897 9.66666 7.70377 9.38617L20.3696 2.24965C21.9665 1.33204 24.0157 1.69267 25.2134 3.09914C26.3134 4.42546 26.676 5.84796 26.3134 7.38666C26.1464 8.0919 25.4986 8.59678 24.749 8.61281L13.9328 8.67692C13.4521 8.69295 13.2158 8.93738 13.2524 9.41421L13.2484 9.41822Z" fill="currentColor"></path>
+</svg>
+
+
+
+
+ 
+                  </div>
+                  <div class="btn--subtle my-carousel__control my-carousel__control--next main-next swiper-next swiper-button-lock" aria-label="Next slide" tabindex="0" role="button" aria-controls="swiper-wrapper-800cde165cb626b3">
+                    
+
+<svg width="84" height="19" viewBox="0 0 84 19" fill="currentColor" xmlns="http://www.w3.org/2000/svg" class="icon_one">
+<path d="M0.0040741 8.57675C18.2471 8.57675 36.486 8.58075 54.7289 8.58476C55.2626 8.58476 55.6945 8.14399 55.6619 7.61907C55.2626 1.66061 59.8743 -1.85756 65.4963 1.02349C71.5705 4.13295 74.8785 7.60304 82.8837 8.38842C83.1852 8.42047 83.4337 8.53667 83.6496 8.74905C83.8819 8.97745 84 9.25794 84 9.58251C84 10.1074 83.6008 10.5482 83.0671 10.6123C78.1743 11.1693 73.583 12.9524 69.2891 15.9817C63.4471 20.0729 55.5926 21.267 55.6089 11.3496C55.6089 10.8567 55.2097 10.4641 54.7086 10.4641C36.4737 10.4641 18.2348 10.46 0 10.456V8.57274L0.0040741 8.57675ZM70.7516 9.41822L70.7028 9.99123C70.6702 10.3679 70.4705 10.5482 70.0876 10.5482L58.9047 10.6283C58.2895 10.6283 57.9066 10.9249 57.7722 11.5299C56.4889 17.4243 62.0986 18.3058 65.9444 15.7854C69.338 13.5575 72.7682 11.6782 76.2473 10.1235C76.7647 9.91109 76.781 9.66666 76.2962 9.38617L63.6304 2.24965C62.0335 1.33204 59.9843 1.69267 58.7866 3.09914C57.6866 4.42546 57.324 5.84796 57.6866 7.38666C57.8536 8.0919 58.5014 8.59678 59.251 8.61281L70.0672 8.67692C70.5479 8.69295 70.7842 8.93738 70.7476 9.41421L70.7516 9.41822Z" fill="currentColor"></path>
+</svg>
+
+
+                  </div>
+                </div>
+              
+            
+          <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
+        </div>
+      </div>
+    </div>
+  </div>
+</product-slider>
+
+
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  function removeTabindexProductSlider(sectionId) {
+    const allSlides = document.querySelectorAll(
+      `.related-product .product_slider-${sectionId} .swiper-slide`
+    );
+
+    allSlides.forEach((slide) => {
+      if (slide.classList.contains("swiper-slide-active")) {
+        slide.removeAttribute("tabindex");
+        slide.querySelectorAll("a").forEach((anchor) => {
+          anchor.removeAttribute("tabindex");
+        });
+        slide.querySelectorAll("button").forEach((button) => {
+          button.removeAttribute("tabindex");
+        });
+        slide
+          .querySelectorAll(".swatches_container span")
+          .forEach((swatch) => {
+            swatch.setAttribute("tabindex", "0");
+          });
+      } else {
+        slide.setAttribute("tabindex", "-1");
+        slide.querySelectorAll("a").forEach((anchor) => {
+          anchor.setAttribute("tabindex", "-1");
+        });
+        slide.querySelectorAll("button").forEach((button) => {
+          button.setAttribute("tabindex", "-1");
+        });
+        slide
+          .querySelectorAll(".swatches_container span")
+          .forEach((swatch) => {
+            swatch.removeAttribute("tabindex");
+          });
+      }
+    });
+  }
+
+  function relatedProductElements() {
+    const sliderEl = document.querySelector(
+      ".product_slider-template--19562841473206__related_product_d6tyGJ"
+    );
+    if (!sliderEl) return;
+
+    const sectionId = sliderEl.dataset.sectionId;
+    const layoutStyle = sliderEl.dataset.layoutStyle || "grid";
+    const layoutSpace = parseInt(sliderEl.dataset.space || "0", 10);
+    const desktopGrid = parseInt(
+      sliderEl.dataset.desktopGrid || "3",
+      10
+    );
+    const autoplayDelay = parseInt(
+      sliderEl.dataset.autoplayDelay || "0",
+      10
+    );
+
+    let swiperInstance = null;
+    let isUpdating = false;
+
+    const checkIsMobile = () => window.innerWidth <= 991;
+    let isMobile = checkIsMobile();
+
+    const swiperConfigurations = {
+      angled: {
+        options: {
+          loop: true,
+          grabCursor: false,
+          effect: isMobile ? "slide" : "creative",
+          centeredSlides: true,
+          slideToClickedSlide: true,
+          spaceBetween: 0,
+          observer: true,
+          observeParents: true,
+          navigation: {
+            nextEl: ".related-product .my-carousel__control--next",
+            prevEl: ".related-product .my-carousel__control--prev",
+          },
+          pagination: {
+            el: ".swiper-pagination-template--19562841473206__related_product_d6tyGJ",
+            clickable: true,
+          },
+          
+          creativeEffect: {
+            perspective: true,
+            limitProgress: 3,
+            observer: true,
+            observeParents: true,
+            prev: {
+              translate: ["-150%", "0%", 0],
+              rotate: [0, 0, -30],
+              scale: 0.8,
+              origin: "top",
+            },
+            next: {
+              translate: ["150%", "0%", 0],
+              rotate: [0, 0, 30],
+              scale: 0.8,
+              origin: "top",
+            },
+          },
+          breakpoints: {
+            320: {
+              slidesPerView: 1,
+              effect: "slide",
+            },
+            576: {
+              slidesPerView: 3,
+              effect: "slide",
+            },
+            992: {
+              slidesPerView: 3,
+              effect: "creative",
+            },
+          },
+        },
+      },
+      grid: {
+        options: {
+          loop: false,
+          grabCursor: true,
+          slidesPerView: 3,
+          observer: true,
+          observeParents: true,
+          
+          spaceBetween: layoutSpace ,
+          navigation: {
+            nextEl: ".related-product .my-carousel__control--next",
+            prevEl: ".related-product .my-carousel__control--prev",
+          },
+          pagination: {
+            el: ".swiper-pagination-template--19562841473206__related_product_d6tyGJ",
+            clickable: true,
+          },
+          breakpoints: {
+              320: {
+                   slidesPerView: 1,
+              },
+              480: {
+                  slidesPerView: 2,
+                  spaceBetween: layoutSpace * 0.5,
+              },
+              768: {
+                  slidesPerView: 3,
+                  spaceBetween: layoutSpace * 0.5,
+              },
+              992: {
+                  slidesPerView: 3,
+                  spaceBetween: layoutSpace * 0.8,
+              },
+              1200: {
+                  slidesPerView: desktopGrid,
+                  spaceBetween: layoutSpace
+              },
+          },
+        },
+      },
+    };
+
+    const initializeSwiper = () => {
+      isMobile = checkIsMobile();
+
+      if (swiperInstance && !swiperInstance.destroyed) {
+        swiperInstance.destroy(true, true);
+        swiperInstance = null;
+      }
+
+      const config =
+        swiperConfigurations[layoutStyle] || swiperConfigurations.grid;
+      const options = JSON.parse(JSON.stringify(config.options));
+
+      if (layoutStyle === "angled") {
+        options.effect = isMobile ? "slide" : "creative";
+      }
+
+      swiperInstance = new Swiper(
+        `.related-product .my-carousel__swiper-${sectionId}`,
+        options
+      );
+      if (layoutStyle === "angled") {
+
+        swiperInstance.on("slideChange", function () {
+          setTimeout(function () {
+            removeTabindexProductSlider(sectionId);
+          }, 100);
+        });
+
+        swiperInstance.on("init", function () {
+          removeTabindexProductSlider(sectionId);
+          setTimeout(function () {
+            removeTabindexProductSlider(sectionId);
+          }, 100);
+        });
+      }
+
+      return swiperInstance;
+    };
+
+    const productRecommendationsSection = sliderEl.querySelector(
+      ".product-recommendations-template--19562841473206__related_product_d6tyGJ"
+    );
+
+    if (productRecommendationsSection) {
+      const observer = new IntersectionObserver(
+        (entries) => {
+          if (!entries[0].isIntersecting) return;
+          observer.unobserve(productRecommendationsSection);
+
+          const url = productRecommendationsSection.dataset.url;
+
+          fetch(url, { headers: { Accept: "application/json" } })
+            .then((response) => response.json())
+            .then((data) => {
+              !data.products?.length
+                ? productRecommendationsSection
+                    .closest(".shopify-section")
+                    ?.classList.add("d-none")
+                : console.log(
+                    data.products.length,
+                    "recommendations data"
+                  );
+            })
+            .catch((error) => {
+              productRecommendationsSection
+                .closest("product-slider")
+                ?.remove();
+            });
+
+          fetch(url)
+            .then((response) => response.text())
+            .then((text) => {
+              const html = document.createElement("div");
+              html.innerHTML = text;
+              const recommendations = html.querySelector(
+                ".product-recommendations-template--19562841473206__related_product_d6tyGJ"
+              );
+              if (recommendations && recommendations.innerHTML.trim().length) {
+                productRecommendationsSection.innerHTML =
+                  recommendations.innerHTML;
+                initializeSwiper();
+              }
+            })
+            .catch((e) => console.error(e));
+        },
+        { rootMargin: "0px 0px 200px 0px" }
+      );
+
+      observer.observe(productRecommendationsSection);
+    } else {
+      initializeSwiper();
+    }
+
+    let resizeTimeout;
+    const handleResize = () => {
+      clearTimeout(resizeTimeout);
+      resizeTimeout = setTimeout(() => {
+        swiperInstance = initializeSwiper();
+      }, 250);
+    };
+
+    window.addEventListener("resize", handleResize);
+  }
+
+  // Initial load
+  relatedProductElements();
+
+  if (window.Shopify && Shopify.designMode) {
+    document.addEventListener("shopify:section:load", (event) => {
+      if (!event.target.matches("#shopify-section-template--19562841473206__related_product_d6tyGJ")) return;
+      setTimeout(() => {
+        relatedProductElements();
+      }, 300);
+    });
+
+    document.addEventListener("shopify:section:reorder", (event) => {
+      if (!event.target.matches("#shopify-section-template--19562841473206__related_product_d6tyGJ")) return;
+      setTimeout(() => {
+        relatedProductElements();
+      }, 300);
+    });
+  }
+});
+</script>
+
+</section>
+```
+
+## 3. shopify-section-template--19562841473206__icons_with_text_JgJ4PV
+
+- Tag: section
+- Classes: shopify-section icons-with-text
+- Headings: Expressive Elements | Artist Workshops | Seasonal Art Shows
+
+```html
+<section id="shopify-section-template--19562841473206__icons_with_text_JgJ4PV" class="shopify-section icons-with-text"><style data-shopify="">.section-template--19562841473206__icons_with_text_JgJ4PV-padding {
+    padding-top: 70px;
+    padding-bottom: 70px;
+  }
+
+  @media screen and (min-width: 768px) {
+    .section-template--19562841473206__icons_with_text_JgJ4PV-padding {
+      padding-top: 105px;
+      padding-bottom: 105px;
+    }
+  }
+  @media screen and (min-width: 1200px) {
+    .section-template--19562841473206__icons_with_text_JgJ4PV-padding {
+      padding-top: 140px;
+      padding-bottom: 140px;
+    }
+  }</style>
+<style data-shopify="">#shopify-section-template--19562841473206__icons_with_text_JgJ4PV .text-icon .swiper-wrapper .swiper-slide .card .card-image svg{ width:100%; height:100%;}
+    #shopify-section-template--19562841473206__icons_with_text_JgJ4PV .text-icon .card .card-body .card-text{ width:100%; max-width: min(450px, 85%);}
+    
+     #shopify-section-template--19562841473206__icons_with_text_JgJ4PV .text-icon .card .card-body .card-text{ width:100%; max-width: min(450px, 85%); }
+    
+    .icons-with-text .section-template--19562841473206__icons_with_text_JgJ4PV .card-image > svg {width:100%; height:100%;}
+    .icons-with-text .section-template--19562841473206__icons_with_text_JgJ4PV .multi-content .card .card-body{max-width:fit-content;}</style>
+
+
+<style data-shopify="">.section-template--19562841473206__icons_with_text_JgJ4PV .swiper:not(.swiper-initialized) :is(.swiper-prev, .swiper-next){ display: none !important; }
+
+@media screen and (min-width: 576px){  
+.section-template--19562841473206__icons_with_text_JgJ4PV .swiper:not(.swiper-initialized) .swiper-wrapper .swiper-slide  {
+width: calc((100% - 20px * 1 ) / 2);
+margin-right:20px; 
+}
+}
+ 
+@media screen and (min-width: 992px){  
+ .section-template--19562841473206__icons_with_text_JgJ4PV .swiper:not(.swiper-initialized) .swiper-wrapper .swiper-slide  {
+width: calc((100% - 20px * 2 ) / 3);
+margin-right:20px; 
+}
+} 
+
+@media screen and (min-width: 1200px){
+
+  
+.section-template--19562841473206__icons_with_text_JgJ4PV .swiper:not(.swiper-initialized) .swiper-wrapper .swiper-slide  {
+width: calc((100% - 20px * 2 ) / 3);
+margin-right:20px; 
+}
+
+}</style>
+<div class="icons-with-text text-icon color-scheme-1">
+  <div class="section-template--19562841473206__icons_with_text_JgJ4PV section-template--19562841473206__icons_with_text_JgJ4PV-padding container-fluid">
+    <style data-shopify="">
+
+
+  .title-container{ margin-bottom:clamp(1.875rem, 1.625rem + 1.25vw, 3.125rem); }
+</style>
+
+    
+      <section-swiper-slide>
+        <div data-slider-options="
+            {
+                &quot;desktop&quot;: &quot;3&quot;,
+                &quot;laptop&quot;: &quot;2&quot;,
+                &quot;tablet&quot;: &quot;2&quot;,
+                &quot;mobile&quot;: &quot;1&quot;,
+                &quot;loop&quot;: &quot;false&quot;,
+                &quot;mode&quot;: &quot;false&quot;,
+                &quot;auto_play&quot;: &quot;0&quot;,
+                &quot;dots&quot;: &quot;&quot;,
+               &quot;space&quot;: &quot;20&quot;
+            }
+          ">
+    
+    <div class="swiper swiper-container-icons-with-text-template--19562841473206__icons_with_text_JgJ4PV swiper-initialized swiper-horizontal swiper-backface-hidden" data-swiper-slider="">
+      <div class="swiper-wrapper multi-content" id="swiper-wrapper-9205991213fc8933" aria-live="polite" style="transform: translate3d(0px, 0px, 0px);">
+<div class="position-relative swiper-slide mobile-1 tablet-2 laptop-2 desktop-3 swiper-slide-active" role="group" aria-label="1 / 3" style="width: 457.333px; margin-right: 20px;">
+          <div class="card  flex-column align-items-md-center align-items-center gap-4 ">
+            
+              <div class="card-image overflow-hidden flex-shrink-0" style="width:100px;height:100px;"><img src="//elegance-canvas.myshopify.com/cdn/shop/files/icon-3.png?v=1725372956&amp;width=150" alt="our works" srcset="//elegance-canvas.myshopify.com/cdn/shop/files/icon-3.png?v=1725372956&amp;width=150 150w" width="150" height="259" loading="lazy" class="object-fit-contain w-100 h-100">
+</div>
+            
+            <div class="card-body p-0 text-break gap-2 d-flex flex-column text-sm-center text-center "><h2 class="card-title mb-0">Expressive Elements</h2><div class="
+                    card-text mb-0  mx-md-auto 
+                     mx-auto mx-md-0 
+                  ">
+                  Our gallery showcases a variety of art, from modern creations to timeless classics.
+                </div>
+</div>
+          </div>
+        </div><div class="position-relative swiper-slide mobile-1 tablet-2 laptop-2 desktop-3 swiper-slide-next" role="group" aria-label="2 / 3" style="width: 457.333px; margin-right: 20px;">
+          <div class="card  flex-column align-items-md-center align-items-center gap-4 ">
+            
+              <div class="card-image overflow-hidden flex-shrink-0" style="width:100px;height:100px;"><img src="//elegance-canvas.myshopify.com/cdn/shop/files/icon-1.png?v=1725372956&amp;width=150" alt="Artist Workshops" srcset="//elegance-canvas.myshopify.com/cdn/shop/files/icon-1.png?v=1725372956&amp;width=150 150w" width="150" height="151" loading="lazy" class="object-fit-contain w-100 h-100">
+</div>
+            
+            <div class="card-body p-0 text-break gap-2 d-flex flex-column text-sm-center text-center "><h2 class="card-title mb-0">Artist Workshops</h2><div class="
+                    card-text mb-0  mx-md-auto 
+                     mx-auto mx-md-0 
+                  ">
+                  We host seminars and workshops where visitors can meet and learn from local artists.
+                </div>
+</div>
+          </div>
+        </div><div class="position-relative  swiper-slide mobile-1 tablet-2 laptop-2 desktop-3
+ " role="group" aria-label="3 / 3" style="width: 457.333px; margin-right: 20px;">
+          <div class="card  flex-column align-items-md-center align-items-center gap-4 ">
+            
+              <div class="card-image overflow-hidden flex-shrink-0" style="width:100px;height:100px;"><img src="//elegance-canvas.myshopify.com/cdn/shop/files/icon-2.png?v=1725372957&amp;width=150" alt="Seasonal Art Shows" srcset="//elegance-canvas.myshopify.com/cdn/shop/files/icon-2.png?v=1725372957&amp;width=150 150w" width="150" height="203" loading="lazy" class="object-fit-contain w-100 h-100">
+</div>
+            
+            <div class="card-body p-0 text-break gap-2 d-flex flex-column text-sm-center text-center "><h2 class="card-title mb-0">Seasonal Art Shows</h2><div class="
+                    card-text mb-0  mx-md-auto 
+                     mx-auto mx-md-0 
+                  ">
+                  Our displays are regularly updated with new artists and styles to keep things fresh.
+                </div>
+</div>
+          </div>
+        </div></div>
+
+      <!-- --Pagination -->
+      
+        
+      
+
+    <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
+    
+    </div>
+      </section-swiper-slide>
+    
+  </div>
+</div>
+
+
+
+</section>
+```

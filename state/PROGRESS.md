@@ -2,46 +2,41 @@
 
 ## Current Phase
 
-- `Verified`: Roadmap phase: the bounded shoppable-media runway remains complete, unresolved companion-family work remains explicitly deferred, and the repo remains paused at the docs-only Phase 4 homepage-first preset-pack contract-definition frontier after `UNIT-141` preserved the post-`UNIT-140` governed pause unchanged.
+- `Verified`: Roadmap phase: the global shell/navigation reopen boundary has passed, and the repo now proceeds only to a docs-only shell/navigation runtime-boundary package.
 
 ## Approved Next Action
 
-- `Verified`: `UNIT-141` maintain a governed pause at the Phase 4 homepage-first preset-pack contract-definition frontier until fresh canonical evidence justifies any new planning or implementation-admission review.
+- `Verified`: `UNIT-152` is explicitly approved as the next docs-only lane because `UNIT-146` passed; keep `UNIT-147` through `UNIT-151` conditional and blocked until predecessor checks explicitly approve their domains.
 
 ## Last Completed Unit
 
-- `Verified`: Unit ID: `UNIT-141`
-- `Verified`: Summary: maintained the governed pause at the homepage-first preset-pack contract-definition frontier, preserved the exact homepage-only preset composition/defaults contract from `UNIT-139` and `UNIT-140`, and left all blocked collection/PDP domains and runtime authorization fail-closed.
+- `Verified`: Unit ID: `UNIT-146`
+- `Verified`: Summary: authored the global shell/navigation reopen boundary decision, compared stay-homepage-only against bounded shell reopen and broad theme-shell reopen, admitted only a docs-only shell/navigation runtime-boundary next step, and kept runtime implementation plus collection/PDP/search/cart/preset/hardening domains blocked.
 
 ## Verification Status
 
-- `Verified`: Verdict: governance-pause PASS for `UNIT-141`; the homepage-first preset-pack frontier remains paused with no new planning or implementation-admission approval, and `state/NEXT_ACTION.md` correctly remains pinned to the same pause-only governed state.
-- `Verified`: Evidence: `state/NEXT_ACTION.md`; `workspace/plans/phase-4-post-homepage-first-preset-pack-implementation-boundary-frontier-review-v1/HANDOFF.v1.md`; updated state and handoff artifacts; required harness and state checks; explicit no-`project/`-change verification.
+- `Verified`: Verdict: `UNIT-146` PASS
+- `Verified`: Evidence: `workspace/plans/phase-4-global-shell-navigation-reopen-boundary-v1/PLAN.v1.md`; `workspace/plans/phase-4-global-shell-navigation-reopen-boundary-v1/ASSUMPTIONS.v1.md`; `workspace/plans/phase-4-global-shell-navigation-reopen-boundary-v1/CHECKS.v1.md`; `workspace/plans/phase-4-global-shell-navigation-reopen-boundary-v1/RISKS.v1.md`; `workspace/plans/phase-4-global-shell-navigation-reopen-boundary-v1/HANDOFF.v1.md`; `workspace/plans/phase-4-global-shell-navigation-runtime-boundary-v1/HANDOFF.v1.md`; `docs/architecture/stonev2-build-roadmap.md`; `docs/architecture/stonev2-settings-bilingual-editor.md`; `workspace/specs/STONEV2_SETTINGS_TAXONOMY.md`; `project/layout/theme.liquid`; `project/config/settings_schema.json`; `project/assets/stone-runtime.js`; required harness checks
 
 ## Active Blockers
 
-- `Verified`: No further shoppable-media runtime slice is approved.
+- `Verified`: No shell/navigation runtime implementation is approved from the current evidence.
+- `Verified`: No second homepage runtime slice is approved from the current evidence.
+- `Verified`: No collection host or behavior reopen is approved from the current evidence.
+- `Verified`: No PDP host or behavior reopen is approved from the current evidence.
+- `Verified`: No search-results or predictive-search behavior is approved from the current evidence.
+- `Verified`: No cart drawer or checkout-sensitive behavior is approved from the current evidence.
+- `Verified`: No editorial or search host work is approved from the current evidence.
+- `Verified`: No preset-pack realization or Phase 5 hardening work is approved from the current evidence.
 - `Verified`: No companion-system runtime work is approved.
 - `Verified`: No direct `PDP companion` reopening is approved.
-- `Verified`: No collection-template rewrites, archive controls, broader JS, or heavier commerce are approved from the broader boundary package.
-- `Verified`: No collection banner authority, curated collection explainer/editorial drift, or navigation-system behavior is approved from the controlled-expansion proposal.
-- `Verified`: No runtime implementation is approved from the runtime-readiness proposal.
-- `Verified`: No collection-derived strip contract or `product-card behavior` reuse is approved from the runtime-readiness proposal.
-- `Verified`: No runtime implementation, runtime file scope, schema scope, or host-surface selection is approved from the runtime-boundary package.
-- `Verified`: No support-strip implementation-admission proposal is approved from the frontier review.
-- `Verified`: No later `collection companion` reopening is approved from the current evidence.
-- `Verified`: No broader companion-family reopening is approved from the current evidence.
-- `Verified`: Unresolved `collection companion` and `PDP companion` work are explicitly deferred behind later Phase 4 preset-pack planning.
-- `Verified`: No preset-pack shared-defaults proposal may treat deferred companion-family work as implicitly resolved.
-- `Verified`: No homepage-only preset-pack implementation-boundary proposal may treat its contract as implementation approval.
-- `Verified`: No collection behavior or PDP support behavior domain is approved as a preset-pack input from the current evidence.
-- `Verified`: No collection-template starter structure or PDP-template starter structure is approved from the current shared-defaults evidence.
-- `Verified`: No later preset-pack implementation-admission proposal is approved from the current evidence.
-- `Verified`: No further preset-pack planning unit is approved from the current evidence.
-- `Inference`: The honest next state remains a governed pause rather than direct preset implementation or any attempt to fill collection/PDP companion assumptions implicitly.
+- `Verified`: No `collection behavior` or `PDP support behavior` domain is approved as a preset-pack input from the current evidence.
+- `Verified`: No `collection-template starter structure` or `PDP-template starter structure` is approved from the current evidence.
+- `Verified`: No authored package for `UNIT-147` through `UNIT-151` is approved to execute yet.
 
 ## Resume Notes
 
-- `Verified`: Resume from branch `codex/unit-140-phase-4-post-homepage-first-preset-pack-implementation-boundary-frontier-plan`.
-- `Verified`: `UNIT-141` is a governed pause state rather than a new planning slice.
-- `Verified`: Do not edit `project/assets/stone-runtime.js`, `project/snippets/stone-product-card.liquid`, `project/layout/theme.liquid`, or `project/config/settings_schema.json`.
+- `Verified`: Resume from branch `codex/unit-141-phase-4-homepage-first-preset-governed-pause`.
+- `Verified`: Re-read `workspace/plans/phase-4-global-shell-navigation-runtime-boundary-v1/PLAN.v1.md` and `workspace/plans/phase-4-global-shell-navigation-runtime-boundary-v1/HANDOFF.v1.md`.
+- `Verified`: Keep the user-directed governance override narrow and do not treat `UNIT-143` through `UNIT-146` as permission to reopen collection/PDP or broader runtime scope.
+- `Verified`: Execute `UNIT-152` only and keep `UNIT-147` through `UNIT-151` blocked from the current state.

@@ -1,0 +1,37 @@
+{
+  "pageUrl": "https://salt-yard.myshopify.com/products/worker-jacket",
+  "pageTitle": "Worker Jacket – Symmetry Theme Salt Yard",
+  "pageSlug": "salt_yard_myshopify_com_products_worker_jacket",
+  "sections": [
+    {
+      "refId": "salt_yard_myshopify_com_products_worker_jacket__section_01",
+      "index": 1,
+      "selectorHint": "div.container.cf",
+      "typeGuess": "hero",
+      "patternTags": [
+        "hero-candidate",
+        "top-of-page",
+        "video",
+        "image-heavy",
+        "slider",
+        "cta-cluster",
+        "card-grid",
+        "product-commerce",
+        "category-navigation",
+        "editorial-media"
+      ],
+      "headingSample": [
+        "Worker Jacket",
+        "Worker Jacket",
+        "Salt Yard Size Guide",
+        "Sizes",
+        "Sizes",
+        "Passionate about style"
+      ],
+      "textSample": "{ \"@context\": \"https://schema.org\", \"@type\": \"BreadcrumbList\", \"itemListElement\": [ { \"@type\": \"ListItem\", \"position\": 1, \"name\": \"Home\", \"item\": \"https:\\/\\/salt-yard.myshopify.com\\/\" },{ \"@type\": \"ListItem\", \"position\": 2, \"name\": \"Worker Jacket\", \"item\": \"https:\\/\\/salt-yard.my",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_products_worker_jacket/salt_yard_myshopify_com_products_worker_jacket__section_01.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/pages/salt_yard_myshopify_com_products_worker_jacket.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/pages/salt_yard_myshopify_com_products_worker_jacket.json"
+    }
+  ]
+}

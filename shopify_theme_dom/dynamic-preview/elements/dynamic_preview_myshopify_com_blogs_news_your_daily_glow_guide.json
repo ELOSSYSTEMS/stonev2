@@ -1,0 +1,30 @@
+{
+  "pageUrl": "https://dynamic-preview.myshopify.com/blogs/news/your-daily-glow-guide",
+  "pageTitle": "Your Daily Glow Guide – Dynamic",
+  "pageSlug": "dynamic_preview_myshopify_com_blogs_news_your_daily_glow_guide",
+  "sections": [
+    {
+      "refId": "dynamic_preview_myshopify_com_blogs_news_your_daily_glow_guide__section_01",
+      "index": 1,
+      "selectorHint": "#shopify-section-template--27935319752870__article_nBjnMW",
+      "typeGuess": "editorial-media",
+      "patternTags": [
+        "top-of-page",
+        "product-commerce",
+        "editorial-media"
+      ],
+      "headingSample": [
+        "Your Daily Glow Guide",
+        "Morning: Wake Up Your Radiance",
+        "Midday: Refresh and Rehydrate",
+        "Evening: Repair and Renew",
+        "Weekly Rituals",
+        "Lifestyle Tips for Lasting Glow"
+      ],
+      "textSample": ".article_content__wrpr { padding-top: calc(16px / 2); padding-bottom: calc(16px / 2); } .article__hero-banner, .article__hero-banner img { border-radius: 10px; } .section-template--27935319752870__article_nBjnMW-padding { padding-top: calc(16px / 2); margin-left: 12px; margin-rig",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_blogs_news_your_daily_glow_guide/dynamic_preview_myshopify_com_blogs_news_your_daily_glow_guide__section_01.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/pages/dynamic_preview_myshopify_com_blogs_news_your_daily_glow_guide.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/pages/dynamic_preview_myshopify_com_blogs_news_your_daily_glow_guide.json"
+    }
+  ]
+}

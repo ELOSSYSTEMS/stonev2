@@ -1,0 +1,34 @@
+{
+  "pageUrl": "https://salt-yard.myshopify.com/collections/denim",
+  "pageTitle": "Denim – Symmetry Theme Salt Yard",
+  "pageSlug": "salt_yard_myshopify_com_collections_denim",
+  "sections": [
+    {
+      "refId": "salt_yard_myshopify_com_collections_denim__section_01",
+      "index": 1,
+      "selectorHint": "div.container.cf",
+      "typeGuess": "hero",
+      "patternTags": [
+        "hero-candidate",
+        "top-of-page",
+        "image-heavy",
+        "slider",
+        "cta-cluster",
+        "product-commerce",
+        "category-navigation",
+        "editorial-media"
+      ],
+      "headingSample": [
+        "Jackets",
+        "Best Sellers",
+        "Shorts",
+        "Shirts",
+        "Denim"
+      ],
+      "textSample": "Jackets Best Sellers Shorts Shirts Previous Next Denim Filter 6 products Sort by Best selling Best sellingAlphabetically, A-ZAlphabetically, Z-APrice, low to highPrice, high to lowDate, old to newDate, new to old Filter 6 products Sort by Best selling Best sellingAlphabetically, ",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_collections_denim/salt_yard_myshopify_com_collections_denim__section_01.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/pages/salt_yard_myshopify_com_collections_denim.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/pages/salt_yard_myshopify_com_collections_denim.json"
+    }
+  ]
+}

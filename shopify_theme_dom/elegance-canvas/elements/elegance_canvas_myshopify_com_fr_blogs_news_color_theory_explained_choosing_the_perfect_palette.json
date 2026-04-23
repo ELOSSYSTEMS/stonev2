@@ -1,0 +1,34 @@
+{
+  "pageUrl": "https://elegance-canvas.myshopify.com/fr/blogs/news/color-theory-explained-choosing-the-perfect-palette",
+  "pageTitle": "Explication de la théorie des couleurs : choisir la palette parfaite – Elegance-canvas",
+  "pageSlug": "elegance_canvas_myshopify_com_fr_blogs_news_color_theory_explained_choosing_the_perfect_palette",
+  "sections": [
+    {
+      "refId": "elegance_canvas_myshopify_com_fr_blogs_news_color_theory_explained_choosing_the_perfect_palette__section_01",
+      "index": 1,
+      "selectorHint": "#shopify-section-template--19562840883382__main",
+      "typeGuess": "hero",
+      "patternTags": [
+        "hero-candidate",
+        "top-of-page",
+        "image-heavy",
+        "cta-cluster",
+        "card-grid",
+        "product-commerce",
+        "editorial-media"
+      ],
+      "headingSample": [
+        "Explication de la théorie des couleurs : choisir la palette parfaite",
+        "Texturiser avec élégance vos surfaces picturales.",
+        "Les techniques mixtes peuvent apporter des textures et une profondeur distinctes à vos peintures et à vos œuvres d'art.",
+        "Expérimentation avec les techniques mixtes et la peinture sur toile",
+        "Susciter l'imagination et les idées du spectateur",
+        "2 Commentaires"
+      ],
+      "textSample": ".section-template--19562840883382__main-padding { padding-top: 60px; padding-bottom: 60px; } @media screen and (min-width: 768px) { .section-template--19562840883382__main-padding { padding-top: 90px; padding-bottom: 90px; } } @media screen and (min-width: 1200px) { .section-temp",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_fr_blogs_news_color_theory_explained_choosing_the_perfect_palette/elegance_canvas_myshopify_com_fr_blogs_news_color_theory_explained_choosing_the_perfect_palette__section_01.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/pages/elegance_canvas_myshopify_com_fr_blogs_news_color_theory_explained_choosing_the_perfect_palette.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/pages/elegance_canvas_myshopify_com_fr_blogs_news_color_theory_explained_choosing_the_perfect_palette.json"
+    }
+  ]
+}

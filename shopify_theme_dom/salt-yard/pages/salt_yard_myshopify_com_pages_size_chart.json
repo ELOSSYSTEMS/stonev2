@@ -1,0 +1,38 @@
+{
+  "url": "https://salt-yard.myshopify.com/pages/size-chart",
+  "title": "Size Chart – Symmetry Theme Salt Yard",
+  "bodyClasses": "template-page\n swatch-source-theme swatch-method-variant-images swatch-style-icon_square cc-animate-enabled",
+  "headings": [
+    "Size Chart",
+    "Sign up and get 10% off your first order"
+  ],
+  "customElements": [
+    "announcement-bar",
+    "cart-drawer",
+    "cart-form",
+    "countdown-timer",
+    "country-selector",
+    "main-navigation",
+    "main-search",
+    "mobile-disclosure",
+    "page-header",
+    "pop-up",
+    "product-block",
+    "search-suggestions",
+    "shopify-account",
+    "shopify-store"
+  ],
+  "mainOuterHtml": "<main id=\"content\" role=\"main\">\n    <div class=\"container cf\">\n\n      <div id=\"shopify-section-template--26857880158281__main\" class=\"shopify-section page-section-spacing\"><div class=\"container container--reading-width\"><div class=\"page-header\">\n      <h1 class=\"majortitle\">Size Chart</h1>\n    </div><div class=\"rte cf\"><table style=\"width: 100%;\">\n<tbody>\n<tr>\n<th>&nbsp;</th>\n<th>XS</th>\n<th>S</th>\n<th>M</th>\n<th>L</th>\n<th>XL</th>\n<th>XLL</th>\n</tr>\n<tr>\n<th>Chest (cm)</th>\n<td>44</td>\n<td>46</td>\n<td>48</td>\n<td>50</td>\n<td>52</td>\n<td>55</td>\n</tr>\n<tr>\n<th>Body length&nbsp;<span>(cm)</span>\n</th>\n<td>58</td>\n<td>60</td>\n<td>62</td>\n<td>64</td>\n<td>66</td>\n<td>68</td>\n</tr>\n<tr>\n<th>Sleeve length&nbsp;<span>(cm)</span>\n</th>\n<td>79</td>\n<td>81</td>\n<td>83</td>\n<td>85</td>\n<td>87</td>\n<td>89</td>\n</tr>\n</tbody>\n</table></div>\n</div>\n\n\n\n\n</div>\n\n    </div>\n  </main>",
+  "sections": [
+    {
+      "index": 1,
+      "id": null,
+      "tag": "div",
+      "classes": "container cf",
+      "headingSample": [
+        "Size Chart"
+      ],
+      "outerHTML": "<div class=\"container cf\">\n\n      <div id=\"shopify-section-template--26857880158281__main\" class=\"shopify-section page-section-spacing\"><div class=\"container container--reading-width\"><div class=\"page-header\">\n      <h1 class=\"majortitle\">Size Chart</h1>\n    </div><div class=\"rte cf\"><table style=\"width: 100%;\">\n<tbody>\n<tr>\n<th>&nbsp;</th>\n<th>XS</th>\n<th>S</th>\n<th>M</th>\n<th>L</th>\n<th>XL</th>\n<th>XLL</th>\n</tr>\n<tr>\n<th>Chest (cm)</th>\n<td>44</td>\n<td>46</td>\n<td>48</td>\n<td>50</td>\n<td>52</td>\n<td>55</td>\n</tr>\n<tr>\n<th>Body length&nbsp;<span>(cm)</span>\n</th>\n<td>58</td>\n<td>60</td>\n<td>62</td>\n<td>64</td>\n<td>66</td>\n<td>68</td>\n</tr>\n<tr>\n<th>Sleeve length&nbsp;<span>(cm)</span>\n</th>\n<td>79</td>\n<td>81</td>\n<td>83</td>\n<td>85</td>\n<td>87</td>\n<td>89</td>\n</tr>\n</tbody>\n</table></div>\n</div>\n\n\n\n\n</div>\n\n    </div>"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "pageUrl": "https://shift-sketch.myshopify.com/it/pages/specifications",
+  "pageTitle": "Specifiche – Shift Sketch",
+  "pageSlug": "shift_sketch_myshopify_com_it_pages_specifications",
+  "sections": [
+    {
+      "refId": "shift_sketch_myshopify_com_it_pages_specifications__section_01",
+      "index": 1,
+      "selectorHint": "#shopify-section-template--27266934047095__page_info",
+      "typeGuess": "content-section",
+      "patternTags": [
+        "top-of-page"
+      ],
+      "headingSample": [
+        "Specifiche"
+      ],
+      "textSample": "Specifiche Telaio Struttura in massello di frassino e piedini in nylon. Seduta in poliuretano espanso e imbottita. Copertina Tessuto, pelle o cuoio. Rivestimento sfoderabile (escluso cuoio).",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/shift-sketch/elements/shift_sketch_myshopify_com_it_pages_specifications/shift_sketch_myshopify_com_it_pages_specifications__section_01.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/shift-sketch/pages/shift_sketch_myshopify_com_it_pages_specifications.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/shift-sketch/pages/shift_sketch_myshopify_com_it_pages_specifications.json"
+    }
+  ]
+}

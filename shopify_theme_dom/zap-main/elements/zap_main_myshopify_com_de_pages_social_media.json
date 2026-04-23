@@ -1,0 +1,53 @@
+{
+  "pageUrl": "https://zap-main.myshopify.com/de/pages/social-media",
+  "pageTitle": "Social media",
+  "pageSlug": "zap_main_myshopify_com_de_pages_social_media",
+  "sections": [
+    {
+      "refId": "zap_main_myshopify_com_de_pages_social_media__section_01",
+      "index": 1,
+      "selectorHint": "#shopify-section-template--26224246980927__main",
+      "typeGuess": "content-section",
+      "patternTags": [
+        "top-of-page"
+      ],
+      "headingSample": [
+        "Social media"
+      ],
+      "textSample": ".section-template--26224246980927__main-padding { padding-top: 4rem; padding-bottom: 0; } @media screen and (min-width: 750px) { .section-template--26224246980927__main-padding { padding-top: 5rem; padding-bottom: 0; } } @media screen and (min-width: 1360px) { .section-template--",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_de_pages_social_media/zap_main_myshopify_com_de_pages_social_media__section_01.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/pages/zap_main_myshopify_com_de_pages_social_media.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/pages/zap_main_myshopify_com_de_pages_social_media.json"
+    },
+    {
+      "refId": "zap_main_myshopify_com_de_pages_social_media__section_02",
+      "index": 2,
+      "selectorHint": "#shopify-section-template--26224246980927__social-media",
+      "typeGuess": "cta-section",
+      "patternTags": [
+        "cta-cluster",
+        "card-grid"
+      ],
+      "headingSample": [],
+      "textSample": ".section-template--26224246980927__social-media-padding { padding-top: 0; padding-bottom: 0; } @media screen and (min-width: 750px) { .section-template--26224246980927__social-media-padding { padding-top: 0; padding-bottom: 0; } } @media screen and (min-width: 1360px) { .section-",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_de_pages_social_media/zap_main_myshopify_com_de_pages_social_media__section_02.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/pages/zap_main_myshopify_com_de_pages_social_media.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/pages/zap_main_myshopify_com_de_pages_social_media.json"
+    },
+    {
+      "refId": "zap_main_myshopify_com_de_pages_social_media__section_03",
+      "index": 3,
+      "selectorHint": "#shopify-section-template--26224246980927__social_media_yxzwgm",
+      "typeGuess": "cta-section",
+      "patternTags": [
+        "cta-cluster",
+        "card-grid"
+      ],
+      "headingSample": [],
+      "textSample": ".section-template--26224246980927__social_media_yxzwgm-padding { padding-top: 0; padding-bottom: 0; } @media screen and (min-width: 750px) { .section-template--26224246980927__social_media_yxzwgm-padding { padding-top: 0; padding-bottom: 0; } } @media screen and (min-width: 1360p",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_de_pages_social_media/zap_main_myshopify_com_de_pages_social_media__section_03.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/pages/zap_main_myshopify_com_de_pages_social_media.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/pages/zap_main_myshopify_com_de_pages_social_media.json"
+    }
+  ]
+}

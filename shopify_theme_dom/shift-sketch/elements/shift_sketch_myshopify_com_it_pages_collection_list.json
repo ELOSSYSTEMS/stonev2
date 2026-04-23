@@ -1,0 +1,33 @@
+{
+  "pageUrl": "https://shift-sketch.myshopify.com/it/pages/collection-list",
+  "pageTitle": "Elenco delle collezioni – Shift Sketch",
+  "pageSlug": "shift_sketch_myshopify_com_it_pages_collection_list",
+  "sections": [
+    {
+      "refId": "shift_sketch_myshopify_com_it_pages_collection_list__section_01",
+      "index": 1,
+      "selectorHint": "#shopify-section-template--28054241280375__collections_list",
+      "typeGuess": "hero",
+      "patternTags": [
+        "hero-candidate",
+        "top-of-page",
+        "image-heavy",
+        "cta-cluster",
+        "category-navigation",
+        "editorial-media"
+      ],
+      "headingSample": [
+        "Taccuini da disegno",
+        "Pianificatori",
+        "Calendari",
+        "Assorbenti",
+        "Accessori",
+        "Tutto"
+      ],
+      "textSample": ".section-template--28054241280375__collections_list-padding { padding-top: 0; padding-bottom: 0; } @media screen and (min-width: 750px) { .section-template--28054241280375__collections_list-padding { padding-top: 0; padding-bottom: 0; } } @media screen and (min-width: 1440px) { .",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/shift-sketch/elements/shift_sketch_myshopify_com_it_pages_collection_list/shift_sketch_myshopify_com_it_pages_collection_list__section_01.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/shift-sketch/pages/shift_sketch_myshopify_com_it_pages_collection_list.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/shift-sketch/pages/shift_sketch_myshopify_com_it_pages_collection_list.json"
+    }
+  ]
+}

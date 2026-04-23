@@ -1,0 +1,27 @@
+{
+  "pageUrl": "https://shift-sketch.myshopify.com/pages/product-details",
+  "pageTitle": "Product details – Shift Sketch",
+  "pageSlug": "shift_sketch_myshopify_com_pages_product_details",
+  "sections": [
+    {
+      "refId": "shift_sketch_myshopify_com_pages_product_details__section_01",
+      "index": 1,
+      "selectorHint": "#shopify-section-template--28054786408823__product_details_pV4wH9",
+      "typeGuess": "hero",
+      "patternTags": [
+        "hero-candidate",
+        "top-of-page",
+        "image-heavy",
+        "product-commerce",
+        "editorial-media"
+      ],
+      "headingSample": [
+        "About product"
+      ],
+      "textSample": "#shopify-section-template--28054786408823__product_details_pV4wH9 { padding-top: 3.6rem; padding-bottom: 6rem; } @media screen and (min-width: 750px) { #shopify-section-template--28054786408823__product_details_pV4wH9 { padding-top: 5rem; padding-bottom: 8rem; } } @media screen a",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/shift-sketch/elements/shift_sketch_myshopify_com_pages_product_details/shift_sketch_myshopify_com_pages_product_details__section_01.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/shift-sketch/pages/shift_sketch_myshopify_com_pages_product_details.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/shift-sketch/pages/shift_sketch_myshopify_com_pages_product_details.json"
+    }
+  ]
+}

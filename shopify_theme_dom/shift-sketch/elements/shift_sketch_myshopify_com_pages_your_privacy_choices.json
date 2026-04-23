@@ -1,0 +1,23 @@
+{
+  "pageUrl": "https://shift-sketch.myshopify.com/pages/your-privacy-choices",
+  "pageTitle": "Your Privacy Choices – Shift Sketch",
+  "pageSlug": "shift_sketch_myshopify_com_pages_your_privacy_choices",
+  "sections": [
+    {
+      "refId": "shift_sketch_myshopify_com_pages_your_privacy_choices__section_01",
+      "index": 1,
+      "selectorHint": "#shopify-section-template--27266934047095__page_info",
+      "typeGuess": "content-section",
+      "patternTags": [
+        "top-of-page"
+      ],
+      "headingSample": [
+        "Your Privacy Choices"
+      ],
+      "textSample": "Your Privacy Choices As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and similar technologies. We may also share this personal information with third parties, including advertising partn",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/shift-sketch/elements/shift_sketch_myshopify_com_pages_your_privacy_choices/shift_sketch_myshopify_com_pages_your_privacy_choices__section_01.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/shift-sketch/pages/shift_sketch_myshopify_com_pages_your_privacy_choices.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/shift-sketch/pages/shift_sketch_myshopify_com_pages_your_privacy_choices.json"
+    }
+  ]
+}

@@ -1,0 +1,558 @@
+# Shopify page scrape
+
+- URL: https://zap-main.myshopify.com/de/pages/collapsible-content
+- Title: Collapsible content
+- Body classes: template-page template-page-features-collapsible-cnt
+- Custom elements: burger-menu, cart-drawer, cart-drawer-items, cart-note, header-search, localization-form, predictive-search, product-card-small, shop-cart-sync, sticky-header
+- Headings: Honig-Zitronen-Aufguss | Leuchtkasten | Entdeckerbox | Honig-Zitronen-Aufguss | Leuchtkasten | Entdeckerbox | Subscribe to our Newsletter and Get 15% off your first order | Collapsible content | Frequently Asked Questions | Frequently Asked Questions | Über uns | Produkte | Produkte | Kundendienst | Kundendienst | Information | Information
+
+## 1. shopify-section-template--26223651160383__main
+
+- Tag: section
+- Classes: shopify-section page-section
+- Headings: Collapsible content
+
+```html
+<section id="shopify-section-template--26223651160383__main" class="shopify-section page-section"><link href="//zap-main.myshopify.com/cdn/shop/t/2/assets/section-main-page.css?v=165534704276754180541772782652" rel="stylesheet" type="text/css" media="all">
+<style data-shopify="">.section-template--26223651160383__main-padding {
+
+  padding-top: 4rem;
+
+
+
+  padding-bottom: 0;
+
+}
+
+@media screen and (min-width: 750px) { .section-template--26223651160383__main-padding {
+
+  padding-top: 5rem;
+
+
+
+  padding-bottom: 0;
+
+} }
+
+@media screen and (min-width: 1360px) { .section-template--26223651160383__main-padding {
+
+  padding-top: 8rem;
+
+
+
+  padding-bottom: 0;
+
+} }
+
+</style><div class="section-template--26223651160383__main-padding container page-width--narrow">
+  <div class="page-header">
+    <div class="page-header__inner">
+      <h1 class="main-page-title page-title title--page h2">Collapsible content</h1>
+    </div>
+  </div>
+  <div class="rte">
+    
+  </div>
+</div>
+
+
+</section>
+```
+
+## 2. shopify-section-template--26223651160383__collapsible_content_tGJjVJ
+
+- Tag: section
+- Classes: shopify-section collapsible-content-section spaced-section anim-active
+- Headings: Frequently Asked Questions
+
+```html
+<section id="shopify-section-template--26223651160383__collapsible_content_tGJjVJ" class="shopify-section collapsible-content-section spaced-section anim-active"><link href="//zap-main.myshopify.com/cdn/shop/t/2/assets/section-collapsible-content.css?v=86329223207694527581772782643" rel="stylesheet" type="text/css" media="all">
+
+<script src="//zap-main.myshopify.com/cdn/shop/t/2/assets/collapsible-content.js?v=1218882685858211491774259991" defer="defer"></script>
+
+
+<style data-shopify="">
+    #shopify-section-template--26223651160383__collapsible_content_tGJjVJ [data-enable-header-animation] .collapsible-content__heading .word {
+      opacity: 0;
+      transform: translateY(20px);
+      display: inline-block;
+      white-space: nowrap;
+    }
+
+    #shopify-section-template--26223651160383__collapsible_content_tGJjVJ [data-enable-header-animation] .collapsible-content__description {
+      opacity: 0;
+      transform: translateY(20px);
+    }
+
+    #shopify-section-template--26223651160383__collapsible_content_tGJjVJ.anim-active [data-enable-header-animation] .collapsible-content__heading .word {
+      animation: fadeInWord 0.4s cubic-bezier(0.5, 0, 0, 1) forwards;
+      animation-delay: calc(var(--heading-delay) + (var(--word-index) * 0.1s));
+    }
+
+    #shopify-section-template--26223651160383__collapsible_content_tGJjVJ.anim-active [data-enable-header-animation] .collapsible-content__description {
+      animation: fadeInUp 0.4s cubic-bezier(0.5, 0, 0, 1) forwards;
+      animation-delay: var(--description-delay);
+    }
+  </style>
+<style data-shopify="">
+  .section-template--26223651160383__collapsible_content_tGJjVJ-padding {
+
+  padding-top: 5rem;
+
+
+
+  padding-bottom: 5rem;
+
+}
+
+@media screen and (min-width: 750px) { .section-template--26223651160383__collapsible_content_tGJjVJ-padding {
+
+  padding-top: 7.2rem;
+
+
+
+  padding-bottom: 7.2rem;
+
+} }
+
+@media screen and (min-width: 1360px) { .section-template--26223651160383__collapsible_content_tGJjVJ-padding {
+
+  padding-top: 10rem;
+
+
+
+  padding-bottom: 10rem;
+
+} }
+
+  #shopify-section-template--26223651160383__collapsible_content_tGJjVJ {
+
+  padding-top: 0;
+
+
+
+  padding-bottom: 0;
+
+}
+
+@media screen and (min-width: 750px) { #shopify-section-template--26223651160383__collapsible_content_tGJjVJ {
+
+  padding-top: 0;
+
+
+
+  padding-bottom: 0;
+
+} }
+
+@media screen and (min-width: 1360px) { #shopify-section-template--26223651160383__collapsible_content_tGJjVJ {
+
+  padding-top: 0;
+
+
+
+  padding-bottom: 0;
+
+
+} }
+
+
+  /* Critical styles to prevent FOUC in Safari */
+
+  .collapsible-content {
+    width: 100%;
+    display: block;
+    overflow: hidden;
+  }
+
+  .collapsible-content__header {
+    max-width: 67.6rem;
+    width: 100%;
+  }
+
+  .collapsible-content__header--center {
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .collapsible-content__header--center .collapsible-content__heading,
+  .collapsible-content__header--center .collapsible-content__description {
+    text-align: center;
+  }
+
+  .collapsible-content__header--left {
+    margin-right: auto;
+  }
+
+  .collapsible-content__header--left .collapsible-content__heading,
+  .collapsible-content__header--left .collapsible-content__description {
+    text-align: left;
+  }
+
+  .collapsible-content__header--right {
+    margin-left: auto;
+  }
+
+  .collapsible-content__header--right .collapsible-content__heading,
+  .collapsible-content__header--right .collapsible-content__description {
+    text-align: right;
+  }
+
+  .collapsible-content__content {
+    margin-top: 4rem;
+    max-width: 91rem;
+    width: 100%;
+  }
+
+  .collapsible-content__content--center {
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .collapsible-content__content--left {
+    margin-right: auto;
+  }
+
+  .collapsible-content__content--right {
+    margin-left: auto;
+  }
+
+  .collapsible-content__items {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .collapsible-content__item {
+    overflow: hidden;
+    padding: 2.2rem 0;
+  }
+
+  .collapsible-content__toggle {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    column-gap: 1.6rem;
+    width: 100%;
+  }
+
+  .collapsible-content__toggle-group {
+    display: flex;
+    align-items: center;
+  }
+
+  .collapsible-content__question {
+    margin: 0;
+    text-align: left;
+    max-width: 74.4rem;
+    width: 100%;
+  }
+
+  .collapsible-content__icon {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+    width: 3.2rem;
+    height: 3.2rem;
+    border-radius: 50%;
+    position: relative;
+  }
+
+  .collapsible-content__answer {
+    margin: 0;
+    max-width: 67.6rem;
+    width: 100%;
+  }
+</style>
+
+<div class="collapsible-content color-background-1 background section-template--26223651160383__collapsible_content_tGJjVJ-padding collapsible-content--border-top" data-enable-header-animation="true" style="--heading-delay: 0s; --description-delay: 0.3s;">
+  <div class="container"><div class="collapsible-content__header collapsible-content__header--center"><h2 class="collapsible-content__heading h2"><span class="word" style="--word-index: 0">Frequently</span> <span class="word" style="--word-index: 1">Asked</span> <span class="word" style="--word-index: 2">Questions</span></h2></div><div class="collapsible-content__content content collapsible-content__content--center">
+      <div class="collapsible-content__items"><div class="collapsible-content__item  active ">
+            <button class="collapsible-content__toggle button--unstyled focus-inset">
+              <div class="collapsible-content__toggle-group"><p class="collapsible-content__question h4">
+                    How long does it typically take to process an order?
+                  </p></div>
+              <div class="collapsible-content__icon"></div>
+            </button><div class="collapsible-content__answer body-normal rte">
+                <p>Orders are typically processed within 3 to 7 business days from the time your purchase is confirmed. Once your order is packed and ready to go, you’ll receive an email with your shipping confirmation and tracking details, so you can follow your delivery every step of the way.</p><p>Please note that processing times may vary slightly during high-volume periods, holidays, or promotional launches — but we’ll always keep you updated. If you have any questions about your order status, our support team is here to help.</p>
+              </div></div><div class="collapsible-content__item ">
+            <button class="collapsible-content__toggle button--unstyled focus-inset">
+              <div class="collapsible-content__toggle-group"><p class="collapsible-content__question h4">
+                    Can I change the contents of my order?
+                  </p></div>
+              <div class="collapsible-content__icon"></div>
+            </button><div class="collapsible-content__answer body-normal rte" style="display: none;">
+                <p>Yes, changes can be made if the order hasn’t entered processing. Make sure to update your order details promptly after purchase.</p>
+              </div></div><div class="collapsible-content__item ">
+            <button class="collapsible-content__toggle button--unstyled focus-inset">
+              <div class="collapsible-content__toggle-group"><p class="collapsible-content__question h4">
+                    Do you ship internationally?
+                  </p></div>
+              <div class="collapsible-content__icon"></div>
+            </button><div class="collapsible-content__answer body-normal rte" style="display: none;">
+                <p>Yes, international shipping is available. Delivery times and costs vary based on your location and selected shipping method.</p>
+              </div></div><div class="collapsible-content__item ">
+            <button class="collapsible-content__toggle button--unstyled focus-inset">
+              <div class="collapsible-content__toggle-group"><p class="collapsible-content__question h4">
+                    Is my personal information secure during checkout?
+                  </p></div>
+              <div class="collapsible-content__icon"></div>
+            </button><div class="collapsible-content__answer body-normal rte" style="display: none;">
+                <p>Yes, all data is encrypted and processed securely to protect your privacy.</p>
+              </div></div></div>
+    </div>
+  </div>
+</div>
+
+
+</section>
+```
+
+## 3. shopify-section-template--26223651160383__collapsible_content_VairYF
+
+- Tag: section
+- Classes: shopify-section collapsible-content-section spaced-section anim-active
+- Headings: Frequently Asked Questions
+
+```html
+<section id="shopify-section-template--26223651160383__collapsible_content_VairYF" class="shopify-section collapsible-content-section spaced-section anim-active"><link href="//zap-main.myshopify.com/cdn/shop/t/2/assets/section-collapsible-content.css?v=86329223207694527581772782643" rel="stylesheet" type="text/css" media="all">
+
+<script src="//zap-main.myshopify.com/cdn/shop/t/2/assets/collapsible-content.js?v=1218882685858211491774259991" defer="defer"></script>
+
+
+<style data-shopify="">
+    #shopify-section-template--26223651160383__collapsible_content_VairYF [data-enable-header-animation] .collapsible-content__heading .word {
+      opacity: 0;
+      transform: translateY(20px);
+      display: inline-block;
+      white-space: nowrap;
+    }
+
+    #shopify-section-template--26223651160383__collapsible_content_VairYF [data-enable-header-animation] .collapsible-content__description {
+      opacity: 0;
+      transform: translateY(20px);
+    }
+
+    #shopify-section-template--26223651160383__collapsible_content_VairYF.anim-active [data-enable-header-animation] .collapsible-content__heading .word {
+      animation: fadeInWord 0.4s cubic-bezier(0.5, 0, 0, 1) forwards;
+      animation-delay: calc(var(--heading-delay) + (var(--word-index) * 0.1s));
+    }
+
+    #shopify-section-template--26223651160383__collapsible_content_VairYF.anim-active [data-enable-header-animation] .collapsible-content__description {
+      animation: fadeInUp 0.4s cubic-bezier(0.5, 0, 0, 1) forwards;
+      animation-delay: var(--description-delay);
+    }
+  </style>
+<style data-shopify="">
+  .section-template--26223651160383__collapsible_content_VairYF-padding {
+
+  padding-top: 6.4rem;
+
+
+
+  padding-bottom: 6.4rem;
+
+}
+
+@media screen and (min-width: 750px) { .section-template--26223651160383__collapsible_content_VairYF-padding {
+
+  padding-top: 8.8rem;
+
+
+
+  padding-bottom: 8.8rem;
+
+} }
+
+@media screen and (min-width: 1360px) { .section-template--26223651160383__collapsible_content_VairYF-padding {
+
+  padding-top: 15rem;
+
+
+
+  padding-bottom: 15rem;
+
+} }
+
+  #shopify-section-template--26223651160383__collapsible_content_VairYF {
+
+  padding-top: 0;
+
+
+
+  padding-bottom: 0;
+
+}
+
+@media screen and (min-width: 750px) { #shopify-section-template--26223651160383__collapsible_content_VairYF {
+
+  padding-top: 0;
+
+
+
+  padding-bottom: 0;
+
+} }
+
+@media screen and (min-width: 1360px) { #shopify-section-template--26223651160383__collapsible_content_VairYF {
+
+  padding-top: 0;
+
+
+
+  padding-bottom: 0;
+
+
+} }
+
+
+  /* Critical styles to prevent FOUC in Safari */
+
+  .collapsible-content {
+    width: 100%;
+    display: block;
+    overflow: hidden;
+  }
+
+  .collapsible-content__header {
+    max-width: 67.6rem;
+    width: 100%;
+  }
+
+  .collapsible-content__header--center {
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .collapsible-content__header--center .collapsible-content__heading,
+  .collapsible-content__header--center .collapsible-content__description {
+    text-align: center;
+  }
+
+  .collapsible-content__header--left {
+    margin-right: auto;
+  }
+
+  .collapsible-content__header--left .collapsible-content__heading,
+  .collapsible-content__header--left .collapsible-content__description {
+    text-align: left;
+  }
+
+  .collapsible-content__header--right {
+    margin-left: auto;
+  }
+
+  .collapsible-content__header--right .collapsible-content__heading,
+  .collapsible-content__header--right .collapsible-content__description {
+    text-align: right;
+  }
+
+  .collapsible-content__content {
+    margin-top: 4rem;
+    max-width: 91rem;
+    width: 100%;
+  }
+
+  .collapsible-content__content--center {
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .collapsible-content__content--left {
+    margin-right: auto;
+  }
+
+  .collapsible-content__content--right {
+    margin-left: auto;
+  }
+
+  .collapsible-content__items {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .collapsible-content__item {
+    overflow: hidden;
+    padding: 2.2rem 0;
+  }
+
+  .collapsible-content__toggle {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    column-gap: 1.6rem;
+    width: 100%;
+  }
+
+  .collapsible-content__toggle-group {
+    display: flex;
+    align-items: center;
+  }
+
+  .collapsible-content__question {
+    margin: 0;
+    text-align: left;
+    max-width: 74.4rem;
+    width: 100%;
+  }
+
+  .collapsible-content__icon {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+    width: 3.2rem;
+    height: 3.2rem;
+    border-radius: 50%;
+    position: relative;
+  }
+
+  .collapsible-content__answer {
+    margin: 0;
+    max-width: 67.6rem;
+    width: 100%;
+  }
+</style>
+
+<div class="collapsible-content color-background-4 background section-template--26223651160383__collapsible_content_VairYF-padding collapsible-content--border-top" data-enable-header-animation="true" style="--heading-delay: 0s; --description-delay: 0.3s;">
+  <div class="container"><div class="collapsible-content__header collapsible-content__header--center"><h2 class="collapsible-content__heading h3"><span class="word" style="--word-index: 0">Frequently</span> <span class="word" style="--word-index: 1">Asked</span> <span class="word" style="--word-index: 2">Questions</span></h2></div><div class="collapsible-content__content content collapsible-content__content--center">
+      <div class="collapsible-content__items"><div class="collapsible-content__item ">
+            <button class="collapsible-content__toggle button--unstyled focus-inset">
+              <div class="collapsible-content__toggle-group"><p class="collapsible-content__question h5">
+                    Do you ship internationally?
+                  </p></div>
+              <div class="collapsible-content__icon"></div>
+            </button><div class="collapsible-content__answer body-normal rte" style="display: none;">
+                <p>Yes, international shipping is available. Delivery times and costs vary based on your location and selected shipping method.</p>
+              </div></div><div class="collapsible-content__item ">
+            <button class="collapsible-content__toggle button--unstyled focus-inset">
+              <div class="collapsible-content__toggle-group"><p class="collapsible-content__question h5">
+                    Can I change the contents of my order?
+                  </p></div>
+              <div class="collapsible-content__icon"></div>
+            </button><div class="collapsible-content__answer body-normal rte" style="display: none;">
+                <p>Yes, changes can be made if the order hasn’t entered processing. Make sure to update your order details promptly after purchase.</p>
+              </div></div><div class="collapsible-content__item ">
+            <button class="collapsible-content__toggle button--unstyled focus-inset">
+              <div class="collapsible-content__toggle-group"><p class="collapsible-content__question h5">
+                    Is my personal information secure during checkout?
+                  </p></div>
+              <div class="collapsible-content__icon"></div>
+            </button><div class="collapsible-content__answer body-normal rte" style="display: none;">
+                <p>Yes, all data is encrypted and processed securely to protect your privacy.</p>
+              </div></div><div class="collapsible-content__item ">
+            <button class="collapsible-content__toggle button--unstyled focus-inset">
+              <div class="collapsible-content__toggle-group"><p class="collapsible-content__question h5">
+                    How long does it typically take to process an order?
+                  </p></div>
+              <div class="collapsible-content__icon"></div>
+            </button><div class="collapsible-content__answer body-normal rte" style="display: none;">
+                <p>Orders are typically processed within 3 to 7 business days from the time your purchase is confirmed. Once your order is packed and ready to go, you’ll receive an email with your shipping confirmation and tracking details, so you can follow your delivery every step of the way.</p><p>Please note that processing times may vary slightly during high-volume periods, holidays, or promotional launches — but we’ll always keep you updated. If you have any questions about your order status, our support team is here to help.</p>
+              </div></div></div>
+    </div>
+  </div>
+</div>
+
+
+</section>
+```

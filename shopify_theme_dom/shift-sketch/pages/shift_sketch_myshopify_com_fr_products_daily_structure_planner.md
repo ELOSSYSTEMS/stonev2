@@ -1,0 +1,3487 @@
+# Shopify page scrape
+
+- URL: https://shift-sketch.myshopify.com/fr/products/daily-structure-planner
+- Title: Planificateur de structure quotidienne – Shift Sketch
+- Body classes: template-product template-product
+- Custom elements: cart-drawer, cart-drawer-items, header-drawer, header-search, menu-drawer, modal-dialog, modal-localization-form, modal-opener, modal-region-selector, predictive-search, product-card, product-form, product-modal, product-recommendations, quantity-input, quick-view-modal, shop-cart-sync, sticky-header, variant-radios
+- Headings: Planificateur de structure quotidienne | À propos du produit | Galerie | matériaux naturels | Retours gratuits sous 30 jours | Paiement sécurisé | Cela pourrait vous intéresser | Agenda quotidien | Planificateur de grille essentiel | Planificateur principal d'horaires | Planificateur de productivité Pro | Planificateur de mise en page hebdomadaire | Boutique | Boutique | Explorer | Explorer | Légal | Légal | Suivez-nous | Abonnez-vous à notre newsletter
+
+## 1. shopify-section-template--27266933817719__main_product
+
+- Tag: section
+- Classes: shopify-section product-section
+- Headings: Planificateur de structure quotidienne
+
+```html
+<section id="shopify-section-template--27266933817719__main_product" class="shopify-section product-section"><script src="//shift-sketch.myshopify.com/cdn/shop/t/2/assets/copy.js?v=62334127294038058751766398543" defer="defer"></script><script src="//shift-sketch.myshopify.com/cdn/shop/t/2/assets/main-product.js?v=161145254378717430901766398543" defer="defer"></script><style data-shopify="">.section-template--27266933817719__main_product-padding {
+
+  padding-top: 0;
+
+
+
+  padding-bottom: 6rem;
+
+}
+
+@media screen and (min-width: 750px) { .section-template--27266933817719__main_product-padding {
+
+  padding-top: 0;
+
+
+
+  padding-bottom: 8rem;
+
+} }
+
+@media screen and (min-width: 1440px) { .section-template--27266933817719__main_product-padding {
+
+  padding-top: 0;
+
+
+
+  padding-bottom: 12rem;
+
+} }
+
+
+  .avaliability-notification {
+    display: none;
+  }</style><div id="MainProduct-template--27266933817719__main_product" data-section="template--27266933817719__main_product" class="section-template--27266933817719__main_product-padding color-background-1 background main-product"><div class="container product__breadcrumbs">
+  <nav id="breadcrumbs" class="breadcrumb background" role="navigation" aria-label="breadcrumbs" style="padding: 0;">
+    <a href="/fr" title="Maison" class="focus-inset">Maison</a>
+    
+      <div class="breadcrumb__delimiter">
+<svg width="10" height="10" viewBox="0 0 10 10" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_748_20456)">
+<path d="M3 9L7 5L3 1" stroke="currentColor"></path>
+</g>
+<defs>
+<clipPath id="clip0_748_20456">
+<rect width="10" height="10" fill="currentColor" transform="translate(0 10) rotate(-90)"></rect>
+</clipPath>
+</defs>
+</svg>
+</div>
+      
+      
+        <a href="/fr/collections/planners" class="focus-inset">Planificateurs</a>
+      <div class="breadcrumb__delimiter">
+<svg width="10" height="10" viewBox="0 0 10 10" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_748_20456)">
+<path d="M3 9L7 5L3 1" stroke="currentColor"></path>
+</g>
+<defs>
+<clipPath id="clip0_748_20456">
+<rect width="10" height="10" fill="currentColor" transform="translate(0 10) rotate(-90)"></rect>
+</clipPath>
+</defs>
+</svg>
+</div>
+      <span>Planificateur de structure quotidienne </span>
+    
+  </nav>
+
+  <script>
+    const calcBreadcrumbs = () => {
+      const breadcrumbs = document.querySelector('.breadcrumb');
+      if (breadcrumbs) {
+        const breadcrumbsObserver = new ResizeObserver((entries) => {
+          entries.forEach((entry) => {
+            const breadcrumbsHeight = breadcrumbs.getBoundingClientRect().height.toFixed(2);
+            document.documentElement.style.setProperty('--breadcrumbs-height', `${breadcrumbsHeight}px`);
+          });
+        });
+        breadcrumbsObserver.observe(breadcrumbs);
+      }
+    };
+    calcBreadcrumbs();
+
+    document.addEventListener('shopify:section:load', function () {
+      calcBreadcrumbs();
+    });
+  </script>
+</div>
+
+<div class="product">
+    <div class="product__outer"><div class="product__media product__media--desktop-type-slider_previews product__media--mobile-type-grid product__media--desktop-ratio-portrait product__media--thumbs-ratio-portrait" data-section="product-media-template--27266933817719__main_product"><div class="product__media-wrapper">
+            
+            
+<div class="product__media-sublist-wrapper">
+                <div class="product__media-sublist js-media-sublist swiper swiper-initialized swiper-vertical swiper-watch-progress swiper-backface-hidden swiper-thumbs" data-desktop-type="slider_previews" data-mobile-type="grid">
+                  <div class="product__media-sublist-container swiper-wrapper" id="swiper-wrapper-d93e1054424eb7cb1" aria-live="polite" style="transform: translate3d(0px, 0px, 0px);"><div class="product__media-subitem swiper-slide swiper-slide-visible swiper-slide-fully-visible swiper-slide-active swiper-slide-thumb-active" data-media-sub-id="template--27266933817719__main_product-67602156192119" role="group" aria-label="1 / 5" data-swiper-slide-index="0" style="margin-bottom: 8px;">
+                        
+
+
+<div class="product__media-img" style="padding-bottom: 131.7%;">
+    <img src="//shift-sketch.myshopify.com/cdn/shop/files/01-planner.jpg?v=1763717411&amp;width=1701" alt="Planificateur de structure quotidienne-thumbmail-1" srcset="//shift-sketch.myshopify.com/cdn/shop/files/01-planner.jpg?v=1763717411&amp;width=100 100w, //shift-sketch.myshopify.com/cdn/shop/files/01-planner.jpg?v=1763717411&amp;width=200 200w, //shift-sketch.myshopify.com/cdn/shop/files/01-planner.jpg?v=1763717411&amp;width=300 300w, //shift-sketch.myshopify.com/cdn/shop/files/01-planner.jpg?v=1763717411&amp;width=400 400w, //shift-sketch.myshopify.com/cdn/shop/files/01-planner.jpg?v=1763717411&amp;width=500 500w, //shift-sketch.myshopify.com/cdn/shop/files/01-planner.jpg?v=1763717411&amp;width=600 600w, //shift-sketch.myshopify.com/cdn/shop/files/01-planner.jpg?v=1763717411&amp;width=700 700w, //shift-sketch.myshopify.com/cdn/shop/files/01-planner.jpg?v=1763717411&amp;width=800 800w, //shift-sketch.myshopify.com/cdn/shop/files/01-planner.jpg?v=1763717411&amp;width=1000 1000w, //shift-sketch.myshopify.com/cdn/shop/files/01-planner.jpg?v=1763717411&amp;width=1200 1200w" width="1701" height="2268" loading="lazy" fetchpriority="auto" sizes="calc(100px * 1)" style="object-fit: cover;">
+  </div>
+                      </div><div class="product__media-subitem swiper-slide swiper-slide-visible swiper-slide-fully-visible swiper-slide-next" data-media-sub-id="template--27266933817719__main_product-67602156061047" role="group" aria-label="2 / 5" data-swiper-slide-index="1" style="margin-bottom: 8px;">
+                          
+
+
+<div class="product__media-img" style="padding-bottom: 131.7%;">
+    <img src="//shift-sketch.myshopify.com/cdn/shop/files/01-planner-hover-01.jpg?v=1763717411&amp;width=1688" alt="Planificateur de structure quotidienne-thumbmail-2" srcset="//shift-sketch.myshopify.com/cdn/shop/files/01-planner-hover-01.jpg?v=1763717411&amp;width=100 100w, //shift-sketch.myshopify.com/cdn/shop/files/01-planner-hover-01.jpg?v=1763717411&amp;width=200 200w, //shift-sketch.myshopify.com/cdn/shop/files/01-planner-hover-01.jpg?v=1763717411&amp;width=300 300w, //shift-sketch.myshopify.com/cdn/shop/files/01-planner-hover-01.jpg?v=1763717411&amp;width=400 400w, //shift-sketch.myshopify.com/cdn/shop/files/01-planner-hover-01.jpg?v=1763717411&amp;width=500 500w, //shift-sketch.myshopify.com/cdn/shop/files/01-planner-hover-01.jpg?v=1763717411&amp;width=600 600w, //shift-sketch.myshopify.com/cdn/shop/files/01-planner-hover-01.jpg?v=1763717411&amp;width=700 700w, //shift-sketch.myshopify.com/cdn/shop/files/01-planner-hover-01.jpg?v=1763717411&amp;width=800 800w, //shift-sketch.myshopify.com/cdn/shop/files/01-planner-hover-01.jpg?v=1763717411&amp;width=1000 1000w, //shift-sketch.myshopify.com/cdn/shop/files/01-planner-hover-01.jpg?v=1763717411&amp;width=1200 1200w" width="1688" height="2250" loading="lazy" fetchpriority="auto" sizes="calc(100px * 1)" style="object-fit: cover;">
+  </div>
+                        </div><div class="product__media-subitem swiper-slide swiper-slide-visible swiper-slide-fully-visible" data-media-sub-id="template--27266933817719__main_product-67602156093815" role="group" aria-label="3 / 5" data-swiper-slide-index="2" style="margin-bottom: 8px;">
+                          
+
+
+<div class="product__media-img" style="padding-bottom: 131.7%;">
+    <img src="//shift-sketch.myshopify.com/cdn/shop/files/01-planner-hover-02.jpg?v=1763717411&amp;width=1688" alt="Planificateur de structure quotidienne-thumbmail-3" srcset="//shift-sketch.myshopify.com/cdn/shop/files/01-planner-hover-02.jpg?v=1763717411&amp;width=100 100w, //shift-sketch.myshopify.com/cdn/shop/files/01-planner-hover-02.jpg?v=1763717411&amp;width=200 200w, //shift-sketch.myshopify.com/cdn/shop/files/01-planner-hover-02.jpg?v=1763717411&amp;width=300 300w, //shift-sketch.myshopify.com/cdn/shop/files/01-planner-hover-02.jpg?v=1763717411&amp;width=400 400w, //shift-sketch.myshopify.com/cdn/shop/files/01-planner-hover-02.jpg?v=1763717411&amp;width=500 500w, //shift-sketch.myshopify.com/cdn/shop/files/01-planner-hover-02.jpg?v=1763717411&amp;width=600 600w, //shift-sketch.myshopify.com/cdn/shop/files/01-planner-hover-02.jpg?v=1763717411&amp;width=700 700w, //shift-sketch.myshopify.com/cdn/shop/files/01-planner-hover-02.jpg?v=1763717411&amp;width=800 800w, //shift-sketch.myshopify.com/cdn/shop/files/01-planner-hover-02.jpg?v=1763717411&amp;width=1000 1000w, //shift-sketch.myshopify.com/cdn/shop/files/01-planner-hover-02.jpg?v=1763717411&amp;width=1200 1200w" width="1688" height="2250" loading="lazy" fetchpriority="auto" sizes="calc(100px * 1)" style="object-fit: cover;">
+  </div>
+                        </div><div class="product__media-subitem swiper-slide swiper-slide-visible swiper-slide-fully-visible" data-media-sub-id="template--27266933817719__main_product-67602156126583" role="group" aria-label="4 / 5" data-swiper-slide-index="3" style="margin-bottom: 8px;">
+                          
+
+
+<div class="product__media-img" style="padding-bottom: 131.7%;">
+    <img src="//shift-sketch.myshopify.com/cdn/shop/files/01-planner-hover-03.jpg?v=1763717412&amp;width=1800" alt="Planificateur de structure quotidienne-thumbmail-4" srcset="//shift-sketch.myshopify.com/cdn/shop/files/01-planner-hover-03.jpg?v=1763717412&amp;width=100 100w, //shift-sketch.myshopify.com/cdn/shop/files/01-planner-hover-03.jpg?v=1763717412&amp;width=200 200w, //shift-sketch.myshopify.com/cdn/shop/files/01-planner-hover-03.jpg?v=1763717412&amp;width=300 300w, //shift-sketch.myshopify.com/cdn/shop/files/01-planner-hover-03.jpg?v=1763717412&amp;width=400 400w, //shift-sketch.myshopify.com/cdn/shop/files/01-planner-hover-03.jpg?v=1763717412&amp;width=500 500w, //shift-sketch.myshopify.com/cdn/shop/files/01-planner-hover-03.jpg?v=1763717412&amp;width=600 600w, //shift-sketch.myshopify.com/cdn/shop/files/01-planner-hover-03.jpg?v=1763717412&amp;width=700 700w, //shift-sketch.myshopify.com/cdn/shop/files/01-planner-hover-03.jpg?v=1763717412&amp;width=800 800w, //shift-sketch.myshopify.com/cdn/shop/files/01-planner-hover-03.jpg?v=1763717412&amp;width=1000 1000w, //shift-sketch.myshopify.com/cdn/shop/files/01-planner-hover-03.jpg?v=1763717412&amp;width=1200 1200w" width="1800" height="2400" loading="lazy" fetchpriority="auto" sizes="calc(100px * 1)" style="object-fit: cover;">
+  </div>
+                        </div><div class="product__media-subitem swiper-slide swiper-slide-visible" data-media-sub-id="template--27266933817719__main_product-67602156159351" role="group" aria-label="5 / 5" data-swiper-slide-index="4" style="margin-bottom: 8px;">
+                          
+
+
+<div class="product__media-img" style="padding-bottom: 131.7%;">
+    <img src="//shift-sketch.myshopify.com/cdn/shop/files/01-planner-hover-04.jpg?v=1763717411&amp;width=1856" alt="Planificateur de structure quotidienne-thumbmail-5" srcset="//shift-sketch.myshopify.com/cdn/shop/files/01-planner-hover-04.jpg?v=1763717411&amp;width=100 100w, //shift-sketch.myshopify.com/cdn/shop/files/01-planner-hover-04.jpg?v=1763717411&amp;width=200 200w, //shift-sketch.myshopify.com/cdn/shop/files/01-planner-hover-04.jpg?v=1763717411&amp;width=300 300w, //shift-sketch.myshopify.com/cdn/shop/files/01-planner-hover-04.jpg?v=1763717411&amp;width=400 400w, //shift-sketch.myshopify.com/cdn/shop/files/01-planner-hover-04.jpg?v=1763717411&amp;width=500 500w, //shift-sketch.myshopify.com/cdn/shop/files/01-planner-hover-04.jpg?v=1763717411&amp;width=600 600w, //shift-sketch.myshopify.com/cdn/shop/files/01-planner-hover-04.jpg?v=1763717411&amp;width=700 700w, //shift-sketch.myshopify.com/cdn/shop/files/01-planner-hover-04.jpg?v=1763717411&amp;width=800 800w, //shift-sketch.myshopify.com/cdn/shop/files/01-planner-hover-04.jpg?v=1763717411&amp;width=1000 1000w, //shift-sketch.myshopify.com/cdn/shop/files/01-planner-hover-04.jpg?v=1763717411&amp;width=1200 1200w" width="1856" height="2464" loading="lazy" fetchpriority="auto" sizes="calc(100px * 1)" style="object-fit: cover;">
+  </div>
+                        </div></div>
+                <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
+              </div>
+            <div class="product__media-list-wrapper">
+              <div class="product__media-list js-media-list swiper swiper-initialized swiper-horizontal swiper-watch-progress swiper-backface-hidden" data-desktop-type="slider_previews" data-mobile-type="grid" data-has-desktop-zoom="true" data-has-mobile-zoom="false" data-quick-view-type="drawer" style="--slide-count: 5">
+                <div class="product__media-list-container swiper-wrapper" id="swiper-wrapper-301c0f1c7e8dc53e" aria-live="polite"><div class="product__media-item swiper-slide swiper-slide-visible swiper-slide-fully-visible swiper-slide-active" data-media-id="template--27266933817719__main_product-67602156192119" role="group" aria-label="1 / 5" data-swiper-slide-index="0" style="width: 644px;">
+                        
+
+  <modal-opener class="product__modal-opener product__modal-opener--image" data-modal="#ProductModal-template--27266933817719__main_product">
+    <div class="product__media-img product__media-img--mobile-ratio-portrait" style="padding-bottom: 134.3%;">
+      <img src="//shift-sketch.myshopify.com/cdn/shop/files/01-planner.jpg?v=1763717411&amp;width=1701" alt="Planificateur de structure quotidienne-1" srcset="//shift-sketch.myshopify.com/cdn/shop/files/01-planner.jpg?v=1763717411&amp;width=360 360w, //shift-sketch.myshopify.com/cdn/shop/files/01-planner.jpg?v=1763717411&amp;width=535 535w, //shift-sketch.myshopify.com/cdn/shop/files/01-planner.jpg?v=1763717411&amp;width=720 720w, //shift-sketch.myshopify.com/cdn/shop/files/01-planner.jpg?v=1763717411&amp;width=940 940w, //shift-sketch.myshopify.com/cdn/shop/files/01-planner.jpg?v=1763717411&amp;width=1066 1066w, //shift-sketch.myshopify.com/cdn/shop/files/01-planner.jpg?v=1763717411&amp;width=1200 1200w, //shift-sketch.myshopify.com/cdn/shop/files/01-planner.jpg?v=1763717411&amp;width=1400 1400w, //shift-sketch.myshopify.com/cdn/shop/files/01-planner.jpg?v=1763717411&amp;width=1600 1600w" width="1701" height="2268" loading="eager" fetchpriority="high" sizes="(min-width: 1200px) calc(70vw * 1), (min-width: 990px) calc(70vw * 1), calc(100vw * 1)" style="object-fit: cover;">
+    </div><button class="product__media-toggle product__media-toggle--disabled-on-mobile no-js-hidden" type="button" aria-haspopup="dialog" data-media-id="67602156192119">
+        <span class="visually-hidden">
+            Ouvrir les médias en vedette dans la vue Galerie
+</span>
+      </button>
+
+      <span class="product__media-mobile-icon motion-reduce product__media-mobile-icon--disabled-on-mobile no-js-hidden" aria-hidden="true">
+        <svg class="icon icon-plus-zoom" width="22" height="22" viewBox="0 0 22 22" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M11 1L11 21M21 11L1 11" stroke="currentColor" stroke-linecap="square" stroke-linejoin="bevel"></path>
+</svg>
+
+      </span></modal-opener>
+                      </div><div class="product__media-item swiper-slide swiper-slide-next" data-media-id="template--27266933817719__main_product-67602156061047" role="group" aria-label="2 / 5" data-swiper-slide-index="1" style="width: 644px;">
+                          
+
+  <modal-opener class="product__modal-opener product__modal-opener--image" data-modal="#ProductModal-template--27266933817719__main_product">
+    <div class="product__media-img product__media-img--mobile-ratio-portrait" style="padding-bottom: 134.3%;">
+      <img src="//shift-sketch.myshopify.com/cdn/shop/files/01-planner-hover-01.jpg?v=1763717411&amp;width=1688" alt="Planificateur de structure quotidienne-2" srcset="//shift-sketch.myshopify.com/cdn/shop/files/01-planner-hover-01.jpg?v=1763717411&amp;width=360 360w, //shift-sketch.myshopify.com/cdn/shop/files/01-planner-hover-01.jpg?v=1763717411&amp;width=535 535w, //shift-sketch.myshopify.com/cdn/shop/files/01-planner-hover-01.jpg?v=1763717411&amp;width=720 720w, //shift-sketch.myshopify.com/cdn/shop/files/01-planner-hover-01.jpg?v=1763717411&amp;width=940 940w, //shift-sketch.myshopify.com/cdn/shop/files/01-planner-hover-01.jpg?v=1763717411&amp;width=1066 1066w, //shift-sketch.myshopify.com/cdn/shop/files/01-planner-hover-01.jpg?v=1763717411&amp;width=1200 1200w, //shift-sketch.myshopify.com/cdn/shop/files/01-planner-hover-01.jpg?v=1763717411&amp;width=1400 1400w, //shift-sketch.myshopify.com/cdn/shop/files/01-planner-hover-01.jpg?v=1763717411&amp;width=1600 1600w" width="1688" height="2250" loading="lazy" fetchpriority="auto" sizes="(min-width: 1200px) calc(70vw * 1), (min-width: 990px) calc(70vw * 1), calc(100vw * 1.0)" style="object-fit: cover;">
+    </div><button class="product__media-toggle product__media-toggle--disabled-on-mobile no-js-hidden" type="button" aria-haspopup="dialog" data-media-id="67602156061047">
+        <span class="visually-hidden">Ouvrir le média 2 dans la vue galerie
+</span>
+      </button>
+
+      <span class="product__media-mobile-icon motion-reduce product__media-mobile-icon--disabled-on-mobile no-js-hidden" aria-hidden="true">
+        <svg class="icon icon-plus-zoom" width="22" height="22" viewBox="0 0 22 22" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M11 1L11 21M21 11L1 11" stroke="currentColor" stroke-linecap="square" stroke-linejoin="bevel"></path>
+</svg>
+
+      </span></modal-opener>
+                        </div><div class="product__media-item swiper-slide" data-media-id="template--27266933817719__main_product-67602156093815" role="group" aria-label="3 / 5" data-swiper-slide-index="2" style="width: 644px;">
+                          
+
+  <modal-opener class="product__modal-opener product__modal-opener--image" data-modal="#ProductModal-template--27266933817719__main_product">
+    <div class="product__media-img product__media-img--mobile-ratio-portrait" style="padding-bottom: 134.3%;">
+      <img src="//shift-sketch.myshopify.com/cdn/shop/files/01-planner-hover-02.jpg?v=1763717411&amp;width=1688" alt="Planificateur de structure quotidienne-3" srcset="//shift-sketch.myshopify.com/cdn/shop/files/01-planner-hover-02.jpg?v=1763717411&amp;width=360 360w, //shift-sketch.myshopify.com/cdn/shop/files/01-planner-hover-02.jpg?v=1763717411&amp;width=535 535w, //shift-sketch.myshopify.com/cdn/shop/files/01-planner-hover-02.jpg?v=1763717411&amp;width=720 720w, //shift-sketch.myshopify.com/cdn/shop/files/01-planner-hover-02.jpg?v=1763717411&amp;width=940 940w, //shift-sketch.myshopify.com/cdn/shop/files/01-planner-hover-02.jpg?v=1763717411&amp;width=1066 1066w, //shift-sketch.myshopify.com/cdn/shop/files/01-planner-hover-02.jpg?v=1763717411&amp;width=1200 1200w, //shift-sketch.myshopify.com/cdn/shop/files/01-planner-hover-02.jpg?v=1763717411&amp;width=1400 1400w, //shift-sketch.myshopify.com/cdn/shop/files/01-planner-hover-02.jpg?v=1763717411&amp;width=1600 1600w" width="1688" height="2250" loading="lazy" fetchpriority="auto" sizes="(min-width: 1200px) calc(70vw * 1), (min-width: 990px) calc(70vw * 1), calc(100vw * 1.0)" style="object-fit: cover;">
+    </div><button class="product__media-toggle product__media-toggle--disabled-on-mobile no-js-hidden" type="button" aria-haspopup="dialog" data-media-id="67602156093815">
+        <span class="visually-hidden">Ouvrir le média 3 dans la vue galerie
+</span>
+      </button>
+
+      <span class="product__media-mobile-icon motion-reduce product__media-mobile-icon--disabled-on-mobile no-js-hidden" aria-hidden="true">
+        <svg class="icon icon-plus-zoom" width="22" height="22" viewBox="0 0 22 22" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M11 1L11 21M21 11L1 11" stroke="currentColor" stroke-linecap="square" stroke-linejoin="bevel"></path>
+</svg>
+
+      </span></modal-opener>
+                        </div><div class="product__media-item swiper-slide" data-media-id="template--27266933817719__main_product-67602156126583" role="group" aria-label="4 / 5" data-swiper-slide-index="3" style="width: 644px;">
+                          
+
+  <modal-opener class="product__modal-opener product__modal-opener--image" data-modal="#ProductModal-template--27266933817719__main_product">
+    <div class="product__media-img product__media-img--mobile-ratio-portrait" style="padding-bottom: 134.3%;">
+      <img src="//shift-sketch.myshopify.com/cdn/shop/files/01-planner-hover-03.jpg?v=1763717412&amp;width=1800" alt="Planificateur de structure quotidienne-4" srcset="//shift-sketch.myshopify.com/cdn/shop/files/01-planner-hover-03.jpg?v=1763717412&amp;width=360 360w, //shift-sketch.myshopify.com/cdn/shop/files/01-planner-hover-03.jpg?v=1763717412&amp;width=535 535w, //shift-sketch.myshopify.com/cdn/shop/files/01-planner-hover-03.jpg?v=1763717412&amp;width=720 720w, //shift-sketch.myshopify.com/cdn/shop/files/01-planner-hover-03.jpg?v=1763717412&amp;width=940 940w, //shift-sketch.myshopify.com/cdn/shop/files/01-planner-hover-03.jpg?v=1763717412&amp;width=1066 1066w, //shift-sketch.myshopify.com/cdn/shop/files/01-planner-hover-03.jpg?v=1763717412&amp;width=1200 1200w, //shift-sketch.myshopify.com/cdn/shop/files/01-planner-hover-03.jpg?v=1763717412&amp;width=1400 1400w, //shift-sketch.myshopify.com/cdn/shop/files/01-planner-hover-03.jpg?v=1763717412&amp;width=1600 1600w, //shift-sketch.myshopify.com/cdn/shop/files/01-planner-hover-03.jpg?v=1763717412&amp;width=1800 1800w" width="1800" height="2400" loading="lazy" fetchpriority="auto" sizes="(min-width: 1200px) calc(70vw * 1), (min-width: 990px) calc(70vw * 1), calc(100vw * 1)" style="object-fit: cover;">
+    </div><button class="product__media-toggle product__media-toggle--disabled-on-mobile no-js-hidden" type="button" aria-haspopup="dialog" data-media-id="67602156126583">
+        <span class="visually-hidden">Ouvrir le média 4 dans la vue galerie
+</span>
+      </button>
+
+      <span class="product__media-mobile-icon motion-reduce product__media-mobile-icon--disabled-on-mobile no-js-hidden" aria-hidden="true">
+        <svg class="icon icon-plus-zoom" width="22" height="22" viewBox="0 0 22 22" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M11 1L11 21M21 11L1 11" stroke="currentColor" stroke-linecap="square" stroke-linejoin="bevel"></path>
+</svg>
+
+      </span></modal-opener>
+                        </div><div class="product__media-item swiper-slide" data-media-id="template--27266933817719__main_product-67602156159351" role="group" aria-label="5 / 5" data-swiper-slide-index="4" style="width: 644px;">
+                          
+
+  <modal-opener class="product__modal-opener product__modal-opener--image" data-modal="#ProductModal-template--27266933817719__main_product">
+    <div class="product__media-img product__media-img--mobile-ratio-portrait" style="padding-bottom: 134.3%;">
+      <img src="//shift-sketch.myshopify.com/cdn/shop/files/01-planner-hover-04.jpg?v=1763717411&amp;width=1856" alt="Planificateur de structure quotidienne-5" srcset="//shift-sketch.myshopify.com/cdn/shop/files/01-planner-hover-04.jpg?v=1763717411&amp;width=360 360w, //shift-sketch.myshopify.com/cdn/shop/files/01-planner-hover-04.jpg?v=1763717411&amp;width=535 535w, //shift-sketch.myshopify.com/cdn/shop/files/01-planner-hover-04.jpg?v=1763717411&amp;width=720 720w, //shift-sketch.myshopify.com/cdn/shop/files/01-planner-hover-04.jpg?v=1763717411&amp;width=940 940w, //shift-sketch.myshopify.com/cdn/shop/files/01-planner-hover-04.jpg?v=1763717411&amp;width=1066 1066w, //shift-sketch.myshopify.com/cdn/shop/files/01-planner-hover-04.jpg?v=1763717411&amp;width=1200 1200w, //shift-sketch.myshopify.com/cdn/shop/files/01-planner-hover-04.jpg?v=1763717411&amp;width=1400 1400w, //shift-sketch.myshopify.com/cdn/shop/files/01-planner-hover-04.jpg?v=1763717411&amp;width=1600 1600w, //shift-sketch.myshopify.com/cdn/shop/files/01-planner-hover-04.jpg?v=1763717411&amp;width=1800 1800w" width="1856" height="2464" loading="lazy" fetchpriority="auto" sizes="(min-width: 1200px) calc(70vw * 1), (min-width: 990px) calc(70vw * 1), calc(100vw * 1.0)" style="object-fit: cover;">
+    </div><button class="product__media-toggle product__media-toggle--disabled-on-mobile no-js-hidden" type="button" aria-haspopup="dialog" data-media-id="67602156159351">
+        <span class="visually-hidden">Ouvrir le média 5 dans la vue galerie
+</span>
+      </button>
+
+      <span class="product__media-mobile-icon motion-reduce product__media-mobile-icon--disabled-on-mobile no-js-hidden" aria-hidden="true">
+        <svg class="icon icon-plus-zoom" width="22" height="22" viewBox="0 0 22 22" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M11 1L11 21M21 11L1 11" stroke="currentColor" stroke-linecap="square" stroke-linejoin="bevel"></path>
+</svg>
+
+      </span></modal-opener>
+                        </div></div>
+
+                
+                <div class="product__slider-nav no-js-hidden product__slider-nav-visible">
+                  <button class="swiper-button-prev product__slider-nav-prev focus-inset" tabindex="0" aria-label="Previous slide" aria-controls="swiper-wrapper-301c0f1c7e8dc53e">
+                    <div class="product__slider-nav-icons-container product__slider-nav-icons-container--prev">
+                      <svg class="icon icon-arrow-left-product" width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M14 18L6 10L14 2" stroke="currentColor" stroke-width="2"></path>
+</svg>
+
+                      <svg class="icon icon-arrow-left-product" width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M14 18L6 10L14 2" stroke="currentColor" stroke-width="2"></path>
+</svg>
+
+                    </div>
+                  </button>
+                  <button class="swiper-button-next product__slider-nav-next focus-inset" tabindex="0" aria-label="Next slide" aria-controls="swiper-wrapper-301c0f1c7e8dc53e">
+                    <div class="product__slider-nav-icons-container product__slider-nav-icons-container--next">
+                      <svg class="icon icon-arrow-right-product" width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M6 18L14 10L6 2" stroke="currentColor" stroke-width="2"></path>
+</svg>
+
+                      <svg class="icon icon-arrow-right-product" width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M6 18L14 10L6 2" stroke="currentColor" stroke-width="2"></path>
+</svg>
+
+                    </div>
+                  </button>
+                </div>
+                <div class="swiper-pagination quick-view-pagination swiper-pagination-default"></div>
+                
+              <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span><span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div><div class="product__media-cursor">
+                    <svg class="icon icon-plus-zoom" width="22" height="22" viewBox="0 0 22 22" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M11 1L11 21M21 11L1 11" stroke="currentColor" stroke-linecap="square" stroke-linejoin="bevel"></path>
+</svg>
+
+                  </div></div>
+          </div>
+        </div><div id="ProductInfo-template--27266933817719__main_product" data-section="template--27266933817719__main_product" class="product__info-container">
+
+<div class="product__badges body-normal"><span class="badge badge--custom" aria-hidden="true">New Arrival</span></div>
+
+<div class="product__text body-small">Shift Sketch</div>
+
+
+<h1 class="product__title h5">Planificateur de structure quotidienne</h1>
+
+
+
+<div class="product__price" id="price-template--27266933817719__main_product" role="status">
+  <div class="product__price-inner">
+    
+
+<div class="price">
+  <dl class="price-text price-text--body-h4"><div class="price__regular">
+      <dt class="visually-hidden">Prix régulier</dt>
+      <dd>
+        <span class="price-item price-item--regular">$14.00</span>
+      </dd>
+    </div>
+    <div class="price__sale">
+      <dt class="visually-hidden">Prix de vente</dt>
+      <dd>
+        <span class="price-item price-item--sale">$14.00</span>
+      </dd>
+      <dt class="visually-hidden">Prix régulier</dt>
+      <dd class="price__compare">
+        <s class="price-item price-item--regular"></s>
+      </dd>
+    </div>
+  </dl>
+
+  <dl class="unit-price hidden">
+    <dt class="visually-hidden">Prix unitaire</dt>
+    <dd></dd>
+  </dl>
+</div>
+
+  </div></div>
+
+
+
+<div id="Inventory-template--27266933817719__main_product" class="product__inventory" role="status"><span class="body-small product__inventory-inner product__inventory-inner--in-stock">In Stock</span></div>
+
+
+
+  <div class="product-parameters product-parameters--button"><variant-radios id="variant-picker-template--27266933817719__main_product" class="no-js-hidden" data-section="template--27266933817719__main_product" data-url="/fr/products/daily-structure-planner" data-is-high-variant-product="false" data-update-url="true">
+          <fieldset class="product-form__controls" id="SingleOptionSelector-0" data-option-position="1">
+            <legend class="product-form__group-name body-normal">Taille
+
+              
+
+            </legend>
+            <div class="product-form__controls-group">
+              
+
+
+  
+
+  
+  
+  
+
+<input type="radio" id="template--27266933817719__main_product-1-0-15252589969783" name="Taille-template--27266933817719__main_product-15252589969783" value="A5" form="product-form-template--27266933817719__main_product" data-variant-id="56219239186807" checked="" tabindex="-1" aria-label="A5" data-option-value-id="10811003797879" style="">
+      <label tabindex="0" onkeydown="if(event.key==='Enter'||event.key===' '){event.preventDefault();document.getElementById(this.getAttribute('for')).click();}" for="template--27266933817719__main_product-1-0-15252589969783">A5</label>
+    
+
+
+  
+
+  
+  
+  
+
+<input type="radio" id="template--27266933817719__main_product-1-1-15252589969783" name="Taille-template--27266933817719__main_product-15252589969783" value="A4" form="product-form-template--27266933817719__main_product" data-variant-id="56219239219575" tabindex="-1" aria-label="A4" data-option-value-id="10811003830647" style="">
+      <label tabindex="0" onkeydown="if(event.key==='Enter'||event.key===' '){event.preventDefault();document.getElementById(this.getAttribute('for')).click();}" for="template--27266933817719__main_product-1-1-15252589969783">A4</label>
+    
+
+
+  
+
+  
+  
+  
+
+<input type="radio" id="template--27266933817719__main_product-1-2-15252589969783" name="Taille-template--27266933817719__main_product-15252589969783" value="A3" form="product-form-template--27266933817719__main_product" data-variant-id="56219239252343" tabindex="-1" aria-label="A3" data-option-value-id="10811003863415" style="">
+      <label tabindex="0" onkeydown="if(event.key==='Enter'||event.key===' '){event.preventDefault();document.getElementById(this.getAttribute('for')).click();}" for="template--27266933817719__main_product-1-2-15252589969783">A3</label>
+    
+
+
+              
+            </div></fieldset>
+          <fieldset class="product-form__controls product-form__controls--colors" id="SingleOptionSelector-1" data-option-position="2">
+            <legend class="product-form__group-name body-normal">Color
+                <span id="ColorName-template--27266933817719__main_product-color" class="body-normal">Blue</span>
+              
+
+              
+
+            </legend>
+            <div class="product-form__controls-group">
+              
+
+
+  
+
+  
+  
+  
+
+<input type="radio" id="template--27266933817719__main_product-2-0-15252589969783" name="Color-template--27266933817719__main_product-15252589969783" value="Blue" data-variant-id="56219239186807" form="product-form-template--27266933817719__main_product" checked="" tabindex="-1" aria-label="Blue" data-option-value-id="12613564039543" style="">
+    
+<label for="template--27266933817719__main_product-2-0-15252589969783" class="color-swatch" style="--swatch-color: rgb(0 91 211);" title="Blue" tabindex="0" onkeydown="if(event.key==='Enter'||event.key===' '){event.preventDefault();document.getElementById(this.getAttribute('for')).click();}" data-unavailable-color-label="N/A">
+        <span class="visually-hidden">Blue</span>
+      </label>
+
+  
+
+  
+  
+  
+
+<input type="radio" id="template--27266933817719__main_product-2-1-15252589969783" name="Color-template--27266933817719__main_product-15252589969783" value="Red" data-variant-id="56821943435639" form="product-form-template--27266933817719__main_product" tabindex="-1" aria-label="Red" data-option-value-id="12613564072311" style="">
+    
+<label for="template--27266933817719__main_product-2-1-15252589969783" class="color-swatch" style="--swatch-color: rgb(246 31 31);" title="Red" tabindex="0" onkeydown="if(event.key==='Enter'||event.key===' '){event.preventDefault();document.getElementById(this.getAttribute('for')).click();}" data-unavailable-color-label="N/A">
+        <span class="visually-hidden">Red</span>
+      </label>
+
+  
+
+  
+  
+  
+
+<input type="radio" id="template--27266933817719__main_product-2-2-15252589969783" name="Color-template--27266933817719__main_product-15252589969783" value="Green" data-variant-id="56821943468407" form="product-form-template--27266933817719__main_product" tabindex="-1" aria-label="Green" data-option-value-id="12613564105079" style="">
+    
+<label for="template--27266933817719__main_product-2-2-15252589969783" class="color-swatch" style="--swatch-color: rgb(5 170 61);" title="Green" tabindex="0" onkeydown="if(event.key==='Enter'||event.key===' '){event.preventDefault();document.getElementById(this.getAttribute('for')).click();}" data-unavailable-color-label="N/A">
+        <span class="visually-hidden">Green</span>
+      </label>
+
+              
+            </div></fieldset><script type="application/json" data-all-variants-no-high="">
+          [{"id":56219239186807,"title":"A5 \/ Blue","option1":"A5","option2":"Blue","option3":null,"sku":null,"requires_shipping":true,"taxable":true,"featured_image":{"id":82281582854519,"product_id":15252589969783,"position":1,"created_at":"2025-11-21T04:30:07-05:00","updated_at":"2025-11-21T04:30:11-05:00","alt":null,"width":1701,"height":2268,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/01-planner.jpg?v=1763717411","variant_ids":[56219239186807,56219239219575,56219239252343]},"available":true,"name":"Planificateur de structure quotidienne - A5 \/ Blue","public_title":"A5 \/ Blue","options":["A5","Blue"],"price":1400,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","featured_media":{"alt":null,"id":67602156192119,"position":1,"preview_image":{"aspect_ratio":0.75,"height":2268,"width":1701,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/01-planner.jpg?v=1763717411"}},"requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56821943435639,"title":"A5 \/ Red","option1":"A5","option2":"Red","option3":null,"sku":null,"requires_shipping":true,"taxable":true,"featured_image":null,"available":true,"name":"Planificateur de structure quotidienne - A5 \/ Red","public_title":"A5 \/ Red","options":["A5","Red"],"price":1400,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56821943468407,"title":"A5 \/ Green","option1":"A5","option2":"Green","option3":null,"sku":null,"requires_shipping":true,"taxable":true,"featured_image":null,"available":true,"name":"Planificateur de structure quotidienne - A5 \/ Green","public_title":"A5 \/ Green","options":["A5","Green"],"price":1400,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56219239219575,"title":"A4 \/ Blue","option1":"A4","option2":"Blue","option3":null,"sku":null,"requires_shipping":true,"taxable":true,"featured_image":{"id":82281582854519,"product_id":15252589969783,"position":1,"created_at":"2025-11-21T04:30:07-05:00","updated_at":"2025-11-21T04:30:11-05:00","alt":null,"width":1701,"height":2268,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/01-planner.jpg?v=1763717411","variant_ids":[56219239186807,56219239219575,56219239252343]},"available":true,"name":"Planificateur de structure quotidienne - A4 \/ Blue","public_title":"A4 \/ Blue","options":["A4","Blue"],"price":1400,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","featured_media":{"alt":null,"id":67602156192119,"position":1,"preview_image":{"aspect_ratio":0.75,"height":2268,"width":1701,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/01-planner.jpg?v=1763717411"}},"requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56821943501175,"title":"A4 \/ Red","option1":"A4","option2":"Red","option3":null,"sku":null,"requires_shipping":true,"taxable":true,"featured_image":null,"available":true,"name":"Planificateur de structure quotidienne - A4 \/ Red","public_title":"A4 \/ Red","options":["A4","Red"],"price":1400,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56821943533943,"title":"A4 \/ Green","option1":"A4","option2":"Green","option3":null,"sku":null,"requires_shipping":true,"taxable":true,"featured_image":null,"available":true,"name":"Planificateur de structure quotidienne - A4 \/ Green","public_title":"A4 \/ Green","options":["A4","Green"],"price":1400,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56219239252343,"title":"A3 \/ Blue","option1":"A3","option2":"Blue","option3":null,"sku":null,"requires_shipping":true,"taxable":true,"featured_image":{"id":82281582854519,"product_id":15252589969783,"position":1,"created_at":"2025-11-21T04:30:07-05:00","updated_at":"2025-11-21T04:30:11-05:00","alt":null,"width":1701,"height":2268,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/01-planner.jpg?v=1763717411","variant_ids":[56219239186807,56219239219575,56219239252343]},"available":true,"name":"Planificateur de structure quotidienne - A3 \/ Blue","public_title":"A3 \/ Blue","options":["A3","Blue"],"price":1400,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","featured_media":{"alt":null,"id":67602156192119,"position":1,"preview_image":{"aspect_ratio":0.75,"height":2268,"width":1701,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/01-planner.jpg?v=1763717411"}},"requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56821943566711,"title":"A3 \/ Red","option1":"A3","option2":"Red","option3":null,"sku":null,"requires_shipping":true,"taxable":true,"featured_image":null,"available":true,"name":"Planificateur de structure quotidienne - A3 \/ Red","public_title":"A3 \/ Red","options":["A3","Red"],"price":1400,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56821943599479,"title":"A3 \/ Green","option1":"A3","option2":"Green","option3":null,"sku":null,"requires_shipping":true,"taxable":true,"featured_image":null,"available":true,"name":"Planificateur de structure quotidienne - A3 \/ Green","public_title":"A3 \/ Green","options":["A3","Green"],"price":1400,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","requires_selling_plan":false,"selling_plan_allocations":[]}]
+        </script>
+
+        <script type="application/json" data-selected-variant="">
+          {"id":56219239186807,"title":"A5 \/ Blue","option1":"A5","option2":"Blue","option3":null,"sku":null,"requires_shipping":true,"taxable":true,"featured_image":{"id":82281582854519,"product_id":15252589969783,"position":1,"created_at":"2025-11-21T04:30:07-05:00","updated_at":"2025-11-21T04:30:11-05:00","alt":null,"width":1701,"height":2268,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/01-planner.jpg?v=1763717411","variant_ids":[56219239186807,56219239219575,56219239252343]},"available":true,"name":"Planificateur de structure quotidienne - A5 \/ Blue","public_title":"A5 \/ Blue","options":["A5","Blue"],"price":1400,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","featured_media":{"alt":null,"id":67602156192119,"position":1,"preview_image":{"aspect_ratio":0.75,"height":2268,"width":1701,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/01-planner.jpg?v=1763717411"}},"requires_selling_plan":false,"selling_plan_allocations":[]}
+        </script>
+      </variant-radios><noscript class="product-form__noscript-wrapper-template--27266933817719__main_product">
+        <fieldset class="product-form__controls ">
+          <label for="Variants-template--27266933817719__main_product" class="product-form__group-name">Variantes de produits</label>
+          <div class="product-form__controls-group">
+            <div class="select">
+              <select
+                name="id"
+                id="Variants-template--27266933817719__main_product"
+                class="select__select"
+                form="product-form-template--27266933817719__main_product"
+              ><option
+                    
+                      selected="selected"
+                    
+                    
+                    value="56219239186807"
+                  >A5 / Blue - $14.00</option><option
+                    
+                    
+                    value="56821943435639"
+                  >A5 / Red - $14.00</option><option
+                    
+                    
+                    value="56821943468407"
+                  >A5 / Green - $14.00</option><option
+                    
+                    
+                    value="56219239219575"
+                  >A4 / Blue - $14.00</option><option
+                    
+                    
+                    value="56821943501175"
+                  >A4 / Red - $14.00</option><option
+                    
+                    
+                    value="56821943533943"
+                  >A4 / Green - $14.00</option><option
+                    
+                    
+                    value="56219239252343"
+                  >A3 / Blue - $14.00</option><option
+                    
+                    
+                    value="56821943566711"
+                  >A3 / Red - $14.00</option><option
+                    
+                    
+                    value="56821943599479"
+                  >A3 / Green - $14.00</option></select>
+              <svg class="icon icon-caret" width="18" height="18" viewBox="0 0 18 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M5.5 7.5L9 11L12.5 7.5" stroke="currentColor" stroke-width="1.5"/>
+</svg>
+            </div>
+          </div>
+        </fieldset>
+      </noscript></div>
+
+
+<div class="product__buy-buttons"><product-form class="product-form" data-hide-errors="false">
+    <div class="product-form__error-message-wrapper" role="alert" hidden="">
+      <svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-error" viewBox="0 0 13 13">
+  <circle cx="6.5" cy="6.50049" r="5.5" stroke="white" stroke-width="2"></circle>
+  <circle cx="6.5" cy="6.5" r="5.5" fill="#B73C24" stroke="#B73C24" stroke-width="0.7"></circle>
+  <path d="M5.87413 3.52832L5.97439 7.57216H7.02713L7.12739 3.52832H5.87413ZM6.50076 9.66091C6.88091 9.66091 7.18169 9.37267 7.18169 9.00504C7.18169 8.63742 6.88091 8.34917 6.50076 8.34917C6.12061 8.34917 5.81982 8.63742 5.81982 9.00504C5.81982 9.37267 6.12061 9.66091 6.50076 9.66091Z" fill="white"></path>
+  <path d="M5.87413 3.17832H5.51535L5.52424 3.537L5.6245 7.58083L5.63296 7.92216H5.97439H7.02713H7.36856L7.37702 7.58083L7.47728 3.537L7.48617 3.17832H7.12739H5.87413ZM6.50076 10.0109C7.06121 10.0109 7.5317 9.57872 7.5317 9.00504C7.5317 8.43137 7.06121 7.99918 6.50076 7.99918C5.94031 7.99918 5.46982 8.43137 5.46982 9.00504C5.46982 9.57872 5.94031 10.0109 6.50076 10.0109Z" fill="white" stroke="#B73C24" stroke-width="0.7">
+</path></svg>
+
+      <span class="product-form__error-message"></span>
+    </div><form method="post" action="/fr/cart/add" id="product-form-template--27266933817719__main_product" accept-charset="UTF-8" class="form" enctype="multipart/form-data" novalidate="novalidate" data-type="add-to-cart-form"><input type="hidden" name="form_type" value="product" style=""><input type="hidden" name="utf8" value="✓" style=""><input type="hidden" name="id" value="56219239186807" style=""><div class="product-form__buttons">
+        <div class="product-form__buttons-row"><div class="product-form__input product-form__quantity no-js-hidden"><quantity-input class="quantity">
+                <button class="quantity__button no-js-hidden focus-inset disabled" name="minus" type="button">
+                  <span class="visually-hidden">Diminuer la quantité pour Planificateur de structure quotidienne</span>
+                  <svg class="icon icon-minus" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect x="2" y="7" width="12" height="2" fill="currentColor"></rect>
+</svg>
+
+                </button>
+                <input class="quantity__input focus-inset" type="number" name="quantity" id="Quantity-template--27266933817719__main_product" data-cart-quantity="0" data-min="1" min="1" data-max="" max="" step="1" value="1" form="product-form-template--27266933817719__main_product" style="">
+                <label class="visually-hidden" for="Quantity-template--27266933817719__main_product">
+                  Quantité
+                </label>
+                <button class="quantity__button no-js-hidden focus-inset" name="plus" type="button">
+                  <span class="visually-hidden">Augmenter la quantité pour Planificateur de structure quotidienne</span>
+                  <svg class="icon icon-plus" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect x="2" y="7" width="12" height="2" fill="currentColor"></rect>
+  <rect x="7" y="14" width="12" height="2" transform="rotate(-90 7 14)" fill="currentColor"></rect>
+</svg>
+
+                </button>
+              </quantity-input>
+              <div class="quantity__rules body-small"></div>
+            </div><button type="submit" name="add" class="product-form__submit button button--primary focus-inset" aria-haspopup="dialog">
+            <div class="button__content"><span class="button__label" data-label="Ajouter au panier">Ajouter au panier</span></div>
+
+            <div class="loading-overlay__spinner hidden"><svg aria-hidden="true" focusable="false" role="presentation" class="spinner" viewBox="0 0 66 66" xmlns="http://www.w3.org/2000/svg">
+  <circle class="path" fill="none" stroke-width="5" cx="33" cy="33" r="30"></circle>
+</svg>
+</div>
+          </button></div></div><input type="hidden" name="product-id" value="15252589969783" style=""><input type="hidden" name="section-id" value="template--27266933817719__main_product" style=""></form></product-form>
+</div>
+
+
+<div class="product-icon-with-text "><div class="product-icon-with-text__icon product-icon-with-text__icon--with-dm-icon">
+            <img src="//shift-sketch.myshopify.com/cdn/shop/files/Truck_SVG_Icon_1.svg?v=1770371585&amp;width=120" alt="" srcset="//shift-sketch.myshopify.com/cdn/shop/files/Truck_SVG_Icon_1.svg?v=1770371585&amp;width=30 30w, //shift-sketch.myshopify.com/cdn/shop/files/Truck_SVG_Icon_1.svg?v=1770371585&amp;width=60 60w, //shift-sketch.myshopify.com/cdn/shop/files/Truck_SVG_Icon_1.svg?v=1770371585&amp;width=90 90w, //shift-sketch.myshopify.com/cdn/shop/files/Truck_SVG_Icon_1.svg?v=1770371585&amp;width=120 120w" width="40" height="40.0" style="object-fit: cover;" class="product-icon-with-text__icon-image">
+
+            <img src="//shift-sketch.myshopify.com/cdn/shop/files/Truck_SVG_Icon_1-white.svg?v=1772453260&amp;width=120" alt="" srcset="//shift-sketch.myshopify.com/cdn/shop/files/Truck_SVG_Icon_1-white.svg?v=1772453260&amp;width=30 30w, //shift-sketch.myshopify.com/cdn/shop/files/Truck_SVG_Icon_1-white.svg?v=1772453260&amp;width=60 60w, //shift-sketch.myshopify.com/cdn/shop/files/Truck_SVG_Icon_1-white.svg?v=1772453260&amp;width=90 90w, //shift-sketch.myshopify.com/cdn/shop/files/Truck_SVG_Icon_1-white.svg?v=1772453260&amp;width=120 120w" width="40" height="40.0" style="object-fit: cover;" class="product-icon-with-text__icon-image product-icon-with-text__icon-image--dark">
+</div><div class="product-icon-with-text__text body-small richtext-link-inside">Titre de l'article ici</div></div>
+
+
+<div class="product__divider product__divider--border" style="margin-top: 40px;margin-bottom: 0;"></div>
+
+
+
+<div class="product__description rte rte--product body-small" style="--rte-object-fit: cover"><p>Un outil fiable pour un usage quotidien, conçu pour faciliter la planification, la prise de notes et les travaux créatifs. Son design épuré et sa construction robuste le rendent idéal pour une utilisation personnelle, scolaire ou professionnelle.</p></div>
+<div class="popups-group">
+                  
+
+<div class="product-popups-group no-js-hidden"><div class="product-popup">
+        <modal-opener data-modal="#ProductPopupsModal-popups_group">
+          <button id="ProductPopupsOpener-popups_group-1" class="product-popups-group__button button button--tertiary focus-inset" type="button" aria-haspopup="dialog" data-popup-trigger="1">
+            <span class="button__content">
+              <span class="button__icons-container">
+                <svg class="icon icon-arrow--tertiary-button" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M1.0278 8.04455L15.0738 8.04455M15.0738 8.04455L7.95312 15.1653M15.0738 8.04455L7.95312 0.923828" stroke="currentColor" stroke-linecap="square"></path>
+</svg>
+
+                <svg class="icon icon-arrow--tertiary-button" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M1.0278 8.04455L15.0738 8.04455M15.0738 8.04455L7.95312 15.1653M15.0738 8.04455L7.95312 0.923828" stroke="currentColor" stroke-linecap="square"></path>
+</svg>
+
+              </span>
+              <span class="button__label body-small">
+                Caractéristiques
+              </span>
+            </span>
+          </button>
+        </modal-opener>
+      </div><div class="product-popup">
+        <modal-opener data-modal="#ProductPopupsModal-popups_group">
+          <button id="ProductPopupsOpener-popups_group-2" class="product-popups-group__button button button--tertiary focus-inset" type="button" aria-haspopup="dialog" data-popup-trigger="2">
+            <span class="button__content">
+              <span class="button__icons-container">
+                <svg class="icon icon-arrow--tertiary-button" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M1.0278 8.04455L15.0738 8.04455M15.0738 8.04455L7.95312 15.1653M15.0738 8.04455L7.95312 0.923828" stroke="currentColor" stroke-linecap="square"></path>
+</svg>
+
+                <svg class="icon icon-arrow--tertiary-button" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M1.0278 8.04455L15.0738 8.04455M15.0738 8.04455L7.95312 15.1653M15.0738 8.04455L7.95312 0.923828" stroke="currentColor" stroke-linecap="square"></path>
+</svg>
+
+              </span>
+              <span class="button__label body-small">
+                Mesures
+              </span>
+            </span>
+          </button>
+        </modal-opener>
+      </div><div class="product-popup">
+        <modal-opener data-modal="#ProductPopupsModal-popups_group">
+          <button id="ProductPopupsOpener-popups_group-3" class="product-popups-group__button button button--tertiary focus-inset" type="button" aria-haspopup="dialog" data-popup-trigger="3">
+            <span class="button__content">
+              <span class="button__icons-container">
+                <svg class="icon icon-arrow--tertiary-button" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M1.0278 8.04455L15.0738 8.04455M15.0738 8.04455L7.95312 15.1653M15.0738 8.04455L7.95312 0.923828" stroke="currentColor" stroke-linecap="square"></path>
+</svg>
+
+                <svg class="icon icon-arrow--tertiary-button" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M1.0278 8.04455L15.0738 8.04455M15.0738 8.04455L7.95312 15.1653M15.0738 8.04455L7.95312 0.923828" stroke="currentColor" stroke-linecap="square"></path>
+</svg>
+
+              </span>
+              <span class="button__label body-small">
+                Expédition et retours
+              </span>
+            </span>
+          </button>
+        </modal-opener>
+      </div>
+</div>
+
+<script>
+  (function () {
+    const updateNavigationHeight = (modal) => {
+      const content = modal.querySelector('.product-popups-modal__content');
+      const navigation = modal.querySelector('.popups__group-navigation');
+      if (content && navigation) {
+        const height = navigation.offsetHeight;
+        content.style.setProperty('--popups-group-navigation-height', `${height}px`);
+      }
+    };
+
+    const initProductPopups = (section) => {
+      if (!section) return;
+
+      const modal = section.querySelector('[id^="ProductPopupsModal-"]');
+      if (!modal) return;
+
+      const navItems = modal.querySelectorAll('.popups__nav-item');
+      const contentItems = modal.querySelectorAll('.popups__content-item');
+
+      updateNavigationHeight(modal);
+
+      const resizeObserver = new ResizeObserver(() => {
+        updateNavigationHeight(modal);
+      });
+      const navigation = modal.querySelector('.popups__group-navigation');
+      if (navigation) {
+        resizeObserver.observe(navigation);
+      }
+
+      navItems.forEach((navItem) => {
+        navItem.addEventListener('click', function () {
+          const targetId = this.getAttribute('data-popup-target');
+
+          // Remove active from all nav
+          navItems.forEach((item) => {
+            item.classList.remove('popups__nav-item--active');
+            const icon = item.querySelector('.popups__nav-icon');
+            if (icon) icon.style.width = '0';
+          });
+
+          // Activate clicked nav
+          this.classList.add('popups__nav-item--active');
+          const activeIcon = this.querySelector('.popups__nav-icon');
+          if (activeIcon) activeIcon.style.width = '18px';
+
+          // Hide all content
+          contentItems.forEach((item) => {
+            item.classList.remove('popups__content-item--active');
+          });
+
+          // Show target content
+          const targetContent = modal.querySelector(`[data-popup-content="${targetId}"]`);
+          if (targetContent) {
+            targetContent.classList.add('popups__content-item--active');
+          }
+        });
+      });
+
+      // Opening modal with specific tab
+      const openers = document.querySelectorAll('[data-popup-trigger]');
+      openers.forEach((opener) => {
+        opener.addEventListener('click', function () {
+          const triggerTab = this.getAttribute('data-popup-trigger');
+
+          setTimeout(() => {
+            const targetNav = modal.querySelector(`[data-popup-target="page-${triggerTab}"]`);
+            if (targetNav) targetNav.click();
+            updateNavigationHeight(modal);
+          }, 100);
+        });
+      });
+
+      const modalDialog = section.querySelector('modal-dialog');
+      if (modalDialog) {
+        const observer = new MutationObserver(() => {
+          if (modalDialog.hasAttribute('open')) {
+            setTimeout(() => updateNavigationHeight(modal), 100);
+          }
+        });
+        observer.observe(modalDialog, { attributes: true, attributeFilter: ['open'] });
+        
+        window.addEventListener('resize', () => {
+          if (modalDialog.hasAttribute('open')) {
+            updateNavigationHeight(modal);
+          }
+        });
+      }
+    };
+
+    // Init for theme editor and on page load
+    initProductPopups(document.currentScript.parentElement);
+
+    document.addEventListener('shopify:section:load', (event) => {
+      initProductPopups(event.target);
+    });
+  })();
+</script>
+
+                </div>
+
+<div class="product__divider product__divider--border" style="margin-top: 16px;margin-bottom: 0;"></div>
+
+
+<div class="product__share" aria-label="list"><span class="product__share-label body-normal">Partager</span><ul class="product__share-list list-unstyled"><li>
+          <a href="https://www.facebook.com/sharer.php?u=https://shift-sketch.myshopify.com/fr/products/daily-structure-planner" class="list-social__link focus-inset" target="_blank" aria-label="Facebook S'ouvre dans une nouvelle fenêtre.">
+            <svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-facebook" width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M20 10C20 4.48 15.52 0 10 0C4.48 0 0 4.48 0 10C0 14.84 3.44 18.87 8 19.8V13H6V10H8V7.5C8 5.57 9.57 4 11.5 4H14V7H12C11.45 7 11 7.45 11 8V10H14V13H11V19.95C16.05 19.45 20 15.19 20 10Z" fill="currentColor"></path>
+</svg>
+
+          </a>
+        </li><li>
+          <a href="https://twitter.com/share?url=https://shift-sketch.myshopify.com/fr/products/daily-structure-planner&amp;text=Planificateur de structure quotidienne" class="list-social__link focus-inset" target="_blank" aria-label="X (Twitter) S'ouvre dans une nouvelle fenêtre.">
+            <svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-twitter" width="18" height="18" viewBox="0 0 18 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M10.7124 7.62177L17.4133 0L15.8254 0L10.0071 6.61788L5.35992 0L0 0L7.02738 10.0074L0 18H1.58799L7.73237 11.0113L12.6401 18H18L10.7121 7.62177H10.7124ZM8.53747 10.0956L7.82546 9.09906L2.16017 1.16971L4.59922 1.16971L9.17118 7.56895L9.8832 8.56546L15.8262 16.8835H13.3871L8.53747 10.096V10.0956Z" fill="currentColor"></path>
+</svg>
+
+          </a>
+        </li><li><a href="https://pinterest.com/pin/create/bookmarklet/?media=//shift-sketch.myshopify.com/cdn/shop/files/01-planner.jpg?crop=center&amp;height=2268&amp;v=1763717411&amp;width=1701&amp;url=https://shift-sketch.myshopify.com/fr/products/daily-structure-planner&amp;description=Planificateur de structure quotidienne" class="list-social__link focus-inset" target="_blank" aria-label="Pinterest S'ouvre dans une nouvelle fenêtre.">
+            <svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-pinterest" width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M10 0C4.47656 0 0 4.47656 0 10C0 14.2383 2.63672 17.8555 6.35547 19.3125C6.26953 18.5195 6.1875 17.3086 6.39062 16.4453C6.57422 15.6641 7.5625 11.4766 7.5625 11.4766C7.5625 11.4766 7.26172 10.8789 7.26172 9.99219C7.26172 8.60156 8.06641 7.5625 9.07031 7.5625C9.92187 7.5625 10.3359 8.20312 10.3359 8.97266C10.3359 9.83203 9.78906 11.1133 9.50781 12.3008C9.27344 13.2969 10.0078 14.1094 10.9883 14.1094C12.7656 14.1094 14.1328 12.2344 14.1328 9.53125C14.1328 7.13672 12.4141 5.46094 9.95703 5.46094C7.11328 5.46094 5.44141 7.59375 5.44141 9.80078C5.44141 10.6602 5.77344 11.582 6.1875 12.082C6.26953 12.1797 6.28125 12.2695 6.25781 12.3672C6.18359 12.6836 6.01172 13.3633 5.98047 13.5C5.9375 13.6836 5.83594 13.7227 5.64453 13.6328C4.39453 13.0508 3.61328 11.2266 3.61328 9.75781C3.61328 6.60156 5.90625 3.70703 10.2188 3.70703C13.6875 3.70703 16.3828 6.17969 16.3828 9.48438C16.3828 12.9297 14.2109 15.7031 11.1953 15.7031C10.1836 15.7031 9.23047 15.1758 8.90234 14.5547C8.90234 14.5547 8.40234 16.4648 8.28125 16.9336C8.05469 17.8008 7.44531 18.8906 7.03906 19.5547C7.97656 19.8438 8.96875 20 10 20C15.5234 20 20 15.5234 20 10C20 4.47656 15.5234 0 10 0Z" fill="currentColor"></path>
+</svg>
+
+          </a>
+        </li></ul>
+  </div>
+
+      </div>
+    </div>
+  </div>
+
+  
+
+
+
+
+
+
+
+
+  <script type="application/ld+json">
+    {"@context":"http:\/\/schema.org\/","@id":"\/fr\/products\/daily-structure-planner#product","@type":"ProductGroup","brand":{"@type":"Brand","name":"Shift Sketch"},"category":"Planificateurs","description":" Un outil fiable pour un usage quotidien, conçu pour faciliter la planification, la prise de notes et les travaux créatifs. Son design épuré et sa construction robuste le rendent idéal pour une utilisation personnelle, scolaire ou professionnelle.","hasVariant":[{"@id":"\/fr\/products\/daily-structure-planner?variant=56219239186807#variant","@type":"Product","image":"https:\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/01-planner.jpg?v=1763717411\u0026width=1920","name":"Planificateur de structure quotidienne - A5 \/ Blue","offers":{"@id":"\/fr\/products\/daily-structure-planner?variant=56219239186807#offer","@type":"Offer","availability":"http:\/\/schema.org\/InStock","price":"14.00","priceCurrency":"USD","url":"https:\/\/shift-sketch.myshopify.com\/fr\/products\/daily-structure-planner?variant=56219239186807"}},{"@id":"\/fr\/products\/daily-structure-planner?variant=56821943435639#variant","@type":"Product","image":"https:\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/01-planner.jpg?v=1763717411\u0026width=1920","name":"Planificateur de structure quotidienne - A5 \/ Red","offers":{"@id":"\/fr\/products\/daily-structure-planner?variant=56821943435639#offer","@type":"Offer","availability":"http:\/\/schema.org\/InStock","price":"14.00","priceCurrency":"USD","url":"https:\/\/shift-sketch.myshopify.com\/fr\/products\/daily-structure-planner?variant=56821943435639"}},{"@id":"\/fr\/products\/daily-structure-planner?variant=56821943468407#variant","@type":"Product","image":"https:\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/01-planner.jpg?v=1763717411\u0026width=1920","name":"Planificateur de structure quotidienne - A5 \/ Green","offers":{"@id":"\/fr\/products\/daily-structure-planner?variant=56821943468407#offer","@type":"Offer","availability":"http:\/\/schema.org\/InStock","price":"14.00","priceCurrency":"USD","url":"https:\/\/shift-sketch.myshopify.com\/fr\/products\/daily-structure-planner?variant=56821943468407"}},{"@id":"\/fr\/products\/daily-structure-planner?variant=56219239219575#variant","@type":"Product","image":"https:\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/01-planner.jpg?v=1763717411\u0026width=1920","name":"Planificateur de structure quotidienne - A4 \/ Blue","offers":{"@id":"\/fr\/products\/daily-structure-planner?variant=56219239219575#offer","@type":"Offer","availability":"http:\/\/schema.org\/InStock","price":"14.00","priceCurrency":"USD","url":"https:\/\/shift-sketch.myshopify.com\/fr\/products\/daily-structure-planner?variant=56219239219575"}},{"@id":"\/fr\/products\/daily-structure-planner?variant=56821943501175#variant","@type":"Product","image":"https:\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/01-planner.jpg?v=1763717411\u0026width=1920","name":"Planificateur de structure quotidienne - A4 \/ Red","offers":{"@id":"\/fr\/products\/daily-structure-planner?variant=56821943501175#offer","@type":"Offer","availability":"http:\/\/schema.org\/InStock","price":"14.00","priceCurrency":"USD","url":"https:\/\/shift-sketch.myshopify.com\/fr\/products\/daily-structure-planner?variant=56821943501175"}},{"@id":"\/fr\/products\/daily-structure-planner?variant=56821943533943#variant","@type":"Product","image":"https:\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/01-planner.jpg?v=1763717411\u0026width=1920","name":"Planificateur de structure quotidienne - A4 \/ Green","offers":{"@id":"\/fr\/products\/daily-structure-planner?variant=56821943533943#offer","@type":"Offer","availability":"http:\/\/schema.org\/InStock","price":"14.00","priceCurrency":"USD","url":"https:\/\/shift-sketch.myshopify.com\/fr\/products\/daily-structure-planner?variant=56821943533943"}},{"@id":"\/fr\/products\/daily-structure-planner?variant=56219239252343#variant","@type":"Product","image":"https:\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/01-planner.jpg?v=1763717411\u0026width=1920","name":"Planificateur de structure quotidienne - A3 \/ Blue","offers":{"@id":"\/fr\/products\/daily-structure-planner?variant=56219239252343#offer","@type":"Offer","availability":"http:\/\/schema.org\/InStock","price":"14.00","priceCurrency":"USD","url":"https:\/\/shift-sketch.myshopify.com\/fr\/products\/daily-structure-planner?variant=56219239252343"}},{"@id":"\/fr\/products\/daily-structure-planner?variant=56821943566711#variant","@type":"Product","image":"https:\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/01-planner.jpg?v=1763717411\u0026width=1920","name":"Planificateur de structure quotidienne - A3 \/ Red","offers":{"@id":"\/fr\/products\/daily-structure-planner?variant=56821943566711#offer","@type":"Offer","availability":"http:\/\/schema.org\/InStock","price":"14.00","priceCurrency":"USD","url":"https:\/\/shift-sketch.myshopify.com\/fr\/products\/daily-structure-planner?variant=56821943566711"}},{"@id":"\/fr\/products\/daily-structure-planner?variant=56821943599479#variant","@type":"Product","image":"https:\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/01-planner.jpg?v=1763717411\u0026width=1920","name":"Planificateur de structure quotidienne - A3 \/ Green","offers":{"@id":"\/fr\/products\/daily-structure-planner?variant=56821943599479#offer","@type":"Offer","availability":"http:\/\/schema.org\/InStock","price":"14.00","priceCurrency":"USD","url":"https:\/\/shift-sketch.myshopify.com\/fr\/products\/daily-structure-planner?variant=56821943599479"}}],"name":"Planificateur de structure quotidienne","productGroupID":"15252589969783","url":"https:\/\/shift-sketch.myshopify.com\/fr\/products\/daily-structure-planner"}
+  </script>
+
+  
+  <script>
+    (function () {
+      const parentElement = document.currentScript.parentElement;
+      const isQuickView = parentElement.closest('quick-view-modal');
+
+      if ('true' === 'false' && isQuickView) {
+        return;
+      }
+
+      const STORAGE_KEY = '__theme__recently_products';
+      const EXPIRATION_DAYS = 30;
+      const productId = '15252589969783';
+      const dateNow = Date.now();
+
+      let recentProducts;
+      try {
+        recentProducts = JSON.parse(localStorage.getItem(STORAGE_KEY)) || [];
+      } catch (error) {
+        recentProducts = [];
+      }
+
+      const expirationTime = EXPIRATION_DAYS * 24 * 60 * 60 * 1000;
+      recentProducts = recentProducts.filter((item) => dateNow - item.timestamp < expirationTime);
+
+      const existingIndex = recentProducts.findIndex((item) => item.productId == productId);
+      if (existingIndex !== -1) {
+        recentProducts[existingIndex].timestamp = dateNow;
+      } else {
+        recentProducts.unshift({ productId, timestamp: dateNow });
+      }
+
+      recentProducts.sort((a, b) => b.timestamp - a.timestamp);
+      localStorage.setItem(STORAGE_KEY, JSON.stringify(recentProducts));
+    })();
+  </script>
+</div>
+</section>
+```
+
+## 2. shopify-section-template--27266933817719__product_details_pV4wH9
+
+- Tag: section
+- Classes: shopify-section product-details-section
+- Headings: À propos du produit
+
+```html
+<section id="shopify-section-template--27266933817719__product_details_pV4wH9" class="shopify-section product-details-section"><link href="//shift-sketch.myshopify.com/cdn/shop/t/2/assets/section-product-details.css?v=19368341192221459551766398542" rel="stylesheet" type="text/css" media="all">
+<script src="//shift-sketch.myshopify.com/cdn/shop/t/2/assets/product-details.js?v=1439115530302341871766398541" defer="defer"></script><style data-shopify="">#shopify-section-template--27266933817719__product_details_pV4wH9 {
+
+  padding-top: 0;
+
+
+
+  padding-bottom: 6rem;
+
+}
+
+@media screen and (min-width: 750px) { #shopify-section-template--27266933817719__product_details_pV4wH9 {
+
+  padding-top: 0;
+
+
+
+  padding-bottom: 8rem;
+
+} }
+
+@media screen and (min-width: 1440px) { #shopify-section-template--27266933817719__product_details_pV4wH9 {
+
+  padding-top: 0;
+
+
+
+  padding-bottom: 12rem;
+
+
+} }
+
+</style>
+
+
+<style data-shopify="">.product-details-template--27266933817719__product_details_pV4wH9 .product-details__image-primary-wrapper::before {
+    content: '';
+    display: block;
+    width: 0;
+    padding-bottom: 138.4%;
+  }
+  .product-details-template--27266933817719__product_details_pV4wH9 .product-details__image-secondary-wrapper::before {
+    content: '';
+    display: block;
+    width: 0;
+    padding-bottom: 138.4%;
+  }</style><div class="product-details product-details-template--27266933817719__product_details_pV4wH9 background">
+  
+
+
+<div class="container heading-group product-details-header heading-group-center heading-group--border-bottom"><div class="heading-group__left">
+        
+<h2 class="title h5 size--h5 product-details-header__title richtext-link-inside">À propos du produit</h2></div></div>
+
+
+
+  <div class="product-details__wrapper container">
+    
+      <div class="product-details__main-description body-extra-large richtext-link-inside">
+        Conçu avec des matériaux de qualité, ce meuble allie durabilité et élégance, avec des lignes épurées et des détails soignés. Disponible dans une variété de finitions et de couleurs, il apporte confort et personnalité à votre intérieur, que ce soit dans le salon, la salle à manger, la cuisine ou votre espace extérieur.
+      </div>
+    
+    <div class="product-details__content">
+      <div class="product-details__left-block">
+        <div class="product-details__left-inner product-details__left-inner-parallax" style="transform: translateY(150px);">
+          <div class="product-details__image-primary-wrapper product-details__image-wrapper product-details__animation-wrapper animate reveal--show">
+            
+            
+              
+              
+              
+<img src="//shift-sketch.myshopify.com/cdn/shop/files/02-product-01.jpg?v=1770805338&amp;width=1760" alt="" srcset="//shift-sketch.myshopify.com/cdn/shop/files/02-product-01.jpg?v=1770805338&amp;width=360 360w, //shift-sketch.myshopify.com/cdn/shop/files/02-product-01.jpg?v=1770805338&amp;width=535 535w, //shift-sketch.myshopify.com/cdn/shop/files/02-product-01.jpg?v=1770805338&amp;width=600 600w, //shift-sketch.myshopify.com/cdn/shop/files/02-product-01.jpg?v=1770805338&amp;width=720 720w, //shift-sketch.myshopify.com/cdn/shop/files/02-product-01.jpg?v=1770805338&amp;width=940 940w, //shift-sketch.myshopify.com/cdn/shop/files/02-product-01.jpg?v=1770805338&amp;width=1066 1066w, //shift-sketch.myshopify.com/cdn/shop/files/02-product-01.jpg?v=1770805338&amp;width=1200 1200w, //shift-sketch.myshopify.com/cdn/shop/files/02-product-01.jpg?v=1770805338&amp;width=1400 1400w, //shift-sketch.myshopify.com/cdn/shop/files/02-product-01.jpg?v=1770805338&amp;width=1600 1600w" width="1760" height="2171" loading="lazy" sizes="(min-width: 750px) calc(50vw * 1.07), calc(100vw * 1.07)" class="product-details__image-primary product-details__image product-details__animation-item" style="object-fit: cover">
+            
+          </div>
+          
+            <div class="product-details__item-description body-normal richtext-link-inside">
+              Fabriqué avec des matériaux haut de gamme et un souci du détail, ce meuble allie durabilité, confort et style intemporel pour s'adapter à tous les espaces.
+            </div>
+          
+        </div>
+      </div>
+
+      <div class="product-details__right-block">
+        <div class="product-details__image-secondary-wrapper product-details__image-wrapper product-details__animation-wrapper animate reveal--show">
+          
+          
+            
+            
+            
+<img src="//shift-sketch.myshopify.com/cdn/shop/files/02-product-02.jpg?v=1770805337&amp;width=1664" alt="" srcset="//shift-sketch.myshopify.com/cdn/shop/files/02-product-02.jpg?v=1770805337&amp;width=360 360w, //shift-sketch.myshopify.com/cdn/shop/files/02-product-02.jpg?v=1770805337&amp;width=535 535w, //shift-sketch.myshopify.com/cdn/shop/files/02-product-02.jpg?v=1770805337&amp;width=600 600w, //shift-sketch.myshopify.com/cdn/shop/files/02-product-02.jpg?v=1770805337&amp;width=720 720w, //shift-sketch.myshopify.com/cdn/shop/files/02-product-02.jpg?v=1770805337&amp;width=940 940w, //shift-sketch.myshopify.com/cdn/shop/files/02-product-02.jpg?v=1770805337&amp;width=1066 1066w, //shift-sketch.myshopify.com/cdn/shop/files/02-product-02.jpg?v=1770805337&amp;width=1200 1200w, //shift-sketch.myshopify.com/cdn/shop/files/02-product-02.jpg?v=1770805337&amp;width=1400 1400w, //shift-sketch.myshopify.com/cdn/shop/files/02-product-02.jpg?v=1770805337&amp;width=1600 1600w" width="1664" height="2218" loading="lazy" sizes="(min-width: 750px) calc(50vw * 1), calc(100vw * 1)" class="product-details__image-secondary product-details__image product-details__animation-item" style="object-fit: cover">
+          
+        </div>
+        
+      </div>
+    </div>
+  </div>
+</div>
+
+
+</section>
+```
+
+## 3. shopify-section-template--27266933817719__image_gallery_aWCMJP
+
+- Tag: section
+- Classes: shopify-section image-gallery-section spaced-section
+- Headings: Galerie
+
+```html
+<section id="shopify-section-template--27266933817719__image_gallery_aWCMJP" class="shopify-section image-gallery-section spaced-section"><link href="//shift-sketch.myshopify.com/cdn/shop/t/2/assets/section-image-gallery.css?v=27383795708030610641772798521" rel="stylesheet" type="text/css" media="all">
+<script src="//shift-sketch.myshopify.com/cdn/shop/t/2/assets/image-gallery.js?v=108319881750430937921772798520" defer="defer"></script>
+
+<style data-shopify="">
+  #shopify-section-template--27266933817719__image_gallery_aWCMJP {
+
+  padding-top: 0;
+
+
+
+  padding-bottom: 6rem;
+
+}
+
+@media screen and (min-width: 750px) { #shopify-section-template--27266933817719__image_gallery_aWCMJP {
+
+  padding-top: 0;
+
+
+
+  padding-bottom: 8rem;
+
+} }
+
+@media screen and (min-width: 1440px) { #shopify-section-template--27266933817719__image_gallery_aWCMJP {
+
+  padding-top: 0;
+
+
+
+  padding-bottom: 12rem;
+
+
+} }
+
+  .section-template--27266933817719__image_gallery_aWCMJP-padding {
+
+  padding-top: 0;
+
+
+
+  padding-bottom: 0;
+
+}
+
+@media screen and (min-width: 750px) { .section-template--27266933817719__image_gallery_aWCMJP-padding {
+
+  padding-top: 0;
+
+
+
+  padding-bottom: 0;
+
+} }
+
+@media screen and (min-width: 1440px) { .section-template--27266933817719__image_gallery_aWCMJP-padding {
+
+  padding-top: 0;
+
+
+
+  padding-bottom: 0;
+
+} }
+
+</style>
+
+
+
+
+<style data-shopify="">.section-template--27266933817719__image_gallery_aWCMJP-padding .image-gallery__slide-image_gallery_slide_hTad79::before {
+      content: "";
+      display: block;
+      width: 0;
+      padding-bottom: 125.0%;
+    }
+
+    @media screen and (min-width: 576px) {
+      .section-template--27266933817719__image_gallery_aWCMJP-padding .image-gallery__slide-image_gallery_slide_hTad79::before {
+        content: "";
+        display: block;
+        width: 0;
+        padding-bottom: 125.0%;
+      }
+    }</style>
+<style data-shopify="">.section-template--27266933817719__image_gallery_aWCMJP-padding .image-gallery__slide-image_gallery_slide_VTpHfw::before {
+      content: "";
+      display: block;
+      width: 0;
+      padding-bottom: 125.0%;
+    }
+
+    @media screen and (min-width: 576px) {
+      .section-template--27266933817719__image_gallery_aWCMJP-padding .image-gallery__slide-image_gallery_slide_VTpHfw::before {
+        content: "";
+        display: block;
+        width: 0;
+        padding-bottom: 125.0%;
+      }
+    }</style>
+<style data-shopify="">.section-template--27266933817719__image_gallery_aWCMJP-padding .image-gallery__slide-image_gallery_slide_YWxFrm::before {
+      content: "";
+      display: block;
+      width: 0;
+      padding-bottom: 125.0%;
+    }
+
+    @media screen and (min-width: 576px) {
+      .section-template--27266933817719__image_gallery_aWCMJP-padding .image-gallery__slide-image_gallery_slide_YWxFrm::before {
+        content: "";
+        display: block;
+        width: 0;
+        padding-bottom: 125.0%;
+      }
+    }</style>
+<style data-shopify="">.section-template--27266933817719__image_gallery_aWCMJP-padding .image-gallery__slide-image_gallery_slide_ytGNxy::before {
+      content: "";
+      display: block;
+      width: 0;
+      padding-bottom: 125.0%;
+    }
+
+    @media screen and (min-width: 576px) {
+      .section-template--27266933817719__image_gallery_aWCMJP-padding .image-gallery__slide-image_gallery_slide_ytGNxy::before {
+        content: "";
+        display: block;
+        width: 0;
+        padding-bottom: 125.0%;
+      }
+    }</style>
+<style data-shopify="">.section-template--27266933817719__image_gallery_aWCMJP-padding .image-gallery__slide-image_gallery_slide_Y4yCjQ::before {
+      content: "";
+      display: block;
+      width: 0;
+      padding-bottom: 125.0%;
+    }
+
+    @media screen and (min-width: 576px) {
+      .section-template--27266933817719__image_gallery_aWCMJP-padding .image-gallery__slide-image_gallery_slide_Y4yCjQ::before {
+        content: "";
+        display: block;
+        width: 0;
+        padding-bottom: 125.0%;
+      }
+    }</style>
+<style data-shopify="">.section-template--27266933817719__image_gallery_aWCMJP-padding .image-gallery__slide-image_gallery_slide_kMzeVm::before {
+      content: "";
+      display: block;
+      width: 0;
+      padding-bottom: 125.0%;
+    }
+
+    @media screen and (min-width: 576px) {
+      .section-template--27266933817719__image_gallery_aWCMJP-padding .image-gallery__slide-image_gallery_slide_kMzeVm::before {
+        content: "";
+        display: block;
+        width: 0;
+        padding-bottom: 125.0%;
+      }
+    }</style>
+
+<div class="image-gallery color-background-1 background section-template--27266933817719__image_gallery_aWCMJP-padding">
+  
+
+
+<div class="container heading-group popular-products-header heading-group-center heading-group--border-bottom"><div class="heading-group__left">
+        
+<h2 class="title h5 size--h5 popular-products-header__title richtext-link-inside">Galerie</h2></div><div class="heading-group__actions heading-group__actions--end-on-mobile"><div class="heading-group__navigation no-js-hidden">
+            <button class="heading-group__navigation-button heading-group__navigation-button-prev swiper-button-prev focus-inset" tabindex="0" aria-label="Previous slide" aria-controls="swiper-wrapper-10b0ef61041072346b6">
+              <svg class="icon icon-arrow-slider-left" width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M14 2L6 10L14 18" stroke="currentColor"></path>
+</svg>
+
+            </button>
+            <button class="heading-group__navigation-button heading-group__navigation-button-next swiper-button-next focus-inset" tabindex="0" aria-label="Next slide" aria-controls="swiper-wrapper-10b0ef61041072346b6">
+              <svg class="icon icon-arrow-slider-right" width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M6 2L14 10L6 18" stroke="currentColor"></path>
+</svg>
+
+            </button>
+          </div></div></div>
+
+
+
+  <div class="image-gallery__wrapper" data-autoplay="false" data-loop="true" data-navigation="true" data-pagination="" data-slides-count="6" data-free-mode="">
+    <div class="image-gallery__slider swiper swiper-initialized swiper-horizontal swiper-backface-hidden">
+      <div class="image-gallery__slider-wrapper swiper-wrapper" id="swiper-wrapper-10b0ef61041072346b6" aria-live="polite" style="transition-duration: 0ms; transition-delay: 0ms; transform: translate3d(-475px, 0px, 0px);"><div class="image-gallery__slide image-gallery__slide-image_gallery_slide_Y4yCjQ swiper-slide" data-swiper-autoplay="5000" role="group" aria-label="5 / 6" data-swiper-slide-index="4" style="width: 451px; margin-right: 24px;">
+<img src="//shift-sketch.myshopify.com/cdn/shop/files/03-product-04.jpg?v=1770805466&amp;width=1856" alt="" srcset="//shift-sketch.myshopify.com/cdn/shop/files/03-product-04.jpg?v=1770805466&amp;width=550 550w, //shift-sketch.myshopify.com/cdn/shop/files/03-product-04.jpg?v=1770805466&amp;width=720 720w, //shift-sketch.myshopify.com/cdn/shop/files/03-product-04.jpg?v=1770805466&amp;width=990 990w, //shift-sketch.myshopify.com/cdn/shop/files/03-product-04.jpg?v=1770805466&amp;width=1200 1200w, //shift-sketch.myshopify.com/cdn/shop/files/03-product-04.jpg?v=1770805466&amp;width=1500 1500w, //shift-sketch.myshopify.com/cdn/shop/files/03-product-04.jpg?v=1770805466&amp;width=1800 1800w" width="1856" height="2290" loading="lazy" class="image-gallery__slide-image" sizes="100vw" style="object-position: 50.0% 50.0%;" fetchpriority="auto">
+<div class="image-gallery__slide-overlay" style="opacity: 0.0"></div>
+          </div><div class="image-gallery__slide image-gallery__slide-image_gallery_slide_kMzeVm swiper-slide swiper-slide-prev" data-swiper-autoplay="5000" role="group" aria-label="6 / 6" data-swiper-slide-index="5" style="width: 451px; margin-right: 24px;">
+<img src="//shift-sketch.myshopify.com/cdn/shop/files/03-product-05.jpg?v=1770805465&amp;width=1704" alt="" srcset="//shift-sketch.myshopify.com/cdn/shop/files/03-product-05.jpg?v=1770805465&amp;width=550 550w, //shift-sketch.myshopify.com/cdn/shop/files/03-product-05.jpg?v=1770805465&amp;width=720 720w, //shift-sketch.myshopify.com/cdn/shop/files/03-product-05.jpg?v=1770805465&amp;width=990 990w, //shift-sketch.myshopify.com/cdn/shop/files/03-product-05.jpg?v=1770805465&amp;width=1200 1200w, //shift-sketch.myshopify.com/cdn/shop/files/03-product-05.jpg?v=1770805465&amp;width=1500 1500w" width="1704" height="2272" loading="lazy" class="image-gallery__slide-image" sizes="100vw" style="object-position: 50.0% 50.0%;" fetchpriority="auto">
+<div class="image-gallery__slide-overlay" style="opacity: 0.0"></div>
+          </div><div class="image-gallery__slide image-gallery__slide-image_gallery_slide_hTad79 swiper-slide swiper-slide-active" data-swiper-autoplay="5000" role="group" aria-label="1 / 6" data-swiper-slide-index="0" style="width: 451px; margin-right: 24px;">
+<img src="//shift-sketch.myshopify.com/cdn/shop/files/03-product-06-v1.jpg?v=1770805466&amp;width=2048" alt="" srcset="//shift-sketch.myshopify.com/cdn/shop/files/03-product-06-v1.jpg?v=1770805466&amp;width=550 550w, //shift-sketch.myshopify.com/cdn/shop/files/03-product-06-v1.jpg?v=1770805466&amp;width=720 720w, //shift-sketch.myshopify.com/cdn/shop/files/03-product-06-v1.jpg?v=1770805466&amp;width=990 990w, //shift-sketch.myshopify.com/cdn/shop/files/03-product-06-v1.jpg?v=1770805466&amp;width=1200 1200w, //shift-sketch.myshopify.com/cdn/shop/files/03-product-06-v1.jpg?v=1770805466&amp;width=1500 1500w, //shift-sketch.myshopify.com/cdn/shop/files/03-product-06-v1.jpg?v=1770805466&amp;width=1800 1800w" width="2048" height="2528" loading="lazy" class="image-gallery__slide-image" sizes="100vw" style="object-position: 50.0% 50.0%;" fetchpriority="auto">
+<div class="image-gallery__slide-overlay" style="opacity: 0.0"></div>
+          </div><div class="image-gallery__slide image-gallery__slide-image_gallery_slide_VTpHfw swiper-slide swiper-slide-next" data-swiper-autoplay="5000" role="group" aria-label="2 / 6" data-swiper-slide-index="1" style="width: 451px; margin-right: 24px;">
+<img src="//shift-sketch.myshopify.com/cdn/shop/files/03-product-01.jpg?v=1770805411&amp;width=1538" alt="" srcset="//shift-sketch.myshopify.com/cdn/shop/files/03-product-01.jpg?v=1770805411&amp;width=550 550w, //shift-sketch.myshopify.com/cdn/shop/files/03-product-01.jpg?v=1770805411&amp;width=720 720w, //shift-sketch.myshopify.com/cdn/shop/files/03-product-01.jpg?v=1770805411&amp;width=990 990w, //shift-sketch.myshopify.com/cdn/shop/files/03-product-01.jpg?v=1770805411&amp;width=1200 1200w, //shift-sketch.myshopify.com/cdn/shop/files/03-product-01.jpg?v=1770805411&amp;width=1500 1500w" width="1538" height="2048" loading="lazy" class="image-gallery__slide-image" sizes="100vw" style="object-position: 50.0% 50.0%;" fetchpriority="auto">
+<div class="image-gallery__slide-overlay" style="opacity: 0.0"></div>
+          </div><div class="image-gallery__slide image-gallery__slide-image_gallery_slide_YWxFrm swiper-slide" data-swiper-autoplay="5000" role="group" aria-label="3 / 6" data-swiper-slide-index="2" style="width: 451px; margin-right: 24px;">
+<img src="//shift-sketch.myshopify.com/cdn/shop/files/03-product-02.jpg?v=1770805410&amp;width=1427" alt="" srcset="//shift-sketch.myshopify.com/cdn/shop/files/03-product-02.jpg?v=1770805410&amp;width=550 550w, //shift-sketch.myshopify.com/cdn/shop/files/03-product-02.jpg?v=1770805410&amp;width=720 720w, //shift-sketch.myshopify.com/cdn/shop/files/03-product-02.jpg?v=1770805410&amp;width=990 990w, //shift-sketch.myshopify.com/cdn/shop/files/03-product-02.jpg?v=1770805410&amp;width=1200 1200w" width="1427" height="1760" loading="lazy" class="image-gallery__slide-image" sizes="100vw" style="object-position: 50.0% 50.0%;" fetchpriority="auto">
+<div class="image-gallery__slide-overlay" style="opacity: 0.0"></div>
+          </div><div class="image-gallery__slide image-gallery__slide-image_gallery_slide_ytGNxy swiper-slide" data-swiper-autoplay="5000" role="group" aria-label="4 / 6" data-swiper-slide-index="3" style="width: 451px; margin-right: 24px;">
+<img src="//shift-sketch.myshopify.com/cdn/shop/files/03-product-03.jpg?v=1770805410&amp;width=1824" alt="" srcset="//shift-sketch.myshopify.com/cdn/shop/files/03-product-03.jpg?v=1770805410&amp;width=550 550w, //shift-sketch.myshopify.com/cdn/shop/files/03-product-03.jpg?v=1770805410&amp;width=720 720w, //shift-sketch.myshopify.com/cdn/shop/files/03-product-03.jpg?v=1770805410&amp;width=990 990w, //shift-sketch.myshopify.com/cdn/shop/files/03-product-03.jpg?v=1770805410&amp;width=1200 1200w, //shift-sketch.myshopify.com/cdn/shop/files/03-product-03.jpg?v=1770805410&amp;width=1500 1500w, //shift-sketch.myshopify.com/cdn/shop/files/03-product-03.jpg?v=1770805410&amp;width=1800 1800w" width="1824" height="2251" loading="lazy" class="image-gallery__slide-image" sizes="100vw" style="object-position: 50.0% 50.0%;" fetchpriority="auto">
+<div class="image-gallery__slide-overlay" style="opacity: 0.0"></div>
+          </div></div><div class="no-js-hidden image-gallery__cursor" style="color: ">Page suivante</div><span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
+
+    
+  </div>
+</div>
+
+
+</section>
+```
+
+## 4. shopify-section-template--27266933817719__trust_LdKGxR
+
+- Tag: section
+- Classes: shopify-section trust-section
+- Headings: matériaux naturels | Retours gratuits sous 30 jours | Paiement sécurisé
+
+```html
+<section id="shopify-section-template--27266933817719__trust_LdKGxR" class="shopify-section trust-section"><link href="//shift-sketch.myshopify.com/cdn/shop/t/2/assets/section-trust.css?v=1110185627740793531774262626" rel="stylesheet" type="text/css" media="all">
+
+<style data-shopify="">
+  .section-template--27266933817719__trust_LdKGxR-padding {
+
+  padding-top: 1.6rem;
+
+
+
+  padding-bottom: 1.6rem;
+
+}
+
+@media screen and (min-width: 750px) { .section-template--27266933817719__trust_LdKGxR-padding {
+
+  padding-top: 2.4rem;
+
+
+
+  padding-bottom: 2.4rem;
+
+} }
+
+@media screen and (min-width: 1440px) { .section-template--27266933817719__trust_LdKGxR-padding {
+
+  padding-top: 3.2rem;
+
+
+
+  padding-bottom: 3.2rem;
+
+} }
+
+  #shopify-section-template--27266933817719__trust_LdKGxR {
+
+  padding-top: 0;
+
+
+
+  padding-bottom: 6rem;
+
+}
+
+@media screen and (min-width: 750px) { #shopify-section-template--27266933817719__trust_LdKGxR {
+
+  padding-top: 0;
+
+
+
+  padding-bottom: 8rem;
+
+} }
+
+@media screen and (min-width: 1440px) { #shopify-section-template--27266933817719__trust_LdKGxR {
+
+  padding-top: 0;
+
+
+
+  padding-bottom: 12rem;
+
+
+} }
+
+</style>
+
+<style data-shopify="">#shopify-section-template--27266933817719__trust_LdKGxR {
+    --per-row: 3;
+  }</style><div class="multicolumn color-background-2 background section-template--27266933817719__trust_LdKGxR-padding">
+  
+
+
+
+
+
+  <div class="container">
+    <div class="multicolumn__wrapper column-width-small content--center"><div class="multicolumn-card multicolumn-card--width-small"><div class="multicolumn-card__icon">
+                  <img src="//shift-sketch.myshopify.com/cdn/shop/files/flip-left.svg?v=1770363635&amp;width=120" alt="" srcset="//shift-sketch.myshopify.com/cdn/shop/files/flip-left.svg?v=1770363635&amp;width=30 30w, //shift-sketch.myshopify.com/cdn/shop/files/flip-left.svg?v=1770363635&amp;width=60 60w, //shift-sketch.myshopify.com/cdn/shop/files/flip-left.svg?v=1770363635&amp;width=90 90w, //shift-sketch.myshopify.com/cdn/shop/files/flip-left.svg?v=1770363635&amp;width=120 120w" width="40" height="40.0" loading="lazy" style="object-fit: cover;" class="multicolumn-card__icon-image">
+</div>
+<div class="multicolumn-card__content"><h3 class="multicolumn-card__heading body-large multicolumn-card__heading--font-body">
+                  <span class="richtext-link-inside">matériaux naturels</span>
+                </h3></div></div>
+      <div class="multicolumn-card multicolumn-card--width-small"><div class="multicolumn-card__icon">
+                  <img src="//shift-sketch.myshopify.com/cdn/shop/files/flip-left1.svg?v=1770363683&amp;width=120" alt="" srcset="//shift-sketch.myshopify.com/cdn/shop/files/flip-left1.svg?v=1770363683&amp;width=30 30w, //shift-sketch.myshopify.com/cdn/shop/files/flip-left1.svg?v=1770363683&amp;width=60 60w, //shift-sketch.myshopify.com/cdn/shop/files/flip-left1.svg?v=1770363683&amp;width=90 90w, //shift-sketch.myshopify.com/cdn/shop/files/flip-left1.svg?v=1770363683&amp;width=120 120w" width="40" height="40.0" loading="lazy" style="object-fit: cover;" class="multicolumn-card__icon-image">
+</div>
+<div class="multicolumn-card__content"><h3 class="multicolumn-card__heading body-large multicolumn-card__heading--font-body">
+                  <span class="richtext-link-inside">Retours gratuits sous 30 jours</span>
+                </h3></div></div>
+      <div class="multicolumn-card multicolumn-card--width-small"><div class="multicolumn-card__icon">
+                  <img src="//shift-sketch.myshopify.com/cdn/shop/files/lock-02.svg?v=1770363716&amp;width=120" alt="" srcset="//shift-sketch.myshopify.com/cdn/shop/files/lock-02.svg?v=1770363716&amp;width=30 30w, //shift-sketch.myshopify.com/cdn/shop/files/lock-02.svg?v=1770363716&amp;width=60 60w, //shift-sketch.myshopify.com/cdn/shop/files/lock-02.svg?v=1770363716&amp;width=90 90w, //shift-sketch.myshopify.com/cdn/shop/files/lock-02.svg?v=1770363716&amp;width=120 120w" width="40" height="40.0" loading="lazy" style="object-fit: cover;" class="multicolumn-card__icon-image">
+</div>
+<div class="multicolumn-card__content"><h3 class="multicolumn-card__heading body-large multicolumn-card__heading--font-body">
+                  <span class="richtext-link-inside">Paiement sécurisé</span>
+                </h3></div></div>
+      
+    </div>
+  </div>
+</div>
+
+
+</section>
+```
+
+## 5. shopify-section-template--27266933817719__product_recommendations
+
+- Tag: section
+- Classes: shopify-section product-recommendations-section
+- Headings: Cela pourrait vous intéresser | Agenda quotidien | Planificateur de grille essentiel | Planificateur principal d'horaires | Planificateur de productivité Pro | Planificateur de mise en page hebdomadaire
+
+```html
+<section id="shopify-section-template--27266933817719__product_recommendations" class="shopify-section product-recommendations-section"><link href="//shift-sketch.myshopify.com/cdn/shop/t/2/assets/section-product-recommendations.css?v=11029105135230639751766398543" rel="stylesheet" type="text/css" media="all">
+<link href="//shift-sketch.myshopify.com/cdn/shop/t/2/assets/component-card.css?v=58533343598109286121773315752" rel="stylesheet" type="text/css" media="all">
+<style data-shopify="">.section-template--27266933817719__product_recommendations-padding {
+
+  padding-top: 0;
+
+
+
+  padding-bottom: 0;
+
+}
+
+@media screen and (min-width: 750px) { .section-template--27266933817719__product_recommendations-padding {
+
+  padding-top: 0;
+
+
+
+  padding-bottom: 0;
+
+} }
+
+@media screen and (min-width: 1440px) { .section-template--27266933817719__product_recommendations-padding {
+
+  padding-top: 0;
+
+
+
+  padding-bottom: 0;
+
+} }
+
+  #shopify-section-template--27266933817719__product_recommendations {
+
+  padding-top: 0;
+
+
+
+  padding-bottom: 8rem;
+
+}
+
+@media screen and (min-width: 750px) { #shopify-section-template--27266933817719__product_recommendations {
+
+  padding-top: 0;
+
+
+
+  padding-bottom: 12rem;
+
+} }
+
+@media screen and (min-width: 1440px) { #shopify-section-template--27266933817719__product_recommendations {
+
+  padding-top: 0;
+
+
+
+  padding-bottom: 15rem;
+
+
+} }
+
+</style><div class="product-recommendations section-template--27266933817719__product_recommendations-padding color-background-1 background" style="--gap: 24px;">
+  <product-recommendations data-url="/fr/recommendations/products?section_id=template--27266933817719__product_recommendations&amp;product_id=15252589969783&amp;limit=6" data-layout="slider"><div class="container heading-group product-recommendations-header heading-group-center heading-group--border-bottom"><div class="heading-group__left">
+        
+<h2 class="title h5 size--h5 product-recommendations-header__title richtext-link-inside">Cela pourrait vous intéresser</h2></div><div class="heading-group__actions heading-group__actions--end-on-mobile"><div class="heading-group__navigation no-js-hidden">
+            <button class="heading-group__navigation-button heading-group__navigation-button-prev swiper-button-prev focus-inset swiper-button-disabled" disabled="" tabindex="-1" aria-label="Previous slide" aria-controls="swiper-wrapper-fc871c5c45b654bd" aria-disabled="true">
+              <svg class="icon icon-arrow-slider-left" width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M14 2L6 10L14 18" stroke="currentColor"></path>
+</svg>
+
+            </button>
+            <button class="heading-group__navigation-button heading-group__navigation-button-next swiper-button-next focus-inset" tabindex="0" aria-label="Next slide" aria-controls="swiper-wrapper-fc871c5c45b654bd" aria-disabled="false">
+              <svg class="icon icon-arrow-slider-right" width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M6 2L14 10L6 18" stroke="currentColor"></path>
+</svg>
+
+            </button>
+          </div></div></div><div class="product-recommendations__layout container product-recommendations__layout--spacing-gap js-recommendation-slider swiper swiper-initialized swiper-horizontal swiper-backface-hidden" data-products-per-row="4" data-products-per-row-mobile="2" data-space-between="24">
+          <div class="product-recommendations__list product-recommendations__list--4 product-recommendations__list--mobile-2 product-recommendations__list--slider swiper-wrapper" id="swiper-wrapper-fc871c5c45b654bd" aria-live="polite"><div class="product-recommendations__item swiper-slide swiper-slide-active" role="group" aria-label="1 / 5" style="width: 326.25px; margin-right: 24px;">
+                
+
+
+<product-card class="product-card product-card--mobile-2 product-card_image-linked" data-product="day-to-day-planner" data-product-id="15252883210615" data-image-linked="true" data-card-color-swatches="true" tabindex="-1" style="--card-padding-bottom: 131.7%; --slide-count: 5">
+  <div class="product-card__inner">
+    <div class="product-card__media">
+
+          <div class="swiper-container product-card-js global-variant-js-media-list slider_started swiper-initialized swiper-horizontal swiper-backface-hidden" data-loop="false">
+            <div class="swiper-wrapper" id="swiper-wrapper-737bee10a8abc9909" aria-live="polite" style="transform: translate3d(0px, 0px, 0px);">
+              
+                
+
+                
+                  
+                    
+                    
+
+                
+
+                <div class="swiper-slide swiper-slide-active" data-media-id="67606642917751" data-variant-id="56821844738423" role="group" aria-label="1 / 5" style="width: 326px; margin-right: 2px;">
+                  <img src="//shift-sketch.myshopify.com/cdn/shop/files/06-planner.jpg?v=1763732931&amp;width=1701" alt="Agenda quotidien" srcset="//shift-sketch.myshopify.com/cdn/shop/files/06-planner.jpg?v=1763732931&amp;width=360 360w, //shift-sketch.myshopify.com/cdn/shop/files/06-planner.jpg?v=1763732931&amp;width=535 535w, //shift-sketch.myshopify.com/cdn/shop/files/06-planner.jpg?v=1763732931&amp;width=720 720w, //shift-sketch.myshopify.com/cdn/shop/files/06-planner.jpg?v=1763732931&amp;width=940 940w, //shift-sketch.myshopify.com/cdn/shop/files/06-planner.jpg?v=1763732931&amp;width=1066 1066w, //shift-sketch.myshopify.com/cdn/shop/files/06-planner.jpg?v=1763732931&amp;width=1200 1200w, //shift-sketch.myshopify.com/cdn/shop/files/06-planner.jpg?v=1763732931&amp;width=1400 1400w, //shift-sketch.myshopify.com/cdn/shop/files/06-planner.jpg?v=1763732931&amp;width=1600 1600w" width="1701" height="2268" loading="lazy" class="motion-reduce media" sizes="(min-width: 1200px) calc(1.03 * (100vw / 4)),(min-width: 990px) calc(1.03 * (100vw / 3)),(min-width: 576px) calc(1.03 * (100vw / 2)),calc(1.03 * 100vw)" style="object-fit: cover;">
+                </div>
+              
+                
+
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+
+                
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                
+
+                <div class="swiper-slide swiper-slide-next" data-media-id="67606642786679" role="group" aria-label="2 / 5" style="width: 326px; margin-right: 2px;">
+                  <img src="//shift-sketch.myshopify.com/cdn/shop/files/06-planner-hover-01.jpg?v=1763732930&amp;width=1688" alt="Agenda quotidien" srcset="//shift-sketch.myshopify.com/cdn/shop/files/06-planner-hover-01.jpg?v=1763732930&amp;width=360 360w, //shift-sketch.myshopify.com/cdn/shop/files/06-planner-hover-01.jpg?v=1763732930&amp;width=535 535w, //shift-sketch.myshopify.com/cdn/shop/files/06-planner-hover-01.jpg?v=1763732930&amp;width=720 720w, //shift-sketch.myshopify.com/cdn/shop/files/06-planner-hover-01.jpg?v=1763732930&amp;width=940 940w, //shift-sketch.myshopify.com/cdn/shop/files/06-planner-hover-01.jpg?v=1763732930&amp;width=1066 1066w, //shift-sketch.myshopify.com/cdn/shop/files/06-planner-hover-01.jpg?v=1763732930&amp;width=1200 1200w, //shift-sketch.myshopify.com/cdn/shop/files/06-planner-hover-01.jpg?v=1763732930&amp;width=1400 1400w, //shift-sketch.myshopify.com/cdn/shop/files/06-planner-hover-01.jpg?v=1763732930&amp;width=1600 1600w" width="1688" height="2250" loading="lazy" class="motion-reduce media" sizes="(min-width: 1200px) calc(1.03 * (100vw / 4)),(min-width: 990px) calc(1.03 * (100vw / 3)),(min-width: 576px) calc(1.03 * (100vw / 2)),calc(1.03 * 100vw)" style="object-fit: cover;">
+                </div>
+              
+                
+
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+
+                
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                
+
+                <div class="swiper-slide" data-media-id="67606642819447" role="group" aria-label="3 / 5" style="width: 326px; margin-right: 2px;">
+                  <img src="//shift-sketch.myshopify.com/cdn/shop/files/06-planner-hover-02.jpg?v=1763732930&amp;width=1688" alt="Agenda quotidien" srcset="//shift-sketch.myshopify.com/cdn/shop/files/06-planner-hover-02.jpg?v=1763732930&amp;width=360 360w, //shift-sketch.myshopify.com/cdn/shop/files/06-planner-hover-02.jpg?v=1763732930&amp;width=535 535w, //shift-sketch.myshopify.com/cdn/shop/files/06-planner-hover-02.jpg?v=1763732930&amp;width=720 720w, //shift-sketch.myshopify.com/cdn/shop/files/06-planner-hover-02.jpg?v=1763732930&amp;width=940 940w, //shift-sketch.myshopify.com/cdn/shop/files/06-planner-hover-02.jpg?v=1763732930&amp;width=1066 1066w, //shift-sketch.myshopify.com/cdn/shop/files/06-planner-hover-02.jpg?v=1763732930&amp;width=1200 1200w, //shift-sketch.myshopify.com/cdn/shop/files/06-planner-hover-02.jpg?v=1763732930&amp;width=1400 1400w, //shift-sketch.myshopify.com/cdn/shop/files/06-planner-hover-02.jpg?v=1763732930&amp;width=1600 1600w" width="1688" height="2250" loading="lazy" class="motion-reduce media" sizes="(min-width: 1200px) calc(1.03 * (100vw / 4)),(min-width: 990px) calc(1.03 * (100vw / 3)),(min-width: 576px) calc(1.03 * (100vw / 2)),calc(1.03 * 100vw)" style="object-fit: cover;">
+                </div>
+              
+                
+
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+
+                
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                
+
+                <div class="swiper-slide" data-media-id="67606642852215" role="group" aria-label="4 / 5" style="width: 326px; margin-right: 2px;">
+                  <img src="//shift-sketch.myshopify.com/cdn/shop/files/06-planner-hover-03.jpg?v=1763732930&amp;width=1800" alt="Agenda quotidien" srcset="//shift-sketch.myshopify.com/cdn/shop/files/06-planner-hover-03.jpg?v=1763732930&amp;width=360 360w, //shift-sketch.myshopify.com/cdn/shop/files/06-planner-hover-03.jpg?v=1763732930&amp;width=535 535w, //shift-sketch.myshopify.com/cdn/shop/files/06-planner-hover-03.jpg?v=1763732930&amp;width=720 720w, //shift-sketch.myshopify.com/cdn/shop/files/06-planner-hover-03.jpg?v=1763732930&amp;width=940 940w, //shift-sketch.myshopify.com/cdn/shop/files/06-planner-hover-03.jpg?v=1763732930&amp;width=1066 1066w, //shift-sketch.myshopify.com/cdn/shop/files/06-planner-hover-03.jpg?v=1763732930&amp;width=1200 1200w, //shift-sketch.myshopify.com/cdn/shop/files/06-planner-hover-03.jpg?v=1763732930&amp;width=1400 1400w, //shift-sketch.myshopify.com/cdn/shop/files/06-planner-hover-03.jpg?v=1763732930&amp;width=1600 1600w, //shift-sketch.myshopify.com/cdn/shop/files/06-planner-hover-03.jpg?v=1763732930&amp;width=1800 1800w" width="1800" height="2400" loading="lazy" class="motion-reduce media" sizes="(min-width: 1200px) calc(1.03 * (100vw / 4)),(min-width: 990px) calc(1.03 * (100vw / 3)),(min-width: 576px) calc(1.03 * (100vw / 2)),calc(1.03 * 100vw)" style="object-fit: cover;">
+                </div>
+              
+                
+
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                    
+                    
+
+                
+
+                <div class="swiper-slide" data-media-id="67606642884983" data-variant-id="56821844935031" role="group" aria-label="5 / 5" style="width: 326px; margin-right: 2px;">
+                  <img src="//shift-sketch.myshopify.com/cdn/shop/files/06-planner-hover-04.jpg?v=1763732931&amp;width=1856" alt="Agenda quotidien" srcset="//shift-sketch.myshopify.com/cdn/shop/files/06-planner-hover-04.jpg?v=1763732931&amp;width=360 360w, //shift-sketch.myshopify.com/cdn/shop/files/06-planner-hover-04.jpg?v=1763732931&amp;width=535 535w, //shift-sketch.myshopify.com/cdn/shop/files/06-planner-hover-04.jpg?v=1763732931&amp;width=720 720w, //shift-sketch.myshopify.com/cdn/shop/files/06-planner-hover-04.jpg?v=1763732931&amp;width=940 940w, //shift-sketch.myshopify.com/cdn/shop/files/06-planner-hover-04.jpg?v=1763732931&amp;width=1066 1066w, //shift-sketch.myshopify.com/cdn/shop/files/06-planner-hover-04.jpg?v=1763732931&amp;width=1200 1200w, //shift-sketch.myshopify.com/cdn/shop/files/06-planner-hover-04.jpg?v=1763732931&amp;width=1400 1400w, //shift-sketch.myshopify.com/cdn/shop/files/06-planner-hover-04.jpg?v=1763732931&amp;width=1600 1600w, //shift-sketch.myshopify.com/cdn/shop/files/06-planner-hover-04.jpg?v=1763732931&amp;width=1800 1800w" width="1856" height="2464" loading="lazy" class="motion-reduce media" sizes="(min-width: 1200px) calc(1.03 * (100vw / 4)),(min-width: 990px) calc(1.03 * (100vw / 3)),(min-width: 576px) calc(1.03 * (100vw / 2)),calc(1.03 * 100vw)" style="object-fit: cover;">
+                </div>
+              
+            </div>
+            <div class="product-button-group">
+              <div class="product-slider-button-prev">
+                <div class="swiper-button-prev swiper-button-disabled" tabindex="-1" role="button" aria-label="Previous slide" aria-controls="swiper-wrapper-737bee10a8abc9909" aria-disabled="true"><svg class="icon icon-arrow-slider-left" width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M14 2L6 10L14 18" stroke="currentColor"></path>
+</svg>
+</div>
+              </div>
+
+              <div class="product-slider-button-next">
+                <div class="swiper-button-next" tabindex="0" role="button" aria-label="Next slide" aria-controls="swiper-wrapper-737bee10a8abc9909" aria-disabled="false"><svg class="icon icon-arrow-slider-right" width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M6 2L14 10L6 18" stroke="currentColor"></path>
+</svg>
+</div>
+              </div>
+            </div>
+            <div class="swiper-pagination product-card-pagination swiper-pagination-default swiper-pagination-clickable swiper-pagination-bullets swiper-pagination-horizontal"><span class="swiper-pagination-bullet swiper-pagination-bullet-active" tabindex="0" role="button" aria-label="Go to slide 1" aria-current="true"></span><span class="swiper-pagination-bullet" tabindex="0" role="button" aria-label="Go to slide 2"></span><span class="swiper-pagination-bullet" tabindex="0" role="button" aria-label="Go to slide 3"></span><span class="swiper-pagination-bullet" tabindex="0" role="button" aria-label="Go to slide 4"></span><span class="swiper-pagination-bullet" tabindex="0" role="button" aria-label="Go to slide 5"></span></div>
+          <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
+        
+</div><div class="product-card__top">
+        
+<div class="product-card__badges body-normal"></div>
+      </div><div class="product-card__quickview product-card__quickview--mobile-true no-js-hidden">
+        <modal-opener data-modal="#QuickView-15252883210615">
+          <button class="product-card__button button button--primary focus-inset" aria-haspopup="dialog" data-product-url="/fr/products/day-to-day-planner?pr_prod_strat=collection_fallback&amp;pr_rec_id=71a3dd27f&amp;pr_rec_pid=15252883210615&amp;pr_ref_pid=15252589969783&amp;pr_seq=uniform" aria-label="Quick view">
+            <div class="button__content">
+              <span class="product-card__quickview-text button__label" data-label="Quick view">Quick view</span>
+              <span class="product-card__mobile-icon button__icon">
+                <svg width="22" height="22" viewBox="0 0 22 22" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M2.66745 12.0748C2.35434 11.3936 2.35434 10.6077 2.66745 9.92654C4.11679 6.77337 7.30311 4.58398 11.0008 4.58398C14.6985 4.58398 17.8848 6.77338 19.3341 9.92654C19.6472 10.6077 19.6472 11.3936 19.3341 12.0748C17.8848 15.2279 14.6985 17.4173 11.0008 17.4173C7.30311 17.4173 4.11679 15.2279 2.66745 12.0748Z" stroke="currentColor" stroke-width="1.5"></path>
+  <path d="M13.7508 11.0007C13.7508 12.5194 12.5196 13.7507 11.0008 13.7507C9.48201 13.7507 8.25079 12.5194 8.25079 11.0007C8.25079 9.48187 9.48201 8.25065 11.0008 8.25065C12.5196 8.25065 13.7508 9.48187 13.7508 11.0007Z" stroke="currentColor" stroke-width="1.5"></path>
+</svg>
+
+              </span>
+            </div>
+            <div class="loading-overlay__spinner hidden">
+              <svg aria-hidden="true" focusable="false" role="presentation" class="spinner" viewBox="0 0 66 66" xmlns="http://www.w3.org/2000/svg">
+  <circle class="path" fill="none" stroke-width="5" cx="33" cy="33" r="30"></circle>
+</svg>
+
+            </div>
+          </button>
+        </modal-opener>
+
+        
+
+
+      </div></div>
+
+  
+  <div class="product-card__information">
+    <div class="product-card__information-top"><h3 class="product-card__title">
+        <a class="focus-inset" href="/fr/products/day-to-day-planner?pr_prod_strat=collection_fallback&amp;pr_rec_id=71a3dd27f&amp;pr_rec_pid=15252883210615&amp;pr_ref_pid=15252589969783&amp;pr_seq=uniform" aria-label="Agenda quotidien">Agenda quotidien</a>
+      </h3>
+
+      <div class="product-card__price-group">
+        
+<div class="price">
+  <dl class="price-text"><div class="price__regular">
+      <dt class="visually-hidden">Prix régulier</dt>
+      <dd>
+        <span class="price-item price-item--regular">$13.00</span>
+      </dd>
+    </div>
+    <div class="price__sale">
+      <dt class="visually-hidden">Prix de vente</dt>
+      <dd>
+        <span class="price-item price-item--sale">$13.00</span>
+      </dd>
+      <dt class="visually-hidden">Prix régulier</dt>
+      <dd class="price__compare">
+        <s class="price-item price-item--regular"></s>
+      </dd>
+    </div>
+  </dl>
+
+  <dl class="unit-price hidden">
+    <dt class="visually-hidden">Prix unitaire</dt>
+    <dd></dd>
+  </dl>
+</div>
+
+      </div>
+      
+
+          <div class="product-card__description body-small">Un outil fiable pour un usage quotidien, conçu pour faciliter la planification, la prise de notes et les travaux créatifs....</div><div class="product-card__error body-xs" role="alert" hidden=""></div>
+    </div>
+
+    
+<div class="product-card__information-bottom"><div class="product-card__color-swatches">
+                
+                  <div class="body-small js-option-selected-value" data-option-position="1">
+                    Pink</div>
+                
+                <div class="product-card__option-group js-card-option-group" data-option-position="1">
+                  
+
+
+  
+
+  
+  
+  
+
+<input type="radio" id="template--27266933817719__product_recommendations-1-0-15252883210615-1" name="Color-template--27266933817719__product_recommendations-15252883210615-1" value="Pink" data-variant-id="56821844738423" form="product-form-template--27266933817719__product_recommendations" checked="" tabindex="-1" aria-label="Pink" data-option-value-id="12613470552439" style="">
+    
+<label for="template--27266933817719__product_recommendations-1-0-15252883210615-1" class="color-swatch" style="--swatch-color: rgb(255 192 203);" title="Pink" tabindex="0" onkeydown="if(event.key==='Enter'||event.key===' '){event.preventDefault();document.getElementById(this.getAttribute('for')).click();}" data-unavailable-color-label="N/A">
+        <span class="visually-hidden">Pink</span>
+      </label>
+
+  
+
+  
+  
+  
+
+<input type="radio" id="template--27266933817719__product_recommendations-1-1-15252883210615-1" name="Color-template--27266933817719__product_recommendations-15252883210615-1" value="Purple" data-variant-id="56821844935031" form="product-form-template--27266933817719__product_recommendations" tabindex="-1" aria-label="Purple" data-option-value-id="12613470585207" style="">
+    
+<label for="template--27266933817719__product_recommendations-1-1-15252883210615-1" class="color-swatch" style="--swatch-color: rgb(165 77 207);" title="Purple" tabindex="0" onkeydown="if(event.key==='Enter'||event.key===' '){event.preventDefault();document.getElementById(this.getAttribute('for')).click();}" data-unavailable-color-label="N/A">
+        <span class="visually-hidden">Purple</span>
+      </label>
+
+  
+
+  
+  
+  
+
+<input type="radio" id="template--27266933817719__product_recommendations-1-2-15252883210615-1" name="Color-template--27266933817719__product_recommendations-15252883210615-1" value="Red" data-variant-id="56821845131639" form="product-form-template--27266933817719__product_recommendations" tabindex="-1" aria-label="Red" data-option-value-id="12613470617975" style="">
+    
+<label for="template--27266933817719__product_recommendations-1-2-15252883210615-1" class="color-swatch" style="--swatch-color: rgb(246 31 31);" title="Red" tabindex="0" onkeydown="if(event.key==='Enter'||event.key===' '){event.preventDefault();document.getElementById(this.getAttribute('for')).click();}" data-unavailable-color-label="N/A">
+        <span class="visually-hidden">Red</span>
+      </label>
+
+  
+
+  
+  
+  
+
+<input type="radio" id="template--27266933817719__product_recommendations-1-3-15252883210615-1" name="Color-template--27266933817719__product_recommendations-15252883210615-1" value="Green" data-variant-id="56821845328247" form="product-form-template--27266933817719__product_recommendations" tabindex="-1" aria-label="Green" data-option-value-id="12613470650743" style="">
+    
+<label for="template--27266933817719__product_recommendations-1-3-15252883210615-1" class="color-swatch" style="--swatch-color: rgb(5 170 61);" title="Green" tabindex="0" onkeydown="if(event.key==='Enter'||event.key===' '){event.preventDefault();document.getElementById(this.getAttribute('for')).click();}" data-unavailable-color-label="N/A">
+        <span class="visually-hidden">Green</span>
+      </label>
+                </div>
+
+                
+              </div></div></div><script type="application/json" data-product-card-variants="">
+      [{"id":56821844738423,"title":"Pink \/ A5 \/ Couverture rigide","option1":"Pink","option2":"A5","option3":"Couverture rigide","sku":null,"requires_shipping":true,"taxable":true,"featured_image":{"id":82286135869815,"product_id":15252883210615,"position":1,"created_at":"2025-11-21T08:48:47-05:00","updated_at":"2025-11-21T08:48:51-05:00","alt":null,"width":1701,"height":2268,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/06-planner.jpg?v=1763732931","variant_ids":[56821844738423,56821844771191,56821844803959,56821844836727,56821844869495,56821844902263]},"available":true,"name":"Agenda quotidien - Pink \/ A5 \/ Couverture rigide","public_title":"Pink \/ A5 \/ Couverture rigide","options":["Pink","A5","Couverture rigide"],"price":1300,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","featured_media":{"alt":null,"id":67606642917751,"position":1,"preview_image":{"aspect_ratio":0.75,"height":2268,"width":1701,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/06-planner.jpg?v=1763732931"}},"requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56821844771191,"title":"Pink \/ A5 \/ Soft cover","option1":"Pink","option2":"A5","option3":"Soft cover","sku":null,"requires_shipping":true,"taxable":true,"featured_image":{"id":82286135869815,"product_id":15252883210615,"position":1,"created_at":"2025-11-21T08:48:47-05:00","updated_at":"2025-11-21T08:48:51-05:00","alt":null,"width":1701,"height":2268,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/06-planner.jpg?v=1763732931","variant_ids":[56821844738423,56821844771191,56821844803959,56821844836727,56821844869495,56821844902263]},"available":true,"name":"Agenda quotidien - Pink \/ A5 \/ Soft cover","public_title":"Pink \/ A5 \/ Soft cover","options":["Pink","A5","Soft cover"],"price":1300,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","featured_media":{"alt":null,"id":67606642917751,"position":1,"preview_image":{"aspect_ratio":0.75,"height":2268,"width":1701,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/06-planner.jpg?v=1763732931"}},"requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56821844803959,"title":"Pink \/ A4 \/ Couverture rigide","option1":"Pink","option2":"A4","option3":"Couverture rigide","sku":null,"requires_shipping":true,"taxable":true,"featured_image":{"id":82286135869815,"product_id":15252883210615,"position":1,"created_at":"2025-11-21T08:48:47-05:00","updated_at":"2025-11-21T08:48:51-05:00","alt":null,"width":1701,"height":2268,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/06-planner.jpg?v=1763732931","variant_ids":[56821844738423,56821844771191,56821844803959,56821844836727,56821844869495,56821844902263]},"available":true,"name":"Agenda quotidien - Pink \/ A4 \/ Couverture rigide","public_title":"Pink \/ A4 \/ Couverture rigide","options":["Pink","A4","Couverture rigide"],"price":1300,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","featured_media":{"alt":null,"id":67606642917751,"position":1,"preview_image":{"aspect_ratio":0.75,"height":2268,"width":1701,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/06-planner.jpg?v=1763732931"}},"requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56821844836727,"title":"Pink \/ A4 \/ Soft cover","option1":"Pink","option2":"A4","option3":"Soft cover","sku":null,"requires_shipping":true,"taxable":true,"featured_image":{"id":82286135869815,"product_id":15252883210615,"position":1,"created_at":"2025-11-21T08:48:47-05:00","updated_at":"2025-11-21T08:48:51-05:00","alt":null,"width":1701,"height":2268,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/06-planner.jpg?v=1763732931","variant_ids":[56821844738423,56821844771191,56821844803959,56821844836727,56821844869495,56821844902263]},"available":true,"name":"Agenda quotidien - Pink \/ A4 \/ Soft cover","public_title":"Pink \/ A4 \/ Soft cover","options":["Pink","A4","Soft cover"],"price":1300,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","featured_media":{"alt":null,"id":67606642917751,"position":1,"preview_image":{"aspect_ratio":0.75,"height":2268,"width":1701,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/06-planner.jpg?v=1763732931"}},"requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56821844869495,"title":"Pink \/ A3 \/ Couverture rigide","option1":"Pink","option2":"A3","option3":"Couverture rigide","sku":null,"requires_shipping":true,"taxable":true,"featured_image":{"id":82286135869815,"product_id":15252883210615,"position":1,"created_at":"2025-11-21T08:48:47-05:00","updated_at":"2025-11-21T08:48:51-05:00","alt":null,"width":1701,"height":2268,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/06-planner.jpg?v=1763732931","variant_ids":[56821844738423,56821844771191,56821844803959,56821844836727,56821844869495,56821844902263]},"available":true,"name":"Agenda quotidien - Pink \/ A3 \/ Couverture rigide","public_title":"Pink \/ A3 \/ Couverture rigide","options":["Pink","A3","Couverture rigide"],"price":1300,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","featured_media":{"alt":null,"id":67606642917751,"position":1,"preview_image":{"aspect_ratio":0.75,"height":2268,"width":1701,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/06-planner.jpg?v=1763732931"}},"requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56821844902263,"title":"Pink \/ A3 \/ Soft cover","option1":"Pink","option2":"A3","option3":"Soft cover","sku":null,"requires_shipping":true,"taxable":true,"featured_image":{"id":82286135869815,"product_id":15252883210615,"position":1,"created_at":"2025-11-21T08:48:47-05:00","updated_at":"2025-11-21T08:48:51-05:00","alt":null,"width":1701,"height":2268,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/06-planner.jpg?v=1763732931","variant_ids":[56821844738423,56821844771191,56821844803959,56821844836727,56821844869495,56821844902263]},"available":true,"name":"Agenda quotidien - Pink \/ A3 \/ Soft cover","public_title":"Pink \/ A3 \/ Soft cover","options":["Pink","A3","Soft cover"],"price":1300,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","featured_media":{"alt":null,"id":67606642917751,"position":1,"preview_image":{"aspect_ratio":0.75,"height":2268,"width":1701,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/06-planner.jpg?v=1763732931"}},"requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56821844935031,"title":"Purple \/ A5 \/ Couverture rigide","option1":"Purple","option2":"A5","option3":"Couverture rigide","sku":null,"requires_shipping":true,"taxable":true,"featured_image":{"id":82286135837047,"product_id":15252883210615,"position":5,"created_at":"2025-11-21T08:48:47-05:00","updated_at":"2025-11-21T08:48:51-05:00","alt":null,"width":1856,"height":2464,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/06-planner-hover-04.jpg?v=1763732931","variant_ids":[56821844935031,56821844967799,56821845000567,56821845033335,56821845066103,56821845098871,56821845131639,56821845164407,56821845197175,56821845229943,56821845262711,56821845295479,56821845328247,56821845361015,56821845393783,56821845426551,56821845459319,56821845492087]},"available":true,"name":"Agenda quotidien - Purple \/ A5 \/ Couverture rigide","public_title":"Purple \/ A5 \/ Couverture rigide","options":["Purple","A5","Couverture rigide"],"price":1300,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","featured_media":{"alt":null,"id":67606642884983,"position":5,"preview_image":{"aspect_ratio":0.753,"height":2464,"width":1856,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/06-planner-hover-04.jpg?v=1763732931"}},"requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56821844967799,"title":"Purple \/ A5 \/ Soft cover","option1":"Purple","option2":"A5","option3":"Soft cover","sku":null,"requires_shipping":true,"taxable":true,"featured_image":{"id":82286135837047,"product_id":15252883210615,"position":5,"created_at":"2025-11-21T08:48:47-05:00","updated_at":"2025-11-21T08:48:51-05:00","alt":null,"width":1856,"height":2464,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/06-planner-hover-04.jpg?v=1763732931","variant_ids":[56821844935031,56821844967799,56821845000567,56821845033335,56821845066103,56821845098871,56821845131639,56821845164407,56821845197175,56821845229943,56821845262711,56821845295479,56821845328247,56821845361015,56821845393783,56821845426551,56821845459319,56821845492087]},"available":true,"name":"Agenda quotidien - Purple \/ A5 \/ Soft cover","public_title":"Purple \/ A5 \/ Soft cover","options":["Purple","A5","Soft cover"],"price":1300,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","featured_media":{"alt":null,"id":67606642884983,"position":5,"preview_image":{"aspect_ratio":0.753,"height":2464,"width":1856,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/06-planner-hover-04.jpg?v=1763732931"}},"requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56821845000567,"title":"Purple \/ A4 \/ Couverture rigide","option1":"Purple","option2":"A4","option3":"Couverture rigide","sku":null,"requires_shipping":true,"taxable":true,"featured_image":{"id":82286135837047,"product_id":15252883210615,"position":5,"created_at":"2025-11-21T08:48:47-05:00","updated_at":"2025-11-21T08:48:51-05:00","alt":null,"width":1856,"height":2464,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/06-planner-hover-04.jpg?v=1763732931","variant_ids":[56821844935031,56821844967799,56821845000567,56821845033335,56821845066103,56821845098871,56821845131639,56821845164407,56821845197175,56821845229943,56821845262711,56821845295479,56821845328247,56821845361015,56821845393783,56821845426551,56821845459319,56821845492087]},"available":true,"name":"Agenda quotidien - Purple \/ A4 \/ Couverture rigide","public_title":"Purple \/ A4 \/ Couverture rigide","options":["Purple","A4","Couverture rigide"],"price":1300,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","featured_media":{"alt":null,"id":67606642884983,"position":5,"preview_image":{"aspect_ratio":0.753,"height":2464,"width":1856,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/06-planner-hover-04.jpg?v=1763732931"}},"requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56821845033335,"title":"Purple \/ A4 \/ Soft cover","option1":"Purple","option2":"A4","option3":"Soft cover","sku":null,"requires_shipping":true,"taxable":true,"featured_image":{"id":82286135837047,"product_id":15252883210615,"position":5,"created_at":"2025-11-21T08:48:47-05:00","updated_at":"2025-11-21T08:48:51-05:00","alt":null,"width":1856,"height":2464,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/06-planner-hover-04.jpg?v=1763732931","variant_ids":[56821844935031,56821844967799,56821845000567,56821845033335,56821845066103,56821845098871,56821845131639,56821845164407,56821845197175,56821845229943,56821845262711,56821845295479,56821845328247,56821845361015,56821845393783,56821845426551,56821845459319,56821845492087]},"available":true,"name":"Agenda quotidien - Purple \/ A4 \/ Soft cover","public_title":"Purple \/ A4 \/ Soft cover","options":["Purple","A4","Soft cover"],"price":1300,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","featured_media":{"alt":null,"id":67606642884983,"position":5,"preview_image":{"aspect_ratio":0.753,"height":2464,"width":1856,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/06-planner-hover-04.jpg?v=1763732931"}},"requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56821845066103,"title":"Purple \/ A3 \/ Couverture rigide","option1":"Purple","option2":"A3","option3":"Couverture rigide","sku":null,"requires_shipping":true,"taxable":true,"featured_image":{"id":82286135837047,"product_id":15252883210615,"position":5,"created_at":"2025-11-21T08:48:47-05:00","updated_at":"2025-11-21T08:48:51-05:00","alt":null,"width":1856,"height":2464,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/06-planner-hover-04.jpg?v=1763732931","variant_ids":[56821844935031,56821844967799,56821845000567,56821845033335,56821845066103,56821845098871,56821845131639,56821845164407,56821845197175,56821845229943,56821845262711,56821845295479,56821845328247,56821845361015,56821845393783,56821845426551,56821845459319,56821845492087]},"available":true,"name":"Agenda quotidien - Purple \/ A3 \/ Couverture rigide","public_title":"Purple \/ A3 \/ Couverture rigide","options":["Purple","A3","Couverture rigide"],"price":1300,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","featured_media":{"alt":null,"id":67606642884983,"position":5,"preview_image":{"aspect_ratio":0.753,"height":2464,"width":1856,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/06-planner-hover-04.jpg?v=1763732931"}},"requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56821845098871,"title":"Purple \/ A3 \/ Soft cover","option1":"Purple","option2":"A3","option3":"Soft cover","sku":null,"requires_shipping":true,"taxable":true,"featured_image":{"id":82286135837047,"product_id":15252883210615,"position":5,"created_at":"2025-11-21T08:48:47-05:00","updated_at":"2025-11-21T08:48:51-05:00","alt":null,"width":1856,"height":2464,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/06-planner-hover-04.jpg?v=1763732931","variant_ids":[56821844935031,56821844967799,56821845000567,56821845033335,56821845066103,56821845098871,56821845131639,56821845164407,56821845197175,56821845229943,56821845262711,56821845295479,56821845328247,56821845361015,56821845393783,56821845426551,56821845459319,56821845492087]},"available":true,"name":"Agenda quotidien - Purple \/ A3 \/ Soft cover","public_title":"Purple \/ A3 \/ Soft cover","options":["Purple","A3","Soft cover"],"price":1300,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","featured_media":{"alt":null,"id":67606642884983,"position":5,"preview_image":{"aspect_ratio":0.753,"height":2464,"width":1856,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/06-planner-hover-04.jpg?v=1763732931"}},"requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56821845131639,"title":"Red \/ A5 \/ Couverture rigide","option1":"Red","option2":"A5","option3":"Couverture rigide","sku":null,"requires_shipping":true,"taxable":true,"featured_image":{"id":82286135837047,"product_id":15252883210615,"position":5,"created_at":"2025-11-21T08:48:47-05:00","updated_at":"2025-11-21T08:48:51-05:00","alt":null,"width":1856,"height":2464,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/06-planner-hover-04.jpg?v=1763732931","variant_ids":[56821844935031,56821844967799,56821845000567,56821845033335,56821845066103,56821845098871,56821845131639,56821845164407,56821845197175,56821845229943,56821845262711,56821845295479,56821845328247,56821845361015,56821845393783,56821845426551,56821845459319,56821845492087]},"available":true,"name":"Agenda quotidien - Red \/ A5 \/ Couverture rigide","public_title":"Red \/ A5 \/ Couverture rigide","options":["Red","A5","Couverture rigide"],"price":1300,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","featured_media":{"alt":null,"id":67606642884983,"position":5,"preview_image":{"aspect_ratio":0.753,"height":2464,"width":1856,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/06-planner-hover-04.jpg?v=1763732931"}},"requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56821845164407,"title":"Red \/ A5 \/ Soft cover","option1":"Red","option2":"A5","option3":"Soft cover","sku":null,"requires_shipping":true,"taxable":true,"featured_image":{"id":82286135837047,"product_id":15252883210615,"position":5,"created_at":"2025-11-21T08:48:47-05:00","updated_at":"2025-11-21T08:48:51-05:00","alt":null,"width":1856,"height":2464,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/06-planner-hover-04.jpg?v=1763732931","variant_ids":[56821844935031,56821844967799,56821845000567,56821845033335,56821845066103,56821845098871,56821845131639,56821845164407,56821845197175,56821845229943,56821845262711,56821845295479,56821845328247,56821845361015,56821845393783,56821845426551,56821845459319,56821845492087]},"available":true,"name":"Agenda quotidien - Red \/ A5 \/ Soft cover","public_title":"Red \/ A5 \/ Soft cover","options":["Red","A5","Soft cover"],"price":1300,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","featured_media":{"alt":null,"id":67606642884983,"position":5,"preview_image":{"aspect_ratio":0.753,"height":2464,"width":1856,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/06-planner-hover-04.jpg?v=1763732931"}},"requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56821845197175,"title":"Red \/ A4 \/ Couverture rigide","option1":"Red","option2":"A4","option3":"Couverture rigide","sku":null,"requires_shipping":true,"taxable":true,"featured_image":{"id":82286135837047,"product_id":15252883210615,"position":5,"created_at":"2025-11-21T08:48:47-05:00","updated_at":"2025-11-21T08:48:51-05:00","alt":null,"width":1856,"height":2464,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/06-planner-hover-04.jpg?v=1763732931","variant_ids":[56821844935031,56821844967799,56821845000567,56821845033335,56821845066103,56821845098871,56821845131639,56821845164407,56821845197175,56821845229943,56821845262711,56821845295479,56821845328247,56821845361015,56821845393783,56821845426551,56821845459319,56821845492087]},"available":true,"name":"Agenda quotidien - Red \/ A4 \/ Couverture rigide","public_title":"Red \/ A4 \/ Couverture rigide","options":["Red","A4","Couverture rigide"],"price":1300,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","featured_media":{"alt":null,"id":67606642884983,"position":5,"preview_image":{"aspect_ratio":0.753,"height":2464,"width":1856,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/06-planner-hover-04.jpg?v=1763732931"}},"requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56821845229943,"title":"Red \/ A4 \/ Soft cover","option1":"Red","option2":"A4","option3":"Soft cover","sku":null,"requires_shipping":true,"taxable":true,"featured_image":{"id":82286135837047,"product_id":15252883210615,"position":5,"created_at":"2025-11-21T08:48:47-05:00","updated_at":"2025-11-21T08:48:51-05:00","alt":null,"width":1856,"height":2464,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/06-planner-hover-04.jpg?v=1763732931","variant_ids":[56821844935031,56821844967799,56821845000567,56821845033335,56821845066103,56821845098871,56821845131639,56821845164407,56821845197175,56821845229943,56821845262711,56821845295479,56821845328247,56821845361015,56821845393783,56821845426551,56821845459319,56821845492087]},"available":true,"name":"Agenda quotidien - Red \/ A4 \/ Soft cover","public_title":"Red \/ A4 \/ Soft cover","options":["Red","A4","Soft cover"],"price":1300,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","featured_media":{"alt":null,"id":67606642884983,"position":5,"preview_image":{"aspect_ratio":0.753,"height":2464,"width":1856,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/06-planner-hover-04.jpg?v=1763732931"}},"requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56821845262711,"title":"Red \/ A3 \/ Couverture rigide","option1":"Red","option2":"A3","option3":"Couverture rigide","sku":null,"requires_shipping":true,"taxable":true,"featured_image":{"id":82286135837047,"product_id":15252883210615,"position":5,"created_at":"2025-11-21T08:48:47-05:00","updated_at":"2025-11-21T08:48:51-05:00","alt":null,"width":1856,"height":2464,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/06-planner-hover-04.jpg?v=1763732931","variant_ids":[56821844935031,56821844967799,56821845000567,56821845033335,56821845066103,56821845098871,56821845131639,56821845164407,56821845197175,56821845229943,56821845262711,56821845295479,56821845328247,56821845361015,56821845393783,56821845426551,56821845459319,56821845492087]},"available":true,"name":"Agenda quotidien - Red \/ A3 \/ Couverture rigide","public_title":"Red \/ A3 \/ Couverture rigide","options":["Red","A3","Couverture rigide"],"price":1300,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","featured_media":{"alt":null,"id":67606642884983,"position":5,"preview_image":{"aspect_ratio":0.753,"height":2464,"width":1856,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/06-planner-hover-04.jpg?v=1763732931"}},"requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56821845295479,"title":"Red \/ A3 \/ Soft cover","option1":"Red","option2":"A3","option3":"Soft cover","sku":null,"requires_shipping":true,"taxable":true,"featured_image":{"id":82286135837047,"product_id":15252883210615,"position":5,"created_at":"2025-11-21T08:48:47-05:00","updated_at":"2025-11-21T08:48:51-05:00","alt":null,"width":1856,"height":2464,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/06-planner-hover-04.jpg?v=1763732931","variant_ids":[56821844935031,56821844967799,56821845000567,56821845033335,56821845066103,56821845098871,56821845131639,56821845164407,56821845197175,56821845229943,56821845262711,56821845295479,56821845328247,56821845361015,56821845393783,56821845426551,56821845459319,56821845492087]},"available":true,"name":"Agenda quotidien - Red \/ A3 \/ Soft cover","public_title":"Red \/ A3 \/ Soft cover","options":["Red","A3","Soft cover"],"price":1300,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","featured_media":{"alt":null,"id":67606642884983,"position":5,"preview_image":{"aspect_ratio":0.753,"height":2464,"width":1856,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/06-planner-hover-04.jpg?v=1763732931"}},"requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56821845328247,"title":"Green \/ A5 \/ Couverture rigide","option1":"Green","option2":"A5","option3":"Couverture rigide","sku":null,"requires_shipping":true,"taxable":true,"featured_image":{"id":82286135837047,"product_id":15252883210615,"position":5,"created_at":"2025-11-21T08:48:47-05:00","updated_at":"2025-11-21T08:48:51-05:00","alt":null,"width":1856,"height":2464,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/06-planner-hover-04.jpg?v=1763732931","variant_ids":[56821844935031,56821844967799,56821845000567,56821845033335,56821845066103,56821845098871,56821845131639,56821845164407,56821845197175,56821845229943,56821845262711,56821845295479,56821845328247,56821845361015,56821845393783,56821845426551,56821845459319,56821845492087]},"available":true,"name":"Agenda quotidien - Green \/ A5 \/ Couverture rigide","public_title":"Green \/ A5 \/ Couverture rigide","options":["Green","A5","Couverture rigide"],"price":1300,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","featured_media":{"alt":null,"id":67606642884983,"position":5,"preview_image":{"aspect_ratio":0.753,"height":2464,"width":1856,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/06-planner-hover-04.jpg?v=1763732931"}},"requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56821845361015,"title":"Green \/ A5 \/ Soft cover","option1":"Green","option2":"A5","option3":"Soft cover","sku":null,"requires_shipping":true,"taxable":true,"featured_image":{"id":82286135837047,"product_id":15252883210615,"position":5,"created_at":"2025-11-21T08:48:47-05:00","updated_at":"2025-11-21T08:48:51-05:00","alt":null,"width":1856,"height":2464,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/06-planner-hover-04.jpg?v=1763732931","variant_ids":[56821844935031,56821844967799,56821845000567,56821845033335,56821845066103,56821845098871,56821845131639,56821845164407,56821845197175,56821845229943,56821845262711,56821845295479,56821845328247,56821845361015,56821845393783,56821845426551,56821845459319,56821845492087]},"available":true,"name":"Agenda quotidien - Green \/ A5 \/ Soft cover","public_title":"Green \/ A5 \/ Soft cover","options":["Green","A5","Soft cover"],"price":1300,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","featured_media":{"alt":null,"id":67606642884983,"position":5,"preview_image":{"aspect_ratio":0.753,"height":2464,"width":1856,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/06-planner-hover-04.jpg?v=1763732931"}},"requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56821845393783,"title":"Green \/ A4 \/ Couverture rigide","option1":"Green","option2":"A4","option3":"Couverture rigide","sku":null,"requires_shipping":true,"taxable":true,"featured_image":{"id":82286135837047,"product_id":15252883210615,"position":5,"created_at":"2025-11-21T08:48:47-05:00","updated_at":"2025-11-21T08:48:51-05:00","alt":null,"width":1856,"height":2464,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/06-planner-hover-04.jpg?v=1763732931","variant_ids":[56821844935031,56821844967799,56821845000567,56821845033335,56821845066103,56821845098871,56821845131639,56821845164407,56821845197175,56821845229943,56821845262711,56821845295479,56821845328247,56821845361015,56821845393783,56821845426551,56821845459319,56821845492087]},"available":true,"name":"Agenda quotidien - Green \/ A4 \/ Couverture rigide","public_title":"Green \/ A4 \/ Couverture rigide","options":["Green","A4","Couverture rigide"],"price":1300,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","featured_media":{"alt":null,"id":67606642884983,"position":5,"preview_image":{"aspect_ratio":0.753,"height":2464,"width":1856,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/06-planner-hover-04.jpg?v=1763732931"}},"requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56821845426551,"title":"Green \/ A4 \/ Soft cover","option1":"Green","option2":"A4","option3":"Soft cover","sku":null,"requires_shipping":true,"taxable":true,"featured_image":{"id":82286135837047,"product_id":15252883210615,"position":5,"created_at":"2025-11-21T08:48:47-05:00","updated_at":"2025-11-21T08:48:51-05:00","alt":null,"width":1856,"height":2464,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/06-planner-hover-04.jpg?v=1763732931","variant_ids":[56821844935031,56821844967799,56821845000567,56821845033335,56821845066103,56821845098871,56821845131639,56821845164407,56821845197175,56821845229943,56821845262711,56821845295479,56821845328247,56821845361015,56821845393783,56821845426551,56821845459319,56821845492087]},"available":true,"name":"Agenda quotidien - Green \/ A4 \/ Soft cover","public_title":"Green \/ A4 \/ Soft cover","options":["Green","A4","Soft cover"],"price":1300,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","featured_media":{"alt":null,"id":67606642884983,"position":5,"preview_image":{"aspect_ratio":0.753,"height":2464,"width":1856,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/06-planner-hover-04.jpg?v=1763732931"}},"requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56821845459319,"title":"Green \/ A3 \/ Couverture rigide","option1":"Green","option2":"A3","option3":"Couverture rigide","sku":null,"requires_shipping":true,"taxable":true,"featured_image":{"id":82286135837047,"product_id":15252883210615,"position":5,"created_at":"2025-11-21T08:48:47-05:00","updated_at":"2025-11-21T08:48:51-05:00","alt":null,"width":1856,"height":2464,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/06-planner-hover-04.jpg?v=1763732931","variant_ids":[56821844935031,56821844967799,56821845000567,56821845033335,56821845066103,56821845098871,56821845131639,56821845164407,56821845197175,56821845229943,56821845262711,56821845295479,56821845328247,56821845361015,56821845393783,56821845426551,56821845459319,56821845492087]},"available":true,"name":"Agenda quotidien - Green \/ A3 \/ Couverture rigide","public_title":"Green \/ A3 \/ Couverture rigide","options":["Green","A3","Couverture rigide"],"price":1300,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","featured_media":{"alt":null,"id":67606642884983,"position":5,"preview_image":{"aspect_ratio":0.753,"height":2464,"width":1856,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/06-planner-hover-04.jpg?v=1763732931"}},"requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56821845492087,"title":"Green \/ A3 \/ Soft cover","option1":"Green","option2":"A3","option3":"Soft cover","sku":null,"requires_shipping":true,"taxable":true,"featured_image":{"id":82286135837047,"product_id":15252883210615,"position":5,"created_at":"2025-11-21T08:48:47-05:00","updated_at":"2025-11-21T08:48:51-05:00","alt":null,"width":1856,"height":2464,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/06-planner-hover-04.jpg?v=1763732931","variant_ids":[56821844935031,56821844967799,56821845000567,56821845033335,56821845066103,56821845098871,56821845131639,56821845164407,56821845197175,56821845229943,56821845262711,56821845295479,56821845328247,56821845361015,56821845393783,56821845426551,56821845459319,56821845492087]},"available":true,"name":"Agenda quotidien - Green \/ A3 \/ Soft cover","public_title":"Green \/ A3 \/ Soft cover","options":["Green","A3","Soft cover"],"price":1300,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","featured_media":{"alt":null,"id":67606642884983,"position":5,"preview_image":{"aspect_ratio":0.753,"height":2464,"width":1856,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/06-planner-hover-04.jpg?v=1763732931"}},"requires_selling_plan":false,"selling_plan_allocations":[]}]
+    </script>
+    <script type="application/json" data-product-card-featured-media="">
+      {"alt":null,"id":67606642917751,"position":1,"preview_image":{"aspect_ratio":0.75,"height":2268,"width":1701,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/06-planner.jpg?v=1763732931"},"aspect_ratio":0.75,"height":2268,"media_type":"image","src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/06-planner.jpg?v=1763732931","width":1701}
+    </script>
+    <span class="hidden" data-product-card-options="" data-product-title="Agenda quotidien" data-product-columns="4" data-product-columns-mobile="2" data-product-ratio="0.76" data-product-fit="cover" data-product-has-price-varies="false"></span><a href="/fr/products/day-to-day-planner?pr_prod_strat=collection_fallback&amp;pr_rec_id=71a3dd27f&amp;pr_rec_pid=15252883210615&amp;pr_ref_pid=15252589969783&amp;pr_seq=uniform" class="product-card__link-overlay focus-inset" aria-label="Agenda quotidien Lien vers le produit"></a></product-card>
+
+              </div><div class="product-recommendations__item swiper-slide swiper-slide-next" role="group" aria-label="2 / 5" style="width: 326.25px; margin-right: 24px;">
+                
+
+
+<product-card class="product-card product-card--mobile-2 product-card_image-linked" data-product="essential-grid-planner" data-product-id="15252881572215" data-image-linked="true" data-card-color-swatches="true" tabindex="-1" style="--card-padding-bottom: 131.7%; --slide-count: 5">
+  <div class="product-card__inner">
+    <div class="product-card__media">
+
+          <div class="swiper-container product-card-js global-variant-js-media-list slider_started swiper-initialized swiper-horizontal swiper-backface-hidden" data-loop="false">
+            <div class="swiper-wrapper" id="swiper-wrapper-a122a42692325b2f" aria-live="polite" style="transform: translate3d(0px, 0px, 0px);">
+              
+                
+
+                
+                  
+                    
+                    
+
+                
+
+                <div class="swiper-slide swiper-slide-active" data-media-id="67606624862583" data-variant-id="56821846409591" role="group" aria-label="1 / 5" style="width: 326px; margin-right: 2px;">
+                  <img src="//shift-sketch.myshopify.com/cdn/shop/files/05-planner.jpg?v=1763732862&amp;width=1701" alt="Planificateur de grille essentiel" srcset="//shift-sketch.myshopify.com/cdn/shop/files/05-planner.jpg?v=1763732862&amp;width=360 360w, //shift-sketch.myshopify.com/cdn/shop/files/05-planner.jpg?v=1763732862&amp;width=535 535w, //shift-sketch.myshopify.com/cdn/shop/files/05-planner.jpg?v=1763732862&amp;width=720 720w, //shift-sketch.myshopify.com/cdn/shop/files/05-planner.jpg?v=1763732862&amp;width=940 940w, //shift-sketch.myshopify.com/cdn/shop/files/05-planner.jpg?v=1763732862&amp;width=1066 1066w, //shift-sketch.myshopify.com/cdn/shop/files/05-planner.jpg?v=1763732862&amp;width=1200 1200w, //shift-sketch.myshopify.com/cdn/shop/files/05-planner.jpg?v=1763732862&amp;width=1400 1400w, //shift-sketch.myshopify.com/cdn/shop/files/05-planner.jpg?v=1763732862&amp;width=1600 1600w" width="1701" height="2268" loading="lazy" class="motion-reduce media" sizes="(min-width: 1200px) calc(1.03 * (100vw / 4)),(min-width: 990px) calc(1.03 * (100vw / 3)),(min-width: 576px) calc(1.03 * (100vw / 2)),calc(1.03 * 100vw)" style="object-fit: cover;">
+                </div>
+              
+                
+
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+
+                
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                
+
+                <div class="swiper-slide swiper-slide-next" data-media-id="67606624731511" role="group" aria-label="2 / 5" style="width: 326px; margin-right: 2px;">
+                  <img src="//shift-sketch.myshopify.com/cdn/shop/files/05-planner-hover-01.jpg?v=1763732862&amp;width=1688" alt="Planificateur de grille essentiel" srcset="//shift-sketch.myshopify.com/cdn/shop/files/05-planner-hover-01.jpg?v=1763732862&amp;width=360 360w, //shift-sketch.myshopify.com/cdn/shop/files/05-planner-hover-01.jpg?v=1763732862&amp;width=535 535w, //shift-sketch.myshopify.com/cdn/shop/files/05-planner-hover-01.jpg?v=1763732862&amp;width=720 720w, //shift-sketch.myshopify.com/cdn/shop/files/05-planner-hover-01.jpg?v=1763732862&amp;width=940 940w, //shift-sketch.myshopify.com/cdn/shop/files/05-planner-hover-01.jpg?v=1763732862&amp;width=1066 1066w, //shift-sketch.myshopify.com/cdn/shop/files/05-planner-hover-01.jpg?v=1763732862&amp;width=1200 1200w, //shift-sketch.myshopify.com/cdn/shop/files/05-planner-hover-01.jpg?v=1763732862&amp;width=1400 1400w, //shift-sketch.myshopify.com/cdn/shop/files/05-planner-hover-01.jpg?v=1763732862&amp;width=1600 1600w" width="1688" height="2250" loading="lazy" class="motion-reduce media" sizes="(min-width: 1200px) calc(1.03 * (100vw / 4)),(min-width: 990px) calc(1.03 * (100vw / 3)),(min-width: 576px) calc(1.03 * (100vw / 2)),calc(1.03 * 100vw)" style="object-fit: cover;">
+                </div>
+              
+                
+
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+
+                
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                
+
+                <div class="swiper-slide" data-media-id="67606624764279" role="group" aria-label="3 / 5" style="width: 326px; margin-right: 2px;">
+                  <img src="//shift-sketch.myshopify.com/cdn/shop/files/05-planner-hover-02.jpg?v=1763732862&amp;width=1688" alt="Planificateur de grille essentiel" srcset="//shift-sketch.myshopify.com/cdn/shop/files/05-planner-hover-02.jpg?v=1763732862&amp;width=360 360w, //shift-sketch.myshopify.com/cdn/shop/files/05-planner-hover-02.jpg?v=1763732862&amp;width=535 535w, //shift-sketch.myshopify.com/cdn/shop/files/05-planner-hover-02.jpg?v=1763732862&amp;width=720 720w, //shift-sketch.myshopify.com/cdn/shop/files/05-planner-hover-02.jpg?v=1763732862&amp;width=940 940w, //shift-sketch.myshopify.com/cdn/shop/files/05-planner-hover-02.jpg?v=1763732862&amp;width=1066 1066w, //shift-sketch.myshopify.com/cdn/shop/files/05-planner-hover-02.jpg?v=1763732862&amp;width=1200 1200w, //shift-sketch.myshopify.com/cdn/shop/files/05-planner-hover-02.jpg?v=1763732862&amp;width=1400 1400w, //shift-sketch.myshopify.com/cdn/shop/files/05-planner-hover-02.jpg?v=1763732862&amp;width=1600 1600w" width="1688" height="2250" loading="lazy" class="motion-reduce media" sizes="(min-width: 1200px) calc(1.03 * (100vw / 4)),(min-width: 990px) calc(1.03 * (100vw / 3)),(min-width: 576px) calc(1.03 * (100vw / 2)),calc(1.03 * 100vw)" style="object-fit: cover;">
+                </div>
+              
+                
+
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+
+                
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                
+
+                <div class="swiper-slide" data-media-id="67606624797047" role="group" aria-label="4 / 5" style="width: 326px; margin-right: 2px;">
+                  <img src="//shift-sketch.myshopify.com/cdn/shop/files/05-planner-hover-03.jpg?v=1763732863&amp;width=1800" alt="Planificateur de grille essentiel" srcset="//shift-sketch.myshopify.com/cdn/shop/files/05-planner-hover-03.jpg?v=1763732863&amp;width=360 360w, //shift-sketch.myshopify.com/cdn/shop/files/05-planner-hover-03.jpg?v=1763732863&amp;width=535 535w, //shift-sketch.myshopify.com/cdn/shop/files/05-planner-hover-03.jpg?v=1763732863&amp;width=720 720w, //shift-sketch.myshopify.com/cdn/shop/files/05-planner-hover-03.jpg?v=1763732863&amp;width=940 940w, //shift-sketch.myshopify.com/cdn/shop/files/05-planner-hover-03.jpg?v=1763732863&amp;width=1066 1066w, //shift-sketch.myshopify.com/cdn/shop/files/05-planner-hover-03.jpg?v=1763732863&amp;width=1200 1200w, //shift-sketch.myshopify.com/cdn/shop/files/05-planner-hover-03.jpg?v=1763732863&amp;width=1400 1400w, //shift-sketch.myshopify.com/cdn/shop/files/05-planner-hover-03.jpg?v=1763732863&amp;width=1600 1600w, //shift-sketch.myshopify.com/cdn/shop/files/05-planner-hover-03.jpg?v=1763732863&amp;width=1800 1800w" width="1800" height="2400" loading="lazy" class="motion-reduce media" sizes="(min-width: 1200px) calc(1.03 * (100vw / 4)),(min-width: 990px) calc(1.03 * (100vw / 3)),(min-width: 576px) calc(1.03 * (100vw / 2)),calc(1.03 * 100vw)" style="object-fit: cover;">
+                </div>
+              
+                
+
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                    
+                    
+
+                
+
+                <div class="swiper-slide" data-media-id="67606624829815" data-variant-id="56821846507895" role="group" aria-label="5 / 5" style="width: 326px; margin-right: 2px;">
+                  <img src="//shift-sketch.myshopify.com/cdn/shop/files/05-planner-hover-04.jpg?v=1763732862&amp;width=1856" alt="Planificateur de grille essentiel" srcset="//shift-sketch.myshopify.com/cdn/shop/files/05-planner-hover-04.jpg?v=1763732862&amp;width=360 360w, //shift-sketch.myshopify.com/cdn/shop/files/05-planner-hover-04.jpg?v=1763732862&amp;width=535 535w, //shift-sketch.myshopify.com/cdn/shop/files/05-planner-hover-04.jpg?v=1763732862&amp;width=720 720w, //shift-sketch.myshopify.com/cdn/shop/files/05-planner-hover-04.jpg?v=1763732862&amp;width=940 940w, //shift-sketch.myshopify.com/cdn/shop/files/05-planner-hover-04.jpg?v=1763732862&amp;width=1066 1066w, //shift-sketch.myshopify.com/cdn/shop/files/05-planner-hover-04.jpg?v=1763732862&amp;width=1200 1200w, //shift-sketch.myshopify.com/cdn/shop/files/05-planner-hover-04.jpg?v=1763732862&amp;width=1400 1400w, //shift-sketch.myshopify.com/cdn/shop/files/05-planner-hover-04.jpg?v=1763732862&amp;width=1600 1600w, //shift-sketch.myshopify.com/cdn/shop/files/05-planner-hover-04.jpg?v=1763732862&amp;width=1800 1800w" width="1856" height="2464" loading="lazy" class="motion-reduce media" sizes="(min-width: 1200px) calc(1.03 * (100vw / 4)),(min-width: 990px) calc(1.03 * (100vw / 3)),(min-width: 576px) calc(1.03 * (100vw / 2)),calc(1.03 * 100vw)" style="object-fit: cover;">
+                </div>
+              
+            </div>
+            <div class="product-button-group">
+              <div class="product-slider-button-prev">
+                <div class="swiper-button-prev swiper-button-disabled" tabindex="-1" role="button" aria-label="Previous slide" aria-controls="swiper-wrapper-a122a42692325b2f" aria-disabled="true"><svg class="icon icon-arrow-slider-left" width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M14 2L6 10L14 18" stroke="currentColor"></path>
+</svg>
+</div>
+              </div>
+
+              <div class="product-slider-button-next">
+                <div class="swiper-button-next" tabindex="0" role="button" aria-label="Next slide" aria-controls="swiper-wrapper-a122a42692325b2f" aria-disabled="false"><svg class="icon icon-arrow-slider-right" width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M6 2L14 10L6 18" stroke="currentColor"></path>
+</svg>
+</div>
+              </div>
+            </div>
+            <div class="swiper-pagination product-card-pagination swiper-pagination-default swiper-pagination-clickable swiper-pagination-bullets swiper-pagination-horizontal"><span class="swiper-pagination-bullet swiper-pagination-bullet-active" tabindex="0" role="button" aria-label="Go to slide 1" aria-current="true"></span><span class="swiper-pagination-bullet" tabindex="0" role="button" aria-label="Go to slide 2"></span><span class="swiper-pagination-bullet" tabindex="0" role="button" aria-label="Go to slide 3"></span><span class="swiper-pagination-bullet" tabindex="0" role="button" aria-label="Go to slide 4"></span><span class="swiper-pagination-bullet" tabindex="0" role="button" aria-label="Go to slide 5"></span></div>
+          <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
+        
+</div><div class="product-card__top">
+        
+<div class="product-card__badges body-normal"></div>
+      </div><div class="product-card__quickview product-card__quickview--mobile-true no-js-hidden">
+        <modal-opener data-modal="#QuickView-15252881572215">
+          <button class="product-card__button button button--primary focus-inset" aria-haspopup="dialog" data-product-url="/fr/products/essential-grid-planner?pr_prod_strat=collection_fallback&amp;pr_rec_id=71a3dd27f&amp;pr_rec_pid=15252881572215&amp;pr_ref_pid=15252589969783&amp;pr_seq=uniform" aria-label="Quick view">
+            <div class="button__content">
+              <span class="product-card__quickview-text button__label" data-label="Quick view">Quick view</span>
+              <span class="product-card__mobile-icon button__icon">
+                <svg width="22" height="22" viewBox="0 0 22 22" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M2.66745 12.0748C2.35434 11.3936 2.35434 10.6077 2.66745 9.92654C4.11679 6.77337 7.30311 4.58398 11.0008 4.58398C14.6985 4.58398 17.8848 6.77338 19.3341 9.92654C19.6472 10.6077 19.6472 11.3936 19.3341 12.0748C17.8848 15.2279 14.6985 17.4173 11.0008 17.4173C7.30311 17.4173 4.11679 15.2279 2.66745 12.0748Z" stroke="currentColor" stroke-width="1.5"></path>
+  <path d="M13.7508 11.0007C13.7508 12.5194 12.5196 13.7507 11.0008 13.7507C9.48201 13.7507 8.25079 12.5194 8.25079 11.0007C8.25079 9.48187 9.48201 8.25065 11.0008 8.25065C12.5196 8.25065 13.7508 9.48187 13.7508 11.0007Z" stroke="currentColor" stroke-width="1.5"></path>
+</svg>
+
+              </span>
+            </div>
+            <div class="loading-overlay__spinner hidden">
+              <svg aria-hidden="true" focusable="false" role="presentation" class="spinner" viewBox="0 0 66 66" xmlns="http://www.w3.org/2000/svg">
+  <circle class="path" fill="none" stroke-width="5" cx="33" cy="33" r="30"></circle>
+</svg>
+
+            </div>
+          </button>
+        </modal-opener>
+
+        
+
+
+      </div></div>
+
+  
+  <div class="product-card__information">
+    <div class="product-card__information-top"><h3 class="product-card__title">
+        <a class="focus-inset" href="/fr/products/essential-grid-planner?pr_prod_strat=collection_fallback&amp;pr_rec_id=71a3dd27f&amp;pr_rec_pid=15252881572215&amp;pr_ref_pid=15252589969783&amp;pr_seq=uniform" aria-label="Planificateur de grille essentiel">Planificateur de grille essentiel</a>
+      </h3>
+
+      <div class="product-card__price-group">
+        
+<div class="price">
+  <dl class="price-text"><div class="price__regular">
+      <dt class="visually-hidden">Prix régulier</dt>
+      <dd>
+        <span class="price-item price-item--regular">$12.50</span>
+      </dd>
+    </div>
+    <div class="price__sale">
+      <dt class="visually-hidden">Prix de vente</dt>
+      <dd>
+        <span class="price-item price-item--sale">$12.50</span>
+      </dd>
+      <dt class="visually-hidden">Prix régulier</dt>
+      <dd class="price__compare">
+        <s class="price-item price-item--regular"></s>
+      </dd>
+    </div>
+  </dl>
+
+  <dl class="unit-price hidden">
+    <dt class="visually-hidden">Prix unitaire</dt>
+    <dd></dd>
+  </dl>
+</div>
+
+      </div>
+      
+
+          <div class="product-card__description body-small">Un outil fiable pour un usage quotidien, conçu pour faciliter la planification, la prise de notes et les travaux créatifs....</div><div class="product-card__error body-xs" role="alert" hidden=""></div>
+    </div>
+
+    
+<div class="product-card__information-bottom"><div class="product-card__color-swatches">
+                
+                  <div class="body-small js-option-selected-value" data-option-position="1">
+                    Gray</div>
+                
+                <div class="product-card__option-group js-card-option-group" data-option-position="1">
+                  
+
+
+  
+
+  
+  
+  
+
+<input type="radio" id="template--27266933817719__product_recommendations-1-0-15252881572215-2" name="Color-template--27266933817719__product_recommendations-15252881572215-2" value="Gray" data-variant-id="56821846409591" form="product-form-template--27266933817719__product_recommendations" checked="" tabindex="-1" aria-label="Gray" data-option-value-id="12613471043959" style="">
+    
+<label for="template--27266933817719__product_recommendations-1-0-15252881572215-2" class="color-swatch" style="--swatch-color: rgb(128 128 128);" title="Gray" tabindex="0" onkeydown="if(event.key==='Enter'||event.key===' '){event.preventDefault();document.getElementById(this.getAttribute('for')).click();}" data-unavailable-color-label="N/A">
+        <span class="visually-hidden">Gray</span>
+      </label>
+
+  
+
+  
+  
+  
+
+<input type="radio" id="template--27266933817719__product_recommendations-1-1-15252881572215-2" name="Color-template--27266933817719__product_recommendations-15252881572215-2" value="Purple" data-variant-id="56821846507895" form="product-form-template--27266933817719__product_recommendations" tabindex="-1" aria-label="Purple" data-option-value-id="12613471076727" style="">
+    
+<label for="template--27266933817719__product_recommendations-1-1-15252881572215-2" class="color-swatch" style="--swatch-color: rgb(165 77 207);" title="Purple" tabindex="0" onkeydown="if(event.key==='Enter'||event.key===' '){event.preventDefault();document.getElementById(this.getAttribute('for')).click();}" data-unavailable-color-label="N/A">
+        <span class="visually-hidden">Purple</span>
+      </label>
+
+  
+
+  
+  
+  
+
+<input type="radio" id="template--27266933817719__product_recommendations-1-2-15252881572215-2" name="Color-template--27266933817719__product_recommendations-15252881572215-2" value="Red" data-variant-id="56821846606199" form="product-form-template--27266933817719__product_recommendations" tabindex="-1" aria-label="Red" data-option-value-id="12613471109495" style="">
+    
+<label for="template--27266933817719__product_recommendations-1-2-15252881572215-2" class="color-swatch" style="--swatch-color: rgb(246 31 31);" title="Red" tabindex="0" onkeydown="if(event.key==='Enter'||event.key===' '){event.preventDefault();document.getElementById(this.getAttribute('for')).click();}" data-unavailable-color-label="N/A">
+        <span class="visually-hidden">Red</span>
+      </label>
+                </div>
+
+                
+              </div></div></div><script type="application/json" data-product-card-variants="">
+      [{"id":56821846409591,"title":"Gray \/ A5","option1":"Gray","option2":"A5","option3":null,"sku":null,"requires_shipping":true,"taxable":true,"featured_image":{"id":82286118076791,"product_id":15252881572215,"position":1,"created_at":"2025-11-21T08:47:39-05:00","updated_at":"2025-11-21T08:47:42-05:00","alt":null,"width":1701,"height":2268,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/05-planner.jpg?v=1763732862","variant_ids":[56821846409591,56821846442359,56821846475127]},"available":true,"name":"Planificateur de grille essentiel - Gray \/ A5","public_title":"Gray \/ A5","options":["Gray","A5"],"price":1250,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","featured_media":{"alt":null,"id":67606624862583,"position":1,"preview_image":{"aspect_ratio":0.75,"height":2268,"width":1701,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/05-planner.jpg?v=1763732862"}},"requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56821846442359,"title":"Gray \/ A4","option1":"Gray","option2":"A4","option3":null,"sku":null,"requires_shipping":true,"taxable":true,"featured_image":{"id":82286118076791,"product_id":15252881572215,"position":1,"created_at":"2025-11-21T08:47:39-05:00","updated_at":"2025-11-21T08:47:42-05:00","alt":null,"width":1701,"height":2268,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/05-planner.jpg?v=1763732862","variant_ids":[56821846409591,56821846442359,56821846475127]},"available":true,"name":"Planificateur de grille essentiel - Gray \/ A4","public_title":"Gray \/ A4","options":["Gray","A4"],"price":1250,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","featured_media":{"alt":null,"id":67606624862583,"position":1,"preview_image":{"aspect_ratio":0.75,"height":2268,"width":1701,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/05-planner.jpg?v=1763732862"}},"requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56821846475127,"title":"Gray \/ A3","option1":"Gray","option2":"A3","option3":null,"sku":null,"requires_shipping":true,"taxable":true,"featured_image":{"id":82286118076791,"product_id":15252881572215,"position":1,"created_at":"2025-11-21T08:47:39-05:00","updated_at":"2025-11-21T08:47:42-05:00","alt":null,"width":1701,"height":2268,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/05-planner.jpg?v=1763732862","variant_ids":[56821846409591,56821846442359,56821846475127]},"available":true,"name":"Planificateur de grille essentiel - Gray \/ A3","public_title":"Gray \/ A3","options":["Gray","A3"],"price":1250,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","featured_media":{"alt":null,"id":67606624862583,"position":1,"preview_image":{"aspect_ratio":0.75,"height":2268,"width":1701,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/05-planner.jpg?v=1763732862"}},"requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56821846507895,"title":"Purple \/ A5","option1":"Purple","option2":"A5","option3":null,"sku":null,"requires_shipping":true,"taxable":true,"featured_image":{"id":82286118044023,"product_id":15252881572215,"position":5,"created_at":"2025-11-21T08:47:39-05:00","updated_at":"2025-11-21T08:47:42-05:00","alt":null,"width":1856,"height":2464,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/05-planner-hover-04.jpg?v=1763732862","variant_ids":[56821846507895,56821846540663,56821846573431,56821846606199,56821846638967,56821846671735]},"available":true,"name":"Planificateur de grille essentiel - Purple \/ A5","public_title":"Purple \/ A5","options":["Purple","A5"],"price":1250,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","featured_media":{"alt":null,"id":67606624829815,"position":5,"preview_image":{"aspect_ratio":0.753,"height":2464,"width":1856,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/05-planner-hover-04.jpg?v=1763732862"}},"requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56821846540663,"title":"Purple \/ A4","option1":"Purple","option2":"A4","option3":null,"sku":null,"requires_shipping":true,"taxable":true,"featured_image":{"id":82286118044023,"product_id":15252881572215,"position":5,"created_at":"2025-11-21T08:47:39-05:00","updated_at":"2025-11-21T08:47:42-05:00","alt":null,"width":1856,"height":2464,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/05-planner-hover-04.jpg?v=1763732862","variant_ids":[56821846507895,56821846540663,56821846573431,56821846606199,56821846638967,56821846671735]},"available":true,"name":"Planificateur de grille essentiel - Purple \/ A4","public_title":"Purple \/ A4","options":["Purple","A4"],"price":1250,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","featured_media":{"alt":null,"id":67606624829815,"position":5,"preview_image":{"aspect_ratio":0.753,"height":2464,"width":1856,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/05-planner-hover-04.jpg?v=1763732862"}},"requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56821846573431,"title":"Purple \/ A3","option1":"Purple","option2":"A3","option3":null,"sku":null,"requires_shipping":true,"taxable":true,"featured_image":{"id":82286118044023,"product_id":15252881572215,"position":5,"created_at":"2025-11-21T08:47:39-05:00","updated_at":"2025-11-21T08:47:42-05:00","alt":null,"width":1856,"height":2464,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/05-planner-hover-04.jpg?v=1763732862","variant_ids":[56821846507895,56821846540663,56821846573431,56821846606199,56821846638967,56821846671735]},"available":true,"name":"Planificateur de grille essentiel - Purple \/ A3","public_title":"Purple \/ A3","options":["Purple","A3"],"price":1250,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","featured_media":{"alt":null,"id":67606624829815,"position":5,"preview_image":{"aspect_ratio":0.753,"height":2464,"width":1856,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/05-planner-hover-04.jpg?v=1763732862"}},"requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56821846606199,"title":"Red \/ A5","option1":"Red","option2":"A5","option3":null,"sku":null,"requires_shipping":true,"taxable":true,"featured_image":{"id":82286118044023,"product_id":15252881572215,"position":5,"created_at":"2025-11-21T08:47:39-05:00","updated_at":"2025-11-21T08:47:42-05:00","alt":null,"width":1856,"height":2464,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/05-planner-hover-04.jpg?v=1763732862","variant_ids":[56821846507895,56821846540663,56821846573431,56821846606199,56821846638967,56821846671735]},"available":true,"name":"Planificateur de grille essentiel - Red \/ A5","public_title":"Red \/ A5","options":["Red","A5"],"price":1250,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","featured_media":{"alt":null,"id":67606624829815,"position":5,"preview_image":{"aspect_ratio":0.753,"height":2464,"width":1856,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/05-planner-hover-04.jpg?v=1763732862"}},"requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56821846638967,"title":"Red \/ A4","option1":"Red","option2":"A4","option3":null,"sku":null,"requires_shipping":true,"taxable":true,"featured_image":{"id":82286118044023,"product_id":15252881572215,"position":5,"created_at":"2025-11-21T08:47:39-05:00","updated_at":"2025-11-21T08:47:42-05:00","alt":null,"width":1856,"height":2464,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/05-planner-hover-04.jpg?v=1763732862","variant_ids":[56821846507895,56821846540663,56821846573431,56821846606199,56821846638967,56821846671735]},"available":true,"name":"Planificateur de grille essentiel - Red \/ A4","public_title":"Red \/ A4","options":["Red","A4"],"price":1250,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","featured_media":{"alt":null,"id":67606624829815,"position":5,"preview_image":{"aspect_ratio":0.753,"height":2464,"width":1856,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/05-planner-hover-04.jpg?v=1763732862"}},"requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56821846671735,"title":"Red \/ A3","option1":"Red","option2":"A3","option3":null,"sku":null,"requires_shipping":true,"taxable":true,"featured_image":{"id":82286118044023,"product_id":15252881572215,"position":5,"created_at":"2025-11-21T08:47:39-05:00","updated_at":"2025-11-21T08:47:42-05:00","alt":null,"width":1856,"height":2464,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/05-planner-hover-04.jpg?v=1763732862","variant_ids":[56821846507895,56821846540663,56821846573431,56821846606199,56821846638967,56821846671735]},"available":true,"name":"Planificateur de grille essentiel - Red \/ A3","public_title":"Red \/ A3","options":["Red","A3"],"price":1250,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","featured_media":{"alt":null,"id":67606624829815,"position":5,"preview_image":{"aspect_ratio":0.753,"height":2464,"width":1856,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/05-planner-hover-04.jpg?v=1763732862"}},"requires_selling_plan":false,"selling_plan_allocations":[]}]
+    </script>
+    <script type="application/json" data-product-card-featured-media="">
+      {"alt":null,"id":67606624862583,"position":1,"preview_image":{"aspect_ratio":0.75,"height":2268,"width":1701,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/05-planner.jpg?v=1763732862"},"aspect_ratio":0.75,"height":2268,"media_type":"image","src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/05-planner.jpg?v=1763732862","width":1701}
+    </script>
+    <span class="hidden" data-product-card-options="" data-product-title="Planificateur de grille essentiel" data-product-columns="4" data-product-columns-mobile="2" data-product-ratio="0.76" data-product-fit="cover" data-product-has-price-varies="false"></span><a href="/fr/products/essential-grid-planner?pr_prod_strat=collection_fallback&amp;pr_rec_id=71a3dd27f&amp;pr_rec_pid=15252881572215&amp;pr_ref_pid=15252589969783&amp;pr_seq=uniform" class="product-card__link-overlay focus-inset" aria-label="Planificateur de grille essentiel Lien vers le produit"></a></product-card>
+
+              </div><div class="product-recommendations__item swiper-slide" role="group" aria-label="3 / 5" style="width: 326.25px; margin-right: 24px;">
+                
+
+
+<product-card class="product-card product-card--mobile-2 product-card_image-linked" data-product="schedule-master-planner" data-product-id="15252879835511" data-image-linked="true" data-card-color-swatches="true" tabindex="-1" style="--card-padding-bottom: 131.7%; --slide-count: 5">
+  <div class="product-card__inner">
+    <div class="product-card__media">
+
+          <div class="swiper-container product-card-js global-variant-js-media-list slider_started swiper-initialized swiper-horizontal swiper-backface-hidden" data-loop="false">
+            <div class="swiper-wrapper" id="swiper-wrapper-2ad3799d44f977d3" aria-live="polite" style="transform: translate3d(0px, 0px, 0px);">
+              
+                
+
+                
+                  
+                    
+                    
+
+                
+
+                <div class="swiper-slide swiper-slide-active" data-media-id="67606587539831" data-variant-id="56220830957943" role="group" aria-label="1 / 5" style="width: 326px; margin-right: 2px;">
+                  <img src="//shift-sketch.myshopify.com/cdn/shop/files/04-planner.jpg?v=1763732752&amp;width=1701" alt="Planificateur principal d'horaires" srcset="//shift-sketch.myshopify.com/cdn/shop/files/04-planner.jpg?v=1763732752&amp;width=360 360w, //shift-sketch.myshopify.com/cdn/shop/files/04-planner.jpg?v=1763732752&amp;width=535 535w, //shift-sketch.myshopify.com/cdn/shop/files/04-planner.jpg?v=1763732752&amp;width=720 720w, //shift-sketch.myshopify.com/cdn/shop/files/04-planner.jpg?v=1763732752&amp;width=940 940w, //shift-sketch.myshopify.com/cdn/shop/files/04-planner.jpg?v=1763732752&amp;width=1066 1066w, //shift-sketch.myshopify.com/cdn/shop/files/04-planner.jpg?v=1763732752&amp;width=1200 1200w, //shift-sketch.myshopify.com/cdn/shop/files/04-planner.jpg?v=1763732752&amp;width=1400 1400w, //shift-sketch.myshopify.com/cdn/shop/files/04-planner.jpg?v=1763732752&amp;width=1600 1600w" width="1701" height="2268" loading="lazy" class="motion-reduce media" sizes="(min-width: 1200px) calc(1.03 * (100vw / 4)),(min-width: 990px) calc(1.03 * (100vw / 3)),(min-width: 576px) calc(1.03 * (100vw / 2)),calc(1.03 * 100vw)" style="object-fit: cover;">
+                </div>
+              
+                
+
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+
+                
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                
+
+                <div class="swiper-slide swiper-slide-next" data-media-id="67606587408759" role="group" aria-label="2 / 5" style="width: 326px; margin-right: 2px;">
+                  <img src="//shift-sketch.myshopify.com/cdn/shop/files/04-planner-hover-01.jpg?v=1763732752&amp;width=1688" alt="Planificateur principal d'horaires" srcset="//shift-sketch.myshopify.com/cdn/shop/files/04-planner-hover-01.jpg?v=1763732752&amp;width=360 360w, //shift-sketch.myshopify.com/cdn/shop/files/04-planner-hover-01.jpg?v=1763732752&amp;width=535 535w, //shift-sketch.myshopify.com/cdn/shop/files/04-planner-hover-01.jpg?v=1763732752&amp;width=720 720w, //shift-sketch.myshopify.com/cdn/shop/files/04-planner-hover-01.jpg?v=1763732752&amp;width=940 940w, //shift-sketch.myshopify.com/cdn/shop/files/04-planner-hover-01.jpg?v=1763732752&amp;width=1066 1066w, //shift-sketch.myshopify.com/cdn/shop/files/04-planner-hover-01.jpg?v=1763732752&amp;width=1200 1200w, //shift-sketch.myshopify.com/cdn/shop/files/04-planner-hover-01.jpg?v=1763732752&amp;width=1400 1400w, //shift-sketch.myshopify.com/cdn/shop/files/04-planner-hover-01.jpg?v=1763732752&amp;width=1600 1600w" width="1688" height="2250" loading="lazy" class="motion-reduce media" sizes="(min-width: 1200px) calc(1.03 * (100vw / 4)),(min-width: 990px) calc(1.03 * (100vw / 3)),(min-width: 576px) calc(1.03 * (100vw / 2)),calc(1.03 * 100vw)" style="object-fit: cover;">
+                </div>
+              
+                
+
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+
+                
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                
+
+                <div class="swiper-slide" data-media-id="67606587441527" role="group" aria-label="3 / 5" style="width: 326px; margin-right: 2px;">
+                  <img src="//shift-sketch.myshopify.com/cdn/shop/files/04-planner-hover-02.jpg?v=1763732752&amp;width=1688" alt="Planificateur principal d'horaires" srcset="//shift-sketch.myshopify.com/cdn/shop/files/04-planner-hover-02.jpg?v=1763732752&amp;width=360 360w, //shift-sketch.myshopify.com/cdn/shop/files/04-planner-hover-02.jpg?v=1763732752&amp;width=535 535w, //shift-sketch.myshopify.com/cdn/shop/files/04-planner-hover-02.jpg?v=1763732752&amp;width=720 720w, //shift-sketch.myshopify.com/cdn/shop/files/04-planner-hover-02.jpg?v=1763732752&amp;width=940 940w, //shift-sketch.myshopify.com/cdn/shop/files/04-planner-hover-02.jpg?v=1763732752&amp;width=1066 1066w, //shift-sketch.myshopify.com/cdn/shop/files/04-planner-hover-02.jpg?v=1763732752&amp;width=1200 1200w, //shift-sketch.myshopify.com/cdn/shop/files/04-planner-hover-02.jpg?v=1763732752&amp;width=1400 1400w, //shift-sketch.myshopify.com/cdn/shop/files/04-planner-hover-02.jpg?v=1763732752&amp;width=1600 1600w" width="1688" height="2250" loading="lazy" class="motion-reduce media" sizes="(min-width: 1200px) calc(1.03 * (100vw / 4)),(min-width: 990px) calc(1.03 * (100vw / 3)),(min-width: 576px) calc(1.03 * (100vw / 2)),calc(1.03 * 100vw)" style="object-fit: cover;">
+                </div>
+              
+                
+
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+
+                
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                
+
+                <div class="swiper-slide" data-media-id="67606587474295" role="group" aria-label="4 / 5" style="width: 326px; margin-right: 2px;">
+                  <img src="//shift-sketch.myshopify.com/cdn/shop/files/04-planner-hover-03.jpg?v=1763732752&amp;width=1800" alt="Planificateur principal d'horaires" srcset="//shift-sketch.myshopify.com/cdn/shop/files/04-planner-hover-03.jpg?v=1763732752&amp;width=360 360w, //shift-sketch.myshopify.com/cdn/shop/files/04-planner-hover-03.jpg?v=1763732752&amp;width=535 535w, //shift-sketch.myshopify.com/cdn/shop/files/04-planner-hover-03.jpg?v=1763732752&amp;width=720 720w, //shift-sketch.myshopify.com/cdn/shop/files/04-planner-hover-03.jpg?v=1763732752&amp;width=940 940w, //shift-sketch.myshopify.com/cdn/shop/files/04-planner-hover-03.jpg?v=1763732752&amp;width=1066 1066w, //shift-sketch.myshopify.com/cdn/shop/files/04-planner-hover-03.jpg?v=1763732752&amp;width=1200 1200w, //shift-sketch.myshopify.com/cdn/shop/files/04-planner-hover-03.jpg?v=1763732752&amp;width=1400 1400w, //shift-sketch.myshopify.com/cdn/shop/files/04-planner-hover-03.jpg?v=1763732752&amp;width=1600 1600w, //shift-sketch.myshopify.com/cdn/shop/files/04-planner-hover-03.jpg?v=1763732752&amp;width=1800 1800w" width="1800" height="2400" loading="lazy" class="motion-reduce media" sizes="(min-width: 1200px) calc(1.03 * (100vw / 4)),(min-width: 990px) calc(1.03 * (100vw / 3)),(min-width: 576px) calc(1.03 * (100vw / 2)),calc(1.03 * 100vw)" style="object-fit: cover;">
+                </div>
+              
+                
+
+                
+                  
+                
+                  
+                    
+                    
+
+                
+
+                <div class="swiper-slide" data-media-id="67606587507063" data-variant-id="56821925183863" role="group" aria-label="5 / 5" style="width: 326px; margin-right: 2px;">
+                  <img src="//shift-sketch.myshopify.com/cdn/shop/files/04-planner-hover-04.jpg?v=1763732751&amp;width=1856" alt="Planificateur principal d'horaires" srcset="//shift-sketch.myshopify.com/cdn/shop/files/04-planner-hover-04.jpg?v=1763732751&amp;width=360 360w, //shift-sketch.myshopify.com/cdn/shop/files/04-planner-hover-04.jpg?v=1763732751&amp;width=535 535w, //shift-sketch.myshopify.com/cdn/shop/files/04-planner-hover-04.jpg?v=1763732751&amp;width=720 720w, //shift-sketch.myshopify.com/cdn/shop/files/04-planner-hover-04.jpg?v=1763732751&amp;width=940 940w, //shift-sketch.myshopify.com/cdn/shop/files/04-planner-hover-04.jpg?v=1763732751&amp;width=1066 1066w, //shift-sketch.myshopify.com/cdn/shop/files/04-planner-hover-04.jpg?v=1763732751&amp;width=1200 1200w, //shift-sketch.myshopify.com/cdn/shop/files/04-planner-hover-04.jpg?v=1763732751&amp;width=1400 1400w, //shift-sketch.myshopify.com/cdn/shop/files/04-planner-hover-04.jpg?v=1763732751&amp;width=1600 1600w, //shift-sketch.myshopify.com/cdn/shop/files/04-planner-hover-04.jpg?v=1763732751&amp;width=1800 1800w" width="1856" height="2464" loading="lazy" class="motion-reduce media" sizes="(min-width: 1200px) calc(1.03 * (100vw / 4)),(min-width: 990px) calc(1.03 * (100vw / 3)),(min-width: 576px) calc(1.03 * (100vw / 2)),calc(1.03 * 100vw)" style="object-fit: cover;">
+                </div>
+              
+            </div>
+            <div class="product-button-group">
+              <div class="product-slider-button-prev">
+                <div class="swiper-button-prev swiper-button-disabled" tabindex="-1" role="button" aria-label="Previous slide" aria-controls="swiper-wrapper-2ad3799d44f977d3" aria-disabled="true"><svg class="icon icon-arrow-slider-left" width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M14 2L6 10L14 18" stroke="currentColor"></path>
+</svg>
+</div>
+              </div>
+
+              <div class="product-slider-button-next">
+                <div class="swiper-button-next" tabindex="0" role="button" aria-label="Next slide" aria-controls="swiper-wrapper-2ad3799d44f977d3" aria-disabled="false"><svg class="icon icon-arrow-slider-right" width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M6 2L14 10L6 18" stroke="currentColor"></path>
+</svg>
+</div>
+              </div>
+            </div>
+            <div class="swiper-pagination product-card-pagination swiper-pagination-default swiper-pagination-clickable swiper-pagination-bullets swiper-pagination-horizontal"><span class="swiper-pagination-bullet swiper-pagination-bullet-active" tabindex="0" role="button" aria-label="Go to slide 1" aria-current="true"></span><span class="swiper-pagination-bullet" tabindex="0" role="button" aria-label="Go to slide 2"></span><span class="swiper-pagination-bullet" tabindex="0" role="button" aria-label="Go to slide 3"></span><span class="swiper-pagination-bullet" tabindex="0" role="button" aria-label="Go to slide 4"></span><span class="swiper-pagination-bullet" tabindex="0" role="button" aria-label="Go to slide 5"></span></div>
+          <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
+        
+</div><div class="product-card__top">
+        
+<div class="product-card__badges body-normal"><span class="badge badge--custom" aria-hidden="true">New Arrival</span></div>
+      </div><div class="product-card__quickview product-card__quickview--mobile-true no-js-hidden">
+        <modal-opener data-modal="#QuickView-15252879835511">
+          <button class="product-card__button button button--primary focus-inset" aria-haspopup="dialog" data-product-url="/fr/products/schedule-master-planner?pr_prod_strat=collection_fallback&amp;pr_rec_id=71a3dd27f&amp;pr_rec_pid=15252879835511&amp;pr_ref_pid=15252589969783&amp;pr_seq=uniform" aria-label="Quick view">
+            <div class="button__content">
+              <span class="product-card__quickview-text button__label" data-label="Quick view">Quick view</span>
+              <span class="product-card__mobile-icon button__icon">
+                <svg width="22" height="22" viewBox="0 0 22 22" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M2.66745 12.0748C2.35434 11.3936 2.35434 10.6077 2.66745 9.92654C4.11679 6.77337 7.30311 4.58398 11.0008 4.58398C14.6985 4.58398 17.8848 6.77338 19.3341 9.92654C19.6472 10.6077 19.6472 11.3936 19.3341 12.0748C17.8848 15.2279 14.6985 17.4173 11.0008 17.4173C7.30311 17.4173 4.11679 15.2279 2.66745 12.0748Z" stroke="currentColor" stroke-width="1.5"></path>
+  <path d="M13.7508 11.0007C13.7508 12.5194 12.5196 13.7507 11.0008 13.7507C9.48201 13.7507 8.25079 12.5194 8.25079 11.0007C8.25079 9.48187 9.48201 8.25065 11.0008 8.25065C12.5196 8.25065 13.7508 9.48187 13.7508 11.0007Z" stroke="currentColor" stroke-width="1.5"></path>
+</svg>
+
+              </span>
+            </div>
+            <div class="loading-overlay__spinner hidden">
+              <svg aria-hidden="true" focusable="false" role="presentation" class="spinner" viewBox="0 0 66 66" xmlns="http://www.w3.org/2000/svg">
+  <circle class="path" fill="none" stroke-width="5" cx="33" cy="33" r="30"></circle>
+</svg>
+
+            </div>
+          </button>
+        </modal-opener>
+
+        
+
+
+      </div></div>
+
+  
+  <div class="product-card__information">
+    <div class="product-card__information-top"><h3 class="product-card__title">
+        <a class="focus-inset" href="/fr/products/schedule-master-planner?pr_prod_strat=collection_fallback&amp;pr_rec_id=71a3dd27f&amp;pr_rec_pid=15252879835511&amp;pr_ref_pid=15252589969783&amp;pr_seq=uniform" aria-label="Planificateur principal d'horaires">Planificateur principal d'horaires</a>
+      </h3>
+
+      <div class="product-card__price-group">
+        
+<div class="price">
+  <dl class="price-text"><div class="price__regular">
+      <dt class="visually-hidden">Prix régulier</dt>
+      <dd>
+        <span class="price-item price-item--regular">$14.50</span>
+      </dd>
+    </div>
+    <div class="price__sale">
+      <dt class="visually-hidden">Prix de vente</dt>
+      <dd>
+        <span class="price-item price-item--sale">$14.50</span>
+      </dd>
+      <dt class="visually-hidden">Prix régulier</dt>
+      <dd class="price__compare">
+        <s class="price-item price-item--regular"></s>
+      </dd>
+    </div>
+  </dl>
+
+  <dl class="unit-price hidden">
+    <dt class="visually-hidden">Prix unitaire</dt>
+    <dd></dd>
+  </dl>
+</div>
+
+      </div>
+      
+
+          <div class="product-card__description body-small">Un outil fiable pour un usage quotidien, conçu pour faciliter la planification, la prise de notes et les travaux créatifs....</div><div class="product-card__error body-xs" role="alert" hidden=""></div>
+    </div>
+
+    
+<div class="product-card__information-bottom"><div class="product-card__color-swatches">
+                
+                  <div class="body-small js-option-selected-value" data-option-position="3">
+                    Red</div>
+                
+                <div class="product-card__option-group js-card-option-group" data-option-position="3">
+                  
+
+
+  
+
+  
+  
+  
+
+<input type="radio" id="template--27266933817719__product_recommendations-3-0-15252879835511-3" name="Color-template--27266933817719__product_recommendations-15252879835511-3" value="Red" data-variant-id="56220830957943" form="product-form-template--27266933817719__product_recommendations" checked="" tabindex="-1" aria-label="Red" data-option-value-id="12613540020599" style="">
+    
+<label for="template--27266933817719__product_recommendations-3-0-15252879835511-3" class="color-swatch" style="--swatch-color: rgb(246 31 31);" title="Red" tabindex="0" onkeydown="if(event.key==='Enter'||event.key===' '){event.preventDefault();document.getElementById(this.getAttribute('for')).click();}" data-unavailable-color-label="N/A">
+        <span class="visually-hidden">Red</span>
+      </label>
+
+  
+
+  
+  
+  
+
+<input type="radio" id="template--27266933817719__product_recommendations-3-1-15252879835511-3" name="Color-template--27266933817719__product_recommendations-15252879835511-3" value="White" data-variant-id="56821925183863" form="product-form-template--27266933817719__product_recommendations" tabindex="-1" aria-label="White" data-option-value-id="12613540053367" style="">
+    
+<label for="template--27266933817719__product_recommendations-3-1-15252879835511-3" class="color-swatch" style="--swatch-color: rgb(255 255 255);" title="White" tabindex="0" onkeydown="if(event.key==='Enter'||event.key===' '){event.preventDefault();document.getElementById(this.getAttribute('for')).click();}" data-unavailable-color-label="N/A">
+        <span class="visually-hidden">White</span>
+      </label>
+                </div>
+
+                
+              </div></div></div><script type="application/json" data-product-card-variants="">
+      [{"id":56220830957943,"title":"A5 \/ Couverture rigide","option1":"A5","option2":"Couverture rigide","option3":"Red","sku":null,"requires_shipping":true,"taxable":true,"featured_image":{"id":82286079082871,"product_id":15252879835511,"position":1,"created_at":"2025-11-21T08:45:48-05:00","updated_at":"2025-11-21T08:45:52-05:00","alt":null,"width":1701,"height":2268,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/04-planner.jpg?v=1763732752","variant_ids":[56220830957943,56220830990711,56220831023479,56220831056247,56220831089015,56220831121783]},"available":true,"name":"Planificateur principal d'horaires - A5 \/ Couverture rigide","public_title":"A5 \/ Couverture rigide","options":["A5","Couverture rigide","Red"],"price":1450,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","featured_media":{"alt":null,"id":67606587539831,"position":1,"preview_image":{"aspect_ratio":0.75,"height":2268,"width":1701,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/04-planner.jpg?v=1763732752"}},"requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56821925183863,"title":"A5 \/ Couverture rigide \/ White","option1":"A5","option2":"Couverture rigide","option3":"White","sku":null,"requires_shipping":true,"taxable":true,"featured_image":{"id":82286079050103,"product_id":15252879835511,"position":5,"created_at":"2025-11-21T08:45:48-05:00","updated_at":"2025-11-21T08:45:51-05:00","alt":null,"width":1856,"height":2464,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/04-planner-hover-04.jpg?v=1763732751","variant_ids":[56821925183863,56821925216631,56821925249399,56821925282167,56821925314935,56821925347703]},"available":true,"name":"Planificateur principal d'horaires - A5 \/ Couverture rigide \/ White","public_title":"A5 \/ Couverture rigide \/ White","options":["A5","Couverture rigide","White"],"price":1450,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","featured_media":{"alt":null,"id":67606587507063,"position":5,"preview_image":{"aspect_ratio":0.753,"height":2464,"width":1856,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/04-planner-hover-04.jpg?v=1763732751"}},"requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56220830990711,"title":"A5 \/ Couverture souple","option1":"A5","option2":"Couverture souple","option3":"Red","sku":null,"requires_shipping":true,"taxable":true,"featured_image":{"id":82286079082871,"product_id":15252879835511,"position":1,"created_at":"2025-11-21T08:45:48-05:00","updated_at":"2025-11-21T08:45:52-05:00","alt":null,"width":1701,"height":2268,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/04-planner.jpg?v=1763732752","variant_ids":[56220830957943,56220830990711,56220831023479,56220831056247,56220831089015,56220831121783]},"available":true,"name":"Planificateur principal d'horaires - A5 \/ Couverture souple","public_title":"A5 \/ Couverture souple","options":["A5","Couverture souple","Red"],"price":1450,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","featured_media":{"alt":null,"id":67606587539831,"position":1,"preview_image":{"aspect_ratio":0.75,"height":2268,"width":1701,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/04-planner.jpg?v=1763732752"}},"requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56821925216631,"title":"A5 \/ Couverture souple \/ White","option1":"A5","option2":"Couverture souple","option3":"White","sku":null,"requires_shipping":true,"taxable":true,"featured_image":{"id":82286079050103,"product_id":15252879835511,"position":5,"created_at":"2025-11-21T08:45:48-05:00","updated_at":"2025-11-21T08:45:51-05:00","alt":null,"width":1856,"height":2464,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/04-planner-hover-04.jpg?v=1763732751","variant_ids":[56821925183863,56821925216631,56821925249399,56821925282167,56821925314935,56821925347703]},"available":true,"name":"Planificateur principal d'horaires - A5 \/ Couverture souple \/ White","public_title":"A5 \/ Couverture souple \/ White","options":["A5","Couverture souple","White"],"price":1450,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","featured_media":{"alt":null,"id":67606587507063,"position":5,"preview_image":{"aspect_ratio":0.753,"height":2464,"width":1856,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/04-planner-hover-04.jpg?v=1763732751"}},"requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56220831023479,"title":"A4 \/ Couverture rigide","option1":"A4","option2":"Couverture rigide","option3":"Red","sku":null,"requires_shipping":true,"taxable":true,"featured_image":{"id":82286079082871,"product_id":15252879835511,"position":1,"created_at":"2025-11-21T08:45:48-05:00","updated_at":"2025-11-21T08:45:52-05:00","alt":null,"width":1701,"height":2268,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/04-planner.jpg?v=1763732752","variant_ids":[56220830957943,56220830990711,56220831023479,56220831056247,56220831089015,56220831121783]},"available":true,"name":"Planificateur principal d'horaires - A4 \/ Couverture rigide","public_title":"A4 \/ Couverture rigide","options":["A4","Couverture rigide","Red"],"price":1450,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","featured_media":{"alt":null,"id":67606587539831,"position":1,"preview_image":{"aspect_ratio":0.75,"height":2268,"width":1701,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/04-planner.jpg?v=1763732752"}},"requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56821925249399,"title":"A4 \/ Couverture rigide \/ White","option1":"A4","option2":"Couverture rigide","option3":"White","sku":null,"requires_shipping":true,"taxable":true,"featured_image":{"id":82286079050103,"product_id":15252879835511,"position":5,"created_at":"2025-11-21T08:45:48-05:00","updated_at":"2025-11-21T08:45:51-05:00","alt":null,"width":1856,"height":2464,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/04-planner-hover-04.jpg?v=1763732751","variant_ids":[56821925183863,56821925216631,56821925249399,56821925282167,56821925314935,56821925347703]},"available":true,"name":"Planificateur principal d'horaires - A4 \/ Couverture rigide \/ White","public_title":"A4 \/ Couverture rigide \/ White","options":["A4","Couverture rigide","White"],"price":1450,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","featured_media":{"alt":null,"id":67606587507063,"position":5,"preview_image":{"aspect_ratio":0.753,"height":2464,"width":1856,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/04-planner-hover-04.jpg?v=1763732751"}},"requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56220831056247,"title":"A4 \/ Couverture souple","option1":"A4","option2":"Couverture souple","option3":"Red","sku":null,"requires_shipping":true,"taxable":true,"featured_image":{"id":82286079082871,"product_id":15252879835511,"position":1,"created_at":"2025-11-21T08:45:48-05:00","updated_at":"2025-11-21T08:45:52-05:00","alt":null,"width":1701,"height":2268,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/04-planner.jpg?v=1763732752","variant_ids":[56220830957943,56220830990711,56220831023479,56220831056247,56220831089015,56220831121783]},"available":true,"name":"Planificateur principal d'horaires - A4 \/ Couverture souple","public_title":"A4 \/ Couverture souple","options":["A4","Couverture souple","Red"],"price":1450,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","featured_media":{"alt":null,"id":67606587539831,"position":1,"preview_image":{"aspect_ratio":0.75,"height":2268,"width":1701,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/04-planner.jpg?v=1763732752"}},"requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56821925282167,"title":"A4 \/ Couverture souple \/ White","option1":"A4","option2":"Couverture souple","option3":"White","sku":null,"requires_shipping":true,"taxable":true,"featured_image":{"id":82286079050103,"product_id":15252879835511,"position":5,"created_at":"2025-11-21T08:45:48-05:00","updated_at":"2025-11-21T08:45:51-05:00","alt":null,"width":1856,"height":2464,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/04-planner-hover-04.jpg?v=1763732751","variant_ids":[56821925183863,56821925216631,56821925249399,56821925282167,56821925314935,56821925347703]},"available":true,"name":"Planificateur principal d'horaires - A4 \/ Couverture souple \/ White","public_title":"A4 \/ Couverture souple \/ White","options":["A4","Couverture souple","White"],"price":1450,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","featured_media":{"alt":null,"id":67606587507063,"position":5,"preview_image":{"aspect_ratio":0.753,"height":2464,"width":1856,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/04-planner-hover-04.jpg?v=1763732751"}},"requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56220831089015,"title":"A3 \/ Couverture rigide","option1":"A3","option2":"Couverture rigide","option3":"Red","sku":null,"requires_shipping":true,"taxable":true,"featured_image":{"id":82286079082871,"product_id":15252879835511,"position":1,"created_at":"2025-11-21T08:45:48-05:00","updated_at":"2025-11-21T08:45:52-05:00","alt":null,"width":1701,"height":2268,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/04-planner.jpg?v=1763732752","variant_ids":[56220830957943,56220830990711,56220831023479,56220831056247,56220831089015,56220831121783]},"available":true,"name":"Planificateur principal d'horaires - A3 \/ Couverture rigide","public_title":"A3 \/ Couverture rigide","options":["A3","Couverture rigide","Red"],"price":1450,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","featured_media":{"alt":null,"id":67606587539831,"position":1,"preview_image":{"aspect_ratio":0.75,"height":2268,"width":1701,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/04-planner.jpg?v=1763732752"}},"requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56821925314935,"title":"A3 \/ Couverture rigide \/ White","option1":"A3","option2":"Couverture rigide","option3":"White","sku":null,"requires_shipping":true,"taxable":true,"featured_image":{"id":82286079050103,"product_id":15252879835511,"position":5,"created_at":"2025-11-21T08:45:48-05:00","updated_at":"2025-11-21T08:45:51-05:00","alt":null,"width":1856,"height":2464,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/04-planner-hover-04.jpg?v=1763732751","variant_ids":[56821925183863,56821925216631,56821925249399,56821925282167,56821925314935,56821925347703]},"available":true,"name":"Planificateur principal d'horaires - A3 \/ Couverture rigide \/ White","public_title":"A3 \/ Couverture rigide \/ White","options":["A3","Couverture rigide","White"],"price":1450,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","featured_media":{"alt":null,"id":67606587507063,"position":5,"preview_image":{"aspect_ratio":0.753,"height":2464,"width":1856,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/04-planner-hover-04.jpg?v=1763732751"}},"requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56220831121783,"title":"A3 \/ Couverture souple","option1":"A3","option2":"Couverture souple","option3":"Red","sku":null,"requires_shipping":true,"taxable":true,"featured_image":{"id":82286079082871,"product_id":15252879835511,"position":1,"created_at":"2025-11-21T08:45:48-05:00","updated_at":"2025-11-21T08:45:52-05:00","alt":null,"width":1701,"height":2268,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/04-planner.jpg?v=1763732752","variant_ids":[56220830957943,56220830990711,56220831023479,56220831056247,56220831089015,56220831121783]},"available":true,"name":"Planificateur principal d'horaires - A3 \/ Couverture souple","public_title":"A3 \/ Couverture souple","options":["A3","Couverture souple","Red"],"price":1450,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","featured_media":{"alt":null,"id":67606587539831,"position":1,"preview_image":{"aspect_ratio":0.75,"height":2268,"width":1701,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/04-planner.jpg?v=1763732752"}},"requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56821925347703,"title":"A3 \/ Couverture souple \/ White","option1":"A3","option2":"Couverture souple","option3":"White","sku":null,"requires_shipping":true,"taxable":true,"featured_image":{"id":82286079050103,"product_id":15252879835511,"position":5,"created_at":"2025-11-21T08:45:48-05:00","updated_at":"2025-11-21T08:45:51-05:00","alt":null,"width":1856,"height":2464,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/04-planner-hover-04.jpg?v=1763732751","variant_ids":[56821925183863,56821925216631,56821925249399,56821925282167,56821925314935,56821925347703]},"available":true,"name":"Planificateur principal d'horaires - A3 \/ Couverture souple \/ White","public_title":"A3 \/ Couverture souple \/ White","options":["A3","Couverture souple","White"],"price":1450,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","featured_media":{"alt":null,"id":67606587507063,"position":5,"preview_image":{"aspect_ratio":0.753,"height":2464,"width":1856,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/04-planner-hover-04.jpg?v=1763732751"}},"requires_selling_plan":false,"selling_plan_allocations":[]}]
+    </script>
+    <script type="application/json" data-product-card-featured-media="">
+      {"alt":null,"id":67606587539831,"position":1,"preview_image":{"aspect_ratio":0.75,"height":2268,"width":1701,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/04-planner.jpg?v=1763732752"},"aspect_ratio":0.75,"height":2268,"media_type":"image","src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/04-planner.jpg?v=1763732752","width":1701}
+    </script>
+    <span class="hidden" data-product-card-options="" data-product-title="Planificateur principal d'horaires" data-product-columns="4" data-product-columns-mobile="2" data-product-ratio="0.76" data-product-fit="cover" data-product-has-price-varies="false"></span><a href="/fr/products/schedule-master-planner?pr_prod_strat=collection_fallback&amp;pr_rec_id=71a3dd27f&amp;pr_rec_pid=15252879835511&amp;pr_ref_pid=15252589969783&amp;pr_seq=uniform" class="product-card__link-overlay focus-inset" aria-label="Planificateur principal d'horaires Lien vers le produit"></a></product-card>
+
+              </div><div class="product-recommendations__item swiper-slide" role="group" aria-label="4 / 5" style="width: 326.25px; margin-right: 24px;">
+                
+
+
+<product-card class="product-card product-card--mobile-2 product-card_image-linked" data-product="productivity-planner-pro" data-product-id="15252878721399" data-image-linked="true" data-card-color-swatches="true" tabindex="-1" style="--card-padding-bottom: 131.7%; --slide-count: 5">
+  <div class="product-card__inner">
+    <div class="product-card__media">
+
+          <div class="swiper-container product-card-js global-variant-js-media-list slider_started swiper-initialized swiper-horizontal swiper-backface-hidden" data-loop="false">
+            <div class="swiper-wrapper" id="swiper-wrapper-b1eb4c04588910d0c" aria-live="polite" style="transform: translate3d(0px, 0px, 0px);">
+              
+                
+
+                
+                  
+                    
+                    
+
+                
+
+                <div class="swiper-slide swiper-slide-active" data-media-id="67606562636151" data-variant-id="56220826272119" role="group" aria-label="1 / 5" style="width: 326px; margin-right: 2px;">
+                  <img src="//shift-sketch.myshopify.com/cdn/shop/files/03-planner.jpg?v=1763732659&amp;width=1701" alt="Planificateur de productivité Pro" srcset="//shift-sketch.myshopify.com/cdn/shop/files/03-planner.jpg?v=1763732659&amp;width=360 360w, //shift-sketch.myshopify.com/cdn/shop/files/03-planner.jpg?v=1763732659&amp;width=535 535w, //shift-sketch.myshopify.com/cdn/shop/files/03-planner.jpg?v=1763732659&amp;width=720 720w, //shift-sketch.myshopify.com/cdn/shop/files/03-planner.jpg?v=1763732659&amp;width=940 940w, //shift-sketch.myshopify.com/cdn/shop/files/03-planner.jpg?v=1763732659&amp;width=1066 1066w, //shift-sketch.myshopify.com/cdn/shop/files/03-planner.jpg?v=1763732659&amp;width=1200 1200w, //shift-sketch.myshopify.com/cdn/shop/files/03-planner.jpg?v=1763732659&amp;width=1400 1400w, //shift-sketch.myshopify.com/cdn/shop/files/03-planner.jpg?v=1763732659&amp;width=1600 1600w" width="1701" height="2268" loading="lazy" class="motion-reduce media" sizes="(min-width: 1200px) calc(1.03 * (100vw / 4)),(min-width: 990px) calc(1.03 * (100vw / 3)),(min-width: 576px) calc(1.03 * (100vw / 2)),calc(1.03 * 100vw)" style="object-fit: cover;">
+                </div>
+              
+                
+
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+
+                
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                
+
+                <div class="swiper-slide swiper-slide-next" data-media-id="67606562505079" role="group" aria-label="2 / 5" style="width: 326px; margin-right: 2px;">
+                  <img src="//shift-sketch.myshopify.com/cdn/shop/files/03-planner-hover-01.jpg?v=1763732660&amp;width=1688" alt="Planificateur de productivité Pro" srcset="//shift-sketch.myshopify.com/cdn/shop/files/03-planner-hover-01.jpg?v=1763732660&amp;width=360 360w, //shift-sketch.myshopify.com/cdn/shop/files/03-planner-hover-01.jpg?v=1763732660&amp;width=535 535w, //shift-sketch.myshopify.com/cdn/shop/files/03-planner-hover-01.jpg?v=1763732660&amp;width=720 720w, //shift-sketch.myshopify.com/cdn/shop/files/03-planner-hover-01.jpg?v=1763732660&amp;width=940 940w, //shift-sketch.myshopify.com/cdn/shop/files/03-planner-hover-01.jpg?v=1763732660&amp;width=1066 1066w, //shift-sketch.myshopify.com/cdn/shop/files/03-planner-hover-01.jpg?v=1763732660&amp;width=1200 1200w, //shift-sketch.myshopify.com/cdn/shop/files/03-planner-hover-01.jpg?v=1763732660&amp;width=1400 1400w, //shift-sketch.myshopify.com/cdn/shop/files/03-planner-hover-01.jpg?v=1763732660&amp;width=1600 1600w" width="1688" height="2250" loading="lazy" class="motion-reduce media" sizes="(min-width: 1200px) calc(1.03 * (100vw / 4)),(min-width: 990px) calc(1.03 * (100vw / 3)),(min-width: 576px) calc(1.03 * (100vw / 2)),calc(1.03 * 100vw)" style="object-fit: cover;">
+                </div>
+              
+                
+
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+
+                
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                
+
+                <div class="swiper-slide" data-media-id="67606562537847" role="group" aria-label="3 / 5" style="width: 326px; margin-right: 2px;">
+                  <img src="//shift-sketch.myshopify.com/cdn/shop/files/03-planner-hover-02.jpg?v=1763732659&amp;width=1688" alt="Planificateur de productivité Pro" srcset="//shift-sketch.myshopify.com/cdn/shop/files/03-planner-hover-02.jpg?v=1763732659&amp;width=360 360w, //shift-sketch.myshopify.com/cdn/shop/files/03-planner-hover-02.jpg?v=1763732659&amp;width=535 535w, //shift-sketch.myshopify.com/cdn/shop/files/03-planner-hover-02.jpg?v=1763732659&amp;width=720 720w, //shift-sketch.myshopify.com/cdn/shop/files/03-planner-hover-02.jpg?v=1763732659&amp;width=940 940w, //shift-sketch.myshopify.com/cdn/shop/files/03-planner-hover-02.jpg?v=1763732659&amp;width=1066 1066w, //shift-sketch.myshopify.com/cdn/shop/files/03-planner-hover-02.jpg?v=1763732659&amp;width=1200 1200w, //shift-sketch.myshopify.com/cdn/shop/files/03-planner-hover-02.jpg?v=1763732659&amp;width=1400 1400w, //shift-sketch.myshopify.com/cdn/shop/files/03-planner-hover-02.jpg?v=1763732659&amp;width=1600 1600w" width="1688" height="2250" loading="lazy" class="motion-reduce media" sizes="(min-width: 1200px) calc(1.03 * (100vw / 4)),(min-width: 990px) calc(1.03 * (100vw / 3)),(min-width: 576px) calc(1.03 * (100vw / 2)),calc(1.03 * 100vw)" style="object-fit: cover;">
+                </div>
+              
+                
+
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+
+                
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                
+
+                <div class="swiper-slide" data-media-id="67606562570615" role="group" aria-label="4 / 5" style="width: 326px; margin-right: 2px;">
+                  <img src="//shift-sketch.myshopify.com/cdn/shop/files/03-planner-hover-03.jpg?v=1763732661&amp;width=1800" alt="Planificateur de productivité Pro" srcset="//shift-sketch.myshopify.com/cdn/shop/files/03-planner-hover-03.jpg?v=1763732661&amp;width=360 360w, //shift-sketch.myshopify.com/cdn/shop/files/03-planner-hover-03.jpg?v=1763732661&amp;width=535 535w, //shift-sketch.myshopify.com/cdn/shop/files/03-planner-hover-03.jpg?v=1763732661&amp;width=720 720w, //shift-sketch.myshopify.com/cdn/shop/files/03-planner-hover-03.jpg?v=1763732661&amp;width=940 940w, //shift-sketch.myshopify.com/cdn/shop/files/03-planner-hover-03.jpg?v=1763732661&amp;width=1066 1066w, //shift-sketch.myshopify.com/cdn/shop/files/03-planner-hover-03.jpg?v=1763732661&amp;width=1200 1200w, //shift-sketch.myshopify.com/cdn/shop/files/03-planner-hover-03.jpg?v=1763732661&amp;width=1400 1400w, //shift-sketch.myshopify.com/cdn/shop/files/03-planner-hover-03.jpg?v=1763732661&amp;width=1600 1600w, //shift-sketch.myshopify.com/cdn/shop/files/03-planner-hover-03.jpg?v=1763732661&amp;width=1800 1800w" width="1800" height="2400" loading="lazy" class="motion-reduce media" sizes="(min-width: 1200px) calc(1.03 * (100vw / 4)),(min-width: 990px) calc(1.03 * (100vw / 3)),(min-width: 576px) calc(1.03 * (100vw / 2)),calc(1.03 * 100vw)" style="object-fit: cover;">
+                </div>
+              
+                
+
+                
+                  
+                
+                  
+                    
+                    
+
+                
+
+                <div class="swiper-slide" data-media-id="67606562603383" data-variant-id="56821935440247" role="group" aria-label="5 / 5" style="width: 326px; margin-right: 2px;">
+                  <img src="//shift-sketch.myshopify.com/cdn/shop/files/03-planner-hover-04.jpg?v=1763732659&amp;width=1856" alt="Planificateur de productivité Pro" srcset="//shift-sketch.myshopify.com/cdn/shop/files/03-planner-hover-04.jpg?v=1763732659&amp;width=360 360w, //shift-sketch.myshopify.com/cdn/shop/files/03-planner-hover-04.jpg?v=1763732659&amp;width=535 535w, //shift-sketch.myshopify.com/cdn/shop/files/03-planner-hover-04.jpg?v=1763732659&amp;width=720 720w, //shift-sketch.myshopify.com/cdn/shop/files/03-planner-hover-04.jpg?v=1763732659&amp;width=940 940w, //shift-sketch.myshopify.com/cdn/shop/files/03-planner-hover-04.jpg?v=1763732659&amp;width=1066 1066w, //shift-sketch.myshopify.com/cdn/shop/files/03-planner-hover-04.jpg?v=1763732659&amp;width=1200 1200w, //shift-sketch.myshopify.com/cdn/shop/files/03-planner-hover-04.jpg?v=1763732659&amp;width=1400 1400w, //shift-sketch.myshopify.com/cdn/shop/files/03-planner-hover-04.jpg?v=1763732659&amp;width=1600 1600w, //shift-sketch.myshopify.com/cdn/shop/files/03-planner-hover-04.jpg?v=1763732659&amp;width=1800 1800w" width="1856" height="2464" loading="lazy" class="motion-reduce media" sizes="(min-width: 1200px) calc(1.03 * (100vw / 4)),(min-width: 990px) calc(1.03 * (100vw / 3)),(min-width: 576px) calc(1.03 * (100vw / 2)),calc(1.03 * 100vw)" style="object-fit: cover;">
+                </div>
+              
+            </div>
+            <div class="product-button-group">
+              <div class="product-slider-button-prev">
+                <div class="swiper-button-prev swiper-button-disabled" tabindex="-1" role="button" aria-label="Previous slide" aria-controls="swiper-wrapper-b1eb4c04588910d0c" aria-disabled="true"><svg class="icon icon-arrow-slider-left" width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M14 2L6 10L14 18" stroke="currentColor"></path>
+</svg>
+</div>
+              </div>
+
+              <div class="product-slider-button-next">
+                <div class="swiper-button-next" tabindex="0" role="button" aria-label="Next slide" aria-controls="swiper-wrapper-b1eb4c04588910d0c" aria-disabled="false"><svg class="icon icon-arrow-slider-right" width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M6 2L14 10L6 18" stroke="currentColor"></path>
+</svg>
+</div>
+              </div>
+            </div>
+            <div class="swiper-pagination product-card-pagination swiper-pagination-default swiper-pagination-clickable swiper-pagination-bullets swiper-pagination-horizontal"><span class="swiper-pagination-bullet swiper-pagination-bullet-active" tabindex="0" role="button" aria-label="Go to slide 1" aria-current="true"></span><span class="swiper-pagination-bullet" tabindex="0" role="button" aria-label="Go to slide 2"></span><span class="swiper-pagination-bullet" tabindex="0" role="button" aria-label="Go to slide 3"></span><span class="swiper-pagination-bullet" tabindex="0" role="button" aria-label="Go to slide 4"></span><span class="swiper-pagination-bullet" tabindex="0" role="button" aria-label="Go to slide 5"></span></div>
+          <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
+        
+</div><div class="product-card__top">
+        
+<div class="product-card__badges body-normal"></div>
+      </div><div class="product-card__quickview product-card__quickview--mobile-true no-js-hidden">
+        <modal-opener data-modal="#QuickView-15252878721399">
+          <button class="product-card__button button button--primary focus-inset" aria-haspopup="dialog" data-product-url="/fr/products/productivity-planner-pro?pr_prod_strat=collection_fallback&amp;pr_rec_id=71a3dd27f&amp;pr_rec_pid=15252878721399&amp;pr_ref_pid=15252589969783&amp;pr_seq=uniform" aria-label="Quick view">
+            <div class="button__content">
+              <span class="product-card__quickview-text button__label" data-label="Quick view">Quick view</span>
+              <span class="product-card__mobile-icon button__icon">
+                <svg width="22" height="22" viewBox="0 0 22 22" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M2.66745 12.0748C2.35434 11.3936 2.35434 10.6077 2.66745 9.92654C4.11679 6.77337 7.30311 4.58398 11.0008 4.58398C14.6985 4.58398 17.8848 6.77338 19.3341 9.92654C19.6472 10.6077 19.6472 11.3936 19.3341 12.0748C17.8848 15.2279 14.6985 17.4173 11.0008 17.4173C7.30311 17.4173 4.11679 15.2279 2.66745 12.0748Z" stroke="currentColor" stroke-width="1.5"></path>
+  <path d="M13.7508 11.0007C13.7508 12.5194 12.5196 13.7507 11.0008 13.7507C9.48201 13.7507 8.25079 12.5194 8.25079 11.0007C8.25079 9.48187 9.48201 8.25065 11.0008 8.25065C12.5196 8.25065 13.7508 9.48187 13.7508 11.0007Z" stroke="currentColor" stroke-width="1.5"></path>
+</svg>
+
+              </span>
+            </div>
+            <div class="loading-overlay__spinner hidden">
+              <svg aria-hidden="true" focusable="false" role="presentation" class="spinner" viewBox="0 0 66 66" xmlns="http://www.w3.org/2000/svg">
+  <circle class="path" fill="none" stroke-width="5" cx="33" cy="33" r="30"></circle>
+</svg>
+
+            </div>
+          </button>
+        </modal-opener>
+
+        
+
+
+      </div></div>
+
+  
+  <div class="product-card__information">
+    <div class="product-card__information-top"><h3 class="product-card__title">
+        <a class="focus-inset" href="/fr/products/productivity-planner-pro?pr_prod_strat=collection_fallback&amp;pr_rec_id=71a3dd27f&amp;pr_rec_pid=15252878721399&amp;pr_ref_pid=15252589969783&amp;pr_seq=uniform" aria-label="Planificateur de productivité Pro">Planificateur de productivité Pro</a>
+      </h3>
+
+      <div class="product-card__price-group">
+        
+<div class="price">
+  <dl class="price-text"><div class="price__regular">
+      <dt class="visually-hidden">Prix régulier</dt>
+      <dd>
+        <span class="price-item price-item--regular">$15.00</span>
+      </dd>
+    </div>
+    <div class="price__sale">
+      <dt class="visually-hidden">Prix de vente</dt>
+      <dd>
+        <span class="price-item price-item--sale">$15.00</span>
+      </dd>
+      <dt class="visually-hidden">Prix régulier</dt>
+      <dd class="price__compare">
+        <s class="price-item price-item--regular"></s>
+      </dd>
+    </div>
+  </dl>
+
+  <dl class="unit-price hidden">
+    <dt class="visually-hidden">Prix unitaire</dt>
+    <dd></dd>
+  </dl>
+</div>
+
+      </div>
+      
+
+          <div class="product-card__description body-small">Un outil fiable pour un usage quotidien, conçu pour faciliter la planification, la prise de notes et les travaux créatifs....</div><div class="product-card__error body-xs" role="alert" hidden=""></div>
+    </div>
+
+    
+<div class="product-card__information-bottom"><div class="product-card__color-swatches">
+                
+                  <div class="body-small js-option-selected-value" data-option-position="3">
+                    Green</div>
+                
+                <div class="product-card__option-group js-card-option-group" data-option-position="3">
+                  
+
+
+  
+
+  
+  
+  
+
+<input type="radio" id="template--27266933817719__product_recommendations-3-0-15252878721399-4" name="Color-template--27266933817719__product_recommendations-15252878721399-4" value="Green" data-variant-id="56220826272119" form="product-form-template--27266933817719__product_recommendations" checked="" tabindex="-1" aria-label="Green" data-option-value-id="12613553422711" style="">
+    
+<label for="template--27266933817719__product_recommendations-3-0-15252878721399-4" class="color-swatch" style="--swatch-color: rgb(5 170 61);" title="Green" tabindex="0" onkeydown="if(event.key==='Enter'||event.key===' '){event.preventDefault();document.getElementById(this.getAttribute('for')).click();}" data-unavailable-color-label="N/A">
+        <span class="visually-hidden">Green</span>
+      </label>
+
+  
+
+  
+  
+  
+
+<input type="radio" id="template--27266933817719__product_recommendations-3-1-15252878721399-4" name="Color-template--27266933817719__product_recommendations-15252878721399-4" value="Red" data-variant-id="56821935440247" form="product-form-template--27266933817719__product_recommendations" tabindex="-1" aria-label="Red" data-option-value-id="12613553455479" style="">
+    
+<label for="template--27266933817719__product_recommendations-3-1-15252878721399-4" class="color-swatch" style="--swatch-color: rgb(246 31 31);" title="Red" tabindex="0" onkeydown="if(event.key==='Enter'||event.key===' '){event.preventDefault();document.getElementById(this.getAttribute('for')).click();}" data-unavailable-color-label="N/A">
+        <span class="visually-hidden">Red</span>
+      </label>
+
+  
+
+  
+  
+  
+
+<input type="radio" id="template--27266933817719__product_recommendations-3-2-15252878721399-4" name="Color-template--27266933817719__product_recommendations-15252878721399-4" value="Pink" data-variant-id="56821935473015" form="product-form-template--27266933817719__product_recommendations" tabindex="-1" aria-label="Pink" data-option-value-id="12613553488247" style="">
+    
+<label for="template--27266933817719__product_recommendations-3-2-15252878721399-4" class="color-swatch" style="--swatch-color: rgb(255 192 203);" title="Pink" tabindex="0" onkeydown="if(event.key==='Enter'||event.key===' '){event.preventDefault();document.getElementById(this.getAttribute('for')).click();}" data-unavailable-color-label="N/A">
+        <span class="visually-hidden">Pink</span>
+      </label>
+
+  
+
+  
+  
+  
+
+<input type="radio" id="template--27266933817719__product_recommendations-3-3-15252878721399-4" name="Color-template--27266933817719__product_recommendations-15252878721399-4" value="Gray" data-variant-id="56821935505783" form="product-form-template--27266933817719__product_recommendations" class="disabled" tabindex="-1" aria-label="Gray" data-option-value-id="12613553521015" style="">
+    
+<label for="template--27266933817719__product_recommendations-3-3-15252878721399-4" class="color-swatch" style="--swatch-color: rgb(128 128 128);" title="Gray" tabindex="0" onkeydown="if(event.key==='Enter'||event.key===' '){event.preventDefault();document.getElementById(this.getAttribute('for')).click();}" data-unavailable-color-label="N/A">
+        <span class="visually-hidden">Gray</span>
+      </label>
+                </div>
+
+                
+              </div></div></div><script type="application/json" data-product-card-variants="">
+      [{"id":56220826272119,"title":"A5 \/ Notes section \/ Green","option1":"A5","option2":"Notes section","option3":"Green","sku":null,"requires_shipping":true,"taxable":true,"featured_image":{"id":82286054113655,"product_id":15252878721399,"position":1,"created_at":"2025-11-21T08:44:16-05:00","updated_at":"2025-11-21T08:44:19-05:00","alt":null,"width":1701,"height":2268,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/03-planner.jpg?v=1763732659","variant_ids":[56220826272119,56220826304887,56220826337655,56220826370423,56220826403191,56220826435959]},"available":true,"name":"Planificateur de productivité Pro - A5 \/ Notes section \/ Green","public_title":"A5 \/ Notes section \/ Green","options":["A5","Notes section","Green"],"price":1500,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","featured_media":{"alt":null,"id":67606562636151,"position":1,"preview_image":{"aspect_ratio":0.75,"height":2268,"width":1701,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/03-planner.jpg?v=1763732659"}},"requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56821935440247,"title":"A5 \/ Notes section \/ Red","option1":"A5","option2":"Notes section","option3":"Red","sku":null,"requires_shipping":true,"taxable":true,"featured_image":{"id":82286054080887,"product_id":15252878721399,"position":5,"created_at":"2025-11-21T08:44:16-05:00","updated_at":"2025-11-21T08:44:19-05:00","alt":null,"width":1856,"height":2464,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/03-planner-hover-04.jpg?v=1763732659","variant_ids":[56821935440247,56821935473015,56821935505783,56821935538551,56821935571319,56821935604087,56821935636855,56821935669623,56821935702391,56821935735159,56821935767927,56821935800695,56821935833463,56821935866231,56821935898999,56821935931767,56821935964535,56821935997303]},"available":true,"name":"Planificateur de productivité Pro - A5 \/ Notes section \/ Red","public_title":"A5 \/ Notes section \/ Red","options":["A5","Notes section","Red"],"price":1500,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","featured_media":{"alt":null,"id":67606562603383,"position":5,"preview_image":{"aspect_ratio":0.753,"height":2464,"width":1856,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/03-planner-hover-04.jpg?v=1763732659"}},"requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56821935473015,"title":"A5 \/ Notes section \/ Pink","option1":"A5","option2":"Notes section","option3":"Pink","sku":null,"requires_shipping":true,"taxable":true,"featured_image":{"id":82286054080887,"product_id":15252878721399,"position":5,"created_at":"2025-11-21T08:44:16-05:00","updated_at":"2025-11-21T08:44:19-05:00","alt":null,"width":1856,"height":2464,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/03-planner-hover-04.jpg?v=1763732659","variant_ids":[56821935440247,56821935473015,56821935505783,56821935538551,56821935571319,56821935604087,56821935636855,56821935669623,56821935702391,56821935735159,56821935767927,56821935800695,56821935833463,56821935866231,56821935898999,56821935931767,56821935964535,56821935997303]},"available":true,"name":"Planificateur de productivité Pro - A5 \/ Notes section \/ Pink","public_title":"A5 \/ Notes section \/ Pink","options":["A5","Notes section","Pink"],"price":1500,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","featured_media":{"alt":null,"id":67606562603383,"position":5,"preview_image":{"aspect_ratio":0.753,"height":2464,"width":1856,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/03-planner-hover-04.jpg?v=1763732659"}},"requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56821935505783,"title":"A5 \/ Notes section \/ Gray","option1":"A5","option2":"Notes section","option3":"Gray","sku":null,"requires_shipping":true,"taxable":true,"featured_image":{"id":82286054080887,"product_id":15252878721399,"position":5,"created_at":"2025-11-21T08:44:16-05:00","updated_at":"2025-11-21T08:44:19-05:00","alt":null,"width":1856,"height":2464,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/03-planner-hover-04.jpg?v=1763732659","variant_ids":[56821935440247,56821935473015,56821935505783,56821935538551,56821935571319,56821935604087,56821935636855,56821935669623,56821935702391,56821935735159,56821935767927,56821935800695,56821935833463,56821935866231,56821935898999,56821935931767,56821935964535,56821935997303]},"available":false,"name":"Planificateur de productivité Pro - A5 \/ Notes section \/ Gray","public_title":"A5 \/ Notes section \/ Gray","options":["A5","Notes section","Gray"],"price":1500,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","featured_media":{"alt":null,"id":67606562603383,"position":5,"preview_image":{"aspect_ratio":0.753,"height":2464,"width":1856,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/03-planner-hover-04.jpg?v=1763732659"}},"requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56220826304887,"title":"A5 \/ To-do lists \/ Green","option1":"A5","option2":"To-do lists","option3":"Green","sku":null,"requires_shipping":true,"taxable":true,"featured_image":{"id":82286054113655,"product_id":15252878721399,"position":1,"created_at":"2025-11-21T08:44:16-05:00","updated_at":"2025-11-21T08:44:19-05:00","alt":null,"width":1701,"height":2268,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/03-planner.jpg?v=1763732659","variant_ids":[56220826272119,56220826304887,56220826337655,56220826370423,56220826403191,56220826435959]},"available":true,"name":"Planificateur de productivité Pro - A5 \/ To-do lists \/ Green","public_title":"A5 \/ To-do lists \/ Green","options":["A5","To-do lists","Green"],"price":1500,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","featured_media":{"alt":null,"id":67606562636151,"position":1,"preview_image":{"aspect_ratio":0.75,"height":2268,"width":1701,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/03-planner.jpg?v=1763732659"}},"requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56821935538551,"title":"A5 \/ To-do lists \/ Red","option1":"A5","option2":"To-do lists","option3":"Red","sku":null,"requires_shipping":true,"taxable":true,"featured_image":{"id":82286054080887,"product_id":15252878721399,"position":5,"created_at":"2025-11-21T08:44:16-05:00","updated_at":"2025-11-21T08:44:19-05:00","alt":null,"width":1856,"height":2464,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/03-planner-hover-04.jpg?v=1763732659","variant_ids":[56821935440247,56821935473015,56821935505783,56821935538551,56821935571319,56821935604087,56821935636855,56821935669623,56821935702391,56821935735159,56821935767927,56821935800695,56821935833463,56821935866231,56821935898999,56821935931767,56821935964535,56821935997303]},"available":true,"name":"Planificateur de productivité Pro - A5 \/ To-do lists \/ Red","public_title":"A5 \/ To-do lists \/ Red","options":["A5","To-do lists","Red"],"price":1500,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","featured_media":{"alt":null,"id":67606562603383,"position":5,"preview_image":{"aspect_ratio":0.753,"height":2464,"width":1856,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/03-planner-hover-04.jpg?v=1763732659"}},"requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56821935571319,"title":"A5 \/ To-do lists \/ Pink","option1":"A5","option2":"To-do lists","option3":"Pink","sku":null,"requires_shipping":true,"taxable":true,"featured_image":{"id":82286054080887,"product_id":15252878721399,"position":5,"created_at":"2025-11-21T08:44:16-05:00","updated_at":"2025-11-21T08:44:19-05:00","alt":null,"width":1856,"height":2464,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/03-planner-hover-04.jpg?v=1763732659","variant_ids":[56821935440247,56821935473015,56821935505783,56821935538551,56821935571319,56821935604087,56821935636855,56821935669623,56821935702391,56821935735159,56821935767927,56821935800695,56821935833463,56821935866231,56821935898999,56821935931767,56821935964535,56821935997303]},"available":true,"name":"Planificateur de productivité Pro - A5 \/ To-do lists \/ Pink","public_title":"A5 \/ To-do lists \/ Pink","options":["A5","To-do lists","Pink"],"price":1500,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","featured_media":{"alt":null,"id":67606562603383,"position":5,"preview_image":{"aspect_ratio":0.753,"height":2464,"width":1856,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/03-planner-hover-04.jpg?v=1763732659"}},"requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56821935604087,"title":"A5 \/ To-do lists \/ Gray","option1":"A5","option2":"To-do lists","option3":"Gray","sku":null,"requires_shipping":true,"taxable":true,"featured_image":{"id":82286054080887,"product_id":15252878721399,"position":5,"created_at":"2025-11-21T08:44:16-05:00","updated_at":"2025-11-21T08:44:19-05:00","alt":null,"width":1856,"height":2464,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/03-planner-hover-04.jpg?v=1763732659","variant_ids":[56821935440247,56821935473015,56821935505783,56821935538551,56821935571319,56821935604087,56821935636855,56821935669623,56821935702391,56821935735159,56821935767927,56821935800695,56821935833463,56821935866231,56821935898999,56821935931767,56821935964535,56821935997303]},"available":false,"name":"Planificateur de productivité Pro - A5 \/ To-do lists \/ Gray","public_title":"A5 \/ To-do lists \/ Gray","options":["A5","To-do lists","Gray"],"price":1500,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","featured_media":{"alt":null,"id":67606562603383,"position":5,"preview_image":{"aspect_ratio":0.753,"height":2464,"width":1856,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/03-planner-hover-04.jpg?v=1763732659"}},"requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56220826337655,"title":"A4 \/ Notes section \/ Green","option1":"A4","option2":"Notes section","option3":"Green","sku":null,"requires_shipping":true,"taxable":true,"featured_image":{"id":82286054113655,"product_id":15252878721399,"position":1,"created_at":"2025-11-21T08:44:16-05:00","updated_at":"2025-11-21T08:44:19-05:00","alt":null,"width":1701,"height":2268,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/03-planner.jpg?v=1763732659","variant_ids":[56220826272119,56220826304887,56220826337655,56220826370423,56220826403191,56220826435959]},"available":true,"name":"Planificateur de productivité Pro - A4 \/ Notes section \/ Green","public_title":"A4 \/ Notes section \/ Green","options":["A4","Notes section","Green"],"price":1500,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","featured_media":{"alt":null,"id":67606562636151,"position":1,"preview_image":{"aspect_ratio":0.75,"height":2268,"width":1701,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/03-planner.jpg?v=1763732659"}},"requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56821935636855,"title":"A4 \/ Notes section \/ Red","option1":"A4","option2":"Notes section","option3":"Red","sku":null,"requires_shipping":true,"taxable":true,"featured_image":{"id":82286054080887,"product_id":15252878721399,"position":5,"created_at":"2025-11-21T08:44:16-05:00","updated_at":"2025-11-21T08:44:19-05:00","alt":null,"width":1856,"height":2464,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/03-planner-hover-04.jpg?v=1763732659","variant_ids":[56821935440247,56821935473015,56821935505783,56821935538551,56821935571319,56821935604087,56821935636855,56821935669623,56821935702391,56821935735159,56821935767927,56821935800695,56821935833463,56821935866231,56821935898999,56821935931767,56821935964535,56821935997303]},"available":true,"name":"Planificateur de productivité Pro - A4 \/ Notes section \/ Red","public_title":"A4 \/ Notes section \/ Red","options":["A4","Notes section","Red"],"price":1500,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","featured_media":{"alt":null,"id":67606562603383,"position":5,"preview_image":{"aspect_ratio":0.753,"height":2464,"width":1856,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/03-planner-hover-04.jpg?v=1763732659"}},"requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56821935669623,"title":"A4 \/ Notes section \/ Pink","option1":"A4","option2":"Notes section","option3":"Pink","sku":null,"requires_shipping":true,"taxable":true,"featured_image":{"id":82286054080887,"product_id":15252878721399,"position":5,"created_at":"2025-11-21T08:44:16-05:00","updated_at":"2025-11-21T08:44:19-05:00","alt":null,"width":1856,"height":2464,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/03-planner-hover-04.jpg?v=1763732659","variant_ids":[56821935440247,56821935473015,56821935505783,56821935538551,56821935571319,56821935604087,56821935636855,56821935669623,56821935702391,56821935735159,56821935767927,56821935800695,56821935833463,56821935866231,56821935898999,56821935931767,56821935964535,56821935997303]},"available":true,"name":"Planificateur de productivité Pro - A4 \/ Notes section \/ Pink","public_title":"A4 \/ Notes section \/ Pink","options":["A4","Notes section","Pink"],"price":1500,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","featured_media":{"alt":null,"id":67606562603383,"position":5,"preview_image":{"aspect_ratio":0.753,"height":2464,"width":1856,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/03-planner-hover-04.jpg?v=1763732659"}},"requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56821935702391,"title":"A4 \/ Notes section \/ Gray","option1":"A4","option2":"Notes section","option3":"Gray","sku":null,"requires_shipping":true,"taxable":true,"featured_image":{"id":82286054080887,"product_id":15252878721399,"position":5,"created_at":"2025-11-21T08:44:16-05:00","updated_at":"2025-11-21T08:44:19-05:00","alt":null,"width":1856,"height":2464,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/03-planner-hover-04.jpg?v=1763732659","variant_ids":[56821935440247,56821935473015,56821935505783,56821935538551,56821935571319,56821935604087,56821935636855,56821935669623,56821935702391,56821935735159,56821935767927,56821935800695,56821935833463,56821935866231,56821935898999,56821935931767,56821935964535,56821935997303]},"available":true,"name":"Planificateur de productivité Pro - A4 \/ Notes section \/ Gray","public_title":"A4 \/ Notes section \/ Gray","options":["A4","Notes section","Gray"],"price":1500,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","featured_media":{"alt":null,"id":67606562603383,"position":5,"preview_image":{"aspect_ratio":0.753,"height":2464,"width":1856,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/03-planner-hover-04.jpg?v=1763732659"}},"requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56220826370423,"title":"A4 \/ To-do lists \/ Green","option1":"A4","option2":"To-do lists","option3":"Green","sku":null,"requires_shipping":true,"taxable":true,"featured_image":{"id":82286054113655,"product_id":15252878721399,"position":1,"created_at":"2025-11-21T08:44:16-05:00","updated_at":"2025-11-21T08:44:19-05:00","alt":null,"width":1701,"height":2268,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/03-planner.jpg?v=1763732659","variant_ids":[56220826272119,56220826304887,56220826337655,56220826370423,56220826403191,56220826435959]},"available":true,"name":"Planificateur de productivité Pro - A4 \/ To-do lists \/ Green","public_title":"A4 \/ To-do lists \/ Green","options":["A4","To-do lists","Green"],"price":1500,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","featured_media":{"alt":null,"id":67606562636151,"position":1,"preview_image":{"aspect_ratio":0.75,"height":2268,"width":1701,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/03-planner.jpg?v=1763732659"}},"requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56821935735159,"title":"A4 \/ To-do lists \/ Red","option1":"A4","option2":"To-do lists","option3":"Red","sku":null,"requires_shipping":true,"taxable":true,"featured_image":{"id":82286054080887,"product_id":15252878721399,"position":5,"created_at":"2025-11-21T08:44:16-05:00","updated_at":"2025-11-21T08:44:19-05:00","alt":null,"width":1856,"height":2464,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/03-planner-hover-04.jpg?v=1763732659","variant_ids":[56821935440247,56821935473015,56821935505783,56821935538551,56821935571319,56821935604087,56821935636855,56821935669623,56821935702391,56821935735159,56821935767927,56821935800695,56821935833463,56821935866231,56821935898999,56821935931767,56821935964535,56821935997303]},"available":true,"name":"Planificateur de productivité Pro - A4 \/ To-do lists \/ Red","public_title":"A4 \/ To-do lists \/ Red","options":["A4","To-do lists","Red"],"price":1500,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","featured_media":{"alt":null,"id":67606562603383,"position":5,"preview_image":{"aspect_ratio":0.753,"height":2464,"width":1856,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/03-planner-hover-04.jpg?v=1763732659"}},"requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56821935767927,"title":"A4 \/ To-do lists \/ Pink","option1":"A4","option2":"To-do lists","option3":"Pink","sku":null,"requires_shipping":true,"taxable":true,"featured_image":{"id":82286054080887,"product_id":15252878721399,"position":5,"created_at":"2025-11-21T08:44:16-05:00","updated_at":"2025-11-21T08:44:19-05:00","alt":null,"width":1856,"height":2464,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/03-planner-hover-04.jpg?v=1763732659","variant_ids":[56821935440247,56821935473015,56821935505783,56821935538551,56821935571319,56821935604087,56821935636855,56821935669623,56821935702391,56821935735159,56821935767927,56821935800695,56821935833463,56821935866231,56821935898999,56821935931767,56821935964535,56821935997303]},"available":true,"name":"Planificateur de productivité Pro - A4 \/ To-do lists \/ Pink","public_title":"A4 \/ To-do lists \/ Pink","options":["A4","To-do lists","Pink"],"price":1500,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","featured_media":{"alt":null,"id":67606562603383,"position":5,"preview_image":{"aspect_ratio":0.753,"height":2464,"width":1856,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/03-planner-hover-04.jpg?v=1763732659"}},"requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56821935800695,"title":"A4 \/ To-do lists \/ Gray","option1":"A4","option2":"To-do lists","option3":"Gray","sku":null,"requires_shipping":true,"taxable":true,"featured_image":{"id":82286054080887,"product_id":15252878721399,"position":5,"created_at":"2025-11-21T08:44:16-05:00","updated_at":"2025-11-21T08:44:19-05:00","alt":null,"width":1856,"height":2464,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/03-planner-hover-04.jpg?v=1763732659","variant_ids":[56821935440247,56821935473015,56821935505783,56821935538551,56821935571319,56821935604087,56821935636855,56821935669623,56821935702391,56821935735159,56821935767927,56821935800695,56821935833463,56821935866231,56821935898999,56821935931767,56821935964535,56821935997303]},"available":true,"name":"Planificateur de productivité Pro - A4 \/ To-do lists \/ Gray","public_title":"A4 \/ To-do lists \/ Gray","options":["A4","To-do lists","Gray"],"price":1500,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","featured_media":{"alt":null,"id":67606562603383,"position":5,"preview_image":{"aspect_ratio":0.753,"height":2464,"width":1856,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/03-planner-hover-04.jpg?v=1763732659"}},"requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56220826403191,"title":"A3 \/ Notes section \/ Green","option1":"A3","option2":"Notes section","option3":"Green","sku":null,"requires_shipping":true,"taxable":true,"featured_image":{"id":82286054113655,"product_id":15252878721399,"position":1,"created_at":"2025-11-21T08:44:16-05:00","updated_at":"2025-11-21T08:44:19-05:00","alt":null,"width":1701,"height":2268,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/03-planner.jpg?v=1763732659","variant_ids":[56220826272119,56220826304887,56220826337655,56220826370423,56220826403191,56220826435959]},"available":true,"name":"Planificateur de productivité Pro - A3 \/ Notes section \/ Green","public_title":"A3 \/ Notes section \/ Green","options":["A3","Notes section","Green"],"price":1500,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","featured_media":{"alt":null,"id":67606562636151,"position":1,"preview_image":{"aspect_ratio":0.75,"height":2268,"width":1701,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/03-planner.jpg?v=1763732659"}},"requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56821935833463,"title":"A3 \/ Notes section \/ Red","option1":"A3","option2":"Notes section","option3":"Red","sku":null,"requires_shipping":true,"taxable":true,"featured_image":{"id":82286054080887,"product_id":15252878721399,"position":5,"created_at":"2025-11-21T08:44:16-05:00","updated_at":"2025-11-21T08:44:19-05:00","alt":null,"width":1856,"height":2464,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/03-planner-hover-04.jpg?v=1763732659","variant_ids":[56821935440247,56821935473015,56821935505783,56821935538551,56821935571319,56821935604087,56821935636855,56821935669623,56821935702391,56821935735159,56821935767927,56821935800695,56821935833463,56821935866231,56821935898999,56821935931767,56821935964535,56821935997303]},"available":true,"name":"Planificateur de productivité Pro - A3 \/ Notes section \/ Red","public_title":"A3 \/ Notes section \/ Red","options":["A3","Notes section","Red"],"price":1500,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","featured_media":{"alt":null,"id":67606562603383,"position":5,"preview_image":{"aspect_ratio":0.753,"height":2464,"width":1856,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/03-planner-hover-04.jpg?v=1763732659"}},"requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56821935866231,"title":"A3 \/ Notes section \/ Pink","option1":"A3","option2":"Notes section","option3":"Pink","sku":null,"requires_shipping":true,"taxable":true,"featured_image":{"id":82286054080887,"product_id":15252878721399,"position":5,"created_at":"2025-11-21T08:44:16-05:00","updated_at":"2025-11-21T08:44:19-05:00","alt":null,"width":1856,"height":2464,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/03-planner-hover-04.jpg?v=1763732659","variant_ids":[56821935440247,56821935473015,56821935505783,56821935538551,56821935571319,56821935604087,56821935636855,56821935669623,56821935702391,56821935735159,56821935767927,56821935800695,56821935833463,56821935866231,56821935898999,56821935931767,56821935964535,56821935997303]},"available":true,"name":"Planificateur de productivité Pro - A3 \/ Notes section \/ Pink","public_title":"A3 \/ Notes section \/ Pink","options":["A3","Notes section","Pink"],"price":1500,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","featured_media":{"alt":null,"id":67606562603383,"position":5,"preview_image":{"aspect_ratio":0.753,"height":2464,"width":1856,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/03-planner-hover-04.jpg?v=1763732659"}},"requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56821935898999,"title":"A3 \/ Notes section \/ Gray","option1":"A3","option2":"Notes section","option3":"Gray","sku":null,"requires_shipping":true,"taxable":true,"featured_image":{"id":82286054080887,"product_id":15252878721399,"position":5,"created_at":"2025-11-21T08:44:16-05:00","updated_at":"2025-11-21T08:44:19-05:00","alt":null,"width":1856,"height":2464,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/03-planner-hover-04.jpg?v=1763732659","variant_ids":[56821935440247,56821935473015,56821935505783,56821935538551,56821935571319,56821935604087,56821935636855,56821935669623,56821935702391,56821935735159,56821935767927,56821935800695,56821935833463,56821935866231,56821935898999,56821935931767,56821935964535,56821935997303]},"available":true,"name":"Planificateur de productivité Pro - A3 \/ Notes section \/ Gray","public_title":"A3 \/ Notes section \/ Gray","options":["A3","Notes section","Gray"],"price":1500,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","featured_media":{"alt":null,"id":67606562603383,"position":5,"preview_image":{"aspect_ratio":0.753,"height":2464,"width":1856,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/03-planner-hover-04.jpg?v=1763732659"}},"requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56220826435959,"title":"A3 \/ To-do lists \/ Green","option1":"A3","option2":"To-do lists","option3":"Green","sku":null,"requires_shipping":true,"taxable":true,"featured_image":{"id":82286054113655,"product_id":15252878721399,"position":1,"created_at":"2025-11-21T08:44:16-05:00","updated_at":"2025-11-21T08:44:19-05:00","alt":null,"width":1701,"height":2268,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/03-planner.jpg?v=1763732659","variant_ids":[56220826272119,56220826304887,56220826337655,56220826370423,56220826403191,56220826435959]},"available":true,"name":"Planificateur de productivité Pro - A3 \/ To-do lists \/ Green","public_title":"A3 \/ To-do lists \/ Green","options":["A3","To-do lists","Green"],"price":1500,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","featured_media":{"alt":null,"id":67606562636151,"position":1,"preview_image":{"aspect_ratio":0.75,"height":2268,"width":1701,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/03-planner.jpg?v=1763732659"}},"requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56821935931767,"title":"A3 \/ To-do lists \/ Red","option1":"A3","option2":"To-do lists","option3":"Red","sku":null,"requires_shipping":true,"taxable":true,"featured_image":{"id":82286054080887,"product_id":15252878721399,"position":5,"created_at":"2025-11-21T08:44:16-05:00","updated_at":"2025-11-21T08:44:19-05:00","alt":null,"width":1856,"height":2464,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/03-planner-hover-04.jpg?v=1763732659","variant_ids":[56821935440247,56821935473015,56821935505783,56821935538551,56821935571319,56821935604087,56821935636855,56821935669623,56821935702391,56821935735159,56821935767927,56821935800695,56821935833463,56821935866231,56821935898999,56821935931767,56821935964535,56821935997303]},"available":true,"name":"Planificateur de productivité Pro - A3 \/ To-do lists \/ Red","public_title":"A3 \/ To-do lists \/ Red","options":["A3","To-do lists","Red"],"price":1500,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","featured_media":{"alt":null,"id":67606562603383,"position":5,"preview_image":{"aspect_ratio":0.753,"height":2464,"width":1856,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/03-planner-hover-04.jpg?v=1763732659"}},"requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56821935964535,"title":"A3 \/ To-do lists \/ Pink","option1":"A3","option2":"To-do lists","option3":"Pink","sku":null,"requires_shipping":true,"taxable":true,"featured_image":{"id":82286054080887,"product_id":15252878721399,"position":5,"created_at":"2025-11-21T08:44:16-05:00","updated_at":"2025-11-21T08:44:19-05:00","alt":null,"width":1856,"height":2464,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/03-planner-hover-04.jpg?v=1763732659","variant_ids":[56821935440247,56821935473015,56821935505783,56821935538551,56821935571319,56821935604087,56821935636855,56821935669623,56821935702391,56821935735159,56821935767927,56821935800695,56821935833463,56821935866231,56821935898999,56821935931767,56821935964535,56821935997303]},"available":false,"name":"Planificateur de productivité Pro - A3 \/ To-do lists \/ Pink","public_title":"A3 \/ To-do lists \/ Pink","options":["A3","To-do lists","Pink"],"price":1500,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","featured_media":{"alt":null,"id":67606562603383,"position":5,"preview_image":{"aspect_ratio":0.753,"height":2464,"width":1856,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/03-planner-hover-04.jpg?v=1763732659"}},"requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56821935997303,"title":"A3 \/ To-do lists \/ Gray","option1":"A3","option2":"To-do lists","option3":"Gray","sku":null,"requires_shipping":true,"taxable":true,"featured_image":{"id":82286054080887,"product_id":15252878721399,"position":5,"created_at":"2025-11-21T08:44:16-05:00","updated_at":"2025-11-21T08:44:19-05:00","alt":null,"width":1856,"height":2464,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/03-planner-hover-04.jpg?v=1763732659","variant_ids":[56821935440247,56821935473015,56821935505783,56821935538551,56821935571319,56821935604087,56821935636855,56821935669623,56821935702391,56821935735159,56821935767927,56821935800695,56821935833463,56821935866231,56821935898999,56821935931767,56821935964535,56821935997303]},"available":false,"name":"Planificateur de productivité Pro - A3 \/ To-do lists \/ Gray","public_title":"A3 \/ To-do lists \/ Gray","options":["A3","To-do lists","Gray"],"price":1500,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","featured_media":{"alt":null,"id":67606562603383,"position":5,"preview_image":{"aspect_ratio":0.753,"height":2464,"width":1856,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/03-planner-hover-04.jpg?v=1763732659"}},"requires_selling_plan":false,"selling_plan_allocations":[]}]
+    </script>
+    <script type="application/json" data-product-card-featured-media="">
+      {"alt":null,"id":67606562636151,"position":1,"preview_image":{"aspect_ratio":0.75,"height":2268,"width":1701,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/03-planner.jpg?v=1763732659"},"aspect_ratio":0.75,"height":2268,"media_type":"image","src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/03-planner.jpg?v=1763732659","width":1701}
+    </script>
+    <span class="hidden" data-product-card-options="" data-product-title="Planificateur de productivité Pro" data-product-columns="4" data-product-columns-mobile="2" data-product-ratio="0.76" data-product-fit="cover" data-product-has-price-varies="false"></span><a href="/fr/products/productivity-planner-pro?pr_prod_strat=collection_fallback&amp;pr_rec_id=71a3dd27f&amp;pr_rec_pid=15252878721399&amp;pr_ref_pid=15252589969783&amp;pr_seq=uniform" class="product-card__link-overlay focus-inset" aria-label="Planificateur de productivité Pro Lien vers le produit"></a></product-card>
+
+              </div><div class="product-recommendations__item swiper-slide" role="group" aria-label="5 / 5" style="width: 326.25px; margin-right: 24px;">
+                
+
+
+<product-card class="product-card product-card--mobile-2 product-card_image-linked" data-product="weekly-layout-planner" data-product-id="15252593115511" data-image-linked="true" data-card-color-swatches="true" tabindex="-1" style="--card-padding-bottom: 131.7%; --slide-count: 5">
+  <div class="product-card__inner">
+    <div class="product-card__media">
+
+          <div class="swiper-container product-card-js global-variant-js-media-list slider_started swiper-initialized swiper-horizontal swiper-backface-hidden" data-loop="false">
+            <div class="swiper-wrapper" id="swiper-wrapper-10f9fcfc106c4e46a7" aria-live="polite" style="transform: translate3d(0px, 0px, 0px);">
+              
+                
+
+                
+                  
+                    
+                    
+
+                
+
+                <div class="swiper-slide swiper-slide-active" data-media-id="67602191057271" data-variant-id="56821940355447" role="group" aria-label="1 / 5" style="width: 326px; margin-right: 2px;">
+                  <img src="//shift-sketch.myshopify.com/cdn/shop/files/02-planner.jpg?v=1763717554&amp;width=1701" alt="Planificateur de mise en page hebdomadaire" srcset="//shift-sketch.myshopify.com/cdn/shop/files/02-planner.jpg?v=1763717554&amp;width=360 360w, //shift-sketch.myshopify.com/cdn/shop/files/02-planner.jpg?v=1763717554&amp;width=535 535w, //shift-sketch.myshopify.com/cdn/shop/files/02-planner.jpg?v=1763717554&amp;width=720 720w, //shift-sketch.myshopify.com/cdn/shop/files/02-planner.jpg?v=1763717554&amp;width=940 940w, //shift-sketch.myshopify.com/cdn/shop/files/02-planner.jpg?v=1763717554&amp;width=1066 1066w, //shift-sketch.myshopify.com/cdn/shop/files/02-planner.jpg?v=1763717554&amp;width=1200 1200w, //shift-sketch.myshopify.com/cdn/shop/files/02-planner.jpg?v=1763717554&amp;width=1400 1400w, //shift-sketch.myshopify.com/cdn/shop/files/02-planner.jpg?v=1763717554&amp;width=1600 1600w" width="1701" height="2268" loading="lazy" class="motion-reduce media" sizes="(min-width: 1200px) calc(1.03 * (100vw / 4)),(min-width: 990px) calc(1.03 * (100vw / 3)),(min-width: 576px) calc(1.03 * (100vw / 2)),calc(1.03 * 100vw)" style="object-fit: cover;">
+                </div>
+              
+                
+
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+
+                
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                
+
+                <div class="swiper-slide swiper-slide-next" data-media-id="67602190926199" role="group" aria-label="2 / 5" style="width: 326px; margin-right: 2px;">
+                  <img src="//shift-sketch.myshopify.com/cdn/shop/files/02-planner-hover-01.jpg?v=1763717554&amp;width=1688" alt="Planificateur de mise en page hebdomadaire" srcset="//shift-sketch.myshopify.com/cdn/shop/files/02-planner-hover-01.jpg?v=1763717554&amp;width=360 360w, //shift-sketch.myshopify.com/cdn/shop/files/02-planner-hover-01.jpg?v=1763717554&amp;width=535 535w, //shift-sketch.myshopify.com/cdn/shop/files/02-planner-hover-01.jpg?v=1763717554&amp;width=720 720w, //shift-sketch.myshopify.com/cdn/shop/files/02-planner-hover-01.jpg?v=1763717554&amp;width=940 940w, //shift-sketch.myshopify.com/cdn/shop/files/02-planner-hover-01.jpg?v=1763717554&amp;width=1066 1066w, //shift-sketch.myshopify.com/cdn/shop/files/02-planner-hover-01.jpg?v=1763717554&amp;width=1200 1200w, //shift-sketch.myshopify.com/cdn/shop/files/02-planner-hover-01.jpg?v=1763717554&amp;width=1400 1400w, //shift-sketch.myshopify.com/cdn/shop/files/02-planner-hover-01.jpg?v=1763717554&amp;width=1600 1600w" width="1688" height="2250" loading="lazy" class="motion-reduce media" sizes="(min-width: 1200px) calc(1.03 * (100vw / 4)),(min-width: 990px) calc(1.03 * (100vw / 3)),(min-width: 576px) calc(1.03 * (100vw / 2)),calc(1.03 * 100vw)" style="object-fit: cover;">
+                </div>
+              
+                
+
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+
+                
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                
+
+                <div class="swiper-slide" data-media-id="67602190958967" role="group" aria-label="3 / 5" style="width: 326px; margin-right: 2px;">
+                  <img src="//shift-sketch.myshopify.com/cdn/shop/files/02-planner-hover-02.jpg?v=1763717555&amp;width=1688" alt="Planificateur de mise en page hebdomadaire" srcset="//shift-sketch.myshopify.com/cdn/shop/files/02-planner-hover-02.jpg?v=1763717555&amp;width=360 360w, //shift-sketch.myshopify.com/cdn/shop/files/02-planner-hover-02.jpg?v=1763717555&amp;width=535 535w, //shift-sketch.myshopify.com/cdn/shop/files/02-planner-hover-02.jpg?v=1763717555&amp;width=720 720w, //shift-sketch.myshopify.com/cdn/shop/files/02-planner-hover-02.jpg?v=1763717555&amp;width=940 940w, //shift-sketch.myshopify.com/cdn/shop/files/02-planner-hover-02.jpg?v=1763717555&amp;width=1066 1066w, //shift-sketch.myshopify.com/cdn/shop/files/02-planner-hover-02.jpg?v=1763717555&amp;width=1200 1200w, //shift-sketch.myshopify.com/cdn/shop/files/02-planner-hover-02.jpg?v=1763717555&amp;width=1400 1400w, //shift-sketch.myshopify.com/cdn/shop/files/02-planner-hover-02.jpg?v=1763717555&amp;width=1600 1600w" width="1688" height="2250" loading="lazy" class="motion-reduce media" sizes="(min-width: 1200px) calc(1.03 * (100vw / 4)),(min-width: 990px) calc(1.03 * (100vw / 3)),(min-width: 576px) calc(1.03 * (100vw / 2)),calc(1.03 * 100vw)" style="object-fit: cover;">
+                </div>
+              
+                
+
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+
+                
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                
+
+                <div class="swiper-slide" data-media-id="67602190991735" role="group" aria-label="4 / 5" style="width: 326px; margin-right: 2px;">
+                  <img src="//shift-sketch.myshopify.com/cdn/shop/files/02-planner-hover-03.jpg?v=1763717555&amp;width=1800" alt="Planificateur de mise en page hebdomadaire" srcset="//shift-sketch.myshopify.com/cdn/shop/files/02-planner-hover-03.jpg?v=1763717555&amp;width=360 360w, //shift-sketch.myshopify.com/cdn/shop/files/02-planner-hover-03.jpg?v=1763717555&amp;width=535 535w, //shift-sketch.myshopify.com/cdn/shop/files/02-planner-hover-03.jpg?v=1763717555&amp;width=720 720w, //shift-sketch.myshopify.com/cdn/shop/files/02-planner-hover-03.jpg?v=1763717555&amp;width=940 940w, //shift-sketch.myshopify.com/cdn/shop/files/02-planner-hover-03.jpg?v=1763717555&amp;width=1066 1066w, //shift-sketch.myshopify.com/cdn/shop/files/02-planner-hover-03.jpg?v=1763717555&amp;width=1200 1200w, //shift-sketch.myshopify.com/cdn/shop/files/02-planner-hover-03.jpg?v=1763717555&amp;width=1400 1400w, //shift-sketch.myshopify.com/cdn/shop/files/02-planner-hover-03.jpg?v=1763717555&amp;width=1600 1600w, //shift-sketch.myshopify.com/cdn/shop/files/02-planner-hover-03.jpg?v=1763717555&amp;width=1800 1800w" width="1800" height="2400" loading="lazy" class="motion-reduce media" sizes="(min-width: 1200px) calc(1.03 * (100vw / 4)),(min-width: 990px) calc(1.03 * (100vw / 3)),(min-width: 576px) calc(1.03 * (100vw / 2)),calc(1.03 * 100vw)" style="object-fit: cover;">
+                </div>
+              
+                
+
+                
+                  
+                
+                  
+                    
+                    
+
+                
+
+                <div class="swiper-slide" data-media-id="67602191024503" data-variant-id="56821940388215" role="group" aria-label="5 / 5" style="width: 326px; margin-right: 2px;">
+                  <img src="//shift-sketch.myshopify.com/cdn/shop/files/02-planner-hover-04.jpg?v=1763717554&amp;width=1856" alt="Planificateur de mise en page hebdomadaire" srcset="//shift-sketch.myshopify.com/cdn/shop/files/02-planner-hover-04.jpg?v=1763717554&amp;width=360 360w, //shift-sketch.myshopify.com/cdn/shop/files/02-planner-hover-04.jpg?v=1763717554&amp;width=535 535w, //shift-sketch.myshopify.com/cdn/shop/files/02-planner-hover-04.jpg?v=1763717554&amp;width=720 720w, //shift-sketch.myshopify.com/cdn/shop/files/02-planner-hover-04.jpg?v=1763717554&amp;width=940 940w, //shift-sketch.myshopify.com/cdn/shop/files/02-planner-hover-04.jpg?v=1763717554&amp;width=1066 1066w, //shift-sketch.myshopify.com/cdn/shop/files/02-planner-hover-04.jpg?v=1763717554&amp;width=1200 1200w, //shift-sketch.myshopify.com/cdn/shop/files/02-planner-hover-04.jpg?v=1763717554&amp;width=1400 1400w, //shift-sketch.myshopify.com/cdn/shop/files/02-planner-hover-04.jpg?v=1763717554&amp;width=1600 1600w, //shift-sketch.myshopify.com/cdn/shop/files/02-planner-hover-04.jpg?v=1763717554&amp;width=1800 1800w" width="1856" height="2464" loading="lazy" class="motion-reduce media" sizes="(min-width: 1200px) calc(1.03 * (100vw / 4)),(min-width: 990px) calc(1.03 * (100vw / 3)),(min-width: 576px) calc(1.03 * (100vw / 2)),calc(1.03 * 100vw)" style="object-fit: cover;">
+                </div>
+              
+            </div>
+            <div class="product-button-group">
+              <div class="product-slider-button-prev">
+                <div class="swiper-button-prev swiper-button-disabled" tabindex="-1" role="button" aria-label="Previous slide" aria-controls="swiper-wrapper-10f9fcfc106c4e46a7" aria-disabled="true"><svg class="icon icon-arrow-slider-left" width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M14 2L6 10L14 18" stroke="currentColor"></path>
+</svg>
+</div>
+              </div>
+
+              <div class="product-slider-button-next">
+                <div class="swiper-button-next" tabindex="0" role="button" aria-label="Next slide" aria-controls="swiper-wrapper-10f9fcfc106c4e46a7" aria-disabled="false"><svg class="icon icon-arrow-slider-right" width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M6 2L14 10L6 18" stroke="currentColor"></path>
+</svg>
+</div>
+              </div>
+            </div>
+            <div class="swiper-pagination product-card-pagination swiper-pagination-default swiper-pagination-clickable swiper-pagination-bullets swiper-pagination-horizontal"><span class="swiper-pagination-bullet swiper-pagination-bullet-active" tabindex="0" role="button" aria-label="Go to slide 1" aria-current="true"></span><span class="swiper-pagination-bullet" tabindex="0" role="button" aria-label="Go to slide 2"></span><span class="swiper-pagination-bullet" tabindex="0" role="button" aria-label="Go to slide 3"></span><span class="swiper-pagination-bullet" tabindex="0" role="button" aria-label="Go to slide 4"></span><span class="swiper-pagination-bullet" tabindex="0" role="button" aria-label="Go to slide 5"></span></div>
+          <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
+        
+</div><div class="product-card__top">
+        
+<div class="product-card__badges body-normal"></div>
+      </div><div class="product-card__quickview product-card__quickview--mobile-true no-js-hidden">
+        <modal-opener data-modal="#QuickView-15252593115511">
+          <button class="product-card__button button button--primary focus-inset" aria-haspopup="dialog" data-product-url="/fr/products/weekly-layout-planner?pr_prod_strat=collection_fallback&amp;pr_rec_id=71a3dd27f&amp;pr_rec_pid=15252593115511&amp;pr_ref_pid=15252589969783&amp;pr_seq=uniform" aria-label="Quick view">
+            <div class="button__content">
+              <span class="product-card__quickview-text button__label" data-label="Quick view">Quick view</span>
+              <span class="product-card__mobile-icon button__icon">
+                <svg width="22" height="22" viewBox="0 0 22 22" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M2.66745 12.0748C2.35434 11.3936 2.35434 10.6077 2.66745 9.92654C4.11679 6.77337 7.30311 4.58398 11.0008 4.58398C14.6985 4.58398 17.8848 6.77338 19.3341 9.92654C19.6472 10.6077 19.6472 11.3936 19.3341 12.0748C17.8848 15.2279 14.6985 17.4173 11.0008 17.4173C7.30311 17.4173 4.11679 15.2279 2.66745 12.0748Z" stroke="currentColor" stroke-width="1.5"></path>
+  <path d="M13.7508 11.0007C13.7508 12.5194 12.5196 13.7507 11.0008 13.7507C9.48201 13.7507 8.25079 12.5194 8.25079 11.0007C8.25079 9.48187 9.48201 8.25065 11.0008 8.25065C12.5196 8.25065 13.7508 9.48187 13.7508 11.0007Z" stroke="currentColor" stroke-width="1.5"></path>
+</svg>
+
+              </span>
+            </div>
+            <div class="loading-overlay__spinner hidden">
+              <svg aria-hidden="true" focusable="false" role="presentation" class="spinner" viewBox="0 0 66 66" xmlns="http://www.w3.org/2000/svg">
+  <circle class="path" fill="none" stroke-width="5" cx="33" cy="33" r="30"></circle>
+</svg>
+
+            </div>
+          </button>
+        </modal-opener>
+
+        
+
+
+      </div></div>
+
+  
+  <div class="product-card__information">
+    <div class="product-card__information-top"><h3 class="product-card__title">
+        <a class="focus-inset" href="/fr/products/weekly-layout-planner?pr_prod_strat=collection_fallback&amp;pr_rec_id=71a3dd27f&amp;pr_rec_pid=15252593115511&amp;pr_ref_pid=15252589969783&amp;pr_seq=uniform" aria-label="Planificateur de mise en page hebdomadaire">Planificateur de mise en page hebdomadaire</a>
+      </h3>
+
+      <div class="product-card__price-group">
+        
+<div class="price">
+  <dl class="price-text"><div class="price__regular">
+      <dt class="visually-hidden">Prix régulier</dt>
+      <dd>
+        <span class="price-item price-item--regular">$13.50</span>
+      </dd>
+    </div>
+    <div class="price__sale">
+      <dt class="visually-hidden">Prix de vente</dt>
+      <dd>
+        <span class="price-item price-item--sale">$13.50</span>
+      </dd>
+      <dt class="visually-hidden">Prix régulier</dt>
+      <dd class="price__compare">
+        <s class="price-item price-item--regular"></s>
+      </dd>
+    </div>
+  </dl>
+
+  <dl class="unit-price hidden">
+    <dt class="visually-hidden">Prix unitaire</dt>
+    <dd></dd>
+  </dl>
+</div>
+
+      </div>
+      
+
+          <div class="product-card__description body-small">Un outil fiable pour un usage quotidien, conçu pour faciliter la planification, la prise de notes et les travaux créatifs....</div><div class="product-card__error body-xs" role="alert" hidden=""></div>
+    </div>
+
+    
+<div class="product-card__information-bottom"><div class="product-card__color-swatches">
+                
+                  <div class="body-small js-option-selected-value" data-option-position="3">
+                    Purple</div>
+                
+                <div class="product-card__option-group js-card-option-group" data-option-position="3">
+                  
+
+
+  
+
+  
+  
+  
+
+<input type="radio" id="template--27266933817719__product_recommendations-3-0-15252593115511-5" name="Color-template--27266933817719__product_recommendations-15252593115511-5" value="Purple" data-variant-id="56821940355447" form="product-form-template--27266933817719__product_recommendations" checked="" tabindex="-1" aria-label="Purple" data-option-value-id="12613558796663" style="">
+    
+<label for="template--27266933817719__product_recommendations-3-0-15252593115511-5" class="color-swatch" style="--swatch-color: rgb(165 77 207);" title="Purple" tabindex="0" onkeydown="if(event.key==='Enter'||event.key===' '){event.preventDefault();document.getElementById(this.getAttribute('for')).click();}" data-unavailable-color-label="N/A">
+        <span class="visually-hidden">Purple</span>
+      </label>
+
+  
+
+  
+  
+  
+
+<input type="radio" id="template--27266933817719__product_recommendations-3-1-15252593115511-5" name="Color-template--27266933817719__product_recommendations-15252593115511-5" value="Pink" data-variant-id="56821940388215" form="product-form-template--27266933817719__product_recommendations" tabindex="-1" aria-label="Pink" data-option-value-id="12613558829431" style="">
+    
+<label for="template--27266933817719__product_recommendations-3-1-15252593115511-5" class="color-swatch" style="--swatch-color: rgb(255 192 203);" title="Pink" tabindex="0" onkeydown="if(event.key==='Enter'||event.key===' '){event.preventDefault();document.getElementById(this.getAttribute('for')).click();}" data-unavailable-color-label="N/A">
+        <span class="visually-hidden">Pink</span>
+      </label>
+
+  
+
+  
+  
+  
+
+<input type="radio" id="template--27266933817719__product_recommendations-3-2-15252593115511-5" name="Color-template--27266933817719__product_recommendations-15252593115511-5" value="Green" data-variant-id="56821940420983" form="product-form-template--27266933817719__product_recommendations" tabindex="-1" aria-label="Green" data-option-value-id="12613558862199" style="">
+    
+<label for="template--27266933817719__product_recommendations-3-2-15252593115511-5" class="color-swatch" style="--swatch-color: rgb(5 170 61);" title="Green" tabindex="0" onkeydown="if(event.key==='Enter'||event.key===' '){event.preventDefault();document.getElementById(this.getAttribute('for')).click();}" data-unavailable-color-label="N/A">
+        <span class="visually-hidden">Green</span>
+      </label>
+                </div>
+
+                
+              </div></div></div><script type="application/json" data-product-card-variants="">
+      [{"id":56821940355447,"title":"A5 \/ Doux \/ Purple","option1":"A5","option2":"Doux","option3":"Purple","sku":null,"requires_shipping":true,"taxable":true,"featured_image":{"id":82281617785207,"product_id":15252593115511,"position":1,"created_at":"2025-11-21T04:32:31-05:00","updated_at":"2025-11-21T04:32:34-05:00","alt":null,"width":1701,"height":2268,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/02-planner.jpg?v=1763717554","variant_ids":[56821940355447,56821940453751,56821940552055,56821940650359,56821940748663,56821940846967]},"available":true,"name":"Planificateur de mise en page hebdomadaire - A5 \/ Doux \/ Purple","public_title":"A5 \/ Doux \/ Purple","options":["A5","Doux","Purple"],"price":1350,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","featured_media":{"alt":null,"id":67602191057271,"position":1,"preview_image":{"aspect_ratio":0.75,"height":2268,"width":1701,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/02-planner.jpg?v=1763717554"}},"requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56821940388215,"title":"A5 \/ Doux \/ Pink","option1":"A5","option2":"Doux","option3":"Pink","sku":null,"requires_shipping":true,"taxable":true,"featured_image":{"id":82281617752439,"product_id":15252593115511,"position":5,"created_at":"2025-11-21T04:32:31-05:00","updated_at":"2025-11-21T04:32:34-05:00","alt":null,"width":1856,"height":2464,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/02-planner-hover-04.jpg?v=1763717554","variant_ids":[56821940388215,56821940420983,56821940486519,56821940519287,56821940584823,56821940617591,56821940683127,56821940715895,56821940781431,56821940814199,56821940879735,56821940912503]},"available":true,"name":"Planificateur de mise en page hebdomadaire - A5 \/ Doux \/ Pink","public_title":"A5 \/ Doux \/ Pink","options":["A5","Doux","Pink"],"price":1350,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","featured_media":{"alt":null,"id":67602191024503,"position":5,"preview_image":{"aspect_ratio":0.753,"height":2464,"width":1856,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/02-planner-hover-04.jpg?v=1763717554"}},"requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56821940420983,"title":"A5 \/ Doux \/ Green","option1":"A5","option2":"Doux","option3":"Green","sku":null,"requires_shipping":true,"taxable":true,"featured_image":{"id":82281617752439,"product_id":15252593115511,"position":5,"created_at":"2025-11-21T04:32:31-05:00","updated_at":"2025-11-21T04:32:34-05:00","alt":null,"width":1856,"height":2464,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/02-planner-hover-04.jpg?v=1763717554","variant_ids":[56821940388215,56821940420983,56821940486519,56821940519287,56821940584823,56821940617591,56821940683127,56821940715895,56821940781431,56821940814199,56821940879735,56821940912503]},"available":true,"name":"Planificateur de mise en page hebdomadaire - A5 \/ Doux \/ Green","public_title":"A5 \/ Doux \/ Green","options":["A5","Doux","Green"],"price":1350,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","featured_media":{"alt":null,"id":67602191024503,"position":5,"preview_image":{"aspect_ratio":0.753,"height":2464,"width":1856,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/02-planner-hover-04.jpg?v=1763717554"}},"requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56821940453751,"title":"A5 \/ Hard \/ Purple","option1":"A5","option2":"Hard","option3":"Purple","sku":null,"requires_shipping":true,"taxable":true,"featured_image":{"id":82281617785207,"product_id":15252593115511,"position":1,"created_at":"2025-11-21T04:32:31-05:00","updated_at":"2025-11-21T04:32:34-05:00","alt":null,"width":1701,"height":2268,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/02-planner.jpg?v=1763717554","variant_ids":[56821940355447,56821940453751,56821940552055,56821940650359,56821940748663,56821940846967]},"available":true,"name":"Planificateur de mise en page hebdomadaire - A5 \/ Hard \/ Purple","public_title":"A5 \/ Hard \/ Purple","options":["A5","Hard","Purple"],"price":1350,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","featured_media":{"alt":null,"id":67602191057271,"position":1,"preview_image":{"aspect_ratio":0.75,"height":2268,"width":1701,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/02-planner.jpg?v=1763717554"}},"requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56821940486519,"title":"A5 \/ Hard \/ Pink","option1":"A5","option2":"Hard","option3":"Pink","sku":null,"requires_shipping":true,"taxable":true,"featured_image":{"id":82281617752439,"product_id":15252593115511,"position":5,"created_at":"2025-11-21T04:32:31-05:00","updated_at":"2025-11-21T04:32:34-05:00","alt":null,"width":1856,"height":2464,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/02-planner-hover-04.jpg?v=1763717554","variant_ids":[56821940388215,56821940420983,56821940486519,56821940519287,56821940584823,56821940617591,56821940683127,56821940715895,56821940781431,56821940814199,56821940879735,56821940912503]},"available":true,"name":"Planificateur de mise en page hebdomadaire - A5 \/ Hard \/ Pink","public_title":"A5 \/ Hard \/ Pink","options":["A5","Hard","Pink"],"price":1350,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","featured_media":{"alt":null,"id":67602191024503,"position":5,"preview_image":{"aspect_ratio":0.753,"height":2464,"width":1856,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/02-planner-hover-04.jpg?v=1763717554"}},"requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56821940519287,"title":"A5 \/ Hard \/ Green","option1":"A5","option2":"Hard","option3":"Green","sku":null,"requires_shipping":true,"taxable":true,"featured_image":{"id":82281617752439,"product_id":15252593115511,"position":5,"created_at":"2025-11-21T04:32:31-05:00","updated_at":"2025-11-21T04:32:34-05:00","alt":null,"width":1856,"height":2464,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/02-planner-hover-04.jpg?v=1763717554","variant_ids":[56821940388215,56821940420983,56821940486519,56821940519287,56821940584823,56821940617591,56821940683127,56821940715895,56821940781431,56821940814199,56821940879735,56821940912503]},"available":true,"name":"Planificateur de mise en page hebdomadaire - A5 \/ Hard \/ Green","public_title":"A5 \/ Hard \/ Green","options":["A5","Hard","Green"],"price":1350,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","featured_media":{"alt":null,"id":67602191024503,"position":5,"preview_image":{"aspect_ratio":0.753,"height":2464,"width":1856,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/02-planner-hover-04.jpg?v=1763717554"}},"requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56821940552055,"title":"A4 \/ Doux \/ Purple","option1":"A4","option2":"Doux","option3":"Purple","sku":null,"requires_shipping":true,"taxable":true,"featured_image":{"id":82281617785207,"product_id":15252593115511,"position":1,"created_at":"2025-11-21T04:32:31-05:00","updated_at":"2025-11-21T04:32:34-05:00","alt":null,"width":1701,"height":2268,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/02-planner.jpg?v=1763717554","variant_ids":[56821940355447,56821940453751,56821940552055,56821940650359,56821940748663,56821940846967]},"available":true,"name":"Planificateur de mise en page hebdomadaire - A4 \/ Doux \/ Purple","public_title":"A4 \/ Doux \/ Purple","options":["A4","Doux","Purple"],"price":1350,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","featured_media":{"alt":null,"id":67602191057271,"position":1,"preview_image":{"aspect_ratio":0.75,"height":2268,"width":1701,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/02-planner.jpg?v=1763717554"}},"requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56821940584823,"title":"A4 \/ Doux \/ Pink","option1":"A4","option2":"Doux","option3":"Pink","sku":null,"requires_shipping":true,"taxable":true,"featured_image":{"id":82281617752439,"product_id":15252593115511,"position":5,"created_at":"2025-11-21T04:32:31-05:00","updated_at":"2025-11-21T04:32:34-05:00","alt":null,"width":1856,"height":2464,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/02-planner-hover-04.jpg?v=1763717554","variant_ids":[56821940388215,56821940420983,56821940486519,56821940519287,56821940584823,56821940617591,56821940683127,56821940715895,56821940781431,56821940814199,56821940879735,56821940912503]},"available":true,"name":"Planificateur de mise en page hebdomadaire - A4 \/ Doux \/ Pink","public_title":"A4 \/ Doux \/ Pink","options":["A4","Doux","Pink"],"price":1350,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","featured_media":{"alt":null,"id":67602191024503,"position":5,"preview_image":{"aspect_ratio":0.753,"height":2464,"width":1856,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/02-planner-hover-04.jpg?v=1763717554"}},"requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56821940617591,"title":"A4 \/ Doux \/ Green","option1":"A4","option2":"Doux","option3":"Green","sku":null,"requires_shipping":true,"taxable":true,"featured_image":{"id":82281617752439,"product_id":15252593115511,"position":5,"created_at":"2025-11-21T04:32:31-05:00","updated_at":"2025-11-21T04:32:34-05:00","alt":null,"width":1856,"height":2464,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/02-planner-hover-04.jpg?v=1763717554","variant_ids":[56821940388215,56821940420983,56821940486519,56821940519287,56821940584823,56821940617591,56821940683127,56821940715895,56821940781431,56821940814199,56821940879735,56821940912503]},"available":true,"name":"Planificateur de mise en page hebdomadaire - A4 \/ Doux \/ Green","public_title":"A4 \/ Doux \/ Green","options":["A4","Doux","Green"],"price":1350,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","featured_media":{"alt":null,"id":67602191024503,"position":5,"preview_image":{"aspect_ratio":0.753,"height":2464,"width":1856,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/02-planner-hover-04.jpg?v=1763717554"}},"requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56821940650359,"title":"A4 \/ Hard \/ Purple","option1":"A4","option2":"Hard","option3":"Purple","sku":null,"requires_shipping":true,"taxable":true,"featured_image":{"id":82281617785207,"product_id":15252593115511,"position":1,"created_at":"2025-11-21T04:32:31-05:00","updated_at":"2025-11-21T04:32:34-05:00","alt":null,"width":1701,"height":2268,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/02-planner.jpg?v=1763717554","variant_ids":[56821940355447,56821940453751,56821940552055,56821940650359,56821940748663,56821940846967]},"available":true,"name":"Planificateur de mise en page hebdomadaire - A4 \/ Hard \/ Purple","public_title":"A4 \/ Hard \/ Purple","options":["A4","Hard","Purple"],"price":1350,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","featured_media":{"alt":null,"id":67602191057271,"position":1,"preview_image":{"aspect_ratio":0.75,"height":2268,"width":1701,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/02-planner.jpg?v=1763717554"}},"requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56821940683127,"title":"A4 \/ Hard \/ Pink","option1":"A4","option2":"Hard","option3":"Pink","sku":null,"requires_shipping":true,"taxable":true,"featured_image":{"id":82281617752439,"product_id":15252593115511,"position":5,"created_at":"2025-11-21T04:32:31-05:00","updated_at":"2025-11-21T04:32:34-05:00","alt":null,"width":1856,"height":2464,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/02-planner-hover-04.jpg?v=1763717554","variant_ids":[56821940388215,56821940420983,56821940486519,56821940519287,56821940584823,56821940617591,56821940683127,56821940715895,56821940781431,56821940814199,56821940879735,56821940912503]},"available":true,"name":"Planificateur de mise en page hebdomadaire - A4 \/ Hard \/ Pink","public_title":"A4 \/ Hard \/ Pink","options":["A4","Hard","Pink"],"price":1350,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","featured_media":{"alt":null,"id":67602191024503,"position":5,"preview_image":{"aspect_ratio":0.753,"height":2464,"width":1856,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/02-planner-hover-04.jpg?v=1763717554"}},"requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56821940715895,"title":"A4 \/ Hard \/ Green","option1":"A4","option2":"Hard","option3":"Green","sku":null,"requires_shipping":true,"taxable":true,"featured_image":{"id":82281617752439,"product_id":15252593115511,"position":5,"created_at":"2025-11-21T04:32:31-05:00","updated_at":"2025-11-21T04:32:34-05:00","alt":null,"width":1856,"height":2464,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/02-planner-hover-04.jpg?v=1763717554","variant_ids":[56821940388215,56821940420983,56821940486519,56821940519287,56821940584823,56821940617591,56821940683127,56821940715895,56821940781431,56821940814199,56821940879735,56821940912503]},"available":true,"name":"Planificateur de mise en page hebdomadaire - A4 \/ Hard \/ Green","public_title":"A4 \/ Hard \/ Green","options":["A4","Hard","Green"],"price":1350,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","featured_media":{"alt":null,"id":67602191024503,"position":5,"preview_image":{"aspect_ratio":0.753,"height":2464,"width":1856,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/02-planner-hover-04.jpg?v=1763717554"}},"requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56821940748663,"title":"A3 \/ Doux \/ Purple","option1":"A3","option2":"Doux","option3":"Purple","sku":null,"requires_shipping":true,"taxable":true,"featured_image":{"id":82281617785207,"product_id":15252593115511,"position":1,"created_at":"2025-11-21T04:32:31-05:00","updated_at":"2025-11-21T04:32:34-05:00","alt":null,"width":1701,"height":2268,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/02-planner.jpg?v=1763717554","variant_ids":[56821940355447,56821940453751,56821940552055,56821940650359,56821940748663,56821940846967]},"available":true,"name":"Planificateur de mise en page hebdomadaire - A3 \/ Doux \/ Purple","public_title":"A3 \/ Doux \/ Purple","options":["A3","Doux","Purple"],"price":1350,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","featured_media":{"alt":null,"id":67602191057271,"position":1,"preview_image":{"aspect_ratio":0.75,"height":2268,"width":1701,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/02-planner.jpg?v=1763717554"}},"requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56821940781431,"title":"A3 \/ Doux \/ Pink","option1":"A3","option2":"Doux","option3":"Pink","sku":null,"requires_shipping":true,"taxable":true,"featured_image":{"id":82281617752439,"product_id":15252593115511,"position":5,"created_at":"2025-11-21T04:32:31-05:00","updated_at":"2025-11-21T04:32:34-05:00","alt":null,"width":1856,"height":2464,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/02-planner-hover-04.jpg?v=1763717554","variant_ids":[56821940388215,56821940420983,56821940486519,56821940519287,56821940584823,56821940617591,56821940683127,56821940715895,56821940781431,56821940814199,56821940879735,56821940912503]},"available":true,"name":"Planificateur de mise en page hebdomadaire - A3 \/ Doux \/ Pink","public_title":"A3 \/ Doux \/ Pink","options":["A3","Doux","Pink"],"price":1350,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","featured_media":{"alt":null,"id":67602191024503,"position":5,"preview_image":{"aspect_ratio":0.753,"height":2464,"width":1856,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/02-planner-hover-04.jpg?v=1763717554"}},"requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56821940814199,"title":"A3 \/ Doux \/ Green","option1":"A3","option2":"Doux","option3":"Green","sku":null,"requires_shipping":true,"taxable":true,"featured_image":{"id":82281617752439,"product_id":15252593115511,"position":5,"created_at":"2025-11-21T04:32:31-05:00","updated_at":"2025-11-21T04:32:34-05:00","alt":null,"width":1856,"height":2464,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/02-planner-hover-04.jpg?v=1763717554","variant_ids":[56821940388215,56821940420983,56821940486519,56821940519287,56821940584823,56821940617591,56821940683127,56821940715895,56821940781431,56821940814199,56821940879735,56821940912503]},"available":true,"name":"Planificateur de mise en page hebdomadaire - A3 \/ Doux \/ Green","public_title":"A3 \/ Doux \/ Green","options":["A3","Doux","Green"],"price":1350,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","featured_media":{"alt":null,"id":67602191024503,"position":5,"preview_image":{"aspect_ratio":0.753,"height":2464,"width":1856,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/02-planner-hover-04.jpg?v=1763717554"}},"requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56821940846967,"title":"A3 \/ Hard \/ Purple","option1":"A3","option2":"Hard","option3":"Purple","sku":null,"requires_shipping":true,"taxable":true,"featured_image":{"id":82281617785207,"product_id":15252593115511,"position":1,"created_at":"2025-11-21T04:32:31-05:00","updated_at":"2025-11-21T04:32:34-05:00","alt":null,"width":1701,"height":2268,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/02-planner.jpg?v=1763717554","variant_ids":[56821940355447,56821940453751,56821940552055,56821940650359,56821940748663,56821940846967]},"available":true,"name":"Planificateur de mise en page hebdomadaire - A3 \/ Hard \/ Purple","public_title":"A3 \/ Hard \/ Purple","options":["A3","Hard","Purple"],"price":1350,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","featured_media":{"alt":null,"id":67602191057271,"position":1,"preview_image":{"aspect_ratio":0.75,"height":2268,"width":1701,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/02-planner.jpg?v=1763717554"}},"requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56821940879735,"title":"A3 \/ Hard \/ Pink","option1":"A3","option2":"Hard","option3":"Pink","sku":null,"requires_shipping":true,"taxable":true,"featured_image":{"id":82281617752439,"product_id":15252593115511,"position":5,"created_at":"2025-11-21T04:32:31-05:00","updated_at":"2025-11-21T04:32:34-05:00","alt":null,"width":1856,"height":2464,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/02-planner-hover-04.jpg?v=1763717554","variant_ids":[56821940388215,56821940420983,56821940486519,56821940519287,56821940584823,56821940617591,56821940683127,56821940715895,56821940781431,56821940814199,56821940879735,56821940912503]},"available":true,"name":"Planificateur de mise en page hebdomadaire - A3 \/ Hard \/ Pink","public_title":"A3 \/ Hard \/ Pink","options":["A3","Hard","Pink"],"price":1350,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","featured_media":{"alt":null,"id":67602191024503,"position":5,"preview_image":{"aspect_ratio":0.753,"height":2464,"width":1856,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/02-planner-hover-04.jpg?v=1763717554"}},"requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56821940912503,"title":"A3 \/ Hard \/ Green","option1":"A3","option2":"Hard","option3":"Green","sku":null,"requires_shipping":true,"taxable":true,"featured_image":{"id":82281617752439,"product_id":15252593115511,"position":5,"created_at":"2025-11-21T04:32:31-05:00","updated_at":"2025-11-21T04:32:34-05:00","alt":null,"width":1856,"height":2464,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/02-planner-hover-04.jpg?v=1763717554","variant_ids":[56821940388215,56821940420983,56821940486519,56821940519287,56821940584823,56821940617591,56821940683127,56821940715895,56821940781431,56821940814199,56821940879735,56821940912503]},"available":true,"name":"Planificateur de mise en page hebdomadaire - A3 \/ Hard \/ Green","public_title":"A3 \/ Hard \/ Green","options":["A3","Hard","Green"],"price":1350,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","featured_media":{"alt":null,"id":67602191024503,"position":5,"preview_image":{"aspect_ratio":0.753,"height":2464,"width":1856,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/02-planner-hover-04.jpg?v=1763717554"}},"requires_selling_plan":false,"selling_plan_allocations":[]}]
+    </script>
+    <script type="application/json" data-product-card-featured-media="">
+      {"alt":null,"id":67602191057271,"position":1,"preview_image":{"aspect_ratio":0.75,"height":2268,"width":1701,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/02-planner.jpg?v=1763717554"},"aspect_ratio":0.75,"height":2268,"media_type":"image","src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/02-planner.jpg?v=1763717554","width":1701}
+    </script>
+    <span class="hidden" data-product-card-options="" data-product-title="Planificateur de mise en page hebdomadaire" data-product-columns="4" data-product-columns-mobile="2" data-product-ratio="0.76" data-product-fit="cover" data-product-has-price-varies="false"></span><a href="/fr/products/weekly-layout-planner?pr_prod_strat=collection_fallback&amp;pr_rec_id=71a3dd27f&amp;pr_rec_pid=15252593115511&amp;pr_ref_pid=15252589969783&amp;pr_seq=uniform" class="product-card__link-overlay focus-inset" aria-label="Planificateur de mise en page hebdomadaire Lien vers le produit"></a></product-card>
+
+              </div></div>
+        <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div></product-recommendations>
+</div>
+
+
+</section>
+```

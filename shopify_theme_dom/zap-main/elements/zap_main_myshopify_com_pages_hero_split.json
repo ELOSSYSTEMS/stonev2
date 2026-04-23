@@ -1,0 +1,74 @@
+{
+  "pageUrl": "https://zap-main.myshopify.com/pages/hero-split",
+  "pageTitle": "Hero split",
+  "pageSlug": "zap_main_myshopify_com_pages_hero_split",
+  "sections": [
+    {
+      "refId": "zap_main_myshopify_com_pages_hero_split__section_01",
+      "index": 1,
+      "selectorHint": "#shopify-section-template--26224001155391__main",
+      "typeGuess": "content-section",
+      "patternTags": [
+        "top-of-page"
+      ],
+      "headingSample": [
+        "Hero split"
+      ],
+      "textSample": ".section-template--26224001155391__main-padding { padding-top: 4rem; padding-bottom: 0; } @media screen and (min-width: 750px) { .section-template--26224001155391__main-padding { padding-top: 5rem; padding-bottom: 0; } } @media screen and (min-width: 1360px) { .section-template--",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_pages_hero_split/zap_main_myshopify_com_pages_hero_split__section_01.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/pages/zap_main_myshopify_com_pages_hero_split.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/pages/zap_main_myshopify_com_pages_hero_split.json"
+    },
+    {
+      "refId": "zap_main_myshopify_com_pages_hero_split__section_02",
+      "index": 2,
+      "selectorHint": "#shopify-section-template--26224001155391__hero_split_KJ6Pmk",
+      "typeGuess": "editorial-media",
+      "patternTags": [
+        "category-navigation",
+        "editorial-media"
+      ],
+      "headingSample": [
+        "Sip your way to a healthier day"
+      ],
+      "textSample": ".section-template--26224001155391__hero_split_KJ6Pmk-padding { padding-top: 5rem; padding-bottom: 5rem; } @media screen and (min-width: 750px) { .section-template--26224001155391__hero_split_KJ6Pmk-padding { padding-top: 7.2rem; padding-bottom: 7.2rem; } } @media screen and (min-",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_pages_hero_split/zap_main_myshopify_com_pages_hero_split__section_02.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/pages/zap_main_myshopify_com_pages_hero_split.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/pages/zap_main_myshopify_com_pages_hero_split.json"
+    },
+    {
+      "refId": "zap_main_myshopify_com_pages_hero_split__section_03",
+      "index": 3,
+      "selectorHint": "#shopify-section-template--26224001155391__hero_split_wNeGdf",
+      "typeGuess": "editorial-media",
+      "patternTags": [
+        "category-navigation",
+        "editorial-media"
+      ],
+      "headingSample": [
+        "Sip your way to a healthier day"
+      ],
+      "textSample": ".section-template--26224001155391__hero_split_wNeGdf-padding { padding-top: 5rem; padding-bottom: 5rem; } @media screen and (min-width: 750px) { .section-template--26224001155391__hero_split_wNeGdf-padding { padding-top: 7.2rem; padding-bottom: 7.2rem; } } @media screen and (min-",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_pages_hero_split/zap_main_myshopify_com_pages_hero_split__section_03.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/pages/zap_main_myshopify_com_pages_hero_split.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/pages/zap_main_myshopify_com_pages_hero_split.json"
+    },
+    {
+      "refId": "zap_main_myshopify_com_pages_hero_split__section_04",
+      "index": 4,
+      "selectorHint": "#shopify-section-template--26224001155391__hero_split_phL9eV",
+      "typeGuess": "editorial-media",
+      "patternTags": [
+        "category-navigation",
+        "editorial-media"
+      ],
+      "headingSample": [
+        "Sip your way to a healthier day"
+      ],
+      "textSample": ".section-template--26224001155391__hero_split_phL9eV-padding { padding-top: 6.4rem; padding-bottom: 6.4rem; } @media screen and (min-width: 750px) { .section-template--26224001155391__hero_split_phL9eV-padding { padding-top: 8.8rem; padding-bottom: 8.8rem; } } @media screen and (",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_pages_hero_split/zap_main_myshopify_com_pages_hero_split__section_04.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/pages/zap_main_myshopify_com_pages_hero_split.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/pages/zap_main_myshopify_com_pages_hero_split.json"
+    }
+  ]
+}

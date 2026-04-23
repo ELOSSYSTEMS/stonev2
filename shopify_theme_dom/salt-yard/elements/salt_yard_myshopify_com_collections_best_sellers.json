@@ -1,0 +1,34 @@
+{
+  "pageUrl": "https://salt-yard.myshopify.com/collections/best-sellers",
+  "pageTitle": "Best Sellers – Symmetry Theme Salt Yard",
+  "pageSlug": "salt_yard_myshopify_com_collections_best_sellers",
+  "sections": [
+    {
+      "refId": "salt_yard_myshopify_com_collections_best_sellers__section_01",
+      "index": 1,
+      "selectorHint": "div.container.cf",
+      "typeGuess": "hero",
+      "patternTags": [
+        "hero-candidate",
+        "top-of-page",
+        "image-heavy",
+        "slider",
+        "cta-cluster",
+        "product-commerce",
+        "category-navigation",
+        "editorial-media"
+      ],
+      "headingSample": [
+        "Knitwear",
+        "Sweaters & Hoodies",
+        "Accessories",
+        "Shirts",
+        "Best Sellers"
+      ],
+      "textSample": "Knitwear Sweaters & Hoodies Accessories Shirts Previous Next Best Sellers Filter 17 products Sort by Featured FeaturedBest sellingAlphabetically, A-ZAlphabetically, Z-APrice, low to highPrice, high to lowDate, old to newDate, new to old Filter 17 products Sort by Featured Feature",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_collections_best_sellers/salt_yard_myshopify_com_collections_best_sellers__section_01.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/pages/salt_yard_myshopify_com_collections_best_sellers.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/pages/salt_yard_myshopify_com_collections_best_sellers.json"
+    }
+  ]
+}

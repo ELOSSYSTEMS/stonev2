@@ -1,0 +1,78 @@
+# Shopify page scrape
+
+- URL: https://salt-yard.myshopify.com/pages/sizing-chart
+- Title: Sizing chart – Symmetry Theme Salt Yard
+- Body classes: template-page
+ swatch-source-theme swatch-method-variant-images swatch-style-icon_square cc-animate-enabled
+- Custom elements: announcement-bar, cart-drawer, cart-form, countdown-timer, country-selector, main-navigation, main-search, mobile-disclosure, page-header, pop-up, product-block, search-suggestions, shopify-account, shopify-store
+- Headings: Sizing chart | How to measure | Sign up and get 10% off your first order
+
+## 1. (no id)
+
+- Tag: div
+- Classes: container cf
+- Headings: Sizing chart | How to measure
+
+```html
+<div class="container cf">
+
+      <div id="shopify-section-template--26857880158281__main" class="shopify-section page-section-spacing"><div class="container container--reading-width"><div class="page-header">
+      <h1 class="majortitle">Sizing chart</h1>
+    </div><div class="rte cf"><h3 style="text-align: left;">How to measure</h3>
+<meta charset="utf-8">
+<ul>
+<li style="text-align: left;">Measurements should be taken directly on your body</li>
+<li>Measure your waist at the narrowest point.</li>
+<li>Your hip measurement should be measured around the fullest part of your hips.</li>
+</ul>
+<table style="width: 100%;">
+<tbody>
+<tr>
+<th>&nbsp;</th>
+<th style="text-align: center;">XS</th>
+<th style="text-align: center;">S</th>
+<th style="text-align: center;">M</th>
+<th style="text-align: center;">L</th>
+<th style="text-align: center;">XL</th>
+<th style="text-align: center;">XLL</th>
+</tr>
+<tr>
+<th style="text-align: left; border-bottom: 1px solid #e2e2e2;">Chest (cm)</th>
+<td style="text-align: center;">44</td>
+<td style="text-align: center;">46</td>
+<td style="text-align: center;">48</td>
+<td style="text-align: center;">50</td>
+<td style="text-align: center;">52</td>
+<td style="text-align: center;">55</td>
+</tr>
+<tr>
+<th style="text-align: left; border-bottom: 1px solid #e2e2e2;">Body length&nbsp;<span>(cm)</span>
+</th>
+<td style="text-align: center;">58</td>
+<td style="text-align: center;">60</td>
+<td style="text-align: center;">62</td>
+<td style="text-align: center;">64</td>
+<td style="text-align: center;">66</td>
+<td style="text-align: center;">68</td>
+</tr>
+<tr>
+<th style="border-bottom: 1px solid #e2e2e2; text-align: left;">Sleeve length&nbsp;<span>(cm)</span>
+</th>
+<td style="text-align: center;">79</td>
+<td style="text-align: center;">81</td>
+<td style="text-align: center;">83</td>
+<td style="text-align: center;">85</td>
+<td style="text-align: center;">87</td>
+<td style="text-align: center;">89</td>
+</tr>
+</tbody>
+</table></div>
+</div>
+
+
+
+
+</div>
+
+    </div>
+```

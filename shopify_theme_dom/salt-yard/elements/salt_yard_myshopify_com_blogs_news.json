@@ -1,0 +1,25 @@
+{
+  "pageUrl": "https://salt-yard.myshopify.com/blogs/news",
+  "pageTitle": "NEWS – Symmetry Theme Salt Yard",
+  "pageSlug": "salt_yard_myshopify_com_blogs_news",
+  "sections": [
+    {
+      "refId": "salt_yard_myshopify_com_blogs_news__section_01",
+      "index": 1,
+      "selectorHint": "div.container.cf",
+      "typeGuess": "editorial-media",
+      "patternTags": [
+        "top-of-page",
+        "cta-cluster",
+        "editorial-media"
+      ],
+      "headingSample": [
+        "Magazine"
+      ],
+      "textSample": "#section-id-template--26857879896137__1626355707fda76c1a .height--fixed { --image-height: 320px; } @media (min-width: 768px) { #section-id-template--26857879896137__1626355707fda76c1a .height--fixed { --image-height: 400px; } } #section-id-template--26857879896137__1626355707fda7",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_blogs_news/salt_yard_myshopify_com_blogs_news__section_01.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/pages/salt_yard_myshopify_com_blogs_news.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/pages/salt_yard_myshopify_com_blogs_news.json"
+    }
+  ]
+}

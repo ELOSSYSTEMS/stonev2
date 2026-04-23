@@ -1,0 +1,28 @@
+{
+  "pageUrl": "https://salt-yard.myshopify.com/blogs/magazine/true-sustainability-is-quality-that-lasts-a-lifetime",
+  "pageTitle": "True sustainability is quality that lasts a lifetime. – Symmetry Theme Salt Yard",
+  "pageSlug": "salt_yard_myshopify_com_blogs_magazine_true_sustainability_is_quality_that_lasts_a_lifetime",
+  "sections": [
+    {
+      "refId": "salt_yard_myshopify_com_blogs_magazine_true_sustainability_is_quality_that_lasts_a_lifetime__section_01",
+      "index": 1,
+      "selectorHint": "div.container.cf",
+      "typeGuess": "hero",
+      "patternTags": [
+        "hero-candidate",
+        "top-of-page",
+        "image-heavy",
+        "cta-cluster",
+        "card-grid",
+        "editorial-media"
+      ],
+      "headingSample": [
+        "True sustainability is quality that lasts a lifetime."
+      ],
+      "textSample": "True sustainability is quality that lasts a lifetime. When it comes to thinking sustainably across the whole business, we believe that few come close to Unrecorded. More than a mere label, we think that sustainability is a doing word. To be sustainable is to last more than a life",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_blogs_magazine_true_sustainability_is_quality_that_lasts_a_lifetime/salt_yard_myshopify_com_blogs_magazine_true_sustainability_is_quality_that_lasts_a_lifetime__section_01.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/pages/salt_yard_myshopify_com_blogs_magazine_true_sustainability_is_quality_that_lasts_a_lifetime.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/pages/salt_yard_myshopify_com_blogs_magazine_true_sustainability_is_quality_that_lasts_a_lifetime.json"
+    }
+  ]
+}

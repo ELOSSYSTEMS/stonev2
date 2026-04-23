@@ -1,0 +1,34 @@
+{
+  "pageUrl": "https://shift-sketch.myshopify.com/pages/featured-collection",
+  "pageTitle": "Featured collection – Shift Sketch",
+  "pageSlug": "shift_sketch_myshopify_com_pages_featured_collection",
+  "sections": [
+    {
+      "refId": "shift_sketch_myshopify_com_pages_featured_collection__section_01",
+      "index": 1,
+      "selectorHint": "#shopify-section-template--28054213394807__featured_collection_gb69FE",
+      "typeGuess": "hero",
+      "patternTags": [
+        "hero-candidate",
+        "top-of-page",
+        "image-heavy",
+        "cta-cluster",
+        "card-grid",
+        "product-commerce",
+        "category-navigation",
+        "editorial-media"
+      ],
+      "headingSample": [
+        "Sketchbooks are more than just blank pages—they are a creative playground.",
+        "Browse Our Picks",
+        "Compact Writing Pad",
+        "Daily View Calendar",
+        "Essential Notes Pad"
+      ],
+      "textSample": "#shopify-section-template--28054213394807__featured_collection_gb69FE { padding-top: 0; padding-bottom: 6rem; } @media screen and (min-width: 750px) { #shopify-section-template--28054213394807__featured_collection_gb69FE { padding-top: 0; padding-bottom: 8rem; } } @media screen a",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/shift-sketch/elements/shift_sketch_myshopify_com_pages_featured_collection/shift_sketch_myshopify_com_pages_featured_collection__section_01.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/shift-sketch/pages/shift_sketch_myshopify_com_pages_featured_collection.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/shift-sketch/pages/shift_sketch_myshopify_com_pages_featured_collection.json"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "pageUrl": "https://salt-yard.myshopify.com/collections/beanies",
+  "pageTitle": "Beanies – Symmetry Theme Salt Yard",
+  "pageSlug": "salt_yard_myshopify_com_collections_beanies",
+  "sections": [
+    {
+      "refId": "salt_yard_myshopify_com_collections_beanies__section_01",
+      "index": 1,
+      "selectorHint": "div.container.cf",
+      "typeGuess": "hero",
+      "patternTags": [
+        "hero-candidate",
+        "top-of-page",
+        "image-heavy",
+        "slider",
+        "cta-cluster",
+        "product-commerce",
+        "category-navigation",
+        "editorial-media"
+      ],
+      "headingSample": [
+        "Best Sellers",
+        "Accessories",
+        "T-Shirts",
+        "Sale",
+        "Beanies"
+      ],
+      "textSample": "Best Sellers Accessories T-Shirts Sale Previous Next Beanies Filter 6 products Sort by Best selling Best sellingAlphabetically, A-ZAlphabetically, Z-APrice, low to highPrice, high to lowDate, old to newDate, new to old Filter 6 products Sort by Best selling Best sellingAlphabetic",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_collections_beanies/salt_yard_myshopify_com_collections_beanies__section_01.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/pages/salt_yard_myshopify_com_collections_beanies.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/pages/salt_yard_myshopify_com_collections_beanies.json"
+    }
+  ]
+}

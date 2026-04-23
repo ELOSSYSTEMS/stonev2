@@ -1,0 +1,38 @@
+{
+  "pageUrl": "https://dynamic-preview.myshopify.com/pt/pages/data-sharing-opt-out",
+  "pageTitle": "As Suas Escolhas de Privacidade – Dynamic",
+  "pageSlug": "dynamic_preview_myshopify_com_pt_pages_data_sharing_opt_out",
+  "sections": [
+    {
+      "refId": "dynamic_preview_myshopify_com_pt_pages_data_sharing_opt_out__section_01",
+      "index": 1,
+      "selectorHint": "#shopify-section-template--27935320080550__main",
+      "typeGuess": "category-row",
+      "patternTags": [
+        "top-of-page",
+        "cta-cluster",
+        "card-grid",
+        "category-navigation"
+      ],
+      "headingSample": [
+        "As Suas Escolhas de Privacidade"
+      ],
+      "textSample": ".collection_list_wrapper-template--27935320080550__main { padding-top: 0px; padding-bottom: 40px; margin: 0 10px;; } @media screen and (max-width: 640px) { .collection_list_wrapper-template--27935320080550__main { padding-top: 0px; padding-bottom: 20px; } } As Suas Escolhas de Pr",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_pt_pages_data_sharing_opt_out/dynamic_preview_myshopify_com_pt_pages_data_sharing_opt_out__section_01.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/pages/dynamic_preview_myshopify_com_pt_pages_data_sharing_opt_out.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/pages/dynamic_preview_myshopify_com_pt_pages_data_sharing_opt_out.json"
+    },
+    {
+      "refId": "dynamic_preview_myshopify_com_pt_pages_data_sharing_opt_out__section_02",
+      "index": 2,
+      "selectorHint": "#shopify-section-template--27935320080550__main_2",
+      "typeGuess": "content-section",
+      "patternTags": [],
+      "headingSample": [],
+      "textSample": "Conforme descrito na nossa Política de Privacidade, recolhemos informações pessoais das suas interações connosco e com o nosso website, inclusive através de cookies e tecnologias semelhantes. Podemos também partilhar estas informações pessoais com terceiros, incluindo parceiros d",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_pt_pages_data_sharing_opt_out/dynamic_preview_myshopify_com_pt_pages_data_sharing_opt_out__section_02.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/pages/dynamic_preview_myshopify_com_pt_pages_data_sharing_opt_out.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/pages/dynamic_preview_myshopify_com_pt_pages_data_sharing_opt_out.json"
+    }
+  ]
+}

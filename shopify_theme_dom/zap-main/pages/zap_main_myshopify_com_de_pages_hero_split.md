@@ -1,0 +1,554 @@
+# Shopify page scrape
+
+- URL: https://zap-main.myshopify.com/de/pages/hero-split
+- Title: Hero split
+- Body classes: template-page template-page-features-hero-split
+- Custom elements: burger-menu, cart-drawer, cart-drawer-items, cart-note, header-search, localization-form, predictive-search, product-card-small, shop-cart-sync, sticky-header
+- Headings: Honig-Zitronen-Aufguss | Leuchtkasten | Entdeckerbox | Honig-Zitronen-Aufguss | Leuchtkasten | Entdeckerbox | Subscribe to our Newsletter and Get 15% off your first order | Hero split | Sip your way to a healthier day | Sip your way to a healthier day | Sip your way to a healthier day | Über uns | Produkte | Produkte | Kundendienst | Kundendienst | Information | Information
+
+## 1. shopify-section-template--26224001155391__main
+
+- Tag: section
+- Classes: shopify-section page-section
+- Headings: Hero split
+
+```html
+<section id="shopify-section-template--26224001155391__main" class="shopify-section page-section"><link href="//zap-main.myshopify.com/cdn/shop/t/2/assets/section-main-page.css?v=165534704276754180541772782652" rel="stylesheet" type="text/css" media="all">
+<style data-shopify="">.section-template--26224001155391__main-padding {
+
+  padding-top: 4rem;
+
+
+
+  padding-bottom: 0;
+
+}
+
+@media screen and (min-width: 750px) { .section-template--26224001155391__main-padding {
+
+  padding-top: 5rem;
+
+
+
+  padding-bottom: 0;
+
+} }
+
+@media screen and (min-width: 1360px) { .section-template--26224001155391__main-padding {
+
+  padding-top: 8rem;
+
+
+
+  padding-bottom: 0;
+
+} }
+
+</style><div class="section-template--26224001155391__main-padding container page-width--narrow">
+  <div class="page-header">
+    <div class="page-header__inner">
+      <h1 class="main-page-title page-title title--page h2">Hero split</h1>
+    </div>
+  </div>
+  <div class="rte">
+    
+  </div>
+</div>
+
+
+</section>
+```
+
+## 2. shopify-section-template--26224001155391__hero_split_KJ6Pmk
+
+- Tag: section
+- Classes: shopify-section section-hero-split anim-active
+- Headings: Sip your way to a healthier day
+
+```html
+<section id="shopify-section-template--26224001155391__hero_split_KJ6Pmk" class="shopify-section section-hero-split anim-active"><link href="//zap-main.myshopify.com/cdn/shop/t/2/assets/section-hero-split.css?v=19949086702604612281772782647" rel="stylesheet" type="text/css" media="all">
+<script src="//zap-main.myshopify.com/cdn/shop/t/2/assets/hero-split.js?v=8306396723238694191774259998" defer="defer"></script>
+
+<style data-shopify="">
+  .section-template--26224001155391__hero_split_KJ6Pmk-padding {
+
+  padding-top: 5rem;
+
+
+
+  padding-bottom: 5rem;
+
+}
+
+@media screen and (min-width: 750px) { .section-template--26224001155391__hero_split_KJ6Pmk-padding {
+
+  padding-top: 7.2rem;
+
+
+
+  padding-bottom: 7.2rem;
+
+} }
+
+@media screen and (min-width: 1360px) { .section-template--26224001155391__hero_split_KJ6Pmk-padding {
+
+  padding-top: 10rem;
+
+
+
+  padding-bottom: 10rem;
+
+} }
+
+  #shopify-section-template--26224001155391__hero_split_KJ6Pmk {
+
+  padding-top: 0;
+
+
+
+  padding-bottom: 0;
+
+}
+
+@media screen and (min-width: 750px) { #shopify-section-template--26224001155391__hero_split_KJ6Pmk {
+
+  padding-top: 0;
+
+
+
+  padding-bottom: 0;
+
+} }
+
+@media screen and (min-width: 1360px) { #shopify-section-template--26224001155391__hero_split_KJ6Pmk {
+
+  padding-top: 0;
+
+
+
+  padding-bottom: 0;
+
+
+} }
+
+</style>
+
+
+
+<style data-shopify="">
+  .section-template--26224001155391__hero_split_KJ6Pmk .hero-split__media::before {
+    content: "";
+    display: block;
+    width: 0;
+    padding-bottom: 125.0%;
+  }
+
+  @media screen and (min-width: 1100px) {
+    .section-template--26224001155391__hero_split_KJ6Pmk .hero-split__media::before {
+      content: "";
+      display: block;
+      width: 0;
+      padding-bottom: 125.0%;
+    }
+  }
+</style>
+
+
+
+<div class="section-template--26224001155391__hero_split_KJ6Pmk hero-split hero-split--border-top color-background-1 background section-template--26224001155391__hero_split_KJ6Pmk-padding">
+  <div class="container">
+    <div class="hero-split__container">
+      <div class="hero-split-content hero-split-content--top-left" data-enable-header-animation="" style="--heading-delay: 0.1s; --description-delay: 0.8s; --button-delay: 0.9s;"><div class="hero-split__label hero-split__label--pill">
+            <div class="hero-split__label-icons">
+              <div class="hero-split__label-icon-wrapper">
+                    <svg class="icon icon-star" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M7.30783 1.14622C7.52458 0.474163 8.47542 0.474161 8.69217 1.14622L10.0707 5.42053C10.1677 5.72151 10.4482 5.92527 10.7644 5.92458L15.2555 5.91476C15.9616 5.91322 16.2555 6.81753 15.6833 7.23134L12.0441 9.86319C11.7879 10.0485 11.6808 10.3782 11.7792 10.6788L13.1763 14.947C13.396 15.6181 12.6267 16.177 12.0564 15.7607L8.42877 13.113C8.17332 12.9265 7.82668 12.9265 7.57123 13.113L3.94364 15.7607C3.37327 16.177 2.60401 15.6181 2.82369 14.947L4.22085 10.6788C4.31923 10.3782 4.21211 10.0485 3.95586 9.86319L0.316723 7.23134C-0.255467 6.81753 0.0383596 5.91322 0.744504 5.91476L5.23559 5.92458C5.55183 5.92527 5.83228 5.72151 5.92935 5.42053L7.30783 1.14622Z" fill="currentColor"></path>
+</svg>
+
+</div><div class="hero-split__label-icon-wrapper">
+                    <svg class="icon icon-star" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M7.30783 1.14622C7.52458 0.474163 8.47542 0.474161 8.69217 1.14622L10.0707 5.42053C10.1677 5.72151 10.4482 5.92527 10.7644 5.92458L15.2555 5.91476C15.9616 5.91322 16.2555 6.81753 15.6833 7.23134L12.0441 9.86319C11.7879 10.0485 11.6808 10.3782 11.7792 10.6788L13.1763 14.947C13.396 15.6181 12.6267 16.177 12.0564 15.7607L8.42877 13.113C8.17332 12.9265 7.82668 12.9265 7.57123 13.113L3.94364 15.7607C3.37327 16.177 2.60401 15.6181 2.82369 14.947L4.22085 10.6788C4.31923 10.3782 4.21211 10.0485 3.95586 9.86319L0.316723 7.23134C-0.255467 6.81753 0.0383596 5.91322 0.744504 5.91476L5.23559 5.92458C5.55183 5.92527 5.83228 5.72151 5.92935 5.42053L7.30783 1.14622Z" fill="currentColor"></path>
+</svg>
+
+</div><div class="hero-split__label-icon-wrapper">
+                    <svg class="icon icon-star" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M7.30783 1.14622C7.52458 0.474163 8.47542 0.474161 8.69217 1.14622L10.0707 5.42053C10.1677 5.72151 10.4482 5.92527 10.7644 5.92458L15.2555 5.91476C15.9616 5.91322 16.2555 6.81753 15.6833 7.23134L12.0441 9.86319C11.7879 10.0485 11.6808 10.3782 11.7792 10.6788L13.1763 14.947C13.396 15.6181 12.6267 16.177 12.0564 15.7607L8.42877 13.113C8.17332 12.9265 7.82668 12.9265 7.57123 13.113L3.94364 15.7607C3.37327 16.177 2.60401 15.6181 2.82369 14.947L4.22085 10.6788C4.31923 10.3782 4.21211 10.0485 3.95586 9.86319L0.316723 7.23134C-0.255467 6.81753 0.0383596 5.91322 0.744504 5.91476L5.23559 5.92458C5.55183 5.92527 5.83228 5.72151 5.92935 5.42053L7.30783 1.14622Z" fill="currentColor"></path>
+</svg>
+
+</div><div class="hero-split__label-icon-wrapper">
+                    <svg class="icon icon-star" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M7.30783 1.14622C7.52458 0.474163 8.47542 0.474161 8.69217 1.14622L10.0707 5.42053C10.1677 5.72151 10.4482 5.92527 10.7644 5.92458L15.2555 5.91476C15.9616 5.91322 16.2555 6.81753 15.6833 7.23134L12.0441 9.86319C11.7879 10.0485 11.6808 10.3782 11.7792 10.6788L13.1763 14.947C13.396 15.6181 12.6267 16.177 12.0564 15.7607L8.42877 13.113C8.17332 12.9265 7.82668 12.9265 7.57123 13.113L3.94364 15.7607C3.37327 16.177 2.60401 15.6181 2.82369 14.947L4.22085 10.6788C4.31923 10.3782 4.21211 10.0485 3.95586 9.86319L0.316723 7.23134C-0.255467 6.81753 0.0383596 5.91322 0.744504 5.91476L5.23559 5.92458C5.55183 5.92527 5.83228 5.72151 5.92935 5.42053L7.30783 1.14622Z" fill="currentColor"></path>
+</svg>
+
+</div><div class="hero-split__label-icon-wrapper">
+                    <svg class="icon icon-star" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M7.30783 1.14622C7.52458 0.474163 8.47542 0.474161 8.69217 1.14622L10.0707 5.42053C10.1677 5.72151 10.4482 5.92527 10.7644 5.92458L15.2555 5.91476C15.9616 5.91322 16.2555 6.81753 15.6833 7.23134L12.0441 9.86319C11.7879 10.0485 11.6808 10.3782 11.7792 10.6788L13.1763 14.947C13.396 15.6181 12.6267 16.177 12.0564 15.7607L8.42877 13.113C8.17332 12.9265 7.82668 12.9265 7.57123 13.113L3.94364 15.7607C3.37327 16.177 2.60401 15.6181 2.82369 14.947L4.22085 10.6788C4.31923 10.3782 4.21211 10.0485 3.95586 9.86319L0.316723 7.23134C-0.255467 6.81753 0.0383596 5.91322 0.744504 5.91476L5.23559 5.92458C5.55183 5.92527 5.83228 5.72151 5.92935 5.42053L7.30783 1.14622Z" fill="currentColor"></path>
+</svg>
+
+</div>
+            </div><span class="hero-split__label-text body-small">1000s of Happy Customers!</span></div><h2 id="hero-text" class="hero-split-heading h2"><span class="word" style="--word-index: 0">Sip</span> <span class="word" style="--word-index: 1">your</span> <span class="word" style="--word-index: 2">way</span> <span class="word" style="--word-index: 3">to</span> <span class="word" style="--word-index: 4">a</span> <span class="word" style="--word-index: 5">healthier</span> <span class="word" style="--word-index: 6">day</span></h2><p class="hero-split-description body-normal">Natural ingredients for natural glow. Wellness drinks to refresh your morning and soothe your evening.</p><div class="hero-split-buttons">
+            
+
+
+
+
+  <a href="/de/collections" aria-label="Shop Now" class="button button--primary hero-split__button">
+    <div class="button__content">
+      <span class="button__label" data-label="Shop Now">Shop Now</span>
+    </div>
+    
+      <span class="animated-button-circle"></span>
+    
+  </a>
+
+
+          </div></div>
+
+      
+
+      <div class="hero-split__media">
+        
+          
+
+          
+
+          <div class="hero-split-rotating-text color-background-3">
+            <svg viewBox="0 0 132 132">
+              <defs>
+              <path id="circlePath" d="
+                  M 66,66
+                  m -38, 0
+                  a 38,38 0 1,1 76,0
+                  a 38,38 0 1,1 -76,0" transform="rotate(180,66,66)"></path>
+              </defs>
+              <text>
+                  <textPath xlink:href="#circlePath" textLength="216.0">
+                      HERE FOR A GOOD TIME
+                  </textPath>
+              </text>
+            </svg>
+          </div>
+        
+
+<img src="//zap-main.myshopify.com/cdn/shop/files/05-promo-01.webp?v=1765556937&amp;width=2560" alt="" srcset="//zap-main.myshopify.com/cdn/shop/files/05-promo-01.webp?v=1765556937&amp;width=550 550w, //zap-main.myshopify.com/cdn/shop/files/05-promo-01.webp?v=1765556937&amp;width=720 720w, //zap-main.myshopify.com/cdn/shop/files/05-promo-01.webp?v=1765556937&amp;width=990 990w, //zap-main.myshopify.com/cdn/shop/files/05-promo-01.webp?v=1765556937&amp;width=1200 1200w, //zap-main.myshopify.com/cdn/shop/files/05-promo-01.webp?v=1765556937&amp;width=1500 1500w, //zap-main.myshopify.com/cdn/shop/files/05-promo-01.webp?v=1765556937&amp;width=1800 1800w, //zap-main.myshopify.com/cdn/shop/files/05-promo-01.webp?v=1765556937&amp;width=2200 2200w" width="2560" height="3864" loading="lazy" class="hero-split__image" sizes="(min-width: 1440px) calc(1 * 1280px), (min-width: 990px) calc(1 * 100vw), (min-width: 576px) calc(1 * 100vw), calc(1 * 100vw)" style="object-position: 50.0% 50.0%;" fetchpriority="auto">
+</div>
+    </div>
+  </div>
+</div>
+
+
+</section>
+```
+
+## 3. shopify-section-template--26224001155391__hero_split_wNeGdf
+
+- Tag: section
+- Classes: shopify-section section-hero-split anim-active
+- Headings: Sip your way to a healthier day
+
+```html
+<section id="shopify-section-template--26224001155391__hero_split_wNeGdf" class="shopify-section section-hero-split anim-active"><link href="//zap-main.myshopify.com/cdn/shop/t/2/assets/section-hero-split.css?v=19949086702604612281772782647" rel="stylesheet" type="text/css" media="all">
+<script src="//zap-main.myshopify.com/cdn/shop/t/2/assets/hero-split.js?v=8306396723238694191774259998" defer="defer"></script>
+
+<style data-shopify="">
+  .section-template--26224001155391__hero_split_wNeGdf-padding {
+
+  padding-top: 5rem;
+
+
+
+  padding-bottom: 5rem;
+
+}
+
+@media screen and (min-width: 750px) { .section-template--26224001155391__hero_split_wNeGdf-padding {
+
+  padding-top: 7.2rem;
+
+
+
+  padding-bottom: 7.2rem;
+
+} }
+
+@media screen and (min-width: 1360px) { .section-template--26224001155391__hero_split_wNeGdf-padding {
+
+  padding-top: 10rem;
+
+
+
+  padding-bottom: 10rem;
+
+} }
+
+  #shopify-section-template--26224001155391__hero_split_wNeGdf {
+
+  padding-top: 0;
+
+
+
+  padding-bottom: 0;
+
+}
+
+@media screen and (min-width: 750px) { #shopify-section-template--26224001155391__hero_split_wNeGdf {
+
+  padding-top: 0;
+
+
+
+  padding-bottom: 0;
+
+} }
+
+@media screen and (min-width: 1360px) { #shopify-section-template--26224001155391__hero_split_wNeGdf {
+
+  padding-top: 0;
+
+
+
+  padding-bottom: 0;
+
+
+} }
+
+</style>
+
+
+
+<style data-shopify="">
+  .section-template--26224001155391__hero_split_wNeGdf .hero-split__media::before {
+    content: "";
+    display: block;
+    width: 0;
+    padding-bottom: 133.33%;
+  }
+
+  @media screen and (min-width: 1100px) {
+    .section-template--26224001155391__hero_split_wNeGdf .hero-split__media::before {
+      content: "";
+      display: block;
+      width: 0;
+      padding-bottom: 133.33%;
+    }
+  }
+</style>
+
+
+
+<div class="section-template--26224001155391__hero_split_wNeGdf hero-split hero-split--border-top color-background-3 background section-template--26224001155391__hero_split_wNeGdf-padding">
+  <div class="container">
+    <div class="hero-split__container">
+      <div class="hero-split-content hero-split-content--center" data-enable-header-animation="" style="--heading-delay: 0.1s; --description-delay: 0.8s; --button-delay: 0.9s;"><div class="hero-split__label hero-split__label--pill">
+            <div class="hero-split__label-icons">
+              <div class="hero-split__label-icon-wrapper">
+                    <svg class="icon icon-star" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M7.30783 1.14622C7.52458 0.474163 8.47542 0.474161 8.69217 1.14622L10.0707 5.42053C10.1677 5.72151 10.4482 5.92527 10.7644 5.92458L15.2555 5.91476C15.9616 5.91322 16.2555 6.81753 15.6833 7.23134L12.0441 9.86319C11.7879 10.0485 11.6808 10.3782 11.7792 10.6788L13.1763 14.947C13.396 15.6181 12.6267 16.177 12.0564 15.7607L8.42877 13.113C8.17332 12.9265 7.82668 12.9265 7.57123 13.113L3.94364 15.7607C3.37327 16.177 2.60401 15.6181 2.82369 14.947L4.22085 10.6788C4.31923 10.3782 4.21211 10.0485 3.95586 9.86319L0.316723 7.23134C-0.255467 6.81753 0.0383596 5.91322 0.744504 5.91476L5.23559 5.92458C5.55183 5.92527 5.83228 5.72151 5.92935 5.42053L7.30783 1.14622Z" fill="currentColor"></path>
+</svg>
+
+</div><div class="hero-split__label-icon-wrapper">
+                    <svg class="icon icon-star" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M7.30783 1.14622C7.52458 0.474163 8.47542 0.474161 8.69217 1.14622L10.0707 5.42053C10.1677 5.72151 10.4482 5.92527 10.7644 5.92458L15.2555 5.91476C15.9616 5.91322 16.2555 6.81753 15.6833 7.23134L12.0441 9.86319C11.7879 10.0485 11.6808 10.3782 11.7792 10.6788L13.1763 14.947C13.396 15.6181 12.6267 16.177 12.0564 15.7607L8.42877 13.113C8.17332 12.9265 7.82668 12.9265 7.57123 13.113L3.94364 15.7607C3.37327 16.177 2.60401 15.6181 2.82369 14.947L4.22085 10.6788C4.31923 10.3782 4.21211 10.0485 3.95586 9.86319L0.316723 7.23134C-0.255467 6.81753 0.0383596 5.91322 0.744504 5.91476L5.23559 5.92458C5.55183 5.92527 5.83228 5.72151 5.92935 5.42053L7.30783 1.14622Z" fill="currentColor"></path>
+</svg>
+
+</div><div class="hero-split__label-icon-wrapper">
+                    <svg class="icon icon-star" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M7.30783 1.14622C7.52458 0.474163 8.47542 0.474161 8.69217 1.14622L10.0707 5.42053C10.1677 5.72151 10.4482 5.92527 10.7644 5.92458L15.2555 5.91476C15.9616 5.91322 16.2555 6.81753 15.6833 7.23134L12.0441 9.86319C11.7879 10.0485 11.6808 10.3782 11.7792 10.6788L13.1763 14.947C13.396 15.6181 12.6267 16.177 12.0564 15.7607L8.42877 13.113C8.17332 12.9265 7.82668 12.9265 7.57123 13.113L3.94364 15.7607C3.37327 16.177 2.60401 15.6181 2.82369 14.947L4.22085 10.6788C4.31923 10.3782 4.21211 10.0485 3.95586 9.86319L0.316723 7.23134C-0.255467 6.81753 0.0383596 5.91322 0.744504 5.91476L5.23559 5.92458C5.55183 5.92527 5.83228 5.72151 5.92935 5.42053L7.30783 1.14622Z" fill="currentColor"></path>
+</svg>
+
+</div><div class="hero-split__label-icon-wrapper">
+                    <svg class="icon icon-star" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M7.30783 1.14622C7.52458 0.474163 8.47542 0.474161 8.69217 1.14622L10.0707 5.42053C10.1677 5.72151 10.4482 5.92527 10.7644 5.92458L15.2555 5.91476C15.9616 5.91322 16.2555 6.81753 15.6833 7.23134L12.0441 9.86319C11.7879 10.0485 11.6808 10.3782 11.7792 10.6788L13.1763 14.947C13.396 15.6181 12.6267 16.177 12.0564 15.7607L8.42877 13.113C8.17332 12.9265 7.82668 12.9265 7.57123 13.113L3.94364 15.7607C3.37327 16.177 2.60401 15.6181 2.82369 14.947L4.22085 10.6788C4.31923 10.3782 4.21211 10.0485 3.95586 9.86319L0.316723 7.23134C-0.255467 6.81753 0.0383596 5.91322 0.744504 5.91476L5.23559 5.92458C5.55183 5.92527 5.83228 5.72151 5.92935 5.42053L7.30783 1.14622Z" fill="currentColor"></path>
+</svg>
+
+</div><div class="hero-split__label-icon-wrapper">
+                    <svg class="icon icon-star" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M7.30783 1.14622C7.52458 0.474163 8.47542 0.474161 8.69217 1.14622L10.0707 5.42053C10.1677 5.72151 10.4482 5.92527 10.7644 5.92458L15.2555 5.91476C15.9616 5.91322 16.2555 6.81753 15.6833 7.23134L12.0441 9.86319C11.7879 10.0485 11.6808 10.3782 11.7792 10.6788L13.1763 14.947C13.396 15.6181 12.6267 16.177 12.0564 15.7607L8.42877 13.113C8.17332 12.9265 7.82668 12.9265 7.57123 13.113L3.94364 15.7607C3.37327 16.177 2.60401 15.6181 2.82369 14.947L4.22085 10.6788C4.31923 10.3782 4.21211 10.0485 3.95586 9.86319L0.316723 7.23134C-0.255467 6.81753 0.0383596 5.91322 0.744504 5.91476L5.23559 5.92458C5.55183 5.92527 5.83228 5.72151 5.92935 5.42053L7.30783 1.14622Z" fill="currentColor"></path>
+</svg>
+
+</div>
+            </div><span class="hero-split__label-text body-small">1000s of Happy Customers!</span></div><h2 id="hero-text" class="hero-split-heading h2"><span class="word" style="--word-index: 0">Sip</span> <span class="word" style="--word-index: 1">your</span> <span class="word" style="--word-index: 2">way</span> <span class="word" style="--word-index: 3">to</span> <span class="word" style="--word-index: 4">a</span> <span class="word" style="--word-index: 5">healthier</span> <span class="word" style="--word-index: 6">day</span></h2><p class="hero-split-description body-normal">Natural ingredients for natural glow. Wellness drinks to refresh your morning and soothe your evening.</p><div class="hero-split-buttons">
+            
+
+
+
+
+  <a href="/de/collections" aria-label="Shop Now" class="button button--primary hero-split__button">
+    <div class="button__content">
+      <span class="button__label" data-label="Shop Now">Shop Now</span>
+    </div>
+    
+      <span class="animated-button-circle"></span>
+    
+  </a>
+
+
+          </div></div>
+
+      
+
+      <div class="hero-split__media">
+        
+          
+
+          
+
+          <div class="hero-split-rotating-text color-background-4">
+            <svg viewBox="0 0 132 132">
+              <defs>
+              <path id="circlePath" d="
+                  M 66,66
+                  m -38, 0
+                  a 38,38 0 1,1 76,0
+                  a 38,38 0 1,1 -76,0" transform="rotate(180,66,66)"></path>
+              </defs>
+              <text>
+                  <textPath xlink:href="#circlePath" textLength="216.0">
+                      HERE FOR A GOOD TIME
+                  </textPath>
+              </text>
+            </svg>
+          </div>
+        
+
+<img src="//zap-main.myshopify.com/cdn/shop/files/01-drinks-hover-02_f67b8cb9-b26e-42cb-a018-13374e2bf19f.jpg?v=1765819927&amp;width=3000" alt="" srcset="//zap-main.myshopify.com/cdn/shop/files/01-drinks-hover-02_f67b8cb9-b26e-42cb-a018-13374e2bf19f.jpg?v=1765819927&amp;width=550 550w, //zap-main.myshopify.com/cdn/shop/files/01-drinks-hover-02_f67b8cb9-b26e-42cb-a018-13374e2bf19f.jpg?v=1765819927&amp;width=720 720w, //zap-main.myshopify.com/cdn/shop/files/01-drinks-hover-02_f67b8cb9-b26e-42cb-a018-13374e2bf19f.jpg?v=1765819927&amp;width=990 990w, //zap-main.myshopify.com/cdn/shop/files/01-drinks-hover-02_f67b8cb9-b26e-42cb-a018-13374e2bf19f.jpg?v=1765819927&amp;width=1200 1200w, //zap-main.myshopify.com/cdn/shop/files/01-drinks-hover-02_f67b8cb9-b26e-42cb-a018-13374e2bf19f.jpg?v=1765819927&amp;width=1500 1500w, //zap-main.myshopify.com/cdn/shop/files/01-drinks-hover-02_f67b8cb9-b26e-42cb-a018-13374e2bf19f.jpg?v=1765819927&amp;width=1800 1800w, //zap-main.myshopify.com/cdn/shop/files/01-drinks-hover-02_f67b8cb9-b26e-42cb-a018-13374e2bf19f.jpg?v=1765819927&amp;width=2200 2200w, //zap-main.myshopify.com/cdn/shop/files/01-drinks-hover-02_f67b8cb9-b26e-42cb-a018-13374e2bf19f.jpg?v=1765819927&amp;width=2600 2600w, //zap-main.myshopify.com/cdn/shop/files/01-drinks-hover-02_f67b8cb9-b26e-42cb-a018-13374e2bf19f.jpg?v=1765819927&amp;width=3000 3000w" width="3000" height="4000" loading="lazy" class="hero-split__image" sizes="(min-width: 1440px) calc(1 * 1280px), (min-width: 990px) calc(1 * 100vw), (min-width: 576px) calc(1 * 100vw), calc(1 * 100vw)" style="object-position: 50.0% 50.0%;" fetchpriority="auto">
+</div>
+    </div>
+  </div>
+</div>
+
+
+</section>
+```
+
+## 4. shopify-section-template--26224001155391__hero_split_phL9eV
+
+- Tag: section
+- Classes: shopify-section section-hero-split anim-active
+- Headings: Sip your way to a healthier day
+
+```html
+<section id="shopify-section-template--26224001155391__hero_split_phL9eV" class="shopify-section section-hero-split anim-active"><link href="//zap-main.myshopify.com/cdn/shop/t/2/assets/section-hero-split.css?v=19949086702604612281772782647" rel="stylesheet" type="text/css" media="all">
+<script src="//zap-main.myshopify.com/cdn/shop/t/2/assets/hero-split.js?v=8306396723238694191774259998" defer="defer"></script>
+
+<style data-shopify="">
+  .section-template--26224001155391__hero_split_phL9eV-padding {
+
+  padding-top: 6.4rem;
+
+
+
+  padding-bottom: 6.4rem;
+
+}
+
+@media screen and (min-width: 750px) { .section-template--26224001155391__hero_split_phL9eV-padding {
+
+  padding-top: 8.8rem;
+
+
+
+  padding-bottom: 8.8rem;
+
+} }
+
+@media screen and (min-width: 1360px) { .section-template--26224001155391__hero_split_phL9eV-padding {
+
+  padding-top: 15rem;
+
+
+
+  padding-bottom: 15rem;
+
+} }
+
+  #shopify-section-template--26224001155391__hero_split_phL9eV {
+
+  padding-top: 0;
+
+
+
+  padding-bottom: 0;
+
+}
+
+@media screen and (min-width: 750px) { #shopify-section-template--26224001155391__hero_split_phL9eV {
+
+  padding-top: 0;
+
+
+
+  padding-bottom: 0;
+
+} }
+
+@media screen and (min-width: 1360px) { #shopify-section-template--26224001155391__hero_split_phL9eV {
+
+  padding-top: 0;
+
+
+
+  padding-bottom: 0;
+
+
+} }
+
+</style>
+
+
+
+<style data-shopify="">
+  .section-template--26224001155391__hero_split_phL9eV .hero-split__media::before {
+    content: "";
+    display: block;
+    width: 0;
+    padding-bottom: 110%;
+  }
+
+  @media screen and (min-width: 1100px) {
+    .section-template--26224001155391__hero_split_phL9eV .hero-split__media::before {
+      content: "";
+      display: block;
+      width: 0;
+      padding-bottom: 134.55%;
+    }
+  }
+</style>
+
+
+
+<div class="section-template--26224001155391__hero_split_phL9eV hero-split hero-split--border-top hero-split--border-bottom color-background-1 background section-template--26224001155391__hero_split_phL9eV-padding">
+  <div class="container">
+    <div class="hero-split__container">
+      <div class="hero-split-content hero-split-content--center" data-enable-header-animation="" style="--heading-delay: 0s; --description-delay: 0.7s; --button-delay: 0.8s;"><h2 id="hero-text" class="hero-split-heading h3"><span class="word" style="--word-index: 0">Sip</span> <span class="word" style="--word-index: 1">your</span> <span class="word" style="--word-index: 2">way</span> <span class="word" style="--word-index: 3">to</span> <span class="word" style="--word-index: 4">a</span> <span class="word" style="--word-index: 5">healthier</span> <span class="word" style="--word-index: 6">day</span></h2><p class="hero-split-description body-normal">Natural ingredients for natural glow. Wellness drinks to refresh your morning and soothe your evening.</p><div class="hero-split-buttons">
+            
+
+
+
+
+  <a href="/de/collections" aria-label="Shop Now" class="button button--primary hero-split__button">
+    <div class="button__content">
+      <span class="button__label" data-label="Shop Now">Shop Now</span>
+    </div>
+    
+      <span class="animated-button-circle"></span>
+    
+  </a>
+
+
+          </div></div>
+
+      
+
+      <div class="hero-split__media">
+        
+
+<img src="//zap-main.myshopify.com/cdn/shop/files/01-sets-hover-03_1d89652f-a2a5-475a-9ca7-ce68db792b08.jpg?v=1765820257&amp;width=1760" alt="" srcset="//zap-main.myshopify.com/cdn/shop/files/01-sets-hover-03_1d89652f-a2a5-475a-9ca7-ce68db792b08.jpg?v=1765820257&amp;width=550 550w, //zap-main.myshopify.com/cdn/shop/files/01-sets-hover-03_1d89652f-a2a5-475a-9ca7-ce68db792b08.jpg?v=1765820257&amp;width=720 720w, //zap-main.myshopify.com/cdn/shop/files/01-sets-hover-03_1d89652f-a2a5-475a-9ca7-ce68db792b08.jpg?v=1765820257&amp;width=990 990w, //zap-main.myshopify.com/cdn/shop/files/01-sets-hover-03_1d89652f-a2a5-475a-9ca7-ce68db792b08.jpg?v=1765820257&amp;width=1200 1200w, //zap-main.myshopify.com/cdn/shop/files/01-sets-hover-03_1d89652f-a2a5-475a-9ca7-ce68db792b08.jpg?v=1765820257&amp;width=1500 1500w" width="1760" height="2368" loading="lazy" class="hero-split__image" sizes="(min-width: 1440px) calc(1 * 1280px), (min-width: 990px) calc(1 * 100vw), (min-width: 576px) calc(1 * 100vw), calc(1 * 100vw)" style="object-position: 50.0% 50.0%;" fetchpriority="auto">
+</div>
+    </div>
+  </div>
+</div>
+
+
+</section>
+```

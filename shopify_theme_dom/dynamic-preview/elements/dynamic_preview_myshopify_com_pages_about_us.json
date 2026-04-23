@@ -1,0 +1,114 @@
+{
+  "pageUrl": "https://dynamic-preview.myshopify.com/pages/about-us",
+  "pageTitle": "About us – Dynamic",
+  "pageSlug": "dynamic_preview_myshopify_com_pages_about_us",
+  "sections": [
+    {
+      "refId": "dynamic_preview_myshopify_com_pages_about_us__section_01",
+      "index": 1,
+      "selectorHint": "#shopify-section-template--27935319949478__main",
+      "typeGuess": "category-row",
+      "patternTags": [
+        "top-of-page",
+        "cta-cluster",
+        "card-grid",
+        "category-navigation",
+        "editorial-media"
+      ],
+      "headingSample": [
+        "Ellara Story"
+      ],
+      "textSample": ".collection_list_wrapper-template--27935319949478__main { padding-top: 0px; padding-bottom: 40px; margin: 0 10px;; } @media screen and (max-width: 640px) { .collection_list_wrapper-template--27935319949478__main { padding-top: 0px; padding-bottom: 20px; } } Ellara Story Dedicated",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_pages_about_us/dynamic_preview_myshopify_com_pages_about_us__section_01.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/pages/dynamic_preview_myshopify_com_pages_about_us.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/pages/dynamic_preview_myshopify_com_pages_about_us.json"
+    },
+    {
+      "refId": "dynamic_preview_myshopify_com_pages_about_us__section_02",
+      "index": 2,
+      "selectorHint": "#shopify-section-template--27935319949478__style_image_with_text_GUYCmq",
+      "typeGuess": "editorial-media",
+      "patternTags": [
+        "product-commerce",
+        "editorial-media"
+      ],
+      "headingSample": [
+        "At Ellara, we are passionate about celebrating your natural beauty. Combining the finest ingredients with thoughtful science we craft skincare and beauty products"
+      ],
+      "textSample": "#shopify-section-template--27935319949478__style_image_with_text_GUYCmq { padding-top: 0px; padding-bottom: 40px; } @media screen and (max-width: 640px) { #shopify-section-template--27935319949478__style_image_with_text_GUYCmq { padding-top: 20px; padding-bottom: 20px; } } At Ell",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_pages_about_us/dynamic_preview_myshopify_com_pages_about_us__section_02.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/pages/dynamic_preview_myshopify_com_pages_about_us.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/pages/dynamic_preview_myshopify_com_pages_about_us.json"
+    },
+    {
+      "refId": "dynamic_preview_myshopify_com_pages_about_us__section_03",
+      "index": 3,
+      "selectorHint": "#shopify-section-template--27935319949478__style_image_with_text_hnjBcJ",
+      "typeGuess": "editorial-media",
+      "patternTags": [
+        "product-commerce",
+        "editorial-media"
+      ],
+      "headingSample": [
+        "At Ellara, we believe that true beauty begins with care for your skin, your confidence and your natural glow."
+      ],
+      "textSample": "#shopify-section-template--27935319949478__style_image_with_text_hnjBcJ { padding-top: 0px; padding-bottom: 40px; } @media screen and (max-width: 640px) { #shopify-section-template--27935319949478__style_image_with_text_hnjBcJ { padding-top: 20px; padding-bottom: 20px; } } At Ell",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_pages_about_us/dynamic_preview_myshopify_com_pages_about_us__section_03.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/pages/dynamic_preview_myshopify_com_pages_about_us.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/pages/dynamic_preview_myshopify_com_pages_about_us.json"
+    },
+    {
+      "refId": "dynamic_preview_myshopify_com_pages_about_us__section_04",
+      "index": 4,
+      "selectorHint": "#shopify-section-template--27935319949478__section_faq_PcKDgd",
+      "typeGuess": "editorial-media",
+      "patternTags": [
+        "cta-cluster",
+        "product-commerce",
+        "editorial-media"
+      ],
+      "headingSample": [
+        "Frequently asked questions"
+      ],
+      "textSample": "#image-faq-template--27935319949478__section_faq_PcKDgd { --section-bg: #fef9f2; --faq-bg: #f0e1cb; padding-top: 40px; padding-bottom: 40px; background-color: var(--section-bg); } Top heading Frequently asked questions Are your products suitable for all skin types? Yes, our produ",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_pages_about_us/dynamic_preview_myshopify_com_pages_about_us__section_04.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/pages/dynamic_preview_myshopify_com_pages_about_us.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/pages/dynamic_preview_myshopify_com_pages_about_us.json"
+    },
+    {
+      "refId": "dynamic_preview_myshopify_com_pages_about_us__section_05",
+      "index": 5,
+      "selectorHint": "#shopify-section-template--27935319949478__image_gallery_a3gXAi",
+      "typeGuess": "editorial-media",
+      "patternTags": [
+        "image-heavy",
+        "slider",
+        "cta-cluster",
+        "editorial-media"
+      ],
+      "headingSample": [
+        "On Instagram"
+      ],
+      "textSample": ".section-template--27935319949478__image_gallery_a3gXAi-image-gallery .gallery_post_img_1, .gallery_post_img_2 , .gallery_post_img_1 img, .gallery_post_img_2 img, .image.gly_img { border-radius: 10px; } .section-template--27935319949478__image_gallery_a3gXAi-image-gallery .galler",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_pages_about_us/dynamic_preview_myshopify_com_pages_about_us__section_05.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/pages/dynamic_preview_myshopify_com_pages_about_us.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/pages/dynamic_preview_myshopify_com_pages_about_us.json"
+    },
+    {
+      "refId": "dynamic_preview_myshopify_com_pages_about_us__section_06",
+      "index": 6,
+      "selectorHint": "#shopify-section-template--27935319949478__logo_list_L4e8fT",
+      "typeGuess": "editorial-media",
+      "patternTags": [
+        "image-heavy",
+        "slider",
+        "editorial-media"
+      ],
+      "headingSample": [],
+      "textSample": ".brand_logo_img { width: 14.2%; } .brand_logo_list { display: flex; align-items: center; justify-content: space-between; width: 100%; } .brand_logo_list .swiper-wrapper { display: flex; align-items: center; justify-content: space-between; width: 100%; } .section-template--2793531",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_pages_about_us/dynamic_preview_myshopify_com_pages_about_us__section_06.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/pages/dynamic_preview_myshopify_com_pages_about_us.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/pages/dynamic_preview_myshopify_com_pages_about_us.json"
+    }
+  ]
+}

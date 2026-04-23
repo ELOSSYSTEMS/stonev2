@@ -8,6 +8,118 @@
 
 ### Session Entry
 
+- Timestamp: 2026-04-23 11:31 Asia/Jerusalem
+- Skill or Mode: `project-plan`
+- Summary: applied a user-directed governance override to approve `UNIT-143` as the next homepage-first lane, kept collection/PDP and later lanes fail-closed, and synchronized state for docs-only boundary execution
+- Files changed:
+  - `state/ORCHESTRATION_STATE.md`
+  - `state/STATUS.md`
+  - `state/NEXT_ACTION.md`
+  - `state/FEATURE_STATUS.md`
+  - `state/PROGRESS.md`
+  - `state/SESSION_LOG.md`
+  - `workspace/handoff/CURRENT_HANDOFF.md`
+- Checks run:
+  - `node HARNESS/checks/check-state-artifacts.mjs`
+  - `node HARNESS/checks/check-next-action-scope.mjs`
+  - `node HARNESS/checks/check-plan-exists.mjs`
+  - `node HARNESS/checks/check-handoff-completeness.mjs`
+  - `node HARNESS/checks/check-approval-state.mjs`
+  - `node HARNESS/checks/check-lock-state.mjs`
+  - `node HARNESS/checks/harness-check.mjs`
+- Result: PASS
+- Follow-up: execute `UNIT-143` only as a docs-only homepage runtime admission boundary package and fail closed if the override is treated as permission to reopen collection/PDP or broader runtime scope
+
+### Session Entry
+
+- Timestamp: 2026-04-23 11:34 Asia/Jerusalem
+- Skill or Mode: `project-plan`
+- Summary: executed `UNIT-143` as a docs-only homepage runtime admission boundary package, preserved the user-directed governance override as a narrow basis only, admitted one exact five-file homepage runtime proof slice, and synchronized state so only `UNIT-144` is approved next
+- Files changed:
+  - `state/ORCHESTRATION_STATE.md`
+  - `state/STATUS.md`
+  - `state/NEXT_ACTION.md`
+  - `state/FEATURE_STATUS.md`
+  - `state/PROGRESS.md`
+  - `state/SESSION_LOG.md`
+  - `workspace/handoff/CURRENT_HANDOFF.md`
+- Checks run:
+  - `git diff --name-only -- project`
+  - `node HARNESS/checks/check-state-artifacts.mjs`
+  - `node HARNESS/checks/check-next-action-scope.mjs`
+  - `node HARNESS/checks/check-plan-exists.mjs`
+  - `node HARNESS/checks/check-handoff-completeness.mjs`
+  - `node HARNESS/checks/check-approval-state.mjs`
+  - `node HARNESS/checks/check-lock-state.mjs`
+  - `node HARNESS/checks/harness-check.mjs`
+- Result: PASS
+- Follow-up: execute `UNIT-144` only inside the admitted five-file homepage runtime proof boundary and keep collection/PDP lanes fail-closed
+
+### Session Entry
+
+- Timestamp: 2026-04-23 11:42 Asia/Jerusalem
+- Skill or Mode: `project-build`
+- Summary: executed `UNIT-144` inside the exact admitted homepage-first five-file boundary, added one reusable `stone-hero-opening` section and one first `index.json` homepage host, preserved locale parity, and synchronized state so only `UNIT-145` is approved next
+- Files changed:
+  - `project/assets/stone-base.css`
+  - `project/sections/stone-hero-opening.liquid`
+  - `project/templates/index.json`
+  - `project/locales/he.default.schema.json`
+  - `project/locales/en.schema.json`
+  - `state/ORCHESTRATION_STATE.md`
+  - `state/STATUS.md`
+  - `state/NEXT_ACTION.md`
+  - `state/FEATURE_STATUS.md`
+  - `state/PROGRESS.md`
+  - `state/SESSION_LOG.md`
+  - `workspace/handoff/CURRENT_HANDOFF.md`
+- Checks run:
+  - `git status --short project`
+  - `git diff --name-only -- project`
+  - `node -e JSON.parse(...)`
+  - locale parity for `sections.stone_hero_opening` via `node -e`
+  - `node HARNESS/checks/check-state-artifacts.mjs`
+  - `node HARNESS/checks/check-next-action-scope.mjs`
+  - `node HARNESS/checks/check-plan-exists.mjs`
+  - `node HARNESS/checks/check-handoff-completeness.mjs`
+  - `node HARNESS/checks/check-approval-state.mjs`
+  - `node HARNESS/checks/check-lock-state.mjs`
+  - `node HARNESS/checks/harness-check.mjs`
+- Result: PASS
+- Follow-up: execute `UNIT-145` only as homepage proof verification and frontier review, without reopening collection/PDP or broadening homepage scope
+
+### Session Entry
+
+- Timestamp: 2026-04-23 11:02 Asia/Jerusalem
+- Skill or Mode: `project-plan`
+- Summary: executed `UNIT-142`, inspected the actual `shopify_theme_dom/` corpus and actual `project/` runtime surface, admitted the corpus as fresh canonical evidence, compared remain paused versus homepage-first reopen versus direct collection/PDP reopen, and synchronized state to a no-reopen governed-pause verdict
+- Files changed:
+  - `workspace/plans/phase-4-post-unit-141-corpus-admission-and-reopen-decision-v1/PLAN.v1.md`
+  - `workspace/plans/phase-4-post-unit-141-corpus-admission-and-reopen-decision-v1/ASSUMPTIONS.v1.md`
+  - `workspace/plans/phase-4-post-unit-141-corpus-admission-and-reopen-decision-v1/CHECKS.v1.md`
+  - `workspace/plans/phase-4-post-unit-141-corpus-admission-and-reopen-decision-v1/RISKS.v1.md`
+  - `workspace/plans/phase-4-post-unit-141-corpus-admission-and-reopen-decision-v1/HANDOFF.v1.md`
+  - `state/ORCHESTRATION_STATE.md`
+  - `state/STATUS.md`
+  - `state/NEXT_ACTION.md`
+  - `state/FEATURE_STATUS.md`
+  - `state/PROGRESS.md`
+  - `state/SESSION_LOG.md`
+  - `workspace/handoff/CURRENT_HANDOFF.md`
+- Checks run:
+  - `git diff --name-only -- project`
+  - `node HARNESS/checks/check-state-artifacts.mjs`
+  - `node HARNESS/checks/check-next-action-scope.mjs`
+  - `node HARNESS/checks/check-plan-exists.mjs`
+  - `node HARNESS/checks/check-handoff-completeness.mjs`
+  - `node HARNESS/checks/check-approval-state.mjs`
+  - `node HARNESS/checks/check-lock-state.mjs`
+  - `node HARNESS/checks/harness-check.mjs`
+- Result: PASS
+- Follow-up: no later unit is approved; keep `UNIT-143` through `UNIT-151` blocked until narrower evidence proves one exact later lane
+
+### Session Entry
+
 - Timestamp: 2026-04-14 15:49 Asia/Jerusalem
 - Skill or Mode: `project-plan`
 - Summary: executed `UNIT-141` as a governance-pause maintenance step, confirmed the homepage-first preset-pack frontier remains paused without fresh canonical evidence, preserved the exact homepage-only preset composition/defaults contract, and synchronized state and handoff artifacts without changing `project/`
@@ -4259,3 +4371,96 @@
   - `node HARNESS/checks/harness-check.mjs`
 - Result: PASS
 - Follow-up: keep the repo in a governed pause and do not authorize another preset-pack planning or implementation-admission unit without fresh canonical evidence
+### Session Entry
+
+- Timestamp: 2026-04-23 10:46 Asia/Jerusalem
+- Skill or Mode: `project-plan`
+- Summary: authored a post-`UNIT-141` conditional plan runway for `UNIT-142` through `UNIT-151`, moved the approved next action from the pause-only `UNIT-141` state to the docs-only `UNIT-142` corpus-admission decision, and kept all downstream units explicitly blocked pending predecessor approval
+- Files changed:
+  - `workspace/plans/phase-4-post-unit-141-corpus-admission-and-reopen-decision-v1/`
+  - `workspace/plans/phase-4-homepage-runtime-admission-boundary-v1/`
+  - `workspace/plans/phase-4-homepage-runtime-proof-slice-v1/`
+  - `workspace/plans/phase-4-post-homepage-runtime-frontier-review-v1/`
+  - `workspace/plans/phase-4-global-shell-navigation-reopen-boundary-v1/`
+  - `workspace/plans/phase-4-collection-host-and-behavior-reopen-evidence-v1/`
+  - `workspace/plans/phase-4-pdp-host-and-behavior-reopen-evidence-v1/`
+  - `workspace/plans/phase-4-editorial-and-search-host-boundary-v1/`
+  - `workspace/plans/phase-4-preset-pack-realization-boundary-v1/`
+  - `workspace/plans/phase-5-hardening-and-launch-readiness-boundary-v1/`
+  - `state/ORCHESTRATION_STATE.md`
+  - `state/STATUS.md`
+  - `state/NEXT_ACTION.md`
+  - `state/FEATURE_STATUS.md`
+  - `state/PROGRESS.md`
+  - `state/SESSION_LOG.md`
+  - `workspace/handoff/CURRENT_HANDOFF.md`
+- Checks run:
+  - `git diff --name-only -- project`
+  - `node HARNESS/checks/check-state-artifacts.mjs`
+  - `node HARNESS/checks/check-next-action-scope.mjs`
+  - `node HARNESS/checks/check-plan-exists.mjs`
+  - `node HARNESS/checks/check-handoff-completeness.mjs`
+  - `node HARNESS/checks/check-approval-state.mjs`
+  - `node HARNESS/checks/check-lock-state.mjs`
+  - `node HARNESS/checks/harness-check.mjs`
+- Result: PASS
+- Follow-up: execute `UNIT-142` first and treat `UNIT-143` through `UNIT-151` as conditional until each predecessor lane passes
+### Session Entry
+
+- Timestamp: 2026-04-23 11:59 Asia/Jerusalem
+- Skill or Mode: `project-verify`
+- Summary: executed `UNIT-145`, verified that the `UNIT-144` homepage proof stayed inside the exact admitted five-file boundary, confirmed structural locale parity for `sections.stone_hero_opening`, rejected a second homepage runtime slice, and routed the repo only to the docs-only shell/navigation boundary in `UNIT-146`
+- Files changed:
+  - `state/ORCHESTRATION_STATE.md`
+  - `state/STATUS.md`
+  - `state/NEXT_ACTION.md`
+  - `state/FEATURE_STATUS.md`
+  - `state/PROGRESS.md`
+  - `state/SESSION_LOG.md`
+  - `workspace/handoff/CURRENT_HANDOFF.md`
+- Checks run:
+  - `git status --short project`
+  - `git diff --name-only -- project`
+  - `git ls-files --others --exclude-standard -- project`
+  - `git diff --unified=0 -- project/assets/stone-base.css project/locales/en.schema.json project/locales/he.default.schema.json project/sections/stone-hero-opening.liquid project/templates/index.json`
+  - `node -e JSON.parse(...)`
+  - structural locale parity for `sections.stone_hero_opening` via `node -e`
+  - `node HARNESS/checks/check-state-artifacts.mjs`
+  - `node HARNESS/checks/check-next-action-scope.mjs`
+  - `node HARNESS/checks/check-plan-exists.mjs`
+  - `node HARNESS/checks/check-handoff-completeness.mjs`
+  - `node HARNESS/checks/check-approval-state.mjs`
+  - `node HARNESS/checks/check-lock-state.mjs`
+  - `node HARNESS/checks/harness-check.mjs`
+- Result: PASS
+- Follow-up: execute `UNIT-146` only as the docs-only shell/navigation boundary package and keep `UNIT-147` through `UNIT-151` blocked
+### Session Entry
+
+- Timestamp: 2026-04-23 23:11 Asia/Jerusalem
+- Skill or Mode: `project-plan`
+- Summary: executed `UNIT-146`, completed the docs-only global shell/navigation reopen boundary decision, compared stay-homepage-only against bounded shell reopen and broad theme-shell reopen, admitted only a docs-only shell/navigation runtime-boundary next step in `UNIT-152`, and kept runtime implementation plus collection/PDP/search/cart/preset/hardening domains blocked
+- Files changed:
+  - `workspace/plans/phase-4-global-shell-navigation-reopen-boundary-v1/PLAN.v1.md`
+  - `workspace/plans/phase-4-global-shell-navigation-reopen-boundary-v1/ASSUMPTIONS.v1.md`
+  - `workspace/plans/phase-4-global-shell-navigation-reopen-boundary-v1/CHECKS.v1.md`
+  - `workspace/plans/phase-4-global-shell-navigation-reopen-boundary-v1/RISKS.v1.md`
+  - `workspace/plans/phase-4-global-shell-navigation-reopen-boundary-v1/HANDOFF.v1.md`
+  - `workspace/plans/phase-4-global-shell-navigation-runtime-boundary-v1/`
+  - `state/ORCHESTRATION_STATE.md`
+  - `state/STATUS.md`
+  - `state/NEXT_ACTION.md`
+  - `state/FEATURE_STATUS.md`
+  - `state/PROGRESS.md`
+  - `state/SESSION_LOG.md`
+  - `workspace/handoff/CURRENT_HANDOFF.md`
+- Checks run:
+  - `git diff --name-only -- project`
+  - `node HARNESS/checks/check-state-artifacts.mjs`
+  - `node HARNESS/checks/check-next-action-scope.mjs`
+  - `node HARNESS/checks/check-plan-exists.mjs`
+  - `node HARNESS/checks/check-handoff-completeness.mjs`
+  - `node HARNESS/checks/check-approval-state.mjs`
+  - `node HARNESS/checks/check-lock-state.mjs`
+  - `node HARNESS/checks/harness-check.mjs`
+- Result: PASS
+- Follow-up: execute `UNIT-152` only as the docs-only shell/navigation runtime-boundary package and keep `UNIT-147` through `UNIT-151` blocked

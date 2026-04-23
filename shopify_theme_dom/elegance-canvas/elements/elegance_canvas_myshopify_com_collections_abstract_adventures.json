@@ -1,0 +1,36 @@
+{
+  "pageUrl": "https://elegance-canvas.myshopify.com/collections/abstract-adventures",
+  "pageTitle": "Abstract Adventures – Elegance-canvas",
+  "pageSlug": "elegance_canvas_myshopify_com_collections_abstract_adventures",
+  "sections": [
+    {
+      "refId": "elegance_canvas_myshopify_com_collections_abstract_adventures__section_01",
+      "index": 1,
+      "selectorHint": "#shopify-section-template--19562840981686__main",
+      "typeGuess": "hero",
+      "patternTags": [
+        "hero-candidate",
+        "top-of-page",
+        "image-heavy",
+        "slider",
+        "cta-cluster",
+        "card-grid",
+        "product-commerce",
+        "category-navigation",
+        "editorial-media"
+      ],
+      "headingSample": [
+        "The Ballet Beauty",
+        "The Geisha’s Grace",
+        "The Rebel Music",
+        "The Village Journey",
+        "The White Lady",
+        "Timeless Reflection"
+      ],
+      "textSample": ".section-template--19562840981686__main-padding { padding-top: 70px; padding-bottom: 70px; } @media screen and (min-width: 768px) { .section-template--19562840981686__main-padding { padding-top: 105px; padding-bottom: 105px; } } @media screen and (min-width: 1200px) { .section-te",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_collections_abstract_adventures/elegance_canvas_myshopify_com_collections_abstract_adventures__section_01.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/pages/elegance_canvas_myshopify_com_collections_abstract_adventures.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/pages/elegance_canvas_myshopify_com_collections_abstract_adventures.json"
+    }
+  ]
+}

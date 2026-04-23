@@ -1,0 +1,777 @@
+# Shopify page scrape
+
+- URL: https://elegance-canvas.myshopify.com/fr/pages/about
+- Title: À propos – Elegance-canvas
+- Body classes: gradient
+- Custom elements: localization-form, predictive-search, shop-cart-sync
+- Headings: Votre panier | Votre panier est vide | Recherche | Menu | À propos | 89K | 10m | 2K | 85K | As CEO of our art gallery, I am glad to say that we are committed to displaying a varied selection of modern and historic artworks in our community. | John Smith, | Expressive Elements | Seasonal Art Shows | Artist Workshops | Join our creative community
+
+## 1. shopify-section-template--19562841309366__number_counter_gjbKdm
+
+- Tag: section
+- Classes: shopify-section section-number-counter
+- Headings: 89K | 10m | 2K | 85K
+
+```html
+<section id="shopify-section-template--19562841309366__number_counter_gjbKdm" class="shopify-section section-number-counter"><style data-shopify="">
+@media (max-width: 480px) {
+  .number-counter .number-counter-container .row-cols-2>* {width:100%;}
+  }
+</style>
+
+<style data-shopify="">.section-template--19562841309366__number_counter_gjbKdm-padding {
+    padding-top: 70px;
+    padding-bottom: 70px;
+  }
+
+  @media screen and (min-width: 768px) {
+    .section-template--19562841309366__number_counter_gjbKdm-padding {
+      padding-top: 105px;
+      padding-bottom: 105px;
+    }
+  }
+  @media screen and (min-width: 1200px) {
+    .section-template--19562841309366__number_counter_gjbKdm-padding {
+      padding-top: 140px;
+      padding-bottom: 140px;
+    }
+  }</style>
+
+<div class="color-scheme-1 gradient section-template--19562841309366__number_counter_gjbKdm-padding">
+  <div class="number-counter">
+    <div class="container">
+      <style data-shopify="">
+
+
+  .title-container{ margin-bottom:clamp(1.875rem, 1.625rem + 1.25vw, 3.125rem); }
+</style>
+
+      <div class="number-counter-wrapper row m-0 flex-column gap-3 gap-sm-5 ">
+        
+          <div class="number-counter-banner w-100 px-0">
+            
+              <img src="//elegance-canvas.myshopify.com/cdn/shop/files/banner-image.jpg?crop=center&amp;height=1462&amp;v=1766214888&amp;width=2880" alt="" srcset="//elegance-canvas.myshopify.com/cdn/shop/files/banner-image.jpg?crop=center&amp;height=178&amp;v=1766214888&amp;width=352 352w, //elegance-canvas.myshopify.com/cdn/shop/files/banner-image.jpg?crop=center&amp;height=422&amp;v=1766214888&amp;width=832 832w, //elegance-canvas.myshopify.com/cdn/shop/files/banner-image.jpg?crop=center&amp;height=609&amp;v=1766214888&amp;width=1200 1200w, //elegance-canvas.myshopify.com/cdn/shop/files/banner-image.jpg?crop=center&amp;height=974&amp;v=1766214888&amp;width=1920 1920w, //elegance-canvas.myshopify.com/cdn/shop/files/banner-image.jpg?crop=center&amp;height=1462&amp;v=1766214888&amp;width=2880 2880w" width="2880" height="1462" class="img-fluid w-100">
+            
+          </div>
+        
+        <div class="number-counter-container w-100 px-4">
+          <div class="row row-cols-2 row-cols-lg-4 g-4 g-lg-4 justify-content-evenly">
+            
+              <div class="number-counter-block text-break text-center">
+                <div class="number-counter-content">
+                  
+                    <h2 class="counter-value display-1 m-0">
+                      <span class="number-counter-value text-break" data-value="89">89</span><span>K</span>
+                    </h2>
+                  
+                  
+                  
+                    <p class="number-counter-description mb-0 mt-2">Total Visitors</p>
+                  
+                  
+</div>
+              </div>
+            
+              <div class="number-counter-block text-break text-center">
+                <div class="number-counter-content">
+                  
+                    <h2 class="counter-value display-1 m-0">
+                      <span class="number-counter-value text-break" data-value="10">10</span><span>m</span>
+                    </h2>
+                  
+                  
+                  
+                    <p class="number-counter-description mb-0 mt-2">Exhibitions Held</p>
+                  
+                  
+</div>
+              </div>
+            
+              <div class="number-counter-block text-break text-center">
+                <div class="number-counter-content">
+                  
+                    <h2 class="counter-value display-1 m-0">
+                      <span class="number-counter-value text-break" data-value="2">2</span><span>K</span>
+                    </h2>
+                  
+                  
+                  
+                    <p class="number-counter-description mb-0 mt-2">Featured Artists</p>
+                  
+                  
+</div>
+              </div>
+            
+              <div class="number-counter-block text-break text-center">
+                <div class="number-counter-content">
+                  
+                    <h2 class="counter-value display-1 m-0">
+                      <span class="number-counter-value text-break" data-value="85">85</span><span>K</span>
+                    </h2>
+                  
+                  
+                  
+                    <p class="number-counter-description mb-0 mt-2">Artworks Sold</p>
+                  
+                  
+</div>
+              </div>
+            
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
+
+</section>
+```
+
+## 2. shopify-section-template--19562841309366__revealing_text_img_UEMMzm
+
+- Tag: section
+- Classes: shopify-section section revealing-text position-relative
+- Headings: As CEO of our art gallery, I am glad to say that we are committed to displaying a varied selection of modern and historic artworks in our community. | John Smith,
+
+```html
+<section id="shopify-section-template--19562841309366__revealing_text_img_UEMMzm" class="shopify-section section revealing-text position-relative">
+<style data-shopify="">/* ---------------------->swapping the class for padding  inner and outer visiblity---start */
+         /* condition for without curve and with curves on both  side (spaces-mobile) */
+         .revealing-text-img-template--19562841309366__revealing_text_img_UEMMzm 
+          {
+            padding-top: 0px;
+            padding-bottom: 0px;
+         }
+          /* condition for top and bottom  side curves (spaces-mobile) */
+        
+         {
+           padding-top: 0px;
+         }
+          
+       {
+          padding-bottom: 0px;
+        }
+
+         @media screen and (min-width: 768px) {
+                /* condition for without curve and with curves on both  side (spaces-desktop) */
+         .revealing-text-img-template--19562841309366__revealing_text_img_UEMMzm 
+          {
+          padding-top:0px;
+          padding-bottom: 0px;
+          }
+                /* condition for top and bottom  side curves (spaces-desktop) */
+        
+         {
+           padding-top:0px;
+         }
+          
+       {
+          padding-bottom: 0px;
+        }
+      }
+  /* ---------------------->swapping the class for padding  inner and outer visiblity---end */
+  
+    .section-template--19562841309366__revealing_text_img_UEMMzm{
+      padding-top:1px;
+    }
+      
+    
+      .section-template--19562841309366__revealing_text_img_UEMMzm{
+      padding-bottom:1px;
+    }
+    
+
+    .reveal-text {
+      max-width: min(64vw, 100%);
+      margin-left: auto;
+      margin-right: auto;
+    }
+    @media (max-width: 767.98px) {
+      .reveal-text {
+        max-width: 85%;
+      }
+      .reveal-text .reveal-heading{
+       font-size:var(--h2);
+      }
+    }
+    .revealing-text-img-template--19562841309366__revealing_text_img_UEMMzm :is(.sticky-img) {
+      min-width: 3rem;
+    }
+    .revealing-text-img-template--19562841309366__revealing_text_img_UEMMzm :is(.sticky-img):first-child {
+      margin-top: 0!important;
+    }
+    .revealing-text-img .reveal_img_block{
+      /* 
+      mix-blend-mode: normal;
+       */
+      
+      transform:translateY(-10%);
+      
+    }
+    .revealing-text-img-template--19562841309366__revealing_text_img_UEMMzm .revealing-img_right :is(.sticky-img):first-child {
+      margin-top:8vh;
+    }
+    .revealing-text-img-template--19562841309366__revealing_text_img_UEMMzm :is(.placeholder_svg),
+    .revealing-text-img-template--19562841309366__revealing_text_img_UEMMzm :is(.sign_img) {
+      max-width: min(50vw, 30rem);
+      max-height:400px;
+    }
+    .revealing-text-img :is(.placeholder_svg){
+      width: 470px  ;
+      height: 230px ;
+      margin-bottom: 1rem ;
+    }
+    .reveal-text .reveal-heading {
+      position: relative;
+      display: inline;
+      -webkit-text-fill-color: rgb(var(--color-foreground),0.15);
+      -webkit-background-clip: text;
+      background-clip: text;
+      background-size: 100% 100%;
+      background-repeat: no-repeat;
+      color: var(--bs-heading-color);
+      -webkit-background-image: linear-gradient(45deg, currentColor, currentColor);
+      background-image: linear-gradient(45deg, currentColor, currentColor);
+    }
+    .revealed .reveal-heading {  animation: bgsize 3s linear .25s;
+    }
+     /* .revealed-up .reveal-heading {  animation: bgsize 3s linear .25s 2; animation-direction:reverse;
+    } */
+    @keyframes bgsize {
+       0% { background-size: 0% 100%; }
+      20% { background-size: 20% 100%; }
+      40% { background-size: 40% 100%; }
+      60% { background-size: 60% 100%; }
+      80% { background-size: 80% 100%; }
+      100% { background-size: 100% 100%; }
+  }
+  .revealing-text-img .text-wrapper{ top:15%; }
+  .revealing-text-img .wdt-separator.wdt-separator__top{z-index:0 !important;}
+  .revealing-img_right .sticky-img{margin-top:30px;}
+  .revealing-text-img .seperator:has(svg.wdt-separator.wdt-separator__stroke.wdt-separator__down):after{bottom:0;}
+  .revealing-text-img .seperator:has(svg.wdt-separator.wdt-separator__stroke.wdt-separator__top):before{top:0;}</style><div class="section-template--19562841309366__revealing_text_img_UEMMzm revealing-text-img revealing-text-img-template--19562841309366__revealing_text_img_UEMMzm">
+  <div class="revealing-text section-template--19562841309366__revealing_text_img_UEMMzm-padding  color-scheme-2 gradient  curvy seperator position-relative">
+    
+
+<style data-shopify="">
+  .section-template--19562841309366__revealing_text_img_UEMMzm-padding { position: relative; z-index: calc(100 - 2); }
+  .section-template--19562841309366__revealing_text_img_UEMMzm-padding .wdt-separator.wdt-separator__stroke {
+    overflow: visible;
+    width: calc(100% + 40px);
+    left: -20px;
+    -webkit-transform: translate(0%, -10%);
+    transform: translate(0%, -10%);
+    z-index: 8;
+  }
+  .section-template--19562841309366__revealing_text_img_UEMMzm-padding .wdt-separator.wdt-separator__stroke .separator__stroke { stroke-width: 100; }
+</style>
+
+
+  <svg class="wdt-separator wdt-separator__stroke wdt-separator__top" viewBox="0 0 1920 154.3" preserveAspectRatio="none">
+    <path class="wdt__stroke_anim separator__stroke" id="text-path-item" d="M2.1,154.8C303,56.9,625.1,3.9,960,3.9c335,0,657.3,53.1,958.4,151" fill="none" stroke="rgba(var(--color-background), 0.1)"></path>
+  </svg>
+
+
+  <svg class="wdt-separator wdt-separator__stroke wdt-separator__down" viewBox="0 0 1920 154.3" preserveAspectRatio="none">
+    <path class="wdt__stroke_anim separator__stroke" id="text-path-item" d="M2.1,154.8C303,56.9,625.1,3.9,960,3.9c335,0,657.3,53.1,958.4,151" fill="none" stroke="rgba(var(--color-background), 0.1)"></path>
+  </svg>
+
+
+    
+      <style data-shopify="">
+
+  
+  .seperator:has(> .curve-on-top)::before, .seperator:has(> .curve-on-bottom)::after,
+  .seperator:has(> .curve-on-both)::before, .seperator:has(> .curve-on-both)::after { 
+    display: block !important;
+    position: relative; 
+    content: ""; 
+    right: 0; 
+    left: 0; 
+    width: 100%; 
+    height: 15vw; 
+    background: var(--bs-body-bg);
+  }
+    .seperator:has(svg.wdt-separator.wdt-separator__stroke.wdt-separator__down):after {
+    bottom: -2px;
+    }
+    .seperator:has(svg.wdt-separator.wdt-separator__stroke.wdt-separator__top):before {
+    top: -2px;
+    }
+
+  /* Svg Wave */
+
+   .wdt-separator { z-index: 9; pointer-events: none; width: 100%; height: 15vw; fill: var(--gradient-background); display: block; position: absolute; width: calc(100% + 10px); left: -5px; }
+   .wdt-separator__top { top: 2px; /* -webkit-transform: translateY(-100%); transform: translateY(-100%); */}
+   .wdt-separator__down { bottom: 1px; /* -webkit-transform: translateY(100%); transform: translateY(100%); */  rotate: 180deg; filter:  }
+
+   .wdt-separator__top:is( .curve-on-invert-top, .curve-on-invert-both ) { top: -1px; /* -webkit-transform: translateY(-100%); transform: translateY(-100%); */ }
+   .wdt-separator__down:is( .curve-on-invert-bottom, .curve-on-invert-both ) { bottom: -1px; /* -webkit-transform: translateY(100%); transform: translateY(100%); */  rotate: 0deg; }
+
+
+
+
+
+
+  .section-template--19562841309366__revealing_text_img_UEMMzm-padding.curvy{ 
+    
+        margin-top:6vw; 
+   
+   
+        margin-bottom:6vw;
+   
+}
+</style>
+
+  <svg class="wdt-separator wdt-separator__top curve-on-both" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 154.3" preserveAspectRatio="none">
+    <path class="wdt__path_anim separator__path" vector-effect="non-scaling-stroke" d="M2.1,154.8C303,56.9,625.1,3.9,960,3.9c335,0,657.3,53.1,958.4,151"></path>
+  </svg>
+
+
+
+  <svg class="wdt-separator wdt-separator__down curve-on-both" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 154.3" preserveAspectRatio="none">
+    <path class="wdt__path_anim separator__path" vector-effect="non-scaling-stroke" d="M2.1,154.8C303,56.9,625.1,3.9,960,3.9c335,0,657.3,53.1,958.4,151"></path>
+  </svg>
+
+
+ 
+
+ 
+
+    
+    <div class="container-fluid">
+      <div class="text-wrapper position-sticky">
+        <div class="reveal-text mx-auto text-center revealed">
+          
+            <h2 class="reveal-heading h1 pb-3 text-break">
+              As CEO of our art gallery, I am glad to say that we are committed to displaying a varied selection of modern and historic artworks in our community.
+            </h2>
+          
+        </div>
+        
+          <div class="d-flex align-items-center justify-content-center flex-column">
+            
+              
+<div class="mb-3 mt-5 sign_img">
+                  <img src="//elegance-canvas.myshopify.com/cdn/shop/files/signature.png?crop=center&amp;height=345&amp;v=1725967822&amp;width=696" alt="creater name" srcset="//elegance-canvas.myshopify.com/cdn/shop/files/signature.png?crop=center&amp;height=174&amp;v=1725967822&amp;width=352 352w, //elegance-canvas.myshopify.com/cdn/shop/files/signature.png?crop=center&amp;height=345&amp;v=1725967822&amp;width=696 696w" width="696" height="345" loading="lazy" class="img-fluid">
+                </div>
+              
+            
+            <div class="text-center d-flex align-items-baseline flex-wrap justify-content-center mt-3 gap-2">
+              
+                <h3 class="mb-0 me-1 text-break">
+                  John Smith,
+                </h3>
+              
+              
+                <span>
+                  <p class="mb-0 opacity-75">
+                    CEO
+                  </p>
+                </span>
+              
+            </div>
+          </div>
+        
+      </div>
+      <div class="reveal_img_block position-relative row g-2 g-lg-4 justify-content-between h-100">
+        
+        
+        
+        <div class="col-5 col-sm-4 revealing-img_left">
+          <div class="row flex-column g-0 g-lg-3"><!-- Initialize class_index to track class combinations -->
+            
+                
+                
+                
+                
+<div class="col-5 offset-2 col-lg-3 offset-lg-5 sticky-img " style="margin-top: 36.75%;">
+                  
+<img src="//elegance-canvas.myshopify.com/cdn/shop/files/reveal-img-_2.jpg?v=1726119998&amp;width=400" alt="reveal-img-2" srcset="//elegance-canvas.myshopify.com/cdn/shop/files/reveal-img-_2.jpg?v=1726119998&amp;width=352 352w, //elegance-canvas.myshopify.com/cdn/shop/files/reveal-img-_2.jpg?v=1726119998&amp;width=400 400w" width="400" height="299" loading="lazy" class="img-fluid">
+                  
+                </div>
+            
+            
+                
+                
+                
+                
+<div class="col-6 col-lg-4 ms-0 sticky-img " style="margin-top: 38.75%;">
+                  
+<img src="//elegance-canvas.myshopify.com/cdn/shop/files/reveal-img-_4.jpg?v=1726119999&amp;width=400" alt="Slide5" srcset="//elegance-canvas.myshopify.com/cdn/shop/files/reveal-img-_4.jpg?v=1726119999&amp;width=352 352w, //elegance-canvas.myshopify.com/cdn/shop/files/reveal-img-_4.jpg?v=1726119999&amp;width=400 400w" width="400" height="299" loading="lazy" class="img-fluid" style="object-position:34.0853% 26.0691%;">
+                  
+                </div>
+            
+            
+                
+                
+                
+                
+<div class="col-6 offset-3 col-lg-4 offset-lg-5 sticky-img " style="margin-top: 40.75%;">
+                  
+<img src="//elegance-canvas.myshopify.com/cdn/shop/files/reveal-img-_6.jpg?v=1726119999&amp;width=400" alt="reveal-img-6" srcset="//elegance-canvas.myshopify.com/cdn/shop/files/reveal-img-_6.jpg?v=1726119999&amp;width=352 352w, //elegance-canvas.myshopify.com/cdn/shop/files/reveal-img-_6.jpg?v=1726119999&amp;width=400 400w" width="400" height="483" loading="lazy" class="img-fluid">
+                  
+                </div>
+            
+            
+                
+                
+                
+                
+<div class="col-7 me-auto offset-md-2 col-lg-4 offset-lg-3 sticky-img " style="margin-top: 42.75%;">
+                  
+<img src="//elegance-canvas.myshopify.com/cdn/shop/files/reveal-img-_8.jpg?v=1726119999&amp;width=400" alt="reveal-img-8" srcset="//elegance-canvas.myshopify.com/cdn/shop/files/reveal-img-_8.jpg?v=1726119999&amp;width=352 352w, //elegance-canvas.myshopify.com/cdn/shop/files/reveal-img-_8.jpg?v=1726119999&amp;width=400 400w" width="400" height="483" loading="lazy" class="img-fluid">
+                  
+                </div>
+            
+            
+                
+                
+                
+                
+<div class="col-2 ms-auto sticky-img " style="margin-top: 44.75%;">
+                  
+<img src="//elegance-canvas.myshopify.com/cdn/shop/files/reveal-img-_10.jpg?v=1726119999&amp;width=400" alt="reveal-img-10" srcset="//elegance-canvas.myshopify.com/cdn/shop/files/reveal-img-_10.jpg?v=1726119999&amp;width=352 352w, //elegance-canvas.myshopify.com/cdn/shop/files/reveal-img-_10.jpg?v=1726119999&amp;width=400 400w" width="400" height="488" loading="lazy" class="img-fluid">
+                  
+                </div>
+            
+          </div>
+        </div>
+        <div class="col-5 col-sm-4 revealing-img_right">
+          <div class="row flex-column g-0 g-lg-3">
+                
+                
+                
+                
+<div class="col-6 col-lg-4 ms-auto sticky-img  1775757067" style="margin-top: 35.75%; ">
+                    <img src="//elegance-canvas.myshopify.com/cdn/shop/files/reveal-img-_1.jpg?v=1726119999&amp;width=400" alt="reveal-img-1" srcset="//elegance-canvas.myshopify.com/cdn/shop/files/reveal-img-_1.jpg?v=1726119999&amp;width=352 352w, //elegance-canvas.myshopify.com/cdn/shop/files/reveal-img-_1.jpg?v=1726119999&amp;width=400 400w" width="400" height="485" loading="lazy" class="img-fluid">
+                  
+                </div>
+            
+            
+                
+                
+                
+                
+<div class="col-6 ms-3 col-lg-4 ms-lg-4 sticky-img  1775757067" style="margin-top: 37.75%; ">
+                    <img src="//elegance-canvas.myshopify.com/cdn/shop/files/reveal-img-_3.jpg?v=1726119999&amp;width=400" alt="reveal-img-3" srcset="//elegance-canvas.myshopify.com/cdn/shop/files/reveal-img-_3.jpg?v=1726119999&amp;width=352 352w, //elegance-canvas.myshopify.com/cdn/shop/files/reveal-img-_3.jpg?v=1726119999&amp;width=400 400w" width="400" height="483" loading="lazy" class="img-fluid">
+                  
+                </div>
+            
+            
+                
+                
+                
+                
+<div class="col-6 offset-6 col-lg-4 offset-lg-7 sticky-img  1775757067" style="margin-top: 39.75%; ">
+                    <img src="//elegance-canvas.myshopify.com/cdn/shop/files/reveal-img-_5.jpg?v=1726119999&amp;width=400" alt="reveal-img-5" srcset="//elegance-canvas.myshopify.com/cdn/shop/files/reveal-img-_5.jpg?v=1726119999&amp;width=352 352w, //elegance-canvas.myshopify.com/cdn/shop/files/reveal-img-_5.jpg?v=1726119999&amp;width=400 400w" width="400" height="299" loading="lazy" class="img-fluid">
+                  
+                </div>
+            
+            
+                
+                
+                
+                
+<div class="col-5 col-lg-3 ms-0 sticky-img  1775757067" style="margin-top: 41.75%; ">
+                    <img src="//elegance-canvas.myshopify.com/cdn/shop/files/reveal-img-_7.jpg?v=1726119998&amp;width=400" alt="reveal-img-7" srcset="//elegance-canvas.myshopify.com/cdn/shop/files/reveal-img-_7.jpg?v=1726119998&amp;width=352 352w, //elegance-canvas.myshopify.com/cdn/shop/files/reveal-img-_7.jpg?v=1726119998&amp;width=400 400w" width="400" height="300" loading="lazy" class="img-fluid">
+                  
+                </div>
+            
+            
+                
+                
+                
+                
+<div class="col-5 col-lg-4 ms-4 sticky-img  1775757067" style="margin-top: 43.75%; ">
+                    <img src="//elegance-canvas.myshopify.com/cdn/shop/files/reveal-img-_9.jpg?v=1726119999&amp;width=400" alt="reveal-img-9" srcset="//elegance-canvas.myshopify.com/cdn/shop/files/reveal-img-_9.jpg?v=1726119999&amp;width=352 352w, //elegance-canvas.myshopify.com/cdn/shop/files/reveal-img-_9.jpg?v=1726119999&amp;width=400 400w" width="400" height="299" loading="lazy" class="img-fluid">
+                  
+                </div>
+            
+            
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script>
+  function initializeRotateScroll() {
+    var revealingTextImg = document.querySelector('.revealing-text-img-template--19562841309366__revealing_text_img_UEMMzm');
+    var stickyImgs = revealingTextImg.querySelectorAll('.sticky-img.rotate-scroll-template--19562841309366__revealing_text_img_UEMMzm');
+    stickyImgs.forEach((img) => {
+      img.style.transform = 'rotate(10deg)';
+    });
+
+    var targetClass = 'reveal-text';
+    var additionalClass = 'revealed';
+
+    var targetClass1 = 'revealing-text-img-template--19562841309366__revealing_text_img_UEMMzm';
+    var upClass = 'revealed';
+    let lastScrollTop = 0;
+
+    function isElementInView(element) {
+      var windowTop = $(window).scrollTop();
+      var windowBottom = windowTop + $(window).height();
+      var elementTop = element.offset().top;
+      var elementBottom = elementTop + element.outerHeight();
+
+      return elementBottom > windowTop && elementTop < windowBottom;
+    }
+    function isElementInView1(element) {
+      var windowTop = $(window).scrollTop();
+      var windowBottom = windowTop + $(window).height();
+      var elementTop = element.offset().top;
+      var elementBottom = elementTop + element.outerHeight();
+
+      return elementBottom > windowTop && elementTop < windowBottom;
+    }
+
+    window.addEventListener('scroll', () => {
+      $('.' + targetClass).each(function () {
+        if (isElementInView($(this))) {
+          $(this).addClass(additionalClass);
+        }
+      });
+
+      var currentScroll = $(this).scrollTop();
+      var isScrollingUp = currentScroll < lastScrollTop;
+
+      $('.' + targetClass).each(function () {
+        if (isElementInView1($(this))) {
+          if (isScrollingUp) {
+            $(this).addClass(upClass);
+            
+          } else {
+            
+          }
+        }
+      });
+
+      lastScrollTop = currentScroll;
+
+      var rect = revealingTextImg.getBoundingClientRect();
+      if (rect.top < window.innerHeight && rect.bottom >= 0) {
+        var scrollPosition = window.scrollY - rect.top;
+        var maxScroll = revealingTextImg.scrollHeight - window.innerHeight;
+        var scrollFraction = scrollPosition / maxScroll;
+
+        stickyImgs.forEach((img) => {
+          var rotationDegree = 10 + scrollFraction * 360;
+          img.style.transform = `rotate(${rotationDegree}deg)`;
+        });
+      }
+    });
+  }
+  document.addEventListener('DOMContentLoaded', () => {
+    function initializeRotateScroll() {
+      var revealingTextImg = document.querySelector('.revealing-text-img-template--19562841309366__revealing_text_img_UEMMzm');
+      var stickyImgs = revealingTextImg.querySelectorAll('.sticky-img.rotate-scroll-template--19562841309366__revealing_text_img_UEMMzm');
+      stickyImgs.forEach((img) => {
+        img.style.transform = 'rotate(10deg)';
+      });
+
+      var targetClass = 'reveal-text';
+      var additionalClass = 'revealed';
+
+      var targetClass1 = 'revealing-text-img-template--19562841309366__revealing_text_img_UEMMzm';
+      var upClass = 'revealed';
+      let lastScrollTop = 0;
+
+      function isElementInView(element) {
+        var windowTop = $(window).scrollTop();
+        var windowBottom = windowTop + $(window).height();
+        var elementTop = element.offset().top;
+        var elementBottom = elementTop + element.outerHeight();
+
+        return elementBottom > windowTop && elementTop < windowBottom;
+      }
+      function isElementInView1(element) {
+        var windowTop = $(window).scrollTop();
+        var windowBottom = windowTop + $(window).height();
+        var elementTop = element.offset().top;
+        var elementBottom = elementTop + element.outerHeight();
+
+        return elementBottom > windowTop && elementTop < windowBottom;
+      }
+
+      window.addEventListener('scroll', () => {
+        $('.' + targetClass).each(function () {
+          if (isElementInView($(this))) {
+            $(this).addClass(additionalClass);
+          }
+        });
+
+        var currentScroll = $(this).scrollTop();
+        var isScrollingUp = currentScroll < lastScrollTop;
+
+        $('.' + targetClass).each(function () {
+          if (isElementInView1($(this))) {
+            if (isScrollingUp) {
+              $(this).addClass(upClass);
+              
+            } else {
+              
+            }
+          }
+        });
+
+        lastScrollTop = currentScroll;
+
+        var rect = revealingTextImg.getBoundingClientRect();
+        if (rect.top < window.innerHeight && rect.bottom >= 0) {
+          var scrollPosition = window.scrollY - rect.top;
+          var maxScroll = revealingTextImg.scrollHeight - window.innerHeight;
+          var scrollFraction = scrollPosition / maxScroll;
+
+          stickyImgs.forEach((img) => {
+            var rotationDegree = 10 + scrollFraction * 360;
+            img.style.transform = `rotate(${rotationDegree}deg)`;
+          });
+        }
+      });
+    }
+    initializeRotateScroll();
+  });
+  if (Shopify.designMode) {
+    document.addEventListener('shopify:section:load', initializeRotateScroll);
+    document.addEventListener('shopify:section:reorder', initializeRotateScroll);
+    document.addEventListener('shopify:section:select', initializeRotateScroll);
+  }
+</script> 
+
+
+</section>
+```
+
+## 3. shopify-section-template--19562841309366__icons_with_text_tG4CPW
+
+- Tag: section
+- Classes: shopify-section icons-with-text
+- Headings: Expressive Elements | Seasonal Art Shows | Artist Workshops
+
+```html
+<section id="shopify-section-template--19562841309366__icons_with_text_tG4CPW" class="shopify-section icons-with-text"><style data-shopify="">.section-template--19562841309366__icons_with_text_tG4CPW-padding {
+    padding-top: 80px;
+    padding-bottom: 80px;
+  }
+
+  @media screen and (min-width: 768px) {
+    .section-template--19562841309366__icons_with_text_tG4CPW-padding {
+      padding-top: 120px;
+      padding-bottom: 120px;
+    }
+  }
+  @media screen and (min-width: 1200px) {
+    .section-template--19562841309366__icons_with_text_tG4CPW-padding {
+      padding-top: 160px;
+      padding-bottom: 160px;
+    }
+  }</style>
+<style data-shopify="">#shopify-section-template--19562841309366__icons_with_text_tG4CPW .text-icon .swiper-wrapper .swiper-slide .card .card-image svg{ width:100%; height:100%;}
+    #shopify-section-template--19562841309366__icons_with_text_tG4CPW .text-icon .card .card-body .card-text{ width:100%; max-width: min(450px, 85%);}
+    
+     #shopify-section-template--19562841309366__icons_with_text_tG4CPW .text-icon .card .card-body .card-text{ width:100%; max-width: min(450px, 85%); }
+    
+    .icons-with-text .section-template--19562841309366__icons_with_text_tG4CPW .card-image > svg {width:100%; height:100%;}
+    .icons-with-text .section-template--19562841309366__icons_with_text_tG4CPW .multi-content .card .card-body{max-width:fit-content;}</style>
+
+
+<style data-shopify="">.section-template--19562841309366__icons_with_text_tG4CPW .swiper:not(.swiper-initialized) :is(.swiper-prev, .swiper-next){ display: none !important; }
+
+@media screen and (min-width: 576px){  
+.section-template--19562841309366__icons_with_text_tG4CPW .swiper:not(.swiper-initialized) .swiper-wrapper .swiper-slide  {
+width: calc((100% - px * 1 ) / 2);
+margin-right:px; 
+}
+}
+ 
+@media screen and (min-width: 992px){  
+ .section-template--19562841309366__icons_with_text_tG4CPW .swiper:not(.swiper-initialized) .swiper-wrapper .swiper-slide  {
+width: calc((100% - px * 2 ) / 3);
+margin-right:px; 
+}
+} 
+
+@media screen and (min-width: 1200px){
+
+  
+.section-template--19562841309366__icons_with_text_tG4CPW .swiper:not(.swiper-initialized) .swiper-wrapper .swiper-slide  {
+width: calc((100% - px * 2 ) / 3);
+margin-right:px; 
+}
+
+}</style>
+<div class="icons-with-text text-icon color-scheme-1">
+  <div class="section-template--19562841309366__icons_with_text_tG4CPW section-template--19562841309366__icons_with_text_tG4CPW-padding container-fluid">
+    <style data-shopify="">
+
+
+  .title-container{ margin-bottom:clamp(1.875rem, 1.625rem + 1.25vw, 3.125rem); }
+</style>
+
+    
+    <div class="row row-cols-1 row-cols-md-2 row-cols-lg-2 row-cols-xl-3
+ g-3">
+      
+<div class="position-relative  col  px-2">
+          <div class="card  flex-column align-items-md-center align-items-center gap-4 ">
+            
+              <div class="card-image overflow-hidden flex-shrink-0" style="width:100px;height:100px;"><img src="//elegance-canvas.myshopify.com/cdn/shop/files/icon-3.png?v=1725372956&amp;width=150" alt="our works" srcset="//elegance-canvas.myshopify.com/cdn/shop/files/icon-3.png?v=1725372956&amp;width=150 150w" width="150" height="259" loading="lazy" class="object-fit-contain w-100 h-100">
+</div>
+            
+            <div class="card-body p-0 text-break gap-2 d-flex flex-column text-sm-center text-center "><h2 class="card-title mb-0">Expressive Elements</h2><div class="
+                    card-text mb-0  mx-md-auto 
+                     mx-auto mx-md-0 
+                  ">
+                  Our gallery showcases a variety of art, from modern creations to timeless classics.
+                </div>
+</div>
+          </div>
+        </div><div class="position-relative  col  px-2">
+          <div class="card  flex-column align-items-md-center align-items-center gap-4 ">
+            
+              <div class="card-image overflow-hidden flex-shrink-0" style="width:100px;height:100px;"><img src="//elegance-canvas.myshopify.com/cdn/shop/files/icon-1.png?v=1725372956&amp;width=150" alt="Seasonal Art Shows" srcset="//elegance-canvas.myshopify.com/cdn/shop/files/icon-1.png?v=1725372956&amp;width=150 150w" width="150" height="151" loading="lazy" class="object-fit-contain w-100 h-100">
+</div>
+            
+            <div class="card-body p-0 text-break gap-2 d-flex flex-column text-sm-center text-center "><h2 class="card-title mb-0">Seasonal Art Shows</h2><div class="
+                    card-text mb-0  mx-md-auto 
+                     mx-auto mx-md-0 
+                  ">
+                  Our displays are regularly updated with new artists and styles to keep things fresh.
+                </div>
+</div>
+          </div>
+        </div><div class="position-relative  col  px-2">
+          <div class="card  flex-column align-items-md-center align-items-center gap-4 ">
+            
+              <div class="card-image overflow-hidden flex-shrink-0" style="width:100px;height:100px;"><img src="//elegance-canvas.myshopify.com/cdn/shop/files/icon-2.png?v=1725372957&amp;width=150" alt="Artist Workshops" srcset="//elegance-canvas.myshopify.com/cdn/shop/files/icon-2.png?v=1725372957&amp;width=150 150w" width="150" height="203" loading="lazy" class="object-fit-contain w-100 h-100">
+</div>
+            
+            <div class="card-body p-0 text-break gap-2 d-flex flex-column text-sm-center text-center "><h2 class="card-title mb-0">Artist Workshops</h2><div class="
+                    card-text mb-0  mx-md-auto 
+                     mx-auto mx-md-0 
+                  ">
+                  We host seminars and workshops where visitors can meet and learn from local artists.
+                </div>
+</div>
+          </div>
+        </div>
+
+      <!-- --Pagination -->
+      
+
+    </div>
+    
+    
+  </div>
+</div>
+
+
+
+</section>
+```

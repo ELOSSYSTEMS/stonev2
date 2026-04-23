@@ -1,0 +1,68 @@
+{
+  "pageUrl": "https://dynamic-preview.myshopify.com/collections",
+  "pageTitle": "Collections – Dynamic",
+  "pageSlug": "dynamic_preview_myshopify_com_collections",
+  "sections": [
+    {
+      "refId": "dynamic_preview_myshopify_com_collections__section_01",
+      "index": 1,
+      "selectorHint": "#shopify-section-template--27935319982246__page_hero",
+      "typeGuess": "editorial-media",
+      "patternTags": [
+        "top-of-page",
+        "category-navigation",
+        "editorial-media"
+      ],
+      "headingSample": [
+        "All Collections"
+      ],
+      "textSample": ".collection_list_wrapper-template--27935319982246__page_hero { padding-top: 0px; padding-bottom: 40px; margin: 0 10px;; } @media screen and (max-width: 640px) { .collection_list_wrapper-template--27935319982246__page_hero { padding-top: 0px; padding-bottom: 20px; } } All Collecti",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_collections/dynamic_preview_myshopify_com_collections__section_01.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/pages/dynamic_preview_myshopify_com_collections.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/pages/dynamic_preview_myshopify_com_collections.json"
+    },
+    {
+      "refId": "dynamic_preview_myshopify_com_collections__section_02",
+      "index": 2,
+      "selectorHint": "#shopify-section-template--27935319982246__main",
+      "typeGuess": "product-grid",
+      "patternTags": [
+        "image-heavy",
+        "cta-cluster",
+        "card-grid",
+        "product-commerce",
+        "category-navigation",
+        "editorial-media"
+      ],
+      "headingSample": [
+        "All product",
+        "Body Care",
+        "Cleansers & Face Wash",
+        "Exfoliation & Masks",
+        "Eyes",
+        "Face Oils"
+      ],
+      "textSample": "All product 15 Body Care 3 Cleansers & Face Wash 1 Exfoliation & Masks 1 Eyes 1 Face Oils 1 Foundations 2 Glow Boosters 4 Hair Care 0 Home page 1 Lip Care 2 Makeup 6 Makeup Remover 0 Moisturizer 3 Skin Care 7 Skin care 9 Sun & Protection 1 Sunscreen 1 Tools And Accessories 2 What",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_collections/dynamic_preview_myshopify_com_collections__section_02.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/pages/dynamic_preview_myshopify_com_collections.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/pages/dynamic_preview_myshopify_com_collections.json"
+    },
+    {
+      "refId": "dynamic_preview_myshopify_com_collections__section_03",
+      "index": 3,
+      "selectorHint": "#shopify-section-template--27935319982246__logo_list_bHki9U",
+      "typeGuess": "editorial-media",
+      "patternTags": [
+        "image-heavy",
+        "slider",
+        "cta-cluster",
+        "editorial-media"
+      ],
+      "headingSample": [],
+      "textSample": ".brand_logo_img { width: 14.2%; } .brand_logo_list { display: flex; align-items: center; justify-content: space-between; width: 100%; } .brand_logo_list .swiper-wrapper { display: flex; align-items: center; justify-content: space-between; width: 100%; } .section-template--2793531",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/elements/dynamic_preview_myshopify_com_collections/dynamic_preview_myshopify_com_collections__section_03.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/pages/dynamic_preview_myshopify_com_collections.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/dynamic-preview/pages/dynamic_preview_myshopify_com_collections.json"
+    }
+  ]
+}

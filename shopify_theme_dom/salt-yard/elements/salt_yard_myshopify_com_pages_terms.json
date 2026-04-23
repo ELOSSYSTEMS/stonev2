@@ -1,0 +1,26 @@
+{
+  "pageUrl": "https://salt-yard.myshopify.com/pages/terms",
+  "pageTitle": "Terms & Conditions of Service – Symmetry Theme Salt Yard",
+  "pageSlug": "salt_yard_myshopify_com_pages_terms",
+  "sections": [
+    {
+      "refId": "salt_yard_myshopify_com_pages_terms__section_01",
+      "index": 1,
+      "selectorHint": "div.container.cf",
+      "typeGuess": "content-section",
+      "patternTags": [
+        "top-of-page",
+        "product-commerce"
+      ],
+      "headingSample": [
+        "Terms & Conditions of Service",
+        "Returns",
+        "Refunds"
+      ],
+      "textSample": "Terms & Conditions of Service Standard Delivery Our items are delivered free to all states. Express Delivery Please see prices at checkout for speedy delivery options. Returns Our policy lasts 30 days. If 30 days have gone by since your purchase, unfortunately we can’t offer you ",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_pages_terms/salt_yard_myshopify_com_pages_terms__section_01.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/pages/salt_yard_myshopify_com_pages_terms.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/pages/salt_yard_myshopify_com_pages_terms.json"
+    }
+  ]
+}

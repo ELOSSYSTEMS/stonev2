@@ -1,0 +1,60 @@
+{
+  "pageUrl": "https://highlight-theme-main.myshopify.com/es/collections/apparel",
+  "pageTitle": "Vestir – Highlight Theme",
+  "pageSlug": "highlight_theme_main_myshopify_com_es_collections_apparel",
+  "sections": [
+    {
+      "refId": "highlight_theme_main_myshopify_com_es_collections_apparel__section_01",
+      "index": 1,
+      "selectorHint": "#shopify-section-template--15085564559521__main",
+      "typeGuess": "hero",
+      "patternTags": [
+        "hero-candidate",
+        "top-of-page",
+        "image-heavy",
+        "slider",
+        "cta-cluster",
+        "card-grid",
+        "product-commerce",
+        "category-navigation",
+        "editorial-media"
+      ],
+      "headingSample": [
+        "Vestir",
+        "Cada producto, desde un reflector que salva vidas hasta una piruleta hecha a mano, está lleno de innovación. La idea del producto es lo primero, seguida del diseño minimalista.Aprende más"
+      ],
+      "textSample": "Vestir Cerrar 11 productos Filtrar: Disponibilidad 0 seleccionados Restablecer En existencia (11) Agotado (3) Precio El precio más alto es $99.00 Restablecer De $ A $ Tipo de producto 0 seleccionados Restablecer socks (1) sweatshirt (3) t-shirt (4) tote (3) Size 0 seleccionados R",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/highlight-theme-main/elements/highlight_theme_main_myshopify_com_es_collections_apparel/highlight_theme_main_myshopify_com_es_collections_apparel__section_01.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/highlight-theme-main/pages/highlight_theme_main_myshopify_com_es_collections_apparel.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/highlight-theme-main/pages/highlight_theme_main_myshopify_com_es_collections_apparel.json"
+    },
+    {
+      "refId": "highlight_theme_main_myshopify_com_es_collections_apparel__section_02",
+      "index": 2,
+      "selectorHint": "#shopify-section-sections--16050587173025__text-columns-with-icons",
+      "typeGuess": "content-section",
+      "patternTags": [],
+      "headingSample": [],
+      "textSample": "Same Day Dispatch All orders placed before 4pm Monday to Friday are dispatched same day. Free & Fast Delivery A free fully-trackable 2-day delivery service on all orders over $150. Exchanges & Returns You have 30 days from the shipping date to return your purchase FREE OF CHARGE.",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/highlight-theme-main/elements/highlight_theme_main_myshopify_com_es_collections_apparel/highlight_theme_main_myshopify_com_es_collections_apparel__section_02.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/highlight-theme-main/pages/highlight_theme_main_myshopify_com_es_collections_apparel.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/highlight-theme-main/pages/highlight_theme_main_myshopify_com_es_collections_apparel.json"
+    },
+    {
+      "refId": "highlight_theme_main_myshopify_com_es_collections_apparel__section_03",
+      "index": 3,
+      "selectorHint": "#shopify-section-sections--16050587173025__footer",
+      "typeGuess": "category-row",
+      "patternTags": [
+        "cta-cluster",
+        "card-grid",
+        "category-navigation"
+      ],
+      "headingSample": [],
+      "textSample": "About MARCH does not invent new things but improves existing ones. LINKS Búsqueda Ayuda / Preguntas frecuentes Talla y ajuste Envío y devoluciones Contactos Newsletter Correo electrónico Registrarme Invite customers to join your newsletter.Link to your privacy policy. Idioma Espa",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/highlight-theme-main/elements/highlight_theme_main_myshopify_com_es_collections_apparel/highlight_theme_main_myshopify_com_es_collections_apparel__section_03.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/highlight-theme-main/pages/highlight_theme_main_myshopify_com_es_collections_apparel.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/highlight-theme-main/pages/highlight_theme_main_myshopify_com_es_collections_apparel.json"
+    }
+  ]
+}

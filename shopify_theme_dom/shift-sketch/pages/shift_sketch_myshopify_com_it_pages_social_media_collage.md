@@ -1,0 +1,157 @@
+# Shopify page scrape
+
+- URL: https://shift-sketch.myshopify.com/it/pages/social-media-collage
+- Title: collage sui social media – Shift Sketch
+- Body classes: template-page template-page-social-media-collage
+- Custom elements: cart-drawer, cart-drawer-items, header-drawer, header-search, menu-drawer, modal-localization-form, modal-region-selector, predictive-search, shop-cart-sync, sticky-header
+- Headings: collage sui social media | Negozio | Negozio | Esplorare | Esplorare | Legal | Legal | Seguici | Iscriviti alla nostra newsletter
+
+## 1. shopify-section-template--28054349971831__page_info
+
+- Tag: section
+- Classes: shopify-section page-section
+- Headings: collage sui social media
+
+```html
+<section id="shopify-section-template--28054349971831__page_info" class="shopify-section page-section"><link href="//shift-sketch.myshopify.com/cdn/shop/t/2/assets/section-main-page.css?v=122541859386650611581774270656" rel="stylesheet" type="text/css" media="all">
+
+<div class="page-section-wrapper container align-left">
+  <div class="page-header">
+    <div class="page-header__inner">
+      <h1 class="page-header__inner-title h5">collage sui social media</h1>
+    </div>
+  </div></div>
+
+
+</section>
+```
+
+## 2. shopify-section-template--28054349971831__social_media_QqMPiA
+
+- Tag: section
+- Classes: shopify-section social-media-section
+- Headings: None
+
+```html
+<section id="shopify-section-template--28054349971831__social_media_QqMPiA" class="shopify-section social-media-section"><link href="//shift-sketch.myshopify.com/cdn/shop/t/2/assets/section-social-media.css?v=177989780428253477231774608816" rel="stylesheet" type="text/css" media="all">
+<script src="//shift-sketch.myshopify.com/cdn/shop/t/2/assets/social-media.js?v=135426585561926597661774608817" defer=""></script>
+
+<style data-shopify="">
+  .section-template--28054349971831__social_media_QqMPiA-padding {
+
+  padding-top: 0;
+
+
+
+  padding-bottom: 0;
+
+}
+
+@media screen and (min-width: 750px) { .section-template--28054349971831__social_media_QqMPiA-padding {
+
+  padding-top: 0;
+
+
+
+  padding-bottom: 0;
+
+} }
+
+@media screen and (min-width: 1440px) { .section-template--28054349971831__social_media_QqMPiA-padding {
+
+  padding-top: 0;
+
+
+
+  padding-bottom: 0;
+
+} }
+
+  #shopify-section-template--28054349971831__social_media_QqMPiA {
+
+  padding-top: 0;
+
+
+
+  padding-bottom: 8rem;
+
+}
+
+@media screen and (min-width: 750px) { #shopify-section-template--28054349971831__social_media_QqMPiA {
+
+  padding-top: 0;
+
+
+
+  padding-bottom: 12rem;
+
+} }
+
+@media screen and (min-width: 1440px) { #shopify-section-template--28054349971831__social_media_QqMPiA {
+
+  padding-top: 0;
+
+
+
+  padding-bottom: 15rem;
+
+
+} }
+
+</style>
+
+<div class="social-media section-template--28054349971831__social_media_QqMPiA-padding">
+  <div class="content social-media-content">
+    
+<style data-shopify="">#shopify-section-template--28054349971831__social_media_QqMPiA {
+       --per-row: 4;
+        }</style><div class="social-media-content__slider container">
+        <div class="social-media-slider"><div class="social-media-content__info h5">
+              <p class="social-media-content__info-name parallax-text vertical-text" data-parallax="250" style="transform: translateY(81px);">
+                Seguici qui
+              </p>
+            </div><div class="social-media-wrapper-box">
+            <div class="social-media-wrapper social-media-wrapper--4 social-media-wrapper--grid">
+              
+
+                <div class="social-media-slide social-media-slide--square animate reveal--show" style="--delay: 0.0s" data-scroll-image-reveal="" data-reveal-sequence="" data-reveal-initialized="">
+                    <img src="//shift-sketch.myshopify.com/cdn/shop/files/03-product-01.jpg?v=1770805411&amp;width=3840" alt="" srcset="//shift-sketch.myshopify.com/cdn/shop/files/03-product-01.jpg?v=1770805411&amp;width=150 150w, //shift-sketch.myshopify.com/cdn/shop/files/03-product-01.jpg?v=1770805411&amp;width=171 171w, //shift-sketch.myshopify.com/cdn/shop/files/03-product-01.jpg?v=1770805411&amp;width=204 204w, //shift-sketch.myshopify.com/cdn/shop/files/03-product-01.jpg?v=1770805411&amp;width=375 375w, //shift-sketch.myshopify.com/cdn/shop/files/03-product-01.jpg?v=1770805411&amp;width=420 420w, //shift-sketch.myshopify.com/cdn/shop/files/03-product-01.jpg?v=1770805411&amp;width=550 550w, //shift-sketch.myshopify.com/cdn/shop/files/03-product-01.jpg?v=1770805411&amp;width=750 750w, //shift-sketch.myshopify.com/cdn/shop/files/03-product-01.jpg?v=1770805411&amp;width=1000 1000w, //shift-sketch.myshopify.com/cdn/shop/files/03-product-01.jpg?v=1770805411&amp;width=1280 1280w, //shift-sketch.myshopify.com/cdn/shop/files/03-product-01.jpg?v=1770805411&amp;width=1500 1500w, //shift-sketch.myshopify.com/cdn/shop/files/03-product-01.jpg?v=1770805411&amp;width=1780 1780w, //shift-sketch.myshopify.com/cdn/shop/files/03-product-01.jpg?v=1770805411&amp;width=2560 2560w, //shift-sketch.myshopify.com/cdn/shop/files/03-product-01.jpg?v=1770805411&amp;width=3000 3000w, //shift-sketch.myshopify.com/cdn/shop/files/03-product-01.jpg?v=1770805411&amp;width=3840 3840w" width="1538" height="2048" loading="lazy" sizes="(min-width: 576px) calc(100vw /   * 1),calc(100vw /  * 1)," style="object-fit: cover" class=" scroll-image-reveal__target">
+</div>
+                <div class="social-media-slide social-media-slide--square animate reveal--show" style="--delay: 0.2s" data-scroll-image-reveal="" data-reveal-sequence="" data-reveal-initialized="">
+                    <img src="//shift-sketch.myshopify.com/cdn/shop/files/03-product-05.jpg?v=1770805465&amp;width=3840" alt="" srcset="//shift-sketch.myshopify.com/cdn/shop/files/03-product-05.jpg?v=1770805465&amp;width=150 150w, //shift-sketch.myshopify.com/cdn/shop/files/03-product-05.jpg?v=1770805465&amp;width=171 171w, //shift-sketch.myshopify.com/cdn/shop/files/03-product-05.jpg?v=1770805465&amp;width=204 204w, //shift-sketch.myshopify.com/cdn/shop/files/03-product-05.jpg?v=1770805465&amp;width=375 375w, //shift-sketch.myshopify.com/cdn/shop/files/03-product-05.jpg?v=1770805465&amp;width=420 420w, //shift-sketch.myshopify.com/cdn/shop/files/03-product-05.jpg?v=1770805465&amp;width=550 550w, //shift-sketch.myshopify.com/cdn/shop/files/03-product-05.jpg?v=1770805465&amp;width=750 750w, //shift-sketch.myshopify.com/cdn/shop/files/03-product-05.jpg?v=1770805465&amp;width=1000 1000w, //shift-sketch.myshopify.com/cdn/shop/files/03-product-05.jpg?v=1770805465&amp;width=1280 1280w, //shift-sketch.myshopify.com/cdn/shop/files/03-product-05.jpg?v=1770805465&amp;width=1500 1500w, //shift-sketch.myshopify.com/cdn/shop/files/03-product-05.jpg?v=1770805465&amp;width=1780 1780w, //shift-sketch.myshopify.com/cdn/shop/files/03-product-05.jpg?v=1770805465&amp;width=2560 2560w, //shift-sketch.myshopify.com/cdn/shop/files/03-product-05.jpg?v=1770805465&amp;width=3000 3000w, //shift-sketch.myshopify.com/cdn/shop/files/03-product-05.jpg?v=1770805465&amp;width=3840 3840w" width="1704" height="2272" loading="lazy" sizes="(min-width: 576px) calc(100vw /   * 1),calc(100vw /  * 1)," style="object-fit: cover" class=" scroll-image-reveal__target">
+</div>
+                <div class="social-media-slide social-media-slide--square animate reveal--show" style="--delay: 0.4s" data-scroll-image-reveal="" data-reveal-sequence="" data-reveal-initialized="">
+                    <img src="//shift-sketch.myshopify.com/cdn/shop/files/02-product-02.jpg?v=1770805337&amp;width=3840" alt="" srcset="//shift-sketch.myshopify.com/cdn/shop/files/02-product-02.jpg?v=1770805337&amp;width=150 150w, //shift-sketch.myshopify.com/cdn/shop/files/02-product-02.jpg?v=1770805337&amp;width=171 171w, //shift-sketch.myshopify.com/cdn/shop/files/02-product-02.jpg?v=1770805337&amp;width=204 204w, //shift-sketch.myshopify.com/cdn/shop/files/02-product-02.jpg?v=1770805337&amp;width=375 375w, //shift-sketch.myshopify.com/cdn/shop/files/02-product-02.jpg?v=1770805337&amp;width=420 420w, //shift-sketch.myshopify.com/cdn/shop/files/02-product-02.jpg?v=1770805337&amp;width=550 550w, //shift-sketch.myshopify.com/cdn/shop/files/02-product-02.jpg?v=1770805337&amp;width=750 750w, //shift-sketch.myshopify.com/cdn/shop/files/02-product-02.jpg?v=1770805337&amp;width=1000 1000w, //shift-sketch.myshopify.com/cdn/shop/files/02-product-02.jpg?v=1770805337&amp;width=1280 1280w, //shift-sketch.myshopify.com/cdn/shop/files/02-product-02.jpg?v=1770805337&amp;width=1500 1500w, //shift-sketch.myshopify.com/cdn/shop/files/02-product-02.jpg?v=1770805337&amp;width=1780 1780w, //shift-sketch.myshopify.com/cdn/shop/files/02-product-02.jpg?v=1770805337&amp;width=2560 2560w, //shift-sketch.myshopify.com/cdn/shop/files/02-product-02.jpg?v=1770805337&amp;width=3000 3000w, //shift-sketch.myshopify.com/cdn/shop/files/02-product-02.jpg?v=1770805337&amp;width=3840 3840w" width="1664" height="2218" loading="lazy" sizes="(min-width: 576px) calc(100vw /   * 1),calc(100vw /  * 1)," style="object-fit: cover" class=" scroll-image-reveal__target">
+</div>
+                <div class="social-media-slide social-media-slide--square animate reveal--show" style="--delay: 0.6s" data-scroll-image-reveal="" data-reveal-sequence="" data-reveal-initialized="">
+                    <img src="//shift-sketch.myshopify.com/cdn/shop/files/03-product-04.jpg?v=1770805466&amp;width=3840" alt="" srcset="//shift-sketch.myshopify.com/cdn/shop/files/03-product-04.jpg?v=1770805466&amp;width=150 150w, //shift-sketch.myshopify.com/cdn/shop/files/03-product-04.jpg?v=1770805466&amp;width=171 171w, //shift-sketch.myshopify.com/cdn/shop/files/03-product-04.jpg?v=1770805466&amp;width=204 204w, //shift-sketch.myshopify.com/cdn/shop/files/03-product-04.jpg?v=1770805466&amp;width=375 375w, //shift-sketch.myshopify.com/cdn/shop/files/03-product-04.jpg?v=1770805466&amp;width=420 420w, //shift-sketch.myshopify.com/cdn/shop/files/03-product-04.jpg?v=1770805466&amp;width=550 550w, //shift-sketch.myshopify.com/cdn/shop/files/03-product-04.jpg?v=1770805466&amp;width=750 750w, //shift-sketch.myshopify.com/cdn/shop/files/03-product-04.jpg?v=1770805466&amp;width=1000 1000w, //shift-sketch.myshopify.com/cdn/shop/files/03-product-04.jpg?v=1770805466&amp;width=1280 1280w, //shift-sketch.myshopify.com/cdn/shop/files/03-product-04.jpg?v=1770805466&amp;width=1500 1500w, //shift-sketch.myshopify.com/cdn/shop/files/03-product-04.jpg?v=1770805466&amp;width=1780 1780w, //shift-sketch.myshopify.com/cdn/shop/files/03-product-04.jpg?v=1770805466&amp;width=2560 2560w, //shift-sketch.myshopify.com/cdn/shop/files/03-product-04.jpg?v=1770805466&amp;width=3000 3000w, //shift-sketch.myshopify.com/cdn/shop/files/03-product-04.jpg?v=1770805466&amp;width=3840 3840w" width="1856" height="2290" loading="lazy" sizes="(min-width: 576px) calc(100vw /   * 1),calc(100vw /  * 1)," style="object-fit: cover" class=" scroll-image-reveal__target">
+</div></div>
+              
+
+
+
+  <a href="https://www.instagram.com/shopify" aria-label="@nome utente" class="button button--tertiary social-media-content__button h5 focus-inset featured_button animate-in" target="_blank">
+    <span class="button__content">
+      
+        <span class="button__icons-container">
+          <svg class="icon icon-arrow--tertiary-button icon-arrow--tertiary-button-big" width="31" height="28" viewBox="0 0 31 28" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M1.56577 13.9997H29.4342M29.4342 13.9997L17.2415 26.1924M29.4342 13.9997L17.2415 1.8069" stroke="currentColor" stroke-width="2" stroke-linecap="square"></path>
+</svg>
+
+          <svg class="icon icon-arrow--tertiary-button icon-arrow--tertiary-button-big" width="31" height="28" viewBox="0 0 31 28" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M1.56577 13.9997H29.4342M29.4342 13.9997L17.2415 26.1924M29.4342 13.9997L17.2415 1.8069" stroke="currentColor" stroke-width="2" stroke-linecap="square"></path>
+</svg>
+
+        </span>
+      
+      <span class="button__label">@nome utente</span>
+    </span>
+  </a>
+</div>
+        </div>
+      </div></div>
+</div>
+
+
+</section>
+```

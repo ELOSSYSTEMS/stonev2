@@ -1,0 +1,60 @@
+{
+  "pageUrl": "https://highlight-theme-main.myshopify.com/de/collections/reflective-goods",
+  "pageTitle": "Reflektierende Dinge – Highlight Theme",
+  "pageSlug": "highlight_theme_main_myshopify_com_de_collections_reflective_goods",
+  "sections": [
+    {
+      "refId": "highlight_theme_main_myshopify_com_de_collections_reflective_goods__section_01",
+      "index": 1,
+      "selectorHint": "#shopify-section-template--15085564559521__main",
+      "typeGuess": "hero",
+      "patternTags": [
+        "hero-candidate",
+        "top-of-page",
+        "image-heavy",
+        "slider",
+        "cta-cluster",
+        "card-grid",
+        "product-commerce",
+        "category-navigation",
+        "editorial-media"
+      ],
+      "headingSample": [
+        "Reflektierende Dinge",
+        "Jedes Produkt, vom lebensrettenden Reflektor bis zum handgefertigten Lutscher, steckt voller Innovationen. Die Produktidee steht an erster Stelle, gefolgt von minimalistischem Design.Erfahren Sie mehr"
+      ],
+      "textSample": "Reflektierende Dinge Schließen 11 Produkte Filter: Verfügbarkeit 0 ausgewählt Zurücksetzen Auf Lager (11) Nicht vorrätig (2) Preis Der höchste Preis ist $84.00 Zurücksetzen Von $ Nach $ Produkttyp 0 ausgewählt Zurücksetzen buttons (1) reflector (2) socks (1) sticker (3) sweatshir",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/highlight-theme-main/elements/highlight_theme_main_myshopify_com_de_collections_reflective_goods/highlight_theme_main_myshopify_com_de_collections_reflective_goods__section_01.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/highlight-theme-main/pages/highlight_theme_main_myshopify_com_de_collections_reflective_goods.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/highlight-theme-main/pages/highlight_theme_main_myshopify_com_de_collections_reflective_goods.json"
+    },
+    {
+      "refId": "highlight_theme_main_myshopify_com_de_collections_reflective_goods__section_02",
+      "index": 2,
+      "selectorHint": "#shopify-section-sections--16050587173025__text-columns-with-icons",
+      "typeGuess": "content-section",
+      "patternTags": [],
+      "headingSample": [],
+      "textSample": "Same Day Dispatch All orders placed before 4pm Monday to Friday are dispatched same day. Free & Fast Delivery A free fully-trackable 2-day delivery service on all orders over $150. Exchanges & Returns You have 30 days from the shipping date to return your purchase FREE OF CHARGE.",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/highlight-theme-main/elements/highlight_theme_main_myshopify_com_de_collections_reflective_goods/highlight_theme_main_myshopify_com_de_collections_reflective_goods__section_02.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/highlight-theme-main/pages/highlight_theme_main_myshopify_com_de_collections_reflective_goods.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/highlight-theme-main/pages/highlight_theme_main_myshopify_com_de_collections_reflective_goods.json"
+    },
+    {
+      "refId": "highlight_theme_main_myshopify_com_de_collections_reflective_goods__section_03",
+      "index": 3,
+      "selectorHint": "#shopify-section-sections--16050587173025__footer",
+      "typeGuess": "category-row",
+      "patternTags": [
+        "cta-cluster",
+        "card-grid",
+        "category-navigation"
+      ],
+      "headingSample": [],
+      "textSample": "About MARCH does not invent new things but improves existing ones. LINKS Suche Hilfe / FAQ Größe & Passform Versand & Rücksendungen Kontakte Newsletter E-mail Adresse Abonnieren Invite customers to join your newsletter.Link to your privacy policy. Sprache Deutsch English Español ",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/highlight-theme-main/elements/highlight_theme_main_myshopify_com_de_collections_reflective_goods/highlight_theme_main_myshopify_com_de_collections_reflective_goods__section_03.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/highlight-theme-main/pages/highlight_theme_main_myshopify_com_de_collections_reflective_goods.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/highlight-theme-main/pages/highlight_theme_main_myshopify_com_de_collections_reflective_goods.json"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "pageUrl": "https://shift-sketch.myshopify.com/it/pages/contact",
+  "pageTitle": "Contatto – Shift Sketch",
+  "pageSlug": "shift_sketch_myshopify_com_it_pages_contact",
+  "sections": [
+    {
+      "refId": "shift_sketch_myshopify_com_it_pages_contact__section_01",
+      "index": 1,
+      "selectorHint": "#shopify-section-template--27266933981559__form",
+      "typeGuess": "content-section",
+      "patternTags": [
+        "top-of-page"
+      ],
+      "headingSample": [
+        "Contact Us"
+      ],
+      "textSample": "#shopify-section-template--27266933981559__form { padding-top: 3.6rem; padding-bottom: 8rem; } @media screen and (min-width: 750px) { #shopify-section-template--27266933981559__form { padding-top: 5rem; padding-bottom: 12rem; } } @media screen and (min-width: 1440px) { #shopify-s",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/shift-sketch/elements/shift_sketch_myshopify_com_it_pages_contact/shift_sketch_myshopify_com_it_pages_contact__section_01.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/shift-sketch/pages/shift_sketch_myshopify_com_it_pages_contact.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/shift-sketch/pages/shift_sketch_myshopify_com_it_pages_contact.json"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "pageUrl": "https://salt-yard.myshopify.com/products/unrecorded-annemieke-boots-stoneware-pitcher",
+  "pageTitle": "Unrecorded + Annemieke Boots Stoneware Pitcher – Symmetry Theme Salt Yard",
+  "pageSlug": "salt_yard_myshopify_com_products_unrecorded_annemieke_boots_stoneware_pitcher",
+  "sections": [
+    {
+      "refId": "salt_yard_myshopify_com_products_unrecorded_annemieke_boots_stoneware_pitcher__section_01",
+      "index": 1,
+      "selectorHint": "div.container.cf",
+      "typeGuess": "hero",
+      "patternTags": [
+        "hero-candidate",
+        "top-of-page",
+        "image-heavy",
+        "slider",
+        "cta-cluster",
+        "card-grid",
+        "product-commerce",
+        "editorial-media",
+        "marquee"
+      ],
+      "headingSample": [
+        "Coming Soon",
+        "Unrecorded + Annemieke Boots Stoneware Pitcher",
+        "Unrecorded + Annemieke Boots Stoneware Pitcher",
+        "Unrecorded + Annemieke Boots Stoneware Pitcher",
+        "Follow us on Instagram"
+      ],
+      "textSample": "#section-id-template--26857926852681__fd9dd9b9-d802-40e3-b8f7-a6b1f8a524d6 .height--fixed { --image-height: 240px; } @media (min-width: 768px) { #section-id-template--26857926852681__fd9dd9b9-d802-40e3-b8f7-a6b1f8a524d6 .height--fixed { --image-height: 560px; } } #section-id-temp",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_products_unrecorded_annemieke_boots_stoneware_pitcher/salt_yard_myshopify_com_products_unrecorded_annemieke_boots_stoneware_pitcher__section_01.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/pages/salt_yard_myshopify_com_products_unrecorded_annemieke_boots_stoneware_pitcher.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/pages/salt_yard_myshopify_com_products_unrecorded_annemieke_boots_stoneware_pitcher.json"
+    }
+  ]
+}

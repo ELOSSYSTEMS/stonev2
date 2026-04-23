@@ -1,0 +1,7540 @@
+# Shopify page scrape
+
+- URL: https://shift-sketch.myshopify.com/collections/all
+- Title: Products – Shift Sketch
+- Body classes: template-collection template-collection
+- Custom elements: cart-drawer, cart-drawer-items, facet-filters-form, facet-remove, header-drawer, header-search, menu-drawer, modal-localization-form, modal-opener, modal-region-selector, predictive-search, price-range, product-card, quick-view-modal, shop-cart-sync, sticky-header
+- Headings: Collection: Products | Annual Planner Calendar | Compact Sketch Pad | Compact Writing Pad | Craft Desk Clip | Craft Logo Sticker | Craft Oversize Tote | Craft Pin Badge | Daily List Pad | Daily Structure Planner | Daily View Calendar | Day-to-Day Planner | Essential Grid Planner | Essential Notes Pad | Essential Wall Calendar | Field Draft Book | Horizon Notebook | Model S Sketch Journal | Neutral Block Notebook | Notes Pad 01 | Organizer Wall Calendar | Shop | Shop | Explore | Explore | Legal | Legal | Follow us | Join our Newsletter
+
+## 1. shopify-section-template--27266934243703__product-grid
+
+- Tag: section
+- Classes: shopify-section collection-grid-section
+- Headings: Collection: Products | Annual Planner Calendar | Compact Sketch Pad | Compact Writing Pad | Craft Desk Clip | Craft Logo Sticker
+
+```html
+<section id="shopify-section-template--27266934243703__product-grid" class="shopify-section collection-grid-section"><link href="//shift-sketch.myshopify.com/cdn/shop/t/2/assets/template-collection.css?v=14175664188467256911774258393" rel="stylesheet" type="text/css" media="all">
+
+  <link href="//shift-sketch.myshopify.com/cdn/shop/t/2/assets/component-collection-hero.css?v=33804487998792181221775027996" rel="stylesheet" type="text/css" media="all">
+
+<link href="//shift-sketch.myshopify.com/cdn/shop/t/2/assets/component-card.css?v=58533343598109286121773315752" rel="stylesheet" type="text/css" media="all">
+<link href="//shift-sketch.myshopify.com/cdn/shop/t/2/assets/component-facets.css?v=113967753288604140721775624745" rel="stylesheet" type="text/css" media="all">
+  <script src="//shift-sketch.myshopify.com/cdn/shop/t/2/assets/facets.js?v=83293892091185086711775624746" defer="defer"></script>
+  <script src="//shift-sketch.myshopify.com/cdn/shop/t/2/assets/products-per-row.js?v=70628967696761642651769596482" defer="defer"></script>
+
+
+
+  <script src="//shift-sketch.myshopify.com/cdn/shop/t/2/assets/collection-hero-slider.js?v=73016314877447906471766398547" defer="defer"></script>
+
+<style data-shopify="">#shopify-section-template--27266934243703__product-grid {
+
+  padding-top: 0;
+
+
+
+  padding-bottom: 8rem;
+
+}
+
+@media screen and (min-width: 750px) { #shopify-section-template--27266934243703__product-grid {
+
+  padding-top: 0;
+
+
+
+  padding-bottom: 12rem;
+
+} }
+
+@media screen and (min-width: 1440px) { #shopify-section-template--27266934243703__product-grid {
+
+  padding-top: 0;
+
+
+
+  padding-bottom: 15rem;
+
+
+} }
+
+
+  .facets__container {
+    visibility: hidden !important;
+  }
+  .facets__container:not(.active) .facets__wrapper--vertical {
+    transform: translateX(100%) !important;
+  }
+  .facets__container.active {
+    visibility: visible !important;
+  }</style>
+
+
+  <div class="collection-hero">
+    <div class="collection-hero__wrapper collection-hero__wrapper-with-slider container" style="--padding-bottom: %">
+      <div class="collection-hero__content">
+        <div class="collection-hero__text">
+          <h1 class="collection-hero__title h3">
+            <span class="visually-hidden">Collection: </span>Products</h1></div>
+        
+<div class="collection-hero__slider">
+            <div class="collection-hero__slider-wrapper swiper swiper-initialized swiper-horizontal swiper-backface-hidden">
+              <div class="swiper-wrapper" id="swiper-wrapper-21c815ea2851fbe7" aria-live="polite">
+                
+                
+                  <div class="swiper-slide swiper-slide-active" role="group" aria-label="1 / 6" style="width: 132.2px; margin-right: 12px;">
+                    <a href="/collections/all" class="collection-slide-link" aria-label="All products">
+                      <span class="collection-slide-image">
+                        
+                          
+                          <img src="//shift-sketch.myshopify.com/cdn/shop/files/image_384.jpg?v=1770358781&amp;width=400" alt="All products" srcset="//shift-sketch.myshopify.com/cdn/shop/files/image_384.jpg?v=1770358781&amp;width=180 180w, //shift-sketch.myshopify.com/cdn/shop/files/image_384.jpg?v=1770358781&amp;width=250 250w, //shift-sketch.myshopify.com/cdn/shop/files/image_384.jpg?v=1770358781&amp;width=360 360w, //shift-sketch.myshopify.com/cdn/shop/files/image_384.jpg?v=1770358781&amp;width=400 400w" width="400" height="204" loading="lazy" sizes="(max-width: 750px) 180px, (max-width: 1159px) 250px, 400px" fetchpriority="auto">
+                          
+                        
+                      </span>
+                      <span href="/collections/all" class="collection-slide__title body-normal">
+                        All products
+                      </span>
+                    </a>
+                  </div>
+                
+                
+                  
+                  
+                  
+
+                  <div class="swiper-slide swiper-slide-next" role="group" aria-label="2 / 6" style="width: 132.2px; margin-right: 12px;">
+                    <a href="/collections/accessories" class="collection-slide-link" aria-label="Accessories">
+                      <span class="collection-slide-image">
+                        
+                          
+                          <img src="//shift-sketch.myshopify.com/cdn/shop/files/05-accessories-color-01.jpg?v=1763982259&amp;width=400" alt="Accessories" srcset="//shift-sketch.myshopify.com/cdn/shop/files/05-accessories-color-01.jpg?v=1763982259&amp;width=180 180w, //shift-sketch.myshopify.com/cdn/shop/files/05-accessories-color-01.jpg?v=1763982259&amp;width=288 288w, //shift-sketch.myshopify.com/cdn/shop/files/05-accessories-color-01.jpg?v=1763982259&amp;width=360 360w, //shift-sketch.myshopify.com/cdn/shop/files/05-accessories-color-01.jpg?v=1763982259&amp;width=400 400w" width="400" height="533" loading="lazy" sizes="(max-width: 750px) 180px, (max-width: 1159px) 250px, 400px" fetchpriority="auto">
+                          
+                        
+                      </span>
+                      <span class="collection-slide__title">Accessories</span>
+                    </a>
+                  </div>
+                
+                  
+                  
+                  
+
+                  <div class="swiper-slide" role="group" aria-label="3 / 6" style="width: 132.2px; margin-right: 12px;">
+                    <a href="/collections/calendars" class="collection-slide-link" aria-label="Calendars">
+                      <span class="collection-slide-image">
+                        
+                          
+                          <img src="//shift-sketch.myshopify.com/cdn/shop/files/06-calendar.jpg?v=1763734242&amp;width=400" alt="Calendars" srcset="//shift-sketch.myshopify.com/cdn/shop/files/06-calendar.jpg?v=1763734242&amp;width=180 180w, //shift-sketch.myshopify.com/cdn/shop/files/06-calendar.jpg?v=1763734242&amp;width=288 288w, //shift-sketch.myshopify.com/cdn/shop/files/06-calendar.jpg?v=1763734242&amp;width=360 360w, //shift-sketch.myshopify.com/cdn/shop/files/06-calendar.jpg?v=1763734242&amp;width=400 400w" width="400" height="533" loading="lazy" sizes="(max-width: 750px) 180px, (max-width: 1159px) 250px, 400px" fetchpriority="auto">
+                          
+                        
+                      </span>
+                      <span class="collection-slide__title">Calendars</span>
+                    </a>
+                  </div>
+                
+                  
+                  
+                  
+
+                  <div class="swiper-slide" role="group" aria-label="4 / 6" style="width: 132.2px; margin-right: 12px;">
+                    <a href="/collections/pads" class="collection-slide-link" aria-label="Pads">
+                      <span class="collection-slide-image">
+                        
+                          
+                          <img src="//shift-sketch.myshopify.com/cdn/shop/files/06-pads.jpg?v=1763977731&amp;width=400" alt="Pads" srcset="//shift-sketch.myshopify.com/cdn/shop/files/06-pads.jpg?v=1763977731&amp;width=180 180w, //shift-sketch.myshopify.com/cdn/shop/files/06-pads.jpg?v=1763977731&amp;width=288 288w, //shift-sketch.myshopify.com/cdn/shop/files/06-pads.jpg?v=1763977731&amp;width=360 360w, //shift-sketch.myshopify.com/cdn/shop/files/06-pads.jpg?v=1763977731&amp;width=400 400w" width="400" height="533" loading="lazy" sizes="(max-width: 750px) 180px, (max-width: 1159px) 250px, 400px" fetchpriority="auto">
+                          
+                        
+                      </span>
+                      <span class="collection-slide__title">Pads</span>
+                    </a>
+                  </div>
+                
+                  
+                  
+                  
+
+                  <div class="swiper-slide" role="group" aria-label="5 / 6" style="width: 132.2px; margin-right: 12px;">
+                    <a href="/collections/planners" class="collection-slide-link" aria-label="Planners">
+                      <span class="collection-slide-image">
+                        
+                          
+                          <img src="//shift-sketch.myshopify.com/cdn/shop/files/06-planner.jpg?v=1763732931&amp;width=400" alt="Planners" srcset="//shift-sketch.myshopify.com/cdn/shop/files/06-planner.jpg?v=1763732931&amp;width=180 180w, //shift-sketch.myshopify.com/cdn/shop/files/06-planner.jpg?v=1763732931&amp;width=288 288w, //shift-sketch.myshopify.com/cdn/shop/files/06-planner.jpg?v=1763732931&amp;width=360 360w, //shift-sketch.myshopify.com/cdn/shop/files/06-planner.jpg?v=1763732931&amp;width=400 400w" width="400" height="533" loading="lazy" sizes="(max-width: 750px) 180px, (max-width: 1159px) 250px, 400px" fetchpriority="auto">
+                          
+                        
+                      </span>
+                      <span class="collection-slide__title">Planners</span>
+                    </a>
+                  </div>
+                
+                  
+                  
+                  
+
+                  <div class="swiper-slide" role="group" aria-label="6 / 6" style="width: 132.2px; margin-right: 12px;">
+                    <a href="/collections/sketchbooks" class="collection-slide-link" aria-label="Sketchbooks">
+                      <span class="collection-slide-image">
+                        
+                          
+                          <img src="//shift-sketch.myshopify.com/cdn/shop/files/06-sketchbook.jpg?v=1763715318&amp;width=400" alt="Sketchbooks" srcset="//shift-sketch.myshopify.com/cdn/shop/files/06-sketchbook.jpg?v=1763715318&amp;width=180 180w, //shift-sketch.myshopify.com/cdn/shop/files/06-sketchbook.jpg?v=1763715318&amp;width=288 288w, //shift-sketch.myshopify.com/cdn/shop/files/06-sketchbook.jpg?v=1763715318&amp;width=360 360w, //shift-sketch.myshopify.com/cdn/shop/files/06-sketchbook.jpg?v=1763715318&amp;width=400 400w" width="400" height="533" loading="lazy" sizes="(max-width: 750px) 180px, (max-width: 1159px) 250px, 400px" fetchpriority="auto">
+                          
+                        
+                      </span>
+                      <span class="collection-slide__title">Sketchbooks</span>
+                    </a>
+                  </div>
+                
+              </div>
+              <div class="collection-hero__navigation-wrapper no-js-hidden">
+                <button class="collection-hero__navigation-button-prev swiper-button-prev focus-inset swiper-button-disabled" disabled="" tabindex="-1" aria-label="Previous slide" aria-controls="swiper-wrapper-21c815ea2851fbe7" aria-disabled="true">
+                  <svg class="icon icon-arrow-slider-left" width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M14 2L6 10L14 18" stroke="currentColor"></path>
+</svg>
+
+                </button>
+                <button class="collection-hero__navigation-button-next swiper-button-next focus-inset" tabindex="0" aria-label="Next slide" aria-controls="swiper-wrapper-21c815ea2851fbe7" aria-disabled="false">
+                  <svg class="icon icon-arrow-slider-right" width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M6 2L14 10L6 18" stroke="currentColor"></path>
+</svg>
+
+                </button>
+              </div>
+            <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
+          </div>
+        
+
+        
+      </div></div>
+  </div>
+
+
+<div class="section-template--27266934243703__product-grid-padding"><div class="collection-top  section-border-top">
+      <div class="collection-top__container container">
+        <div class="collection-top__container-left">
+          
+            <button type="button" data-desktop-modal="FacetsWrapperDesktop-template--27266934243703__product-grid" class="button facets-button-show vertical no-js-hidden focus-inset">
+              <span class="show-label" aria-label="All filters"><svg class="icon icon-filter" width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M13.5586 4.85352V12.9316M13.5586 12.9316C12.815 12.9316 12.2122 13.5344 12.2122 14.278C12.2122 15.0216 12.815 15.6243 13.5586 15.6243C14.3022 15.6243 14.9049 15.0216 14.9049 14.278C14.9049 13.5344 14.3022 12.9316 13.5586 12.9316ZM6.84635 7.54622V15.6243M6.84635 7.54622C7.58993 7.54622 8.19271 6.94344 8.19271 6.19987C8.19271 5.4563 7.58993 4.85352 6.84635 4.85352C6.10278 4.85352 5.5 5.4563 5.5 6.19987C5.5 6.94344 6.10278 7.54622 6.84635 7.54622Z" stroke="currentColor" stroke-width="0.807813" stroke-linecap="square"></path>
+</svg>
+</span>
+              <span class="hide-label hidden" aria-label="Close"><svg class="icon icon-filter" width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M13.5586 4.85352V12.9316M13.5586 12.9316C12.815 12.9316 12.2122 13.5344 12.2122 14.278C12.2122 15.0216 12.815 15.6243 13.5586 15.6243C14.3022 15.6243 14.9049 15.0216 14.9049 14.278C14.9049 13.5344 14.3022 12.9316 13.5586 12.9316ZM6.84635 7.54622V15.6243M6.84635 7.54622C7.58993 7.54622 8.19271 6.94344 8.19271 6.19987C8.19271 5.4563 7.58993 4.85352 6.84635 4.85352C6.10278 4.85352 5.5 5.4563 5.5 6.19987C5.5 6.94344 6.10278 7.54622 6.84635 7.54622Z" stroke="currentColor" stroke-width="0.807813" stroke-linecap="square"></path>
+</svg>
+</span>
+              <span class="button__label" data-label="All filters">
+                All filters</span>
+            </button>
+            
+<button type="button" class="facet-open-button focus-inset button button--secondary" data-filter-index="1">
+                  Availability
+                </button><button type="button" class="facet-open-button focus-inset button button--secondary" data-filter-index="2">
+                  Price
+                </button><button type="button" class="facet-open-button focus-inset button button--secondary" data-filter-index="3">
+                  Category
+                </button><button type="button" class="facet-open-button focus-inset button button--secondary" data-filter-index="4">
+                  Size
+                </button><button type="button" class="facet-open-button focus-inset button button--secondary" data-filter-index="5">
+                  Color
+                </button><button type="button" class="facet-open-button focus-inset button button--secondary" data-filter-index="6">
+                  Design
+                </button>
+          
+        </div>
+        <div class="collection-top__container-right">
+          
+            <div class="collection-top__layout-toggler">
+              
+
+              <button type="button" data-per-row="large" aria-label="Per row toggle" tabindex="0" class="collection-top__layout-toggler-button js-per-row__button focus-inset">
+                <span class="collection-top__layout-toggler-icon">
+                  
+                    <svg class="icon icon-cells-large" width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect x="4" y="5" width="5" height="10" fill="currentColor"></rect>
+  <rect x="11" y="5" width="5" height="10" fill="currentColor"></rect>
+</svg>
+
+                  
+                </span>
+                <span class="collection-top__layout-toggler-label body-normal">View</span>
+              </button>
+            </div>
+          
+          
+            <div class="facets__product-count" role="status">
+              <div class="facets__product-count-text body-normal">
+                <span class="body-normal" id="ProductCount">29 items
+</span>
+              </div>
+            </div>
+          
+<facet-filters-form class="no-js-hidden">
+              <form id="FacetSortForm" class="facets-sorting">
+                
+                <div class="facet-filters__field facets-sorting__field"><div class="facet-sort-select">
+                    <input class="facet-sort-select__input" type="hidden" name="sort_by" id="SortBy" value="title-ascending" aria-describedby="a11y-refresh-page-message" style="">
+                    <div class="facet-sort-select__select focus-inset button button--secondary" tabindex="0">
+                      <div class="facet-sort-select__icon">
+                        <svg class="icon icon-sort" width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M12.6667 10.1548V17.3096M12.6667 17.3096L10.3333 15.3215M12.6667 17.3096L15 15.3215M7.33333 10.1548V3M7.33333 3L5 4.98816M7.33333 3L9.66667 4.98816" stroke="currentColor" stroke-linecap="square"></path>
+</svg>
+
+                      </div>
+                      <span class="facet-sort-select__current body-normal">
+
+
+
+Alphabetically, A-Z
+
+
+
+
+
+</span>
+                    </div>
+                    <div class="facet-sort-modal" role="dialog" aria-modal="true" tabindex="-1">
+                      <div class="facet-sort-modal__overlay"></div>
+                      <div class="facet-sort-modal__inner">
+                        <div class="facets-modal__header">
+                          <div class="facets-modal__heading-wrapper"><svg class="icon icon-sort" width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M12.6667 10.1548V17.3096M12.6667 17.3096L10.3333 15.3215M12.6667 17.3096L15 15.3215M7.33333 10.1548V3M7.33333 3L5 4.98816M7.33333 3L9.66667 4.98816" stroke="currentColor" stroke-linecap="square"></path>
+</svg>
+<div class="facets-modal__heading body-large">
+                              Sort by
+                            </div>
+                          </div>
+
+                          <button type="button" class="modal-close-button button button--simple focus-inset facets-modal__close facet-sort-modal__close" aria-label="Close">
+  <div class="modal-close-button__inner">
+      <svg class="icon icon-close" width="22" height="22" viewBox="0 0 22 22" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M16.4193 5.58398L5.58594 16.4173M16.4193 16.4173L5.58594 5.58398" stroke="currentColor" stroke-linecap="square"></path>
+</svg>
+
+    
+  </div>
+</button>
+
+                        </div>
+                        <div class="facet-sort-select__options-wrapper">
+                          <div class="facet-sort-select__options"><div class="facet-sort-select__option focus-inset" data-value="manual" tabindex="0">
+                                <span class="circle-check"></span>Featured
+                              </div><div class="facet-sort-select__option focus-inset" data-value="most-relevant" tabindex="0">
+                                <span class="circle-check"></span>Most relevant
+                              </div><div class="facet-sort-select__option focus-inset" data-value="best-selling" tabindex="0">
+                                <span class="circle-check"></span>Best selling
+                              </div><div class="facet-sort-select__option focus-inset facet-sort-select__option--selected" data-value="title-ascending" tabindex="0">
+                                <span class="circle-check"></span>Alphabetically, A-Z
+                              </div><div class="facet-sort-select__option focus-inset" data-value="title-descending" tabindex="0">
+                                <span class="circle-check"></span>Alphabetically, Z-A
+                              </div><div class="facet-sort-select__option focus-inset" data-value="price-ascending" tabindex="0">
+                                <span class="circle-check"></span>Price, low to high
+                              </div><div class="facet-sort-select__option focus-inset" data-value="price-descending" tabindex="0">
+                                <span class="circle-check"></span>Price, high to low
+                              </div><div class="facet-sort-select__option focus-inset" data-value="created-ascending" tabindex="0">
+                                <span class="circle-check"></span>Date, old to new
+                              </div><div class="facet-sort-select__option focus-inset" data-value="created-descending" tabindex="0">
+                                <span class="circle-check"></span>Date, new to old
+                              </div></div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </form>
+            </facet-filters-form>
+            <noscript>
+              <facet-filters-form>
+                <form id="FacetSortForm" class="facets-sorting">
+                  <label class="facets-sorting__label" for="SortByNoScript">Sort by</label>
+                  <div class="facet-filters__field facets-sorting__field"><div class="select field">
+                      <select
+                        name="sort_by"
+                        class="select__select focus-inset"
+                        id="SortByNoScript"
+                        aria-describedby="a11y-refresh-page-message"
+                      ><option
+                            value="manual"
+                            
+                          >
+                            Featured
+                          </option><option
+                            value="most-relevant"
+                            
+                          >
+                            Most relevant
+                          </option><option
+                            value="best-selling"
+                            
+                          >
+                            Best selling
+                          </option><option
+                            value="title-ascending"
+                            
+                              selected="selected"
+                            
+                          >
+                            Alphabetically, A-Z
+                          </option><option
+                            value="title-descending"
+                            
+                          >
+                            Alphabetically, Z-A
+                          </option><option
+                            value="price-ascending"
+                            
+                          >
+                            Price, low to high
+                          </option><option
+                            value="price-descending"
+                            
+                          >
+                            Price, high to low
+                          </option><option
+                            value="created-ascending"
+                            
+                          >
+                            Date, old to new
+                          </option><option
+                            value="created-descending"
+                            
+                          >
+                            Date, new to old
+                          </option></select>
+                      <svg class="icon icon-caret" width="18" height="18" viewBox="0 0 18 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M5.5 7.5L9 11L12.5 7.5" stroke="currentColor" stroke-width="1.5"/>
+</svg>
+                    </div>
+                  </div>
+                  <button type="submit" class="button button--tertiary focus-inset">Sort</button>
+                </form>
+              </facet-filters-form>
+            </noscript></div>
+      </div>
+      
+<div class="facets__top facets small-hide container">
+          <div class="active-facets active-facets-desktop" data-type="filters">
+            
+
+            
+            
+            
+            
+            
+            
+
+            <div class="active-facets__wrapper">
+
+
+
+
+
+
+
+            </div>
+          </div>
+        </div></div><div class="collection-wrapper container collection-wrapper--4 collection-wrapper--vertical">
+<div class="
+    facets-container
+    
+    facets-container--vertical
+  ">
+  <facet-filters-form class="facets facets--desktop" facets-desktop-type="vertical">
+    <form id="FacetFiltersForm" class="facets__form facets__form--vertical">
+        <div class="facets__container facets__container--vertical" style="visibility: hidden;">
+          <div class="facets__overlay"></div>
+          <div id="FacetsWrapperDesktop" role="dialog" aria-modal="true" tabindex="-1" class="facets__wrapper focus-inset facets__wrapper--vertical">
+            <div class="facets-modal__header">
+              <div class="facets-modal__heading-wrapper"><svg class="icon icon-filter" width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M13.5586 4.85352V12.9316M13.5586 12.9316C12.815 12.9316 12.2122 13.5344 12.2122 14.278C12.2122 15.0216 12.815 15.6243 13.5586 15.6243C14.3022 15.6243 14.9049 15.0216 14.9049 14.278C14.9049 13.5344 14.3022 12.9316 13.5586 12.9316ZM6.84635 7.54622V15.6243M6.84635 7.54622C7.58993 7.54622 8.19271 6.94344 8.19271 6.19987C8.19271 5.4563 7.58993 4.85352 6.84635 4.85352C6.10278 4.85352 5.5 5.4563 5.5 6.19987C5.5 6.94344 6.10278 7.54622 6.84635 7.54622Z" stroke="currentColor" stroke-width="0.807813" stroke-linecap="square"></path>
+</svg>
+<div class="facets-modal__heading body-large">
+                  Filter
+                </div>
+              </div>
+
+              <button type="button" class="modal-close-button button button--simple focus-inset facets-modal__close" aria-label="Close">
+  <div class="modal-close-button__inner">
+      <svg class="icon icon-close" width="22" height="22" viewBox="0 0 22 22" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M16.4193 5.58398L5.58594 16.4173M16.4193 16.4173L5.58594 5.58398" stroke="currentColor" stroke-linecap="square"></path>
+</svg>
+
+    
+  </div>
+</button>
+
+            </div>
+
+            <div class="facets-modal__content-wrapper">
+              <div class="facets-modal__disclosure-wrapper">
+
+                      
+                      <details id="Details-1-template--27266934243703__product-grid" class="disclosure-has-popup facets__disclosure js-filter" data-index="1">
+                        <summary class="facets__summary focus-inset" tabindex="0" role="button" aria-expanded="false" aria-controls="Facet-1-template--27266934243703__product-grid">
+                          <div class="facets__summary-inner">
+                            <div class="facets__summary-inner-left">
+                              <span class="body-normal facets__summary-title">Availability
+                              </span>
+                              
+                            </div>
+                            <div class="facets__summary-inner-right">
+                              
+                                
+
+                                
+
+                              <svg class="icon icon-caret icon-caret-facets" width="10" height="10" viewBox="0 0 10 10" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M1 7L5 3L9 7" stroke="currentColor"></path>
+</svg>
+
+                            </div>
+                          </div>
+                        </summary>
+                        <div id="Facet-1-template--27266934243703__product-grid" class="facets__display">
+                          <ul class="
+                              facets__list list-unstyled
+                              " role="list" style="--image_filter_columns: 3;">
+
+                              <li class="facets__item highlight--border">
+                                <input type="checkbox" class="focus-inset" name="filter.v.availability" value="1" id="Filter-Availability-1" style="">
+                                <label for="Filter-Availability-1" class="facet-checkbox focus-inset" tabindex="0" role="checkbox" aria-checked="false" data-accessible-init="true"><span class="facet-checkbox__checkbox"></span><span class="facet-checkbox__label body-small">
+                                    
+                                      <svg class="icon icon-check" width="18" height="18" viewBox="0 0 18 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M5 9.5L8 12.5L13 6" stroke="currentColor" stroke-width="1.5"></path>
+</svg>
+                                    
+In stock
+                                  </span>
+                                  <span class="facet-checkbox__count body-small">
+                                    
+28
+                                  </span>
+                                </label>
+                              </li>
+
+                              <li class="facets__item highlight--border">
+                                <input type="checkbox" class="focus-inset" name="filter.v.availability" value="0" id="Filter-Availability-2" style="">
+                                <label for="Filter-Availability-2" class="facet-checkbox focus-inset" tabindex="0" role="checkbox" aria-checked="false" data-accessible-init="true"><span class="facet-checkbox__checkbox"></span><span class="facet-checkbox__label body-small">
+                                    
+                                      <svg class="icon icon-check" width="18" height="18" viewBox="0 0 18 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M5 9.5L8 12.5L13 6" stroke="currentColor" stroke-width="1.5"></path>
+</svg>
+                                    
+Out of stock
+                                  </span>
+                                  <span class="facet-checkbox__count body-small">
+                                    
+6
+                                  </span>
+                                </label>
+                              </li></ul>
+                          
+                        </div>
+                      </details>
+                    
+
+
+                      
+                        <details id="Details-2-template--27266934243703__product-grid" class="disclosure-has-popup facets__disclosure facets__disclosure-price js-filter" data-index="2">
+                          <summary class="facets__summary focus-inset" tabindex="0" role="button" aria-expanded="false" aria-controls="Facet-2-template--27266934243703__product-grid">
+                            <div class="facets__summary-inner">
+                              <div class="facets__summary-inner-left">
+                                <span class="body-normal facets__summary-title">
+                                  Price
+                                </span>
+                                
+                              </div>
+                              <div class="facets__summary-inner-right">
+                                <svg class="icon icon-caret icon-caret-facets" width="10" height="10" viewBox="0 0 10 10" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M1 7L5 3L9 7" stroke="currentColor"></path>
+</svg>
+
+                              </div>
+                            </div>
+                          </summary>
+                          <div id="Facet-2-template--27266934243703__product-grid" class="facets__display">
+                            <price-range class="facets__price">
+                              
+
+                              <div class="facets__price-wrapper">
+                                
+                                <div class="field" data-prefix="From" data-suffix="$">
+                                  
+                                  <label class="field__label body-normal" for="Filter-Price-GTE">From</label>
+                                  <input dir="ltr" class="field__input" name="filter.v.price.gte" id="Filter-Price-GTE" value="0" type="number" placeholder="0" min="0" max="22" step="1" autocomplete="off" style="">
+                                </div>
+                                
+                                <div class="field" data-prefix="To" data-suffix="$">
+                                  
+                                  <label class="field__label body-normal" for="Filter-Price-LTE">To</label>
+                                  <input dir="ltr" class="field__input" name="filter.v.price.lte" id="Filter-Price-LTE" value="22" type="number" min="0" max="22" step="1" placeholder="22" style="">
+                                </div>
+                              </div>
+                              <div class="facets__range" style="--range-min: 0.0%; --range-max: 100.0%">
+                                <label class="visually-hidden" for="Filter-Price-Min">From</label>
+                                <input dir="ltr" type="range" value="0" min="0" max="22" step="1" class="field__range" id="Filter-Price-Min" style="">
+                                <label class="visually-hidden" for="Filter-Price-Max">To</label>
+                                <input dir="ltr" type="range" value="22" min="0" max="22" step="1" class="field__range" id="Filter-Price-Max" style="z-index: 0;">
+                              </div>
+                            </price-range>
+                          </div>
+                        </details>
+                      
+                  
+
+
+                      
+                      <details id="Details-3-template--27266934243703__product-grid" class="disclosure-has-popup facets__disclosure js-filter" data-index="3">
+                        <summary class="facets__summary focus-inset" tabindex="0" role="button" aria-expanded="false" aria-controls="Facet-3-template--27266934243703__product-grid">
+                          <div class="facets__summary-inner">
+                            <div class="facets__summary-inner-left">
+                              <span class="body-normal facets__summary-title">Category
+                              </span>
+                              
+                            </div>
+                            <div class="facets__summary-inner-right">
+                              
+                                
+
+                                
+
+                              <svg class="icon icon-caret icon-caret-facets" width="10" height="10" viewBox="0 0 10 10" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M1 7L5 3L9 7" stroke="currentColor"></path>
+</svg>
+
+                            </div>
+                          </div>
+                        </summary>
+                        <div id="Facet-3-template--27266934243703__product-grid" class="facets__display">
+                          <ul class="
+                              facets__list list-unstyled
+                              " role="list" style="--image_filter_columns: 3;">
+
+                              <li class="facets__item highlight--border">
+                                <input type="checkbox" class="focus-inset" name="filter.p.t.category" value="os-4-8-1" id="Filter-Category-1" style="">
+                                <label for="Filter-Category-1" class="facet-checkbox focus-inset" tabindex="0" role="checkbox" aria-checked="false" data-accessible-init="true"><span class="facet-checkbox__checkbox"></span><span class="facet-checkbox__label body-small">
+                                    
+                                      <svg class="icon icon-check" width="18" height="18" viewBox="0 0 18 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M5 9.5L8 12.5L13 6" stroke="currentColor" stroke-width="1.5"></path>
+</svg>
+                                    
+Binder Clips
+                                  </span>
+                                  <span class="facet-checkbox__count body-small">
+                                    
+1
+                                  </span>
+                                </label>
+                              </li>
+
+                              <li class="facets__item highlight--border">
+                                <input type="checkbox" class="focus-inset" name="filter.p.t.category" value="os-4-9-9-3" id="Filter-Category-2" style="">
+                                <label for="Filter-Category-2" class="facet-checkbox focus-inset" tabindex="0" role="checkbox" aria-checked="false" data-accessible-init="true"><span class="facet-checkbox__checkbox"></span><span class="facet-checkbox__label body-small">
+                                    
+                                      <svg class="icon icon-check" width="18" height="18" viewBox="0 0 18 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M5 9.5L8 12.5L13 6" stroke="currentColor" stroke-width="1.5"></path>
+</svg>
+                                    
+Journals
+                                  </span>
+                                  <span class="facet-checkbox__count body-small">
+                                    
+3
+                                  </span>
+                                </label>
+                              </li>
+
+                              <li class="facets__item highlight--border">
+                                <input type="checkbox" class="focus-inset" name="filter.p.t.category" value="os-4-4" id="Filter-Category-3" style="">
+                                <label for="Filter-Category-3" class="facet-checkbox focus-inset" tabindex="0" role="checkbox" aria-checked="false" data-accessible-init="true"><span class="facet-checkbox__checkbox"></span><span class="facet-checkbox__label body-small">
+                                    
+                                      <svg class="icon icon-check" width="18" height="18" viewBox="0 0 18 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M5 9.5L8 12.5L13 6" stroke="currentColor" stroke-width="1.5"></path>
+</svg>
+                                    
+Labels &amp; Tags
+                                  </span>
+                                  <span class="facet-checkbox__count body-small">
+                                    
+1
+                                  </span>
+                                </label>
+                              </li>
+
+                              <li class="facets__item highlight--border">
+                                <input type="checkbox" class="focus-inset" name="filter.p.t.category" value="os-4-9-9-5" id="Filter-Category-4" style="">
+                                <label for="Filter-Category-4" class="facet-checkbox focus-inset" tabindex="0" role="checkbox" aria-checked="false" data-accessible-init="true"><span class="facet-checkbox__checkbox"></span><span class="facet-checkbox__label body-small">
+                                    
+                                      <svg class="icon icon-check" width="18" height="18" viewBox="0 0 18 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M5 9.5L8 12.5L13 6" stroke="currentColor" stroke-width="1.5"></path>
+</svg>
+                                    
+Notepads
+                                  </span>
+                                  <span class="facet-checkbox__count body-small">
+                                    
+8
+                                  </span>
+                                </label>
+                              </li>
+
+                              <li class="facets__item highlight--border">
+                                <input type="checkbox" class="focus-inset" name="filter.p.t.category" value="os-4-8-2" id="Filter-Category-5" style="">
+                                <label for="Filter-Category-5" class="facet-checkbox focus-inset" tabindex="0" role="checkbox" aria-checked="false" data-accessible-init="true"><span class="facet-checkbox__checkbox"></span><span class="facet-checkbox__label body-small">
+                                    
+                                      <svg class="icon icon-check" width="18" height="18" viewBox="0 0 18 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M5 9.5L8 12.5L13 6" stroke="currentColor" stroke-width="1.5"></path>
+</svg>
+                                    
+Paper Clips
+                                  </span>
+                                  <span class="facet-checkbox__count body-small">
+                                    
+1
+                                  </span>
+                                </label>
+                              </li>
+
+                              <li class="facets__item highlight--border">
+                                <input type="checkbox" class="focus-inset" name="filter.p.t.category" value="os-3-5-3" id="Filter-Category-6" style="">
+                                <label for="Filter-Category-6" class="facet-checkbox focus-inset" tabindex="0" role="checkbox" aria-checked="false" data-accessible-init="true"><span class="facet-checkbox__checkbox"></span><span class="facet-checkbox__label body-small">
+                                    
+                                      <svg class="icon icon-check" width="18" height="18" viewBox="0 0 18 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M5 9.5L8 12.5L13 6" stroke="currentColor" stroke-width="1.5"></path>
+</svg>
+                                    
+Planners
+                                  </span>
+                                  <span class="facet-checkbox__count body-small">
+                                    
+8
+                                  </span>
+                                </label>
+                              </li>
+
+                              <li class="facets__item highlight--border">
+                                <input type="checkbox" class="focus-inset" name="filter.p.t.category" value="os-4-9-9-6" id="Filter-Category-7" style="">
+                                <label for="Filter-Category-7" class="facet-checkbox focus-inset" tabindex="0" role="checkbox" aria-checked="false" data-accessible-init="true"><span class="facet-checkbox__checkbox"></span><span class="facet-checkbox__label body-small">
+                                    
+                                      <svg class="icon icon-check" width="18" height="18" viewBox="0 0 18 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M5 9.5L8 12.5L13 6" stroke="currentColor" stroke-width="1.5"></path>
+</svg>
+                                    
+Pocket Notebooks
+                                  </span>
+                                  <span class="facet-checkbox__count body-small">
+                                    
+1
+                                  </span>
+                                </label>
+                              </li>
+
+                              <li class="facets__item highlight--border">
+                                <input type="checkbox" class="focus-inset" name="filter.p.t.category" value="os-4-9-14" id="Filter-Category-8" style="">
+                                <label for="Filter-Category-8" class="facet-checkbox focus-inset" tabindex="0" role="checkbox" aria-checked="false" data-accessible-init="true"><span class="facet-checkbox__checkbox"></span><span class="facet-checkbox__label body-small">
+                                    
+                                      <svg class="icon icon-check" width="18" height="18" viewBox="0 0 18 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M5 9.5L8 12.5L13 6" stroke="currentColor" stroke-width="1.5"></path>
+</svg>
+                                    
+Sticky Notes
+                                  </span>
+                                  <span class="facet-checkbox__count body-small">
+                                    
+1
+                                  </span>
+                                </label>
+                              </li>
+
+                              <li class="facets__item highlight--border">
+                                <input type="checkbox" class="focus-inset" name="filter.p.t.category" value="lb-13" id="Filter-Category-9" style="">
+                                <label for="Filter-Category-9" class="facet-checkbox focus-inset" tabindex="0" role="checkbox" aria-checked="false" data-accessible-init="true"><span class="facet-checkbox__checkbox"></span><span class="facet-checkbox__label body-small">
+                                    
+                                      <svg class="icon icon-check" width="18" height="18" viewBox="0 0 18 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M5 9.5L8 12.5L13 6" stroke="currentColor" stroke-width="1.5"></path>
+</svg>
+                                    
+Tote Bags
+                                  </span>
+                                  <span class="facet-checkbox__count body-small">
+                                    
+1
+                                  </span>
+                                </label>
+                              </li>
+
+                              <li class="facets__item highlight--border">
+                                <input type="checkbox" class="focus-inset" name="filter.p.t.category" value="os-3-5-4" id="Filter-Category-10" style="">
+                                <label for="Filter-Category-10" class="facet-checkbox focus-inset" tabindex="0" role="checkbox" aria-checked="false" data-accessible-init="true"><span class="facet-checkbox__checkbox"></span><span class="facet-checkbox__label body-small">
+                                    
+                                      <svg class="icon icon-check" width="18" height="18" viewBox="0 0 18 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M5 9.5L8 12.5L13 6" stroke="currentColor" stroke-width="1.5"></path>
+</svg>
+                                    
+Wall Calendars
+                                  </span>
+                                  <span class="facet-checkbox__count body-small">
+                                    
+4
+                                  </span>
+                                </label>
+                              </li></ul>
+                          
+                        </div>
+                      </details>
+                    
+
+
+                      
+                      <details id="Details-4-template--27266934243703__product-grid" class="disclosure-has-popup facets__disclosure js-filter" data-index="4">
+                        <summary class="facets__summary focus-inset" tabindex="0" role="button" aria-expanded="false" aria-controls="Facet-4-template--27266934243703__product-grid">
+                          <div class="facets__summary-inner">
+                            <div class="facets__summary-inner-left">
+                              <span class="body-normal facets__summary-title">Size
+                              </span>
+                              
+                            </div>
+                            <div class="facets__summary-inner-right">
+                              
+                                
+
+                                
+
+                              <svg class="icon icon-caret icon-caret-facets" width="10" height="10" viewBox="0 0 10 10" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M1 7L5 3L9 7" stroke="currentColor"></path>
+</svg>
+
+                            </div>
+                          </div>
+                        </summary>
+                        <div id="Facet-4-template--27266934243703__product-grid" class="facets__display">
+                          <ul class="
+                              facets__list list-unstyled
+                              " role="list" style="--image_filter_columns: 3;">
+
+                              <li class="facets__item highlight--border">
+                                <input type="checkbox" class="focus-inset" name="filter.v.option.size" value="A3" id="Filter-Size-1" style="">
+                                <label for="Filter-Size-1" class="facet-checkbox focus-inset" tabindex="0" role="checkbox" aria-checked="false" data-accessible-init="true"><span class="facet-checkbox__checkbox"></span><span class="facet-checkbox__label body-small">
+                                    
+                                      <svg class="icon icon-check" width="18" height="18" viewBox="0 0 18 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M5 9.5L8 12.5L13 6" stroke="currentColor" stroke-width="1.5"></path>
+</svg>
+                                    
+A3
+                                  </span>
+                                  <span class="facet-checkbox__count body-small">
+                                    
+12
+                                  </span>
+                                </label>
+                              </li>
+
+                              <li class="facets__item highlight--border">
+                                <input type="checkbox" class="focus-inset" name="filter.v.option.size" value="A4" id="Filter-Size-2" style="">
+                                <label for="Filter-Size-2" class="facet-checkbox focus-inset" tabindex="0" role="checkbox" aria-checked="false" data-accessible-init="true"><span class="facet-checkbox__checkbox"></span><span class="facet-checkbox__label body-small">
+                                    
+                                      <svg class="icon icon-check" width="18" height="18" viewBox="0 0 18 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M5 9.5L8 12.5L13 6" stroke="currentColor" stroke-width="1.5"></path>
+</svg>
+                                    
+A4
+                                  </span>
+                                  <span class="facet-checkbox__count body-small">
+                                    
+12
+                                  </span>
+                                </label>
+                              </li>
+
+                              <li class="facets__item highlight--border">
+                                <input type="checkbox" class="focus-inset" name="filter.v.option.size" value="A5" id="Filter-Size-3" style="">
+                                <label for="Filter-Size-3" class="facet-checkbox focus-inset" tabindex="0" role="checkbox" aria-checked="false" data-accessible-init="true"><span class="facet-checkbox__checkbox"></span><span class="facet-checkbox__label body-small">
+                                    
+                                      <svg class="icon icon-check" width="18" height="18" viewBox="0 0 18 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M5 9.5L8 12.5L13 6" stroke="currentColor" stroke-width="1.5"></path>
+</svg>
+                                    
+A5
+                                  </span>
+                                  <span class="facet-checkbox__count body-small">
+                                    
+12
+                                  </span>
+                                </label>
+                              </li></ul>
+                          
+                        </div>
+                      </details>
+                    
+
+
+                      
+                      <details id="Details-5-template--27266934243703__product-grid" class="disclosure-has-popup facets__disclosure js-filter" data-index="5">
+                        <summary class="facets__summary focus-inset" tabindex="0" role="button" aria-expanded="false" aria-controls="Facet-5-template--27266934243703__product-grid">
+                          <div class="facets__summary-inner">
+                            <div class="facets__summary-inner-left">
+                              <span class="body-normal facets__summary-title">Color
+                              </span>
+                              
+                            </div>
+                            <div class="facets__summary-inner-right">
+                              
+                                
+
+                                
+
+                              <svg class="icon icon-caret icon-caret-facets" width="10" height="10" viewBox="0 0 10 10" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M1 7L5 3L9 7" stroke="currentColor"></path>
+</svg>
+
+                            </div>
+                          </div>
+                        </summary>
+                        <div id="Facet-5-template--27266934243703__product-grid" class="facets__display">
+                          <ul class="
+                              facets__list list-unstyled
+                               facets__list--color
+                              " role="list" style="--image_filter_columns: 3;">
+
+                              <li class="facets__item facets__item--color highlight--border" style="--border-radius: px; --swatch-color: rgb(234 216 171);">
+                                <input type="checkbox" class="focus-inset" name="filter.v.t.shopify.color-pattern" value="gid://shopify/TaxonomyValue/6" id="Filter-Color-1" style="">
+                                <label for="Filter-Color-1" class="facet-checkbox focus-inset facet-checkbox--color" title="Beige" tabindex="0" role="checkbox" aria-checked="false" data-accessible-init="true"><span class="facet-checkbox__checkbox"></span><span class="facet-checkbox__label body-small">
+                                    
+Beige
+                                  </span>
+                                  <span class="facet-checkbox__count body-small">
+                                    
+                                  </span>
+                                </label>
+                              </li>
+
+                              <li class="facets__item facets__item--color highlight--border" style="--border-radius: px; --swatch-color: rgb(0 0 0);">
+                                <input type="checkbox" class="focus-inset" name="filter.v.t.shopify.color-pattern" value="gid://shopify/TaxonomyValue/1" id="Filter-Color-2" style="">
+                                <label for="Filter-Color-2" class="facet-checkbox focus-inset facet-checkbox--color" title="Black" tabindex="0" role="checkbox" aria-checked="false" data-accessible-init="true"><span class="facet-checkbox__checkbox"></span><span class="facet-checkbox__label body-small">
+                                    
+Black
+                                  </span>
+                                  <span class="facet-checkbox__count body-small">
+                                    
+                                  </span>
+                                </label>
+                              </li>
+
+                              <li class="facets__item facets__item--color highlight--border" style="--border-radius: px; --swatch-color: rgb(0 91 211);">
+                                <input type="checkbox" class="focus-inset" name="filter.v.t.shopify.color-pattern" value="gid://shopify/TaxonomyValue/2" id="Filter-Color-3" style="">
+                                <label for="Filter-Color-3" class="facet-checkbox focus-inset facet-checkbox--color" title="Blue" tabindex="0" role="checkbox" aria-checked="false" data-accessible-init="true"><span class="facet-checkbox__checkbox"></span><span class="facet-checkbox__label body-small">
+                                    
+Blue
+                                  </span>
+                                  <span class="facet-checkbox__count body-small">
+                                    
+                                  </span>
+                                </label>
+                              </li>
+
+                              <li class="facets__item facets__item--color highlight--border" style="--border-radius: px; --swatch-color: rgb(212 154 6);">
+                                <input type="checkbox" class="focus-inset" name="filter.v.t.shopify.color-pattern" value="gid://shopify/TaxonomyValue/4" id="Filter-Color-4" style="">
+                                <label for="Filter-Color-4" class="facet-checkbox focus-inset facet-checkbox--color" title="Gold" tabindex="0" role="checkbox" aria-checked="false" data-accessible-init="true"><span class="facet-checkbox__checkbox"></span><span class="facet-checkbox__label body-small">
+                                    
+Gold
+                                  </span>
+                                  <span class="facet-checkbox__count body-small">
+                                    
+                                  </span>
+                                </label>
+                              </li>
+
+                              <li class="facets__item facets__item--color highlight--border" style="--border-radius: px; --swatch-color: rgb(128 128 128);">
+                                <input type="checkbox" class="focus-inset" name="filter.v.t.shopify.color-pattern" value="gid://shopify/TaxonomyValue/8" id="Filter-Color-5" style="">
+                                <label for="Filter-Color-5" class="facet-checkbox focus-inset facet-checkbox--color" title="Gray" tabindex="0" role="checkbox" aria-checked="false" data-accessible-init="true"><span class="facet-checkbox__checkbox"></span><span class="facet-checkbox__label body-small">
+                                    
+Gray
+                                  </span>
+                                  <span class="facet-checkbox__count body-small">
+                                    
+                                  </span>
+                                </label>
+                              </li>
+
+                              <li class="facets__item facets__item--color highlight--border" style="--border-radius: px; --swatch-color: rgb(5 170 61);">
+                                <input type="checkbox" class="focus-inset" name="filter.v.t.shopify.color-pattern" value="gid://shopify/TaxonomyValue/9" id="Filter-Color-6" style="">
+                                <label for="Filter-Color-6" class="facet-checkbox focus-inset facet-checkbox--color" title="Green" tabindex="0" role="checkbox" aria-checked="false" data-accessible-init="true"><span class="facet-checkbox__checkbox"></span><span class="facet-checkbox__label body-small">
+                                    
+Green
+                                  </span>
+                                  <span class="facet-checkbox__count body-small">
+                                    
+                                  </span>
+                                </label>
+                              </li>
+
+                              <li class="facets__item facets__item--color highlight--border" style="--border-radius: px; --swatch-color: rgb(5 170 61);">
+                                <input type="checkbox" class="focus-inset" name="filter.v.t.shopify.color-pattern" value="gid://shopify/TaxonomyValue/2865" id="Filter-Color-7" style="">
+                                <label for="Filter-Color-7" class="facet-checkbox focus-inset facet-checkbox--color" title="Multicolor" tabindex="0" role="checkbox" aria-checked="false" data-accessible-init="true"><span class="facet-checkbox__checkbox"></span><span class="facet-checkbox__label body-small">
+                                    
+Multicolor
+                                  </span>
+                                  <span class="facet-checkbox__count body-small">
+                                    
+                                  </span>
+                                </label>
+                              </li>
+
+                              <li class="facets__item facets__item--color highlight--border" style="--border-radius: px; --swatch-color: rgb(255 192 203);">
+                                <input type="checkbox" class="focus-inset" name="filter.v.t.shopify.color-pattern" value="gid://shopify/TaxonomyValue/11" id="Filter-Color-8" style="">
+                                <label for="Filter-Color-8" class="facet-checkbox focus-inset facet-checkbox--color" title="Pink" tabindex="0" role="checkbox" aria-checked="false" data-accessible-init="true"><span class="facet-checkbox__checkbox"></span><span class="facet-checkbox__label body-small">
+                                    
+Pink
+                                  </span>
+                                  <span class="facet-checkbox__count body-small">
+                                    
+                                  </span>
+                                </label>
+                              </li>
+
+                              <li class="facets__item facets__item--color highlight--border" style="--border-radius: px; --swatch-color: rgb(165 77 207);">
+                                <input type="checkbox" class="focus-inset" name="filter.v.t.shopify.color-pattern" value="gid://shopify/TaxonomyValue/12" id="Filter-Color-9" style="">
+                                <label for="Filter-Color-9" class="facet-checkbox focus-inset facet-checkbox--color" title="Purple" tabindex="0" role="checkbox" aria-checked="false" data-accessible-init="true"><span class="facet-checkbox__checkbox"></span><span class="facet-checkbox__label body-small">
+                                    
+Purple
+                                  </span>
+                                  <span class="facet-checkbox__count body-small">
+                                    
+                                  </span>
+                                </label>
+                              </li>
+
+                              <li class="facets__item facets__item--color highlight--border" style="--border-radius: px; --swatch-color: rgb(246 31 31);">
+                                <input type="checkbox" class="focus-inset" name="filter.v.t.shopify.color-pattern" value="gid://shopify/TaxonomyValue/13" id="Filter-Color-10" style="">
+                                <label for="Filter-Color-10" class="facet-checkbox focus-inset facet-checkbox--color" title="Red" tabindex="0" role="checkbox" aria-checked="false" data-accessible-init="true"><span class="facet-checkbox__checkbox"></span><span class="facet-checkbox__label body-small">
+                                    
+Red
+                                  </span>
+                                  <span class="facet-checkbox__count body-small">
+                                    
+                                  </span>
+                                </label>
+                              </li>
+
+                              <li class="facets__item facets__item--color highlight--border" style="--border-radius: px; --swatch-color: rgb(255 255 255);">
+                                <input type="checkbox" class="focus-inset" name="filter.v.t.shopify.color-pattern" value="gid://shopify/TaxonomyValue/3" id="Filter-Color-11" style="">
+                                <label for="Filter-Color-11" class="facet-checkbox focus-inset facet-checkbox--color" title="White" tabindex="0" role="checkbox" aria-checked="false" data-accessible-init="true"><span class="facet-checkbox__checkbox"></span><span class="facet-checkbox__label body-small">
+                                    
+White
+                                  </span>
+                                  <span class="facet-checkbox__count body-small">
+                                    
+                                  </span>
+                                </label>
+                              </li></ul>
+                          
+                        </div>
+                      </details>
+                    
+
+
+                      
+                      <details id="Details-6-template--27266934243703__product-grid" class="disclosure-has-popup facets__disclosure js-filter" data-index="6">
+                        <summary class="facets__summary focus-inset" tabindex="0" role="button" aria-expanded="false" aria-controls="Facet-6-template--27266934243703__product-grid">
+                          <div class="facets__summary-inner">
+                            <div class="facets__summary-inner-left">
+                              <span class="body-normal facets__summary-title">Design
+                              </span>
+                              
+                            </div>
+                            <div class="facets__summary-inner-right">
+                              
+                                
+
+                                
+
+                              <svg class="icon icon-caret icon-caret-facets" width="10" height="10" viewBox="0 0 10 10" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M1 7L5 3L9 7" stroke="currentColor"></path>
+</svg>
+
+                            </div>
+                          </div>
+                        </summary>
+                        <div id="Facet-6-template--27266934243703__product-grid" class="facets__display">
+                          <ul class="
+                              facets__list list-unstyled
+                              " role="list" style="--image_filter_columns: 3;">
+
+                              <li class="facets__item highlight--border">
+                                <input type="checkbox" class="focus-inset" name="filter.v.option.design" value="Metal" id="Filter-Design-1" style="">
+                                <label for="Filter-Design-1" class="facet-checkbox focus-inset" tabindex="0" role="checkbox" aria-checked="false" data-accessible-init="true"><span class="facet-checkbox__checkbox"></span><span class="facet-checkbox__label body-small">
+                                    
+                                      <svg class="icon icon-check" width="18" height="18" viewBox="0 0 18 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M5 9.5L8 12.5L13 6" stroke="currentColor" stroke-width="1.5"></path>
+</svg>
+                                    
+Metal
+                                  </span>
+                                  <span class="facet-checkbox__count body-small">
+                                    
+1
+                                  </span>
+                                </label>
+                              </li>
+
+                              <li class="facets__item highlight--border">
+                                <input type="checkbox" class="focus-inset" name="filter.v.option.design" value="Oulined" id="Filter-Design-2" style="">
+                                <label for="Filter-Design-2" class="facet-checkbox focus-inset" tabindex="0" role="checkbox" aria-checked="false" data-accessible-init="true"><span class="facet-checkbox__checkbox"></span><span class="facet-checkbox__label body-small">
+                                    
+                                      <svg class="icon icon-check" width="18" height="18" viewBox="0 0 18 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M5 9.5L8 12.5L13 6" stroke="currentColor" stroke-width="1.5"></path>
+</svg>
+                                    
+Oulined
+                                  </span>
+                                  <span class="facet-checkbox__count body-small">
+                                    
+1
+                                  </span>
+                                </label>
+                              </li>
+
+                              <li class="facets__item highlight--border">
+                                <input type="checkbox" class="focus-inset" name="filter.v.option.design" value="Standard" id="Filter-Design-3" style="">
+                                <label for="Filter-Design-3" class="facet-checkbox focus-inset" tabindex="0" role="checkbox" aria-checked="false" data-accessible-init="true"><span class="facet-checkbox__checkbox"></span><span class="facet-checkbox__label body-small">
+                                    
+                                      <svg class="icon icon-check" width="18" height="18" viewBox="0 0 18 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M5 9.5L8 12.5L13 6" stroke="currentColor" stroke-width="1.5"></path>
+</svg>
+                                    
+Standard
+                                  </span>
+                                  <span class="facet-checkbox__count body-small">
+                                    
+1
+                                  </span>
+                                </label>
+                              </li></ul>
+                          
+                        </div>
+                      </details>
+                    
+</div>
+            </div>
+
+            <div class="facets-remove__all active-facets-desktop" data-type="show-items">
+              
+
+              
+              
+              
+              
+              
+              
+              
+              
+
+              <button class="button button--primary facets-modal__close fascets__show-items  focus-inset " aria-label="Show items" type="button">
+                <div class="button__content">
+                  <span class="button__label" data-label="Show items">
+                    Show items
+                  </span>
+                </div>
+              </button>
+              <div class="facet-remove facet-remove--disabled">
+                <facet-remove>
+                  
+                  
+
+
+
+  <a href="/collections/all" aria-label="Clear filters" class="button button--custom active-facets__button-remove focus-inset " role="button">
+    <span class="button__content">
+      
+      <span class="button__label">Clear filters</span>
+    </span>
+  </a>
+                </facet-remove>
+              </div>
+            </div>
+          </div>
+        </div>
+      
+
+      
+    </form>
+  </facet-filters-form>
+</div>
+
+<div id="ProductGridContainer" data-products-in-row="large" class="products-grid full-width "><div class="collection collection-product">
+            <div class="loading-overlay no-js-hidden">
+              <div class="loading-overlay__spinner">
+                <svg aria-hidden="true" focusable="false" role="presentation" class="spinner" viewBox="0 0 66 66" xmlns="http://www.w3.org/2000/svg">
+  <circle class="path" fill="none" stroke-width="5" cx="33" cy="33" r="30"></circle>
+</svg>
+
+              </div>
+            </div>
+
+            <div id="product-grid" data-id="template--27266934243703__product-grid" class="collection-product-list load-more-grid"><div class="collection-product-card">
+                  
+
+
+<product-card class="product-card product-card--mobile-1 product-card_image-linked" data-product="annual-planner-calendar" data-product-id="15252921057655" data-image-linked="true" data-card-color-swatches="true" tabindex="0" style="--card-padding-bottom: 131.7%; --slide-count: 4">
+  <div class="product-card__inner">
+    <div class="product-card__media">
+
+          <div class="swiper-container product-card-js global-variant-js-media-list slider_started swiper-initialized swiper-horizontal swiper-backface-hidden" data-loop="false">
+            <div class="swiper-wrapper" id="swiper-wrapper-4581e1747b510387c" aria-live="polite" style="transform: translate3d(0px, 0px, 0px);">
+              
+                
+
+                
+                  
+                    
+                    
+
+                
+
+                <div class="swiper-slide swiper-slide-active" data-media-id="67606883369335" data-variant-id="56821817114999" role="group" aria-label="1 / 4" style="width: 326px; margin-right: 2px;">
+                  <img src="//shift-sketch.myshopify.com/cdn/shop/files/02-calendar.jpg?v=1763733972&amp;width=2603" alt="Annual Planner Calendar" srcset="//shift-sketch.myshopify.com/cdn/shop/files/02-calendar.jpg?v=1763733972&amp;width=360 360w, //shift-sketch.myshopify.com/cdn/shop/files/02-calendar.jpg?v=1763733972&amp;width=535 535w, //shift-sketch.myshopify.com/cdn/shop/files/02-calendar.jpg?v=1763733972&amp;width=720 720w, //shift-sketch.myshopify.com/cdn/shop/files/02-calendar.jpg?v=1763733972&amp;width=940 940w, //shift-sketch.myshopify.com/cdn/shop/files/02-calendar.jpg?v=1763733972&amp;width=1066 1066w, //shift-sketch.myshopify.com/cdn/shop/files/02-calendar.jpg?v=1763733972&amp;width=1200 1200w, //shift-sketch.myshopify.com/cdn/shop/files/02-calendar.jpg?v=1763733972&amp;width=1400 1400w, //shift-sketch.myshopify.com/cdn/shop/files/02-calendar.jpg?v=1763733972&amp;width=1600 1600w, //shift-sketch.myshopify.com/cdn/shop/files/02-calendar.jpg?v=1763733972&amp;width=1800 1800w, //shift-sketch.myshopify.com/cdn/shop/files/02-calendar.jpg?v=1763733972&amp;width=2000 2000w, //shift-sketch.myshopify.com/cdn/shop/files/02-calendar.jpg?v=1763733972&amp;width=2200 2200w, //shift-sketch.myshopify.com/cdn/shop/files/02-calendar.jpg?v=1763733972&amp;width=2400 2400w, //shift-sketch.myshopify.com/cdn/shop/files/02-calendar.jpg?v=1763733972&amp;width=2600 2600w" width="2603" height="3470" loading="eager" class="motion-reduce media" sizes="(min-width: 1200px) calc(1.03 * (100vw / 4)),(min-width: 990px) calc(1.03 * (100vw / 3)),(min-width: 576px) calc(1.03 * (100vw / 2)),calc(1.03 * 100vw)" style="object-fit: cover;">
+                </div>
+              
+                
+
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+
+                
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                
+
+                <div class="swiper-slide swiper-slide-next" data-media-id="67606883271031" role="group" aria-label="2 / 4" style="width: 326px; margin-right: 2px;">
+                  <img src="//shift-sketch.myshopify.com/cdn/shop/files/02-calendar-hover-01.jpg?v=1763733973&amp;width=1776" alt="Annual Planner Calendar" srcset="//shift-sketch.myshopify.com/cdn/shop/files/02-calendar-hover-01.jpg?v=1763733973&amp;width=360 360w, //shift-sketch.myshopify.com/cdn/shop/files/02-calendar-hover-01.jpg?v=1763733973&amp;width=535 535w, //shift-sketch.myshopify.com/cdn/shop/files/02-calendar-hover-01.jpg?v=1763733973&amp;width=720 720w, //shift-sketch.myshopify.com/cdn/shop/files/02-calendar-hover-01.jpg?v=1763733973&amp;width=940 940w, //shift-sketch.myshopify.com/cdn/shop/files/02-calendar-hover-01.jpg?v=1763733973&amp;width=1066 1066w, //shift-sketch.myshopify.com/cdn/shop/files/02-calendar-hover-01.jpg?v=1763733973&amp;width=1200 1200w, //shift-sketch.myshopify.com/cdn/shop/files/02-calendar-hover-01.jpg?v=1763733973&amp;width=1400 1400w, //shift-sketch.myshopify.com/cdn/shop/files/02-calendar-hover-01.jpg?v=1763733973&amp;width=1600 1600w" width="1776" height="2368" loading="eager" class="motion-reduce media" sizes="(min-width: 1200px) calc(1.03 * (100vw / 4)),(min-width: 990px) calc(1.03 * (100vw / 3)),(min-width: 576px) calc(1.03 * (100vw / 2)),calc(1.03 * 100vw)" style="object-fit: cover;">
+                </div>
+              
+                
+
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+
+                
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                
+
+                <div class="swiper-slide" data-media-id="67606883303799" role="group" aria-label="3 / 4" style="width: 326px; margin-right: 2px;">
+                  <img src="//shift-sketch.myshopify.com/cdn/shop/files/02-calendar-hover-02.jpg?v=1763733973&amp;width=1728" alt="Annual Planner Calendar" srcset="//shift-sketch.myshopify.com/cdn/shop/files/02-calendar-hover-02.jpg?v=1763733973&amp;width=360 360w, //shift-sketch.myshopify.com/cdn/shop/files/02-calendar-hover-02.jpg?v=1763733973&amp;width=535 535w, //shift-sketch.myshopify.com/cdn/shop/files/02-calendar-hover-02.jpg?v=1763733973&amp;width=720 720w, //shift-sketch.myshopify.com/cdn/shop/files/02-calendar-hover-02.jpg?v=1763733973&amp;width=940 940w, //shift-sketch.myshopify.com/cdn/shop/files/02-calendar-hover-02.jpg?v=1763733973&amp;width=1066 1066w, //shift-sketch.myshopify.com/cdn/shop/files/02-calendar-hover-02.jpg?v=1763733973&amp;width=1200 1200w, //shift-sketch.myshopify.com/cdn/shop/files/02-calendar-hover-02.jpg?v=1763733973&amp;width=1400 1400w, //shift-sketch.myshopify.com/cdn/shop/files/02-calendar-hover-02.jpg?v=1763733973&amp;width=1600 1600w" width="1728" height="2304" loading="eager" class="motion-reduce media" sizes="(min-width: 1200px) calc(1.03 * (100vw / 4)),(min-width: 990px) calc(1.03 * (100vw / 3)),(min-width: 576px) calc(1.03 * (100vw / 2)),calc(1.03 * 100vw)" style="object-fit: cover;">
+                </div>
+              
+                
+
+                
+                  
+                
+                  
+                    
+                    
+
+                
+
+                <div class="swiper-slide" data-media-id="67606883336567" data-variant-id="56821817147767" role="group" aria-label="4 / 4" style="width: 326px; margin-right: 2px;">
+                  <img src="//shift-sketch.myshopify.com/cdn/shop/files/02-calendar-hover-03.jpg?v=1763733972&amp;width=2464" alt="Annual Planner Calendar" srcset="//shift-sketch.myshopify.com/cdn/shop/files/02-calendar-hover-03.jpg?v=1763733972&amp;width=360 360w, //shift-sketch.myshopify.com/cdn/shop/files/02-calendar-hover-03.jpg?v=1763733972&amp;width=535 535w, //shift-sketch.myshopify.com/cdn/shop/files/02-calendar-hover-03.jpg?v=1763733972&amp;width=720 720w, //shift-sketch.myshopify.com/cdn/shop/files/02-calendar-hover-03.jpg?v=1763733972&amp;width=940 940w, //shift-sketch.myshopify.com/cdn/shop/files/02-calendar-hover-03.jpg?v=1763733972&amp;width=1066 1066w, //shift-sketch.myshopify.com/cdn/shop/files/02-calendar-hover-03.jpg?v=1763733972&amp;width=1200 1200w, //shift-sketch.myshopify.com/cdn/shop/files/02-calendar-hover-03.jpg?v=1763733972&amp;width=1400 1400w, //shift-sketch.myshopify.com/cdn/shop/files/02-calendar-hover-03.jpg?v=1763733972&amp;width=1600 1600w, //shift-sketch.myshopify.com/cdn/shop/files/02-calendar-hover-03.jpg?v=1763733972&amp;width=1800 1800w, //shift-sketch.myshopify.com/cdn/shop/files/02-calendar-hover-03.jpg?v=1763733972&amp;width=2000 2000w, //shift-sketch.myshopify.com/cdn/shop/files/02-calendar-hover-03.jpg?v=1763733972&amp;width=2200 2200w, //shift-sketch.myshopify.com/cdn/shop/files/02-calendar-hover-03.jpg?v=1763733972&amp;width=2400 2400w" width="2464" height="3285" loading="eager" class="motion-reduce media" sizes="(min-width: 1200px) calc(1.03 * (100vw / 4)),(min-width: 990px) calc(1.03 * (100vw / 3)),(min-width: 576px) calc(1.03 * (100vw / 2)),calc(1.03 * 100vw)" style="object-fit: cover;">
+                </div>
+              
+            </div>
+            <div class="product-button-group">
+              <div class="product-slider-button-prev">
+                <div class="swiper-button-prev swiper-button-disabled" tabindex="-1" role="button" aria-label="Previous slide" aria-controls="swiper-wrapper-4581e1747b510387c" aria-disabled="true"><svg class="icon icon-arrow-slider-left" width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M14 2L6 10L14 18" stroke="currentColor"></path>
+</svg>
+</div>
+              </div>
+
+              <div class="product-slider-button-next">
+                <div class="swiper-button-next" tabindex="0" role="button" aria-label="Next slide" aria-controls="swiper-wrapper-4581e1747b510387c" aria-disabled="false"><svg class="icon icon-arrow-slider-right" width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M6 2L14 10L6 18" stroke="currentColor"></path>
+</svg>
+</div>
+              </div>
+            </div>
+            <div class="swiper-pagination product-card-pagination swiper-pagination-default swiper-pagination-clickable swiper-pagination-bullets swiper-pagination-horizontal"><span class="swiper-pagination-bullet swiper-pagination-bullet-active" tabindex="0" role="button" aria-label="Go to slide 1" aria-current="true"></span><span class="swiper-pagination-bullet" tabindex="0" role="button" aria-label="Go to slide 2"></span><span class="swiper-pagination-bullet" tabindex="0" role="button" aria-label="Go to slide 3"></span><span class="swiper-pagination-bullet" tabindex="0" role="button" aria-label="Go to slide 4"></span></div>
+          <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
+        
+</div><div class="product-card__top">
+        
+<div class="product-card__badges body-normal"></div>
+      </div><div class="product-card__quickview product-card__quickview--mobile-true no-js-hidden">
+        <modal-opener data-modal="#QuickView-15252921057655">
+          <button class="product-card__button button button--primary focus-inset" aria-haspopup="dialog" data-product-url="/products/annual-planner-calendar" aria-label="Quick view">
+            <div class="button__content">
+              <span class="product-card__quickview-text button__label" data-label="Quick view">Quick view</span>
+              <span class="product-card__mobile-icon button__icon">
+                <svg width="22" height="22" viewBox="0 0 22 22" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M2.66745 12.0748C2.35434 11.3936 2.35434 10.6077 2.66745 9.92654C4.11679 6.77337 7.30311 4.58398 11.0008 4.58398C14.6985 4.58398 17.8848 6.77338 19.3341 9.92654C19.6472 10.6077 19.6472 11.3936 19.3341 12.0748C17.8848 15.2279 14.6985 17.4173 11.0008 17.4173C7.30311 17.4173 4.11679 15.2279 2.66745 12.0748Z" stroke="currentColor" stroke-width="1.5"></path>
+  <path d="M13.7508 11.0007C13.7508 12.5194 12.5196 13.7507 11.0008 13.7507C9.48201 13.7507 8.25079 12.5194 8.25079 11.0007C8.25079 9.48187 9.48201 8.25065 11.0008 8.25065C12.5196 8.25065 13.7508 9.48187 13.7508 11.0007Z" stroke="currentColor" stroke-width="1.5"></path>
+</svg>
+
+              </span>
+            </div>
+            <div class="loading-overlay__spinner hidden">
+              <svg aria-hidden="true" focusable="false" role="presentation" class="spinner" viewBox="0 0 66 66" xmlns="http://www.w3.org/2000/svg">
+  <circle class="path" fill="none" stroke-width="5" cx="33" cy="33" r="30"></circle>
+</svg>
+
+            </div>
+          </button>
+        </modal-opener>
+
+        
+
+
+      </div></div>
+
+  
+  <div class="product-card__information">
+    <div class="product-card__information-top"><h2 class="product-card__title">
+        <a class="focus-inset" href="/products/annual-planner-calendar" aria-label="Annual Planner Calendar">Annual Planner Calendar</a>
+      </h2>
+
+      <div class="product-card__price-group">
+        
+<div class="price">
+  <dl class="price-text"><div class="price__regular">
+      <dt class="visually-hidden">Regular price</dt>
+      <dd>
+        <span class="price-item price-item--regular">$11.50</span>
+      </dd>
+    </div>
+    <div class="price__sale">
+      <dt class="visually-hidden">Sale price</dt>
+      <dd>
+        <span class="price-item price-item--sale">$11.50</span>
+      </dd>
+      <dt class="visually-hidden">Regular price</dt>
+      <dd class="price__compare">
+        <s class="price-item price-item--regular"></s>
+      </dd>
+    </div>
+  </dl>
+
+  <dl class="unit-price hidden">
+    <dt class="visually-hidden">Unit price</dt>
+    <dd></dd>
+  </dl>
+</div>
+
+      </div>
+      
+
+          <div class="product-card__description body-small">260 x 210 mm</div><div class="product-card__error body-xs" role="alert" hidden=""></div>
+    </div>
+
+    
+<div class="product-card__information-bottom" tabindex="0"><div class="product-card__color-swatches">
+                
+                  <div class="body-small js-option-selected-value" data-option-position="1">
+                    Purple</div>
+                
+                <div class="product-card__option-group js-card-option-group" data-option-position="1">
+                  
+
+
+  
+
+  
+  
+  
+
+<input type="radio" id="template--27266934243703__product-grid-1-0-15252921057655-1" name="Color-template--27266934243703__product-grid-15252921057655-1" value="Purple" data-variant-id="56821817114999" form="product-form-template--27266934243703__product-grid" checked="" tabindex="-1" aria-label="Purple" data-option-value-id="12613402591607" style="">
+    
+<label for="template--27266934243703__product-grid-1-0-15252921057655-1" class="color-swatch" style="--swatch-color: rgb(165 77 207);" title="Purple" tabindex="0" onkeydown="if(event.key==='Enter'||event.key===' '){event.preventDefault();document.getElementById(this.getAttribute('for')).click();}" data-unavailable-color-label="N/A">
+        <span class="visually-hidden">Purple</span>
+      </label>
+
+  
+
+  
+  
+  
+
+<input type="radio" id="template--27266934243703__product-grid-1-1-15252921057655-1" name="Color-template--27266934243703__product-grid-15252921057655-1" value="Red" data-variant-id="56821817147767" form="product-form-template--27266934243703__product-grid" tabindex="-1" aria-label="Red" data-option-value-id="12613402624375" style="">
+    
+<label for="template--27266934243703__product-grid-1-1-15252921057655-1" class="color-swatch" style="--swatch-color: rgb(246 31 31);" title="Red" tabindex="0" onkeydown="if(event.key==='Enter'||event.key===' '){event.preventDefault();document.getElementById(this.getAttribute('for')).click();}" data-unavailable-color-label="N/A">
+        <span class="visually-hidden">Red</span>
+      </label>
+
+  
+
+  
+  
+  
+
+<input type="radio" id="template--27266934243703__product-grid-1-2-15252921057655-1" name="Color-template--27266934243703__product-grid-15252921057655-1" value="Pink" data-variant-id="56821817180535" form="product-form-template--27266934243703__product-grid" tabindex="-1" aria-label="Pink" data-option-value-id="12613402657143" style="">
+    
+<label for="template--27266934243703__product-grid-1-2-15252921057655-1" class="color-swatch" style="--swatch-color: rgb(255 192 203);" title="Pink" tabindex="0" onkeydown="if(event.key==='Enter'||event.key===' '){event.preventDefault();document.getElementById(this.getAttribute('for')).click();}" data-unavailable-color-label="N/A">
+        <span class="visually-hidden">Pink</span>
+      </label>
+
+  
+
+  
+  
+  
+
+<input type="radio" id="template--27266934243703__product-grid-1-3-15252921057655-1" name="Color-template--27266934243703__product-grid-15252921057655-1" value="Blue" data-variant-id="56821817213303" form="product-form-template--27266934243703__product-grid" tabindex="-1" aria-label="Blue" data-option-value-id="12613402689911" style="">
+    
+<label for="template--27266934243703__product-grid-1-3-15252921057655-1" class="color-swatch" style="--swatch-color: rgb(0 91 211);" title="Blue" tabindex="0" onkeydown="if(event.key==='Enter'||event.key===' '){event.preventDefault();document.getElementById(this.getAttribute('for')).click();}" data-unavailable-color-label="N/A">
+        <span class="visually-hidden">Blue</span>
+      </label>
+                </div>
+
+                
+              </div></div></div><script type="application/json" data-product-card-variants="">
+      [{"id":56821817114999,"title":"Purple","option1":"Purple","option2":null,"option3":null,"sku":null,"requires_shipping":true,"taxable":true,"featured_image":{"id":82286383956343,"product_id":15252921057655,"position":1,"created_at":"2025-11-21T09:06:09-05:00","updated_at":"2025-11-21T09:06:12-05:00","alt":null,"width":2603,"height":3470,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/02-calendar.jpg?v=1763733972","variant_ids":[56821817114999]},"available":true,"name":"Annual Planner Calendar - Purple","public_title":"Purple","options":["Purple"],"price":1150,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","featured_media":{"alt":null,"id":67606883369335,"position":1,"preview_image":{"aspect_ratio":0.75,"height":3470,"width":2603,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/02-calendar.jpg?v=1763733972"}},"requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56821817147767,"title":"Red","option1":"Red","option2":null,"option3":null,"sku":null,"requires_shipping":true,"taxable":true,"featured_image":{"id":82286383923575,"product_id":15252921057655,"position":4,"created_at":"2025-11-21T09:06:09-05:00","updated_at":"2025-11-21T09:06:12-05:00","alt":null,"width":2464,"height":3285,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/02-calendar-hover-03.jpg?v=1763733972","variant_ids":[56821817147767,56821817180535,56821817213303]},"available":true,"name":"Annual Planner Calendar - Red","public_title":"Red","options":["Red"],"price":1150,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","featured_media":{"alt":null,"id":67606883336567,"position":4,"preview_image":{"aspect_ratio":0.75,"height":3285,"width":2464,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/02-calendar-hover-03.jpg?v=1763733972"}},"requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56821817180535,"title":"Pink","option1":"Pink","option2":null,"option3":null,"sku":null,"requires_shipping":true,"taxable":true,"featured_image":{"id":82286383923575,"product_id":15252921057655,"position":4,"created_at":"2025-11-21T09:06:09-05:00","updated_at":"2025-11-21T09:06:12-05:00","alt":null,"width":2464,"height":3285,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/02-calendar-hover-03.jpg?v=1763733972","variant_ids":[56821817147767,56821817180535,56821817213303]},"available":true,"name":"Annual Planner Calendar - Pink","public_title":"Pink","options":["Pink"],"price":1150,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","featured_media":{"alt":null,"id":67606883336567,"position":4,"preview_image":{"aspect_ratio":0.75,"height":3285,"width":2464,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/02-calendar-hover-03.jpg?v=1763733972"}},"requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56821817213303,"title":"Blue","option1":"Blue","option2":null,"option3":null,"sku":null,"requires_shipping":true,"taxable":true,"featured_image":{"id":82286383923575,"product_id":15252921057655,"position":4,"created_at":"2025-11-21T09:06:09-05:00","updated_at":"2025-11-21T09:06:12-05:00","alt":null,"width":2464,"height":3285,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/02-calendar-hover-03.jpg?v=1763733972","variant_ids":[56821817147767,56821817180535,56821817213303]},"available":true,"name":"Annual Planner Calendar - Blue","public_title":"Blue","options":["Blue"],"price":1150,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","featured_media":{"alt":null,"id":67606883336567,"position":4,"preview_image":{"aspect_ratio":0.75,"height":3285,"width":2464,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/02-calendar-hover-03.jpg?v=1763733972"}},"requires_selling_plan":false,"selling_plan_allocations":[]}]
+    </script>
+    <script type="application/json" data-product-card-featured-media="">
+      {"alt":null,"id":67606883369335,"position":1,"preview_image":{"aspect_ratio":0.75,"height":3470,"width":2603,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/02-calendar.jpg?v=1763733972"},"aspect_ratio":0.75,"height":3470,"media_type":"image","src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/02-calendar.jpg?v=1763733972","width":2603}
+    </script>
+    <span class="hidden" data-product-card-options="" data-product-title="Annual Planner Calendar" data-product-columns="4" data-product-columns-mobile="1" data-product-ratio="0.76" data-product-fit="cover" data-product-has-price-varies="false"></span><a href="/products/annual-planner-calendar" class="product-card__link-overlay focus-inset" aria-label="Annual Planner Calendar Product link"></a></product-card>
+
+                </div><div class="collection-product-card">
+                  
+
+
+<product-card class="product-card product-card--mobile-1 product-card_image-linked" data-product="compact-sketch-pad" data-product-id="15252563886455" data-image-linked="true" data-card-color-swatches="true" tabindex="0" style="--card-padding-bottom: 131.7%; --slide-count: 4">
+  <div class="product-card__inner">
+    <div class="product-card__media">
+
+          <div class="swiper-container product-card-js global-variant-js-media-list slider_started swiper-initialized swiper-horizontal swiper-backface-hidden" data-loop="false">
+            <div class="swiper-wrapper" id="swiper-wrapper-78384c6f3a7c64ad" aria-live="polite" style="transform: translate3d(0px, 0px, 0px);">
+              
+                
+
+                
+                  
+                    
+                    
+
+                
+
+                <div class="swiper-slide swiper-slide-active" data-media-id="67601788207479" data-variant-id="56219142095223" role="group" aria-label="1 / 4" style="width: 326px; margin-right: 2px;">
+                  <img src="//shift-sketch.myshopify.com/cdn/shop/files/06-sketchbook.jpg?v=1763715318&amp;width=2603" alt="Compact Sketch Pad" srcset="//shift-sketch.myshopify.com/cdn/shop/files/06-sketchbook.jpg?v=1763715318&amp;width=360 360w, //shift-sketch.myshopify.com/cdn/shop/files/06-sketchbook.jpg?v=1763715318&amp;width=535 535w, //shift-sketch.myshopify.com/cdn/shop/files/06-sketchbook.jpg?v=1763715318&amp;width=720 720w, //shift-sketch.myshopify.com/cdn/shop/files/06-sketchbook.jpg?v=1763715318&amp;width=940 940w, //shift-sketch.myshopify.com/cdn/shop/files/06-sketchbook.jpg?v=1763715318&amp;width=1066 1066w, //shift-sketch.myshopify.com/cdn/shop/files/06-sketchbook.jpg?v=1763715318&amp;width=1200 1200w, //shift-sketch.myshopify.com/cdn/shop/files/06-sketchbook.jpg?v=1763715318&amp;width=1400 1400w, //shift-sketch.myshopify.com/cdn/shop/files/06-sketchbook.jpg?v=1763715318&amp;width=1600 1600w, //shift-sketch.myshopify.com/cdn/shop/files/06-sketchbook.jpg?v=1763715318&amp;width=1800 1800w, //shift-sketch.myshopify.com/cdn/shop/files/06-sketchbook.jpg?v=1763715318&amp;width=2000 2000w, //shift-sketch.myshopify.com/cdn/shop/files/06-sketchbook.jpg?v=1763715318&amp;width=2200 2200w, //shift-sketch.myshopify.com/cdn/shop/files/06-sketchbook.jpg?v=1763715318&amp;width=2400 2400w, //shift-sketch.myshopify.com/cdn/shop/files/06-sketchbook.jpg?v=1763715318&amp;width=2600 2600w" width="2603" height="3470" loading="eager" class="motion-reduce media" sizes="(min-width: 1200px) calc(1.03 * (100vw / 4)),(min-width: 990px) calc(1.03 * (100vw / 3)),(min-width: 576px) calc(1.03 * (100vw / 2)),calc(1.03 * 100vw)" style="object-fit: cover;">
+                </div>
+              
+                
+
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+
+                
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                
+
+                <div class="swiper-slide swiper-slide-next" data-media-id="67601788109175" role="group" aria-label="2 / 4" style="width: 326px; margin-right: 2px;">
+                  <img src="//shift-sketch.myshopify.com/cdn/shop/files/06-sketchbook-hover-01.jpg?v=1763715318&amp;width=1488" alt="Compact Sketch Pad" srcset="//shift-sketch.myshopify.com/cdn/shop/files/06-sketchbook-hover-01.jpg?v=1763715318&amp;width=360 360w, //shift-sketch.myshopify.com/cdn/shop/files/06-sketchbook-hover-01.jpg?v=1763715318&amp;width=535 535w, //shift-sketch.myshopify.com/cdn/shop/files/06-sketchbook-hover-01.jpg?v=1763715318&amp;width=720 720w, //shift-sketch.myshopify.com/cdn/shop/files/06-sketchbook-hover-01.jpg?v=1763715318&amp;width=940 940w, //shift-sketch.myshopify.com/cdn/shop/files/06-sketchbook-hover-01.jpg?v=1763715318&amp;width=1066 1066w, //shift-sketch.myshopify.com/cdn/shop/files/06-sketchbook-hover-01.jpg?v=1763715318&amp;width=1200 1200w, //shift-sketch.myshopify.com/cdn/shop/files/06-sketchbook-hover-01.jpg?v=1763715318&amp;width=1400 1400w" width="1488" height="1984" loading="eager" class="motion-reduce media" sizes="(min-width: 1200px) calc(1.03 * (100vw / 4)),(min-width: 990px) calc(1.03 * (100vw / 3)),(min-width: 576px) calc(1.03 * (100vw / 2)),calc(1.03 * 100vw)" style="object-fit: cover;">
+                </div>
+              
+                
+
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+
+                
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                
+
+                <div class="swiper-slide" data-media-id="67601788141943" role="group" aria-label="3 / 4" style="width: 326px; margin-right: 2px;">
+                  <img src="//shift-sketch.myshopify.com/cdn/shop/files/06-sketchbook-hover-02.jpg?v=1763715319&amp;width=1704" alt="Compact Sketch Pad" srcset="//shift-sketch.myshopify.com/cdn/shop/files/06-sketchbook-hover-02.jpg?v=1763715319&amp;width=360 360w, //shift-sketch.myshopify.com/cdn/shop/files/06-sketchbook-hover-02.jpg?v=1763715319&amp;width=535 535w, //shift-sketch.myshopify.com/cdn/shop/files/06-sketchbook-hover-02.jpg?v=1763715319&amp;width=720 720w, //shift-sketch.myshopify.com/cdn/shop/files/06-sketchbook-hover-02.jpg?v=1763715319&amp;width=940 940w, //shift-sketch.myshopify.com/cdn/shop/files/06-sketchbook-hover-02.jpg?v=1763715319&amp;width=1066 1066w, //shift-sketch.myshopify.com/cdn/shop/files/06-sketchbook-hover-02.jpg?v=1763715319&amp;width=1200 1200w, //shift-sketch.myshopify.com/cdn/shop/files/06-sketchbook-hover-02.jpg?v=1763715319&amp;width=1400 1400w, //shift-sketch.myshopify.com/cdn/shop/files/06-sketchbook-hover-02.jpg?v=1763715319&amp;width=1600 1600w" width="1704" height="2272" loading="eager" class="motion-reduce media" sizes="(min-width: 1200px) calc(1.03 * (100vw / 4)),(min-width: 990px) calc(1.03 * (100vw / 3)),(min-width: 576px) calc(1.03 * (100vw / 2)),calc(1.03 * 100vw)" style="object-fit: cover;">
+                </div>
+              
+                
+
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+
+                
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                
+
+                <div class="swiper-slide" data-media-id="67601788174711" role="group" aria-label="4 / 4" style="width: 326px; margin-right: 2px;">
+                  <img src="//shift-sketch.myshopify.com/cdn/shop/files/06-sketchbook-hover-03.jpg?v=1763715318&amp;width=1856" alt="Compact Sketch Pad" srcset="//shift-sketch.myshopify.com/cdn/shop/files/06-sketchbook-hover-03.jpg?v=1763715318&amp;width=360 360w, //shift-sketch.myshopify.com/cdn/shop/files/06-sketchbook-hover-03.jpg?v=1763715318&amp;width=535 535w, //shift-sketch.myshopify.com/cdn/shop/files/06-sketchbook-hover-03.jpg?v=1763715318&amp;width=720 720w, //shift-sketch.myshopify.com/cdn/shop/files/06-sketchbook-hover-03.jpg?v=1763715318&amp;width=940 940w, //shift-sketch.myshopify.com/cdn/shop/files/06-sketchbook-hover-03.jpg?v=1763715318&amp;width=1066 1066w, //shift-sketch.myshopify.com/cdn/shop/files/06-sketchbook-hover-03.jpg?v=1763715318&amp;width=1200 1200w, //shift-sketch.myshopify.com/cdn/shop/files/06-sketchbook-hover-03.jpg?v=1763715318&amp;width=1400 1400w, //shift-sketch.myshopify.com/cdn/shop/files/06-sketchbook-hover-03.jpg?v=1763715318&amp;width=1600 1600w, //shift-sketch.myshopify.com/cdn/shop/files/06-sketchbook-hover-03.jpg?v=1763715318&amp;width=1800 1800w" width="1856" height="2464" loading="eager" class="motion-reduce media" sizes="(min-width: 1200px) calc(1.03 * (100vw / 4)),(min-width: 990px) calc(1.03 * (100vw / 3)),(min-width: 576px) calc(1.03 * (100vw / 2)),calc(1.03 * 100vw)" style="object-fit: cover;">
+                </div>
+              
+            </div>
+            <div class="product-button-group">
+              <div class="product-slider-button-prev">
+                <div class="swiper-button-prev swiper-button-disabled" tabindex="-1" role="button" aria-label="Previous slide" aria-controls="swiper-wrapper-78384c6f3a7c64ad" aria-disabled="true"><svg class="icon icon-arrow-slider-left" width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M14 2L6 10L14 18" stroke="currentColor"></path>
+</svg>
+</div>
+              </div>
+
+              <div class="product-slider-button-next">
+                <div class="swiper-button-next" tabindex="0" role="button" aria-label="Next slide" aria-controls="swiper-wrapper-78384c6f3a7c64ad" aria-disabled="false"><svg class="icon icon-arrow-slider-right" width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M6 2L14 10L6 18" stroke="currentColor"></path>
+</svg>
+</div>
+              </div>
+            </div>
+            <div class="swiper-pagination product-card-pagination swiper-pagination-default swiper-pagination-clickable swiper-pagination-bullets swiper-pagination-horizontal"><span class="swiper-pagination-bullet swiper-pagination-bullet-active" tabindex="0" role="button" aria-label="Go to slide 1" aria-current="true"></span><span class="swiper-pagination-bullet" tabindex="0" role="button" aria-label="Go to slide 2"></span><span class="swiper-pagination-bullet" tabindex="0" role="button" aria-label="Go to slide 3"></span><span class="swiper-pagination-bullet" tabindex="0" role="button" aria-label="Go to slide 4"></span></div>
+          <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
+        
+</div><div class="product-card__top">
+        
+<div class="product-card__badges body-normal"></div>
+      </div><div class="product-card__quickview product-card__quickview--mobile-true no-js-hidden">
+        <modal-opener data-modal="#QuickView-15252563886455">
+          <button class="product-card__button button button--primary focus-inset" aria-haspopup="dialog" data-product-url="/products/compact-sketch-pad" aria-label="Quick view">
+            <div class="button__content">
+              <span class="product-card__quickview-text button__label" data-label="Quick view">Quick view</span>
+              <span class="product-card__mobile-icon button__icon">
+                <svg width="22" height="22" viewBox="0 0 22 22" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M2.66745 12.0748C2.35434 11.3936 2.35434 10.6077 2.66745 9.92654C4.11679 6.77337 7.30311 4.58398 11.0008 4.58398C14.6985 4.58398 17.8848 6.77338 19.3341 9.92654C19.6472 10.6077 19.6472 11.3936 19.3341 12.0748C17.8848 15.2279 14.6985 17.4173 11.0008 17.4173C7.30311 17.4173 4.11679 15.2279 2.66745 12.0748Z" stroke="currentColor" stroke-width="1.5"></path>
+  <path d="M13.7508 11.0007C13.7508 12.5194 12.5196 13.7507 11.0008 13.7507C9.48201 13.7507 8.25079 12.5194 8.25079 11.0007C8.25079 9.48187 9.48201 8.25065 11.0008 8.25065C12.5196 8.25065 13.7508 9.48187 13.7508 11.0007Z" stroke="currentColor" stroke-width="1.5"></path>
+</svg>
+
+              </span>
+            </div>
+            <div class="loading-overlay__spinner hidden">
+              <svg aria-hidden="true" focusable="false" role="presentation" class="spinner" viewBox="0 0 66 66" xmlns="http://www.w3.org/2000/svg">
+  <circle class="path" fill="none" stroke-width="5" cx="33" cy="33" r="30"></circle>
+</svg>
+
+            </div>
+          </button>
+        </modal-opener>
+
+        
+
+
+      </div></div>
+
+  
+  <div class="product-card__information">
+    <div class="product-card__information-top"><h2 class="product-card__title">
+        <a class="focus-inset" href="/products/compact-sketch-pad" aria-label="Compact Sketch Pad">Compact Sketch Pad</a>
+      </h2>
+
+      <div class="product-card__price-group">
+        
+<div class="price">
+  <dl class="price-text"><div class="price__regular">
+      <dt class="visually-hidden">Regular price</dt>
+      <dd>
+        <span class="price-item price-item--regular">$8.50</span>
+      </dd>
+    </div>
+    <div class="price__sale">
+      <dt class="visually-hidden">Sale price</dt>
+      <dd>
+        <span class="price-item price-item--sale">$8.50</span>
+      </dd>
+      <dt class="visually-hidden">Regular price</dt>
+      <dd class="price__compare">
+        <s class="price-item price-item--regular"></s>
+      </dd>
+    </div>
+  </dl>
+
+  <dl class="unit-price hidden">
+    <dt class="visually-hidden">Unit price</dt>
+    <dd></dd>
+  </dl>
+</div>
+
+      </div>
+      
+
+          <div class="product-card__description body-small">210 x 105 mm</div><div class="product-card__error body-xs" role="alert" hidden=""></div>
+    </div>
+
+    
+<div class="product-card__information-bottom" tabindex="0"><div class="product-card__color-swatches">
+                
+                  <div class="body-small js-option-selected-value" data-option-position="3">
+                    Pink</div>
+                
+                <div class="product-card__option-group js-card-option-group" data-option-position="3">
+                  
+
+
+  
+
+  
+  
+  
+
+<input type="radio" id="template--27266934243703__product-grid-3-0-15252563886455-2" name="Color-template--27266934243703__product-grid-15252563886455-2" value="Pink" data-variant-id="56219142095223" form="product-form-template--27266934243703__product-grid" checked="" tabindex="-1" aria-label="Pink" data-option-value-id="12613567381879" style="">
+    
+<label for="template--27266934243703__product-grid-3-0-15252563886455-2" class="color-swatch" style="--swatch-color: rgb(255 192 203);" title="Pink" tabindex="0" onkeydown="if(event.key==='Enter'||event.key===' '){event.preventDefault();document.getElementById(this.getAttribute('for')).click();}" data-unavailable-color-label="N/A">
+        <span class="visually-hidden">Pink</span>
+      </label>
+
+  
+
+  
+  
+  
+
+<input type="radio" id="template--27266934243703__product-grid-3-1-15252563886455-2" name="Color-template--27266934243703__product-grid-15252563886455-2" value="Red" data-variant-id="56821953790327" form="product-form-template--27266934243703__product-grid" tabindex="-1" aria-label="Red" data-option-value-id="12613575606647" style="">
+    
+<label for="template--27266934243703__product-grid-3-1-15252563886455-2" class="color-swatch" style="--swatch-color: rgb(246 31 31);" title="Red" tabindex="0" onkeydown="if(event.key==='Enter'||event.key===' '){event.preventDefault();document.getElementById(this.getAttribute('for')).click();}" data-unavailable-color-label="N/A">
+        <span class="visually-hidden">Red</span>
+      </label>
+
+  
+
+  
+  
+  
+
+<input type="radio" id="template--27266934243703__product-grid-3-2-15252563886455-2" name="Color-template--27266934243703__product-grid-15252563886455-2" value="Blue" data-variant-id="56821953823095" form="product-form-template--27266934243703__product-grid" tabindex="-1" aria-label="Blue" data-option-value-id="12613575639415" style="">
+    
+<label for="template--27266934243703__product-grid-3-2-15252563886455-2" class="color-swatch" style="--swatch-color: rgb(0 91 211);" title="Blue" tabindex="0" onkeydown="if(event.key==='Enter'||event.key===' '){event.preventDefault();document.getElementById(this.getAttribute('for')).click();}" data-unavailable-color-label="N/A">
+        <span class="visually-hidden">Blue</span>
+      </label>
+                </div>
+
+                
+              </div></div></div><script type="application/json" data-product-card-variants="">
+      [{"id":56219142095223,"title":"A5 \/ Blank \/ Pink","option1":"A5","option2":"Blank","option3":"Pink","sku":null,"requires_shipping":true,"taxable":true,"featured_image":{"id":82281209168247,"product_id":15252563886455,"position":1,"created_at":"2025-11-21T03:55:15-05:00","updated_at":"2025-11-21T03:55:18-05:00","alt":null,"width":2603,"height":3470,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/06-sketchbook.jpg?v=1763715318","variant_ids":[56219142095223,56219142127991,56219142160759,56219142193527,56219142226295,56219142259063,56219142291831,56219142324599,56219142357367]},"available":true,"name":"Compact Sketch Pad - A5 \/ Blank \/ Pink","public_title":"A5 \/ Blank \/ Pink","options":["A5","Blank","Pink"],"price":850,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","featured_media":{"alt":null,"id":67601788207479,"position":1,"preview_image":{"aspect_ratio":0.75,"height":3470,"width":2603,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/06-sketchbook.jpg?v=1763715318"}},"requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56821953790327,"title":"A5 \/ Blank \/ Red","option1":"A5","option2":"Blank","option3":"Red","sku":null,"requires_shipping":true,"taxable":true,"featured_image":null,"available":true,"name":"Compact Sketch Pad - A5 \/ Blank \/ Red","public_title":"A5 \/ Blank \/ Red","options":["A5","Blank","Red"],"price":850,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56821953823095,"title":"A5 \/ Blank \/ Blue","option1":"A5","option2":"Blank","option3":"Blue","sku":null,"requires_shipping":true,"taxable":true,"featured_image":null,"available":true,"name":"Compact Sketch Pad - A5 \/ Blank \/ Blue","public_title":"A5 \/ Blank \/ Blue","options":["A5","Blank","Blue"],"price":850,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56219142127991,"title":"A5 \/ Dot \/ Pink","option1":"A5","option2":"Dot","option3":"Pink","sku":null,"requires_shipping":true,"taxable":true,"featured_image":{"id":82281209168247,"product_id":15252563886455,"position":1,"created_at":"2025-11-21T03:55:15-05:00","updated_at":"2025-11-21T03:55:18-05:00","alt":null,"width":2603,"height":3470,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/06-sketchbook.jpg?v=1763715318","variant_ids":[56219142095223,56219142127991,56219142160759,56219142193527,56219142226295,56219142259063,56219142291831,56219142324599,56219142357367]},"available":true,"name":"Compact Sketch Pad - A5 \/ Dot \/ Pink","public_title":"A5 \/ Dot \/ Pink","options":["A5","Dot","Pink"],"price":850,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","featured_media":{"alt":null,"id":67601788207479,"position":1,"preview_image":{"aspect_ratio":0.75,"height":3470,"width":2603,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/06-sketchbook.jpg?v=1763715318"}},"requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56821953855863,"title":"A5 \/ Dot \/ Red","option1":"A5","option2":"Dot","option3":"Red","sku":null,"requires_shipping":true,"taxable":true,"featured_image":null,"available":true,"name":"Compact Sketch Pad - A5 \/ Dot \/ Red","public_title":"A5 \/ Dot \/ Red","options":["A5","Dot","Red"],"price":850,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56821953888631,"title":"A5 \/ Dot \/ Blue","option1":"A5","option2":"Dot","option3":"Blue","sku":null,"requires_shipping":true,"taxable":true,"featured_image":null,"available":true,"name":"Compact Sketch Pad - A5 \/ Dot \/ Blue","public_title":"A5 \/ Dot \/ Blue","options":["A5","Dot","Blue"],"price":850,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56219142160759,"title":"A5 \/ Lined \/ Pink","option1":"A5","option2":"Lined","option3":"Pink","sku":null,"requires_shipping":true,"taxable":true,"featured_image":{"id":82281209168247,"product_id":15252563886455,"position":1,"created_at":"2025-11-21T03:55:15-05:00","updated_at":"2025-11-21T03:55:18-05:00","alt":null,"width":2603,"height":3470,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/06-sketchbook.jpg?v=1763715318","variant_ids":[56219142095223,56219142127991,56219142160759,56219142193527,56219142226295,56219142259063,56219142291831,56219142324599,56219142357367]},"available":true,"name":"Compact Sketch Pad - A5 \/ Lined \/ Pink","public_title":"A5 \/ Lined \/ Pink","options":["A5","Lined","Pink"],"price":850,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","featured_media":{"alt":null,"id":67601788207479,"position":1,"preview_image":{"aspect_ratio":0.75,"height":3470,"width":2603,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/06-sketchbook.jpg?v=1763715318"}},"requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56821953921399,"title":"A5 \/ Lined \/ Red","option1":"A5","option2":"Lined","option3":"Red","sku":null,"requires_shipping":true,"taxable":true,"featured_image":null,"available":true,"name":"Compact Sketch Pad - A5 \/ Lined \/ Red","public_title":"A5 \/ Lined \/ Red","options":["A5","Lined","Red"],"price":850,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56821953954167,"title":"A5 \/ Lined \/ Blue","option1":"A5","option2":"Lined","option3":"Blue","sku":null,"requires_shipping":true,"taxable":true,"featured_image":null,"available":true,"name":"Compact Sketch Pad - A5 \/ Lined \/ Blue","public_title":"A5 \/ Lined \/ Blue","options":["A5","Lined","Blue"],"price":850,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56219142193527,"title":"A4 \/ Blank \/ Pink","option1":"A4","option2":"Blank","option3":"Pink","sku":null,"requires_shipping":true,"taxable":true,"featured_image":{"id":82281209168247,"product_id":15252563886455,"position":1,"created_at":"2025-11-21T03:55:15-05:00","updated_at":"2025-11-21T03:55:18-05:00","alt":null,"width":2603,"height":3470,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/06-sketchbook.jpg?v=1763715318","variant_ids":[56219142095223,56219142127991,56219142160759,56219142193527,56219142226295,56219142259063,56219142291831,56219142324599,56219142357367]},"available":true,"name":"Compact Sketch Pad - A4 \/ Blank \/ Pink","public_title":"A4 \/ Blank \/ Pink","options":["A4","Blank","Pink"],"price":850,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","featured_media":{"alt":null,"id":67601788207479,"position":1,"preview_image":{"aspect_ratio":0.75,"height":3470,"width":2603,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/06-sketchbook.jpg?v=1763715318"}},"requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56821953986935,"title":"A4 \/ Blank \/ Red","option1":"A4","option2":"Blank","option3":"Red","sku":null,"requires_shipping":true,"taxable":true,"featured_image":null,"available":true,"name":"Compact Sketch Pad - A4 \/ Blank \/ Red","public_title":"A4 \/ Blank \/ Red","options":["A4","Blank","Red"],"price":850,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56821954019703,"title":"A4 \/ Blank \/ Blue","option1":"A4","option2":"Blank","option3":"Blue","sku":null,"requires_shipping":true,"taxable":true,"featured_image":null,"available":true,"name":"Compact Sketch Pad - A4 \/ Blank \/ Blue","public_title":"A4 \/ Blank \/ Blue","options":["A4","Blank","Blue"],"price":850,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56219142226295,"title":"A4 \/ Dot \/ Pink","option1":"A4","option2":"Dot","option3":"Pink","sku":null,"requires_shipping":true,"taxable":true,"featured_image":{"id":82281209168247,"product_id":15252563886455,"position":1,"created_at":"2025-11-21T03:55:15-05:00","updated_at":"2025-11-21T03:55:18-05:00","alt":null,"width":2603,"height":3470,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/06-sketchbook.jpg?v=1763715318","variant_ids":[56219142095223,56219142127991,56219142160759,56219142193527,56219142226295,56219142259063,56219142291831,56219142324599,56219142357367]},"available":true,"name":"Compact Sketch Pad - A4 \/ Dot \/ Pink","public_title":"A4 \/ Dot \/ Pink","options":["A4","Dot","Pink"],"price":850,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","featured_media":{"alt":null,"id":67601788207479,"position":1,"preview_image":{"aspect_ratio":0.75,"height":3470,"width":2603,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/06-sketchbook.jpg?v=1763715318"}},"requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56821954052471,"title":"A4 \/ Dot \/ Red","option1":"A4","option2":"Dot","option3":"Red","sku":null,"requires_shipping":true,"taxable":true,"featured_image":null,"available":true,"name":"Compact Sketch Pad - A4 \/ Dot \/ Red","public_title":"A4 \/ Dot \/ Red","options":["A4","Dot","Red"],"price":850,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56821954085239,"title":"A4 \/ Dot \/ Blue","option1":"A4","option2":"Dot","option3":"Blue","sku":null,"requires_shipping":true,"taxable":true,"featured_image":null,"available":true,"name":"Compact Sketch Pad - A4 \/ Dot \/ Blue","public_title":"A4 \/ Dot \/ Blue","options":["A4","Dot","Blue"],"price":850,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56219142259063,"title":"A4 \/ Lined \/ Pink","option1":"A4","option2":"Lined","option3":"Pink","sku":null,"requires_shipping":true,"taxable":true,"featured_image":{"id":82281209168247,"product_id":15252563886455,"position":1,"created_at":"2025-11-21T03:55:15-05:00","updated_at":"2025-11-21T03:55:18-05:00","alt":null,"width":2603,"height":3470,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/06-sketchbook.jpg?v=1763715318","variant_ids":[56219142095223,56219142127991,56219142160759,56219142193527,56219142226295,56219142259063,56219142291831,56219142324599,56219142357367]},"available":true,"name":"Compact Sketch Pad - A4 \/ Lined \/ Pink","public_title":"A4 \/ Lined \/ Pink","options":["A4","Lined","Pink"],"price":850,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","featured_media":{"alt":null,"id":67601788207479,"position":1,"preview_image":{"aspect_ratio":0.75,"height":3470,"width":2603,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/06-sketchbook.jpg?v=1763715318"}},"requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56821954118007,"title":"A4 \/ Lined \/ Red","option1":"A4","option2":"Lined","option3":"Red","sku":null,"requires_shipping":true,"taxable":true,"featured_image":null,"available":true,"name":"Compact Sketch Pad - A4 \/ Lined \/ Red","public_title":"A4 \/ Lined \/ Red","options":["A4","Lined","Red"],"price":850,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56821954150775,"title":"A4 \/ Lined \/ Blue","option1":"A4","option2":"Lined","option3":"Blue","sku":null,"requires_shipping":true,"taxable":true,"featured_image":null,"available":true,"name":"Compact Sketch Pad - A4 \/ Lined \/ Blue","public_title":"A4 \/ Lined \/ Blue","options":["A4","Lined","Blue"],"price":850,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56219142291831,"title":"A3 \/ Blank \/ Pink","option1":"A3","option2":"Blank","option3":"Pink","sku":null,"requires_shipping":true,"taxable":true,"featured_image":{"id":82281209168247,"product_id":15252563886455,"position":1,"created_at":"2025-11-21T03:55:15-05:00","updated_at":"2025-11-21T03:55:18-05:00","alt":null,"width":2603,"height":3470,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/06-sketchbook.jpg?v=1763715318","variant_ids":[56219142095223,56219142127991,56219142160759,56219142193527,56219142226295,56219142259063,56219142291831,56219142324599,56219142357367]},"available":true,"name":"Compact Sketch Pad - A3 \/ Blank \/ Pink","public_title":"A3 \/ Blank \/ Pink","options":["A3","Blank","Pink"],"price":850,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","featured_media":{"alt":null,"id":67601788207479,"position":1,"preview_image":{"aspect_ratio":0.75,"height":3470,"width":2603,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/06-sketchbook.jpg?v=1763715318"}},"requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56821954183543,"title":"A3 \/ Blank \/ Red","option1":"A3","option2":"Blank","option3":"Red","sku":null,"requires_shipping":true,"taxable":true,"featured_image":null,"available":true,"name":"Compact Sketch Pad - A3 \/ Blank \/ Red","public_title":"A3 \/ Blank \/ Red","options":["A3","Blank","Red"],"price":850,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56821954216311,"title":"A3 \/ Blank \/ Blue","option1":"A3","option2":"Blank","option3":"Blue","sku":null,"requires_shipping":true,"taxable":true,"featured_image":null,"available":true,"name":"Compact Sketch Pad - A3 \/ Blank \/ Blue","public_title":"A3 \/ Blank \/ Blue","options":["A3","Blank","Blue"],"price":850,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56219142324599,"title":"A3 \/ Dot \/ Pink","option1":"A3","option2":"Dot","option3":"Pink","sku":null,"requires_shipping":true,"taxable":true,"featured_image":{"id":82281209168247,"product_id":15252563886455,"position":1,"created_at":"2025-11-21T03:55:15-05:00","updated_at":"2025-11-21T03:55:18-05:00","alt":null,"width":2603,"height":3470,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/06-sketchbook.jpg?v=1763715318","variant_ids":[56219142095223,56219142127991,56219142160759,56219142193527,56219142226295,56219142259063,56219142291831,56219142324599,56219142357367]},"available":true,"name":"Compact Sketch Pad - A3 \/ Dot \/ Pink","public_title":"A3 \/ Dot \/ Pink","options":["A3","Dot","Pink"],"price":850,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","featured_media":{"alt":null,"id":67601788207479,"position":1,"preview_image":{"aspect_ratio":0.75,"height":3470,"width":2603,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/06-sketchbook.jpg?v=1763715318"}},"requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56821954249079,"title":"A3 \/ Dot \/ Red","option1":"A3","option2":"Dot","option3":"Red","sku":null,"requires_shipping":true,"taxable":true,"featured_image":null,"available":true,"name":"Compact Sketch Pad - A3 \/ Dot \/ Red","public_title":"A3 \/ Dot \/ Red","options":["A3","Dot","Red"],"price":850,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56821954281847,"title":"A3 \/ Dot \/ Blue","option1":"A3","option2":"Dot","option3":"Blue","sku":null,"requires_shipping":true,"taxable":true,"featured_image":null,"available":true,"name":"Compact Sketch Pad - A3 \/ Dot \/ Blue","public_title":"A3 \/ Dot \/ Blue","options":["A3","Dot","Blue"],"price":850,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56219142357367,"title":"A3 \/ Lined \/ Pink","option1":"A3","option2":"Lined","option3":"Pink","sku":null,"requires_shipping":true,"taxable":true,"featured_image":{"id":82281209168247,"product_id":15252563886455,"position":1,"created_at":"2025-11-21T03:55:15-05:00","updated_at":"2025-11-21T03:55:18-05:00","alt":null,"width":2603,"height":3470,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/06-sketchbook.jpg?v=1763715318","variant_ids":[56219142095223,56219142127991,56219142160759,56219142193527,56219142226295,56219142259063,56219142291831,56219142324599,56219142357367]},"available":true,"name":"Compact Sketch Pad - A3 \/ Lined \/ Pink","public_title":"A3 \/ Lined \/ Pink","options":["A3","Lined","Pink"],"price":850,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","featured_media":{"alt":null,"id":67601788207479,"position":1,"preview_image":{"aspect_ratio":0.75,"height":3470,"width":2603,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/06-sketchbook.jpg?v=1763715318"}},"requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56821954314615,"title":"A3 \/ Lined \/ Red","option1":"A3","option2":"Lined","option3":"Red","sku":null,"requires_shipping":true,"taxable":true,"featured_image":null,"available":true,"name":"Compact Sketch Pad - A3 \/ Lined \/ Red","public_title":"A3 \/ Lined \/ Red","options":["A3","Lined","Red"],"price":850,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56821954347383,"title":"A3 \/ Lined \/ Blue","option1":"A3","option2":"Lined","option3":"Blue","sku":null,"requires_shipping":true,"taxable":true,"featured_image":null,"available":true,"name":"Compact Sketch Pad - A3 \/ Lined \/ Blue","public_title":"A3 \/ Lined \/ Blue","options":["A3","Lined","Blue"],"price":850,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","requires_selling_plan":false,"selling_plan_allocations":[]}]
+    </script>
+    <script type="application/json" data-product-card-featured-media="">
+      {"alt":null,"id":67601788207479,"position":1,"preview_image":{"aspect_ratio":0.75,"height":3470,"width":2603,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/06-sketchbook.jpg?v=1763715318"},"aspect_ratio":0.75,"height":3470,"media_type":"image","src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/06-sketchbook.jpg?v=1763715318","width":2603}
+    </script>
+    <span class="hidden" data-product-card-options="" data-product-title="Compact Sketch Pad" data-product-columns="4" data-product-columns-mobile="1" data-product-ratio="0.76" data-product-fit="cover" data-product-has-price-varies="false"></span><a href="/products/compact-sketch-pad" class="product-card__link-overlay focus-inset" aria-label="Compact Sketch Pad Product link"></a></product-card>
+
+                </div><div class="collection-product-card">
+                  
+
+
+<product-card class="product-card product-card--mobile-1 product-card_image-linked" data-product="compact-writing-pad" data-product-id="15256228790647" data-image-linked="true" data-card-color-swatches="true" tabindex="0" style="--card-padding-bottom: 131.7%; --slide-count: 4">
+  <div class="product-card__inner">
+    <div class="product-card__media">
+
+          <div class="swiper-container product-card-js global-variant-js-media-list slider_started swiper-initialized swiper-horizontal swiper-backface-hidden" data-loop="false">
+            <div class="swiper-wrapper" id="swiper-wrapper-9b91f25495c71ed9" aria-live="polite" style="transform: translate3d(0px, 0px, 0px);">
+              
+                
+
+                
+                  
+                    
+                    
+
+                
+
+                <div class="swiper-slide swiper-slide-active" data-media-id="67656339784055" data-variant-id="56820241039735" role="group" aria-label="1 / 4" style="width: 326px; margin-right: 2px;">
+                  <img src="//shift-sketch.myshopify.com/cdn/shop/files/06-pads.jpg?v=1763977731&amp;width=2603" alt="Compact Writing Pad" srcset="//shift-sketch.myshopify.com/cdn/shop/files/06-pads.jpg?v=1763977731&amp;width=360 360w, //shift-sketch.myshopify.com/cdn/shop/files/06-pads.jpg?v=1763977731&amp;width=535 535w, //shift-sketch.myshopify.com/cdn/shop/files/06-pads.jpg?v=1763977731&amp;width=720 720w, //shift-sketch.myshopify.com/cdn/shop/files/06-pads.jpg?v=1763977731&amp;width=940 940w, //shift-sketch.myshopify.com/cdn/shop/files/06-pads.jpg?v=1763977731&amp;width=1066 1066w, //shift-sketch.myshopify.com/cdn/shop/files/06-pads.jpg?v=1763977731&amp;width=1200 1200w, //shift-sketch.myshopify.com/cdn/shop/files/06-pads.jpg?v=1763977731&amp;width=1400 1400w, //shift-sketch.myshopify.com/cdn/shop/files/06-pads.jpg?v=1763977731&amp;width=1600 1600w, //shift-sketch.myshopify.com/cdn/shop/files/06-pads.jpg?v=1763977731&amp;width=1800 1800w, //shift-sketch.myshopify.com/cdn/shop/files/06-pads.jpg?v=1763977731&amp;width=2000 2000w, //shift-sketch.myshopify.com/cdn/shop/files/06-pads.jpg?v=1763977731&amp;width=2200 2200w, //shift-sketch.myshopify.com/cdn/shop/files/06-pads.jpg?v=1763977731&amp;width=2400 2400w, //shift-sketch.myshopify.com/cdn/shop/files/06-pads.jpg?v=1763977731&amp;width=2600 2600w" width="2603" height="3470" loading="eager" class="motion-reduce media" sizes="(min-width: 1200px) calc(1.03 * (100vw / 4)),(min-width: 990px) calc(1.03 * (100vw / 3)),(min-width: 576px) calc(1.03 * (100vw / 2)),calc(1.03 * 100vw)" style="object-fit: cover;">
+                </div>
+              
+                
+
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+
+                
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                
+
+                <div class="swiper-slide swiper-slide-next" data-media-id="67656339685751" role="group" aria-label="2 / 4" style="width: 326px; margin-right: 2px;">
+                  <img src="//shift-sketch.myshopify.com/cdn/shop/files/06-pads-hover-01.jpg?v=1763977732&amp;width=1536" alt="Compact Writing Pad" srcset="//shift-sketch.myshopify.com/cdn/shop/files/06-pads-hover-01.jpg?v=1763977732&amp;width=360 360w, //shift-sketch.myshopify.com/cdn/shop/files/06-pads-hover-01.jpg?v=1763977732&amp;width=535 535w, //shift-sketch.myshopify.com/cdn/shop/files/06-pads-hover-01.jpg?v=1763977732&amp;width=720 720w, //shift-sketch.myshopify.com/cdn/shop/files/06-pads-hover-01.jpg?v=1763977732&amp;width=940 940w, //shift-sketch.myshopify.com/cdn/shop/files/06-pads-hover-01.jpg?v=1763977732&amp;width=1066 1066w, //shift-sketch.myshopify.com/cdn/shop/files/06-pads-hover-01.jpg?v=1763977732&amp;width=1200 1200w, //shift-sketch.myshopify.com/cdn/shop/files/06-pads-hover-01.jpg?v=1763977732&amp;width=1400 1400w" width="1536" height="2048" loading="eager" class="motion-reduce media" sizes="(min-width: 1200px) calc(1.03 * (100vw / 4)),(min-width: 990px) calc(1.03 * (100vw / 3)),(min-width: 576px) calc(1.03 * (100vw / 2)),calc(1.03 * 100vw)" style="object-fit: cover;">
+                </div>
+              
+                
+
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+
+                
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                
+
+                <div class="swiper-slide" data-media-id="67656339718519" role="group" aria-label="3 / 4" style="width: 326px; margin-right: 2px;">
+                  <img src="//shift-sketch.myshopify.com/cdn/shop/files/06-pads-hover-02.jpg?v=1763977731&amp;width=1704" alt="Compact Writing Pad" srcset="//shift-sketch.myshopify.com/cdn/shop/files/06-pads-hover-02.jpg?v=1763977731&amp;width=360 360w, //shift-sketch.myshopify.com/cdn/shop/files/06-pads-hover-02.jpg?v=1763977731&amp;width=535 535w, //shift-sketch.myshopify.com/cdn/shop/files/06-pads-hover-02.jpg?v=1763977731&amp;width=720 720w, //shift-sketch.myshopify.com/cdn/shop/files/06-pads-hover-02.jpg?v=1763977731&amp;width=940 940w, //shift-sketch.myshopify.com/cdn/shop/files/06-pads-hover-02.jpg?v=1763977731&amp;width=1066 1066w, //shift-sketch.myshopify.com/cdn/shop/files/06-pads-hover-02.jpg?v=1763977731&amp;width=1200 1200w, //shift-sketch.myshopify.com/cdn/shop/files/06-pads-hover-02.jpg?v=1763977731&amp;width=1400 1400w, //shift-sketch.myshopify.com/cdn/shop/files/06-pads-hover-02.jpg?v=1763977731&amp;width=1600 1600w" width="1704" height="2272" loading="eager" class="motion-reduce media" sizes="(min-width: 1200px) calc(1.03 * (100vw / 4)),(min-width: 990px) calc(1.03 * (100vw / 3)),(min-width: 576px) calc(1.03 * (100vw / 2)),calc(1.03 * 100vw)" style="object-fit: cover;">
+                </div>
+              
+                
+
+                
+                  
+                
+                  
+                    
+                    
+
+                
+
+                <div class="swiper-slide" data-media-id="67656339751287" data-variant-id="56820241072503" role="group" aria-label="4 / 4" style="width: 326px; margin-right: 2px;">
+                  <img src="//shift-sketch.myshopify.com/cdn/shop/files/06-pads-hover-03.jpg?v=1763977732&amp;width=1536" alt="Compact Writing Pad" srcset="//shift-sketch.myshopify.com/cdn/shop/files/06-pads-hover-03.jpg?v=1763977732&amp;width=360 360w, //shift-sketch.myshopify.com/cdn/shop/files/06-pads-hover-03.jpg?v=1763977732&amp;width=535 535w, //shift-sketch.myshopify.com/cdn/shop/files/06-pads-hover-03.jpg?v=1763977732&amp;width=720 720w, //shift-sketch.myshopify.com/cdn/shop/files/06-pads-hover-03.jpg?v=1763977732&amp;width=940 940w, //shift-sketch.myshopify.com/cdn/shop/files/06-pads-hover-03.jpg?v=1763977732&amp;width=1066 1066w, //shift-sketch.myshopify.com/cdn/shop/files/06-pads-hover-03.jpg?v=1763977732&amp;width=1200 1200w, //shift-sketch.myshopify.com/cdn/shop/files/06-pads-hover-03.jpg?v=1763977732&amp;width=1400 1400w" width="1536" height="2048" loading="eager" class="motion-reduce media" sizes="(min-width: 1200px) calc(1.03 * (100vw / 4)),(min-width: 990px) calc(1.03 * (100vw / 3)),(min-width: 576px) calc(1.03 * (100vw / 2)),calc(1.03 * 100vw)" style="object-fit: cover;">
+                </div>
+              
+            </div>
+            <div class="product-button-group">
+              <div class="product-slider-button-prev">
+                <div class="swiper-button-prev swiper-button-disabled" tabindex="-1" role="button" aria-label="Previous slide" aria-controls="swiper-wrapper-9b91f25495c71ed9" aria-disabled="true"><svg class="icon icon-arrow-slider-left" width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M14 2L6 10L14 18" stroke="currentColor"></path>
+</svg>
+</div>
+              </div>
+
+              <div class="product-slider-button-next">
+                <div class="swiper-button-next" tabindex="0" role="button" aria-label="Next slide" aria-controls="swiper-wrapper-9b91f25495c71ed9" aria-disabled="false"><svg class="icon icon-arrow-slider-right" width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M6 2L14 10L6 18" stroke="currentColor"></path>
+</svg>
+</div>
+              </div>
+            </div>
+            <div class="swiper-pagination product-card-pagination swiper-pagination-default swiper-pagination-clickable swiper-pagination-bullets swiper-pagination-horizontal"><span class="swiper-pagination-bullet swiper-pagination-bullet-active" tabindex="0" role="button" aria-label="Go to slide 1" aria-current="true"></span><span class="swiper-pagination-bullet" tabindex="0" role="button" aria-label="Go to slide 2"></span><span class="swiper-pagination-bullet" tabindex="0" role="button" aria-label="Go to slide 3"></span><span class="swiper-pagination-bullet" tabindex="0" role="button" aria-label="Go to slide 4"></span></div>
+          <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
+        
+</div><div class="product-card__top">
+        
+<div class="product-card__badges body-normal"></div>
+      </div><div class="product-card__quickview product-card__quickview--mobile-true no-js-hidden">
+        <modal-opener data-modal="#QuickView-15256228790647">
+          <button class="product-card__button button button--primary focus-inset" aria-haspopup="dialog" data-product-url="/products/compact-writing-pad" aria-label="Quick view">
+            <div class="button__content">
+              <span class="product-card__quickview-text button__label" data-label="Quick view">Quick view</span>
+              <span class="product-card__mobile-icon button__icon">
+                <svg width="22" height="22" viewBox="0 0 22 22" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M2.66745 12.0748C2.35434 11.3936 2.35434 10.6077 2.66745 9.92654C4.11679 6.77337 7.30311 4.58398 11.0008 4.58398C14.6985 4.58398 17.8848 6.77338 19.3341 9.92654C19.6472 10.6077 19.6472 11.3936 19.3341 12.0748C17.8848 15.2279 14.6985 17.4173 11.0008 17.4173C7.30311 17.4173 4.11679 15.2279 2.66745 12.0748Z" stroke="currentColor" stroke-width="1.5"></path>
+  <path d="M13.7508 11.0007C13.7508 12.5194 12.5196 13.7507 11.0008 13.7507C9.48201 13.7507 8.25079 12.5194 8.25079 11.0007C8.25079 9.48187 9.48201 8.25065 11.0008 8.25065C12.5196 8.25065 13.7508 9.48187 13.7508 11.0007Z" stroke="currentColor" stroke-width="1.5"></path>
+</svg>
+
+              </span>
+            </div>
+            <div class="loading-overlay__spinner hidden">
+              <svg aria-hidden="true" focusable="false" role="presentation" class="spinner" viewBox="0 0 66 66" xmlns="http://www.w3.org/2000/svg">
+  <circle class="path" fill="none" stroke-width="5" cx="33" cy="33" r="30"></circle>
+</svg>
+
+            </div>
+          </button>
+        </modal-opener>
+
+        
+
+
+      </div></div>
+
+  
+  <div class="product-card__information">
+    <div class="product-card__information-top"><h2 class="product-card__title">
+        <a class="focus-inset" href="/products/compact-writing-pad" aria-label="Compact Writing Pad">Compact Writing Pad</a>
+      </h2>
+
+      <div class="product-card__price-group">
+        
+<div class="price">
+  <dl class="price-text"><div class="price__regular">
+      <dt class="visually-hidden">Regular price</dt>
+      <dd>
+        <span class="price-item price-item--regular">$5.00</span>
+      </dd>
+    </div>
+    <div class="price__sale">
+      <dt class="visually-hidden">Sale price</dt>
+      <dd>
+        <span class="price-item price-item--sale">$5.00</span>
+      </dd>
+      <dt class="visually-hidden">Regular price</dt>
+      <dd class="price__compare">
+        <s class="price-item price-item--regular"></s>
+      </dd>
+    </div>
+  </dl>
+
+  <dl class="unit-price hidden">
+    <dt class="visually-hidden">Unit price</dt>
+    <dd></dd>
+  </dl>
+</div>
+
+      </div>
+      
+
+          <div class="product-card__description body-small">210 x 105 mm</div><div class="product-card__error body-xs" role="alert" hidden=""></div>
+    </div>
+
+    
+<div class="product-card__information-bottom" tabindex="0"><div class="product-card__color-swatches">
+                
+                  <div class="body-small js-option-selected-value" data-option-position="1">
+                    Pink</div>
+                
+                <div class="product-card__option-group js-card-option-group" data-option-position="1">
+                  
+
+
+  
+
+  
+  
+  
+
+<input type="radio" id="template--27266934243703__product-grid-1-0-15256228790647-3" name="Color-template--27266934243703__product-grid-15256228790647-3" value="Pink" data-variant-id="56820241039735" form="product-form-template--27266934243703__product-grid" checked="" tabindex="-1" aria-label="Pink" data-option-value-id="12611561488759" style="">
+    
+<label for="template--27266934243703__product-grid-1-0-15256228790647-3" class="color-swatch" style="--swatch-color: rgb(255 192 203);" title="Pink" tabindex="0" onkeydown="if(event.key==='Enter'||event.key===' '){event.preventDefault();document.getElementById(this.getAttribute('for')).click();}" data-unavailable-color-label="N/A">
+        <span class="visually-hidden">Pink</span>
+      </label>
+
+  
+
+  
+  
+  
+
+<input type="radio" id="template--27266934243703__product-grid-1-1-15256228790647-3" name="Color-template--27266934243703__product-grid-15256228790647-3" value="Gray" data-variant-id="56820241072503" form="product-form-template--27266934243703__product-grid" tabindex="-1" aria-label="Gray" data-option-value-id="12611561521527" style="">
+    
+<label for="template--27266934243703__product-grid-1-1-15256228790647-3" class="color-swatch" style="--swatch-color: rgb(128 128 128);" title="Gray" tabindex="0" onkeydown="if(event.key==='Enter'||event.key===' '){event.preventDefault();document.getElementById(this.getAttribute('for')).click();}" data-unavailable-color-label="N/A">
+        <span class="visually-hidden">Gray</span>
+      </label>
+
+  
+
+  
+  
+  
+
+<input type="radio" id="template--27266934243703__product-grid-1-2-15256228790647-3" name="Color-template--27266934243703__product-grid-15256228790647-3" value="Red" data-variant-id="56820241105271" form="product-form-template--27266934243703__product-grid" tabindex="-1" aria-label="Red" data-option-value-id="12611561554295" style="">
+    
+<label for="template--27266934243703__product-grid-1-2-15256228790647-3" class="color-swatch" style="--swatch-color: rgb(246 31 31);" title="Red" tabindex="0" onkeydown="if(event.key==='Enter'||event.key===' '){event.preventDefault();document.getElementById(this.getAttribute('for')).click();}" data-unavailable-color-label="N/A">
+        <span class="visually-hidden">Red</span>
+      </label>
+
+  
+
+  
+  
+  
+
+<input type="radio" id="template--27266934243703__product-grid-1-3-15256228790647-3" name="Color-template--27266934243703__product-grid-15256228790647-3" value="Green" data-variant-id="56820241138039" form="product-form-template--27266934243703__product-grid" tabindex="-1" aria-label="Green" data-option-value-id="12611561587063" style="">
+    
+<label for="template--27266934243703__product-grid-1-3-15256228790647-3" class="color-swatch" style="--swatch-color: rgb(5 170 61);" title="Green" tabindex="0" onkeydown="if(event.key==='Enter'||event.key===' '){event.preventDefault();document.getElementById(this.getAttribute('for')).click();}" data-unavailable-color-label="N/A">
+        <span class="visually-hidden">Green</span>
+      </label>
+
+  
+
+  
+  
+  
+
+<input type="radio" id="template--27266934243703__product-grid-1-4-15256228790647-3" name="Color-template--27266934243703__product-grid-15256228790647-3" value="Blue" data-variant-id="56820241170807" form="product-form-template--27266934243703__product-grid" tabindex="-1" aria-label="Blue" data-option-value-id="12611561619831" style="">
+    
+<label for="template--27266934243703__product-grid-1-4-15256228790647-3" class="color-swatch" style="--swatch-color: rgb(0 91 211);" title="Blue" tabindex="0" onkeydown="if(event.key==='Enter'||event.key===' '){event.preventDefault();document.getElementById(this.getAttribute('for')).click();}" data-unavailable-color-label="N/A">
+        <span class="visually-hidden">Blue</span>
+      </label>
+                </div>
+
+                
+              </div></div></div><script type="application/json" data-product-card-variants="">
+      [{"id":56820241039735,"title":"Pink","option1":"Pink","option2":null,"option3":null,"sku":null,"requires_shipping":true,"taxable":true,"featured_image":{"id":82566790316407,"product_id":15256228790647,"position":1,"created_at":"2025-11-24T04:48:47-05:00","updated_at":"2025-11-24T04:48:51-05:00","alt":null,"width":2603,"height":3470,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/06-pads.jpg?v=1763977731","variant_ids":[56820241039735]},"available":true,"name":"Compact Writing Pad - Pink","public_title":"Pink","options":["Pink"],"price":500,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","featured_media":{"alt":null,"id":67656339784055,"position":1,"preview_image":{"aspect_ratio":0.75,"height":3470,"width":2603,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/06-pads.jpg?v=1763977731"}},"requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56820241072503,"title":"Gray","option1":"Gray","option2":null,"option3":null,"sku":null,"requires_shipping":true,"taxable":true,"featured_image":{"id":82566790283639,"product_id":15256228790647,"position":4,"created_at":"2025-11-24T04:48:47-05:00","updated_at":"2025-11-24T04:48:52-05:00","alt":null,"width":1536,"height":2048,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/06-pads-hover-03.jpg?v=1763977732","variant_ids":[56820241072503,56820241105271,56820241138039,56820241170807]},"available":true,"name":"Compact Writing Pad - Gray","public_title":"Gray","options":["Gray"],"price":500,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","featured_media":{"alt":null,"id":67656339751287,"position":4,"preview_image":{"aspect_ratio":0.75,"height":2048,"width":1536,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/06-pads-hover-03.jpg?v=1763977732"}},"requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56820241105271,"title":"Red","option1":"Red","option2":null,"option3":null,"sku":null,"requires_shipping":true,"taxable":true,"featured_image":{"id":82566790283639,"product_id":15256228790647,"position":4,"created_at":"2025-11-24T04:48:47-05:00","updated_at":"2025-11-24T04:48:52-05:00","alt":null,"width":1536,"height":2048,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/06-pads-hover-03.jpg?v=1763977732","variant_ids":[56820241072503,56820241105271,56820241138039,56820241170807]},"available":true,"name":"Compact Writing Pad - Red","public_title":"Red","options":["Red"],"price":500,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","featured_media":{"alt":null,"id":67656339751287,"position":4,"preview_image":{"aspect_ratio":0.75,"height":2048,"width":1536,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/06-pads-hover-03.jpg?v=1763977732"}},"requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56820241138039,"title":"Green","option1":"Green","option2":null,"option3":null,"sku":null,"requires_shipping":true,"taxable":true,"featured_image":{"id":82566790283639,"product_id":15256228790647,"position":4,"created_at":"2025-11-24T04:48:47-05:00","updated_at":"2025-11-24T04:48:52-05:00","alt":null,"width":1536,"height":2048,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/06-pads-hover-03.jpg?v=1763977732","variant_ids":[56820241072503,56820241105271,56820241138039,56820241170807]},"available":true,"name":"Compact Writing Pad - Green","public_title":"Green","options":["Green"],"price":500,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","featured_media":{"alt":null,"id":67656339751287,"position":4,"preview_image":{"aspect_ratio":0.75,"height":2048,"width":1536,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/06-pads-hover-03.jpg?v=1763977732"}},"requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56820241170807,"title":"Blue","option1":"Blue","option2":null,"option3":null,"sku":null,"requires_shipping":true,"taxable":true,"featured_image":{"id":82566790283639,"product_id":15256228790647,"position":4,"created_at":"2025-11-24T04:48:47-05:00","updated_at":"2025-11-24T04:48:52-05:00","alt":null,"width":1536,"height":2048,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/06-pads-hover-03.jpg?v=1763977732","variant_ids":[56820241072503,56820241105271,56820241138039,56820241170807]},"available":true,"name":"Compact Writing Pad - Blue","public_title":"Blue","options":["Blue"],"price":500,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","featured_media":{"alt":null,"id":67656339751287,"position":4,"preview_image":{"aspect_ratio":0.75,"height":2048,"width":1536,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/06-pads-hover-03.jpg?v=1763977732"}},"requires_selling_plan":false,"selling_plan_allocations":[]}]
+    </script>
+    <script type="application/json" data-product-card-featured-media="">
+      {"alt":null,"id":67656339784055,"position":1,"preview_image":{"aspect_ratio":0.75,"height":3470,"width":2603,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/06-pads.jpg?v=1763977731"},"aspect_ratio":0.75,"height":3470,"media_type":"image","src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/06-pads.jpg?v=1763977731","width":2603}
+    </script>
+    <span class="hidden" data-product-card-options="" data-product-title="Compact Writing Pad" data-product-columns="4" data-product-columns-mobile="1" data-product-ratio="0.76" data-product-fit="cover" data-product-has-price-varies="false"></span><a href="/products/compact-writing-pad" class="product-card__link-overlay focus-inset" aria-label="Compact Writing Pad Product link"></a></product-card>
+
+                </div><div class="collection-product-card">
+                  
+
+
+<product-card class="product-card product-card--mobile-1 product-card_image-linked" data-product="craft-desk-clip" data-product-id="15256451055991" data-image-linked="true" data-card-color-swatches="true" tabindex="0" style="--card-padding-bottom: 131.7%; --slide-count: 6">
+  <div class="product-card__inner">
+    <div class="product-card__media">
+
+          <div class="swiper-container product-card-js global-variant-js-media-list slider_started swiper-initialized swiper-horizontal swiper-backface-hidden" data-loop="false">
+            <div class="swiper-wrapper" id="swiper-wrapper-2fe242ed751ff7101" aria-live="polite" style="transform: translate3d(0px, 0px, 0px);">
+              
+                
+
+                
+                  
+                    
+                    
+
+                
+
+                <div class="swiper-slide swiper-slide-active" data-media-id="67657668657527" data-variant-id="56233978986871" role="group" aria-label="1 / 6" style="width: 326px; margin-right: 2px;">
+                  <img src="//shift-sketch.myshopify.com/cdn/shop/files/05-accessories-color-01.jpg?v=1763982259&amp;width=2603" alt="Craft Desk Clip" srcset="//shift-sketch.myshopify.com/cdn/shop/files/05-accessories-color-01.jpg?v=1763982259&amp;width=360 360w, //shift-sketch.myshopify.com/cdn/shop/files/05-accessories-color-01.jpg?v=1763982259&amp;width=535 535w, //shift-sketch.myshopify.com/cdn/shop/files/05-accessories-color-01.jpg?v=1763982259&amp;width=720 720w, //shift-sketch.myshopify.com/cdn/shop/files/05-accessories-color-01.jpg?v=1763982259&amp;width=940 940w, //shift-sketch.myshopify.com/cdn/shop/files/05-accessories-color-01.jpg?v=1763982259&amp;width=1066 1066w, //shift-sketch.myshopify.com/cdn/shop/files/05-accessories-color-01.jpg?v=1763982259&amp;width=1200 1200w, //shift-sketch.myshopify.com/cdn/shop/files/05-accessories-color-01.jpg?v=1763982259&amp;width=1400 1400w, //shift-sketch.myshopify.com/cdn/shop/files/05-accessories-color-01.jpg?v=1763982259&amp;width=1600 1600w, //shift-sketch.myshopify.com/cdn/shop/files/05-accessories-color-01.jpg?v=1763982259&amp;width=1800 1800w, //shift-sketch.myshopify.com/cdn/shop/files/05-accessories-color-01.jpg?v=1763982259&amp;width=2000 2000w, //shift-sketch.myshopify.com/cdn/shop/files/05-accessories-color-01.jpg?v=1763982259&amp;width=2200 2200w, //shift-sketch.myshopify.com/cdn/shop/files/05-accessories-color-01.jpg?v=1763982259&amp;width=2400 2400w, //shift-sketch.myshopify.com/cdn/shop/files/05-accessories-color-01.jpg?v=1763982259&amp;width=2600 2600w" width="2603" height="3470" loading="lazy" class="motion-reduce media" sizes="(min-width: 1200px) calc(1.03 * (100vw / 4)),(min-width: 990px) calc(1.03 * (100vw / 3)),(min-width: 576px) calc(1.03 * (100vw / 2)),calc(1.03 * 100vw)" style="object-fit: cover;">
+                </div>
+              
+                
+
+                
+                  
+                
+                  
+                    
+                    
+
+                
+
+                <div class="swiper-slide swiper-slide-next" data-media-id="67657668690295" data-variant-id="56233979019639" role="group" aria-label="2 / 6" style="width: 326px; margin-right: 2px;">
+                  <img src="//shift-sketch.myshopify.com/cdn/shop/files/05-accessories-color-02.jpg?v=1763982260&amp;width=2603" alt="Craft Desk Clip" srcset="//shift-sketch.myshopify.com/cdn/shop/files/05-accessories-color-02.jpg?v=1763982260&amp;width=360 360w, //shift-sketch.myshopify.com/cdn/shop/files/05-accessories-color-02.jpg?v=1763982260&amp;width=535 535w, //shift-sketch.myshopify.com/cdn/shop/files/05-accessories-color-02.jpg?v=1763982260&amp;width=720 720w, //shift-sketch.myshopify.com/cdn/shop/files/05-accessories-color-02.jpg?v=1763982260&amp;width=940 940w, //shift-sketch.myshopify.com/cdn/shop/files/05-accessories-color-02.jpg?v=1763982260&amp;width=1066 1066w, //shift-sketch.myshopify.com/cdn/shop/files/05-accessories-color-02.jpg?v=1763982260&amp;width=1200 1200w, //shift-sketch.myshopify.com/cdn/shop/files/05-accessories-color-02.jpg?v=1763982260&amp;width=1400 1400w, //shift-sketch.myshopify.com/cdn/shop/files/05-accessories-color-02.jpg?v=1763982260&amp;width=1600 1600w, //shift-sketch.myshopify.com/cdn/shop/files/05-accessories-color-02.jpg?v=1763982260&amp;width=1800 1800w, //shift-sketch.myshopify.com/cdn/shop/files/05-accessories-color-02.jpg?v=1763982260&amp;width=2000 2000w, //shift-sketch.myshopify.com/cdn/shop/files/05-accessories-color-02.jpg?v=1763982260&amp;width=2200 2200w, //shift-sketch.myshopify.com/cdn/shop/files/05-accessories-color-02.jpg?v=1763982260&amp;width=2400 2400w, //shift-sketch.myshopify.com/cdn/shop/files/05-accessories-color-02.jpg?v=1763982260&amp;width=2600 2600w" width="2603" height="3470" loading="lazy" class="motion-reduce media" sizes="(min-width: 1200px) calc(1.03 * (100vw / 4)),(min-width: 990px) calc(1.03 * (100vw / 3)),(min-width: 576px) calc(1.03 * (100vw / 2)),calc(1.03 * 100vw)" style="object-fit: cover;">
+                </div>
+              
+                
+
+                
+                  
+                
+                  
+                
+                  
+                    
+                    
+
+                
+
+                <div class="swiper-slide" data-media-id="67657668723063" data-variant-id="56233979052407" role="group" aria-label="3 / 6" style="width: 326px; margin-right: 2px;">
+                  <img src="//shift-sketch.myshopify.com/cdn/shop/files/05-accessories-color-03.jpg?v=1763982259&amp;width=2603" alt="Craft Desk Clip" srcset="//shift-sketch.myshopify.com/cdn/shop/files/05-accessories-color-03.jpg?v=1763982259&amp;width=360 360w, //shift-sketch.myshopify.com/cdn/shop/files/05-accessories-color-03.jpg?v=1763982259&amp;width=535 535w, //shift-sketch.myshopify.com/cdn/shop/files/05-accessories-color-03.jpg?v=1763982259&amp;width=720 720w, //shift-sketch.myshopify.com/cdn/shop/files/05-accessories-color-03.jpg?v=1763982259&amp;width=940 940w, //shift-sketch.myshopify.com/cdn/shop/files/05-accessories-color-03.jpg?v=1763982259&amp;width=1066 1066w, //shift-sketch.myshopify.com/cdn/shop/files/05-accessories-color-03.jpg?v=1763982259&amp;width=1200 1200w, //shift-sketch.myshopify.com/cdn/shop/files/05-accessories-color-03.jpg?v=1763982259&amp;width=1400 1400w, //shift-sketch.myshopify.com/cdn/shop/files/05-accessories-color-03.jpg?v=1763982259&amp;width=1600 1600w, //shift-sketch.myshopify.com/cdn/shop/files/05-accessories-color-03.jpg?v=1763982259&amp;width=1800 1800w, //shift-sketch.myshopify.com/cdn/shop/files/05-accessories-color-03.jpg?v=1763982259&amp;width=2000 2000w, //shift-sketch.myshopify.com/cdn/shop/files/05-accessories-color-03.jpg?v=1763982259&amp;width=2200 2200w, //shift-sketch.myshopify.com/cdn/shop/files/05-accessories-color-03.jpg?v=1763982259&amp;width=2400 2400w, //shift-sketch.myshopify.com/cdn/shop/files/05-accessories-color-03.jpg?v=1763982259&amp;width=2600 2600w" width="2603" height="3470" loading="lazy" class="motion-reduce media" sizes="(min-width: 1200px) calc(1.03 * (100vw / 4)),(min-width: 990px) calc(1.03 * (100vw / 3)),(min-width: 576px) calc(1.03 * (100vw / 2)),calc(1.03 * 100vw)" style="object-fit: cover;">
+                </div>
+              
+                
+
+                
+                  
+                
+                  
+                
+                  
+                
+
+                
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                
+
+                <div class="swiper-slide" data-media-id="67657668755831" role="group" aria-label="4 / 6" style="width: 326px; margin-right: 2px;">
+                  <img src="//shift-sketch.myshopify.com/cdn/shop/files/05-accessories-hover-01.jpg?v=1763982258&amp;width=880" alt="Craft Desk Clip" srcset="//shift-sketch.myshopify.com/cdn/shop/files/05-accessories-hover-01.jpg?v=1763982258&amp;width=360 360w, //shift-sketch.myshopify.com/cdn/shop/files/05-accessories-hover-01.jpg?v=1763982258&amp;width=535 535w, //shift-sketch.myshopify.com/cdn/shop/files/05-accessories-hover-01.jpg?v=1763982258&amp;width=720 720w" width="880" height="1168" loading="lazy" class="motion-reduce media" sizes="(min-width: 1200px) calc(1.03 * (100vw / 4)),(min-width: 990px) calc(1.03 * (100vw / 3)),(min-width: 576px) calc(1.03 * (100vw / 2)),calc(1.03 * 100vw)" style="object-fit: cover;">
+                </div>
+              
+                
+
+                
+                  
+                
+                  
+                
+                  
+                
+
+                
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                
+
+                <div class="swiper-slide" data-media-id="67657668788599" role="group" aria-label="5 / 6" style="width: 326px; margin-right: 2px;">
+                  <img src="//shift-sketch.myshopify.com/cdn/shop/files/05-accessories-hover-02.jpg?v=1763982260&amp;width=1536" alt="Craft Desk Clip" srcset="//shift-sketch.myshopify.com/cdn/shop/files/05-accessories-hover-02.jpg?v=1763982260&amp;width=360 360w, //shift-sketch.myshopify.com/cdn/shop/files/05-accessories-hover-02.jpg?v=1763982260&amp;width=535 535w, //shift-sketch.myshopify.com/cdn/shop/files/05-accessories-hover-02.jpg?v=1763982260&amp;width=720 720w, //shift-sketch.myshopify.com/cdn/shop/files/05-accessories-hover-02.jpg?v=1763982260&amp;width=940 940w, //shift-sketch.myshopify.com/cdn/shop/files/05-accessories-hover-02.jpg?v=1763982260&amp;width=1066 1066w, //shift-sketch.myshopify.com/cdn/shop/files/05-accessories-hover-02.jpg?v=1763982260&amp;width=1200 1200w, //shift-sketch.myshopify.com/cdn/shop/files/05-accessories-hover-02.jpg?v=1763982260&amp;width=1400 1400w" width="1536" height="2048" loading="lazy" class="motion-reduce media" sizes="(min-width: 1200px) calc(1.03 * (100vw / 4)),(min-width: 990px) calc(1.03 * (100vw / 3)),(min-width: 576px) calc(1.03 * (100vw / 2)),calc(1.03 * 100vw)" style="object-fit: cover;">
+                </div>
+              
+                
+
+                
+                  
+                
+                  
+                
+                  
+                
+
+                
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                
+
+                <div class="swiper-slide" data-media-id="67657668821367" role="group" aria-label="6 / 6" style="width: 326px; margin-right: 2px;">
+                  <img src="//shift-sketch.myshopify.com/cdn/shop/files/05-accessories-hover-03.jpg?v=1763982259&amp;width=1536" alt="Craft Desk Clip" srcset="//shift-sketch.myshopify.com/cdn/shop/files/05-accessories-hover-03.jpg?v=1763982259&amp;width=360 360w, //shift-sketch.myshopify.com/cdn/shop/files/05-accessories-hover-03.jpg?v=1763982259&amp;width=535 535w, //shift-sketch.myshopify.com/cdn/shop/files/05-accessories-hover-03.jpg?v=1763982259&amp;width=720 720w, //shift-sketch.myshopify.com/cdn/shop/files/05-accessories-hover-03.jpg?v=1763982259&amp;width=940 940w, //shift-sketch.myshopify.com/cdn/shop/files/05-accessories-hover-03.jpg?v=1763982259&amp;width=1066 1066w, //shift-sketch.myshopify.com/cdn/shop/files/05-accessories-hover-03.jpg?v=1763982259&amp;width=1200 1200w, //shift-sketch.myshopify.com/cdn/shop/files/05-accessories-hover-03.jpg?v=1763982259&amp;width=1400 1400w" width="1536" height="2048" loading="lazy" class="motion-reduce media" sizes="(min-width: 1200px) calc(1.03 * (100vw / 4)),(min-width: 990px) calc(1.03 * (100vw / 3)),(min-width: 576px) calc(1.03 * (100vw / 2)),calc(1.03 * 100vw)" style="object-fit: cover;">
+                </div>
+              
+            </div>
+            <div class="product-button-group">
+              <div class="product-slider-button-prev">
+                <div class="swiper-button-prev swiper-button-disabled" tabindex="-1" role="button" aria-label="Previous slide" aria-controls="swiper-wrapper-2fe242ed751ff7101" aria-disabled="true"><svg class="icon icon-arrow-slider-left" width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M14 2L6 10L14 18" stroke="currentColor"></path>
+</svg>
+</div>
+              </div>
+
+              <div class="product-slider-button-next">
+                <div class="swiper-button-next" tabindex="0" role="button" aria-label="Next slide" aria-controls="swiper-wrapper-2fe242ed751ff7101" aria-disabled="false"><svg class="icon icon-arrow-slider-right" width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M6 2L14 10L6 18" stroke="currentColor"></path>
+</svg>
+</div>
+              </div>
+            </div>
+            <div class="swiper-pagination product-card-pagination swiper-pagination-default swiper-pagination-clickable swiper-pagination-bullets swiper-pagination-horizontal"><span class="swiper-pagination-bullet swiper-pagination-bullet-active" tabindex="0" role="button" aria-label="Go to slide 1" aria-current="true"></span><span class="swiper-pagination-bullet" tabindex="0" role="button" aria-label="Go to slide 2"></span><span class="swiper-pagination-bullet" tabindex="0" role="button" aria-label="Go to slide 3"></span><span class="swiper-pagination-bullet" tabindex="0" role="button" aria-label="Go to slide 4"></span><span class="swiper-pagination-bullet" tabindex="0" role="button" aria-label="Go to slide 5"></span><span class="swiper-pagination-bullet" tabindex="0" role="button" aria-label="Go to slide 6"></span></div>
+          <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
+        
+</div><div class="product-card__top">
+        
+<div class="product-card__badges body-normal"></div>
+      </div><div class="product-card__quickview product-card__quickview--mobile-true no-js-hidden">
+        <modal-opener data-modal="#QuickView-15256451055991">
+          <button class="product-card__button button button--primary focus-inset" aria-haspopup="dialog" data-product-url="/products/craft-desk-clip" aria-label="Quick view">
+            <div class="button__content">
+              <span class="product-card__quickview-text button__label" data-label="Quick view">Quick view</span>
+              <span class="product-card__mobile-icon button__icon">
+                <svg width="22" height="22" viewBox="0 0 22 22" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M2.66745 12.0748C2.35434 11.3936 2.35434 10.6077 2.66745 9.92654C4.11679 6.77337 7.30311 4.58398 11.0008 4.58398C14.6985 4.58398 17.8848 6.77338 19.3341 9.92654C19.6472 10.6077 19.6472 11.3936 19.3341 12.0748C17.8848 15.2279 14.6985 17.4173 11.0008 17.4173C7.30311 17.4173 4.11679 15.2279 2.66745 12.0748Z" stroke="currentColor" stroke-width="1.5"></path>
+  <path d="M13.7508 11.0007C13.7508 12.5194 12.5196 13.7507 11.0008 13.7507C9.48201 13.7507 8.25079 12.5194 8.25079 11.0007C8.25079 9.48187 9.48201 8.25065 11.0008 8.25065C12.5196 8.25065 13.7508 9.48187 13.7508 11.0007Z" stroke="currentColor" stroke-width="1.5"></path>
+</svg>
+
+              </span>
+            </div>
+            <div class="loading-overlay__spinner hidden">
+              <svg aria-hidden="true" focusable="false" role="presentation" class="spinner" viewBox="0 0 66 66" xmlns="http://www.w3.org/2000/svg">
+  <circle class="path" fill="none" stroke-width="5" cx="33" cy="33" r="30"></circle>
+</svg>
+
+            </div>
+          </button>
+        </modal-opener>
+
+        
+
+
+      </div></div>
+
+  
+  <div class="product-card__information">
+    <div class="product-card__information-top"><h2 class="product-card__title">
+        <a class="focus-inset" href="/products/craft-desk-clip" aria-label="Craft Desk Clip">Craft Desk Clip</a>
+      </h2>
+
+      <div class="product-card__price-group">
+        
+<div class="price">
+  <dl class="price-text"><div class="price__regular">
+      <dt class="visually-hidden">Regular price</dt>
+      <dd>
+        <span class="price-item price-item--regular">$5.50</span>
+      </dd>
+    </div>
+    <div class="price__sale">
+      <dt class="visually-hidden">Sale price</dt>
+      <dd>
+        <span class="price-item price-item--sale">$5.50</span>
+      </dd>
+      <dt class="visually-hidden">Regular price</dt>
+      <dd class="price__compare">
+        <s class="price-item price-item--regular"></s>
+      </dd>
+    </div>
+  </dl>
+
+  <dl class="unit-price hidden">
+    <dt class="visually-hidden">Unit price</dt>
+    <dd></dd>
+  </dl>
+</div>
+
+      </div>
+      
+
+          <div class="product-card__description body-small">A reliable, everyday-use product designed to support planning, note-taking, and creative work. It features a clean layout and sturdy build,...</div><div class="product-card__error body-xs" role="alert" hidden=""></div>
+    </div>
+
+    
+<div class="product-card__information-bottom" tabindex="0"><div class="product-card__color-swatches">
+                
+                  <div class="body-small js-option-selected-value" data-option-position="1">
+                    Blue</div>
+                
+                <div class="product-card__option-group js-card-option-group" data-option-position="1">
+                  
+
+
+  
+
+  
+  
+  
+
+<input type="radio" id="template--27266934243703__product-grid-1-0-15256451055991-4" name="Color-template--27266934243703__product-grid-15256451055991-4" value="Blue" data-variant-id="56233978986871" form="product-form-template--27266934243703__product-grid" checked="" tabindex="-1" aria-label="Blue" data-option-value-id="10833288561015" style="">
+    
+<label for="template--27266934243703__product-grid-1-0-15256451055991-4" class="color-swatch" style="--swatch-color: rgb(0 91 211);" title="Blue" tabindex="0" onkeydown="if(event.key==='Enter'||event.key===' '){event.preventDefault();document.getElementById(this.getAttribute('for')).click();}" data-unavailable-color-label="N/A">
+        <span class="visually-hidden">Blue</span>
+      </label>
+
+  
+
+  
+  
+  
+
+<input type="radio" id="template--27266934243703__product-grid-1-1-15256451055991-4" name="Color-template--27266934243703__product-grid-15256451055991-4" value="Green" data-variant-id="56233979019639" form="product-form-template--27266934243703__product-grid" tabindex="-1" aria-label="Green" data-option-value-id="10833288593783" style="">
+    
+<label for="template--27266934243703__product-grid-1-1-15256451055991-4" class="color-swatch" style="--swatch-color: rgb(5 170 61);" title="Green" tabindex="0" onkeydown="if(event.key==='Enter'||event.key===' '){event.preventDefault();document.getElementById(this.getAttribute('for')).click();}" data-unavailable-color-label="N/A">
+        <span class="visually-hidden">Green</span>
+      </label>
+
+  
+
+  
+  
+  
+
+<input type="radio" id="template--27266934243703__product-grid-1-2-15256451055991-4" name="Color-template--27266934243703__product-grid-15256451055991-4" value="Red" data-variant-id="56233979052407" form="product-form-template--27266934243703__product-grid" tabindex="-1" aria-label="Red" data-option-value-id="10833288626551" style="">
+    
+<label for="template--27266934243703__product-grid-1-2-15256451055991-4" class="color-swatch" style="--swatch-color: rgb(246 31 31);" title="Red" tabindex="0" onkeydown="if(event.key==='Enter'||event.key===' '){event.preventDefault();document.getElementById(this.getAttribute('for')).click();}" data-unavailable-color-label="N/A">
+        <span class="visually-hidden">Red</span>
+      </label>
+                </div>
+
+                
+              </div></div></div><script type="application/json" data-product-card-variants="">
+      [{"id":56233978986871,"title":"Blue","option1":"Blue","option2":null,"option3":null,"sku":null,"requires_shipping":true,"taxable":true,"featured_image":{"id":82568165425527,"product_id":15256451055991,"position":1,"created_at":"2025-11-24T06:04:15-05:00","updated_at":"2025-11-24T06:04:19-05:00","alt":null,"width":2603,"height":3470,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/05-accessories-color-01.jpg?v=1763982259","variant_ids":[56233978986871]},"available":true,"name":"Craft Desk Clip - Blue","public_title":"Blue","options":["Blue"],"price":550,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","featured_media":{"alt":null,"id":67657668657527,"position":1,"preview_image":{"aspect_ratio":0.75,"height":3470,"width":2603,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/05-accessories-color-01.jpg?v=1763982259"}},"requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56233979019639,"title":"Green","option1":"Green","option2":null,"option3":null,"sku":null,"requires_shipping":true,"taxable":true,"featured_image":{"id":82568165458295,"product_id":15256451055991,"position":2,"created_at":"2025-11-24T06:04:15-05:00","updated_at":"2025-11-24T06:04:20-05:00","alt":null,"width":2603,"height":3470,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/05-accessories-color-02.jpg?v=1763982260","variant_ids":[56233979019639]},"available":true,"name":"Craft Desk Clip - Green","public_title":"Green","options":["Green"],"price":550,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","featured_media":{"alt":null,"id":67657668690295,"position":2,"preview_image":{"aspect_ratio":0.75,"height":3470,"width":2603,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/05-accessories-color-02.jpg?v=1763982260"}},"requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56233979052407,"title":"Red","option1":"Red","option2":null,"option3":null,"sku":null,"requires_shipping":true,"taxable":true,"featured_image":{"id":82568165491063,"product_id":15256451055991,"position":3,"created_at":"2025-11-24T06:04:15-05:00","updated_at":"2025-11-24T06:04:19-05:00","alt":null,"width":2603,"height":3470,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/05-accessories-color-03.jpg?v=1763982259","variant_ids":[56233979052407]},"available":true,"name":"Craft Desk Clip - Red","public_title":"Red","options":["Red"],"price":550,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","featured_media":{"alt":null,"id":67657668723063,"position":3,"preview_image":{"aspect_ratio":0.75,"height":3470,"width":2603,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/05-accessories-color-03.jpg?v=1763982259"}},"requires_selling_plan":false,"selling_plan_allocations":[]}]
+    </script>
+    <script type="application/json" data-product-card-featured-media="">
+      {"alt":null,"id":67657668657527,"position":1,"preview_image":{"aspect_ratio":0.75,"height":3470,"width":2603,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/05-accessories-color-01.jpg?v=1763982259"},"aspect_ratio":0.75,"height":3470,"media_type":"image","src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/05-accessories-color-01.jpg?v=1763982259","width":2603}
+    </script>
+    <span class="hidden" data-product-card-options="" data-product-title="Craft Desk Clip" data-product-columns="4" data-product-columns-mobile="1" data-product-ratio="0.76" data-product-fit="cover" data-product-has-price-varies="false"></span><a href="/products/craft-desk-clip" class="product-card__link-overlay focus-inset" aria-label="Craft Desk Clip Product link"></a></product-card>
+
+                </div><div class="collection-product-card">
+                  
+
+
+<product-card class="product-card product-card--mobile-1 product-card_image-linked" data-product="craft-logo-sticker" data-product-id="15256435163511" data-image-linked="true" tabindex="0" style="--card-padding-bottom: 131.7%; --slide-count: 5">
+  <div class="product-card__inner">
+    <div class="product-card__media">
+
+          <div class="swiper-container product-card-js global-variant-js-media-list slider_started swiper-initialized swiper-horizontal swiper-backface-hidden" data-loop="false">
+            <div class="swiper-wrapper" id="swiper-wrapper-de8ffc35b2f1ea99" aria-live="polite" style="transform: translate3d(0px, 0px, 0px);">
+              
+                
+
+                
+                  
+                
+
+                
+                  
+                    
+                  
+                
+
+                <div class="swiper-slide swiper-slide-active" data-media-id="67657564619127" role="group" aria-label="1 / 5" style="width: 326px; margin-right: 2px;">
+                  <img src="//shift-sketch.myshopify.com/cdn/shop/files/02-accessories-v1.jpg?v=1763981895&amp;width=2459" alt="Craft Logo Sticker" srcset="//shift-sketch.myshopify.com/cdn/shop/files/02-accessories-v1.jpg?v=1763981895&amp;width=360 360w, //shift-sketch.myshopify.com/cdn/shop/files/02-accessories-v1.jpg?v=1763981895&amp;width=535 535w, //shift-sketch.myshopify.com/cdn/shop/files/02-accessories-v1.jpg?v=1763981895&amp;width=720 720w, //shift-sketch.myshopify.com/cdn/shop/files/02-accessories-v1.jpg?v=1763981895&amp;width=940 940w, //shift-sketch.myshopify.com/cdn/shop/files/02-accessories-v1.jpg?v=1763981895&amp;width=1066 1066w, //shift-sketch.myshopify.com/cdn/shop/files/02-accessories-v1.jpg?v=1763981895&amp;width=1200 1200w, //shift-sketch.myshopify.com/cdn/shop/files/02-accessories-v1.jpg?v=1763981895&amp;width=1400 1400w, //shift-sketch.myshopify.com/cdn/shop/files/02-accessories-v1.jpg?v=1763981895&amp;width=1600 1600w, //shift-sketch.myshopify.com/cdn/shop/files/02-accessories-v1.jpg?v=1763981895&amp;width=1800 1800w, //shift-sketch.myshopify.com/cdn/shop/files/02-accessories-v1.jpg?v=1763981895&amp;width=2000 2000w, //shift-sketch.myshopify.com/cdn/shop/files/02-accessories-v1.jpg?v=1763981895&amp;width=2200 2200w, //shift-sketch.myshopify.com/cdn/shop/files/02-accessories-v1.jpg?v=1763981895&amp;width=2400 2400w" width="2459" height="3279" loading="lazy" class="motion-reduce media" sizes="(min-width: 1200px) calc(1.03 * (100vw / 4)),(min-width: 990px) calc(1.03 * (100vw / 3)),(min-width: 576px) calc(1.03 * (100vw / 2)),calc(1.03 * 100vw)" style="object-fit: cover;">
+                </div>
+              
+                
+
+                
+                  
+                
+
+                
+                  
+                    
+                  
+                
+
+                <div class="swiper-slide swiper-slide-next" data-media-id="67657564651895" role="group" aria-label="2 / 5" style="width: 326px; margin-right: 2px;">
+                  <img src="//shift-sketch.myshopify.com/cdn/shop/files/02-accessories-v2.jpg?v=1763981896&amp;width=2459" alt="Craft Logo Sticker" srcset="//shift-sketch.myshopify.com/cdn/shop/files/02-accessories-v2.jpg?v=1763981896&amp;width=360 360w, //shift-sketch.myshopify.com/cdn/shop/files/02-accessories-v2.jpg?v=1763981896&amp;width=535 535w, //shift-sketch.myshopify.com/cdn/shop/files/02-accessories-v2.jpg?v=1763981896&amp;width=720 720w, //shift-sketch.myshopify.com/cdn/shop/files/02-accessories-v2.jpg?v=1763981896&amp;width=940 940w, //shift-sketch.myshopify.com/cdn/shop/files/02-accessories-v2.jpg?v=1763981896&amp;width=1066 1066w, //shift-sketch.myshopify.com/cdn/shop/files/02-accessories-v2.jpg?v=1763981896&amp;width=1200 1200w, //shift-sketch.myshopify.com/cdn/shop/files/02-accessories-v2.jpg?v=1763981896&amp;width=1400 1400w, //shift-sketch.myshopify.com/cdn/shop/files/02-accessories-v2.jpg?v=1763981896&amp;width=1600 1600w, //shift-sketch.myshopify.com/cdn/shop/files/02-accessories-v2.jpg?v=1763981896&amp;width=1800 1800w, //shift-sketch.myshopify.com/cdn/shop/files/02-accessories-v2.jpg?v=1763981896&amp;width=2000 2000w, //shift-sketch.myshopify.com/cdn/shop/files/02-accessories-v2.jpg?v=1763981896&amp;width=2200 2200w, //shift-sketch.myshopify.com/cdn/shop/files/02-accessories-v2.jpg?v=1763981896&amp;width=2400 2400w" width="2459" height="3279" loading="lazy" class="motion-reduce media" sizes="(min-width: 1200px) calc(1.03 * (100vw / 4)),(min-width: 990px) calc(1.03 * (100vw / 3)),(min-width: 576px) calc(1.03 * (100vw / 2)),calc(1.03 * 100vw)" style="object-fit: cover;">
+                </div>
+              
+                
+
+                
+                  
+                
+
+                
+                  
+                    
+                  
+                
+
+                <div class="swiper-slide" data-media-id="67657564520823" role="group" aria-label="3 / 5" style="width: 326px; margin-right: 2px;">
+                  <img src="//shift-sketch.myshopify.com/cdn/shop/files/02-accessories-hover-01.jpg?v=1763981896&amp;width=1536" alt="Craft Logo Sticker" srcset="//shift-sketch.myshopify.com/cdn/shop/files/02-accessories-hover-01.jpg?v=1763981896&amp;width=360 360w, //shift-sketch.myshopify.com/cdn/shop/files/02-accessories-hover-01.jpg?v=1763981896&amp;width=535 535w, //shift-sketch.myshopify.com/cdn/shop/files/02-accessories-hover-01.jpg?v=1763981896&amp;width=720 720w, //shift-sketch.myshopify.com/cdn/shop/files/02-accessories-hover-01.jpg?v=1763981896&amp;width=940 940w, //shift-sketch.myshopify.com/cdn/shop/files/02-accessories-hover-01.jpg?v=1763981896&amp;width=1066 1066w, //shift-sketch.myshopify.com/cdn/shop/files/02-accessories-hover-01.jpg?v=1763981896&amp;width=1200 1200w, //shift-sketch.myshopify.com/cdn/shop/files/02-accessories-hover-01.jpg?v=1763981896&amp;width=1400 1400w" width="1536" height="2048" loading="lazy" class="motion-reduce media" sizes="(min-width: 1200px) calc(1.03 * (100vw / 4)),(min-width: 990px) calc(1.03 * (100vw / 3)),(min-width: 576px) calc(1.03 * (100vw / 2)),calc(1.03 * 100vw)" style="object-fit: cover;">
+                </div>
+              
+                
+
+                
+                  
+                
+
+                
+                  
+                    
+                  
+                
+
+                <div class="swiper-slide" data-media-id="67657564553591" role="group" aria-label="4 / 5" style="width: 326px; margin-right: 2px;">
+                  <img src="//shift-sketch.myshopify.com/cdn/shop/files/02-accessories-hover-02.jpg?v=1763981896&amp;width=1248" alt="Craft Logo Sticker" srcset="//shift-sketch.myshopify.com/cdn/shop/files/02-accessories-hover-02.jpg?v=1763981896&amp;width=360 360w, //shift-sketch.myshopify.com/cdn/shop/files/02-accessories-hover-02.jpg?v=1763981896&amp;width=535 535w, //shift-sketch.myshopify.com/cdn/shop/files/02-accessories-hover-02.jpg?v=1763981896&amp;width=720 720w, //shift-sketch.myshopify.com/cdn/shop/files/02-accessories-hover-02.jpg?v=1763981896&amp;width=940 940w, //shift-sketch.myshopify.com/cdn/shop/files/02-accessories-hover-02.jpg?v=1763981896&amp;width=1066 1066w, //shift-sketch.myshopify.com/cdn/shop/files/02-accessories-hover-02.jpg?v=1763981896&amp;width=1200 1200w" width="1248" height="1664" loading="lazy" class="motion-reduce media" sizes="(min-width: 1200px) calc(1.03 * (100vw / 4)),(min-width: 990px) calc(1.03 * (100vw / 3)),(min-width: 576px) calc(1.03 * (100vw / 2)),calc(1.03 * 100vw)" style="object-fit: cover;">
+                </div>
+              
+                
+
+                
+                  
+                
+
+                
+                  
+                    
+                  
+                
+
+                <div class="swiper-slide" data-media-id="67657564586359" role="group" aria-label="5 / 5" style="width: 326px; margin-right: 2px;">
+                  <img src="//shift-sketch.myshopify.com/cdn/shop/files/02-accessories-hover-03.jpg?v=1763981896&amp;width=1320" alt="Craft Logo Sticker" srcset="//shift-sketch.myshopify.com/cdn/shop/files/02-accessories-hover-03.jpg?v=1763981896&amp;width=360 360w, //shift-sketch.myshopify.com/cdn/shop/files/02-accessories-hover-03.jpg?v=1763981896&amp;width=535 535w, //shift-sketch.myshopify.com/cdn/shop/files/02-accessories-hover-03.jpg?v=1763981896&amp;width=720 720w, //shift-sketch.myshopify.com/cdn/shop/files/02-accessories-hover-03.jpg?v=1763981896&amp;width=940 940w, //shift-sketch.myshopify.com/cdn/shop/files/02-accessories-hover-03.jpg?v=1763981896&amp;width=1066 1066w, //shift-sketch.myshopify.com/cdn/shop/files/02-accessories-hover-03.jpg?v=1763981896&amp;width=1200 1200w" width="1320" height="1760" loading="lazy" class="motion-reduce media" sizes="(min-width: 1200px) calc(1.03 * (100vw / 4)),(min-width: 990px) calc(1.03 * (100vw / 3)),(min-width: 576px) calc(1.03 * (100vw / 2)),calc(1.03 * 100vw)" style="object-fit: cover;">
+                </div>
+              
+            </div>
+            <div class="product-button-group">
+              <div class="product-slider-button-prev">
+                <div class="swiper-button-prev swiper-button-disabled" tabindex="-1" role="button" aria-label="Previous slide" aria-controls="swiper-wrapper-de8ffc35b2f1ea99" aria-disabled="true"><svg class="icon icon-arrow-slider-left" width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M14 2L6 10L14 18" stroke="currentColor"></path>
+</svg>
+</div>
+              </div>
+
+              <div class="product-slider-button-next">
+                <div class="swiper-button-next" tabindex="0" role="button" aria-label="Next slide" aria-controls="swiper-wrapper-de8ffc35b2f1ea99" aria-disabled="false"><svg class="icon icon-arrow-slider-right" width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M6 2L14 10L6 18" stroke="currentColor"></path>
+</svg>
+</div>
+              </div>
+            </div>
+            <div class="swiper-pagination product-card-pagination swiper-pagination-default swiper-pagination-clickable swiper-pagination-bullets swiper-pagination-horizontal"><span class="swiper-pagination-bullet swiper-pagination-bullet-active" tabindex="0" role="button" aria-label="Go to slide 1" aria-current="true"></span><span class="swiper-pagination-bullet" tabindex="0" role="button" aria-label="Go to slide 2"></span><span class="swiper-pagination-bullet" tabindex="0" role="button" aria-label="Go to slide 3"></span><span class="swiper-pagination-bullet" tabindex="0" role="button" aria-label="Go to slide 4"></span><span class="swiper-pagination-bullet" tabindex="0" role="button" aria-label="Go to slide 5"></span></div>
+          <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
+        
+</div><div class="product-card__top">
+        
+<div class="product-card__badges body-normal"></div>
+      </div><div class="product-card__quickview product-card__quickview--mobile-true no-js-hidden">
+        <modal-opener data-modal="#QuickView-15256435163511">
+          <button class="product-card__button button button--primary focus-inset" aria-haspopup="dialog" data-product-url="/products/craft-logo-sticker" aria-label="Quick view">
+            <div class="button__content">
+              <span class="product-card__quickview-text button__label" data-label="Quick view">Quick view</span>
+              <span class="product-card__mobile-icon button__icon">
+                <svg width="22" height="22" viewBox="0 0 22 22" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M2.66745 12.0748C2.35434 11.3936 2.35434 10.6077 2.66745 9.92654C4.11679 6.77337 7.30311 4.58398 11.0008 4.58398C14.6985 4.58398 17.8848 6.77338 19.3341 9.92654C19.6472 10.6077 19.6472 11.3936 19.3341 12.0748C17.8848 15.2279 14.6985 17.4173 11.0008 17.4173C7.30311 17.4173 4.11679 15.2279 2.66745 12.0748Z" stroke="currentColor" stroke-width="1.5"></path>
+  <path d="M13.7508 11.0007C13.7508 12.5194 12.5196 13.7507 11.0008 13.7507C9.48201 13.7507 8.25079 12.5194 8.25079 11.0007C8.25079 9.48187 9.48201 8.25065 11.0008 8.25065C12.5196 8.25065 13.7508 9.48187 13.7508 11.0007Z" stroke="currentColor" stroke-width="1.5"></path>
+</svg>
+
+              </span>
+            </div>
+            <div class="loading-overlay__spinner hidden">
+              <svg aria-hidden="true" focusable="false" role="presentation" class="spinner" viewBox="0 0 66 66" xmlns="http://www.w3.org/2000/svg">
+  <circle class="path" fill="none" stroke-width="5" cx="33" cy="33" r="30"></circle>
+</svg>
+
+            </div>
+          </button>
+        </modal-opener>
+
+        
+
+
+      </div></div>
+
+  
+  <div class="product-card__information">
+    <div class="product-card__information-top"><h2 class="product-card__title">
+        <a class="focus-inset" href="/products/craft-logo-sticker" aria-label="Craft Logo Sticker">Craft Logo Sticker</a>
+      </h2>
+
+      <div class="product-card__price-group">
+        
+<div class="price">
+  <dl class="price-text"><div class="price__regular">
+      <dt class="visually-hidden">Regular price</dt>
+      <dd>
+        <span class="price-item price-item--regular">$2.50</span>
+      </dd>
+    </div>
+    <div class="price__sale">
+      <dt class="visually-hidden">Sale price</dt>
+      <dd>
+        <span class="price-item price-item--sale">$2.50</span>
+      </dd>
+      <dt class="visually-hidden">Regular price</dt>
+      <dd class="price__compare">
+        <s class="price-item price-item--regular"></s>
+      </dd>
+    </div>
+  </dl>
+
+  <dl class="unit-price hidden">
+    <dt class="visually-hidden">Unit price</dt>
+    <dd></dd>
+  </dl>
+</div>
+
+      </div>
+      
+
+          <div class="product-card__description body-small">A reliable, everyday-use product designed to support planning, note-taking, and creative work. It features a clean layout and sturdy build,...</div><div class="product-card__error body-xs" role="alert" hidden=""></div>
+    </div>
+
+    
+</div><a href="/products/craft-logo-sticker" class="product-card__link-overlay focus-inset" aria-label="Craft Logo Sticker Product link"></a></product-card>
+
+                </div><div class="collection-product-card">
+                  
+
+
+<product-card class="product-card product-card--mobile-1 product-card_image-linked" data-product="craft-oversize-tote" data-product-id="15256434114935" data-image-linked="true" tabindex="0" style="--card-padding-bottom: 131.7%; --slide-count: 4">
+  <div class="product-card__inner">
+    <div class="product-card__media">
+
+          <div class="swiper-container product-card-js global-variant-js-media-list slider_started swiper-initialized swiper-horizontal swiper-backface-hidden" data-loop="false">
+            <div class="swiper-wrapper" id="swiper-wrapper-ac768aa3b3c0a385" aria-live="polite" style="transform: translate3d(0px, 0px, 0px);">
+              
+                
+
+                
+                  
+                
+
+                
+                  
+                    
+                  
+                
+
+                <div class="swiper-slide swiper-slide-active" data-media-id="67657556296055" role="group" aria-label="1 / 4" style="width: 326px; margin-right: 2px;">
+                  <img src="//shift-sketch.myshopify.com/cdn/shop/files/01-accessories.jpg?v=1763981863&amp;width=2603" alt="Craft Oversize Tote" srcset="//shift-sketch.myshopify.com/cdn/shop/files/01-accessories.jpg?v=1763981863&amp;width=360 360w, //shift-sketch.myshopify.com/cdn/shop/files/01-accessories.jpg?v=1763981863&amp;width=535 535w, //shift-sketch.myshopify.com/cdn/shop/files/01-accessories.jpg?v=1763981863&amp;width=720 720w, //shift-sketch.myshopify.com/cdn/shop/files/01-accessories.jpg?v=1763981863&amp;width=940 940w, //shift-sketch.myshopify.com/cdn/shop/files/01-accessories.jpg?v=1763981863&amp;width=1066 1066w, //shift-sketch.myshopify.com/cdn/shop/files/01-accessories.jpg?v=1763981863&amp;width=1200 1200w, //shift-sketch.myshopify.com/cdn/shop/files/01-accessories.jpg?v=1763981863&amp;width=1400 1400w, //shift-sketch.myshopify.com/cdn/shop/files/01-accessories.jpg?v=1763981863&amp;width=1600 1600w, //shift-sketch.myshopify.com/cdn/shop/files/01-accessories.jpg?v=1763981863&amp;width=1800 1800w, //shift-sketch.myshopify.com/cdn/shop/files/01-accessories.jpg?v=1763981863&amp;width=2000 2000w, //shift-sketch.myshopify.com/cdn/shop/files/01-accessories.jpg?v=1763981863&amp;width=2200 2200w, //shift-sketch.myshopify.com/cdn/shop/files/01-accessories.jpg?v=1763981863&amp;width=2400 2400w, //shift-sketch.myshopify.com/cdn/shop/files/01-accessories.jpg?v=1763981863&amp;width=2600 2600w" width="2603" height="3470" loading="lazy" class="motion-reduce media" sizes="(min-width: 1200px) calc(1.03 * (100vw / 4)),(min-width: 990px) calc(1.03 * (100vw / 3)),(min-width: 576px) calc(1.03 * (100vw / 2)),calc(1.03 * 100vw)" style="object-fit: cover;">
+                </div>
+              
+                
+
+                
+                  
+                
+
+                
+                  
+                    
+                  
+                
+
+                <div class="swiper-slide swiper-slide-next" data-media-id="67657556197751" role="group" aria-label="2 / 4" style="width: 326px; margin-right: 2px;">
+                  <img src="//shift-sketch.myshopify.com/cdn/shop/files/01-accessories-hover-01.jpg?v=1763981863&amp;width=880" alt="Craft Oversize Tote" srcset="//shift-sketch.myshopify.com/cdn/shop/files/01-accessories-hover-01.jpg?v=1763981863&amp;width=360 360w, //shift-sketch.myshopify.com/cdn/shop/files/01-accessories-hover-01.jpg?v=1763981863&amp;width=535 535w, //shift-sketch.myshopify.com/cdn/shop/files/01-accessories-hover-01.jpg?v=1763981863&amp;width=720 720w" width="880" height="1168" loading="lazy" class="motion-reduce media" sizes="(min-width: 1200px) calc(1.03 * (100vw / 4)),(min-width: 990px) calc(1.03 * (100vw / 3)),(min-width: 576px) calc(1.03 * (100vw / 2)),calc(1.03 * 100vw)" style="object-fit: cover;">
+                </div>
+              
+                
+
+                
+                  
+                
+
+                
+                  
+                    
+                  
+                
+
+                <div class="swiper-slide" data-media-id="67657556230519" role="group" aria-label="3 / 4" style="width: 326px; margin-right: 2px;">
+                  <img src="//shift-sketch.myshopify.com/cdn/shop/files/01-accessories-hover-02.jpg?v=1763981863&amp;width=1760" alt="Craft Oversize Tote" srcset="//shift-sketch.myshopify.com/cdn/shop/files/01-accessories-hover-02.jpg?v=1763981863&amp;width=360 360w, //shift-sketch.myshopify.com/cdn/shop/files/01-accessories-hover-02.jpg?v=1763981863&amp;width=535 535w, //shift-sketch.myshopify.com/cdn/shop/files/01-accessories-hover-02.jpg?v=1763981863&amp;width=720 720w, //shift-sketch.myshopify.com/cdn/shop/files/01-accessories-hover-02.jpg?v=1763981863&amp;width=940 940w, //shift-sketch.myshopify.com/cdn/shop/files/01-accessories-hover-02.jpg?v=1763981863&amp;width=1066 1066w, //shift-sketch.myshopify.com/cdn/shop/files/01-accessories-hover-02.jpg?v=1763981863&amp;width=1200 1200w, //shift-sketch.myshopify.com/cdn/shop/files/01-accessories-hover-02.jpg?v=1763981863&amp;width=1400 1400w, //shift-sketch.myshopify.com/cdn/shop/files/01-accessories-hover-02.jpg?v=1763981863&amp;width=1600 1600w" width="1760" height="2336" loading="lazy" class="motion-reduce media" sizes="(min-width: 1200px) calc(1.03 * (100vw / 4)),(min-width: 990px) calc(1.03 * (100vw / 3)),(min-width: 576px) calc(1.03 * (100vw / 2)),calc(1.03 * 100vw)" style="object-fit: cover;">
+                </div>
+              
+                
+
+                
+                  
+                
+
+                
+                  
+                    
+                  
+                
+
+                <div class="swiper-slide" data-media-id="67657556263287" role="group" aria-label="4 / 4" style="width: 326px; margin-right: 2px;">
+                  <img src="//shift-sketch.myshopify.com/cdn/shop/files/01-accessories-hover-03.jpg?v=1763981863&amp;width=1728" alt="Craft Oversize Tote" srcset="//shift-sketch.myshopify.com/cdn/shop/files/01-accessories-hover-03.jpg?v=1763981863&amp;width=360 360w, //shift-sketch.myshopify.com/cdn/shop/files/01-accessories-hover-03.jpg?v=1763981863&amp;width=535 535w, //shift-sketch.myshopify.com/cdn/shop/files/01-accessories-hover-03.jpg?v=1763981863&amp;width=720 720w, //shift-sketch.myshopify.com/cdn/shop/files/01-accessories-hover-03.jpg?v=1763981863&amp;width=940 940w, //shift-sketch.myshopify.com/cdn/shop/files/01-accessories-hover-03.jpg?v=1763981863&amp;width=1066 1066w, //shift-sketch.myshopify.com/cdn/shop/files/01-accessories-hover-03.jpg?v=1763981863&amp;width=1200 1200w, //shift-sketch.myshopify.com/cdn/shop/files/01-accessories-hover-03.jpg?v=1763981863&amp;width=1400 1400w, //shift-sketch.myshopify.com/cdn/shop/files/01-accessories-hover-03.jpg?v=1763981863&amp;width=1600 1600w" width="1728" height="2304" loading="lazy" class="motion-reduce media" sizes="(min-width: 1200px) calc(1.03 * (100vw / 4)),(min-width: 990px) calc(1.03 * (100vw / 3)),(min-width: 576px) calc(1.03 * (100vw / 2)),calc(1.03 * 100vw)" style="object-fit: cover;">
+                </div>
+              
+            </div>
+            <div class="product-button-group">
+              <div class="product-slider-button-prev">
+                <div class="swiper-button-prev swiper-button-disabled" tabindex="-1" role="button" aria-label="Previous slide" aria-controls="swiper-wrapper-ac768aa3b3c0a385" aria-disabled="true"><svg class="icon icon-arrow-slider-left" width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M14 2L6 10L14 18" stroke="currentColor"></path>
+</svg>
+</div>
+              </div>
+
+              <div class="product-slider-button-next">
+                <div class="swiper-button-next" tabindex="0" role="button" aria-label="Next slide" aria-controls="swiper-wrapper-ac768aa3b3c0a385" aria-disabled="false"><svg class="icon icon-arrow-slider-right" width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M6 2L14 10L6 18" stroke="currentColor"></path>
+</svg>
+</div>
+              </div>
+            </div>
+            <div class="swiper-pagination product-card-pagination swiper-pagination-default swiper-pagination-clickable swiper-pagination-bullets swiper-pagination-horizontal"><span class="swiper-pagination-bullet swiper-pagination-bullet-active" tabindex="0" role="button" aria-label="Go to slide 1" aria-current="true"></span><span class="swiper-pagination-bullet" tabindex="0" role="button" aria-label="Go to slide 2"></span><span class="swiper-pagination-bullet" tabindex="0" role="button" aria-label="Go to slide 3"></span><span class="swiper-pagination-bullet" tabindex="0" role="button" aria-label="Go to slide 4"></span></div>
+          <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
+        
+</div><div class="product-card__top">
+        
+<div class="product-card__badges body-normal"></div>
+      </div><div class="product-card__quickview product-card__quickview--mobile-true no-js-hidden">
+        <modal-opener data-modal="#QuickView-15256434114935">
+          <button class="product-card__button button button--primary focus-inset" aria-haspopup="dialog" data-product-url="/products/craft-oversize-tote" aria-label="Quick view">
+            <div class="button__content">
+              <span class="product-card__quickview-text button__label" data-label="Quick view">Quick view</span>
+              <span class="product-card__mobile-icon button__icon">
+                <svg width="22" height="22" viewBox="0 0 22 22" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M2.66745 12.0748C2.35434 11.3936 2.35434 10.6077 2.66745 9.92654C4.11679 6.77337 7.30311 4.58398 11.0008 4.58398C14.6985 4.58398 17.8848 6.77338 19.3341 9.92654C19.6472 10.6077 19.6472 11.3936 19.3341 12.0748C17.8848 15.2279 14.6985 17.4173 11.0008 17.4173C7.30311 17.4173 4.11679 15.2279 2.66745 12.0748Z" stroke="currentColor" stroke-width="1.5"></path>
+  <path d="M13.7508 11.0007C13.7508 12.5194 12.5196 13.7507 11.0008 13.7507C9.48201 13.7507 8.25079 12.5194 8.25079 11.0007C8.25079 9.48187 9.48201 8.25065 11.0008 8.25065C12.5196 8.25065 13.7508 9.48187 13.7508 11.0007Z" stroke="currentColor" stroke-width="1.5"></path>
+</svg>
+
+              </span>
+            </div>
+            <div class="loading-overlay__spinner hidden">
+              <svg aria-hidden="true" focusable="false" role="presentation" class="spinner" viewBox="0 0 66 66" xmlns="http://www.w3.org/2000/svg">
+  <circle class="path" fill="none" stroke-width="5" cx="33" cy="33" r="30"></circle>
+</svg>
+
+            </div>
+          </button>
+        </modal-opener>
+
+        
+
+
+      </div></div>
+
+  
+  <div class="product-card__information">
+    <div class="product-card__information-top"><h2 class="product-card__title">
+        <a class="focus-inset" href="/products/craft-oversize-tote" aria-label="Craft Oversize Tote">Craft Oversize Tote</a>
+      </h2>
+
+      <div class="product-card__price-group">
+        
+<div class="price">
+  <dl class="price-text"><div class="price__regular">
+      <dt class="visually-hidden">Regular price</dt>
+      <dd>
+        <span class="price-item price-item--regular">$22.00</span>
+      </dd>
+    </div>
+    <div class="price__sale">
+      <dt class="visually-hidden">Sale price</dt>
+      <dd>
+        <span class="price-item price-item--sale">$22.00</span>
+      </dd>
+      <dt class="visually-hidden">Regular price</dt>
+      <dd class="price__compare">
+        <s class="price-item price-item--regular"></s>
+      </dd>
+    </div>
+  </dl>
+
+  <dl class="unit-price hidden">
+    <dt class="visually-hidden">Unit price</dt>
+    <dd></dd>
+  </dl>
+</div>
+
+      </div>
+      
+
+          <div class="product-card__description body-small">A reliable, everyday-use product designed to support planning, note-taking, and creative work. It features a clean layout and sturdy build,...</div><div class="product-card__error body-xs" role="alert" hidden=""></div>
+    </div>
+
+    
+</div><a href="/products/craft-oversize-tote" class="product-card__link-overlay focus-inset" aria-label="Craft Oversize Tote Product link"></a></product-card>
+
+                </div><div class="collection-product-card">
+                  
+
+
+<product-card class="product-card product-card--mobile-1 product-card_image-linked" data-product="craft-pin-badge" data-product-id="15256448172407" data-image-linked="true" tabindex="0" style="--card-padding-bottom: 131.7%; --slide-count: 6">
+  <div class="product-card__inner">
+    <div class="product-card__media">
+
+          <div class="swiper-container product-card-js global-variant-js-media-list slider_started swiper-initialized swiper-horizontal swiper-backface-hidden" data-loop="false">
+            <div class="swiper-wrapper" id="swiper-wrapper-d1843d7bda91da43" aria-live="polite" style="transform: translate3d(0px, 0px, 0px);">
+              
+                
+
+                
+                  
+                    
+                    
+
+                
+
+                <div class="swiper-slide swiper-slide-active" data-media-id="67657596240247" data-variant-id="56233960243575" role="group" aria-label="1 / 6" style="width: 326px; margin-right: 2px;">
+                  <img src="//shift-sketch.myshopify.com/cdn/shop/files/04-accessories-color-01.jpg?v=1763982006&amp;width=1686" alt="Craft Pin Badge" srcset="//shift-sketch.myshopify.com/cdn/shop/files/04-accessories-color-01.jpg?v=1763982006&amp;width=360 360w, //shift-sketch.myshopify.com/cdn/shop/files/04-accessories-color-01.jpg?v=1763982006&amp;width=535 535w, //shift-sketch.myshopify.com/cdn/shop/files/04-accessories-color-01.jpg?v=1763982006&amp;width=720 720w, //shift-sketch.myshopify.com/cdn/shop/files/04-accessories-color-01.jpg?v=1763982006&amp;width=940 940w, //shift-sketch.myshopify.com/cdn/shop/files/04-accessories-color-01.jpg?v=1763982006&amp;width=1066 1066w, //shift-sketch.myshopify.com/cdn/shop/files/04-accessories-color-01.jpg?v=1763982006&amp;width=1200 1200w, //shift-sketch.myshopify.com/cdn/shop/files/04-accessories-color-01.jpg?v=1763982006&amp;width=1400 1400w, //shift-sketch.myshopify.com/cdn/shop/files/04-accessories-color-01.jpg?v=1763982006&amp;width=1600 1600w" width="1686" height="2247" loading="lazy" class="motion-reduce media" sizes="(min-width: 1200px) calc(1.03 * (100vw / 4)),(min-width: 990px) calc(1.03 * (100vw / 3)),(min-width: 576px) calc(1.03 * (100vw / 2)),calc(1.03 * 100vw)" style="object-fit: cover;">
+                </div>
+              
+                
+
+                
+                  
+                
+                  
+                    
+                    
+
+                
+
+                <div class="swiper-slide swiper-slide-next" data-media-id="67657596273015" data-variant-id="56233960276343" role="group" aria-label="2 / 6" style="width: 326px; margin-right: 2px;">
+                  <img src="//shift-sketch.myshopify.com/cdn/shop/files/04-accessories-color-02.jpg?v=1763982007&amp;width=1685" alt="Craft Pin Badge" srcset="//shift-sketch.myshopify.com/cdn/shop/files/04-accessories-color-02.jpg?v=1763982007&amp;width=360 360w, //shift-sketch.myshopify.com/cdn/shop/files/04-accessories-color-02.jpg?v=1763982007&amp;width=535 535w, //shift-sketch.myshopify.com/cdn/shop/files/04-accessories-color-02.jpg?v=1763982007&amp;width=720 720w, //shift-sketch.myshopify.com/cdn/shop/files/04-accessories-color-02.jpg?v=1763982007&amp;width=940 940w, //shift-sketch.myshopify.com/cdn/shop/files/04-accessories-color-02.jpg?v=1763982007&amp;width=1066 1066w, //shift-sketch.myshopify.com/cdn/shop/files/04-accessories-color-02.jpg?v=1763982007&amp;width=1200 1200w, //shift-sketch.myshopify.com/cdn/shop/files/04-accessories-color-02.jpg?v=1763982007&amp;width=1400 1400w, //shift-sketch.myshopify.com/cdn/shop/files/04-accessories-color-02.jpg?v=1763982007&amp;width=1600 1600w" width="1685" height="2246" loading="lazy" class="motion-reduce media" sizes="(min-width: 1200px) calc(1.03 * (100vw / 4)),(min-width: 990px) calc(1.03 * (100vw / 3)),(min-width: 576px) calc(1.03 * (100vw / 2)),calc(1.03 * 100vw)" style="object-fit: cover;">
+                </div>
+              
+                
+
+                
+                  
+                
+                  
+                
+                  
+                    
+                    
+
+                
+
+                <div class="swiper-slide" data-media-id="67657596305783" data-variant-id="56233960309111" role="group" aria-label="3 / 6" style="width: 326px; margin-right: 2px;">
+                  <img src="//shift-sketch.myshopify.com/cdn/shop/files/04-accessories-color-03.jpg?v=1763982006&amp;width=2603" alt="Craft Pin Badge" srcset="//shift-sketch.myshopify.com/cdn/shop/files/04-accessories-color-03.jpg?v=1763982006&amp;width=360 360w, //shift-sketch.myshopify.com/cdn/shop/files/04-accessories-color-03.jpg?v=1763982006&amp;width=535 535w, //shift-sketch.myshopify.com/cdn/shop/files/04-accessories-color-03.jpg?v=1763982006&amp;width=720 720w, //shift-sketch.myshopify.com/cdn/shop/files/04-accessories-color-03.jpg?v=1763982006&amp;width=940 940w, //shift-sketch.myshopify.com/cdn/shop/files/04-accessories-color-03.jpg?v=1763982006&amp;width=1066 1066w, //shift-sketch.myshopify.com/cdn/shop/files/04-accessories-color-03.jpg?v=1763982006&amp;width=1200 1200w, //shift-sketch.myshopify.com/cdn/shop/files/04-accessories-color-03.jpg?v=1763982006&amp;width=1400 1400w, //shift-sketch.myshopify.com/cdn/shop/files/04-accessories-color-03.jpg?v=1763982006&amp;width=1600 1600w, //shift-sketch.myshopify.com/cdn/shop/files/04-accessories-color-03.jpg?v=1763982006&amp;width=1800 1800w, //shift-sketch.myshopify.com/cdn/shop/files/04-accessories-color-03.jpg?v=1763982006&amp;width=2000 2000w, //shift-sketch.myshopify.com/cdn/shop/files/04-accessories-color-03.jpg?v=1763982006&amp;width=2200 2200w, //shift-sketch.myshopify.com/cdn/shop/files/04-accessories-color-03.jpg?v=1763982006&amp;width=2400 2400w, //shift-sketch.myshopify.com/cdn/shop/files/04-accessories-color-03.jpg?v=1763982006&amp;width=2600 2600w" width="2603" height="3470" loading="lazy" class="motion-reduce media" sizes="(min-width: 1200px) calc(1.03 * (100vw / 4)),(min-width: 990px) calc(1.03 * (100vw / 3)),(min-width: 576px) calc(1.03 * (100vw / 2)),calc(1.03 * 100vw)" style="object-fit: cover;">
+                </div>
+              
+                
+
+                
+                  
+                
+                  
+                
+                  
+                
+
+                
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                
+
+                <div class="swiper-slide" data-media-id="67657596338551" role="group" aria-label="4 / 6" style="width: 326px; margin-right: 2px;">
+                  <img src="//shift-sketch.myshopify.com/cdn/shop/files/04-accessories-hover-01.jpg?v=1763982007&amp;width=1760" alt="Craft Pin Badge" srcset="//shift-sketch.myshopify.com/cdn/shop/files/04-accessories-hover-01.jpg?v=1763982007&amp;width=360 360w, //shift-sketch.myshopify.com/cdn/shop/files/04-accessories-hover-01.jpg?v=1763982007&amp;width=535 535w, //shift-sketch.myshopify.com/cdn/shop/files/04-accessories-hover-01.jpg?v=1763982007&amp;width=720 720w, //shift-sketch.myshopify.com/cdn/shop/files/04-accessories-hover-01.jpg?v=1763982007&amp;width=940 940w, //shift-sketch.myshopify.com/cdn/shop/files/04-accessories-hover-01.jpg?v=1763982007&amp;width=1066 1066w, //shift-sketch.myshopify.com/cdn/shop/files/04-accessories-hover-01.jpg?v=1763982007&amp;width=1200 1200w, //shift-sketch.myshopify.com/cdn/shop/files/04-accessories-hover-01.jpg?v=1763982007&amp;width=1400 1400w, //shift-sketch.myshopify.com/cdn/shop/files/04-accessories-hover-01.jpg?v=1763982007&amp;width=1600 1600w" width="1760" height="2336" loading="lazy" class="motion-reduce media" sizes="(min-width: 1200px) calc(1.03 * (100vw / 4)),(min-width: 990px) calc(1.03 * (100vw / 3)),(min-width: 576px) calc(1.03 * (100vw / 2)),calc(1.03 * 100vw)" style="object-fit: cover;">
+                </div>
+              
+                
+
+                
+                  
+                
+                  
+                
+                  
+                
+
+                
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                
+
+                <div class="swiper-slide" data-media-id="67657596371319" role="group" aria-label="5 / 6" style="width: 326px; margin-right: 2px;">
+                  <img src="//shift-sketch.myshopify.com/cdn/shop/files/04-accessories-hover-02.jpg?v=1763982006&amp;width=1664" alt="Craft Pin Badge" srcset="//shift-sketch.myshopify.com/cdn/shop/files/04-accessories-hover-02.jpg?v=1763982006&amp;width=360 360w, //shift-sketch.myshopify.com/cdn/shop/files/04-accessories-hover-02.jpg?v=1763982006&amp;width=535 535w, //shift-sketch.myshopify.com/cdn/shop/files/04-accessories-hover-02.jpg?v=1763982006&amp;width=720 720w, //shift-sketch.myshopify.com/cdn/shop/files/04-accessories-hover-02.jpg?v=1763982006&amp;width=940 940w, //shift-sketch.myshopify.com/cdn/shop/files/04-accessories-hover-02.jpg?v=1763982006&amp;width=1066 1066w, //shift-sketch.myshopify.com/cdn/shop/files/04-accessories-hover-02.jpg?v=1763982006&amp;width=1200 1200w, //shift-sketch.myshopify.com/cdn/shop/files/04-accessories-hover-02.jpg?v=1763982006&amp;width=1400 1400w, //shift-sketch.myshopify.com/cdn/shop/files/04-accessories-hover-02.jpg?v=1763982006&amp;width=1600 1600w" width="1664" height="2218" loading="lazy" class="motion-reduce media" sizes="(min-width: 1200px) calc(1.03 * (100vw / 4)),(min-width: 990px) calc(1.03 * (100vw / 3)),(min-width: 576px) calc(1.03 * (100vw / 2)),calc(1.03 * 100vw)" style="object-fit: cover;">
+                </div>
+              
+                
+
+                
+                  
+                
+                  
+                
+                  
+                
+
+                
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                
+
+                <div class="swiper-slide" data-media-id="67657596404087" role="group" aria-label="6 / 6" style="width: 326px; margin-right: 2px;">
+                  <img src="//shift-sketch.myshopify.com/cdn/shop/files/04-accessories-hover-03.jpg?v=1763982006&amp;width=1458" alt="Craft Pin Badge" srcset="//shift-sketch.myshopify.com/cdn/shop/files/04-accessories-hover-03.jpg?v=1763982006&amp;width=360 360w, //shift-sketch.myshopify.com/cdn/shop/files/04-accessories-hover-03.jpg?v=1763982006&amp;width=535 535w, //shift-sketch.myshopify.com/cdn/shop/files/04-accessories-hover-03.jpg?v=1763982006&amp;width=720 720w, //shift-sketch.myshopify.com/cdn/shop/files/04-accessories-hover-03.jpg?v=1763982006&amp;width=940 940w, //shift-sketch.myshopify.com/cdn/shop/files/04-accessories-hover-03.jpg?v=1763982006&amp;width=1066 1066w, //shift-sketch.myshopify.com/cdn/shop/files/04-accessories-hover-03.jpg?v=1763982006&amp;width=1200 1200w, //shift-sketch.myshopify.com/cdn/shop/files/04-accessories-hover-03.jpg?v=1763982006&amp;width=1400 1400w" width="1458" height="1944" loading="lazy" class="motion-reduce media" sizes="(min-width: 1200px) calc(1.03 * (100vw / 4)),(min-width: 990px) calc(1.03 * (100vw / 3)),(min-width: 576px) calc(1.03 * (100vw / 2)),calc(1.03 * 100vw)" style="object-fit: cover;">
+                </div>
+              
+            </div>
+            <div class="product-button-group">
+              <div class="product-slider-button-prev">
+                <div class="swiper-button-prev swiper-button-disabled" tabindex="-1" role="button" aria-label="Previous slide" aria-controls="swiper-wrapper-d1843d7bda91da43" aria-disabled="true"><svg class="icon icon-arrow-slider-left" width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M14 2L6 10L14 18" stroke="currentColor"></path>
+</svg>
+</div>
+              </div>
+
+              <div class="product-slider-button-next">
+                <div class="swiper-button-next" tabindex="0" role="button" aria-label="Next slide" aria-controls="swiper-wrapper-d1843d7bda91da43" aria-disabled="false"><svg class="icon icon-arrow-slider-right" width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M6 2L14 10L6 18" stroke="currentColor"></path>
+</svg>
+</div>
+              </div>
+            </div>
+            <div class="swiper-pagination product-card-pagination swiper-pagination-default swiper-pagination-clickable swiper-pagination-bullets swiper-pagination-horizontal"><span class="swiper-pagination-bullet swiper-pagination-bullet-active" tabindex="0" role="button" aria-label="Go to slide 1" aria-current="true"></span><span class="swiper-pagination-bullet" tabindex="0" role="button" aria-label="Go to slide 2"></span><span class="swiper-pagination-bullet" tabindex="0" role="button" aria-label="Go to slide 3"></span><span class="swiper-pagination-bullet" tabindex="0" role="button" aria-label="Go to slide 4"></span><span class="swiper-pagination-bullet" tabindex="0" role="button" aria-label="Go to slide 5"></span><span class="swiper-pagination-bullet" tabindex="0" role="button" aria-label="Go to slide 6"></span></div>
+          <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
+        
+</div><div class="product-card__top">
+        
+<div class="product-card__badges body-normal"></div>
+      </div><div class="product-card__quickview product-card__quickview--mobile-true no-js-hidden">
+        <modal-opener data-modal="#QuickView-15256448172407">
+          <button class="product-card__button button button--primary focus-inset" aria-haspopup="dialog" data-product-url="/products/craft-pin-badge" aria-label="Quick view">
+            <div class="button__content">
+              <span class="product-card__quickview-text button__label" data-label="Quick view">Quick view</span>
+              <span class="product-card__mobile-icon button__icon">
+                <svg width="22" height="22" viewBox="0 0 22 22" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M2.66745 12.0748C2.35434 11.3936 2.35434 10.6077 2.66745 9.92654C4.11679 6.77337 7.30311 4.58398 11.0008 4.58398C14.6985 4.58398 17.8848 6.77338 19.3341 9.92654C19.6472 10.6077 19.6472 11.3936 19.3341 12.0748C17.8848 15.2279 14.6985 17.4173 11.0008 17.4173C7.30311 17.4173 4.11679 15.2279 2.66745 12.0748Z" stroke="currentColor" stroke-width="1.5"></path>
+  <path d="M13.7508 11.0007C13.7508 12.5194 12.5196 13.7507 11.0008 13.7507C9.48201 13.7507 8.25079 12.5194 8.25079 11.0007C8.25079 9.48187 9.48201 8.25065 11.0008 8.25065C12.5196 8.25065 13.7508 9.48187 13.7508 11.0007Z" stroke="currentColor" stroke-width="1.5"></path>
+</svg>
+
+              </span>
+            </div>
+            <div class="loading-overlay__spinner hidden">
+              <svg aria-hidden="true" focusable="false" role="presentation" class="spinner" viewBox="0 0 66 66" xmlns="http://www.w3.org/2000/svg">
+  <circle class="path" fill="none" stroke-width="5" cx="33" cy="33" r="30"></circle>
+</svg>
+
+            </div>
+          </button>
+        </modal-opener>
+
+        
+
+
+      </div></div>
+
+  
+  <div class="product-card__information">
+    <div class="product-card__information-top"><h2 class="product-card__title">
+        <a class="focus-inset" href="/products/craft-pin-badge" aria-label="Craft Pin Badge">Craft Pin Badge</a>
+      </h2>
+
+      <div class="product-card__price-group">
+        
+<div class="price">
+  <dl class="price-text"><div class="price__regular">
+      <dt class="visually-hidden">Regular price</dt>
+      <dd>
+        <span class="price-item price-item--regular">$3.00</span>
+      </dd>
+    </div>
+    <div class="price__sale">
+      <dt class="visually-hidden">Sale price</dt>
+      <dd>
+        <span class="price-item price-item--sale">$3.00</span>
+      </dd>
+      <dt class="visually-hidden">Regular price</dt>
+      <dd class="price__compare">
+        <s class="price-item price-item--regular"></s>
+      </dd>
+    </div>
+  </dl>
+
+  <dl class="unit-price hidden">
+    <dt class="visually-hidden">Unit price</dt>
+    <dd></dd>
+  </dl>
+</div>
+
+      </div>
+      
+
+          <div class="product-card__description body-small">A reliable, everyday-use product designed to support planning, note-taking, and creative work. It features a clean layout and sturdy build,...</div><div class="product-card__error body-xs" role="alert" hidden=""></div>
+    </div>
+
+    
+</div><a href="/products/craft-pin-badge" class="product-card__link-overlay focus-inset" aria-label="Craft Pin Badge Product link"></a></product-card>
+
+                </div><div class="collection-product-card">
+                  
+
+
+<product-card class="product-card product-card--mobile-1 product-card_image-linked" data-product="daily-list-pad" data-product-id="15256136581495" data-image-linked="true" data-card-color-swatches="true" tabindex="0" style="--card-padding-bottom: 131.7%; --slide-count: 4">
+  <div class="product-card__inner">
+    <div class="product-card__media">
+
+          <div class="swiper-container product-card-js global-variant-js-media-list slider_started swiper-initialized swiper-horizontal swiper-backface-hidden" data-loop="false">
+            <div class="swiper-wrapper" id="swiper-wrapper-f6e3810881028c3a66" aria-live="polite" style="transform: translate3d(0px, 0px, 0px);">
+              
+                
+
+                
+                  
+                    
+                    
+
+                
+
+                <div class="swiper-slide swiper-slide-active" data-media-id="67655238320503" data-variant-id="56820292583799" role="group" aria-label="1 / 4" style="width: 326px; margin-right: 2px;">
+                  <img src="//shift-sketch.myshopify.com/cdn/shop/files/02-pads.jpg?v=1763974020&amp;width=2603" alt="Daily List Pad" srcset="//shift-sketch.myshopify.com/cdn/shop/files/02-pads.jpg?v=1763974020&amp;width=360 360w, //shift-sketch.myshopify.com/cdn/shop/files/02-pads.jpg?v=1763974020&amp;width=535 535w, //shift-sketch.myshopify.com/cdn/shop/files/02-pads.jpg?v=1763974020&amp;width=720 720w, //shift-sketch.myshopify.com/cdn/shop/files/02-pads.jpg?v=1763974020&amp;width=940 940w, //shift-sketch.myshopify.com/cdn/shop/files/02-pads.jpg?v=1763974020&amp;width=1066 1066w, //shift-sketch.myshopify.com/cdn/shop/files/02-pads.jpg?v=1763974020&amp;width=1200 1200w, //shift-sketch.myshopify.com/cdn/shop/files/02-pads.jpg?v=1763974020&amp;width=1400 1400w, //shift-sketch.myshopify.com/cdn/shop/files/02-pads.jpg?v=1763974020&amp;width=1600 1600w, //shift-sketch.myshopify.com/cdn/shop/files/02-pads.jpg?v=1763974020&amp;width=1800 1800w, //shift-sketch.myshopify.com/cdn/shop/files/02-pads.jpg?v=1763974020&amp;width=2000 2000w, //shift-sketch.myshopify.com/cdn/shop/files/02-pads.jpg?v=1763974020&amp;width=2200 2200w, //shift-sketch.myshopify.com/cdn/shop/files/02-pads.jpg?v=1763974020&amp;width=2400 2400w, //shift-sketch.myshopify.com/cdn/shop/files/02-pads.jpg?v=1763974020&amp;width=2600 2600w" width="2603" height="3470" loading="lazy" class="motion-reduce media" sizes="(min-width: 1200px) calc(1.03 * (100vw / 4)),(min-width: 990px) calc(1.03 * (100vw / 3)),(min-width: 576px) calc(1.03 * (100vw / 2)),calc(1.03 * 100vw)" style="object-fit: cover;">
+                </div>
+              
+                
+
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+
+                
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                
+
+                <div class="swiper-slide swiper-slide-next" data-media-id="67655238222199" role="group" aria-label="2 / 4" style="width: 326px; margin-right: 2px;">
+                  <img src="//shift-sketch.myshopify.com/cdn/shop/files/02-pads-hover-01.jpg?v=1763974021&amp;width=1536" alt="Daily List Pad" srcset="//shift-sketch.myshopify.com/cdn/shop/files/02-pads-hover-01.jpg?v=1763974021&amp;width=360 360w, //shift-sketch.myshopify.com/cdn/shop/files/02-pads-hover-01.jpg?v=1763974021&amp;width=535 535w, //shift-sketch.myshopify.com/cdn/shop/files/02-pads-hover-01.jpg?v=1763974021&amp;width=720 720w, //shift-sketch.myshopify.com/cdn/shop/files/02-pads-hover-01.jpg?v=1763974021&amp;width=940 940w, //shift-sketch.myshopify.com/cdn/shop/files/02-pads-hover-01.jpg?v=1763974021&amp;width=1066 1066w, //shift-sketch.myshopify.com/cdn/shop/files/02-pads-hover-01.jpg?v=1763974021&amp;width=1200 1200w, //shift-sketch.myshopify.com/cdn/shop/files/02-pads-hover-01.jpg?v=1763974021&amp;width=1400 1400w" width="1536" height="2048" loading="lazy" class="motion-reduce media" sizes="(min-width: 1200px) calc(1.03 * (100vw / 4)),(min-width: 990px) calc(1.03 * (100vw / 3)),(min-width: 576px) calc(1.03 * (100vw / 2)),calc(1.03 * 100vw)" style="object-fit: cover;">
+                </div>
+              
+                
+
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+
+                
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                
+
+                <div class="swiper-slide" data-media-id="67655238254967" role="group" aria-label="3 / 4" style="width: 326px; margin-right: 2px;">
+                  <img src="//shift-sketch.myshopify.com/cdn/shop/files/02-pads-hover-02.jpg?v=1763974021&amp;width=1704" alt="Daily List Pad" srcset="//shift-sketch.myshopify.com/cdn/shop/files/02-pads-hover-02.jpg?v=1763974021&amp;width=360 360w, //shift-sketch.myshopify.com/cdn/shop/files/02-pads-hover-02.jpg?v=1763974021&amp;width=535 535w, //shift-sketch.myshopify.com/cdn/shop/files/02-pads-hover-02.jpg?v=1763974021&amp;width=720 720w, //shift-sketch.myshopify.com/cdn/shop/files/02-pads-hover-02.jpg?v=1763974021&amp;width=940 940w, //shift-sketch.myshopify.com/cdn/shop/files/02-pads-hover-02.jpg?v=1763974021&amp;width=1066 1066w, //shift-sketch.myshopify.com/cdn/shop/files/02-pads-hover-02.jpg?v=1763974021&amp;width=1200 1200w, //shift-sketch.myshopify.com/cdn/shop/files/02-pads-hover-02.jpg?v=1763974021&amp;width=1400 1400w, //shift-sketch.myshopify.com/cdn/shop/files/02-pads-hover-02.jpg?v=1763974021&amp;width=1600 1600w" width="1704" height="2272" loading="lazy" class="motion-reduce media" sizes="(min-width: 1200px) calc(1.03 * (100vw / 4)),(min-width: 990px) calc(1.03 * (100vw / 3)),(min-width: 576px) calc(1.03 * (100vw / 2)),calc(1.03 * 100vw)" style="object-fit: cover;">
+                </div>
+              
+                
+
+                
+                  
+                
+                  
+                    
+                    
+
+                
+
+                <div class="swiper-slide" data-media-id="67655238287735" data-variant-id="56820292616567" role="group" aria-label="4 / 4" style="width: 326px; margin-right: 2px;">
+                  <img src="//shift-sketch.myshopify.com/cdn/shop/files/02-pads-hover-03.jpg?v=1763974021&amp;width=1536" alt="Daily List Pad" srcset="//shift-sketch.myshopify.com/cdn/shop/files/02-pads-hover-03.jpg?v=1763974021&amp;width=360 360w, //shift-sketch.myshopify.com/cdn/shop/files/02-pads-hover-03.jpg?v=1763974021&amp;width=535 535w, //shift-sketch.myshopify.com/cdn/shop/files/02-pads-hover-03.jpg?v=1763974021&amp;width=720 720w, //shift-sketch.myshopify.com/cdn/shop/files/02-pads-hover-03.jpg?v=1763974021&amp;width=940 940w, //shift-sketch.myshopify.com/cdn/shop/files/02-pads-hover-03.jpg?v=1763974021&amp;width=1066 1066w, //shift-sketch.myshopify.com/cdn/shop/files/02-pads-hover-03.jpg?v=1763974021&amp;width=1200 1200w, //shift-sketch.myshopify.com/cdn/shop/files/02-pads-hover-03.jpg?v=1763974021&amp;width=1400 1400w" width="1536" height="2048" loading="lazy" class="motion-reduce media" sizes="(min-width: 1200px) calc(1.03 * (100vw / 4)),(min-width: 990px) calc(1.03 * (100vw / 3)),(min-width: 576px) calc(1.03 * (100vw / 2)),calc(1.03 * 100vw)" style="object-fit: cover;">
+                </div>
+              
+            </div>
+            <div class="product-button-group">
+              <div class="product-slider-button-prev">
+                <div class="swiper-button-prev swiper-button-disabled" tabindex="-1" role="button" aria-label="Previous slide" aria-controls="swiper-wrapper-f6e3810881028c3a66" aria-disabled="true"><svg class="icon icon-arrow-slider-left" width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M14 2L6 10L14 18" stroke="currentColor"></path>
+</svg>
+</div>
+              </div>
+
+              <div class="product-slider-button-next">
+                <div class="swiper-button-next" tabindex="0" role="button" aria-label="Next slide" aria-controls="swiper-wrapper-f6e3810881028c3a66" aria-disabled="false"><svg class="icon icon-arrow-slider-right" width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M6 2L14 10L6 18" stroke="currentColor"></path>
+</svg>
+</div>
+              </div>
+            </div>
+            <div class="swiper-pagination product-card-pagination swiper-pagination-default swiper-pagination-clickable swiper-pagination-bullets swiper-pagination-horizontal"><span class="swiper-pagination-bullet swiper-pagination-bullet-active" tabindex="0" role="button" aria-label="Go to slide 1" aria-current="true"></span><span class="swiper-pagination-bullet" tabindex="0" role="button" aria-label="Go to slide 2"></span><span class="swiper-pagination-bullet" tabindex="0" role="button" aria-label="Go to slide 3"></span><span class="swiper-pagination-bullet" tabindex="0" role="button" aria-label="Go to slide 4"></span></div>
+          <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
+        
+</div><div class="product-card__top">
+        
+<div class="product-card__badges body-normal"></div>
+      </div><div class="product-card__quickview product-card__quickview--mobile-true no-js-hidden">
+        <modal-opener data-modal="#QuickView-15256136581495">
+          <button class="product-card__button button button--primary focus-inset" aria-haspopup="dialog" data-product-url="/products/daily-list-pad" aria-label="Quick view">
+            <div class="button__content">
+              <span class="product-card__quickview-text button__label" data-label="Quick view">Quick view</span>
+              <span class="product-card__mobile-icon button__icon">
+                <svg width="22" height="22" viewBox="0 0 22 22" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M2.66745 12.0748C2.35434 11.3936 2.35434 10.6077 2.66745 9.92654C4.11679 6.77337 7.30311 4.58398 11.0008 4.58398C14.6985 4.58398 17.8848 6.77338 19.3341 9.92654C19.6472 10.6077 19.6472 11.3936 19.3341 12.0748C17.8848 15.2279 14.6985 17.4173 11.0008 17.4173C7.30311 17.4173 4.11679 15.2279 2.66745 12.0748Z" stroke="currentColor" stroke-width="1.5"></path>
+  <path d="M13.7508 11.0007C13.7508 12.5194 12.5196 13.7507 11.0008 13.7507C9.48201 13.7507 8.25079 12.5194 8.25079 11.0007C8.25079 9.48187 9.48201 8.25065 11.0008 8.25065C12.5196 8.25065 13.7508 9.48187 13.7508 11.0007Z" stroke="currentColor" stroke-width="1.5"></path>
+</svg>
+
+              </span>
+            </div>
+            <div class="loading-overlay__spinner hidden">
+              <svg aria-hidden="true" focusable="false" role="presentation" class="spinner" viewBox="0 0 66 66" xmlns="http://www.w3.org/2000/svg">
+  <circle class="path" fill="none" stroke-width="5" cx="33" cy="33" r="30"></circle>
+</svg>
+
+            </div>
+          </button>
+        </modal-opener>
+
+        
+
+
+      </div></div>
+
+  
+  <div class="product-card__information">
+    <div class="product-card__information-top"><h2 class="product-card__title">
+        <a class="focus-inset" href="/products/daily-list-pad" aria-label="Daily List Pad">Daily List Pad</a>
+      </h2>
+
+      <div class="product-card__price-group">
+        
+<div class="price">
+  <dl class="price-text"><div class="price__regular">
+      <dt class="visually-hidden">Regular price</dt>
+      <dd>
+        <span class="price-item price-item--regular">$4.00</span>
+      </dd>
+    </div>
+    <div class="price__sale">
+      <dt class="visually-hidden">Sale price</dt>
+      <dd>
+        <span class="price-item price-item--sale">$4.00</span>
+      </dd>
+      <dt class="visually-hidden">Regular price</dt>
+      <dd class="price__compare">
+        <s class="price-item price-item--regular"></s>
+      </dd>
+    </div>
+  </dl>
+
+  <dl class="unit-price hidden">
+    <dt class="visually-hidden">Unit price</dt>
+    <dd></dd>
+  </dl>
+</div>
+
+      </div>
+      
+
+          <div class="product-card__description body-small">310 × 450 mm</div><div class="product-card__error body-xs" role="alert" hidden=""></div>
+    </div>
+
+    
+<div class="product-card__information-bottom" tabindex="0"><div class="product-card__color-swatches">
+                
+                  <div class="body-small js-option-selected-value" data-option-position="1">
+                    Purple</div>
+                
+                <div class="product-card__option-group js-card-option-group" data-option-position="1">
+                  
+
+
+  
+
+  
+  
+  
+
+<input type="radio" id="template--27266934243703__product-grid-1-0-15256136581495-8" name="Color-template--27266934243703__product-grid-15256136581495-8" value="Purple" data-variant-id="56820292583799" form="product-form-template--27266934243703__product-grid" checked="" tabindex="-1" aria-label="Purple" data-option-value-id="12611754000759" style="">
+    
+<label for="template--27266934243703__product-grid-1-0-15256136581495-8" class="color-swatch" style="--swatch-color: rgb(165 77 207);" title="Purple" tabindex="0" onkeydown="if(event.key==='Enter'||event.key===' '){event.preventDefault();document.getElementById(this.getAttribute('for')).click();}" data-unavailable-color-label="N/A">
+        <span class="visually-hidden">Purple</span>
+      </label>
+
+  
+
+  
+  
+  
+
+<input type="radio" id="template--27266934243703__product-grid-1-1-15256136581495-8" name="Color-template--27266934243703__product-grid-15256136581495-8" value="Gray" data-variant-id="56820292616567" form="product-form-template--27266934243703__product-grid" tabindex="-1" aria-label="Gray" data-option-value-id="12611754033527" style="">
+    
+<label for="template--27266934243703__product-grid-1-1-15256136581495-8" class="color-swatch" style="--swatch-color: rgb(128 128 128);" title="Gray" tabindex="0" onkeydown="if(event.key==='Enter'||event.key===' '){event.preventDefault();document.getElementById(this.getAttribute('for')).click();}" data-unavailable-color-label="N/A">
+        <span class="visually-hidden">Gray</span>
+      </label>
+
+  
+
+  
+  
+  
+
+<input type="radio" id="template--27266934243703__product-grid-1-2-15256136581495-8" name="Color-template--27266934243703__product-grid-15256136581495-8" value="Pink" data-variant-id="56820292649335" form="product-form-template--27266934243703__product-grid" tabindex="-1" aria-label="Pink" data-option-value-id="12611754066295" style="">
+    
+<label for="template--27266934243703__product-grid-1-2-15256136581495-8" class="color-swatch" style="--swatch-color: rgb(255 192 203);" title="Pink" tabindex="0" onkeydown="if(event.key==='Enter'||event.key===' '){event.preventDefault();document.getElementById(this.getAttribute('for')).click();}" data-unavailable-color-label="N/A">
+        <span class="visually-hidden">Pink</span>
+      </label>
+
+  
+
+  
+  
+  
+
+<input type="radio" id="template--27266934243703__product-grid-1-3-15256136581495-8" name="Color-template--27266934243703__product-grid-15256136581495-8" value="Red" data-variant-id="56820292682103" form="product-form-template--27266934243703__product-grid" tabindex="-1" aria-label="Red" data-option-value-id="12611754099063" style="">
+    
+<label for="template--27266934243703__product-grid-1-3-15256136581495-8" class="color-swatch" style="--swatch-color: rgb(246 31 31);" title="Red" tabindex="0" onkeydown="if(event.key==='Enter'||event.key===' '){event.preventDefault();document.getElementById(this.getAttribute('for')).click();}" data-unavailable-color-label="N/A">
+        <span class="visually-hidden">Red</span>
+      </label>
+
+  
+
+  
+  
+  
+
+<input type="radio" id="template--27266934243703__product-grid-1-4-15256136581495-8" name="Color-template--27266934243703__product-grid-15256136581495-8" value="Green" data-variant-id="56820292714871" form="product-form-template--27266934243703__product-grid" tabindex="-1" aria-label="Green" data-option-value-id="12611754131831" style="">
+    
+<label for="template--27266934243703__product-grid-1-4-15256136581495-8" class="color-swatch" style="--swatch-color: rgb(5 170 61);" title="Green" tabindex="0" onkeydown="if(event.key==='Enter'||event.key===' '){event.preventDefault();document.getElementById(this.getAttribute('for')).click();}" data-unavailable-color-label="N/A">
+        <span class="visually-hidden">Green</span>
+      </label>
+
+  
+
+  
+  
+  
+
+<input type="radio" id="template--27266934243703__product-grid-1-5-15256136581495-8" name="Color-template--27266934243703__product-grid-15256136581495-8" value="Blue" data-variant-id="56820292747639" form="product-form-template--27266934243703__product-grid" tabindex="-1" aria-label="Blue" data-option-value-id="12611754164599" style="">
+    
+<label for="template--27266934243703__product-grid-1-5-15256136581495-8" class="color-swatch" style="--swatch-color: rgb(0 91 211);" title="Blue" tabindex="0" onkeydown="if(event.key==='Enter'||event.key===' '){event.preventDefault();document.getElementById(this.getAttribute('for')).click();}" data-unavailable-color-label="N/A">
+        <span class="visually-hidden">Blue</span>
+      </label>
+                </div>
+
+                
+              </div></div></div><script type="application/json" data-product-card-variants="">
+      [{"id":56820292583799,"title":"Purple","option1":"Purple","option2":null,"option3":null,"sku":null,"requires_shipping":true,"taxable":true,"featured_image":{"id":82565672698231,"product_id":15256136581495,"position":1,"created_at":"2025-11-24T03:46:57-05:00","updated_at":"2025-11-24T03:47:00-05:00","alt":null,"width":2603,"height":3470,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/02-pads.jpg?v=1763974020","variant_ids":[56820292583799]},"available":true,"name":"Daily List Pad - Purple","public_title":"Purple","options":["Purple"],"price":400,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","featured_media":{"alt":null,"id":67655238320503,"position":1,"preview_image":{"aspect_ratio":0.75,"height":3470,"width":2603,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/02-pads.jpg?v=1763974020"}},"requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56820292616567,"title":"Gray","option1":"Gray","option2":null,"option3":null,"sku":null,"requires_shipping":true,"taxable":true,"featured_image":{"id":82565672665463,"product_id":15256136581495,"position":4,"created_at":"2025-11-24T03:46:57-05:00","updated_at":"2025-11-24T03:47:01-05:00","alt":null,"width":1536,"height":2048,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/02-pads-hover-03.jpg?v=1763974021","variant_ids":[56820292616567,56820292649335,56820292682103,56820292714871,56820292747639]},"available":true,"name":"Daily List Pad - Gray","public_title":"Gray","options":["Gray"],"price":400,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","featured_media":{"alt":null,"id":67655238287735,"position":4,"preview_image":{"aspect_ratio":0.75,"height":2048,"width":1536,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/02-pads-hover-03.jpg?v=1763974021"}},"requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56820292649335,"title":"Pink","option1":"Pink","option2":null,"option3":null,"sku":null,"requires_shipping":true,"taxable":true,"featured_image":{"id":82565672665463,"product_id":15256136581495,"position":4,"created_at":"2025-11-24T03:46:57-05:00","updated_at":"2025-11-24T03:47:01-05:00","alt":null,"width":1536,"height":2048,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/02-pads-hover-03.jpg?v=1763974021","variant_ids":[56820292616567,56820292649335,56820292682103,56820292714871,56820292747639]},"available":true,"name":"Daily List Pad - Pink","public_title":"Pink","options":["Pink"],"price":400,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","featured_media":{"alt":null,"id":67655238287735,"position":4,"preview_image":{"aspect_ratio":0.75,"height":2048,"width":1536,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/02-pads-hover-03.jpg?v=1763974021"}},"requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56820292682103,"title":"Red","option1":"Red","option2":null,"option3":null,"sku":null,"requires_shipping":true,"taxable":true,"featured_image":{"id":82565672665463,"product_id":15256136581495,"position":4,"created_at":"2025-11-24T03:46:57-05:00","updated_at":"2025-11-24T03:47:01-05:00","alt":null,"width":1536,"height":2048,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/02-pads-hover-03.jpg?v=1763974021","variant_ids":[56820292616567,56820292649335,56820292682103,56820292714871,56820292747639]},"available":true,"name":"Daily List Pad - Red","public_title":"Red","options":["Red"],"price":400,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","featured_media":{"alt":null,"id":67655238287735,"position":4,"preview_image":{"aspect_ratio":0.75,"height":2048,"width":1536,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/02-pads-hover-03.jpg?v=1763974021"}},"requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56820292714871,"title":"Green","option1":"Green","option2":null,"option3":null,"sku":null,"requires_shipping":true,"taxable":true,"featured_image":{"id":82565672665463,"product_id":15256136581495,"position":4,"created_at":"2025-11-24T03:46:57-05:00","updated_at":"2025-11-24T03:47:01-05:00","alt":null,"width":1536,"height":2048,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/02-pads-hover-03.jpg?v=1763974021","variant_ids":[56820292616567,56820292649335,56820292682103,56820292714871,56820292747639]},"available":true,"name":"Daily List Pad - Green","public_title":"Green","options":["Green"],"price":400,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","featured_media":{"alt":null,"id":67655238287735,"position":4,"preview_image":{"aspect_ratio":0.75,"height":2048,"width":1536,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/02-pads-hover-03.jpg?v=1763974021"}},"requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56820292747639,"title":"Blue","option1":"Blue","option2":null,"option3":null,"sku":null,"requires_shipping":true,"taxable":true,"featured_image":{"id":82565672665463,"product_id":15256136581495,"position":4,"created_at":"2025-11-24T03:46:57-05:00","updated_at":"2025-11-24T03:47:01-05:00","alt":null,"width":1536,"height":2048,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/02-pads-hover-03.jpg?v=1763974021","variant_ids":[56820292616567,56820292649335,56820292682103,56820292714871,56820292747639]},"available":true,"name":"Daily List Pad - Blue","public_title":"Blue","options":["Blue"],"price":400,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","featured_media":{"alt":null,"id":67655238287735,"position":4,"preview_image":{"aspect_ratio":0.75,"height":2048,"width":1536,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/02-pads-hover-03.jpg?v=1763974021"}},"requires_selling_plan":false,"selling_plan_allocations":[]}]
+    </script>
+    <script type="application/json" data-product-card-featured-media="">
+      {"alt":null,"id":67655238320503,"position":1,"preview_image":{"aspect_ratio":0.75,"height":3470,"width":2603,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/02-pads.jpg?v=1763974020"},"aspect_ratio":0.75,"height":3470,"media_type":"image","src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/02-pads.jpg?v=1763974020","width":2603}
+    </script>
+    <span class="hidden" data-product-card-options="" data-product-title="Daily List Pad" data-product-columns="4" data-product-columns-mobile="1" data-product-ratio="0.76" data-product-fit="cover" data-product-has-price-varies="false"></span><a href="/products/daily-list-pad" class="product-card__link-overlay focus-inset" aria-label="Daily List Pad Product link"></a></product-card>
+
+                </div><div class="collection-product-card">
+                  
+
+
+<product-card class="product-card product-card--mobile-1 product-card_image-linked" data-product="daily-structure-planner" data-product-id="15252589969783" data-image-linked="true" data-card-color-swatches="true" tabindex="0" style="--card-padding-bottom: 131.7%; --slide-count: 5">
+  <div class="product-card__inner">
+    <div class="product-card__media">
+
+          <div class="swiper-container product-card-js global-variant-js-media-list slider_started swiper-initialized swiper-horizontal swiper-backface-hidden" data-loop="false">
+            <div class="swiper-wrapper" id="swiper-wrapper-54076e1ca85fc7a5" aria-live="polite" style="transform: translate3d(0px, 0px, 0px);">
+              
+                
+
+                
+                  
+                    
+                    
+
+                
+
+                <div class="swiper-slide swiper-slide-active" data-media-id="67602156192119" data-variant-id="56219239186807" role="group" aria-label="1 / 5" style="width: 326px; margin-right: 2px;">
+                  <img src="//shift-sketch.myshopify.com/cdn/shop/files/01-planner.jpg?v=1763717411&amp;width=1701" alt="Daily Structure Planner" srcset="//shift-sketch.myshopify.com/cdn/shop/files/01-planner.jpg?v=1763717411&amp;width=360 360w, //shift-sketch.myshopify.com/cdn/shop/files/01-planner.jpg?v=1763717411&amp;width=535 535w, //shift-sketch.myshopify.com/cdn/shop/files/01-planner.jpg?v=1763717411&amp;width=720 720w, //shift-sketch.myshopify.com/cdn/shop/files/01-planner.jpg?v=1763717411&amp;width=940 940w, //shift-sketch.myshopify.com/cdn/shop/files/01-planner.jpg?v=1763717411&amp;width=1066 1066w, //shift-sketch.myshopify.com/cdn/shop/files/01-planner.jpg?v=1763717411&amp;width=1200 1200w, //shift-sketch.myshopify.com/cdn/shop/files/01-planner.jpg?v=1763717411&amp;width=1400 1400w, //shift-sketch.myshopify.com/cdn/shop/files/01-planner.jpg?v=1763717411&amp;width=1600 1600w" width="1701" height="2268" loading="lazy" class="motion-reduce media" sizes="(min-width: 1200px) calc(1.03 * (100vw / 4)),(min-width: 990px) calc(1.03 * (100vw / 3)),(min-width: 576px) calc(1.03 * (100vw / 2)),calc(1.03 * 100vw)" style="object-fit: cover;">
+                </div>
+              
+                
+
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+
+                
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                
+
+                <div class="swiper-slide swiper-slide-next" data-media-id="67602156061047" role="group" aria-label="2 / 5" style="width: 326px; margin-right: 2px;">
+                  <img src="//shift-sketch.myshopify.com/cdn/shop/files/01-planner-hover-01.jpg?v=1763717411&amp;width=1688" alt="Daily Structure Planner" srcset="//shift-sketch.myshopify.com/cdn/shop/files/01-planner-hover-01.jpg?v=1763717411&amp;width=360 360w, //shift-sketch.myshopify.com/cdn/shop/files/01-planner-hover-01.jpg?v=1763717411&amp;width=535 535w, //shift-sketch.myshopify.com/cdn/shop/files/01-planner-hover-01.jpg?v=1763717411&amp;width=720 720w, //shift-sketch.myshopify.com/cdn/shop/files/01-planner-hover-01.jpg?v=1763717411&amp;width=940 940w, //shift-sketch.myshopify.com/cdn/shop/files/01-planner-hover-01.jpg?v=1763717411&amp;width=1066 1066w, //shift-sketch.myshopify.com/cdn/shop/files/01-planner-hover-01.jpg?v=1763717411&amp;width=1200 1200w, //shift-sketch.myshopify.com/cdn/shop/files/01-planner-hover-01.jpg?v=1763717411&amp;width=1400 1400w, //shift-sketch.myshopify.com/cdn/shop/files/01-planner-hover-01.jpg?v=1763717411&amp;width=1600 1600w" width="1688" height="2250" loading="lazy" class="motion-reduce media" sizes="(min-width: 1200px) calc(1.03 * (100vw / 4)),(min-width: 990px) calc(1.03 * (100vw / 3)),(min-width: 576px) calc(1.03 * (100vw / 2)),calc(1.03 * 100vw)" style="object-fit: cover;">
+                </div>
+              
+                
+
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+
+                
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                
+
+                <div class="swiper-slide" data-media-id="67602156093815" role="group" aria-label="3 / 5" style="width: 326px; margin-right: 2px;">
+                  <img src="//shift-sketch.myshopify.com/cdn/shop/files/01-planner-hover-02.jpg?v=1763717411&amp;width=1688" alt="Daily Structure Planner" srcset="//shift-sketch.myshopify.com/cdn/shop/files/01-planner-hover-02.jpg?v=1763717411&amp;width=360 360w, //shift-sketch.myshopify.com/cdn/shop/files/01-planner-hover-02.jpg?v=1763717411&amp;width=535 535w, //shift-sketch.myshopify.com/cdn/shop/files/01-planner-hover-02.jpg?v=1763717411&amp;width=720 720w, //shift-sketch.myshopify.com/cdn/shop/files/01-planner-hover-02.jpg?v=1763717411&amp;width=940 940w, //shift-sketch.myshopify.com/cdn/shop/files/01-planner-hover-02.jpg?v=1763717411&amp;width=1066 1066w, //shift-sketch.myshopify.com/cdn/shop/files/01-planner-hover-02.jpg?v=1763717411&amp;width=1200 1200w, //shift-sketch.myshopify.com/cdn/shop/files/01-planner-hover-02.jpg?v=1763717411&amp;width=1400 1400w, //shift-sketch.myshopify.com/cdn/shop/files/01-planner-hover-02.jpg?v=1763717411&amp;width=1600 1600w" width="1688" height="2250" loading="lazy" class="motion-reduce media" sizes="(min-width: 1200px) calc(1.03 * (100vw / 4)),(min-width: 990px) calc(1.03 * (100vw / 3)),(min-width: 576px) calc(1.03 * (100vw / 2)),calc(1.03 * 100vw)" style="object-fit: cover;">
+                </div>
+              
+                
+
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+
+                
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                
+
+                <div class="swiper-slide" data-media-id="67602156126583" role="group" aria-label="4 / 5" style="width: 326px; margin-right: 2px;">
+                  <img src="//shift-sketch.myshopify.com/cdn/shop/files/01-planner-hover-03.jpg?v=1763717412&amp;width=1800" alt="Daily Structure Planner" srcset="//shift-sketch.myshopify.com/cdn/shop/files/01-planner-hover-03.jpg?v=1763717412&amp;width=360 360w, //shift-sketch.myshopify.com/cdn/shop/files/01-planner-hover-03.jpg?v=1763717412&amp;width=535 535w, //shift-sketch.myshopify.com/cdn/shop/files/01-planner-hover-03.jpg?v=1763717412&amp;width=720 720w, //shift-sketch.myshopify.com/cdn/shop/files/01-planner-hover-03.jpg?v=1763717412&amp;width=940 940w, //shift-sketch.myshopify.com/cdn/shop/files/01-planner-hover-03.jpg?v=1763717412&amp;width=1066 1066w, //shift-sketch.myshopify.com/cdn/shop/files/01-planner-hover-03.jpg?v=1763717412&amp;width=1200 1200w, //shift-sketch.myshopify.com/cdn/shop/files/01-planner-hover-03.jpg?v=1763717412&amp;width=1400 1400w, //shift-sketch.myshopify.com/cdn/shop/files/01-planner-hover-03.jpg?v=1763717412&amp;width=1600 1600w, //shift-sketch.myshopify.com/cdn/shop/files/01-planner-hover-03.jpg?v=1763717412&amp;width=1800 1800w" width="1800" height="2400" loading="lazy" class="motion-reduce media" sizes="(min-width: 1200px) calc(1.03 * (100vw / 4)),(min-width: 990px) calc(1.03 * (100vw / 3)),(min-width: 576px) calc(1.03 * (100vw / 2)),calc(1.03 * 100vw)" style="object-fit: cover;">
+                </div>
+              
+                
+
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+
+                
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                
+
+                <div class="swiper-slide" data-media-id="67602156159351" role="group" aria-label="5 / 5" style="width: 326px; margin-right: 2px;">
+                  <img src="//shift-sketch.myshopify.com/cdn/shop/files/01-planner-hover-04.jpg?v=1763717411&amp;width=1856" alt="Daily Structure Planner" srcset="//shift-sketch.myshopify.com/cdn/shop/files/01-planner-hover-04.jpg?v=1763717411&amp;width=360 360w, //shift-sketch.myshopify.com/cdn/shop/files/01-planner-hover-04.jpg?v=1763717411&amp;width=535 535w, //shift-sketch.myshopify.com/cdn/shop/files/01-planner-hover-04.jpg?v=1763717411&amp;width=720 720w, //shift-sketch.myshopify.com/cdn/shop/files/01-planner-hover-04.jpg?v=1763717411&amp;width=940 940w, //shift-sketch.myshopify.com/cdn/shop/files/01-planner-hover-04.jpg?v=1763717411&amp;width=1066 1066w, //shift-sketch.myshopify.com/cdn/shop/files/01-planner-hover-04.jpg?v=1763717411&amp;width=1200 1200w, //shift-sketch.myshopify.com/cdn/shop/files/01-planner-hover-04.jpg?v=1763717411&amp;width=1400 1400w, //shift-sketch.myshopify.com/cdn/shop/files/01-planner-hover-04.jpg?v=1763717411&amp;width=1600 1600w, //shift-sketch.myshopify.com/cdn/shop/files/01-planner-hover-04.jpg?v=1763717411&amp;width=1800 1800w" width="1856" height="2464" loading="lazy" class="motion-reduce media" sizes="(min-width: 1200px) calc(1.03 * (100vw / 4)),(min-width: 990px) calc(1.03 * (100vw / 3)),(min-width: 576px) calc(1.03 * (100vw / 2)),calc(1.03 * 100vw)" style="object-fit: cover;">
+                </div>
+              
+            </div>
+            <div class="product-button-group">
+              <div class="product-slider-button-prev">
+                <div class="swiper-button-prev swiper-button-disabled" tabindex="-1" role="button" aria-label="Previous slide" aria-controls="swiper-wrapper-54076e1ca85fc7a5" aria-disabled="true"><svg class="icon icon-arrow-slider-left" width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M14 2L6 10L14 18" stroke="currentColor"></path>
+</svg>
+</div>
+              </div>
+
+              <div class="product-slider-button-next">
+                <div class="swiper-button-next" tabindex="0" role="button" aria-label="Next slide" aria-controls="swiper-wrapper-54076e1ca85fc7a5" aria-disabled="false"><svg class="icon icon-arrow-slider-right" width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M6 2L14 10L6 18" stroke="currentColor"></path>
+</svg>
+</div>
+              </div>
+            </div>
+            <div class="swiper-pagination product-card-pagination swiper-pagination-default swiper-pagination-clickable swiper-pagination-bullets swiper-pagination-horizontal"><span class="swiper-pagination-bullet swiper-pagination-bullet-active" tabindex="0" role="button" aria-label="Go to slide 1" aria-current="true"></span><span class="swiper-pagination-bullet" tabindex="0" role="button" aria-label="Go to slide 2"></span><span class="swiper-pagination-bullet" tabindex="0" role="button" aria-label="Go to slide 3"></span><span class="swiper-pagination-bullet" tabindex="0" role="button" aria-label="Go to slide 4"></span><span class="swiper-pagination-bullet" tabindex="0" role="button" aria-label="Go to slide 5"></span></div>
+          <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
+        
+</div><div class="product-card__top">
+        
+<div class="product-card__badges body-normal"><span class="badge badge--custom" aria-hidden="true">New Arrival</span></div>
+      </div><div class="product-card__quickview product-card__quickview--mobile-true no-js-hidden">
+        <modal-opener data-modal="#QuickView-15252589969783">
+          <button class="product-card__button button button--primary focus-inset" aria-haspopup="dialog" data-product-url="/products/daily-structure-planner" aria-label="Quick view">
+            <div class="button__content">
+              <span class="product-card__quickview-text button__label" data-label="Quick view">Quick view</span>
+              <span class="product-card__mobile-icon button__icon">
+                <svg width="22" height="22" viewBox="0 0 22 22" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M2.66745 12.0748C2.35434 11.3936 2.35434 10.6077 2.66745 9.92654C4.11679 6.77337 7.30311 4.58398 11.0008 4.58398C14.6985 4.58398 17.8848 6.77338 19.3341 9.92654C19.6472 10.6077 19.6472 11.3936 19.3341 12.0748C17.8848 15.2279 14.6985 17.4173 11.0008 17.4173C7.30311 17.4173 4.11679 15.2279 2.66745 12.0748Z" stroke="currentColor" stroke-width="1.5"></path>
+  <path d="M13.7508 11.0007C13.7508 12.5194 12.5196 13.7507 11.0008 13.7507C9.48201 13.7507 8.25079 12.5194 8.25079 11.0007C8.25079 9.48187 9.48201 8.25065 11.0008 8.25065C12.5196 8.25065 13.7508 9.48187 13.7508 11.0007Z" stroke="currentColor" stroke-width="1.5"></path>
+</svg>
+
+              </span>
+            </div>
+            <div class="loading-overlay__spinner hidden">
+              <svg aria-hidden="true" focusable="false" role="presentation" class="spinner" viewBox="0 0 66 66" xmlns="http://www.w3.org/2000/svg">
+  <circle class="path" fill="none" stroke-width="5" cx="33" cy="33" r="30"></circle>
+</svg>
+
+            </div>
+          </button>
+        </modal-opener>
+
+        
+
+
+      </div></div>
+
+  
+  <div class="product-card__information">
+    <div class="product-card__information-top"><h2 class="product-card__title">
+        <a class="focus-inset" href="/products/daily-structure-planner" aria-label="Daily Structure Planner">Daily Structure Planner</a>
+      </h2>
+
+      <div class="product-card__price-group">
+        
+<div class="price">
+  <dl class="price-text"><div class="price__regular">
+      <dt class="visually-hidden">Regular price</dt>
+      <dd>
+        <span class="price-item price-item--regular">$14.00</span>
+      </dd>
+    </div>
+    <div class="price__sale">
+      <dt class="visually-hidden">Sale price</dt>
+      <dd>
+        <span class="price-item price-item--sale">$14.00</span>
+      </dd>
+      <dt class="visually-hidden">Regular price</dt>
+      <dd class="price__compare">
+        <s class="price-item price-item--regular"></s>
+      </dd>
+    </div>
+  </dl>
+
+  <dl class="unit-price hidden">
+    <dt class="visually-hidden">Unit price</dt>
+    <dd></dd>
+  </dl>
+</div>
+
+      </div>
+      
+
+          <div class="product-card__description body-small">210 x 105 mm</div><div class="product-card__error body-xs" role="alert" hidden=""></div>
+    </div>
+
+    
+<div class="product-card__information-bottom" tabindex="0"><div class="product-card__color-swatches">
+                
+                  <div class="body-small js-option-selected-value" data-option-position="2">
+                    Blue</div>
+                
+                <div class="product-card__option-group js-card-option-group" data-option-position="2">
+                  
+
+
+  
+
+  
+  
+  
+
+<input type="radio" id="template--27266934243703__product-grid-2-0-15252589969783-9" name="Color-template--27266934243703__product-grid-15252589969783-9" value="Blue" data-variant-id="56219239186807" form="product-form-template--27266934243703__product-grid" checked="" tabindex="-1" aria-label="Blue" data-option-value-id="12613564039543" style="">
+    
+<label for="template--27266934243703__product-grid-2-0-15252589969783-9" class="color-swatch" style="--swatch-color: rgb(0 91 211);" title="Blue" tabindex="0" onkeydown="if(event.key==='Enter'||event.key===' '){event.preventDefault();document.getElementById(this.getAttribute('for')).click();}" data-unavailable-color-label="N/A">
+        <span class="visually-hidden">Blue</span>
+      </label>
+
+  
+
+  
+  
+  
+
+<input type="radio" id="template--27266934243703__product-grid-2-1-15252589969783-9" name="Color-template--27266934243703__product-grid-15252589969783-9" value="Red" data-variant-id="56821943435639" form="product-form-template--27266934243703__product-grid" tabindex="-1" aria-label="Red" data-option-value-id="12613564072311" style="">
+    
+<label for="template--27266934243703__product-grid-2-1-15252589969783-9" class="color-swatch" style="--swatch-color: rgb(246 31 31);" title="Red" tabindex="0" onkeydown="if(event.key==='Enter'||event.key===' '){event.preventDefault();document.getElementById(this.getAttribute('for')).click();}" data-unavailable-color-label="N/A">
+        <span class="visually-hidden">Red</span>
+      </label>
+
+  
+
+  
+  
+  
+
+<input type="radio" id="template--27266934243703__product-grid-2-2-15252589969783-9" name="Color-template--27266934243703__product-grid-15252589969783-9" value="Green" data-variant-id="56821943468407" form="product-form-template--27266934243703__product-grid" tabindex="-1" aria-label="Green" data-option-value-id="12613564105079" style="">
+    
+<label for="template--27266934243703__product-grid-2-2-15252589969783-9" class="color-swatch" style="--swatch-color: rgb(5 170 61);" title="Green" tabindex="0" onkeydown="if(event.key==='Enter'||event.key===' '){event.preventDefault();document.getElementById(this.getAttribute('for')).click();}" data-unavailable-color-label="N/A">
+        <span class="visually-hidden">Green</span>
+      </label>
+                </div>
+
+                
+              </div></div></div><script type="application/json" data-product-card-variants="">
+      [{"id":56219239186807,"title":"A5 \/ Blue","option1":"A5","option2":"Blue","option3":null,"sku":null,"requires_shipping":true,"taxable":true,"featured_image":{"id":82281582854519,"product_id":15252589969783,"position":1,"created_at":"2025-11-21T04:30:07-05:00","updated_at":"2025-11-21T04:30:11-05:00","alt":null,"width":1701,"height":2268,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/01-planner.jpg?v=1763717411","variant_ids":[56219239186807,56219239219575,56219239252343]},"available":true,"name":"Daily Structure Planner - A5 \/ Blue","public_title":"A5 \/ Blue","options":["A5","Blue"],"price":1400,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","featured_media":{"alt":null,"id":67602156192119,"position":1,"preview_image":{"aspect_ratio":0.75,"height":2268,"width":1701,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/01-planner.jpg?v=1763717411"}},"requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56821943435639,"title":"A5 \/ Red","option1":"A5","option2":"Red","option3":null,"sku":null,"requires_shipping":true,"taxable":true,"featured_image":null,"available":true,"name":"Daily Structure Planner - A5 \/ Red","public_title":"A5 \/ Red","options":["A5","Red"],"price":1400,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56821943468407,"title":"A5 \/ Green","option1":"A5","option2":"Green","option3":null,"sku":null,"requires_shipping":true,"taxable":true,"featured_image":null,"available":true,"name":"Daily Structure Planner - A5 \/ Green","public_title":"A5 \/ Green","options":["A5","Green"],"price":1400,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56219239219575,"title":"A4 \/ Blue","option1":"A4","option2":"Blue","option3":null,"sku":null,"requires_shipping":true,"taxable":true,"featured_image":{"id":82281582854519,"product_id":15252589969783,"position":1,"created_at":"2025-11-21T04:30:07-05:00","updated_at":"2025-11-21T04:30:11-05:00","alt":null,"width":1701,"height":2268,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/01-planner.jpg?v=1763717411","variant_ids":[56219239186807,56219239219575,56219239252343]},"available":true,"name":"Daily Structure Planner - A4 \/ Blue","public_title":"A4 \/ Blue","options":["A4","Blue"],"price":1400,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","featured_media":{"alt":null,"id":67602156192119,"position":1,"preview_image":{"aspect_ratio":0.75,"height":2268,"width":1701,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/01-planner.jpg?v=1763717411"}},"requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56821943501175,"title":"A4 \/ Red","option1":"A4","option2":"Red","option3":null,"sku":null,"requires_shipping":true,"taxable":true,"featured_image":null,"available":true,"name":"Daily Structure Planner - A4 \/ Red","public_title":"A4 \/ Red","options":["A4","Red"],"price":1400,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56821943533943,"title":"A4 \/ Green","option1":"A4","option2":"Green","option3":null,"sku":null,"requires_shipping":true,"taxable":true,"featured_image":null,"available":true,"name":"Daily Structure Planner - A4 \/ Green","public_title":"A4 \/ Green","options":["A4","Green"],"price":1400,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56219239252343,"title":"A3 \/ Blue","option1":"A3","option2":"Blue","option3":null,"sku":null,"requires_shipping":true,"taxable":true,"featured_image":{"id":82281582854519,"product_id":15252589969783,"position":1,"created_at":"2025-11-21T04:30:07-05:00","updated_at":"2025-11-21T04:30:11-05:00","alt":null,"width":1701,"height":2268,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/01-planner.jpg?v=1763717411","variant_ids":[56219239186807,56219239219575,56219239252343]},"available":true,"name":"Daily Structure Planner - A3 \/ Blue","public_title":"A3 \/ Blue","options":["A3","Blue"],"price":1400,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","featured_media":{"alt":null,"id":67602156192119,"position":1,"preview_image":{"aspect_ratio":0.75,"height":2268,"width":1701,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/01-planner.jpg?v=1763717411"}},"requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56821943566711,"title":"A3 \/ Red","option1":"A3","option2":"Red","option3":null,"sku":null,"requires_shipping":true,"taxable":true,"featured_image":null,"available":true,"name":"Daily Structure Planner - A3 \/ Red","public_title":"A3 \/ Red","options":["A3","Red"],"price":1400,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56821943599479,"title":"A3 \/ Green","option1":"A3","option2":"Green","option3":null,"sku":null,"requires_shipping":true,"taxable":true,"featured_image":null,"available":true,"name":"Daily Structure Planner - A3 \/ Green","public_title":"A3 \/ Green","options":["A3","Green"],"price":1400,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","requires_selling_plan":false,"selling_plan_allocations":[]}]
+    </script>
+    <script type="application/json" data-product-card-featured-media="">
+      {"alt":null,"id":67602156192119,"position":1,"preview_image":{"aspect_ratio":0.75,"height":2268,"width":1701,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/01-planner.jpg?v=1763717411"},"aspect_ratio":0.75,"height":2268,"media_type":"image","src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/01-planner.jpg?v=1763717411","width":1701}
+    </script>
+    <span class="hidden" data-product-card-options="" data-product-title="Daily Structure Planner" data-product-columns="4" data-product-columns-mobile="1" data-product-ratio="0.76" data-product-fit="cover" data-product-has-price-varies="false"></span><a href="/products/daily-structure-planner" class="product-card__link-overlay focus-inset" aria-label="Daily Structure Planner Product link"></a></product-card>
+
+                </div><div class="collection-product-card">
+                  
+
+
+<product-card class="product-card product-card--mobile-1 product-card_image-linked" data-product="daily-view-calendar" data-product-id="15252922859895" data-image-linked="true" data-card-color-swatches="true" tabindex="0" style="--card-padding-bottom: 131.7%; --slide-count: 4">
+  <div class="product-card__inner">
+    <div class="product-card__media">
+
+          <div class="swiper-container product-card-js global-variant-js-media-list slider_started swiper-initialized swiper-horizontal swiper-backface-hidden" data-loop="false">
+            <div class="swiper-wrapper" id="swiper-wrapper-125511eef1bc7c87" aria-live="polite" style="transform: translate3d(0px, 0px, 0px);">
+              
+                
+
+                
+                  
+                    
+                    
+
+                
+
+                <div class="swiper-slide swiper-slide-active" data-media-id="67606909813111" data-variant-id="56821815837047" role="group" aria-label="1 / 4" style="width: 326px; margin-right: 2px;">
+                  <img src="//shift-sketch.myshopify.com/cdn/shop/files/04-calendar.jpg?v=1763734087&amp;width=2603" alt="Daily View Calendar" srcset="//shift-sketch.myshopify.com/cdn/shop/files/04-calendar.jpg?v=1763734087&amp;width=360 360w, //shift-sketch.myshopify.com/cdn/shop/files/04-calendar.jpg?v=1763734087&amp;width=535 535w, //shift-sketch.myshopify.com/cdn/shop/files/04-calendar.jpg?v=1763734087&amp;width=720 720w, //shift-sketch.myshopify.com/cdn/shop/files/04-calendar.jpg?v=1763734087&amp;width=940 940w, //shift-sketch.myshopify.com/cdn/shop/files/04-calendar.jpg?v=1763734087&amp;width=1066 1066w, //shift-sketch.myshopify.com/cdn/shop/files/04-calendar.jpg?v=1763734087&amp;width=1200 1200w, //shift-sketch.myshopify.com/cdn/shop/files/04-calendar.jpg?v=1763734087&amp;width=1400 1400w, //shift-sketch.myshopify.com/cdn/shop/files/04-calendar.jpg?v=1763734087&amp;width=1600 1600w, //shift-sketch.myshopify.com/cdn/shop/files/04-calendar.jpg?v=1763734087&amp;width=1800 1800w, //shift-sketch.myshopify.com/cdn/shop/files/04-calendar.jpg?v=1763734087&amp;width=2000 2000w, //shift-sketch.myshopify.com/cdn/shop/files/04-calendar.jpg?v=1763734087&amp;width=2200 2200w, //shift-sketch.myshopify.com/cdn/shop/files/04-calendar.jpg?v=1763734087&amp;width=2400 2400w, //shift-sketch.myshopify.com/cdn/shop/files/04-calendar.jpg?v=1763734087&amp;width=2600 2600w" width="2603" height="3470" loading="lazy" class="motion-reduce media" sizes="(min-width: 1200px) calc(1.03 * (100vw / 4)),(min-width: 990px) calc(1.03 * (100vw / 3)),(min-width: 576px) calc(1.03 * (100vw / 2)),calc(1.03 * 100vw)" style="object-fit: cover;">
+                </div>
+              
+                
+
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+
+                
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                
+
+                <div class="swiper-slide swiper-slide-next" data-media-id="67606909714807" role="group" aria-label="2 / 4" style="width: 326px; margin-right: 2px;">
+                  <img src="//shift-sketch.myshopify.com/cdn/shop/files/04-calendar-hover-01.jpg?v=1763734087&amp;width=1776" alt="Daily View Calendar" srcset="//shift-sketch.myshopify.com/cdn/shop/files/04-calendar-hover-01.jpg?v=1763734087&amp;width=360 360w, //shift-sketch.myshopify.com/cdn/shop/files/04-calendar-hover-01.jpg?v=1763734087&amp;width=535 535w, //shift-sketch.myshopify.com/cdn/shop/files/04-calendar-hover-01.jpg?v=1763734087&amp;width=720 720w, //shift-sketch.myshopify.com/cdn/shop/files/04-calendar-hover-01.jpg?v=1763734087&amp;width=940 940w, //shift-sketch.myshopify.com/cdn/shop/files/04-calendar-hover-01.jpg?v=1763734087&amp;width=1066 1066w, //shift-sketch.myshopify.com/cdn/shop/files/04-calendar-hover-01.jpg?v=1763734087&amp;width=1200 1200w, //shift-sketch.myshopify.com/cdn/shop/files/04-calendar-hover-01.jpg?v=1763734087&amp;width=1400 1400w, //shift-sketch.myshopify.com/cdn/shop/files/04-calendar-hover-01.jpg?v=1763734087&amp;width=1600 1600w" width="1776" height="2368" loading="lazy" class="motion-reduce media" sizes="(min-width: 1200px) calc(1.03 * (100vw / 4)),(min-width: 990px) calc(1.03 * (100vw / 3)),(min-width: 576px) calc(1.03 * (100vw / 2)),calc(1.03 * 100vw)" style="object-fit: cover;">
+                </div>
+              
+                
+
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+
+                
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                
+
+                <div class="swiper-slide" data-media-id="67606909747575" role="group" aria-label="3 / 4" style="width: 326px; margin-right: 2px;">
+                  <img src="//shift-sketch.myshopify.com/cdn/shop/files/04-calendar-hover-02.jpg?v=1763734087&amp;width=1728" alt="Daily View Calendar" srcset="//shift-sketch.myshopify.com/cdn/shop/files/04-calendar-hover-02.jpg?v=1763734087&amp;width=360 360w, //shift-sketch.myshopify.com/cdn/shop/files/04-calendar-hover-02.jpg?v=1763734087&amp;width=535 535w, //shift-sketch.myshopify.com/cdn/shop/files/04-calendar-hover-02.jpg?v=1763734087&amp;width=720 720w, //shift-sketch.myshopify.com/cdn/shop/files/04-calendar-hover-02.jpg?v=1763734087&amp;width=940 940w, //shift-sketch.myshopify.com/cdn/shop/files/04-calendar-hover-02.jpg?v=1763734087&amp;width=1066 1066w, //shift-sketch.myshopify.com/cdn/shop/files/04-calendar-hover-02.jpg?v=1763734087&amp;width=1200 1200w, //shift-sketch.myshopify.com/cdn/shop/files/04-calendar-hover-02.jpg?v=1763734087&amp;width=1400 1400w, //shift-sketch.myshopify.com/cdn/shop/files/04-calendar-hover-02.jpg?v=1763734087&amp;width=1600 1600w" width="1728" height="2304" loading="lazy" class="motion-reduce media" sizes="(min-width: 1200px) calc(1.03 * (100vw / 4)),(min-width: 990px) calc(1.03 * (100vw / 3)),(min-width: 576px) calc(1.03 * (100vw / 2)),calc(1.03 * 100vw)" style="object-fit: cover;">
+                </div>
+              
+                
+
+                
+                  
+                
+                  
+                    
+                    
+
+                
+
+                <div class="swiper-slide" data-media-id="67606909780343" data-variant-id="56821815869815" role="group" aria-label="4 / 4" style="width: 326px; margin-right: 2px;">
+                  <img src="//shift-sketch.myshopify.com/cdn/shop/files/04-calendar-hover-03.jpg?v=1763734088&amp;width=2464" alt="Daily View Calendar" srcset="//shift-sketch.myshopify.com/cdn/shop/files/04-calendar-hover-03.jpg?v=1763734088&amp;width=360 360w, //shift-sketch.myshopify.com/cdn/shop/files/04-calendar-hover-03.jpg?v=1763734088&amp;width=535 535w, //shift-sketch.myshopify.com/cdn/shop/files/04-calendar-hover-03.jpg?v=1763734088&amp;width=720 720w, //shift-sketch.myshopify.com/cdn/shop/files/04-calendar-hover-03.jpg?v=1763734088&amp;width=940 940w, //shift-sketch.myshopify.com/cdn/shop/files/04-calendar-hover-03.jpg?v=1763734088&amp;width=1066 1066w, //shift-sketch.myshopify.com/cdn/shop/files/04-calendar-hover-03.jpg?v=1763734088&amp;width=1200 1200w, //shift-sketch.myshopify.com/cdn/shop/files/04-calendar-hover-03.jpg?v=1763734088&amp;width=1400 1400w, //shift-sketch.myshopify.com/cdn/shop/files/04-calendar-hover-03.jpg?v=1763734088&amp;width=1600 1600w, //shift-sketch.myshopify.com/cdn/shop/files/04-calendar-hover-03.jpg?v=1763734088&amp;width=1800 1800w, //shift-sketch.myshopify.com/cdn/shop/files/04-calendar-hover-03.jpg?v=1763734088&amp;width=2000 2000w, //shift-sketch.myshopify.com/cdn/shop/files/04-calendar-hover-03.jpg?v=1763734088&amp;width=2200 2200w, //shift-sketch.myshopify.com/cdn/shop/files/04-calendar-hover-03.jpg?v=1763734088&amp;width=2400 2400w" width="2464" height="3285" loading="lazy" class="motion-reduce media" sizes="(min-width: 1200px) calc(1.03 * (100vw / 4)),(min-width: 990px) calc(1.03 * (100vw / 3)),(min-width: 576px) calc(1.03 * (100vw / 2)),calc(1.03 * 100vw)" style="object-fit: cover;">
+                </div>
+              
+            </div>
+            <div class="product-button-group">
+              <div class="product-slider-button-prev">
+                <div class="swiper-button-prev swiper-button-disabled" tabindex="-1" role="button" aria-label="Previous slide" aria-controls="swiper-wrapper-125511eef1bc7c87" aria-disabled="true"><svg class="icon icon-arrow-slider-left" width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M14 2L6 10L14 18" stroke="currentColor"></path>
+</svg>
+</div>
+              </div>
+
+              <div class="product-slider-button-next">
+                <div class="swiper-button-next" tabindex="0" role="button" aria-label="Next slide" aria-controls="swiper-wrapper-125511eef1bc7c87" aria-disabled="false"><svg class="icon icon-arrow-slider-right" width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M6 2L14 10L6 18" stroke="currentColor"></path>
+</svg>
+</div>
+              </div>
+            </div>
+            <div class="swiper-pagination product-card-pagination swiper-pagination-default swiper-pagination-clickable swiper-pagination-bullets swiper-pagination-horizontal"><span class="swiper-pagination-bullet swiper-pagination-bullet-active" tabindex="0" role="button" aria-label="Go to slide 1" aria-current="true"></span><span class="swiper-pagination-bullet" tabindex="0" role="button" aria-label="Go to slide 2"></span><span class="swiper-pagination-bullet" tabindex="0" role="button" aria-label="Go to slide 3"></span><span class="swiper-pagination-bullet" tabindex="0" role="button" aria-label="Go to slide 4"></span></div>
+          <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
+        
+</div><div class="product-card__top">
+        
+<div class="product-card__badges body-normal"></div>
+      </div><div class="product-card__quickview product-card__quickview--mobile-true no-js-hidden">
+        <modal-opener data-modal="#QuickView-15252922859895">
+          <button class="product-card__button button button--primary focus-inset" aria-haspopup="dialog" data-product-url="/products/daily-view-calendar" aria-label="Quick view">
+            <div class="button__content">
+              <span class="product-card__quickview-text button__label" data-label="Quick view">Quick view</span>
+              <span class="product-card__mobile-icon button__icon">
+                <svg width="22" height="22" viewBox="0 0 22 22" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M2.66745 12.0748C2.35434 11.3936 2.35434 10.6077 2.66745 9.92654C4.11679 6.77337 7.30311 4.58398 11.0008 4.58398C14.6985 4.58398 17.8848 6.77338 19.3341 9.92654C19.6472 10.6077 19.6472 11.3936 19.3341 12.0748C17.8848 15.2279 14.6985 17.4173 11.0008 17.4173C7.30311 17.4173 4.11679 15.2279 2.66745 12.0748Z" stroke="currentColor" stroke-width="1.5"></path>
+  <path d="M13.7508 11.0007C13.7508 12.5194 12.5196 13.7507 11.0008 13.7507C9.48201 13.7507 8.25079 12.5194 8.25079 11.0007C8.25079 9.48187 9.48201 8.25065 11.0008 8.25065C12.5196 8.25065 13.7508 9.48187 13.7508 11.0007Z" stroke="currentColor" stroke-width="1.5"></path>
+</svg>
+
+              </span>
+            </div>
+            <div class="loading-overlay__spinner hidden">
+              <svg aria-hidden="true" focusable="false" role="presentation" class="spinner" viewBox="0 0 66 66" xmlns="http://www.w3.org/2000/svg">
+  <circle class="path" fill="none" stroke-width="5" cx="33" cy="33" r="30"></circle>
+</svg>
+
+            </div>
+          </button>
+        </modal-opener>
+
+        
+
+
+      </div></div>
+
+  
+  <div class="product-card__information">
+    <div class="product-card__information-top"><h2 class="product-card__title">
+        <a class="focus-inset" href="/products/daily-view-calendar" aria-label="Daily View Calendar">Daily View Calendar</a>
+      </h2>
+
+      <div class="product-card__price-group">
+        
+<div class="price">
+  <dl class="price-text"><div class="price__regular">
+      <dt class="visually-hidden">Regular price</dt>
+      <dd>
+        <span class="price-item price-item--regular">$11.00</span>
+      </dd>
+    </div>
+    <div class="price__sale">
+      <dt class="visually-hidden">Sale price</dt>
+      <dd>
+        <span class="price-item price-item--sale">$11.00</span>
+      </dd>
+      <dt class="visually-hidden">Regular price</dt>
+      <dd class="price__compare">
+        <s class="price-item price-item--regular"></s>
+      </dd>
+    </div>
+  </dl>
+
+  <dl class="unit-price hidden">
+    <dt class="visually-hidden">Unit price</dt>
+    <dd></dd>
+  </dl>
+</div>
+
+      </div>
+      
+
+          <div class="product-card__description body-small">260 x 210 mm</div><div class="product-card__error body-xs" role="alert" hidden=""></div>
+    </div>
+
+    
+<div class="product-card__information-bottom" tabindex="0"><div class="product-card__color-swatches">
+                
+                  <div class="body-small js-option-selected-value" data-option-position="1">
+                    Red</div>
+                
+                <div class="product-card__option-group js-card-option-group" data-option-position="1">
+                  
+
+
+  
+
+  
+  
+  
+
+<input type="radio" id="template--27266934243703__product-grid-1-0-15252922859895-10" name="Color-template--27266934243703__product-grid-15252922859895-10" value="Red" data-variant-id="56821815837047" form="product-form-template--27266934243703__product-grid" checked="" tabindex="-1" aria-label="Red" data-option-value-id="12613400985975" style="">
+    
+<label for="template--27266934243703__product-grid-1-0-15252922859895-10" class="color-swatch" style="--swatch-color: rgb(246 31 31);" title="Red" tabindex="0" onkeydown="if(event.key==='Enter'||event.key===' '){event.preventDefault();document.getElementById(this.getAttribute('for')).click();}" data-unavailable-color-label="N/A">
+        <span class="visually-hidden">Red</span>
+      </label>
+
+  
+
+  
+  
+  
+
+<input type="radio" id="template--27266934243703__product-grid-1-1-15252922859895-10" name="Color-template--27266934243703__product-grid-15252922859895-10" value="Purple" data-variant-id="56821815869815" form="product-form-template--27266934243703__product-grid" tabindex="-1" aria-label="Purple" data-option-value-id="12613401018743" style="">
+    
+<label for="template--27266934243703__product-grid-1-1-15252922859895-10" class="color-swatch" style="--swatch-color: rgb(165 77 207);" title="Purple" tabindex="0" onkeydown="if(event.key==='Enter'||event.key===' '){event.preventDefault();document.getElementById(this.getAttribute('for')).click();}" data-unavailable-color-label="N/A">
+        <span class="visually-hidden">Purple</span>
+      </label>
+
+  
+
+  
+  
+  
+
+<input type="radio" id="template--27266934243703__product-grid-1-2-15252922859895-10" name="Color-template--27266934243703__product-grid-15252922859895-10" value="Pink" data-variant-id="56821815902583" form="product-form-template--27266934243703__product-grid" tabindex="-1" aria-label="Pink" data-option-value-id="12613401051511" style="">
+    
+<label for="template--27266934243703__product-grid-1-2-15252922859895-10" class="color-swatch" style="--swatch-color: rgb(255 192 203);" title="Pink" tabindex="0" onkeydown="if(event.key==='Enter'||event.key===' '){event.preventDefault();document.getElementById(this.getAttribute('for')).click();}" data-unavailable-color-label="N/A">
+        <span class="visually-hidden">Pink</span>
+      </label>
+
+  
+
+  
+  
+  
+
+<input type="radio" id="template--27266934243703__product-grid-1-3-15252922859895-10" name="Color-template--27266934243703__product-grid-15252922859895-10" value="Green" data-variant-id="56821815935351" form="product-form-template--27266934243703__product-grid" tabindex="-1" aria-label="Green" data-option-value-id="12613401084279" style="">
+    
+<label for="template--27266934243703__product-grid-1-3-15252922859895-10" class="color-swatch" style="--swatch-color: rgb(5 170 61);" title="Green" tabindex="0" onkeydown="if(event.key==='Enter'||event.key===' '){event.preventDefault();document.getElementById(this.getAttribute('for')).click();}" data-unavailable-color-label="N/A">
+        <span class="visually-hidden">Green</span>
+      </label>
+
+  
+
+  
+  
+  
+
+<input type="radio" id="template--27266934243703__product-grid-1-4-15252922859895-10" name="Color-template--27266934243703__product-grid-15252922859895-10" value="Blue" data-variant-id="56821815968119" form="product-form-template--27266934243703__product-grid" tabindex="-1" aria-label="Blue" data-option-value-id="12613401117047" style="">
+    
+<label for="template--27266934243703__product-grid-1-4-15252922859895-10" class="color-swatch" style="--swatch-color: rgb(0 91 211);" title="Blue" tabindex="0" onkeydown="if(event.key==='Enter'||event.key===' '){event.preventDefault();document.getElementById(this.getAttribute('for')).click();}" data-unavailable-color-label="N/A">
+        <span class="visually-hidden">Blue</span>
+      </label>
+                </div>
+
+                
+              </div></div></div><script type="application/json" data-product-card-variants="">
+      [{"id":56821815837047,"title":"Red","option1":"Red","option2":null,"option3":null,"sku":null,"requires_shipping":true,"taxable":true,"featured_image":{"id":82286411022711,"product_id":15252922859895,"position":1,"created_at":"2025-11-21T09:08:04-05:00","updated_at":"2025-11-21T09:08:07-05:00","alt":null,"width":2603,"height":3470,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/04-calendar.jpg?v=1763734087","variant_ids":[56821815837047]},"available":true,"name":"Daily View Calendar - Red","public_title":"Red","options":["Red"],"price":1100,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","featured_media":{"alt":null,"id":67606909813111,"position":1,"preview_image":{"aspect_ratio":0.75,"height":3470,"width":2603,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/04-calendar.jpg?v=1763734087"}},"requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56821815869815,"title":"Purple","option1":"Purple","option2":null,"option3":null,"sku":null,"requires_shipping":true,"taxable":true,"featured_image":{"id":82286410989943,"product_id":15252922859895,"position":4,"created_at":"2025-11-21T09:08:04-05:00","updated_at":"2025-11-21T09:08:08-05:00","alt":null,"width":2464,"height":3285,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/04-calendar-hover-03.jpg?v=1763734088","variant_ids":[56821815869815,56821815902583,56821815935351,56821815968119]},"available":true,"name":"Daily View Calendar - Purple","public_title":"Purple","options":["Purple"],"price":1100,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","featured_media":{"alt":null,"id":67606909780343,"position":4,"preview_image":{"aspect_ratio":0.75,"height":3285,"width":2464,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/04-calendar-hover-03.jpg?v=1763734088"}},"requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56821815902583,"title":"Pink","option1":"Pink","option2":null,"option3":null,"sku":null,"requires_shipping":true,"taxable":true,"featured_image":{"id":82286410989943,"product_id":15252922859895,"position":4,"created_at":"2025-11-21T09:08:04-05:00","updated_at":"2025-11-21T09:08:08-05:00","alt":null,"width":2464,"height":3285,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/04-calendar-hover-03.jpg?v=1763734088","variant_ids":[56821815869815,56821815902583,56821815935351,56821815968119]},"available":true,"name":"Daily View Calendar - Pink","public_title":"Pink","options":["Pink"],"price":1100,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","featured_media":{"alt":null,"id":67606909780343,"position":4,"preview_image":{"aspect_ratio":0.75,"height":3285,"width":2464,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/04-calendar-hover-03.jpg?v=1763734088"}},"requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56821815935351,"title":"Green","option1":"Green","option2":null,"option3":null,"sku":null,"requires_shipping":true,"taxable":true,"featured_image":{"id":82286410989943,"product_id":15252922859895,"position":4,"created_at":"2025-11-21T09:08:04-05:00","updated_at":"2025-11-21T09:08:08-05:00","alt":null,"width":2464,"height":3285,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/04-calendar-hover-03.jpg?v=1763734088","variant_ids":[56821815869815,56821815902583,56821815935351,56821815968119]},"available":true,"name":"Daily View Calendar - Green","public_title":"Green","options":["Green"],"price":1100,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","featured_media":{"alt":null,"id":67606909780343,"position":4,"preview_image":{"aspect_ratio":0.75,"height":3285,"width":2464,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/04-calendar-hover-03.jpg?v=1763734088"}},"requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56821815968119,"title":"Blue","option1":"Blue","option2":null,"option3":null,"sku":null,"requires_shipping":true,"taxable":true,"featured_image":{"id":82286410989943,"product_id":15252922859895,"position":4,"created_at":"2025-11-21T09:08:04-05:00","updated_at":"2025-11-21T09:08:08-05:00","alt":null,"width":2464,"height":3285,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/04-calendar-hover-03.jpg?v=1763734088","variant_ids":[56821815869815,56821815902583,56821815935351,56821815968119]},"available":true,"name":"Daily View Calendar - Blue","public_title":"Blue","options":["Blue"],"price":1100,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","featured_media":{"alt":null,"id":67606909780343,"position":4,"preview_image":{"aspect_ratio":0.75,"height":3285,"width":2464,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/04-calendar-hover-03.jpg?v=1763734088"}},"requires_selling_plan":false,"selling_plan_allocations":[]}]
+    </script>
+    <script type="application/json" data-product-card-featured-media="">
+      {"alt":null,"id":67606909813111,"position":1,"preview_image":{"aspect_ratio":0.75,"height":3470,"width":2603,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/04-calendar.jpg?v=1763734087"},"aspect_ratio":0.75,"height":3470,"media_type":"image","src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/04-calendar.jpg?v=1763734087","width":2603}
+    </script>
+    <span class="hidden" data-product-card-options="" data-product-title="Daily View Calendar" data-product-columns="4" data-product-columns-mobile="1" data-product-ratio="0.76" data-product-fit="cover" data-product-has-price-varies="false"></span><a href="/products/daily-view-calendar" class="product-card__link-overlay focus-inset" aria-label="Daily View Calendar Product link"></a></product-card>
+
+                </div><div class="collection-product-card">
+                  
+
+
+<product-card class="product-card product-card--mobile-1 product-card_image-linked" data-product="day-to-day-planner" data-product-id="15252883210615" data-image-linked="true" data-card-color-swatches="true" tabindex="0" style="--card-padding-bottom: 131.7%; --slide-count: 5">
+  <div class="product-card__inner">
+    <div class="product-card__media">
+
+          <div class="swiper-container product-card-js global-variant-js-media-list slider_started swiper-initialized swiper-horizontal swiper-backface-hidden" data-loop="false">
+            <div class="swiper-wrapper" id="swiper-wrapper-d966710f510946466b" aria-live="polite" style="transform: translate3d(0px, 0px, 0px);">
+              
+                
+
+                
+                  
+                    
+                    
+
+                
+
+                <div class="swiper-slide swiper-slide-active" data-media-id="67606642917751" data-variant-id="56821844738423" role="group" aria-label="1 / 5" style="width: 326px; margin-right: 2px;">
+                  <img src="//shift-sketch.myshopify.com/cdn/shop/files/06-planner.jpg?v=1763732931&amp;width=1701" alt="Day-to-Day Planner" srcset="//shift-sketch.myshopify.com/cdn/shop/files/06-planner.jpg?v=1763732931&amp;width=360 360w, //shift-sketch.myshopify.com/cdn/shop/files/06-planner.jpg?v=1763732931&amp;width=535 535w, //shift-sketch.myshopify.com/cdn/shop/files/06-planner.jpg?v=1763732931&amp;width=720 720w, //shift-sketch.myshopify.com/cdn/shop/files/06-planner.jpg?v=1763732931&amp;width=940 940w, //shift-sketch.myshopify.com/cdn/shop/files/06-planner.jpg?v=1763732931&amp;width=1066 1066w, //shift-sketch.myshopify.com/cdn/shop/files/06-planner.jpg?v=1763732931&amp;width=1200 1200w, //shift-sketch.myshopify.com/cdn/shop/files/06-planner.jpg?v=1763732931&amp;width=1400 1400w, //shift-sketch.myshopify.com/cdn/shop/files/06-planner.jpg?v=1763732931&amp;width=1600 1600w" width="1701" height="2268" loading="lazy" class="motion-reduce media" sizes="(min-width: 1200px) calc(1.03 * (100vw / 4)),(min-width: 990px) calc(1.03 * (100vw / 3)),(min-width: 576px) calc(1.03 * (100vw / 2)),calc(1.03 * 100vw)" style="object-fit: cover;">
+                </div>
+              
+                
+
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+
+                
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                
+
+                <div class="swiper-slide swiper-slide-next" data-media-id="67606642786679" role="group" aria-label="2 / 5" style="width: 326px; margin-right: 2px;">
+                  <img src="//shift-sketch.myshopify.com/cdn/shop/files/06-planner-hover-01.jpg?v=1763732930&amp;width=1688" alt="Day-to-Day Planner" srcset="//shift-sketch.myshopify.com/cdn/shop/files/06-planner-hover-01.jpg?v=1763732930&amp;width=360 360w, //shift-sketch.myshopify.com/cdn/shop/files/06-planner-hover-01.jpg?v=1763732930&amp;width=535 535w, //shift-sketch.myshopify.com/cdn/shop/files/06-planner-hover-01.jpg?v=1763732930&amp;width=720 720w, //shift-sketch.myshopify.com/cdn/shop/files/06-planner-hover-01.jpg?v=1763732930&amp;width=940 940w, //shift-sketch.myshopify.com/cdn/shop/files/06-planner-hover-01.jpg?v=1763732930&amp;width=1066 1066w, //shift-sketch.myshopify.com/cdn/shop/files/06-planner-hover-01.jpg?v=1763732930&amp;width=1200 1200w, //shift-sketch.myshopify.com/cdn/shop/files/06-planner-hover-01.jpg?v=1763732930&amp;width=1400 1400w, //shift-sketch.myshopify.com/cdn/shop/files/06-planner-hover-01.jpg?v=1763732930&amp;width=1600 1600w" width="1688" height="2250" loading="lazy" class="motion-reduce media" sizes="(min-width: 1200px) calc(1.03 * (100vw / 4)),(min-width: 990px) calc(1.03 * (100vw / 3)),(min-width: 576px) calc(1.03 * (100vw / 2)),calc(1.03 * 100vw)" style="object-fit: cover;">
+                </div>
+              
+                
+
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+
+                
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                
+
+                <div class="swiper-slide" data-media-id="67606642819447" role="group" aria-label="3 / 5" style="width: 326px; margin-right: 2px;">
+                  <img src="//shift-sketch.myshopify.com/cdn/shop/files/06-planner-hover-02.jpg?v=1763732930&amp;width=1688" alt="Day-to-Day Planner" srcset="//shift-sketch.myshopify.com/cdn/shop/files/06-planner-hover-02.jpg?v=1763732930&amp;width=360 360w, //shift-sketch.myshopify.com/cdn/shop/files/06-planner-hover-02.jpg?v=1763732930&amp;width=535 535w, //shift-sketch.myshopify.com/cdn/shop/files/06-planner-hover-02.jpg?v=1763732930&amp;width=720 720w, //shift-sketch.myshopify.com/cdn/shop/files/06-planner-hover-02.jpg?v=1763732930&amp;width=940 940w, //shift-sketch.myshopify.com/cdn/shop/files/06-planner-hover-02.jpg?v=1763732930&amp;width=1066 1066w, //shift-sketch.myshopify.com/cdn/shop/files/06-planner-hover-02.jpg?v=1763732930&amp;width=1200 1200w, //shift-sketch.myshopify.com/cdn/shop/files/06-planner-hover-02.jpg?v=1763732930&amp;width=1400 1400w, //shift-sketch.myshopify.com/cdn/shop/files/06-planner-hover-02.jpg?v=1763732930&amp;width=1600 1600w" width="1688" height="2250" loading="lazy" class="motion-reduce media" sizes="(min-width: 1200px) calc(1.03 * (100vw / 4)),(min-width: 990px) calc(1.03 * (100vw / 3)),(min-width: 576px) calc(1.03 * (100vw / 2)),calc(1.03 * 100vw)" style="object-fit: cover;">
+                </div>
+              
+                
+
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+
+                
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                
+
+                <div class="swiper-slide" data-media-id="67606642852215" role="group" aria-label="4 / 5" style="width: 326px; margin-right: 2px;">
+                  <img src="//shift-sketch.myshopify.com/cdn/shop/files/06-planner-hover-03.jpg?v=1763732930&amp;width=1800" alt="Day-to-Day Planner" srcset="//shift-sketch.myshopify.com/cdn/shop/files/06-planner-hover-03.jpg?v=1763732930&amp;width=360 360w, //shift-sketch.myshopify.com/cdn/shop/files/06-planner-hover-03.jpg?v=1763732930&amp;width=535 535w, //shift-sketch.myshopify.com/cdn/shop/files/06-planner-hover-03.jpg?v=1763732930&amp;width=720 720w, //shift-sketch.myshopify.com/cdn/shop/files/06-planner-hover-03.jpg?v=1763732930&amp;width=940 940w, //shift-sketch.myshopify.com/cdn/shop/files/06-planner-hover-03.jpg?v=1763732930&amp;width=1066 1066w, //shift-sketch.myshopify.com/cdn/shop/files/06-planner-hover-03.jpg?v=1763732930&amp;width=1200 1200w, //shift-sketch.myshopify.com/cdn/shop/files/06-planner-hover-03.jpg?v=1763732930&amp;width=1400 1400w, //shift-sketch.myshopify.com/cdn/shop/files/06-planner-hover-03.jpg?v=1763732930&amp;width=1600 1600w, //shift-sketch.myshopify.com/cdn/shop/files/06-planner-hover-03.jpg?v=1763732930&amp;width=1800 1800w" width="1800" height="2400" loading="lazy" class="motion-reduce media" sizes="(min-width: 1200px) calc(1.03 * (100vw / 4)),(min-width: 990px) calc(1.03 * (100vw / 3)),(min-width: 576px) calc(1.03 * (100vw / 2)),calc(1.03 * 100vw)" style="object-fit: cover;">
+                </div>
+              
+                
+
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                    
+                    
+
+                
+
+                <div class="swiper-slide" data-media-id="67606642884983" data-variant-id="56821844935031" role="group" aria-label="5 / 5" style="width: 326px; margin-right: 2px;">
+                  <img src="//shift-sketch.myshopify.com/cdn/shop/files/06-planner-hover-04.jpg?v=1763732931&amp;width=1856" alt="Day-to-Day Planner" srcset="//shift-sketch.myshopify.com/cdn/shop/files/06-planner-hover-04.jpg?v=1763732931&amp;width=360 360w, //shift-sketch.myshopify.com/cdn/shop/files/06-planner-hover-04.jpg?v=1763732931&amp;width=535 535w, //shift-sketch.myshopify.com/cdn/shop/files/06-planner-hover-04.jpg?v=1763732931&amp;width=720 720w, //shift-sketch.myshopify.com/cdn/shop/files/06-planner-hover-04.jpg?v=1763732931&amp;width=940 940w, //shift-sketch.myshopify.com/cdn/shop/files/06-planner-hover-04.jpg?v=1763732931&amp;width=1066 1066w, //shift-sketch.myshopify.com/cdn/shop/files/06-planner-hover-04.jpg?v=1763732931&amp;width=1200 1200w, //shift-sketch.myshopify.com/cdn/shop/files/06-planner-hover-04.jpg?v=1763732931&amp;width=1400 1400w, //shift-sketch.myshopify.com/cdn/shop/files/06-planner-hover-04.jpg?v=1763732931&amp;width=1600 1600w, //shift-sketch.myshopify.com/cdn/shop/files/06-planner-hover-04.jpg?v=1763732931&amp;width=1800 1800w" width="1856" height="2464" loading="lazy" class="motion-reduce media" sizes="(min-width: 1200px) calc(1.03 * (100vw / 4)),(min-width: 990px) calc(1.03 * (100vw / 3)),(min-width: 576px) calc(1.03 * (100vw / 2)),calc(1.03 * 100vw)" style="object-fit: cover;">
+                </div>
+              
+            </div>
+            <div class="product-button-group">
+              <div class="product-slider-button-prev">
+                <div class="swiper-button-prev swiper-button-disabled" tabindex="-1" role="button" aria-label="Previous slide" aria-controls="swiper-wrapper-d966710f510946466b" aria-disabled="true"><svg class="icon icon-arrow-slider-left" width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M14 2L6 10L14 18" stroke="currentColor"></path>
+</svg>
+</div>
+              </div>
+
+              <div class="product-slider-button-next">
+                <div class="swiper-button-next" tabindex="0" role="button" aria-label="Next slide" aria-controls="swiper-wrapper-d966710f510946466b" aria-disabled="false"><svg class="icon icon-arrow-slider-right" width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M6 2L14 10L6 18" stroke="currentColor"></path>
+</svg>
+</div>
+              </div>
+            </div>
+            <div class="swiper-pagination product-card-pagination swiper-pagination-default swiper-pagination-clickable swiper-pagination-bullets swiper-pagination-horizontal"><span class="swiper-pagination-bullet swiper-pagination-bullet-active" tabindex="0" role="button" aria-label="Go to slide 1" aria-current="true"></span><span class="swiper-pagination-bullet" tabindex="0" role="button" aria-label="Go to slide 2"></span><span class="swiper-pagination-bullet" tabindex="0" role="button" aria-label="Go to slide 3"></span><span class="swiper-pagination-bullet" tabindex="0" role="button" aria-label="Go to slide 4"></span><span class="swiper-pagination-bullet" tabindex="0" role="button" aria-label="Go to slide 5"></span></div>
+          <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
+        
+</div><div class="product-card__top">
+        
+<div class="product-card__badges body-normal"></div>
+      </div><div class="product-card__quickview product-card__quickview--mobile-true no-js-hidden">
+        <modal-opener data-modal="#QuickView-15252883210615">
+          <button class="product-card__button button button--primary focus-inset" aria-haspopup="dialog" data-product-url="/products/day-to-day-planner" aria-label="Quick view">
+            <div class="button__content">
+              <span class="product-card__quickview-text button__label" data-label="Quick view">Quick view</span>
+              <span class="product-card__mobile-icon button__icon">
+                <svg width="22" height="22" viewBox="0 0 22 22" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M2.66745 12.0748C2.35434 11.3936 2.35434 10.6077 2.66745 9.92654C4.11679 6.77337 7.30311 4.58398 11.0008 4.58398C14.6985 4.58398 17.8848 6.77338 19.3341 9.92654C19.6472 10.6077 19.6472 11.3936 19.3341 12.0748C17.8848 15.2279 14.6985 17.4173 11.0008 17.4173C7.30311 17.4173 4.11679 15.2279 2.66745 12.0748Z" stroke="currentColor" stroke-width="1.5"></path>
+  <path d="M13.7508 11.0007C13.7508 12.5194 12.5196 13.7507 11.0008 13.7507C9.48201 13.7507 8.25079 12.5194 8.25079 11.0007C8.25079 9.48187 9.48201 8.25065 11.0008 8.25065C12.5196 8.25065 13.7508 9.48187 13.7508 11.0007Z" stroke="currentColor" stroke-width="1.5"></path>
+</svg>
+
+              </span>
+            </div>
+            <div class="loading-overlay__spinner hidden">
+              <svg aria-hidden="true" focusable="false" role="presentation" class="spinner" viewBox="0 0 66 66" xmlns="http://www.w3.org/2000/svg">
+  <circle class="path" fill="none" stroke-width="5" cx="33" cy="33" r="30"></circle>
+</svg>
+
+            </div>
+          </button>
+        </modal-opener>
+
+        
+
+
+      </div></div>
+
+  
+  <div class="product-card__information">
+    <div class="product-card__information-top"><h2 class="product-card__title">
+        <a class="focus-inset" href="/products/day-to-day-planner" aria-label="Day-to-Day Planner">Day-to-Day Planner</a>
+      </h2>
+
+      <div class="product-card__price-group">
+        
+<div class="price">
+  <dl class="price-text"><div class="price__regular">
+      <dt class="visually-hidden">Regular price</dt>
+      <dd>
+        <span class="price-item price-item--regular">$13.00</span>
+      </dd>
+    </div>
+    <div class="price__sale">
+      <dt class="visually-hidden">Sale price</dt>
+      <dd>
+        <span class="price-item price-item--sale">$13.00</span>
+      </dd>
+      <dt class="visually-hidden">Regular price</dt>
+      <dd class="price__compare">
+        <s class="price-item price-item--regular"></s>
+      </dd>
+    </div>
+  </dl>
+
+  <dl class="unit-price hidden">
+    <dt class="visually-hidden">Unit price</dt>
+    <dd></dd>
+  </dl>
+</div>
+
+      </div>
+      
+
+          <div class="product-card__description body-small">210 x 105 mm</div><div class="product-card__error body-xs" role="alert" hidden=""></div>
+    </div>
+
+    
+<div class="product-card__information-bottom" tabindex="0"><div class="product-card__color-swatches">
+                
+                  <div class="body-small js-option-selected-value" data-option-position="1">
+                    Pink</div>
+                
+                <div class="product-card__option-group js-card-option-group" data-option-position="1">
+                  
+
+
+  
+
+  
+  
+  
+
+<input type="radio" id="template--27266934243703__product-grid-1-0-15252883210615-11" name="Color-template--27266934243703__product-grid-15252883210615-11" value="Pink" data-variant-id="56821844738423" form="product-form-template--27266934243703__product-grid" checked="" tabindex="-1" aria-label="Pink" data-option-value-id="12613470552439" style="">
+    
+<label for="template--27266934243703__product-grid-1-0-15252883210615-11" class="color-swatch" style="--swatch-color: rgb(255 192 203);" title="Pink" tabindex="0" onkeydown="if(event.key==='Enter'||event.key===' '){event.preventDefault();document.getElementById(this.getAttribute('for')).click();}" data-unavailable-color-label="N/A">
+        <span class="visually-hidden">Pink</span>
+      </label>
+
+  
+
+  
+  
+  
+
+<input type="radio" id="template--27266934243703__product-grid-1-1-15252883210615-11" name="Color-template--27266934243703__product-grid-15252883210615-11" value="Purple" data-variant-id="56821844935031" form="product-form-template--27266934243703__product-grid" tabindex="-1" aria-label="Purple" data-option-value-id="12613470585207" style="">
+    
+<label for="template--27266934243703__product-grid-1-1-15252883210615-11" class="color-swatch" style="--swatch-color: rgb(165 77 207);" title="Purple" tabindex="0" onkeydown="if(event.key==='Enter'||event.key===' '){event.preventDefault();document.getElementById(this.getAttribute('for')).click();}" data-unavailable-color-label="N/A">
+        <span class="visually-hidden">Purple</span>
+      </label>
+
+  
+
+  
+  
+  
+
+<input type="radio" id="template--27266934243703__product-grid-1-2-15252883210615-11" name="Color-template--27266934243703__product-grid-15252883210615-11" value="Red" data-variant-id="56821845131639" form="product-form-template--27266934243703__product-grid" tabindex="-1" aria-label="Red" data-option-value-id="12613470617975" style="">
+    
+<label for="template--27266934243703__product-grid-1-2-15252883210615-11" class="color-swatch" style="--swatch-color: rgb(246 31 31);" title="Red" tabindex="0" onkeydown="if(event.key==='Enter'||event.key===' '){event.preventDefault();document.getElementById(this.getAttribute('for')).click();}" data-unavailable-color-label="N/A">
+        <span class="visually-hidden">Red</span>
+      </label>
+
+  
+
+  
+  
+  
+
+<input type="radio" id="template--27266934243703__product-grid-1-3-15252883210615-11" name="Color-template--27266934243703__product-grid-15252883210615-11" value="Green" data-variant-id="56821845328247" form="product-form-template--27266934243703__product-grid" tabindex="-1" aria-label="Green" data-option-value-id="12613470650743" style="">
+    
+<label for="template--27266934243703__product-grid-1-3-15252883210615-11" class="color-swatch" style="--swatch-color: rgb(5 170 61);" title="Green" tabindex="0" onkeydown="if(event.key==='Enter'||event.key===' '){event.preventDefault();document.getElementById(this.getAttribute('for')).click();}" data-unavailable-color-label="N/A">
+        <span class="visually-hidden">Green</span>
+      </label>
+                </div>
+
+                
+              </div></div></div><script type="application/json" data-product-card-variants="">
+      [{"id":56821844738423,"title":"Pink \/ A5 \/ Hard cover","option1":"Pink","option2":"A5","option3":"Hard cover","sku":null,"requires_shipping":true,"taxable":true,"featured_image":{"id":82286135869815,"product_id":15252883210615,"position":1,"created_at":"2025-11-21T08:48:47-05:00","updated_at":"2025-11-21T08:48:51-05:00","alt":null,"width":1701,"height":2268,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/06-planner.jpg?v=1763732931","variant_ids":[56821844738423,56821844771191,56821844803959,56821844836727,56821844869495,56821844902263]},"available":true,"name":"Day-to-Day Planner - Pink \/ A5 \/ Hard cover","public_title":"Pink \/ A5 \/ Hard cover","options":["Pink","A5","Hard cover"],"price":1300,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","featured_media":{"alt":null,"id":67606642917751,"position":1,"preview_image":{"aspect_ratio":0.75,"height":2268,"width":1701,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/06-planner.jpg?v=1763732931"}},"requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56821844771191,"title":"Pink \/ A5 \/ Soft cover","option1":"Pink","option2":"A5","option3":"Soft cover","sku":null,"requires_shipping":true,"taxable":true,"featured_image":{"id":82286135869815,"product_id":15252883210615,"position":1,"created_at":"2025-11-21T08:48:47-05:00","updated_at":"2025-11-21T08:48:51-05:00","alt":null,"width":1701,"height":2268,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/06-planner.jpg?v=1763732931","variant_ids":[56821844738423,56821844771191,56821844803959,56821844836727,56821844869495,56821844902263]},"available":true,"name":"Day-to-Day Planner - Pink \/ A5 \/ Soft cover","public_title":"Pink \/ A5 \/ Soft cover","options":["Pink","A5","Soft cover"],"price":1300,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","featured_media":{"alt":null,"id":67606642917751,"position":1,"preview_image":{"aspect_ratio":0.75,"height":2268,"width":1701,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/06-planner.jpg?v=1763732931"}},"requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56821844803959,"title":"Pink \/ A4 \/ Hard cover","option1":"Pink","option2":"A4","option3":"Hard cover","sku":null,"requires_shipping":true,"taxable":true,"featured_image":{"id":82286135869815,"product_id":15252883210615,"position":1,"created_at":"2025-11-21T08:48:47-05:00","updated_at":"2025-11-21T08:48:51-05:00","alt":null,"width":1701,"height":2268,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/06-planner.jpg?v=1763732931","variant_ids":[56821844738423,56821844771191,56821844803959,56821844836727,56821844869495,56821844902263]},"available":true,"name":"Day-to-Day Planner - Pink \/ A4 \/ Hard cover","public_title":"Pink \/ A4 \/ Hard cover","options":["Pink","A4","Hard cover"],"price":1300,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","featured_media":{"alt":null,"id":67606642917751,"position":1,"preview_image":{"aspect_ratio":0.75,"height":2268,"width":1701,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/06-planner.jpg?v=1763732931"}},"requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56821844836727,"title":"Pink \/ A4 \/ Soft cover","option1":"Pink","option2":"A4","option3":"Soft cover","sku":null,"requires_shipping":true,"taxable":true,"featured_image":{"id":82286135869815,"product_id":15252883210615,"position":1,"created_at":"2025-11-21T08:48:47-05:00","updated_at":"2025-11-21T08:48:51-05:00","alt":null,"width":1701,"height":2268,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/06-planner.jpg?v=1763732931","variant_ids":[56821844738423,56821844771191,56821844803959,56821844836727,56821844869495,56821844902263]},"available":true,"name":"Day-to-Day Planner - Pink \/ A4 \/ Soft cover","public_title":"Pink \/ A4 \/ Soft cover","options":["Pink","A4","Soft cover"],"price":1300,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","featured_media":{"alt":null,"id":67606642917751,"position":1,"preview_image":{"aspect_ratio":0.75,"height":2268,"width":1701,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/06-planner.jpg?v=1763732931"}},"requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56821844869495,"title":"Pink \/ A3 \/ Hard cover","option1":"Pink","option2":"A3","option3":"Hard cover","sku":null,"requires_shipping":true,"taxable":true,"featured_image":{"id":82286135869815,"product_id":15252883210615,"position":1,"created_at":"2025-11-21T08:48:47-05:00","updated_at":"2025-11-21T08:48:51-05:00","alt":null,"width":1701,"height":2268,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/06-planner.jpg?v=1763732931","variant_ids":[56821844738423,56821844771191,56821844803959,56821844836727,56821844869495,56821844902263]},"available":true,"name":"Day-to-Day Planner - Pink \/ A3 \/ Hard cover","public_title":"Pink \/ A3 \/ Hard cover","options":["Pink","A3","Hard cover"],"price":1300,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","featured_media":{"alt":null,"id":67606642917751,"position":1,"preview_image":{"aspect_ratio":0.75,"height":2268,"width":1701,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/06-planner.jpg?v=1763732931"}},"requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56821844902263,"title":"Pink \/ A3 \/ Soft cover","option1":"Pink","option2":"A3","option3":"Soft cover","sku":null,"requires_shipping":true,"taxable":true,"featured_image":{"id":82286135869815,"product_id":15252883210615,"position":1,"created_at":"2025-11-21T08:48:47-05:00","updated_at":"2025-11-21T08:48:51-05:00","alt":null,"width":1701,"height":2268,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/06-planner.jpg?v=1763732931","variant_ids":[56821844738423,56821844771191,56821844803959,56821844836727,56821844869495,56821844902263]},"available":true,"name":"Day-to-Day Planner - Pink \/ A3 \/ Soft cover","public_title":"Pink \/ A3 \/ Soft cover","options":["Pink","A3","Soft cover"],"price":1300,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","featured_media":{"alt":null,"id":67606642917751,"position":1,"preview_image":{"aspect_ratio":0.75,"height":2268,"width":1701,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/06-planner.jpg?v=1763732931"}},"requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56821844935031,"title":"Purple \/ A5 \/ Hard cover","option1":"Purple","option2":"A5","option3":"Hard cover","sku":null,"requires_shipping":true,"taxable":true,"featured_image":{"id":82286135837047,"product_id":15252883210615,"position":5,"created_at":"2025-11-21T08:48:47-05:00","updated_at":"2025-11-21T08:48:51-05:00","alt":null,"width":1856,"height":2464,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/06-planner-hover-04.jpg?v=1763732931","variant_ids":[56821844935031,56821844967799,56821845000567,56821845033335,56821845066103,56821845098871,56821845131639,56821845164407,56821845197175,56821845229943,56821845262711,56821845295479,56821845328247,56821845361015,56821845393783,56821845426551,56821845459319,56821845492087]},"available":true,"name":"Day-to-Day Planner - Purple \/ A5 \/ Hard cover","public_title":"Purple \/ A5 \/ Hard cover","options":["Purple","A5","Hard cover"],"price":1300,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","featured_media":{"alt":null,"id":67606642884983,"position":5,"preview_image":{"aspect_ratio":0.753,"height":2464,"width":1856,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/06-planner-hover-04.jpg?v=1763732931"}},"requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56821844967799,"title":"Purple \/ A5 \/ Soft cover","option1":"Purple","option2":"A5","option3":"Soft cover","sku":null,"requires_shipping":true,"taxable":true,"featured_image":{"id":82286135837047,"product_id":15252883210615,"position":5,"created_at":"2025-11-21T08:48:47-05:00","updated_at":"2025-11-21T08:48:51-05:00","alt":null,"width":1856,"height":2464,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/06-planner-hover-04.jpg?v=1763732931","variant_ids":[56821844935031,56821844967799,56821845000567,56821845033335,56821845066103,56821845098871,56821845131639,56821845164407,56821845197175,56821845229943,56821845262711,56821845295479,56821845328247,56821845361015,56821845393783,56821845426551,56821845459319,56821845492087]},"available":true,"name":"Day-to-Day Planner - Purple \/ A5 \/ Soft cover","public_title":"Purple \/ A5 \/ Soft cover","options":["Purple","A5","Soft cover"],"price":1300,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","featured_media":{"alt":null,"id":67606642884983,"position":5,"preview_image":{"aspect_ratio":0.753,"height":2464,"width":1856,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/06-planner-hover-04.jpg?v=1763732931"}},"requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56821845000567,"title":"Purple \/ A4 \/ Hard cover","option1":"Purple","option2":"A4","option3":"Hard cover","sku":null,"requires_shipping":true,"taxable":true,"featured_image":{"id":82286135837047,"product_id":15252883210615,"position":5,"created_at":"2025-11-21T08:48:47-05:00","updated_at":"2025-11-21T08:48:51-05:00","alt":null,"width":1856,"height":2464,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/06-planner-hover-04.jpg?v=1763732931","variant_ids":[56821844935031,56821844967799,56821845000567,56821845033335,56821845066103,56821845098871,56821845131639,56821845164407,56821845197175,56821845229943,56821845262711,56821845295479,56821845328247,56821845361015,56821845393783,56821845426551,56821845459319,56821845492087]},"available":true,"name":"Day-to-Day Planner - Purple \/ A4 \/ Hard cover","public_title":"Purple \/ A4 \/ Hard cover","options":["Purple","A4","Hard cover"],"price":1300,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","featured_media":{"alt":null,"id":67606642884983,"position":5,"preview_image":{"aspect_ratio":0.753,"height":2464,"width":1856,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/06-planner-hover-04.jpg?v=1763732931"}},"requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56821845033335,"title":"Purple \/ A4 \/ Soft cover","option1":"Purple","option2":"A4","option3":"Soft cover","sku":null,"requires_shipping":true,"taxable":true,"featured_image":{"id":82286135837047,"product_id":15252883210615,"position":5,"created_at":"2025-11-21T08:48:47-05:00","updated_at":"2025-11-21T08:48:51-05:00","alt":null,"width":1856,"height":2464,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/06-planner-hover-04.jpg?v=1763732931","variant_ids":[56821844935031,56821844967799,56821845000567,56821845033335,56821845066103,56821845098871,56821845131639,56821845164407,56821845197175,56821845229943,56821845262711,56821845295479,56821845328247,56821845361015,56821845393783,56821845426551,56821845459319,56821845492087]},"available":true,"name":"Day-to-Day Planner - Purple \/ A4 \/ Soft cover","public_title":"Purple \/ A4 \/ Soft cover","options":["Purple","A4","Soft cover"],"price":1300,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","featured_media":{"alt":null,"id":67606642884983,"position":5,"preview_image":{"aspect_ratio":0.753,"height":2464,"width":1856,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/06-planner-hover-04.jpg?v=1763732931"}},"requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56821845066103,"title":"Purple \/ A3 \/ Hard cover","option1":"Purple","option2":"A3","option3":"Hard cover","sku":null,"requires_shipping":true,"taxable":true,"featured_image":{"id":82286135837047,"product_id":15252883210615,"position":5,"created_at":"2025-11-21T08:48:47-05:00","updated_at":"2025-11-21T08:48:51-05:00","alt":null,"width":1856,"height":2464,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/06-planner-hover-04.jpg?v=1763732931","variant_ids":[56821844935031,56821844967799,56821845000567,56821845033335,56821845066103,56821845098871,56821845131639,56821845164407,56821845197175,56821845229943,56821845262711,56821845295479,56821845328247,56821845361015,56821845393783,56821845426551,56821845459319,56821845492087]},"available":true,"name":"Day-to-Day Planner - Purple \/ A3 \/ Hard cover","public_title":"Purple \/ A3 \/ Hard cover","options":["Purple","A3","Hard cover"],"price":1300,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","featured_media":{"alt":null,"id":67606642884983,"position":5,"preview_image":{"aspect_ratio":0.753,"height":2464,"width":1856,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/06-planner-hover-04.jpg?v=1763732931"}},"requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56821845098871,"title":"Purple \/ A3 \/ Soft cover","option1":"Purple","option2":"A3","option3":"Soft cover","sku":null,"requires_shipping":true,"taxable":true,"featured_image":{"id":82286135837047,"product_id":15252883210615,"position":5,"created_at":"2025-11-21T08:48:47-05:00","updated_at":"2025-11-21T08:48:51-05:00","alt":null,"width":1856,"height":2464,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/06-planner-hover-04.jpg?v=1763732931","variant_ids":[56821844935031,56821844967799,56821845000567,56821845033335,56821845066103,56821845098871,56821845131639,56821845164407,56821845197175,56821845229943,56821845262711,56821845295479,56821845328247,56821845361015,56821845393783,56821845426551,56821845459319,56821845492087]},"available":true,"name":"Day-to-Day Planner - Purple \/ A3 \/ Soft cover","public_title":"Purple \/ A3 \/ Soft cover","options":["Purple","A3","Soft cover"],"price":1300,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","featured_media":{"alt":null,"id":67606642884983,"position":5,"preview_image":{"aspect_ratio":0.753,"height":2464,"width":1856,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/06-planner-hover-04.jpg?v=1763732931"}},"requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56821845131639,"title":"Red \/ A5 \/ Hard cover","option1":"Red","option2":"A5","option3":"Hard cover","sku":null,"requires_shipping":true,"taxable":true,"featured_image":{"id":82286135837047,"product_id":15252883210615,"position":5,"created_at":"2025-11-21T08:48:47-05:00","updated_at":"2025-11-21T08:48:51-05:00","alt":null,"width":1856,"height":2464,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/06-planner-hover-04.jpg?v=1763732931","variant_ids":[56821844935031,56821844967799,56821845000567,56821845033335,56821845066103,56821845098871,56821845131639,56821845164407,56821845197175,56821845229943,56821845262711,56821845295479,56821845328247,56821845361015,56821845393783,56821845426551,56821845459319,56821845492087]},"available":true,"name":"Day-to-Day Planner - Red \/ A5 \/ Hard cover","public_title":"Red \/ A5 \/ Hard cover","options":["Red","A5","Hard cover"],"price":1300,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","featured_media":{"alt":null,"id":67606642884983,"position":5,"preview_image":{"aspect_ratio":0.753,"height":2464,"width":1856,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/06-planner-hover-04.jpg?v=1763732931"}},"requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56821845164407,"title":"Red \/ A5 \/ Soft cover","option1":"Red","option2":"A5","option3":"Soft cover","sku":null,"requires_shipping":true,"taxable":true,"featured_image":{"id":82286135837047,"product_id":15252883210615,"position":5,"created_at":"2025-11-21T08:48:47-05:00","updated_at":"2025-11-21T08:48:51-05:00","alt":null,"width":1856,"height":2464,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/06-planner-hover-04.jpg?v=1763732931","variant_ids":[56821844935031,56821844967799,56821845000567,56821845033335,56821845066103,56821845098871,56821845131639,56821845164407,56821845197175,56821845229943,56821845262711,56821845295479,56821845328247,56821845361015,56821845393783,56821845426551,56821845459319,56821845492087]},"available":true,"name":"Day-to-Day Planner - Red \/ A5 \/ Soft cover","public_title":"Red \/ A5 \/ Soft cover","options":["Red","A5","Soft cover"],"price":1300,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","featured_media":{"alt":null,"id":67606642884983,"position":5,"preview_image":{"aspect_ratio":0.753,"height":2464,"width":1856,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/06-planner-hover-04.jpg?v=1763732931"}},"requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56821845197175,"title":"Red \/ A4 \/ Hard cover","option1":"Red","option2":"A4","option3":"Hard cover","sku":null,"requires_shipping":true,"taxable":true,"featured_image":{"id":82286135837047,"product_id":15252883210615,"position":5,"created_at":"2025-11-21T08:48:47-05:00","updated_at":"2025-11-21T08:48:51-05:00","alt":null,"width":1856,"height":2464,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/06-planner-hover-04.jpg?v=1763732931","variant_ids":[56821844935031,56821844967799,56821845000567,56821845033335,56821845066103,56821845098871,56821845131639,56821845164407,56821845197175,56821845229943,56821845262711,56821845295479,56821845328247,56821845361015,56821845393783,56821845426551,56821845459319,56821845492087]},"available":true,"name":"Day-to-Day Planner - Red \/ A4 \/ Hard cover","public_title":"Red \/ A4 \/ Hard cover","options":["Red","A4","Hard cover"],"price":1300,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","featured_media":{"alt":null,"id":67606642884983,"position":5,"preview_image":{"aspect_ratio":0.753,"height":2464,"width":1856,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/06-planner-hover-04.jpg?v=1763732931"}},"requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56821845229943,"title":"Red \/ A4 \/ Soft cover","option1":"Red","option2":"A4","option3":"Soft cover","sku":null,"requires_shipping":true,"taxable":true,"featured_image":{"id":82286135837047,"product_id":15252883210615,"position":5,"created_at":"2025-11-21T08:48:47-05:00","updated_at":"2025-11-21T08:48:51-05:00","alt":null,"width":1856,"height":2464,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/06-planner-hover-04.jpg?v=1763732931","variant_ids":[56821844935031,56821844967799,56821845000567,56821845033335,56821845066103,56821845098871,56821845131639,56821845164407,56821845197175,56821845229943,56821845262711,56821845295479,56821845328247,56821845361015,56821845393783,56821845426551,56821845459319,56821845492087]},"available":true,"name":"Day-to-Day Planner - Red \/ A4 \/ Soft cover","public_title":"Red \/ A4 \/ Soft cover","options":["Red","A4","Soft cover"],"price":1300,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","featured_media":{"alt":null,"id":67606642884983,"position":5,"preview_image":{"aspect_ratio":0.753,"height":2464,"width":1856,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/06-planner-hover-04.jpg?v=1763732931"}},"requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56821845262711,"title":"Red \/ A3 \/ Hard cover","option1":"Red","option2":"A3","option3":"Hard cover","sku":null,"requires_shipping":true,"taxable":true,"featured_image":{"id":82286135837047,"product_id":15252883210615,"position":5,"created_at":"2025-11-21T08:48:47-05:00","updated_at":"2025-11-21T08:48:51-05:00","alt":null,"width":1856,"height":2464,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/06-planner-hover-04.jpg?v=1763732931","variant_ids":[56821844935031,56821844967799,56821845000567,56821845033335,56821845066103,56821845098871,56821845131639,56821845164407,56821845197175,56821845229943,56821845262711,56821845295479,56821845328247,56821845361015,56821845393783,56821845426551,56821845459319,56821845492087]},"available":true,"name":"Day-to-Day Planner - Red \/ A3 \/ Hard cover","public_title":"Red \/ A3 \/ Hard cover","options":["Red","A3","Hard cover"],"price":1300,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","featured_media":{"alt":null,"id":67606642884983,"position":5,"preview_image":{"aspect_ratio":0.753,"height":2464,"width":1856,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/06-planner-hover-04.jpg?v=1763732931"}},"requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56821845295479,"title":"Red \/ A3 \/ Soft cover","option1":"Red","option2":"A3","option3":"Soft cover","sku":null,"requires_shipping":true,"taxable":true,"featured_image":{"id":82286135837047,"product_id":15252883210615,"position":5,"created_at":"2025-11-21T08:48:47-05:00","updated_at":"2025-11-21T08:48:51-05:00","alt":null,"width":1856,"height":2464,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/06-planner-hover-04.jpg?v=1763732931","variant_ids":[56821844935031,56821844967799,56821845000567,56821845033335,56821845066103,56821845098871,56821845131639,56821845164407,56821845197175,56821845229943,56821845262711,56821845295479,56821845328247,56821845361015,56821845393783,56821845426551,56821845459319,56821845492087]},"available":true,"name":"Day-to-Day Planner - Red \/ A3 \/ Soft cover","public_title":"Red \/ A3 \/ Soft cover","options":["Red","A3","Soft cover"],"price":1300,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","featured_media":{"alt":null,"id":67606642884983,"position":5,"preview_image":{"aspect_ratio":0.753,"height":2464,"width":1856,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/06-planner-hover-04.jpg?v=1763732931"}},"requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56821845328247,"title":"Green \/ A5 \/ Hard cover","option1":"Green","option2":"A5","option3":"Hard cover","sku":null,"requires_shipping":true,"taxable":true,"featured_image":{"id":82286135837047,"product_id":15252883210615,"position":5,"created_at":"2025-11-21T08:48:47-05:00","updated_at":"2025-11-21T08:48:51-05:00","alt":null,"width":1856,"height":2464,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/06-planner-hover-04.jpg?v=1763732931","variant_ids":[56821844935031,56821844967799,56821845000567,56821845033335,56821845066103,56821845098871,56821845131639,56821845164407,56821845197175,56821845229943,56821845262711,56821845295479,56821845328247,56821845361015,56821845393783,56821845426551,56821845459319,56821845492087]},"available":true,"name":"Day-to-Day Planner - Green \/ A5 \/ Hard cover","public_title":"Green \/ A5 \/ Hard cover","options":["Green","A5","Hard cover"],"price":1300,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","featured_media":{"alt":null,"id":67606642884983,"position":5,"preview_image":{"aspect_ratio":0.753,"height":2464,"width":1856,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/06-planner-hover-04.jpg?v=1763732931"}},"requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56821845361015,"title":"Green \/ A5 \/ Soft cover","option1":"Green","option2":"A5","option3":"Soft cover","sku":null,"requires_shipping":true,"taxable":true,"featured_image":{"id":82286135837047,"product_id":15252883210615,"position":5,"created_at":"2025-11-21T08:48:47-05:00","updated_at":"2025-11-21T08:48:51-05:00","alt":null,"width":1856,"height":2464,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/06-planner-hover-04.jpg?v=1763732931","variant_ids":[56821844935031,56821844967799,56821845000567,56821845033335,56821845066103,56821845098871,56821845131639,56821845164407,56821845197175,56821845229943,56821845262711,56821845295479,56821845328247,56821845361015,56821845393783,56821845426551,56821845459319,56821845492087]},"available":true,"name":"Day-to-Day Planner - Green \/ A5 \/ Soft cover","public_title":"Green \/ A5 \/ Soft cover","options":["Green","A5","Soft cover"],"price":1300,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","featured_media":{"alt":null,"id":67606642884983,"position":5,"preview_image":{"aspect_ratio":0.753,"height":2464,"width":1856,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/06-planner-hover-04.jpg?v=1763732931"}},"requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56821845393783,"title":"Green \/ A4 \/ Hard cover","option1":"Green","option2":"A4","option3":"Hard cover","sku":null,"requires_shipping":true,"taxable":true,"featured_image":{"id":82286135837047,"product_id":15252883210615,"position":5,"created_at":"2025-11-21T08:48:47-05:00","updated_at":"2025-11-21T08:48:51-05:00","alt":null,"width":1856,"height":2464,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/06-planner-hover-04.jpg?v=1763732931","variant_ids":[56821844935031,56821844967799,56821845000567,56821845033335,56821845066103,56821845098871,56821845131639,56821845164407,56821845197175,56821845229943,56821845262711,56821845295479,56821845328247,56821845361015,56821845393783,56821845426551,56821845459319,56821845492087]},"available":true,"name":"Day-to-Day Planner - Green \/ A4 \/ Hard cover","public_title":"Green \/ A4 \/ Hard cover","options":["Green","A4","Hard cover"],"price":1300,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","featured_media":{"alt":null,"id":67606642884983,"position":5,"preview_image":{"aspect_ratio":0.753,"height":2464,"width":1856,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/06-planner-hover-04.jpg?v=1763732931"}},"requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56821845426551,"title":"Green \/ A4 \/ Soft cover","option1":"Green","option2":"A4","option3":"Soft cover","sku":null,"requires_shipping":true,"taxable":true,"featured_image":{"id":82286135837047,"product_id":15252883210615,"position":5,"created_at":"2025-11-21T08:48:47-05:00","updated_at":"2025-11-21T08:48:51-05:00","alt":null,"width":1856,"height":2464,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/06-planner-hover-04.jpg?v=1763732931","variant_ids":[56821844935031,56821844967799,56821845000567,56821845033335,56821845066103,56821845098871,56821845131639,56821845164407,56821845197175,56821845229943,56821845262711,56821845295479,56821845328247,56821845361015,56821845393783,56821845426551,56821845459319,56821845492087]},"available":true,"name":"Day-to-Day Planner - Green \/ A4 \/ Soft cover","public_title":"Green \/ A4 \/ Soft cover","options":["Green","A4","Soft cover"],"price":1300,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","featured_media":{"alt":null,"id":67606642884983,"position":5,"preview_image":{"aspect_ratio":0.753,"height":2464,"width":1856,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/06-planner-hover-04.jpg?v=1763732931"}},"requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56821845459319,"title":"Green \/ A3 \/ Hard cover","option1":"Green","option2":"A3","option3":"Hard cover","sku":null,"requires_shipping":true,"taxable":true,"featured_image":{"id":82286135837047,"product_id":15252883210615,"position":5,"created_at":"2025-11-21T08:48:47-05:00","updated_at":"2025-11-21T08:48:51-05:00","alt":null,"width":1856,"height":2464,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/06-planner-hover-04.jpg?v=1763732931","variant_ids":[56821844935031,56821844967799,56821845000567,56821845033335,56821845066103,56821845098871,56821845131639,56821845164407,56821845197175,56821845229943,56821845262711,56821845295479,56821845328247,56821845361015,56821845393783,56821845426551,56821845459319,56821845492087]},"available":true,"name":"Day-to-Day Planner - Green \/ A3 \/ Hard cover","public_title":"Green \/ A3 \/ Hard cover","options":["Green","A3","Hard cover"],"price":1300,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","featured_media":{"alt":null,"id":67606642884983,"position":5,"preview_image":{"aspect_ratio":0.753,"height":2464,"width":1856,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/06-planner-hover-04.jpg?v=1763732931"}},"requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56821845492087,"title":"Green \/ A3 \/ Soft cover","option1":"Green","option2":"A3","option3":"Soft cover","sku":null,"requires_shipping":true,"taxable":true,"featured_image":{"id":82286135837047,"product_id":15252883210615,"position":5,"created_at":"2025-11-21T08:48:47-05:00","updated_at":"2025-11-21T08:48:51-05:00","alt":null,"width":1856,"height":2464,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/06-planner-hover-04.jpg?v=1763732931","variant_ids":[56821844935031,56821844967799,56821845000567,56821845033335,56821845066103,56821845098871,56821845131639,56821845164407,56821845197175,56821845229943,56821845262711,56821845295479,56821845328247,56821845361015,56821845393783,56821845426551,56821845459319,56821845492087]},"available":true,"name":"Day-to-Day Planner - Green \/ A3 \/ Soft cover","public_title":"Green \/ A3 \/ Soft cover","options":["Green","A3","Soft cover"],"price":1300,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","featured_media":{"alt":null,"id":67606642884983,"position":5,"preview_image":{"aspect_ratio":0.753,"height":2464,"width":1856,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/06-planner-hover-04.jpg?v=1763732931"}},"requires_selling_plan":false,"selling_plan_allocations":[]}]
+    </script>
+    <script type="application/json" data-product-card-featured-media="">
+      {"alt":null,"id":67606642917751,"position":1,"preview_image":{"aspect_ratio":0.75,"height":2268,"width":1701,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/06-planner.jpg?v=1763732931"},"aspect_ratio":0.75,"height":2268,"media_type":"image","src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/06-planner.jpg?v=1763732931","width":1701}
+    </script>
+    <span class="hidden" data-product-card-options="" data-product-title="Day-to-Day Planner" data-product-columns="4" data-product-columns-mobile="1" data-product-ratio="0.76" data-product-fit="cover" data-product-has-price-varies="false"></span><a href="/products/day-to-day-planner" class="product-card__link-overlay focus-inset" aria-label="Day-to-Day Planner Product link"></a></product-card>
+
+                </div><div class="collection-product-card">
+                  
+
+
+<product-card class="product-card product-card--mobile-1 product-card_image-linked" data-product="essential-grid-planner" data-product-id="15252881572215" data-image-linked="true" data-card-color-swatches="true" tabindex="0" style="--card-padding-bottom: 131.7%; --slide-count: 5">
+  <div class="product-card__inner">
+    <div class="product-card__media">
+
+          <div class="swiper-container product-card-js global-variant-js-media-list slider_started swiper-initialized swiper-horizontal swiper-backface-hidden" data-loop="false">
+            <div class="swiper-wrapper" id="swiper-wrapper-347d7c1061ebcf946" aria-live="polite" style="transform: translate3d(0px, 0px, 0px);">
+              
+                
+
+                
+                  
+                    
+                    
+
+                
+
+                <div class="swiper-slide swiper-slide-active" data-media-id="67606624862583" data-variant-id="56821846409591" role="group" aria-label="1 / 5" style="width: 326px; margin-right: 2px;">
+                  <img src="//shift-sketch.myshopify.com/cdn/shop/files/05-planner.jpg?v=1763732862&amp;width=1701" alt="Essential Grid Planner" srcset="//shift-sketch.myshopify.com/cdn/shop/files/05-planner.jpg?v=1763732862&amp;width=360 360w, //shift-sketch.myshopify.com/cdn/shop/files/05-planner.jpg?v=1763732862&amp;width=535 535w, //shift-sketch.myshopify.com/cdn/shop/files/05-planner.jpg?v=1763732862&amp;width=720 720w, //shift-sketch.myshopify.com/cdn/shop/files/05-planner.jpg?v=1763732862&amp;width=940 940w, //shift-sketch.myshopify.com/cdn/shop/files/05-planner.jpg?v=1763732862&amp;width=1066 1066w, //shift-sketch.myshopify.com/cdn/shop/files/05-planner.jpg?v=1763732862&amp;width=1200 1200w, //shift-sketch.myshopify.com/cdn/shop/files/05-planner.jpg?v=1763732862&amp;width=1400 1400w, //shift-sketch.myshopify.com/cdn/shop/files/05-planner.jpg?v=1763732862&amp;width=1600 1600w" width="1701" height="2268" loading="lazy" class="motion-reduce media" sizes="(min-width: 1200px) calc(1.03 * (100vw / 4)),(min-width: 990px) calc(1.03 * (100vw / 3)),(min-width: 576px) calc(1.03 * (100vw / 2)),calc(1.03 * 100vw)" style="object-fit: cover;">
+                </div>
+              
+                
+
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+
+                
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                
+
+                <div class="swiper-slide swiper-slide-next" data-media-id="67606624731511" role="group" aria-label="2 / 5" style="width: 326px; margin-right: 2px;">
+                  <img src="//shift-sketch.myshopify.com/cdn/shop/files/05-planner-hover-01.jpg?v=1763732862&amp;width=1688" alt="Essential Grid Planner" srcset="//shift-sketch.myshopify.com/cdn/shop/files/05-planner-hover-01.jpg?v=1763732862&amp;width=360 360w, //shift-sketch.myshopify.com/cdn/shop/files/05-planner-hover-01.jpg?v=1763732862&amp;width=535 535w, //shift-sketch.myshopify.com/cdn/shop/files/05-planner-hover-01.jpg?v=1763732862&amp;width=720 720w, //shift-sketch.myshopify.com/cdn/shop/files/05-planner-hover-01.jpg?v=1763732862&amp;width=940 940w, //shift-sketch.myshopify.com/cdn/shop/files/05-planner-hover-01.jpg?v=1763732862&amp;width=1066 1066w, //shift-sketch.myshopify.com/cdn/shop/files/05-planner-hover-01.jpg?v=1763732862&amp;width=1200 1200w, //shift-sketch.myshopify.com/cdn/shop/files/05-planner-hover-01.jpg?v=1763732862&amp;width=1400 1400w, //shift-sketch.myshopify.com/cdn/shop/files/05-planner-hover-01.jpg?v=1763732862&amp;width=1600 1600w" width="1688" height="2250" loading="lazy" class="motion-reduce media" sizes="(min-width: 1200px) calc(1.03 * (100vw / 4)),(min-width: 990px) calc(1.03 * (100vw / 3)),(min-width: 576px) calc(1.03 * (100vw / 2)),calc(1.03 * 100vw)" style="object-fit: cover;">
+                </div>
+              
+                
+
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+
+                
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                
+
+                <div class="swiper-slide" data-media-id="67606624764279" role="group" aria-label="3 / 5" style="width: 326px; margin-right: 2px;">
+                  <img src="//shift-sketch.myshopify.com/cdn/shop/files/05-planner-hover-02.jpg?v=1763732862&amp;width=1688" alt="Essential Grid Planner" srcset="//shift-sketch.myshopify.com/cdn/shop/files/05-planner-hover-02.jpg?v=1763732862&amp;width=360 360w, //shift-sketch.myshopify.com/cdn/shop/files/05-planner-hover-02.jpg?v=1763732862&amp;width=535 535w, //shift-sketch.myshopify.com/cdn/shop/files/05-planner-hover-02.jpg?v=1763732862&amp;width=720 720w, //shift-sketch.myshopify.com/cdn/shop/files/05-planner-hover-02.jpg?v=1763732862&amp;width=940 940w, //shift-sketch.myshopify.com/cdn/shop/files/05-planner-hover-02.jpg?v=1763732862&amp;width=1066 1066w, //shift-sketch.myshopify.com/cdn/shop/files/05-planner-hover-02.jpg?v=1763732862&amp;width=1200 1200w, //shift-sketch.myshopify.com/cdn/shop/files/05-planner-hover-02.jpg?v=1763732862&amp;width=1400 1400w, //shift-sketch.myshopify.com/cdn/shop/files/05-planner-hover-02.jpg?v=1763732862&amp;width=1600 1600w" width="1688" height="2250" loading="lazy" class="motion-reduce media" sizes="(min-width: 1200px) calc(1.03 * (100vw / 4)),(min-width: 990px) calc(1.03 * (100vw / 3)),(min-width: 576px) calc(1.03 * (100vw / 2)),calc(1.03 * 100vw)" style="object-fit: cover;">
+                </div>
+              
+                
+
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+
+                
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                
+
+                <div class="swiper-slide" data-media-id="67606624797047" role="group" aria-label="4 / 5" style="width: 326px; margin-right: 2px;">
+                  <img src="//shift-sketch.myshopify.com/cdn/shop/files/05-planner-hover-03.jpg?v=1763732863&amp;width=1800" alt="Essential Grid Planner" srcset="//shift-sketch.myshopify.com/cdn/shop/files/05-planner-hover-03.jpg?v=1763732863&amp;width=360 360w, //shift-sketch.myshopify.com/cdn/shop/files/05-planner-hover-03.jpg?v=1763732863&amp;width=535 535w, //shift-sketch.myshopify.com/cdn/shop/files/05-planner-hover-03.jpg?v=1763732863&amp;width=720 720w, //shift-sketch.myshopify.com/cdn/shop/files/05-planner-hover-03.jpg?v=1763732863&amp;width=940 940w, //shift-sketch.myshopify.com/cdn/shop/files/05-planner-hover-03.jpg?v=1763732863&amp;width=1066 1066w, //shift-sketch.myshopify.com/cdn/shop/files/05-planner-hover-03.jpg?v=1763732863&amp;width=1200 1200w, //shift-sketch.myshopify.com/cdn/shop/files/05-planner-hover-03.jpg?v=1763732863&amp;width=1400 1400w, //shift-sketch.myshopify.com/cdn/shop/files/05-planner-hover-03.jpg?v=1763732863&amp;width=1600 1600w, //shift-sketch.myshopify.com/cdn/shop/files/05-planner-hover-03.jpg?v=1763732863&amp;width=1800 1800w" width="1800" height="2400" loading="lazy" class="motion-reduce media" sizes="(min-width: 1200px) calc(1.03 * (100vw / 4)),(min-width: 990px) calc(1.03 * (100vw / 3)),(min-width: 576px) calc(1.03 * (100vw / 2)),calc(1.03 * 100vw)" style="object-fit: cover;">
+                </div>
+              
+                
+
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                    
+                    
+
+                
+
+                <div class="swiper-slide" data-media-id="67606624829815" data-variant-id="56821846507895" role="group" aria-label="5 / 5" style="width: 326px; margin-right: 2px;">
+                  <img src="//shift-sketch.myshopify.com/cdn/shop/files/05-planner-hover-04.jpg?v=1763732862&amp;width=1856" alt="Essential Grid Planner" srcset="//shift-sketch.myshopify.com/cdn/shop/files/05-planner-hover-04.jpg?v=1763732862&amp;width=360 360w, //shift-sketch.myshopify.com/cdn/shop/files/05-planner-hover-04.jpg?v=1763732862&amp;width=535 535w, //shift-sketch.myshopify.com/cdn/shop/files/05-planner-hover-04.jpg?v=1763732862&amp;width=720 720w, //shift-sketch.myshopify.com/cdn/shop/files/05-planner-hover-04.jpg?v=1763732862&amp;width=940 940w, //shift-sketch.myshopify.com/cdn/shop/files/05-planner-hover-04.jpg?v=1763732862&amp;width=1066 1066w, //shift-sketch.myshopify.com/cdn/shop/files/05-planner-hover-04.jpg?v=1763732862&amp;width=1200 1200w, //shift-sketch.myshopify.com/cdn/shop/files/05-planner-hover-04.jpg?v=1763732862&amp;width=1400 1400w, //shift-sketch.myshopify.com/cdn/shop/files/05-planner-hover-04.jpg?v=1763732862&amp;width=1600 1600w, //shift-sketch.myshopify.com/cdn/shop/files/05-planner-hover-04.jpg?v=1763732862&amp;width=1800 1800w" width="1856" height="2464" loading="lazy" class="motion-reduce media" sizes="(min-width: 1200px) calc(1.03 * (100vw / 4)),(min-width: 990px) calc(1.03 * (100vw / 3)),(min-width: 576px) calc(1.03 * (100vw / 2)),calc(1.03 * 100vw)" style="object-fit: cover;">
+                </div>
+              
+            </div>
+            <div class="product-button-group">
+              <div class="product-slider-button-prev">
+                <div class="swiper-button-prev swiper-button-disabled" tabindex="-1" role="button" aria-label="Previous slide" aria-controls="swiper-wrapper-347d7c1061ebcf946" aria-disabled="true"><svg class="icon icon-arrow-slider-left" width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M14 2L6 10L14 18" stroke="currentColor"></path>
+</svg>
+</div>
+              </div>
+
+              <div class="product-slider-button-next">
+                <div class="swiper-button-next" tabindex="0" role="button" aria-label="Next slide" aria-controls="swiper-wrapper-347d7c1061ebcf946" aria-disabled="false"><svg class="icon icon-arrow-slider-right" width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M6 2L14 10L6 18" stroke="currentColor"></path>
+</svg>
+</div>
+              </div>
+            </div>
+            <div class="swiper-pagination product-card-pagination swiper-pagination-default swiper-pagination-clickable swiper-pagination-bullets swiper-pagination-horizontal"><span class="swiper-pagination-bullet swiper-pagination-bullet-active" tabindex="0" role="button" aria-label="Go to slide 1" aria-current="true"></span><span class="swiper-pagination-bullet" tabindex="0" role="button" aria-label="Go to slide 2"></span><span class="swiper-pagination-bullet" tabindex="0" role="button" aria-label="Go to slide 3"></span><span class="swiper-pagination-bullet" tabindex="0" role="button" aria-label="Go to slide 4"></span><span class="swiper-pagination-bullet" tabindex="0" role="button" aria-label="Go to slide 5"></span></div>
+          <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
+        
+</div><div class="product-card__top">
+        
+<div class="product-card__badges body-normal"></div>
+      </div><div class="product-card__quickview product-card__quickview--mobile-true no-js-hidden">
+        <modal-opener data-modal="#QuickView-15252881572215">
+          <button class="product-card__button button button--primary focus-inset" aria-haspopup="dialog" data-product-url="/products/essential-grid-planner" aria-label="Quick view">
+            <div class="button__content">
+              <span class="product-card__quickview-text button__label" data-label="Quick view">Quick view</span>
+              <span class="product-card__mobile-icon button__icon">
+                <svg width="22" height="22" viewBox="0 0 22 22" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M2.66745 12.0748C2.35434 11.3936 2.35434 10.6077 2.66745 9.92654C4.11679 6.77337 7.30311 4.58398 11.0008 4.58398C14.6985 4.58398 17.8848 6.77338 19.3341 9.92654C19.6472 10.6077 19.6472 11.3936 19.3341 12.0748C17.8848 15.2279 14.6985 17.4173 11.0008 17.4173C7.30311 17.4173 4.11679 15.2279 2.66745 12.0748Z" stroke="currentColor" stroke-width="1.5"></path>
+  <path d="M13.7508 11.0007C13.7508 12.5194 12.5196 13.7507 11.0008 13.7507C9.48201 13.7507 8.25079 12.5194 8.25079 11.0007C8.25079 9.48187 9.48201 8.25065 11.0008 8.25065C12.5196 8.25065 13.7508 9.48187 13.7508 11.0007Z" stroke="currentColor" stroke-width="1.5"></path>
+</svg>
+
+              </span>
+            </div>
+            <div class="loading-overlay__spinner hidden">
+              <svg aria-hidden="true" focusable="false" role="presentation" class="spinner" viewBox="0 0 66 66" xmlns="http://www.w3.org/2000/svg">
+  <circle class="path" fill="none" stroke-width="5" cx="33" cy="33" r="30"></circle>
+</svg>
+
+            </div>
+          </button>
+        </modal-opener>
+
+        
+
+
+      </div></div>
+
+  
+  <div class="product-card__information">
+    <div class="product-card__information-top"><h2 class="product-card__title">
+        <a class="focus-inset" href="/products/essential-grid-planner" aria-label="Essential Grid Planner">Essential Grid Planner</a>
+      </h2>
+
+      <div class="product-card__price-group">
+        
+<div class="price">
+  <dl class="price-text"><div class="price__regular">
+      <dt class="visually-hidden">Regular price</dt>
+      <dd>
+        <span class="price-item price-item--regular">$12.50</span>
+      </dd>
+    </div>
+    <div class="price__sale">
+      <dt class="visually-hidden">Sale price</dt>
+      <dd>
+        <span class="price-item price-item--sale">$12.50</span>
+      </dd>
+      <dt class="visually-hidden">Regular price</dt>
+      <dd class="price__compare">
+        <s class="price-item price-item--regular"></s>
+      </dd>
+    </div>
+  </dl>
+
+  <dl class="unit-price hidden">
+    <dt class="visually-hidden">Unit price</dt>
+    <dd></dd>
+  </dl>
+</div>
+
+      </div>
+      
+
+          <div class="product-card__description body-small">210 x 105 mm</div><div class="product-card__error body-xs" role="alert" hidden=""></div>
+    </div>
+
+    
+<div class="product-card__information-bottom" tabindex="0"><div class="product-card__color-swatches">
+                
+                  <div class="body-small js-option-selected-value" data-option-position="1">
+                    Gray</div>
+                
+                <div class="product-card__option-group js-card-option-group" data-option-position="1">
+                  
+
+
+  
+
+  
+  
+  
+
+<input type="radio" id="template--27266934243703__product-grid-1-0-15252881572215-12" name="Color-template--27266934243703__product-grid-15252881572215-12" value="Gray" data-variant-id="56821846409591" form="product-form-template--27266934243703__product-grid" checked="" tabindex="-1" aria-label="Gray" data-option-value-id="12613471043959" style="">
+    
+<label for="template--27266934243703__product-grid-1-0-15252881572215-12" class="color-swatch" style="--swatch-color: rgb(128 128 128);" title="Gray" tabindex="0" onkeydown="if(event.key==='Enter'||event.key===' '){event.preventDefault();document.getElementById(this.getAttribute('for')).click();}" data-unavailable-color-label="N/A">
+        <span class="visually-hidden">Gray</span>
+      </label>
+
+  
+
+  
+  
+  
+
+<input type="radio" id="template--27266934243703__product-grid-1-1-15252881572215-12" name="Color-template--27266934243703__product-grid-15252881572215-12" value="Purple" data-variant-id="56821846507895" form="product-form-template--27266934243703__product-grid" tabindex="-1" aria-label="Purple" data-option-value-id="12613471076727" style="">
+    
+<label for="template--27266934243703__product-grid-1-1-15252881572215-12" class="color-swatch" style="--swatch-color: rgb(165 77 207);" title="Purple" tabindex="0" onkeydown="if(event.key==='Enter'||event.key===' '){event.preventDefault();document.getElementById(this.getAttribute('for')).click();}" data-unavailable-color-label="N/A">
+        <span class="visually-hidden">Purple</span>
+      </label>
+
+  
+
+  
+  
+  
+
+<input type="radio" id="template--27266934243703__product-grid-1-2-15252881572215-12" name="Color-template--27266934243703__product-grid-15252881572215-12" value="Red" data-variant-id="56821846606199" form="product-form-template--27266934243703__product-grid" tabindex="-1" aria-label="Red" data-option-value-id="12613471109495" style="">
+    
+<label for="template--27266934243703__product-grid-1-2-15252881572215-12" class="color-swatch" style="--swatch-color: rgb(246 31 31);" title="Red" tabindex="0" onkeydown="if(event.key==='Enter'||event.key===' '){event.preventDefault();document.getElementById(this.getAttribute('for')).click();}" data-unavailable-color-label="N/A">
+        <span class="visually-hidden">Red</span>
+      </label>
+                </div>
+
+                
+              </div></div></div><script type="application/json" data-product-card-variants="">
+      [{"id":56821846409591,"title":"Gray \/ A5","option1":"Gray","option2":"A5","option3":null,"sku":null,"requires_shipping":true,"taxable":true,"featured_image":{"id":82286118076791,"product_id":15252881572215,"position":1,"created_at":"2025-11-21T08:47:39-05:00","updated_at":"2025-11-21T08:47:42-05:00","alt":null,"width":1701,"height":2268,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/05-planner.jpg?v=1763732862","variant_ids":[56821846409591,56821846442359,56821846475127]},"available":true,"name":"Essential Grid Planner - Gray \/ A5","public_title":"Gray \/ A5","options":["Gray","A5"],"price":1250,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","featured_media":{"alt":null,"id":67606624862583,"position":1,"preview_image":{"aspect_ratio":0.75,"height":2268,"width":1701,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/05-planner.jpg?v=1763732862"}},"requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56821846442359,"title":"Gray \/ A4","option1":"Gray","option2":"A4","option3":null,"sku":null,"requires_shipping":true,"taxable":true,"featured_image":{"id":82286118076791,"product_id":15252881572215,"position":1,"created_at":"2025-11-21T08:47:39-05:00","updated_at":"2025-11-21T08:47:42-05:00","alt":null,"width":1701,"height":2268,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/05-planner.jpg?v=1763732862","variant_ids":[56821846409591,56821846442359,56821846475127]},"available":true,"name":"Essential Grid Planner - Gray \/ A4","public_title":"Gray \/ A4","options":["Gray","A4"],"price":1250,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","featured_media":{"alt":null,"id":67606624862583,"position":1,"preview_image":{"aspect_ratio":0.75,"height":2268,"width":1701,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/05-planner.jpg?v=1763732862"}},"requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56821846475127,"title":"Gray \/ A3","option1":"Gray","option2":"A3","option3":null,"sku":null,"requires_shipping":true,"taxable":true,"featured_image":{"id":82286118076791,"product_id":15252881572215,"position":1,"created_at":"2025-11-21T08:47:39-05:00","updated_at":"2025-11-21T08:47:42-05:00","alt":null,"width":1701,"height":2268,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/05-planner.jpg?v=1763732862","variant_ids":[56821846409591,56821846442359,56821846475127]},"available":true,"name":"Essential Grid Planner - Gray \/ A3","public_title":"Gray \/ A3","options":["Gray","A3"],"price":1250,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","featured_media":{"alt":null,"id":67606624862583,"position":1,"preview_image":{"aspect_ratio":0.75,"height":2268,"width":1701,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/05-planner.jpg?v=1763732862"}},"requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56821846507895,"title":"Purple \/ A5","option1":"Purple","option2":"A5","option3":null,"sku":null,"requires_shipping":true,"taxable":true,"featured_image":{"id":82286118044023,"product_id":15252881572215,"position":5,"created_at":"2025-11-21T08:47:39-05:00","updated_at":"2025-11-21T08:47:42-05:00","alt":null,"width":1856,"height":2464,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/05-planner-hover-04.jpg?v=1763732862","variant_ids":[56821846507895,56821846540663,56821846573431,56821846606199,56821846638967,56821846671735]},"available":true,"name":"Essential Grid Planner - Purple \/ A5","public_title":"Purple \/ A5","options":["Purple","A5"],"price":1250,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","featured_media":{"alt":null,"id":67606624829815,"position":5,"preview_image":{"aspect_ratio":0.753,"height":2464,"width":1856,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/05-planner-hover-04.jpg?v=1763732862"}},"requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56821846540663,"title":"Purple \/ A4","option1":"Purple","option2":"A4","option3":null,"sku":null,"requires_shipping":true,"taxable":true,"featured_image":{"id":82286118044023,"product_id":15252881572215,"position":5,"created_at":"2025-11-21T08:47:39-05:00","updated_at":"2025-11-21T08:47:42-05:00","alt":null,"width":1856,"height":2464,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/05-planner-hover-04.jpg?v=1763732862","variant_ids":[56821846507895,56821846540663,56821846573431,56821846606199,56821846638967,56821846671735]},"available":true,"name":"Essential Grid Planner - Purple \/ A4","public_title":"Purple \/ A4","options":["Purple","A4"],"price":1250,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","featured_media":{"alt":null,"id":67606624829815,"position":5,"preview_image":{"aspect_ratio":0.753,"height":2464,"width":1856,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/05-planner-hover-04.jpg?v=1763732862"}},"requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56821846573431,"title":"Purple \/ A3","option1":"Purple","option2":"A3","option3":null,"sku":null,"requires_shipping":true,"taxable":true,"featured_image":{"id":82286118044023,"product_id":15252881572215,"position":5,"created_at":"2025-11-21T08:47:39-05:00","updated_at":"2025-11-21T08:47:42-05:00","alt":null,"width":1856,"height":2464,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/05-planner-hover-04.jpg?v=1763732862","variant_ids":[56821846507895,56821846540663,56821846573431,56821846606199,56821846638967,56821846671735]},"available":true,"name":"Essential Grid Planner - Purple \/ A3","public_title":"Purple \/ A3","options":["Purple","A3"],"price":1250,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","featured_media":{"alt":null,"id":67606624829815,"position":5,"preview_image":{"aspect_ratio":0.753,"height":2464,"width":1856,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/05-planner-hover-04.jpg?v=1763732862"}},"requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56821846606199,"title":"Red \/ A5","option1":"Red","option2":"A5","option3":null,"sku":null,"requires_shipping":true,"taxable":true,"featured_image":{"id":82286118044023,"product_id":15252881572215,"position":5,"created_at":"2025-11-21T08:47:39-05:00","updated_at":"2025-11-21T08:47:42-05:00","alt":null,"width":1856,"height":2464,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/05-planner-hover-04.jpg?v=1763732862","variant_ids":[56821846507895,56821846540663,56821846573431,56821846606199,56821846638967,56821846671735]},"available":true,"name":"Essential Grid Planner - Red \/ A5","public_title":"Red \/ A5","options":["Red","A5"],"price":1250,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","featured_media":{"alt":null,"id":67606624829815,"position":5,"preview_image":{"aspect_ratio":0.753,"height":2464,"width":1856,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/05-planner-hover-04.jpg?v=1763732862"}},"requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56821846638967,"title":"Red \/ A4","option1":"Red","option2":"A4","option3":null,"sku":null,"requires_shipping":true,"taxable":true,"featured_image":{"id":82286118044023,"product_id":15252881572215,"position":5,"created_at":"2025-11-21T08:47:39-05:00","updated_at":"2025-11-21T08:47:42-05:00","alt":null,"width":1856,"height":2464,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/05-planner-hover-04.jpg?v=1763732862","variant_ids":[56821846507895,56821846540663,56821846573431,56821846606199,56821846638967,56821846671735]},"available":true,"name":"Essential Grid Planner - Red \/ A4","public_title":"Red \/ A4","options":["Red","A4"],"price":1250,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","featured_media":{"alt":null,"id":67606624829815,"position":5,"preview_image":{"aspect_ratio":0.753,"height":2464,"width":1856,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/05-planner-hover-04.jpg?v=1763732862"}},"requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56821846671735,"title":"Red \/ A3","option1":"Red","option2":"A3","option3":null,"sku":null,"requires_shipping":true,"taxable":true,"featured_image":{"id":82286118044023,"product_id":15252881572215,"position":5,"created_at":"2025-11-21T08:47:39-05:00","updated_at":"2025-11-21T08:47:42-05:00","alt":null,"width":1856,"height":2464,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/05-planner-hover-04.jpg?v=1763732862","variant_ids":[56821846507895,56821846540663,56821846573431,56821846606199,56821846638967,56821846671735]},"available":true,"name":"Essential Grid Planner - Red \/ A3","public_title":"Red \/ A3","options":["Red","A3"],"price":1250,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","featured_media":{"alt":null,"id":67606624829815,"position":5,"preview_image":{"aspect_ratio":0.753,"height":2464,"width":1856,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/05-planner-hover-04.jpg?v=1763732862"}},"requires_selling_plan":false,"selling_plan_allocations":[]}]
+    </script>
+    <script type="application/json" data-product-card-featured-media="">
+      {"alt":null,"id":67606624862583,"position":1,"preview_image":{"aspect_ratio":0.75,"height":2268,"width":1701,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/05-planner.jpg?v=1763732862"},"aspect_ratio":0.75,"height":2268,"media_type":"image","src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/05-planner.jpg?v=1763732862","width":1701}
+    </script>
+    <span class="hidden" data-product-card-options="" data-product-title="Essential Grid Planner" data-product-columns="4" data-product-columns-mobile="1" data-product-ratio="0.76" data-product-fit="cover" data-product-has-price-varies="false"></span><a href="/products/essential-grid-planner" class="product-card__link-overlay focus-inset" aria-label="Essential Grid Planner Product link"></a></product-card>
+
+                </div><div class="collection-product-card">
+                  
+
+
+<product-card class="product-card product-card--mobile-1 product-card_image-linked" data-product="essential-notes-pad" data-product-id="15256228331895" data-image-linked="true" data-card-color-swatches="true" tabindex="0" style="--card-padding-bottom: 131.7%; --slide-count: 4">
+  <div class="product-card__inner">
+    <div class="product-card__media">
+
+          <div class="swiper-container product-card-js global-variant-js-media-list slider_started swiper-initialized swiper-horizontal swiper-backface-hidden" data-loop="false">
+            <div class="swiper-wrapper" id="swiper-wrapper-42aa54f0319c7e73" aria-live="polite" style="transform: translate3d(0px, 0px, 0px);">
+              
+                
+
+                
+                  
+                    
+                    
+
+                
+
+                <div class="swiper-slide swiper-slide-active" data-media-id="67656325988727" data-variant-id="56820282327415" role="group" aria-label="1 / 4" style="width: 326px; margin-right: 2px;">
+                  <img src="//shift-sketch.myshopify.com/cdn/shop/files/05-pads.jpg?v=1763977676&amp;width=2603" alt="Essential Notes Pad" srcset="//shift-sketch.myshopify.com/cdn/shop/files/05-pads.jpg?v=1763977676&amp;width=360 360w, //shift-sketch.myshopify.com/cdn/shop/files/05-pads.jpg?v=1763977676&amp;width=535 535w, //shift-sketch.myshopify.com/cdn/shop/files/05-pads.jpg?v=1763977676&amp;width=720 720w, //shift-sketch.myshopify.com/cdn/shop/files/05-pads.jpg?v=1763977676&amp;width=940 940w, //shift-sketch.myshopify.com/cdn/shop/files/05-pads.jpg?v=1763977676&amp;width=1066 1066w, //shift-sketch.myshopify.com/cdn/shop/files/05-pads.jpg?v=1763977676&amp;width=1200 1200w, //shift-sketch.myshopify.com/cdn/shop/files/05-pads.jpg?v=1763977676&amp;width=1400 1400w, //shift-sketch.myshopify.com/cdn/shop/files/05-pads.jpg?v=1763977676&amp;width=1600 1600w, //shift-sketch.myshopify.com/cdn/shop/files/05-pads.jpg?v=1763977676&amp;width=1800 1800w, //shift-sketch.myshopify.com/cdn/shop/files/05-pads.jpg?v=1763977676&amp;width=2000 2000w, //shift-sketch.myshopify.com/cdn/shop/files/05-pads.jpg?v=1763977676&amp;width=2200 2200w, //shift-sketch.myshopify.com/cdn/shop/files/05-pads.jpg?v=1763977676&amp;width=2400 2400w, //shift-sketch.myshopify.com/cdn/shop/files/05-pads.jpg?v=1763977676&amp;width=2600 2600w" width="2603" height="3470" loading="lazy" class="motion-reduce media" sizes="(min-width: 1200px) calc(1.03 * (100vw / 4)),(min-width: 990px) calc(1.03 * (100vw / 3)),(min-width: 576px) calc(1.03 * (100vw / 2)),calc(1.03 * 100vw)" style="object-fit: cover;">
+                </div>
+              
+                
+
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+
+                
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                
+
+                <div class="swiper-slide swiper-slide-next" data-media-id="67656325890423" role="group" aria-label="2 / 4" style="width: 326px; margin-right: 2px;">
+                  <img src="//shift-sketch.myshopify.com/cdn/shop/files/05-pads-hover-01.jpg?v=1763977677&amp;width=1536" alt="Essential Notes Pad" srcset="//shift-sketch.myshopify.com/cdn/shop/files/05-pads-hover-01.jpg?v=1763977677&amp;width=360 360w, //shift-sketch.myshopify.com/cdn/shop/files/05-pads-hover-01.jpg?v=1763977677&amp;width=535 535w, //shift-sketch.myshopify.com/cdn/shop/files/05-pads-hover-01.jpg?v=1763977677&amp;width=720 720w, //shift-sketch.myshopify.com/cdn/shop/files/05-pads-hover-01.jpg?v=1763977677&amp;width=940 940w, //shift-sketch.myshopify.com/cdn/shop/files/05-pads-hover-01.jpg?v=1763977677&amp;width=1066 1066w, //shift-sketch.myshopify.com/cdn/shop/files/05-pads-hover-01.jpg?v=1763977677&amp;width=1200 1200w, //shift-sketch.myshopify.com/cdn/shop/files/05-pads-hover-01.jpg?v=1763977677&amp;width=1400 1400w" width="1536" height="2048" loading="lazy" class="motion-reduce media" sizes="(min-width: 1200px) calc(1.03 * (100vw / 4)),(min-width: 990px) calc(1.03 * (100vw / 3)),(min-width: 576px) calc(1.03 * (100vw / 2)),calc(1.03 * 100vw)" style="object-fit: cover;">
+                </div>
+              
+                
+
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+
+                
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                
+
+                <div class="swiper-slide" data-media-id="67656325923191" role="group" aria-label="3 / 4" style="width: 326px; margin-right: 2px;">
+                  <img src="//shift-sketch.myshopify.com/cdn/shop/files/05-pads-hover-02.jpg?v=1763977677&amp;width=1704" alt="Essential Notes Pad" srcset="//shift-sketch.myshopify.com/cdn/shop/files/05-pads-hover-02.jpg?v=1763977677&amp;width=360 360w, //shift-sketch.myshopify.com/cdn/shop/files/05-pads-hover-02.jpg?v=1763977677&amp;width=535 535w, //shift-sketch.myshopify.com/cdn/shop/files/05-pads-hover-02.jpg?v=1763977677&amp;width=720 720w, //shift-sketch.myshopify.com/cdn/shop/files/05-pads-hover-02.jpg?v=1763977677&amp;width=940 940w, //shift-sketch.myshopify.com/cdn/shop/files/05-pads-hover-02.jpg?v=1763977677&amp;width=1066 1066w, //shift-sketch.myshopify.com/cdn/shop/files/05-pads-hover-02.jpg?v=1763977677&amp;width=1200 1200w, //shift-sketch.myshopify.com/cdn/shop/files/05-pads-hover-02.jpg?v=1763977677&amp;width=1400 1400w, //shift-sketch.myshopify.com/cdn/shop/files/05-pads-hover-02.jpg?v=1763977677&amp;width=1600 1600w" width="1704" height="2272" loading="lazy" class="motion-reduce media" sizes="(min-width: 1200px) calc(1.03 * (100vw / 4)),(min-width: 990px) calc(1.03 * (100vw / 3)),(min-width: 576px) calc(1.03 * (100vw / 2)),calc(1.03 * 100vw)" style="object-fit: cover;">
+                </div>
+              
+                
+
+                
+                  
+                
+                  
+                    
+                    
+
+                
+
+                <div class="swiper-slide" data-media-id="67656325955959" data-variant-id="56820282360183" role="group" aria-label="4 / 4" style="width: 326px; margin-right: 2px;">
+                  <img src="//shift-sketch.myshopify.com/cdn/shop/files/05-pads-hover-03.jpg?v=1763977677&amp;width=1536" alt="Essential Notes Pad" srcset="//shift-sketch.myshopify.com/cdn/shop/files/05-pads-hover-03.jpg?v=1763977677&amp;width=360 360w, //shift-sketch.myshopify.com/cdn/shop/files/05-pads-hover-03.jpg?v=1763977677&amp;width=535 535w, //shift-sketch.myshopify.com/cdn/shop/files/05-pads-hover-03.jpg?v=1763977677&amp;width=720 720w, //shift-sketch.myshopify.com/cdn/shop/files/05-pads-hover-03.jpg?v=1763977677&amp;width=940 940w, //shift-sketch.myshopify.com/cdn/shop/files/05-pads-hover-03.jpg?v=1763977677&amp;width=1066 1066w, //shift-sketch.myshopify.com/cdn/shop/files/05-pads-hover-03.jpg?v=1763977677&amp;width=1200 1200w, //shift-sketch.myshopify.com/cdn/shop/files/05-pads-hover-03.jpg?v=1763977677&amp;width=1400 1400w" width="1536" height="2048" loading="lazy" class="motion-reduce media" sizes="(min-width: 1200px) calc(1.03 * (100vw / 4)),(min-width: 990px) calc(1.03 * (100vw / 3)),(min-width: 576px) calc(1.03 * (100vw / 2)),calc(1.03 * 100vw)" style="object-fit: cover;">
+                </div>
+              
+            </div>
+            <div class="product-button-group">
+              <div class="product-slider-button-prev">
+                <div class="swiper-button-prev swiper-button-disabled" tabindex="-1" role="button" aria-label="Previous slide" aria-controls="swiper-wrapper-42aa54f0319c7e73" aria-disabled="true"><svg class="icon icon-arrow-slider-left" width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M14 2L6 10L14 18" stroke="currentColor"></path>
+</svg>
+</div>
+              </div>
+
+              <div class="product-slider-button-next">
+                <div class="swiper-button-next" tabindex="0" role="button" aria-label="Next slide" aria-controls="swiper-wrapper-42aa54f0319c7e73" aria-disabled="false"><svg class="icon icon-arrow-slider-right" width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M6 2L14 10L6 18" stroke="currentColor"></path>
+</svg>
+</div>
+              </div>
+            </div>
+            <div class="swiper-pagination product-card-pagination swiper-pagination-default swiper-pagination-clickable swiper-pagination-bullets swiper-pagination-horizontal"><span class="swiper-pagination-bullet swiper-pagination-bullet-active" tabindex="0" role="button" aria-label="Go to slide 1" aria-current="true"></span><span class="swiper-pagination-bullet" tabindex="0" role="button" aria-label="Go to slide 2"></span><span class="swiper-pagination-bullet" tabindex="0" role="button" aria-label="Go to slide 3"></span><span class="swiper-pagination-bullet" tabindex="0" role="button" aria-label="Go to slide 4"></span></div>
+          <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
+        
+</div><div class="product-card__top">
+        
+<div class="product-card__badges body-normal"></div>
+      </div><div class="product-card__quickview product-card__quickview--mobile-true no-js-hidden">
+        <modal-opener data-modal="#QuickView-15256228331895">
+          <button class="product-card__button button button--primary focus-inset" aria-haspopup="dialog" data-product-url="/products/essential-notes-pad" aria-label="Quick view">
+            <div class="button__content">
+              <span class="product-card__quickview-text button__label" data-label="Quick view">Quick view</span>
+              <span class="product-card__mobile-icon button__icon">
+                <svg width="22" height="22" viewBox="0 0 22 22" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M2.66745 12.0748C2.35434 11.3936 2.35434 10.6077 2.66745 9.92654C4.11679 6.77337 7.30311 4.58398 11.0008 4.58398C14.6985 4.58398 17.8848 6.77338 19.3341 9.92654C19.6472 10.6077 19.6472 11.3936 19.3341 12.0748C17.8848 15.2279 14.6985 17.4173 11.0008 17.4173C7.30311 17.4173 4.11679 15.2279 2.66745 12.0748Z" stroke="currentColor" stroke-width="1.5"></path>
+  <path d="M13.7508 11.0007C13.7508 12.5194 12.5196 13.7507 11.0008 13.7507C9.48201 13.7507 8.25079 12.5194 8.25079 11.0007C8.25079 9.48187 9.48201 8.25065 11.0008 8.25065C12.5196 8.25065 13.7508 9.48187 13.7508 11.0007Z" stroke="currentColor" stroke-width="1.5"></path>
+</svg>
+
+              </span>
+            </div>
+            <div class="loading-overlay__spinner hidden">
+              <svg aria-hidden="true" focusable="false" role="presentation" class="spinner" viewBox="0 0 66 66" xmlns="http://www.w3.org/2000/svg">
+  <circle class="path" fill="none" stroke-width="5" cx="33" cy="33" r="30"></circle>
+</svg>
+
+            </div>
+          </button>
+        </modal-opener>
+
+        
+
+
+      </div></div>
+
+  
+  <div class="product-card__information">
+    <div class="product-card__information-top"><h2 class="product-card__title">
+        <a class="focus-inset" href="/products/essential-notes-pad" aria-label="Essential Notes Pad">Essential Notes Pad</a>
+      </h2>
+
+      <div class="product-card__price-group">
+        
+<div class="price">
+  <dl class="price-text"><div class="price__regular">
+      <dt class="visually-hidden">Regular price</dt>
+      <dd>
+        <span class="price-item price-item--regular">$3.50</span>
+      </dd>
+    </div>
+    <div class="price__sale">
+      <dt class="visually-hidden">Sale price</dt>
+      <dd>
+        <span class="price-item price-item--sale">$3.50</span>
+      </dd>
+      <dt class="visually-hidden">Regular price</dt>
+      <dd class="price__compare">
+        <s class="price-item price-item--regular"></s>
+      </dd>
+    </div>
+  </dl>
+
+  <dl class="unit-price hidden">
+    <dt class="visually-hidden">Unit price</dt>
+    <dd></dd>
+  </dl>
+</div>
+
+      </div>
+      
+
+          <div class="product-card__description body-small">210 x 105 mm</div><div class="product-card__error body-xs" role="alert" hidden=""></div>
+    </div>
+
+    
+<div class="product-card__information-bottom" tabindex="0"><div class="product-card__color-swatches">
+                
+                  <div class="body-small js-option-selected-value" data-option-position="1">
+                    Gray</div>
+                
+                <div class="product-card__option-group js-card-option-group" data-option-position="1">
+                  
+
+
+  
+
+  
+  
+  
+
+<input type="radio" id="template--27266934243703__product-grid-1-0-15256228331895-13" name="Color-template--27266934243703__product-grid-15256228331895-13" value="Gray" data-variant-id="56820282327415" form="product-form-template--27266934243703__product-grid" checked="" tabindex="-1" aria-label="Gray" data-option-value-id="12611710091639" style="">
+    
+<label for="template--27266934243703__product-grid-1-0-15256228331895-13" class="color-swatch" style="--swatch-color: rgb(128 128 128);" title="Gray" tabindex="0" onkeydown="if(event.key==='Enter'||event.key===' '){event.preventDefault();document.getElementById(this.getAttribute('for')).click();}" data-unavailable-color-label="N/A">
+        <span class="visually-hidden">Gray</span>
+      </label>
+
+  
+
+  
+  
+  
+
+<input type="radio" id="template--27266934243703__product-grid-1-1-15256228331895-13" name="Color-template--27266934243703__product-grid-15256228331895-13" value="Blue" data-variant-id="56820282360183" form="product-form-template--27266934243703__product-grid" tabindex="-1" aria-label="Blue" data-option-value-id="12611710124407" style="">
+    
+<label for="template--27266934243703__product-grid-1-1-15256228331895-13" class="color-swatch" style="--swatch-color: rgb(0 91 211);" title="Blue" tabindex="0" onkeydown="if(event.key==='Enter'||event.key===' '){event.preventDefault();document.getElementById(this.getAttribute('for')).click();}" data-unavailable-color-label="N/A">
+        <span class="visually-hidden">Blue</span>
+      </label>
+
+  
+
+  
+  
+  
+
+<input type="radio" id="template--27266934243703__product-grid-1-2-15256228331895-13" name="Color-template--27266934243703__product-grid-15256228331895-13" value="Red" data-variant-id="56820288323959" form="product-form-template--27266934243703__product-grid" class="disabled" tabindex="-1" aria-label="Red" data-option-value-id="12611733029239" style="">
+    
+<label for="template--27266934243703__product-grid-1-2-15256228331895-13" class="color-swatch" style="--swatch-color: rgb(246 31 31);" title="Red" tabindex="0" onkeydown="if(event.key==='Enter'||event.key===' '){event.preventDefault();document.getElementById(this.getAttribute('for')).click();}" data-unavailable-color-label="N/A">
+        <span class="visually-hidden">Red</span>
+      </label>
+
+  
+
+  
+  
+  
+
+<input type="radio" id="template--27266934243703__product-grid-1-3-15256228331895-13" name="Color-template--27266934243703__product-grid-15256228331895-13" value="Pink" data-variant-id="56820288356727" form="product-form-template--27266934243703__product-grid" class="disabled" tabindex="-1" aria-label="Pink" data-option-value-id="12611733062007" style="">
+    
+<label for="template--27266934243703__product-grid-1-3-15256228331895-13" class="color-swatch" style="--swatch-color: rgb(255 192 203);" title="Pink" tabindex="0" onkeydown="if(event.key==='Enter'||event.key===' '){event.preventDefault();document.getElementById(this.getAttribute('for')).click();}" data-unavailable-color-label="N/A">
+        <span class="visually-hidden">Pink</span>
+      </label>
+
+  
+
+  
+  
+  
+
+<input type="radio" id="template--27266934243703__product-grid-1-4-15256228331895-13" name="Color-template--27266934243703__product-grid-15256228331895-13" value="Purple" data-variant-id="56820288389495" form="product-form-template--27266934243703__product-grid" class="disabled" tabindex="-1" aria-label="Purple" data-option-value-id="12611733094775" style="">
+    
+<label for="template--27266934243703__product-grid-1-4-15256228331895-13" class="color-swatch" style="--swatch-color: rgb(165 77 207);" title="Purple" tabindex="0" onkeydown="if(event.key==='Enter'||event.key===' '){event.preventDefault();document.getElementById(this.getAttribute('for')).click();}" data-unavailable-color-label="N/A">
+        <span class="visually-hidden">Purple</span>
+      </label>
+                </div>
+
+                
+              </div></div></div><script type="application/json" data-product-card-variants="">
+      [{"id":56820282327415,"title":"Gray","option1":"Gray","option2":null,"option3":null,"sku":null,"requires_shipping":true,"taxable":true,"featured_image":{"id":82566776258935,"product_id":15256228331895,"position":1,"created_at":"2025-11-24T04:47:53-05:00","updated_at":"2025-11-24T04:47:56-05:00","alt":null,"width":2603,"height":3470,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/05-pads.jpg?v=1763977676","variant_ids":[56820282327415]},"available":true,"name":"Essential Notes Pad - Gray","public_title":"Gray","options":["Gray"],"price":350,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","featured_media":{"alt":null,"id":67656325988727,"position":1,"preview_image":{"aspect_ratio":0.75,"height":3470,"width":2603,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/05-pads.jpg?v=1763977676"}},"requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56820282360183,"title":"Blue","option1":"Blue","option2":null,"option3":null,"sku":null,"requires_shipping":true,"taxable":true,"featured_image":{"id":82566776226167,"product_id":15256228331895,"position":4,"created_at":"2025-11-24T04:47:53-05:00","updated_at":"2025-11-24T04:47:57-05:00","alt":null,"width":1536,"height":2048,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/05-pads-hover-03.jpg?v=1763977677","variant_ids":[56820282360183,56820288323959,56820288356727,56820288389495]},"available":true,"name":"Essential Notes Pad - Blue","public_title":"Blue","options":["Blue"],"price":350,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","featured_media":{"alt":null,"id":67656325955959,"position":4,"preview_image":{"aspect_ratio":0.75,"height":2048,"width":1536,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/05-pads-hover-03.jpg?v=1763977677"}},"requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56820288323959,"title":"Red","option1":"Red","option2":null,"option3":null,"sku":null,"requires_shipping":true,"taxable":true,"featured_image":{"id":82566776226167,"product_id":15256228331895,"position":4,"created_at":"2025-11-24T04:47:53-05:00","updated_at":"2025-11-24T04:47:57-05:00","alt":null,"width":1536,"height":2048,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/05-pads-hover-03.jpg?v=1763977677","variant_ids":[56820282360183,56820288323959,56820288356727,56820288389495]},"available":false,"name":"Essential Notes Pad - Red","public_title":"Red","options":["Red"],"price":350,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","featured_media":{"alt":null,"id":67656325955959,"position":4,"preview_image":{"aspect_ratio":0.75,"height":2048,"width":1536,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/05-pads-hover-03.jpg?v=1763977677"}},"requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56820288356727,"title":"Pink","option1":"Pink","option2":null,"option3":null,"sku":null,"requires_shipping":true,"taxable":true,"featured_image":{"id":82566776226167,"product_id":15256228331895,"position":4,"created_at":"2025-11-24T04:47:53-05:00","updated_at":"2025-11-24T04:47:57-05:00","alt":null,"width":1536,"height":2048,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/05-pads-hover-03.jpg?v=1763977677","variant_ids":[56820282360183,56820288323959,56820288356727,56820288389495]},"available":false,"name":"Essential Notes Pad - Pink","public_title":"Pink","options":["Pink"],"price":350,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","featured_media":{"alt":null,"id":67656325955959,"position":4,"preview_image":{"aspect_ratio":0.75,"height":2048,"width":1536,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/05-pads-hover-03.jpg?v=1763977677"}},"requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56820288389495,"title":"Purple","option1":"Purple","option2":null,"option3":null,"sku":null,"requires_shipping":true,"taxable":true,"featured_image":{"id":82566776226167,"product_id":15256228331895,"position":4,"created_at":"2025-11-24T04:47:53-05:00","updated_at":"2025-11-24T04:47:57-05:00","alt":null,"width":1536,"height":2048,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/05-pads-hover-03.jpg?v=1763977677","variant_ids":[56820282360183,56820288323959,56820288356727,56820288389495]},"available":false,"name":"Essential Notes Pad - Purple","public_title":"Purple","options":["Purple"],"price":350,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","featured_media":{"alt":null,"id":67656325955959,"position":4,"preview_image":{"aspect_ratio":0.75,"height":2048,"width":1536,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/05-pads-hover-03.jpg?v=1763977677"}},"requires_selling_plan":false,"selling_plan_allocations":[]}]
+    </script>
+    <script type="application/json" data-product-card-featured-media="">
+      {"alt":null,"id":67656325988727,"position":1,"preview_image":{"aspect_ratio":0.75,"height":3470,"width":2603,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/05-pads.jpg?v=1763977676"},"aspect_ratio":0.75,"height":3470,"media_type":"image","src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/05-pads.jpg?v=1763977676","width":2603}
+    </script>
+    <span class="hidden" data-product-card-options="" data-product-title="Essential Notes Pad" data-product-columns="4" data-product-columns-mobile="1" data-product-ratio="0.76" data-product-fit="cover" data-product-has-price-varies="false"></span><a href="/products/essential-notes-pad" class="product-card__link-overlay focus-inset" aria-label="Essential Notes Pad Product link"></a></product-card>
+
+                </div><div class="collection-product-card">
+                  
+
+
+<product-card class="product-card product-card--mobile-1 product-card_image-linked" data-product="essential-wall-calendar" data-product-id="15252923711863" data-image-linked="true" data-card-color-swatches="true" tabindex="0" style="--card-padding-bottom: 131.7%; --slide-count: 4">
+  <div class="product-card__inner">
+    <div class="product-card__media">
+
+          <div class="swiper-container product-card-js global-variant-js-media-list slider_started swiper-initialized swiper-horizontal swiper-backface-hidden" data-loop="false">
+            <div class="swiper-wrapper" id="swiper-wrapper-6d49665b956b7655" aria-live="polite" style="transform: translate3d(0px, 0px, 0px);">
+              
+                
+
+                
+                  
+                    
+                    
+
+                
+
+                <div class="swiper-slide swiper-slide-active" data-media-id="67606924558711" data-variant-id="56821815574903" role="group" aria-label="1 / 4" style="width: 326px; margin-right: 2px;">
+                  <img src="//shift-sketch.myshopify.com/cdn/shop/files/05-calendar.jpg?v=1763734144&amp;width=2603" alt="Essential Wall Calendar" srcset="//shift-sketch.myshopify.com/cdn/shop/files/05-calendar.jpg?v=1763734144&amp;width=360 360w, //shift-sketch.myshopify.com/cdn/shop/files/05-calendar.jpg?v=1763734144&amp;width=535 535w, //shift-sketch.myshopify.com/cdn/shop/files/05-calendar.jpg?v=1763734144&amp;width=720 720w, //shift-sketch.myshopify.com/cdn/shop/files/05-calendar.jpg?v=1763734144&amp;width=940 940w, //shift-sketch.myshopify.com/cdn/shop/files/05-calendar.jpg?v=1763734144&amp;width=1066 1066w, //shift-sketch.myshopify.com/cdn/shop/files/05-calendar.jpg?v=1763734144&amp;width=1200 1200w, //shift-sketch.myshopify.com/cdn/shop/files/05-calendar.jpg?v=1763734144&amp;width=1400 1400w, //shift-sketch.myshopify.com/cdn/shop/files/05-calendar.jpg?v=1763734144&amp;width=1600 1600w, //shift-sketch.myshopify.com/cdn/shop/files/05-calendar.jpg?v=1763734144&amp;width=1800 1800w, //shift-sketch.myshopify.com/cdn/shop/files/05-calendar.jpg?v=1763734144&amp;width=2000 2000w, //shift-sketch.myshopify.com/cdn/shop/files/05-calendar.jpg?v=1763734144&amp;width=2200 2200w, //shift-sketch.myshopify.com/cdn/shop/files/05-calendar.jpg?v=1763734144&amp;width=2400 2400w, //shift-sketch.myshopify.com/cdn/shop/files/05-calendar.jpg?v=1763734144&amp;width=2600 2600w" width="2603" height="3470" loading="lazy" class="motion-reduce media" sizes="(min-width: 1200px) calc(1.03 * (100vw / 4)),(min-width: 990px) calc(1.03 * (100vw / 3)),(min-width: 576px) calc(1.03 * (100vw / 2)),calc(1.03 * 100vw)" style="object-fit: cover;">
+                </div>
+              
+                
+
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+
+                
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                
+
+                <div class="swiper-slide swiper-slide-next" data-media-id="67606924460407" role="group" aria-label="2 / 4" style="width: 326px; margin-right: 2px;">
+                  <img src="//shift-sketch.myshopify.com/cdn/shop/files/05-calendar-hover-01.jpg?v=1763734144&amp;width=1776" alt="Essential Wall Calendar" srcset="//shift-sketch.myshopify.com/cdn/shop/files/05-calendar-hover-01.jpg?v=1763734144&amp;width=360 360w, //shift-sketch.myshopify.com/cdn/shop/files/05-calendar-hover-01.jpg?v=1763734144&amp;width=535 535w, //shift-sketch.myshopify.com/cdn/shop/files/05-calendar-hover-01.jpg?v=1763734144&amp;width=720 720w, //shift-sketch.myshopify.com/cdn/shop/files/05-calendar-hover-01.jpg?v=1763734144&amp;width=940 940w, //shift-sketch.myshopify.com/cdn/shop/files/05-calendar-hover-01.jpg?v=1763734144&amp;width=1066 1066w, //shift-sketch.myshopify.com/cdn/shop/files/05-calendar-hover-01.jpg?v=1763734144&amp;width=1200 1200w, //shift-sketch.myshopify.com/cdn/shop/files/05-calendar-hover-01.jpg?v=1763734144&amp;width=1400 1400w, //shift-sketch.myshopify.com/cdn/shop/files/05-calendar-hover-01.jpg?v=1763734144&amp;width=1600 1600w" width="1776" height="2368" loading="lazy" class="motion-reduce media" sizes="(min-width: 1200px) calc(1.03 * (100vw / 4)),(min-width: 990px) calc(1.03 * (100vw / 3)),(min-width: 576px) calc(1.03 * (100vw / 2)),calc(1.03 * 100vw)" style="object-fit: cover;">
+                </div>
+              
+                
+
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+
+                
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                
+
+                <div class="swiper-slide" data-media-id="67606924493175" role="group" aria-label="3 / 4" style="width: 326px; margin-right: 2px;">
+                  <img src="//shift-sketch.myshopify.com/cdn/shop/files/05-calendar-hover-02.jpg?v=1763734144&amp;width=1728" alt="Essential Wall Calendar" srcset="//shift-sketch.myshopify.com/cdn/shop/files/05-calendar-hover-02.jpg?v=1763734144&amp;width=360 360w, //shift-sketch.myshopify.com/cdn/shop/files/05-calendar-hover-02.jpg?v=1763734144&amp;width=535 535w, //shift-sketch.myshopify.com/cdn/shop/files/05-calendar-hover-02.jpg?v=1763734144&amp;width=720 720w, //shift-sketch.myshopify.com/cdn/shop/files/05-calendar-hover-02.jpg?v=1763734144&amp;width=940 940w, //shift-sketch.myshopify.com/cdn/shop/files/05-calendar-hover-02.jpg?v=1763734144&amp;width=1066 1066w, //shift-sketch.myshopify.com/cdn/shop/files/05-calendar-hover-02.jpg?v=1763734144&amp;width=1200 1200w, //shift-sketch.myshopify.com/cdn/shop/files/05-calendar-hover-02.jpg?v=1763734144&amp;width=1400 1400w, //shift-sketch.myshopify.com/cdn/shop/files/05-calendar-hover-02.jpg?v=1763734144&amp;width=1600 1600w" width="1728" height="2304" loading="lazy" class="motion-reduce media" sizes="(min-width: 1200px) calc(1.03 * (100vw / 4)),(min-width: 990px) calc(1.03 * (100vw / 3)),(min-width: 576px) calc(1.03 * (100vw / 2)),calc(1.03 * 100vw)" style="object-fit: cover;">
+                </div>
+              
+                
+
+                
+                  
+                
+                  
+                    
+                    
+
+                
+
+                <div class="swiper-slide" data-media-id="67606924525943" data-variant-id="56821815607671" role="group" aria-label="4 / 4" style="width: 326px; margin-right: 2px;">
+                  <img src="//shift-sketch.myshopify.com/cdn/shop/files/05-calendar-hover-03.jpg?v=1763734144&amp;width=2464" alt="Essential Wall Calendar" srcset="//shift-sketch.myshopify.com/cdn/shop/files/05-calendar-hover-03.jpg?v=1763734144&amp;width=360 360w, //shift-sketch.myshopify.com/cdn/shop/files/05-calendar-hover-03.jpg?v=1763734144&amp;width=535 535w, //shift-sketch.myshopify.com/cdn/shop/files/05-calendar-hover-03.jpg?v=1763734144&amp;width=720 720w, //shift-sketch.myshopify.com/cdn/shop/files/05-calendar-hover-03.jpg?v=1763734144&amp;width=940 940w, //shift-sketch.myshopify.com/cdn/shop/files/05-calendar-hover-03.jpg?v=1763734144&amp;width=1066 1066w, //shift-sketch.myshopify.com/cdn/shop/files/05-calendar-hover-03.jpg?v=1763734144&amp;width=1200 1200w, //shift-sketch.myshopify.com/cdn/shop/files/05-calendar-hover-03.jpg?v=1763734144&amp;width=1400 1400w, //shift-sketch.myshopify.com/cdn/shop/files/05-calendar-hover-03.jpg?v=1763734144&amp;width=1600 1600w, //shift-sketch.myshopify.com/cdn/shop/files/05-calendar-hover-03.jpg?v=1763734144&amp;width=1800 1800w, //shift-sketch.myshopify.com/cdn/shop/files/05-calendar-hover-03.jpg?v=1763734144&amp;width=2000 2000w, //shift-sketch.myshopify.com/cdn/shop/files/05-calendar-hover-03.jpg?v=1763734144&amp;width=2200 2200w, //shift-sketch.myshopify.com/cdn/shop/files/05-calendar-hover-03.jpg?v=1763734144&amp;width=2400 2400w" width="2464" height="3285" loading="lazy" class="motion-reduce media" sizes="(min-width: 1200px) calc(1.03 * (100vw / 4)),(min-width: 990px) calc(1.03 * (100vw / 3)),(min-width: 576px) calc(1.03 * (100vw / 2)),calc(1.03 * 100vw)" style="object-fit: cover;">
+                </div>
+              
+            </div>
+            <div class="product-button-group">
+              <div class="product-slider-button-prev">
+                <div class="swiper-button-prev swiper-button-disabled" tabindex="-1" role="button" aria-label="Previous slide" aria-controls="swiper-wrapper-6d49665b956b7655" aria-disabled="true"><svg class="icon icon-arrow-slider-left" width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M14 2L6 10L14 18" stroke="currentColor"></path>
+</svg>
+</div>
+              </div>
+
+              <div class="product-slider-button-next">
+                <div class="swiper-button-next" tabindex="0" role="button" aria-label="Next slide" aria-controls="swiper-wrapper-6d49665b956b7655" aria-disabled="false"><svg class="icon icon-arrow-slider-right" width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M6 2L14 10L6 18" stroke="currentColor"></path>
+</svg>
+</div>
+              </div>
+            </div>
+            <div class="swiper-pagination product-card-pagination swiper-pagination-default swiper-pagination-clickable swiper-pagination-bullets swiper-pagination-horizontal"><span class="swiper-pagination-bullet swiper-pagination-bullet-active" tabindex="0" role="button" aria-label="Go to slide 1" aria-current="true"></span><span class="swiper-pagination-bullet" tabindex="0" role="button" aria-label="Go to slide 2"></span><span class="swiper-pagination-bullet" tabindex="0" role="button" aria-label="Go to slide 3"></span><span class="swiper-pagination-bullet" tabindex="0" role="button" aria-label="Go to slide 4"></span></div>
+          <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
+        
+</div><div class="product-card__top">
+        
+<div class="product-card__badges body-normal"></div>
+      </div><div class="product-card__quickview product-card__quickview--mobile-true no-js-hidden">
+        <modal-opener data-modal="#QuickView-15252923711863">
+          <button class="product-card__button button button--primary focus-inset" aria-haspopup="dialog" data-product-url="/products/essential-wall-calendar" aria-label="Quick view">
+            <div class="button__content">
+              <span class="product-card__quickview-text button__label" data-label="Quick view">Quick view</span>
+              <span class="product-card__mobile-icon button__icon">
+                <svg width="22" height="22" viewBox="0 0 22 22" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M2.66745 12.0748C2.35434 11.3936 2.35434 10.6077 2.66745 9.92654C4.11679 6.77337 7.30311 4.58398 11.0008 4.58398C14.6985 4.58398 17.8848 6.77338 19.3341 9.92654C19.6472 10.6077 19.6472 11.3936 19.3341 12.0748C17.8848 15.2279 14.6985 17.4173 11.0008 17.4173C7.30311 17.4173 4.11679 15.2279 2.66745 12.0748Z" stroke="currentColor" stroke-width="1.5"></path>
+  <path d="M13.7508 11.0007C13.7508 12.5194 12.5196 13.7507 11.0008 13.7507C9.48201 13.7507 8.25079 12.5194 8.25079 11.0007C8.25079 9.48187 9.48201 8.25065 11.0008 8.25065C12.5196 8.25065 13.7508 9.48187 13.7508 11.0007Z" stroke="currentColor" stroke-width="1.5"></path>
+</svg>
+
+              </span>
+            </div>
+            <div class="loading-overlay__spinner hidden">
+              <svg aria-hidden="true" focusable="false" role="presentation" class="spinner" viewBox="0 0 66 66" xmlns="http://www.w3.org/2000/svg">
+  <circle class="path" fill="none" stroke-width="5" cx="33" cy="33" r="30"></circle>
+</svg>
+
+            </div>
+          </button>
+        </modal-opener>
+
+        
+
+
+      </div></div>
+
+  
+  <div class="product-card__information">
+    <div class="product-card__information-top"><h2 class="product-card__title">
+        <a class="focus-inset" href="/products/essential-wall-calendar" aria-label="Essential Wall Calendar">Essential Wall Calendar</a>
+      </h2>
+
+      <div class="product-card__price-group">
+        
+<div class="price">
+  <dl class="price-text"><div class="price__regular">
+      <dt class="visually-hidden">Regular price</dt>
+      <dd>
+        <span class="price-item price-item--regular">$10.50</span>
+      </dd>
+    </div>
+    <div class="price__sale">
+      <dt class="visually-hidden">Sale price</dt>
+      <dd>
+        <span class="price-item price-item--sale">$10.50</span>
+      </dd>
+      <dt class="visually-hidden">Regular price</dt>
+      <dd class="price__compare">
+        <s class="price-item price-item--regular"></s>
+      </dd>
+    </div>
+  </dl>
+
+  <dl class="unit-price hidden">
+    <dt class="visually-hidden">Unit price</dt>
+    <dd></dd>
+  </dl>
+</div>
+
+      </div>
+      
+
+          <div class="product-card__description body-small">260 x 210 mm</div><div class="product-card__error body-xs" role="alert" hidden=""></div>
+    </div>
+
+    
+<div class="product-card__information-bottom" tabindex="0"><div class="product-card__color-swatches">
+                
+                  <div class="body-small js-option-selected-value" data-option-position="1">
+                    Beige</div>
+                
+                <div class="product-card__option-group js-card-option-group" data-option-position="1">
+                  
+
+
+  
+
+  
+  
+  
+
+<input type="radio" id="template--27266934243703__product-grid-1-0-15252923711863-14" name="Color-template--27266934243703__product-grid-15252923711863-14" value="Beige" data-variant-id="56821815574903" form="product-form-template--27266934243703__product-grid" checked="" tabindex="-1" aria-label="Beige" data-option-value-id="12613400658295" style="">
+    
+<label for="template--27266934243703__product-grid-1-0-15252923711863-14" class="color-swatch" style="--swatch-color: rgb(234 216 171);" title="Beige" tabindex="0" onkeydown="if(event.key==='Enter'||event.key===' '){event.preventDefault();document.getElementById(this.getAttribute('for')).click();}" data-unavailable-color-label="N/A">
+        <span class="visually-hidden">Beige</span>
+      </label>
+
+  
+
+  
+  
+  
+
+<input type="radio" id="template--27266934243703__product-grid-1-1-15252923711863-14" name="Color-template--27266934243703__product-grid-15252923711863-14" value="Red" data-variant-id="56821815607671" form="product-form-template--27266934243703__product-grid" tabindex="-1" aria-label="Red" data-option-value-id="12613400691063" style="">
+    
+<label for="template--27266934243703__product-grid-1-1-15252923711863-14" class="color-swatch" style="--swatch-color: rgb(246 31 31);" title="Red" tabindex="0" onkeydown="if(event.key==='Enter'||event.key===' '){event.preventDefault();document.getElementById(this.getAttribute('for')).click();}" data-unavailable-color-label="N/A">
+        <span class="visually-hidden">Red</span>
+      </label>
+
+  
+
+  
+  
+  
+
+<input type="radio" id="template--27266934243703__product-grid-1-2-15252923711863-14" name="Color-template--27266934243703__product-grid-15252923711863-14" value="Pink" data-variant-id="56821815640439" form="product-form-template--27266934243703__product-grid" class="disabled" tabindex="-1" aria-label="Pink" data-option-value-id="12613400723831" style="">
+    
+<label for="template--27266934243703__product-grid-1-2-15252923711863-14" class="color-swatch" style="--swatch-color: rgb(255 192 203);" title="Pink" tabindex="0" onkeydown="if(event.key==='Enter'||event.key===' '){event.preventDefault();document.getElementById(this.getAttribute('for')).click();}" data-unavailable-color-label="N/A">
+        <span class="visually-hidden">Pink</span>
+      </label>
+
+  
+
+  
+  
+  
+
+<input type="radio" id="template--27266934243703__product-grid-1-3-15252923711863-14" name="Color-template--27266934243703__product-grid-15252923711863-14" value="Blue" data-variant-id="56821815673207" form="product-form-template--27266934243703__product-grid" tabindex="-1" aria-label="Blue" data-option-value-id="12613400756599" style="">
+    
+<label for="template--27266934243703__product-grid-1-3-15252923711863-14" class="color-swatch" style="--swatch-color: rgb(0 91 211);" title="Blue" tabindex="0" onkeydown="if(event.key==='Enter'||event.key===' '){event.preventDefault();document.getElementById(this.getAttribute('for')).click();}" data-unavailable-color-label="N/A">
+        <span class="visually-hidden">Blue</span>
+      </label>
+
+  
+
+  
+  
+  
+
+<input type="radio" id="template--27266934243703__product-grid-1-4-15252923711863-14" name="Color-template--27266934243703__product-grid-15252923711863-14" value="Green" data-variant-id="56821815705975" form="product-form-template--27266934243703__product-grid" tabindex="-1" aria-label="Green" data-option-value-id="12613400789367" style="">
+    
+<label for="template--27266934243703__product-grid-1-4-15252923711863-14" class="color-swatch" style="--swatch-color: rgb(5 170 61);" title="Green" tabindex="0" onkeydown="if(event.key==='Enter'||event.key===' '){event.preventDefault();document.getElementById(this.getAttribute('for')).click();}" data-unavailable-color-label="N/A">
+        <span class="visually-hidden">Green</span>
+      </label>
+                </div>
+
+                
+              </div></div></div><script type="application/json" data-product-card-variants="">
+      [{"id":56821815574903,"title":"Beige","option1":"Beige","option2":null,"option3":null,"sku":null,"requires_shipping":true,"taxable":true,"featured_image":{"id":82286426161527,"product_id":15252923711863,"position":1,"created_at":"2025-11-21T09:09:00-05:00","updated_at":"2025-11-21T09:09:04-05:00","alt":null,"width":2603,"height":3470,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/05-calendar.jpg?v=1763734144","variant_ids":[56821815574903]},"available":true,"name":"Essential Wall Calendar - Beige","public_title":"Beige","options":["Beige"],"price":1050,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","featured_media":{"alt":null,"id":67606924558711,"position":1,"preview_image":{"aspect_ratio":0.75,"height":3470,"width":2603,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/05-calendar.jpg?v=1763734144"}},"requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56821815607671,"title":"Red","option1":"Red","option2":null,"option3":null,"sku":null,"requires_shipping":true,"taxable":true,"featured_image":{"id":82286426128759,"product_id":15252923711863,"position":4,"created_at":"2025-11-21T09:09:00-05:00","updated_at":"2025-11-21T09:09:04-05:00","alt":null,"width":2464,"height":3285,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/05-calendar-hover-03.jpg?v=1763734144","variant_ids":[56821815607671,56821815640439,56821815673207,56821815705975]},"available":true,"name":"Essential Wall Calendar - Red","public_title":"Red","options":["Red"],"price":1050,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","featured_media":{"alt":null,"id":67606924525943,"position":4,"preview_image":{"aspect_ratio":0.75,"height":3285,"width":2464,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/05-calendar-hover-03.jpg?v=1763734144"}},"requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56821815640439,"title":"Pink","option1":"Pink","option2":null,"option3":null,"sku":null,"requires_shipping":true,"taxable":true,"featured_image":{"id":82286426128759,"product_id":15252923711863,"position":4,"created_at":"2025-11-21T09:09:00-05:00","updated_at":"2025-11-21T09:09:04-05:00","alt":null,"width":2464,"height":3285,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/05-calendar-hover-03.jpg?v=1763734144","variant_ids":[56821815607671,56821815640439,56821815673207,56821815705975]},"available":false,"name":"Essential Wall Calendar - Pink","public_title":"Pink","options":["Pink"],"price":1050,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","featured_media":{"alt":null,"id":67606924525943,"position":4,"preview_image":{"aspect_ratio":0.75,"height":3285,"width":2464,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/05-calendar-hover-03.jpg?v=1763734144"}},"requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56821815673207,"title":"Blue","option1":"Blue","option2":null,"option3":null,"sku":null,"requires_shipping":true,"taxable":true,"featured_image":{"id":82286426128759,"product_id":15252923711863,"position":4,"created_at":"2025-11-21T09:09:00-05:00","updated_at":"2025-11-21T09:09:04-05:00","alt":null,"width":2464,"height":3285,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/05-calendar-hover-03.jpg?v=1763734144","variant_ids":[56821815607671,56821815640439,56821815673207,56821815705975]},"available":true,"name":"Essential Wall Calendar - Blue","public_title":"Blue","options":["Blue"],"price":1050,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","featured_media":{"alt":null,"id":67606924525943,"position":4,"preview_image":{"aspect_ratio":0.75,"height":3285,"width":2464,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/05-calendar-hover-03.jpg?v=1763734144"}},"requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56821815705975,"title":"Green","option1":"Green","option2":null,"option3":null,"sku":null,"requires_shipping":true,"taxable":true,"featured_image":{"id":82286426128759,"product_id":15252923711863,"position":4,"created_at":"2025-11-21T09:09:00-05:00","updated_at":"2025-11-21T09:09:04-05:00","alt":null,"width":2464,"height":3285,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/05-calendar-hover-03.jpg?v=1763734144","variant_ids":[56821815607671,56821815640439,56821815673207,56821815705975]},"available":true,"name":"Essential Wall Calendar - Green","public_title":"Green","options":["Green"],"price":1050,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","featured_media":{"alt":null,"id":67606924525943,"position":4,"preview_image":{"aspect_ratio":0.75,"height":3285,"width":2464,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/05-calendar-hover-03.jpg?v=1763734144"}},"requires_selling_plan":false,"selling_plan_allocations":[]}]
+    </script>
+    <script type="application/json" data-product-card-featured-media="">
+      {"alt":null,"id":67606924558711,"position":1,"preview_image":{"aspect_ratio":0.75,"height":3470,"width":2603,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/05-calendar.jpg?v=1763734144"},"aspect_ratio":0.75,"height":3470,"media_type":"image","src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/05-calendar.jpg?v=1763734144","width":2603}
+    </script>
+    <span class="hidden" data-product-card-options="" data-product-title="Essential Wall Calendar" data-product-columns="4" data-product-columns-mobile="1" data-product-ratio="0.76" data-product-fit="cover" data-product-has-price-varies="false"></span><a href="/products/essential-wall-calendar" class="product-card__link-overlay focus-inset" aria-label="Essential Wall Calendar Product link"></a></product-card>
+
+                </div><div class="collection-product-card">
+                  
+
+
+<product-card class="product-card product-card--mobile-1 product-card_image-linked" data-product="field-draft-book" data-product-id="15252516176247" data-image-linked="true" tabindex="0" style="--card-padding-bottom: 131.7%; --slide-count: 4">
+  <div class="product-card__inner">
+    <div class="product-card__media">
+
+          <div class="swiper-container product-card-js global-variant-js-media-list slider_started swiper-initialized swiper-horizontal swiper-backface-hidden" data-loop="false">
+            <div class="swiper-wrapper" id="swiper-wrapper-9dd1ff1d241365e10" aria-live="polite" style="transform: translate3d(0px, 0px, 0px);">
+              
+                
+
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+
+                
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                
+
+                <div class="swiper-slide swiper-slide-active" data-media-id="67600832561527" role="group" aria-label="1 / 4" style="width: 326px; margin-right: 2px;">
+                  <img src="//shift-sketch.myshopify.com/cdn/shop/files/03-sketchbook.jpg?v=1763710970&amp;width=2603" alt="Field Draft Book" srcset="//shift-sketch.myshopify.com/cdn/shop/files/03-sketchbook.jpg?v=1763710970&amp;width=360 360w, //shift-sketch.myshopify.com/cdn/shop/files/03-sketchbook.jpg?v=1763710970&amp;width=535 535w, //shift-sketch.myshopify.com/cdn/shop/files/03-sketchbook.jpg?v=1763710970&amp;width=720 720w, //shift-sketch.myshopify.com/cdn/shop/files/03-sketchbook.jpg?v=1763710970&amp;width=940 940w, //shift-sketch.myshopify.com/cdn/shop/files/03-sketchbook.jpg?v=1763710970&amp;width=1066 1066w, //shift-sketch.myshopify.com/cdn/shop/files/03-sketchbook.jpg?v=1763710970&amp;width=1200 1200w, //shift-sketch.myshopify.com/cdn/shop/files/03-sketchbook.jpg?v=1763710970&amp;width=1400 1400w, //shift-sketch.myshopify.com/cdn/shop/files/03-sketchbook.jpg?v=1763710970&amp;width=1600 1600w, //shift-sketch.myshopify.com/cdn/shop/files/03-sketchbook.jpg?v=1763710970&amp;width=1800 1800w, //shift-sketch.myshopify.com/cdn/shop/files/03-sketchbook.jpg?v=1763710970&amp;width=2000 2000w, //shift-sketch.myshopify.com/cdn/shop/files/03-sketchbook.jpg?v=1763710970&amp;width=2200 2200w, //shift-sketch.myshopify.com/cdn/shop/files/03-sketchbook.jpg?v=1763710970&amp;width=2400 2400w, //shift-sketch.myshopify.com/cdn/shop/files/03-sketchbook.jpg?v=1763710970&amp;width=2600 2600w" width="2603" height="3470" loading="lazy" class="motion-reduce media" sizes="(min-width: 1200px) calc(1.03 * (100vw / 4)),(min-width: 990px) calc(1.03 * (100vw / 3)),(min-width: 576px) calc(1.03 * (100vw / 2)),calc(1.03 * 100vw)" style="object-fit: cover;">
+                </div>
+              
+                
+
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+
+                
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                
+
+                <div class="swiper-slide swiper-slide-next" data-media-id="67600832463223" role="group" aria-label="2 / 4" style="width: 326px; margin-right: 2px;">
+                  <img src="//shift-sketch.myshopify.com/cdn/shop/files/03-sketchbook-hover-01.jpg?v=1763710970&amp;width=1488" alt="Field Draft Book" srcset="//shift-sketch.myshopify.com/cdn/shop/files/03-sketchbook-hover-01.jpg?v=1763710970&amp;width=360 360w, //shift-sketch.myshopify.com/cdn/shop/files/03-sketchbook-hover-01.jpg?v=1763710970&amp;width=535 535w, //shift-sketch.myshopify.com/cdn/shop/files/03-sketchbook-hover-01.jpg?v=1763710970&amp;width=720 720w, //shift-sketch.myshopify.com/cdn/shop/files/03-sketchbook-hover-01.jpg?v=1763710970&amp;width=940 940w, //shift-sketch.myshopify.com/cdn/shop/files/03-sketchbook-hover-01.jpg?v=1763710970&amp;width=1066 1066w, //shift-sketch.myshopify.com/cdn/shop/files/03-sketchbook-hover-01.jpg?v=1763710970&amp;width=1200 1200w, //shift-sketch.myshopify.com/cdn/shop/files/03-sketchbook-hover-01.jpg?v=1763710970&amp;width=1400 1400w" width="1488" height="1984" loading="lazy" class="motion-reduce media" sizes="(min-width: 1200px) calc(1.03 * (100vw / 4)),(min-width: 990px) calc(1.03 * (100vw / 3)),(min-width: 576px) calc(1.03 * (100vw / 2)),calc(1.03 * 100vw)" style="object-fit: cover;">
+                </div>
+              
+                
+
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+
+                
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                
+
+                <div class="swiper-slide" data-media-id="67600832495991" role="group" aria-label="3 / 4" style="width: 326px; margin-right: 2px;">
+                  <img src="//shift-sketch.myshopify.com/cdn/shop/files/03-sketchbook-hover-02.jpg?v=1763710970&amp;width=1704" alt="Field Draft Book" srcset="//shift-sketch.myshopify.com/cdn/shop/files/03-sketchbook-hover-02.jpg?v=1763710970&amp;width=360 360w, //shift-sketch.myshopify.com/cdn/shop/files/03-sketchbook-hover-02.jpg?v=1763710970&amp;width=535 535w, //shift-sketch.myshopify.com/cdn/shop/files/03-sketchbook-hover-02.jpg?v=1763710970&amp;width=720 720w, //shift-sketch.myshopify.com/cdn/shop/files/03-sketchbook-hover-02.jpg?v=1763710970&amp;width=940 940w, //shift-sketch.myshopify.com/cdn/shop/files/03-sketchbook-hover-02.jpg?v=1763710970&amp;width=1066 1066w, //shift-sketch.myshopify.com/cdn/shop/files/03-sketchbook-hover-02.jpg?v=1763710970&amp;width=1200 1200w, //shift-sketch.myshopify.com/cdn/shop/files/03-sketchbook-hover-02.jpg?v=1763710970&amp;width=1400 1400w, //shift-sketch.myshopify.com/cdn/shop/files/03-sketchbook-hover-02.jpg?v=1763710970&amp;width=1600 1600w" width="1704" height="2272" loading="lazy" class="motion-reduce media" sizes="(min-width: 1200px) calc(1.03 * (100vw / 4)),(min-width: 990px) calc(1.03 * (100vw / 3)),(min-width: 576px) calc(1.03 * (100vw / 2)),calc(1.03 * 100vw)" style="object-fit: cover;">
+                </div>
+              
+                
+
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+
+                
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                
+
+                <div class="swiper-slide" data-media-id="67600832528759" role="group" aria-label="4 / 4" style="width: 326px; margin-right: 2px;">
+                  <img src="//shift-sketch.myshopify.com/cdn/shop/files/03-sketchbook-hover-03.jpg?v=1763710969&amp;width=1856" alt="Field Draft Book" srcset="//shift-sketch.myshopify.com/cdn/shop/files/03-sketchbook-hover-03.jpg?v=1763710969&amp;width=360 360w, //shift-sketch.myshopify.com/cdn/shop/files/03-sketchbook-hover-03.jpg?v=1763710969&amp;width=535 535w, //shift-sketch.myshopify.com/cdn/shop/files/03-sketchbook-hover-03.jpg?v=1763710969&amp;width=720 720w, //shift-sketch.myshopify.com/cdn/shop/files/03-sketchbook-hover-03.jpg?v=1763710969&amp;width=940 940w, //shift-sketch.myshopify.com/cdn/shop/files/03-sketchbook-hover-03.jpg?v=1763710969&amp;width=1066 1066w, //shift-sketch.myshopify.com/cdn/shop/files/03-sketchbook-hover-03.jpg?v=1763710969&amp;width=1200 1200w, //shift-sketch.myshopify.com/cdn/shop/files/03-sketchbook-hover-03.jpg?v=1763710969&amp;width=1400 1400w, //shift-sketch.myshopify.com/cdn/shop/files/03-sketchbook-hover-03.jpg?v=1763710969&amp;width=1600 1600w, //shift-sketch.myshopify.com/cdn/shop/files/03-sketchbook-hover-03.jpg?v=1763710969&amp;width=1800 1800w" width="1856" height="2464" loading="lazy" class="motion-reduce media" sizes="(min-width: 1200px) calc(1.03 * (100vw / 4)),(min-width: 990px) calc(1.03 * (100vw / 3)),(min-width: 576px) calc(1.03 * (100vw / 2)),calc(1.03 * 100vw)" style="object-fit: cover;">
+                </div>
+              
+            </div>
+            <div class="product-button-group">
+              <div class="product-slider-button-prev">
+                <div class="swiper-button-prev swiper-button-disabled" tabindex="-1" role="button" aria-label="Previous slide" aria-controls="swiper-wrapper-9dd1ff1d241365e10" aria-disabled="true"><svg class="icon icon-arrow-slider-left" width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M14 2L6 10L14 18" stroke="currentColor"></path>
+</svg>
+</div>
+              </div>
+
+              <div class="product-slider-button-next">
+                <div class="swiper-button-next" tabindex="0" role="button" aria-label="Next slide" aria-controls="swiper-wrapper-9dd1ff1d241365e10" aria-disabled="false"><svg class="icon icon-arrow-slider-right" width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M6 2L14 10L6 18" stroke="currentColor"></path>
+</svg>
+</div>
+              </div>
+            </div>
+            <div class="swiper-pagination product-card-pagination swiper-pagination-default swiper-pagination-clickable swiper-pagination-bullets swiper-pagination-horizontal"><span class="swiper-pagination-bullet swiper-pagination-bullet-active" tabindex="0" role="button" aria-label="Go to slide 1" aria-current="true"></span><span class="swiper-pagination-bullet" tabindex="0" role="button" aria-label="Go to slide 2"></span><span class="swiper-pagination-bullet" tabindex="0" role="button" aria-label="Go to slide 3"></span><span class="swiper-pagination-bullet" tabindex="0" role="button" aria-label="Go to slide 4"></span></div>
+          <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
+        
+</div><div class="product-card__top">
+        
+<div class="product-card__badges body-normal"></div>
+      </div><div class="product-card__quickview product-card__quickview--mobile-true no-js-hidden">
+        <modal-opener data-modal="#QuickView-15252516176247">
+          <button class="product-card__button button button--primary focus-inset" aria-haspopup="dialog" data-product-url="/products/field-draft-book" aria-label="Quick view">
+            <div class="button__content">
+              <span class="product-card__quickview-text button__label" data-label="Quick view">Quick view</span>
+              <span class="product-card__mobile-icon button__icon">
+                <svg width="22" height="22" viewBox="0 0 22 22" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M2.66745 12.0748C2.35434 11.3936 2.35434 10.6077 2.66745 9.92654C4.11679 6.77337 7.30311 4.58398 11.0008 4.58398C14.6985 4.58398 17.8848 6.77338 19.3341 9.92654C19.6472 10.6077 19.6472 11.3936 19.3341 12.0748C17.8848 15.2279 14.6985 17.4173 11.0008 17.4173C7.30311 17.4173 4.11679 15.2279 2.66745 12.0748Z" stroke="currentColor" stroke-width="1.5"></path>
+  <path d="M13.7508 11.0007C13.7508 12.5194 12.5196 13.7507 11.0008 13.7507C9.48201 13.7507 8.25079 12.5194 8.25079 11.0007C8.25079 9.48187 9.48201 8.25065 11.0008 8.25065C12.5196 8.25065 13.7508 9.48187 13.7508 11.0007Z" stroke="currentColor" stroke-width="1.5"></path>
+</svg>
+
+              </span>
+            </div>
+            <div class="loading-overlay__spinner hidden">
+              <svg aria-hidden="true" focusable="false" role="presentation" class="spinner" viewBox="0 0 66 66" xmlns="http://www.w3.org/2000/svg">
+  <circle class="path" fill="none" stroke-width="5" cx="33" cy="33" r="30"></circle>
+</svg>
+
+            </div>
+          </button>
+        </modal-opener>
+
+        
+
+
+      </div></div>
+
+  
+  <div class="product-card__information">
+    <div class="product-card__information-top"><h2 class="product-card__title">
+        <a class="focus-inset" href="/products/field-draft-book" aria-label="Field Draft Book">Field Draft Book</a>
+      </h2>
+
+      <div class="product-card__price-group">
+        
+<div class="price">
+  <dl class="price-text"><div class="price__regular">
+      <dt class="visually-hidden">Regular price</dt>
+      <dd>
+        <span class="price-item price-item--regular">$10.50</span>
+      </dd>
+    </div>
+    <div class="price__sale">
+      <dt class="visually-hidden">Sale price</dt>
+      <dd>
+        <span class="price-item price-item--sale">$10.50</span>
+      </dd>
+      <dt class="visually-hidden">Regular price</dt>
+      <dd class="price__compare">
+        <s class="price-item price-item--regular"></s>
+      </dd>
+    </div>
+  </dl>
+
+  <dl class="unit-price hidden">
+    <dt class="visually-hidden">Unit price</dt>
+    <dd></dd>
+  </dl>
+</div>
+
+      </div>
+      
+
+          <div class="product-card__description body-small">210 x 105 mm</div><div class="product-card__error body-xs" role="alert" hidden=""></div>
+    </div>
+
+    
+</div><a href="/products/field-draft-book" class="product-card__link-overlay focus-inset" aria-label="Field Draft Book Product link"></a></product-card>
+
+                </div><div class="collection-product-card">
+                  
+
+
+<product-card class="product-card product-card--mobile-1 product-card_image-linked" data-product="horizon-notebook" data-product-id="15252514079095" data-image-linked="true" data-card-color-swatches="true" tabindex="0" style="--card-padding-bottom: 131.7%; --slide-count: 4">
+  <div class="product-card__inner">
+    <div class="product-card__media">
+
+          <div class="swiper-container product-card-js global-variant-js-media-list slider_started swiper-initialized swiper-horizontal swiper-backface-hidden" data-loop="false">
+            <div class="swiper-wrapper" id="swiper-wrapper-e1da90cf59c4f346" aria-live="polite" style="transform: translate3d(0px, 0px, 0px);">
+              
+                
+
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+
+                
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                
+
+                <div class="swiper-slide swiper-slide-active" data-media-id="67600775709047" role="group" aria-label="1 / 4" style="width: 326px; margin-right: 2px;">
+                  <img src="//shift-sketch.myshopify.com/cdn/shop/files/01-sketchbook.jpg?v=1763710639&amp;width=2603" alt="Horizon Notebook" srcset="//shift-sketch.myshopify.com/cdn/shop/files/01-sketchbook.jpg?v=1763710639&amp;width=360 360w, //shift-sketch.myshopify.com/cdn/shop/files/01-sketchbook.jpg?v=1763710639&amp;width=535 535w, //shift-sketch.myshopify.com/cdn/shop/files/01-sketchbook.jpg?v=1763710639&amp;width=720 720w, //shift-sketch.myshopify.com/cdn/shop/files/01-sketchbook.jpg?v=1763710639&amp;width=940 940w, //shift-sketch.myshopify.com/cdn/shop/files/01-sketchbook.jpg?v=1763710639&amp;width=1066 1066w, //shift-sketch.myshopify.com/cdn/shop/files/01-sketchbook.jpg?v=1763710639&amp;width=1200 1200w, //shift-sketch.myshopify.com/cdn/shop/files/01-sketchbook.jpg?v=1763710639&amp;width=1400 1400w, //shift-sketch.myshopify.com/cdn/shop/files/01-sketchbook.jpg?v=1763710639&amp;width=1600 1600w, //shift-sketch.myshopify.com/cdn/shop/files/01-sketchbook.jpg?v=1763710639&amp;width=1800 1800w, //shift-sketch.myshopify.com/cdn/shop/files/01-sketchbook.jpg?v=1763710639&amp;width=2000 2000w, //shift-sketch.myshopify.com/cdn/shop/files/01-sketchbook.jpg?v=1763710639&amp;width=2200 2200w, //shift-sketch.myshopify.com/cdn/shop/files/01-sketchbook.jpg?v=1763710639&amp;width=2400 2400w, //shift-sketch.myshopify.com/cdn/shop/files/01-sketchbook.jpg?v=1763710639&amp;width=2600 2600w" width="2603" height="3470" loading="lazy" class="motion-reduce media" sizes="(min-width: 1200px) calc(1.03 * (100vw / 4)),(min-width: 990px) calc(1.03 * (100vw / 3)),(min-width: 576px) calc(1.03 * (100vw / 2)),calc(1.03 * 100vw)" style="object-fit: cover;">
+                </div>
+              
+                
+
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+
+                
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                
+
+                <div class="swiper-slide swiper-slide-next" data-media-id="67600775610743" role="group" aria-label="2 / 4" style="width: 326px; margin-right: 2px;">
+                  <img src="//shift-sketch.myshopify.com/cdn/shop/files/01-sketchbook-hover-01.jpg?v=1763710638&amp;width=1488" alt="Horizon Notebook" srcset="//shift-sketch.myshopify.com/cdn/shop/files/01-sketchbook-hover-01.jpg?v=1763710638&amp;width=360 360w, //shift-sketch.myshopify.com/cdn/shop/files/01-sketchbook-hover-01.jpg?v=1763710638&amp;width=535 535w, //shift-sketch.myshopify.com/cdn/shop/files/01-sketchbook-hover-01.jpg?v=1763710638&amp;width=720 720w, //shift-sketch.myshopify.com/cdn/shop/files/01-sketchbook-hover-01.jpg?v=1763710638&amp;width=940 940w, //shift-sketch.myshopify.com/cdn/shop/files/01-sketchbook-hover-01.jpg?v=1763710638&amp;width=1066 1066w, //shift-sketch.myshopify.com/cdn/shop/files/01-sketchbook-hover-01.jpg?v=1763710638&amp;width=1200 1200w, //shift-sketch.myshopify.com/cdn/shop/files/01-sketchbook-hover-01.jpg?v=1763710638&amp;width=1400 1400w" width="1488" height="1984" loading="lazy" class="motion-reduce media" sizes="(min-width: 1200px) calc(1.03 * (100vw / 4)),(min-width: 990px) calc(1.03 * (100vw / 3)),(min-width: 576px) calc(1.03 * (100vw / 2)),calc(1.03 * 100vw)" style="object-fit: cover;">
+                </div>
+              
+                
+
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+
+                
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                
+
+                <div class="swiper-slide" data-media-id="67600775643511" role="group" aria-label="3 / 4" style="width: 326px; margin-right: 2px;">
+                  <img src="//shift-sketch.myshopify.com/cdn/shop/files/01-sketchbook-hover-02.jpg?v=1763710640&amp;width=1704" alt="Horizon Notebook" srcset="//shift-sketch.myshopify.com/cdn/shop/files/01-sketchbook-hover-02.jpg?v=1763710640&amp;width=360 360w, //shift-sketch.myshopify.com/cdn/shop/files/01-sketchbook-hover-02.jpg?v=1763710640&amp;width=535 535w, //shift-sketch.myshopify.com/cdn/shop/files/01-sketchbook-hover-02.jpg?v=1763710640&amp;width=720 720w, //shift-sketch.myshopify.com/cdn/shop/files/01-sketchbook-hover-02.jpg?v=1763710640&amp;width=940 940w, //shift-sketch.myshopify.com/cdn/shop/files/01-sketchbook-hover-02.jpg?v=1763710640&amp;width=1066 1066w, //shift-sketch.myshopify.com/cdn/shop/files/01-sketchbook-hover-02.jpg?v=1763710640&amp;width=1200 1200w, //shift-sketch.myshopify.com/cdn/shop/files/01-sketchbook-hover-02.jpg?v=1763710640&amp;width=1400 1400w, //shift-sketch.myshopify.com/cdn/shop/files/01-sketchbook-hover-02.jpg?v=1763710640&amp;width=1600 1600w" width="1704" height="2272" loading="lazy" class="motion-reduce media" sizes="(min-width: 1200px) calc(1.03 * (100vw / 4)),(min-width: 990px) calc(1.03 * (100vw / 3)),(min-width: 576px) calc(1.03 * (100vw / 2)),calc(1.03 * 100vw)" style="object-fit: cover;">
+                </div>
+              
+                
+
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+
+                
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                
+
+                <div class="swiper-slide" data-media-id="67600775676279" role="group" aria-label="4 / 4" style="width: 326px; margin-right: 2px;">
+                  <img src="//shift-sketch.myshopify.com/cdn/shop/files/01-sketchbook-hover-03.jpg?v=1763710639&amp;width=1856" alt="Horizon Notebook" srcset="//shift-sketch.myshopify.com/cdn/shop/files/01-sketchbook-hover-03.jpg?v=1763710639&amp;width=360 360w, //shift-sketch.myshopify.com/cdn/shop/files/01-sketchbook-hover-03.jpg?v=1763710639&amp;width=535 535w, //shift-sketch.myshopify.com/cdn/shop/files/01-sketchbook-hover-03.jpg?v=1763710639&amp;width=720 720w, //shift-sketch.myshopify.com/cdn/shop/files/01-sketchbook-hover-03.jpg?v=1763710639&amp;width=940 940w, //shift-sketch.myshopify.com/cdn/shop/files/01-sketchbook-hover-03.jpg?v=1763710639&amp;width=1066 1066w, //shift-sketch.myshopify.com/cdn/shop/files/01-sketchbook-hover-03.jpg?v=1763710639&amp;width=1200 1200w, //shift-sketch.myshopify.com/cdn/shop/files/01-sketchbook-hover-03.jpg?v=1763710639&amp;width=1400 1400w, //shift-sketch.myshopify.com/cdn/shop/files/01-sketchbook-hover-03.jpg?v=1763710639&amp;width=1600 1600w, //shift-sketch.myshopify.com/cdn/shop/files/01-sketchbook-hover-03.jpg?v=1763710639&amp;width=1800 1800w" width="1856" height="2464" loading="lazy" class="motion-reduce media" sizes="(min-width: 1200px) calc(1.03 * (100vw / 4)),(min-width: 990px) calc(1.03 * (100vw / 3)),(min-width: 576px) calc(1.03 * (100vw / 2)),calc(1.03 * 100vw)" style="object-fit: cover;">
+                </div>
+              
+            </div>
+            <div class="product-button-group">
+              <div class="product-slider-button-prev">
+                <div class="swiper-button-prev swiper-button-disabled" tabindex="-1" role="button" aria-label="Previous slide" aria-controls="swiper-wrapper-e1da90cf59c4f346" aria-disabled="true"><svg class="icon icon-arrow-slider-left" width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M14 2L6 10L14 18" stroke="currentColor"></path>
+</svg>
+</div>
+              </div>
+
+              <div class="product-slider-button-next">
+                <div class="swiper-button-next" tabindex="0" role="button" aria-label="Next slide" aria-controls="swiper-wrapper-e1da90cf59c4f346" aria-disabled="false"><svg class="icon icon-arrow-slider-right" width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M6 2L14 10L6 18" stroke="currentColor"></path>
+</svg>
+</div>
+              </div>
+            </div>
+            <div class="swiper-pagination product-card-pagination swiper-pagination-default swiper-pagination-clickable swiper-pagination-bullets swiper-pagination-horizontal"><span class="swiper-pagination-bullet swiper-pagination-bullet-active" tabindex="0" role="button" aria-label="Go to slide 1" aria-current="true"></span><span class="swiper-pagination-bullet" tabindex="0" role="button" aria-label="Go to slide 2"></span><span class="swiper-pagination-bullet" tabindex="0" role="button" aria-label="Go to slide 3"></span><span class="swiper-pagination-bullet" tabindex="0" role="button" aria-label="Go to slide 4"></span></div>
+          <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
+        
+</div><div class="product-card__top">
+        
+<div class="product-card__badges body-normal"></div>
+      </div><div class="product-card__quickview product-card__quickview--mobile-true no-js-hidden">
+        <modal-opener data-modal="#QuickView-15252514079095">
+          <button class="product-card__button button button--primary focus-inset" aria-haspopup="dialog" data-product-url="/products/horizon-notebook" aria-label="Quick view">
+            <div class="button__content">
+              <span class="product-card__quickview-text button__label" data-label="Quick view">Quick view</span>
+              <span class="product-card__mobile-icon button__icon">
+                <svg width="22" height="22" viewBox="0 0 22 22" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M2.66745 12.0748C2.35434 11.3936 2.35434 10.6077 2.66745 9.92654C4.11679 6.77337 7.30311 4.58398 11.0008 4.58398C14.6985 4.58398 17.8848 6.77338 19.3341 9.92654C19.6472 10.6077 19.6472 11.3936 19.3341 12.0748C17.8848 15.2279 14.6985 17.4173 11.0008 17.4173C7.30311 17.4173 4.11679 15.2279 2.66745 12.0748Z" stroke="currentColor" stroke-width="1.5"></path>
+  <path d="M13.7508 11.0007C13.7508 12.5194 12.5196 13.7507 11.0008 13.7507C9.48201 13.7507 8.25079 12.5194 8.25079 11.0007C8.25079 9.48187 9.48201 8.25065 11.0008 8.25065C12.5196 8.25065 13.7508 9.48187 13.7508 11.0007Z" stroke="currentColor" stroke-width="1.5"></path>
+</svg>
+
+              </span>
+            </div>
+            <div class="loading-overlay__spinner hidden">
+              <svg aria-hidden="true" focusable="false" role="presentation" class="spinner" viewBox="0 0 66 66" xmlns="http://www.w3.org/2000/svg">
+  <circle class="path" fill="none" stroke-width="5" cx="33" cy="33" r="30"></circle>
+</svg>
+
+            </div>
+          </button>
+        </modal-opener>
+
+        
+
+
+      </div></div>
+
+  
+  <div class="product-card__information">
+    <div class="product-card__information-top"><h2 class="product-card__title">
+        <a class="focus-inset" href="/products/horizon-notebook" aria-label="Horizon Notebook">Horizon Notebook</a>
+      </h2>
+
+      <div class="product-card__price-group">
+        
+<div class="price">
+  <dl class="price-text"><div class="price__regular">
+      <dt class="visually-hidden">Regular price</dt>
+      <dd>
+        <span class="price-item price-item--regular">$9.50</span>
+      </dd>
+    </div>
+    <div class="price__sale">
+      <dt class="visually-hidden">Sale price</dt>
+      <dd>
+        <span class="price-item price-item--sale">$9.50</span>
+      </dd>
+      <dt class="visually-hidden">Regular price</dt>
+      <dd class="price__compare">
+        <s class="price-item price-item--regular"></s>
+      </dd>
+    </div>
+  </dl>
+
+  <dl class="unit-price hidden">
+    <dt class="visually-hidden">Unit price</dt>
+    <dd></dd>
+  </dl>
+</div>
+
+      </div>
+      
+
+          <div class="product-card__description body-small">198 x 129 mm</div><div class="product-card__error body-xs" role="alert" hidden=""></div>
+    </div>
+
+    
+<div class="product-card__information-bottom" tabindex="0"><div class="product-card__color-swatches">
+                
+                  <div class="body-small js-option-selected-value" data-option-position="1">
+                    White</div>
+                
+                <div class="product-card__option-group js-card-option-group" data-option-position="1">
+                  
+
+
+  
+
+  
+  
+  
+
+<input type="radio" id="template--27266934243703__product-grid-1-0-15252514079095-16" name="Color-template--27266934243703__product-grid-15252514079095-16" value="White" data-variant-id="56218829554039" form="product-form-template--27266934243703__product-grid" checked="" tabindex="-1" aria-label="White" data-option-value-id="12603693236599" style="">
+    
+<label for="template--27266934243703__product-grid-1-0-15252514079095-16" class="color-swatch" style="--swatch-color: rgb(255 255 255);" title="White" tabindex="0" onkeydown="if(event.key==='Enter'||event.key===' '){event.preventDefault();document.getElementById(this.getAttribute('for')).click();}" data-unavailable-color-label="N/A">
+        <span class="visually-hidden">White</span>
+      </label>
+
+  
+
+  
+  
+  
+
+<input type="radio" id="template--27266934243703__product-grid-1-1-15252514079095-16" name="Color-template--27266934243703__product-grid-15252514079095-16" value="Black" data-variant-id="56817571627383" form="product-form-template--27266934243703__product-grid" tabindex="-1" aria-label="Black" data-option-value-id="12603693269367" style="">
+    
+<label for="template--27266934243703__product-grid-1-1-15252514079095-16" class="color-swatch" style="--swatch-color: rgb(0 0 0);" title="Black" tabindex="0" onkeydown="if(event.key==='Enter'||event.key===' '){event.preventDefault();document.getElementById(this.getAttribute('for')).click();}" data-unavailable-color-label="N/A">
+        <span class="visually-hidden">Black</span>
+      </label>
+
+  
+
+  
+  
+  
+
+<input type="radio" id="template--27266934243703__product-grid-1-2-15252514079095-16" name="Color-template--27266934243703__product-grid-15252514079095-16" value="Blue" data-variant-id="56817571922295" form="product-form-template--27266934243703__product-grid" tabindex="-1" aria-label="Blue" data-option-value-id="12603693302135" style="">
+    
+<label for="template--27266934243703__product-grid-1-2-15252514079095-16" class="color-swatch" style="--swatch-color: rgb(0 91 211);" title="Blue" tabindex="0" onkeydown="if(event.key==='Enter'||event.key===' '){event.preventDefault();document.getElementById(this.getAttribute('for')).click();}" data-unavailable-color-label="N/A">
+        <span class="visually-hidden">Blue</span>
+      </label>
+                </div>
+
+                
+              </div></div></div><script type="application/json" data-product-card-variants="">
+      [{"id":56218829554039,"title":"White \/ A5 \/ Blank","option1":"White","option2":"A5","option3":"Blank","sku":null,"requires_shipping":true,"taxable":true,"featured_image":null,"available":true,"name":"Horizon Notebook - White \/ A5 \/ Blank","public_title":"White \/ A5 \/ Blank","options":["White","A5","Blank"],"price":950,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56218829586807,"title":"White \/ A5 \/ Dot","option1":"White","option2":"A5","option3":"Dot","sku":null,"requires_shipping":true,"taxable":true,"featured_image":null,"available":true,"name":"Horizon Notebook - White \/ A5 \/ Dot","public_title":"White \/ A5 \/ Dot","options":["White","A5","Dot"],"price":950,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56218829619575,"title":"White \/ A5 \/ Lined","option1":"White","option2":"A5","option3":"Lined","sku":null,"requires_shipping":true,"taxable":true,"featured_image":null,"available":true,"name":"Horizon Notebook - White \/ A5 \/ Lined","public_title":"White \/ A5 \/ Lined","options":["White","A5","Lined"],"price":950,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56218829652343,"title":"White \/ A4 \/ Blank","option1":"White","option2":"A4","option3":"Blank","sku":null,"requires_shipping":true,"taxable":true,"featured_image":null,"available":true,"name":"Horizon Notebook - White \/ A4 \/ Blank","public_title":"White \/ A4 \/ Blank","options":["White","A4","Blank"],"price":950,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56218829685111,"title":"White \/ A4 \/ Dot","option1":"White","option2":"A4","option3":"Dot","sku":null,"requires_shipping":true,"taxable":true,"featured_image":null,"available":true,"name":"Horizon Notebook - White \/ A4 \/ Dot","public_title":"White \/ A4 \/ Dot","options":["White","A4","Dot"],"price":950,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56218829717879,"title":"White \/ A4 \/ Lined","option1":"White","option2":"A4","option3":"Lined","sku":null,"requires_shipping":true,"taxable":true,"featured_image":null,"available":true,"name":"Horizon Notebook - White \/ A4 \/ Lined","public_title":"White \/ A4 \/ Lined","options":["White","A4","Lined"],"price":950,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56218829750647,"title":"White \/ A3 \/ Blank","option1":"White","option2":"A3","option3":"Blank","sku":null,"requires_shipping":true,"taxable":true,"featured_image":null,"available":true,"name":"Horizon Notebook - White \/ A3 \/ Blank","public_title":"White \/ A3 \/ Blank","options":["White","A3","Blank"],"price":950,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56218829783415,"title":"White \/ A3 \/ Dot","option1":"White","option2":"A3","option3":"Dot","sku":null,"requires_shipping":true,"taxable":true,"featured_image":null,"available":true,"name":"Horizon Notebook - White \/ A3 \/ Dot","public_title":"White \/ A3 \/ Dot","options":["White","A3","Dot"],"price":950,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56218829816183,"title":"White \/ A3 \/ Lined","option1":"White","option2":"A3","option3":"Lined","sku":null,"requires_shipping":true,"taxable":true,"featured_image":null,"available":true,"name":"Horizon Notebook - White \/ A3 \/ Lined","public_title":"White \/ A3 \/ Lined","options":["White","A3","Lined"],"price":950,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56817571627383,"title":"Black \/ A5 \/ Blank","option1":"Black","option2":"A5","option3":"Blank","sku":null,"requires_shipping":true,"taxable":true,"featured_image":null,"available":true,"name":"Horizon Notebook - Black \/ A5 \/ Blank","public_title":"Black \/ A5 \/ Blank","options":["Black","A5","Blank"],"price":950,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56817571660151,"title":"Black \/ A5 \/ Dot","option1":"Black","option2":"A5","option3":"Dot","sku":null,"requires_shipping":true,"taxable":true,"featured_image":null,"available":true,"name":"Horizon Notebook - Black \/ A5 \/ Dot","public_title":"Black \/ A5 \/ Dot","options":["Black","A5","Dot"],"price":950,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56817571692919,"title":"Black \/ A5 \/ Lined","option1":"Black","option2":"A5","option3":"Lined","sku":null,"requires_shipping":true,"taxable":true,"featured_image":null,"available":true,"name":"Horizon Notebook - Black \/ A5 \/ Lined","public_title":"Black \/ A5 \/ Lined","options":["Black","A5","Lined"],"price":950,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56817571725687,"title":"Black \/ A4 \/ Blank","option1":"Black","option2":"A4","option3":"Blank","sku":null,"requires_shipping":true,"taxable":true,"featured_image":null,"available":true,"name":"Horizon Notebook - Black \/ A4 \/ Blank","public_title":"Black \/ A4 \/ Blank","options":["Black","A4","Blank"],"price":950,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56817571758455,"title":"Black \/ A4 \/ Dot","option1":"Black","option2":"A4","option3":"Dot","sku":null,"requires_shipping":true,"taxable":true,"featured_image":null,"available":true,"name":"Horizon Notebook - Black \/ A4 \/ Dot","public_title":"Black \/ A4 \/ Dot","options":["Black","A4","Dot"],"price":950,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56817571791223,"title":"Black \/ A4 \/ Lined","option1":"Black","option2":"A4","option3":"Lined","sku":null,"requires_shipping":true,"taxable":true,"featured_image":null,"available":true,"name":"Horizon Notebook - Black \/ A4 \/ Lined","public_title":"Black \/ A4 \/ Lined","options":["Black","A4","Lined"],"price":950,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56817571823991,"title":"Black \/ A3 \/ Blank","option1":"Black","option2":"A3","option3":"Blank","sku":null,"requires_shipping":true,"taxable":true,"featured_image":null,"available":true,"name":"Horizon Notebook - Black \/ A3 \/ Blank","public_title":"Black \/ A3 \/ Blank","options":["Black","A3","Blank"],"price":950,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56817571856759,"title":"Black \/ A3 \/ Dot","option1":"Black","option2":"A3","option3":"Dot","sku":null,"requires_shipping":true,"taxable":true,"featured_image":null,"available":true,"name":"Horizon Notebook - Black \/ A3 \/ Dot","public_title":"Black \/ A3 \/ Dot","options":["Black","A3","Dot"],"price":950,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56817571889527,"title":"Black \/ A3 \/ Lined","option1":"Black","option2":"A3","option3":"Lined","sku":null,"requires_shipping":true,"taxable":true,"featured_image":null,"available":true,"name":"Horizon Notebook - Black \/ A3 \/ Lined","public_title":"Black \/ A3 \/ Lined","options":["Black","A3","Lined"],"price":950,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56817571922295,"title":"Blue \/ A5 \/ Blank","option1":"Blue","option2":"A5","option3":"Blank","sku":null,"requires_shipping":true,"taxable":true,"featured_image":null,"available":true,"name":"Horizon Notebook - Blue \/ A5 \/ Blank","public_title":"Blue \/ A5 \/ Blank","options":["Blue","A5","Blank"],"price":950,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56817571955063,"title":"Blue \/ A5 \/ Dot","option1":"Blue","option2":"A5","option3":"Dot","sku":null,"requires_shipping":true,"taxable":true,"featured_image":null,"available":true,"name":"Horizon Notebook - Blue \/ A5 \/ Dot","public_title":"Blue \/ A5 \/ Dot","options":["Blue","A5","Dot"],"price":950,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56817571987831,"title":"Blue \/ A5 \/ Lined","option1":"Blue","option2":"A5","option3":"Lined","sku":null,"requires_shipping":true,"taxable":true,"featured_image":null,"available":true,"name":"Horizon Notebook - Blue \/ A5 \/ Lined","public_title":"Blue \/ A5 \/ Lined","options":["Blue","A5","Lined"],"price":950,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56817572020599,"title":"Blue \/ A4 \/ Blank","option1":"Blue","option2":"A4","option3":"Blank","sku":null,"requires_shipping":true,"taxable":true,"featured_image":null,"available":true,"name":"Horizon Notebook - Blue \/ A4 \/ Blank","public_title":"Blue \/ A4 \/ Blank","options":["Blue","A4","Blank"],"price":950,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56817572053367,"title":"Blue \/ A4 \/ Dot","option1":"Blue","option2":"A4","option3":"Dot","sku":null,"requires_shipping":true,"taxable":true,"featured_image":null,"available":true,"name":"Horizon Notebook - Blue \/ A4 \/ Dot","public_title":"Blue \/ A4 \/ Dot","options":["Blue","A4","Dot"],"price":950,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56817572086135,"title":"Blue \/ A4 \/ Lined","option1":"Blue","option2":"A4","option3":"Lined","sku":null,"requires_shipping":true,"taxable":true,"featured_image":null,"available":true,"name":"Horizon Notebook - Blue \/ A4 \/ Lined","public_title":"Blue \/ A4 \/ Lined","options":["Blue","A4","Lined"],"price":950,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56817572118903,"title":"Blue \/ A3 \/ Blank","option1":"Blue","option2":"A3","option3":"Blank","sku":null,"requires_shipping":true,"taxable":true,"featured_image":null,"available":true,"name":"Horizon Notebook - Blue \/ A3 \/ Blank","public_title":"Blue \/ A3 \/ Blank","options":["Blue","A3","Blank"],"price":950,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56817572151671,"title":"Blue \/ A3 \/ Dot","option1":"Blue","option2":"A3","option3":"Dot","sku":null,"requires_shipping":true,"taxable":true,"featured_image":null,"available":true,"name":"Horizon Notebook - Blue \/ A3 \/ Dot","public_title":"Blue \/ A3 \/ Dot","options":["Blue","A3","Dot"],"price":950,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56817572184439,"title":"Blue \/ A3 \/ Lined","option1":"Blue","option2":"A3","option3":"Lined","sku":null,"requires_shipping":true,"taxable":true,"featured_image":null,"available":true,"name":"Horizon Notebook - Blue \/ A3 \/ Lined","public_title":"Blue \/ A3 \/ Lined","options":["Blue","A3","Lined"],"price":950,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","requires_selling_plan":false,"selling_plan_allocations":[]}]
+    </script>
+    <script type="application/json" data-product-card-featured-media="">
+      {"alt":null,"id":67600775709047,"position":1,"preview_image":{"aspect_ratio":0.75,"height":3470,"width":2603,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/01-sketchbook.jpg?v=1763710639"},"aspect_ratio":0.75,"height":3470,"media_type":"image","src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/01-sketchbook.jpg?v=1763710639","width":2603}
+    </script>
+    <span class="hidden" data-product-card-options="" data-product-title="Horizon Notebook" data-product-columns="4" data-product-columns-mobile="1" data-product-ratio="0.76" data-product-fit="cover" data-product-has-price-varies="false"></span><a href="/products/horizon-notebook" class="product-card__link-overlay focus-inset" aria-label="Horizon Notebook Product link"></a></product-card>
+
+                </div><div class="collection-product-card">
+                  
+
+
+<product-card class="product-card product-card--mobile-1 product-card_image-linked" data-product="model-s-sketch-journal" data-product-id="15252562575735" data-image-linked="true" data-card-color-swatches="true" tabindex="0" style="--card-padding-bottom: 131.7%; --slide-count: 4">
+  <div class="product-card__inner">
+    <div class="product-card__media">
+
+          <div class="swiper-container product-card-js global-variant-js-media-list" data-loop="false">
+            <div class="swiper-wrapper">
+              
+                
+
+                
+                  
+                    
+                    
+
+                
+
+                <div class="swiper-slide" data-media-id="67601706647927" data-variant-id="56817585684855">
+                  <img src="//shift-sketch.myshopify.com/cdn/shop/files/04-sketchbook.jpg?v=1763714816&amp;width=2603" alt="Model S Sketch Journal" srcset="//shift-sketch.myshopify.com/cdn/shop/files/04-sketchbook.jpg?v=1763714816&amp;width=360 360w, //shift-sketch.myshopify.com/cdn/shop/files/04-sketchbook.jpg?v=1763714816&amp;width=535 535w, //shift-sketch.myshopify.com/cdn/shop/files/04-sketchbook.jpg?v=1763714816&amp;width=720 720w, //shift-sketch.myshopify.com/cdn/shop/files/04-sketchbook.jpg?v=1763714816&amp;width=940 940w, //shift-sketch.myshopify.com/cdn/shop/files/04-sketchbook.jpg?v=1763714816&amp;width=1066 1066w, //shift-sketch.myshopify.com/cdn/shop/files/04-sketchbook.jpg?v=1763714816&amp;width=1200 1200w, //shift-sketch.myshopify.com/cdn/shop/files/04-sketchbook.jpg?v=1763714816&amp;width=1400 1400w, //shift-sketch.myshopify.com/cdn/shop/files/04-sketchbook.jpg?v=1763714816&amp;width=1600 1600w, //shift-sketch.myshopify.com/cdn/shop/files/04-sketchbook.jpg?v=1763714816&amp;width=1800 1800w, //shift-sketch.myshopify.com/cdn/shop/files/04-sketchbook.jpg?v=1763714816&amp;width=2000 2000w, //shift-sketch.myshopify.com/cdn/shop/files/04-sketchbook.jpg?v=1763714816&amp;width=2200 2200w, //shift-sketch.myshopify.com/cdn/shop/files/04-sketchbook.jpg?v=1763714816&amp;width=2400 2400w, //shift-sketch.myshopify.com/cdn/shop/files/04-sketchbook.jpg?v=1763714816&amp;width=2600 2600w" width="2603" height="3470" loading="lazy" class="motion-reduce media" sizes="(min-width: 1200px) calc(1.03 * (100vw / 4)),(min-width: 990px) calc(1.03 * (100vw / 3)),(min-width: 576px) calc(1.03 * (100vw / 2)),calc(1.03 * 100vw)" style="object-fit: cover;">
+                </div>
+              
+                
+
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+
+                
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                
+
+                <div class="swiper-slide" data-media-id="67601706549623">
+                  <img src="//shift-sketch.myshopify.com/cdn/shop/files/04-sketchbook-hover-01.jpg?v=1763714816&amp;width=1488" alt="Model S Sketch Journal" srcset="//shift-sketch.myshopify.com/cdn/shop/files/04-sketchbook-hover-01.jpg?v=1763714816&amp;width=360 360w, //shift-sketch.myshopify.com/cdn/shop/files/04-sketchbook-hover-01.jpg?v=1763714816&amp;width=535 535w, //shift-sketch.myshopify.com/cdn/shop/files/04-sketchbook-hover-01.jpg?v=1763714816&amp;width=720 720w, //shift-sketch.myshopify.com/cdn/shop/files/04-sketchbook-hover-01.jpg?v=1763714816&amp;width=940 940w, //shift-sketch.myshopify.com/cdn/shop/files/04-sketchbook-hover-01.jpg?v=1763714816&amp;width=1066 1066w, //shift-sketch.myshopify.com/cdn/shop/files/04-sketchbook-hover-01.jpg?v=1763714816&amp;width=1200 1200w, //shift-sketch.myshopify.com/cdn/shop/files/04-sketchbook-hover-01.jpg?v=1763714816&amp;width=1400 1400w" width="1488" height="1984" loading="lazy" class="motion-reduce media" sizes="(min-width: 1200px) calc(1.03 * (100vw / 4)),(min-width: 990px) calc(1.03 * (100vw / 3)),(min-width: 576px) calc(1.03 * (100vw / 2)),calc(1.03 * 100vw)" style="object-fit: cover;">
+                </div>
+              
+                
+
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+
+                
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                
+
+                <div class="swiper-slide" data-media-id="67601706582391">
+                  <img src="//shift-sketch.myshopify.com/cdn/shop/files/04-sketchbook-hover-02.jpg?v=1763714816&amp;width=1704" alt="Model S Sketch Journal" srcset="//shift-sketch.myshopify.com/cdn/shop/files/04-sketchbook-hover-02.jpg?v=1763714816&amp;width=360 360w, //shift-sketch.myshopify.com/cdn/shop/files/04-sketchbook-hover-02.jpg?v=1763714816&amp;width=535 535w, //shift-sketch.myshopify.com/cdn/shop/files/04-sketchbook-hover-02.jpg?v=1763714816&amp;width=720 720w, //shift-sketch.myshopify.com/cdn/shop/files/04-sketchbook-hover-02.jpg?v=1763714816&amp;width=940 940w, //shift-sketch.myshopify.com/cdn/shop/files/04-sketchbook-hover-02.jpg?v=1763714816&amp;width=1066 1066w, //shift-sketch.myshopify.com/cdn/shop/files/04-sketchbook-hover-02.jpg?v=1763714816&amp;width=1200 1200w, //shift-sketch.myshopify.com/cdn/shop/files/04-sketchbook-hover-02.jpg?v=1763714816&amp;width=1400 1400w, //shift-sketch.myshopify.com/cdn/shop/files/04-sketchbook-hover-02.jpg?v=1763714816&amp;width=1600 1600w" width="1704" height="2272" loading="lazy" class="motion-reduce media" sizes="(min-width: 1200px) calc(1.03 * (100vw / 4)),(min-width: 990px) calc(1.03 * (100vw / 3)),(min-width: 576px) calc(1.03 * (100vw / 2)),calc(1.03 * 100vw)" style="object-fit: cover;">
+                </div>
+              
+                
+
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+
+                
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                
+
+                <div class="swiper-slide" data-media-id="67601706615159">
+                  <img src="//shift-sketch.myshopify.com/cdn/shop/files/04-sketchbook-hover-03.jpg?v=1763714817&amp;width=1856" alt="Model S Sketch Journal" srcset="//shift-sketch.myshopify.com/cdn/shop/files/04-sketchbook-hover-03.jpg?v=1763714817&amp;width=360 360w, //shift-sketch.myshopify.com/cdn/shop/files/04-sketchbook-hover-03.jpg?v=1763714817&amp;width=535 535w, //shift-sketch.myshopify.com/cdn/shop/files/04-sketchbook-hover-03.jpg?v=1763714817&amp;width=720 720w, //shift-sketch.myshopify.com/cdn/shop/files/04-sketchbook-hover-03.jpg?v=1763714817&amp;width=940 940w, //shift-sketch.myshopify.com/cdn/shop/files/04-sketchbook-hover-03.jpg?v=1763714817&amp;width=1066 1066w, //shift-sketch.myshopify.com/cdn/shop/files/04-sketchbook-hover-03.jpg?v=1763714817&amp;width=1200 1200w, //shift-sketch.myshopify.com/cdn/shop/files/04-sketchbook-hover-03.jpg?v=1763714817&amp;width=1400 1400w, //shift-sketch.myshopify.com/cdn/shop/files/04-sketchbook-hover-03.jpg?v=1763714817&amp;width=1600 1600w, //shift-sketch.myshopify.com/cdn/shop/files/04-sketchbook-hover-03.jpg?v=1763714817&amp;width=1800 1800w" width="1856" height="2464" loading="lazy" class="motion-reduce media" sizes="(min-width: 1200px) calc(1.03 * (100vw / 4)),(min-width: 990px) calc(1.03 * (100vw / 3)),(min-width: 576px) calc(1.03 * (100vw / 2)),calc(1.03 * 100vw)" style="object-fit: cover;">
+                </div>
+              
+            </div>
+            <div class="product-button-group">
+              <div class="product-slider-button-prev">
+                <div class="swiper-button-prev"><svg class="icon icon-arrow-slider-left" width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M14 2L6 10L14 18" stroke="currentColor"></path>
+</svg>
+</div>
+              </div>
+
+              <div class="product-slider-button-next">
+                <div class="swiper-button-next"><svg class="icon icon-arrow-slider-right" width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M6 2L14 10L6 18" stroke="currentColor"></path>
+</svg>
+</div>
+              </div>
+            </div>
+            <div class="swiper-pagination product-card-pagination swiper-pagination-default"></div>
+          </div>
+        
+</div><div class="product-card__top">
+        
+<div class="product-card__badges body-normal"></div>
+      </div><div class="product-card__quickview product-card__quickview--mobile-true no-js-hidden">
+        <modal-opener data-modal="#QuickView-15252562575735">
+          <button class="product-card__button button button--primary focus-inset" aria-haspopup="dialog" data-product-url="/products/model-s-sketch-journal" aria-label="Quick view">
+            <div class="button__content">
+              <span class="product-card__quickview-text button__label" data-label="Quick view">Quick view</span>
+              <span class="product-card__mobile-icon button__icon">
+                <svg width="22" height="22" viewBox="0 0 22 22" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M2.66745 12.0748C2.35434 11.3936 2.35434 10.6077 2.66745 9.92654C4.11679 6.77337 7.30311 4.58398 11.0008 4.58398C14.6985 4.58398 17.8848 6.77338 19.3341 9.92654C19.6472 10.6077 19.6472 11.3936 19.3341 12.0748C17.8848 15.2279 14.6985 17.4173 11.0008 17.4173C7.30311 17.4173 4.11679 15.2279 2.66745 12.0748Z" stroke="currentColor" stroke-width="1.5"></path>
+  <path d="M13.7508 11.0007C13.7508 12.5194 12.5196 13.7507 11.0008 13.7507C9.48201 13.7507 8.25079 12.5194 8.25079 11.0007C8.25079 9.48187 9.48201 8.25065 11.0008 8.25065C12.5196 8.25065 13.7508 9.48187 13.7508 11.0007Z" stroke="currentColor" stroke-width="1.5"></path>
+</svg>
+
+              </span>
+            </div>
+            <div class="loading-overlay__spinner hidden">
+              <svg aria-hidden="true" focusable="false" role="presentation" class="spinner" viewBox="0 0 66 66" xmlns="http://www.w3.org/2000/svg">
+  <circle class="path" fill="none" stroke-width="5" cx="33" cy="33" r="30"></circle>
+</svg>
+
+            </div>
+          </button>
+        </modal-opener>
+
+        
+
+
+      </div></div>
+
+  
+  <div class="product-card__information">
+    <div class="product-card__information-top"><h2 class="product-card__title">
+        <a class="focus-inset" href="/products/model-s-sketch-journal" aria-label="Model S Sketch Journal">Model S Sketch Journal</a>
+      </h2>
+
+      <div class="product-card__price-group">
+        
+<div class="price">
+  <dl class="price-text"><div class="price__regular">
+      <dt class="visually-hidden">Regular price</dt>
+      <dd>
+        <span class="price-item price-item--regular">$12.00</span>
+      </dd>
+    </div>
+    <div class="price__sale">
+      <dt class="visually-hidden">Sale price</dt>
+      <dd>
+        <span class="price-item price-item--sale">$12.00</span>
+      </dd>
+      <dt class="visually-hidden">Regular price</dt>
+      <dd class="price__compare">
+        <s class="price-item price-item--regular"></s>
+      </dd>
+    </div>
+  </dl>
+
+  <dl class="unit-price hidden">
+    <dt class="visually-hidden">Unit price</dt>
+    <dd></dd>
+  </dl>
+</div>
+
+      </div>
+      
+
+          <div class="product-card__description body-small">310 × 450 mm</div><div class="product-card__error body-xs" role="alert" hidden=""></div>
+    </div>
+
+    
+<div class="product-card__information-bottom" tabindex="0"><div class="product-card__color-swatches">
+                
+                  <div class="body-small js-option-selected-value" data-option-position="1">
+                    Red</div>
+                
+                <div class="product-card__option-group js-card-option-group" data-option-position="1">
+                  
+
+
+  
+
+  
+  
+  
+
+<input type="radio" id="template--27266934243703__product-grid-1-0-15252562575735-17" name="Color-template--27266934243703__product-grid-15252562575735-17" value="Red" data-variant-id="56817585684855" form="product-form-template--27266934243703__product-grid" checked="" tabindex="-1" aria-label="Red" data-option-value-id="12603707687287" style="">
+    
+<label for="template--27266934243703__product-grid-1-0-15252562575735-17" class="color-swatch" style="--swatch-color: rgb(246 31 31);" title="Red" tabindex="0" onkeydown="if(event.key==='Enter'||event.key===' '){event.preventDefault();document.getElementById(this.getAttribute('for')).click();}" data-unavailable-color-label="N/A">
+        <span class="visually-hidden">Red</span>
+      </label>
+
+  
+
+  
+  
+  
+
+<input type="radio" id="template--27266934243703__product-grid-1-1-15252562575735-17" name="Color-template--27266934243703__product-grid-15252562575735-17" value="Black" data-variant-id="56219132920183" form="product-form-template--27266934243703__product-grid" tabindex="-1" aria-label="Black" data-option-value-id="12603707654519" style="">
+    
+<label for="template--27266934243703__product-grid-1-1-15252562575735-17" class="color-swatch" style="--swatch-color: rgb(0 0 0);" title="Black" tabindex="0" onkeydown="if(event.key==='Enter'||event.key===' '){event.preventDefault();document.getElementById(this.getAttribute('for')).click();}" data-unavailable-color-label="N/A">
+        <span class="visually-hidden">Black</span>
+      </label>
+                </div>
+
+                
+              </div></div></div><script type="application/json" data-product-card-variants="">
+      [{"id":56817585684855,"title":"Red \/ A5 \/ Blank","option1":"Red","option2":"A5","option3":"Blank","sku":null,"requires_shipping":true,"taxable":true,"featured_image":{"id":82281127051639,"product_id":15252562575735,"position":1,"created_at":"2025-11-21T03:46:52-05:00","updated_at":"2025-11-21T03:46:56-05:00","alt":null,"width":2603,"height":3470,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/04-sketchbook.jpg?v=1763714816","variant_ids":[56817585684855,56817585717623,56817585750391,56817585783159,56817585815927,56817585848695,56817585881463,56817585914231,56817585946999]},"available":true,"name":"Model S Sketch Journal - Red \/ A5 \/ Blank","public_title":"Red \/ A5 \/ Blank","options":["Red","A5","Blank"],"price":1200,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","featured_media":{"alt":null,"id":67601706647927,"position":1,"preview_image":{"aspect_ratio":0.75,"height":3470,"width":2603,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/04-sketchbook.jpg?v=1763714816"}},"requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56817585717623,"title":"Red \/ A5 \/ Dot","option1":"Red","option2":"A5","option3":"Dot","sku":null,"requires_shipping":true,"taxable":true,"featured_image":{"id":82281127051639,"product_id":15252562575735,"position":1,"created_at":"2025-11-21T03:46:52-05:00","updated_at":"2025-11-21T03:46:56-05:00","alt":null,"width":2603,"height":3470,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/04-sketchbook.jpg?v=1763714816","variant_ids":[56817585684855,56817585717623,56817585750391,56817585783159,56817585815927,56817585848695,56817585881463,56817585914231,56817585946999]},"available":true,"name":"Model S Sketch Journal - Red \/ A5 \/ Dot","public_title":"Red \/ A5 \/ Dot","options":["Red","A5","Dot"],"price":1200,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","featured_media":{"alt":null,"id":67601706647927,"position":1,"preview_image":{"aspect_ratio":0.75,"height":3470,"width":2603,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/04-sketchbook.jpg?v=1763714816"}},"requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56817585750391,"title":"Red \/ A5 \/ Lined","option1":"Red","option2":"A5","option3":"Lined","sku":null,"requires_shipping":true,"taxable":true,"featured_image":{"id":82281127051639,"product_id":15252562575735,"position":1,"created_at":"2025-11-21T03:46:52-05:00","updated_at":"2025-11-21T03:46:56-05:00","alt":null,"width":2603,"height":3470,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/04-sketchbook.jpg?v=1763714816","variant_ids":[56817585684855,56817585717623,56817585750391,56817585783159,56817585815927,56817585848695,56817585881463,56817585914231,56817585946999]},"available":true,"name":"Model S Sketch Journal - Red \/ A5 \/ Lined","public_title":"Red \/ A5 \/ Lined","options":["Red","A5","Lined"],"price":1200,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","featured_media":{"alt":null,"id":67601706647927,"position":1,"preview_image":{"aspect_ratio":0.75,"height":3470,"width":2603,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/04-sketchbook.jpg?v=1763714816"}},"requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56817585783159,"title":"Red \/ A4 \/ Blank","option1":"Red","option2":"A4","option3":"Blank","sku":null,"requires_shipping":true,"taxable":true,"featured_image":{"id":82281127051639,"product_id":15252562575735,"position":1,"created_at":"2025-11-21T03:46:52-05:00","updated_at":"2025-11-21T03:46:56-05:00","alt":null,"width":2603,"height":3470,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/04-sketchbook.jpg?v=1763714816","variant_ids":[56817585684855,56817585717623,56817585750391,56817585783159,56817585815927,56817585848695,56817585881463,56817585914231,56817585946999]},"available":true,"name":"Model S Sketch Journal - Red \/ A4 \/ Blank","public_title":"Red \/ A4 \/ Blank","options":["Red","A4","Blank"],"price":1200,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","featured_media":{"alt":null,"id":67601706647927,"position":1,"preview_image":{"aspect_ratio":0.75,"height":3470,"width":2603,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/04-sketchbook.jpg?v=1763714816"}},"requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56817585815927,"title":"Red \/ A4 \/ Dot","option1":"Red","option2":"A4","option3":"Dot","sku":null,"requires_shipping":true,"taxable":true,"featured_image":{"id":82281127051639,"product_id":15252562575735,"position":1,"created_at":"2025-11-21T03:46:52-05:00","updated_at":"2025-11-21T03:46:56-05:00","alt":null,"width":2603,"height":3470,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/04-sketchbook.jpg?v=1763714816","variant_ids":[56817585684855,56817585717623,56817585750391,56817585783159,56817585815927,56817585848695,56817585881463,56817585914231,56817585946999]},"available":true,"name":"Model S Sketch Journal - Red \/ A4 \/ Dot","public_title":"Red \/ A4 \/ Dot","options":["Red","A4","Dot"],"price":1200,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","featured_media":{"alt":null,"id":67601706647927,"position":1,"preview_image":{"aspect_ratio":0.75,"height":3470,"width":2603,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/04-sketchbook.jpg?v=1763714816"}},"requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56817585848695,"title":"Red \/ A4 \/ Lined","option1":"Red","option2":"A4","option3":"Lined","sku":null,"requires_shipping":true,"taxable":true,"featured_image":{"id":82281127051639,"product_id":15252562575735,"position":1,"created_at":"2025-11-21T03:46:52-05:00","updated_at":"2025-11-21T03:46:56-05:00","alt":null,"width":2603,"height":3470,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/04-sketchbook.jpg?v=1763714816","variant_ids":[56817585684855,56817585717623,56817585750391,56817585783159,56817585815927,56817585848695,56817585881463,56817585914231,56817585946999]},"available":true,"name":"Model S Sketch Journal - Red \/ A4 \/ Lined","public_title":"Red \/ A4 \/ Lined","options":["Red","A4","Lined"],"price":1200,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","featured_media":{"alt":null,"id":67601706647927,"position":1,"preview_image":{"aspect_ratio":0.75,"height":3470,"width":2603,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/04-sketchbook.jpg?v=1763714816"}},"requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56817585881463,"title":"Red \/ A3 \/ Blank","option1":"Red","option2":"A3","option3":"Blank","sku":null,"requires_shipping":true,"taxable":true,"featured_image":{"id":82281127051639,"product_id":15252562575735,"position":1,"created_at":"2025-11-21T03:46:52-05:00","updated_at":"2025-11-21T03:46:56-05:00","alt":null,"width":2603,"height":3470,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/04-sketchbook.jpg?v=1763714816","variant_ids":[56817585684855,56817585717623,56817585750391,56817585783159,56817585815927,56817585848695,56817585881463,56817585914231,56817585946999]},"available":true,"name":"Model S Sketch Journal - Red \/ A3 \/ Blank","public_title":"Red \/ A3 \/ Blank","options":["Red","A3","Blank"],"price":1200,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","featured_media":{"alt":null,"id":67601706647927,"position":1,"preview_image":{"aspect_ratio":0.75,"height":3470,"width":2603,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/04-sketchbook.jpg?v=1763714816"}},"requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56817585914231,"title":"Red \/ A3 \/ Dot","option1":"Red","option2":"A3","option3":"Dot","sku":null,"requires_shipping":true,"taxable":true,"featured_image":{"id":82281127051639,"product_id":15252562575735,"position":1,"created_at":"2025-11-21T03:46:52-05:00","updated_at":"2025-11-21T03:46:56-05:00","alt":null,"width":2603,"height":3470,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/04-sketchbook.jpg?v=1763714816","variant_ids":[56817585684855,56817585717623,56817585750391,56817585783159,56817585815927,56817585848695,56817585881463,56817585914231,56817585946999]},"available":true,"name":"Model S Sketch Journal - Red \/ A3 \/ Dot","public_title":"Red \/ A3 \/ Dot","options":["Red","A3","Dot"],"price":1200,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","featured_media":{"alt":null,"id":67601706647927,"position":1,"preview_image":{"aspect_ratio":0.75,"height":3470,"width":2603,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/04-sketchbook.jpg?v=1763714816"}},"requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56817585946999,"title":"Red \/ A3 \/ Lined","option1":"Red","option2":"A3","option3":"Lined","sku":null,"requires_shipping":true,"taxable":true,"featured_image":{"id":82281127051639,"product_id":15252562575735,"position":1,"created_at":"2025-11-21T03:46:52-05:00","updated_at":"2025-11-21T03:46:56-05:00","alt":null,"width":2603,"height":3470,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/04-sketchbook.jpg?v=1763714816","variant_ids":[56817585684855,56817585717623,56817585750391,56817585783159,56817585815927,56817585848695,56817585881463,56817585914231,56817585946999]},"available":true,"name":"Model S Sketch Journal - Red \/ A3 \/ Lined","public_title":"Red \/ A3 \/ Lined","options":["Red","A3","Lined"],"price":1200,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","featured_media":{"alt":null,"id":67601706647927,"position":1,"preview_image":{"aspect_ratio":0.75,"height":3470,"width":2603,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/04-sketchbook.jpg?v=1763714816"}},"requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56219132920183,"title":"Black \/ A5 \/ Blank","option1":"Black","option2":"A5","option3":"Blank","sku":null,"requires_shipping":true,"taxable":true,"featured_image":null,"available":true,"name":"Model S Sketch Journal - Black \/ A5 \/ Blank","public_title":"Black \/ A5 \/ Blank","options":["Black","A5","Blank"],"price":1200,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56219132952951,"title":"Black \/ A5 \/ Dot","option1":"Black","option2":"A5","option3":"Dot","sku":null,"requires_shipping":true,"taxable":true,"featured_image":null,"available":true,"name":"Model S Sketch Journal - Black \/ A5 \/ Dot","public_title":"Black \/ A5 \/ Dot","options":["Black","A5","Dot"],"price":1200,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56219132985719,"title":"Black \/ A5 \/ Lined","option1":"Black","option2":"A5","option3":"Lined","sku":null,"requires_shipping":true,"taxable":true,"featured_image":null,"available":true,"name":"Model S Sketch Journal - Black \/ A5 \/ Lined","public_title":"Black \/ A5 \/ Lined","options":["Black","A5","Lined"],"price":1200,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56219133018487,"title":"Black \/ A4 \/ Blank","option1":"Black","option2":"A4","option3":"Blank","sku":null,"requires_shipping":true,"taxable":true,"featured_image":null,"available":true,"name":"Model S Sketch Journal - Black \/ A4 \/ Blank","public_title":"Black \/ A4 \/ Blank","options":["Black","A4","Blank"],"price":1200,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56219133051255,"title":"Black \/ A4 \/ Dot","option1":"Black","option2":"A4","option3":"Dot","sku":null,"requires_shipping":true,"taxable":true,"featured_image":null,"available":true,"name":"Model S Sketch Journal - Black \/ A4 \/ Dot","public_title":"Black \/ A4 \/ Dot","options":["Black","A4","Dot"],"price":1200,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56219133084023,"title":"Black \/ A4 \/ Lined","option1":"Black","option2":"A4","option3":"Lined","sku":null,"requires_shipping":true,"taxable":true,"featured_image":null,"available":true,"name":"Model S Sketch Journal - Black \/ A4 \/ Lined","public_title":"Black \/ A4 \/ Lined","options":["Black","A4","Lined"],"price":1200,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56219133116791,"title":"Black \/ A3 \/ Blank","option1":"Black","option2":"A3","option3":"Blank","sku":null,"requires_shipping":true,"taxable":true,"featured_image":null,"available":true,"name":"Model S Sketch Journal - Black \/ A3 \/ Blank","public_title":"Black \/ A3 \/ Blank","options":["Black","A3","Blank"],"price":1200,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56219133149559,"title":"Black \/ A3 \/ Dot","option1":"Black","option2":"A3","option3":"Dot","sku":null,"requires_shipping":true,"taxable":true,"featured_image":null,"available":true,"name":"Model S Sketch Journal - Black \/ A3 \/ Dot","public_title":"Black \/ A3 \/ Dot","options":["Black","A3","Dot"],"price":1200,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56219133182327,"title":"Black \/ A3 \/ Lined","option1":"Black","option2":"A3","option3":"Lined","sku":null,"requires_shipping":true,"taxable":true,"featured_image":null,"available":true,"name":"Model S Sketch Journal - Black \/ A3 \/ Lined","public_title":"Black \/ A3 \/ Lined","options":["Black","A3","Lined"],"price":1200,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","requires_selling_plan":false,"selling_plan_allocations":[]}]
+    </script>
+    <script type="application/json" data-product-card-featured-media="">
+      {"alt":null,"id":67601706647927,"position":1,"preview_image":{"aspect_ratio":0.75,"height":3470,"width":2603,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/04-sketchbook.jpg?v=1763714816"},"aspect_ratio":0.75,"height":3470,"media_type":"image","src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/04-sketchbook.jpg?v=1763714816","width":2603}
+    </script>
+    <span class="hidden" data-product-card-options="" data-product-title="Model S Sketch Journal" data-product-columns="4" data-product-columns-mobile="1" data-product-ratio="0.76" data-product-fit="cover" data-product-has-price-varies="false"></span><a href="/products/model-s-sketch-journal" class="product-card__link-overlay focus-inset" aria-label="Model S Sketch Journal Product link"></a></product-card>
+
+                </div><div class="collection-product-card">
+                  
+
+
+<product-card class="product-card product-card--mobile-1 product-card_image-linked" data-product="neutral-block-notebook" data-product-id="15252563394935" data-image-linked="true" data-card-color-swatches="true" tabindex="0" style="--card-padding-bottom: 131.7%; --slide-count: 4">
+  <div class="product-card__inner">
+    <div class="product-card__media">
+
+          <div class="swiper-container product-card-js global-variant-js-media-list" data-loop="false">
+            <div class="swiper-wrapper">
+              
+                
+
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+
+                
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                
+
+                <div class="swiper-slide" data-media-id="67601765138807">
+                  <img src="//shift-sketch.myshopify.com/cdn/shop/files/05-sketchbook_628ac0f7-8115-4b58-8911-23ab8db69f8d.jpg?v=1763715177&amp;width=2603" alt="Neutral Block Notebook" srcset="//shift-sketch.myshopify.com/cdn/shop/files/05-sketchbook_628ac0f7-8115-4b58-8911-23ab8db69f8d.jpg?v=1763715177&amp;width=360 360w, //shift-sketch.myshopify.com/cdn/shop/files/05-sketchbook_628ac0f7-8115-4b58-8911-23ab8db69f8d.jpg?v=1763715177&amp;width=535 535w, //shift-sketch.myshopify.com/cdn/shop/files/05-sketchbook_628ac0f7-8115-4b58-8911-23ab8db69f8d.jpg?v=1763715177&amp;width=720 720w, //shift-sketch.myshopify.com/cdn/shop/files/05-sketchbook_628ac0f7-8115-4b58-8911-23ab8db69f8d.jpg?v=1763715177&amp;width=940 940w, //shift-sketch.myshopify.com/cdn/shop/files/05-sketchbook_628ac0f7-8115-4b58-8911-23ab8db69f8d.jpg?v=1763715177&amp;width=1066 1066w, //shift-sketch.myshopify.com/cdn/shop/files/05-sketchbook_628ac0f7-8115-4b58-8911-23ab8db69f8d.jpg?v=1763715177&amp;width=1200 1200w, //shift-sketch.myshopify.com/cdn/shop/files/05-sketchbook_628ac0f7-8115-4b58-8911-23ab8db69f8d.jpg?v=1763715177&amp;width=1400 1400w, //shift-sketch.myshopify.com/cdn/shop/files/05-sketchbook_628ac0f7-8115-4b58-8911-23ab8db69f8d.jpg?v=1763715177&amp;width=1600 1600w, //shift-sketch.myshopify.com/cdn/shop/files/05-sketchbook_628ac0f7-8115-4b58-8911-23ab8db69f8d.jpg?v=1763715177&amp;width=1800 1800w, //shift-sketch.myshopify.com/cdn/shop/files/05-sketchbook_628ac0f7-8115-4b58-8911-23ab8db69f8d.jpg?v=1763715177&amp;width=2000 2000w, //shift-sketch.myshopify.com/cdn/shop/files/05-sketchbook_628ac0f7-8115-4b58-8911-23ab8db69f8d.jpg?v=1763715177&amp;width=2200 2200w, //shift-sketch.myshopify.com/cdn/shop/files/05-sketchbook_628ac0f7-8115-4b58-8911-23ab8db69f8d.jpg?v=1763715177&amp;width=2400 2400w, //shift-sketch.myshopify.com/cdn/shop/files/05-sketchbook_628ac0f7-8115-4b58-8911-23ab8db69f8d.jpg?v=1763715177&amp;width=2600 2600w" width="2603" height="3470" loading="lazy" class="motion-reduce media" sizes="(min-width: 1200px) calc(1.03 * (100vw / 4)),(min-width: 990px) calc(1.03 * (100vw / 3)),(min-width: 576px) calc(1.03 * (100vw / 2)),calc(1.03 * 100vw)" style="object-fit: cover;">
+                </div>
+              
+                
+
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+
+                
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                
+
+                <div class="swiper-slide" data-media-id="67601765040503">
+                  <img src="//shift-sketch.myshopify.com/cdn/shop/files/05-sketchbook-hover-01_58129cd5-241e-463d-aac1-82254657f87e.jpg?v=1763715176&amp;width=1488" alt="Neutral Block Notebook" srcset="//shift-sketch.myshopify.com/cdn/shop/files/05-sketchbook-hover-01_58129cd5-241e-463d-aac1-82254657f87e.jpg?v=1763715176&amp;width=360 360w, //shift-sketch.myshopify.com/cdn/shop/files/05-sketchbook-hover-01_58129cd5-241e-463d-aac1-82254657f87e.jpg?v=1763715176&amp;width=535 535w, //shift-sketch.myshopify.com/cdn/shop/files/05-sketchbook-hover-01_58129cd5-241e-463d-aac1-82254657f87e.jpg?v=1763715176&amp;width=720 720w, //shift-sketch.myshopify.com/cdn/shop/files/05-sketchbook-hover-01_58129cd5-241e-463d-aac1-82254657f87e.jpg?v=1763715176&amp;width=940 940w, //shift-sketch.myshopify.com/cdn/shop/files/05-sketchbook-hover-01_58129cd5-241e-463d-aac1-82254657f87e.jpg?v=1763715176&amp;width=1066 1066w, //shift-sketch.myshopify.com/cdn/shop/files/05-sketchbook-hover-01_58129cd5-241e-463d-aac1-82254657f87e.jpg?v=1763715176&amp;width=1200 1200w, //shift-sketch.myshopify.com/cdn/shop/files/05-sketchbook-hover-01_58129cd5-241e-463d-aac1-82254657f87e.jpg?v=1763715176&amp;width=1400 1400w" width="1488" height="1984" loading="lazy" class="motion-reduce media" sizes="(min-width: 1200px) calc(1.03 * (100vw / 4)),(min-width: 990px) calc(1.03 * (100vw / 3)),(min-width: 576px) calc(1.03 * (100vw / 2)),calc(1.03 * 100vw)" style="object-fit: cover;">
+                </div>
+              
+                
+
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+
+                
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                
+
+                <div class="swiper-slide" data-media-id="67601765073271">
+                  <img src="//shift-sketch.myshopify.com/cdn/shop/files/05-sketchbook-hover-02_5ba31f04-ce97-431b-b73b-90bb02022a27.jpg?v=1763715176&amp;width=1704" alt="Neutral Block Notebook" srcset="//shift-sketch.myshopify.com/cdn/shop/files/05-sketchbook-hover-02_5ba31f04-ce97-431b-b73b-90bb02022a27.jpg?v=1763715176&amp;width=360 360w, //shift-sketch.myshopify.com/cdn/shop/files/05-sketchbook-hover-02_5ba31f04-ce97-431b-b73b-90bb02022a27.jpg?v=1763715176&amp;width=535 535w, //shift-sketch.myshopify.com/cdn/shop/files/05-sketchbook-hover-02_5ba31f04-ce97-431b-b73b-90bb02022a27.jpg?v=1763715176&amp;width=720 720w, //shift-sketch.myshopify.com/cdn/shop/files/05-sketchbook-hover-02_5ba31f04-ce97-431b-b73b-90bb02022a27.jpg?v=1763715176&amp;width=940 940w, //shift-sketch.myshopify.com/cdn/shop/files/05-sketchbook-hover-02_5ba31f04-ce97-431b-b73b-90bb02022a27.jpg?v=1763715176&amp;width=1066 1066w, //shift-sketch.myshopify.com/cdn/shop/files/05-sketchbook-hover-02_5ba31f04-ce97-431b-b73b-90bb02022a27.jpg?v=1763715176&amp;width=1200 1200w, //shift-sketch.myshopify.com/cdn/shop/files/05-sketchbook-hover-02_5ba31f04-ce97-431b-b73b-90bb02022a27.jpg?v=1763715176&amp;width=1400 1400w, //shift-sketch.myshopify.com/cdn/shop/files/05-sketchbook-hover-02_5ba31f04-ce97-431b-b73b-90bb02022a27.jpg?v=1763715176&amp;width=1600 1600w" width="1704" height="2272" loading="lazy" class="motion-reduce media" sizes="(min-width: 1200px) calc(1.03 * (100vw / 4)),(min-width: 990px) calc(1.03 * (100vw / 3)),(min-width: 576px) calc(1.03 * (100vw / 2)),calc(1.03 * 100vw)" style="object-fit: cover;">
+                </div>
+              
+                
+
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+
+                
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                
+
+                <div class="swiper-slide" data-media-id="67601765106039">
+                  <img src="//shift-sketch.myshopify.com/cdn/shop/files/05-sketchbook-hover-03_9ad2eb02-836d-47c2-b866-01da52c7a4d3.jpg?v=1763715176&amp;width=1856" alt="Neutral Block Notebook" srcset="//shift-sketch.myshopify.com/cdn/shop/files/05-sketchbook-hover-03_9ad2eb02-836d-47c2-b866-01da52c7a4d3.jpg?v=1763715176&amp;width=360 360w, //shift-sketch.myshopify.com/cdn/shop/files/05-sketchbook-hover-03_9ad2eb02-836d-47c2-b866-01da52c7a4d3.jpg?v=1763715176&amp;width=535 535w, //shift-sketch.myshopify.com/cdn/shop/files/05-sketchbook-hover-03_9ad2eb02-836d-47c2-b866-01da52c7a4d3.jpg?v=1763715176&amp;width=720 720w, //shift-sketch.myshopify.com/cdn/shop/files/05-sketchbook-hover-03_9ad2eb02-836d-47c2-b866-01da52c7a4d3.jpg?v=1763715176&amp;width=940 940w, //shift-sketch.myshopify.com/cdn/shop/files/05-sketchbook-hover-03_9ad2eb02-836d-47c2-b866-01da52c7a4d3.jpg?v=1763715176&amp;width=1066 1066w, //shift-sketch.myshopify.com/cdn/shop/files/05-sketchbook-hover-03_9ad2eb02-836d-47c2-b866-01da52c7a4d3.jpg?v=1763715176&amp;width=1200 1200w, //shift-sketch.myshopify.com/cdn/shop/files/05-sketchbook-hover-03_9ad2eb02-836d-47c2-b866-01da52c7a4d3.jpg?v=1763715176&amp;width=1400 1400w, //shift-sketch.myshopify.com/cdn/shop/files/05-sketchbook-hover-03_9ad2eb02-836d-47c2-b866-01da52c7a4d3.jpg?v=1763715176&amp;width=1600 1600w, //shift-sketch.myshopify.com/cdn/shop/files/05-sketchbook-hover-03_9ad2eb02-836d-47c2-b866-01da52c7a4d3.jpg?v=1763715176&amp;width=1800 1800w" width="1856" height="2464" loading="lazy" class="motion-reduce media" sizes="(min-width: 1200px) calc(1.03 * (100vw / 4)),(min-width: 990px) calc(1.03 * (100vw / 3)),(min-width: 576px) calc(1.03 * (100vw / 2)),calc(1.03 * 100vw)" style="object-fit: cover;">
+                </div>
+              
+            </div>
+            <div class="product-button-group">
+              <div class="product-slider-button-prev">
+                <div class="swiper-button-prev"><svg class="icon icon-arrow-slider-left" width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M14 2L6 10L14 18" stroke="currentColor"></path>
+</svg>
+</div>
+              </div>
+
+              <div class="product-slider-button-next">
+                <div class="swiper-button-next"><svg class="icon icon-arrow-slider-right" width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M6 2L14 10L6 18" stroke="currentColor"></path>
+</svg>
+</div>
+              </div>
+            </div>
+            <div class="swiper-pagination product-card-pagination swiper-pagination-default"></div>
+          </div>
+        
+</div><div class="product-card__top">
+        
+<div class="product-card__badges body-normal"><span class="badge badge--sold-out" aria-hidden="true">Sold Out</span></div>
+      </div><div class="product-card__quickview product-card__quickview--mobile-true no-js-hidden">
+        <modal-opener data-modal="#QuickView-15252563394935">
+          <button class="product-card__button button button--primary focus-inset" aria-haspopup="dialog" data-product-url="/products/neutral-block-notebook" aria-label="Quick view">
+            <div class="button__content">
+              <span class="product-card__quickview-text button__label" data-label="Quick view">Quick view</span>
+              <span class="product-card__mobile-icon button__icon">
+                <svg width="22" height="22" viewBox="0 0 22 22" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M2.66745 12.0748C2.35434 11.3936 2.35434 10.6077 2.66745 9.92654C4.11679 6.77337 7.30311 4.58398 11.0008 4.58398C14.6985 4.58398 17.8848 6.77338 19.3341 9.92654C19.6472 10.6077 19.6472 11.3936 19.3341 12.0748C17.8848 15.2279 14.6985 17.4173 11.0008 17.4173C7.30311 17.4173 4.11679 15.2279 2.66745 12.0748Z" stroke="currentColor" stroke-width="1.5"></path>
+  <path d="M13.7508 11.0007C13.7508 12.5194 12.5196 13.7507 11.0008 13.7507C9.48201 13.7507 8.25079 12.5194 8.25079 11.0007C8.25079 9.48187 9.48201 8.25065 11.0008 8.25065C12.5196 8.25065 13.7508 9.48187 13.7508 11.0007Z" stroke="currentColor" stroke-width="1.5"></path>
+</svg>
+
+              </span>
+            </div>
+            <div class="loading-overlay__spinner hidden">
+              <svg aria-hidden="true" focusable="false" role="presentation" class="spinner" viewBox="0 0 66 66" xmlns="http://www.w3.org/2000/svg">
+  <circle class="path" fill="none" stroke-width="5" cx="33" cy="33" r="30"></circle>
+</svg>
+
+            </div>
+          </button>
+        </modal-opener>
+
+        
+
+
+      </div></div>
+
+  
+  <div class="product-card__information">
+    <div class="product-card__information-top"><h2 class="product-card__title">
+        <a class="focus-inset" href="/products/neutral-block-notebook" aria-label="Neutral Block Notebook">Neutral Block Notebook</a>
+      </h2>
+
+      <div class="product-card__price-group">
+        
+<div class="price">
+  <dl class="price-text"><div class="price__regular">
+      <dt class="visually-hidden">Regular price</dt>
+      <dd>
+        <span class="price-item price-item--regular">$9.00</span>
+      </dd>
+    </div>
+    <div class="price__sale">
+      <dt class="visually-hidden">Sale price</dt>
+      <dd>
+        <span class="price-item price-item--sale">$9.00</span>
+      </dd>
+      <dt class="visually-hidden">Regular price</dt>
+      <dd class="price__compare">
+        <s class="price-item price-item--regular"></s>
+      </dd>
+    </div>
+  </dl>
+
+  <dl class="unit-price hidden">
+    <dt class="visually-hidden">Unit price</dt>
+    <dd></dd>
+  </dl>
+</div>
+
+      </div>
+      
+
+          <div class="product-card__description body-small">210 x 105 mm</div><div class="product-card__error body-xs" role="alert" hidden=""></div>
+    </div>
+
+    
+<div class="product-card__information-bottom" tabindex="0"><div class="product-card__color-swatches">
+                
+                  <div class="body-small js-option-selected-value" data-option-position="3">
+                    Gray</div>
+                
+                <div class="product-card__option-group js-card-option-group" data-option-position="3">
+                  
+
+
+  
+
+  
+  
+  
+
+<input type="radio" id="template--27266934243703__product-grid-3-0-15252563394935-18" name="Color-template--27266934243703__product-grid-15252563394935-18" value="Gray" data-variant-id="56219140391287" form="product-form-template--27266934243703__product-grid" checked="" class="disabled" tabindex="-1" aria-label="Gray" data-option-value-id="12613582717303" style="">
+    
+<label for="template--27266934243703__product-grid-3-0-15252563394935-18" class="color-swatch" style="--swatch-color: rgb(128 128 128);" title="Gray" tabindex="0" onkeydown="if(event.key==='Enter'||event.key===' '){event.preventDefault();document.getElementById(this.getAttribute('for')).click();}" data-unavailable-color-label="N/A">
+        <span class="visually-hidden">Gray</span>
+      </label>
+                </div>
+
+                
+              </div></div></div><script type="application/json" data-product-card-variants="">
+      [{"id":56219140391287,"title":"A5 \/ Blank \/ Gray","option1":"A5","option2":"Blank","option3":"Gray","sku":null,"requires_shipping":true,"taxable":true,"featured_image":null,"available":false,"name":"Neutral Block Notebook - A5 \/ Blank \/ Gray","public_title":"A5 \/ Blank \/ Gray","options":["A5","Blank","Gray"],"price":900,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56219140424055,"title":"A5 \/ Dot \/ Gray","option1":"A5","option2":"Dot","option3":"Gray","sku":null,"requires_shipping":true,"taxable":true,"featured_image":null,"available":false,"name":"Neutral Block Notebook - A5 \/ Dot \/ Gray","public_title":"A5 \/ Dot \/ Gray","options":["A5","Dot","Gray"],"price":900,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56219140456823,"title":"A5 \/ Lined \/ Gray","option1":"A5","option2":"Lined","option3":"Gray","sku":null,"requires_shipping":true,"taxable":true,"featured_image":null,"available":false,"name":"Neutral Block Notebook - A5 \/ Lined \/ Gray","public_title":"A5 \/ Lined \/ Gray","options":["A5","Lined","Gray"],"price":900,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56219140686199,"title":"A4 \/ Blank \/ Gray","option1":"A4","option2":"Blank","option3":"Gray","sku":null,"requires_shipping":true,"taxable":true,"featured_image":null,"available":false,"name":"Neutral Block Notebook - A4 \/ Blank \/ Gray","public_title":"A4 \/ Blank \/ Gray","options":["A4","Blank","Gray"],"price":900,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56219140718967,"title":"A4 \/ Dot \/ Gray","option1":"A4","option2":"Dot","option3":"Gray","sku":null,"requires_shipping":true,"taxable":true,"featured_image":null,"available":false,"name":"Neutral Block Notebook - A4 \/ Dot \/ Gray","public_title":"A4 \/ Dot \/ Gray","options":["A4","Dot","Gray"],"price":900,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56219140751735,"title":"A4 \/ Lined \/ Gray","option1":"A4","option2":"Lined","option3":"Gray","sku":null,"requires_shipping":true,"taxable":true,"featured_image":null,"available":false,"name":"Neutral Block Notebook - A4 \/ Lined \/ Gray","public_title":"A4 \/ Lined \/ Gray","options":["A4","Lined","Gray"],"price":900,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56219140981111,"title":"A3 \/ Blank \/ Gray","option1":"A3","option2":"Blank","option3":"Gray","sku":null,"requires_shipping":true,"taxable":true,"featured_image":null,"available":false,"name":"Neutral Block Notebook - A3 \/ Blank \/ Gray","public_title":"A3 \/ Blank \/ Gray","options":["A3","Blank","Gray"],"price":900,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56219141013879,"title":"A3 \/ Dot \/ Gray","option1":"A3","option2":"Dot","option3":"Gray","sku":null,"requires_shipping":true,"taxable":true,"featured_image":null,"available":false,"name":"Neutral Block Notebook - A3 \/ Dot \/ Gray","public_title":"A3 \/ Dot \/ Gray","options":["A3","Dot","Gray"],"price":900,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56219141046647,"title":"A3 \/ Lined \/ Gray","option1":"A3","option2":"Lined","option3":"Gray","sku":null,"requires_shipping":true,"taxable":true,"featured_image":null,"available":false,"name":"Neutral Block Notebook - A3 \/ Lined \/ Gray","public_title":"A3 \/ Lined \/ Gray","options":["A3","Lined","Gray"],"price":900,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","requires_selling_plan":false,"selling_plan_allocations":[]}]
+    </script>
+    <script type="application/json" data-product-card-featured-media="">
+      {"alt":null,"id":67601765138807,"position":1,"preview_image":{"aspect_ratio":0.75,"height":3470,"width":2603,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/05-sketchbook_628ac0f7-8115-4b58-8911-23ab8db69f8d.jpg?v=1763715177"},"aspect_ratio":0.75,"height":3470,"media_type":"image","src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/05-sketchbook_628ac0f7-8115-4b58-8911-23ab8db69f8d.jpg?v=1763715177","width":2603}
+    </script>
+    <span class="hidden" data-product-card-options="" data-product-title="Neutral Block Notebook" data-product-columns="4" data-product-columns-mobile="1" data-product-ratio="0.76" data-product-fit="cover" data-product-has-price-varies="false"></span><a href="/products/neutral-block-notebook" class="product-card__link-overlay focus-inset" aria-label="Neutral Block Notebook Product link"></a></product-card>
+
+                </div><div class="collection-product-card">
+                  
+
+
+<product-card class="product-card product-card--mobile-1 product-card_image-linked" data-product="notes-pad-01" data-product-id="15256135336311" data-image-linked="true" data-card-color-swatches="true" tabindex="0" style="--card-padding-bottom: 131.7%; --slide-count: 4">
+  <div class="product-card__inner">
+    <div class="product-card__media">
+
+          <div class="swiper-container product-card-js global-variant-js-media-list" data-loop="false">
+            <div class="swiper-wrapper">
+              
+                
+
+                
+                  
+                    
+                    
+
+                
+
+                <div class="swiper-slide" data-media-id="67654797099383" data-variant-id="56820294091127">
+                  <img src="//shift-sketch.myshopify.com/cdn/shop/files/01-pads.jpg?v=1763971788&amp;width=2603" alt="Notes Pad 01" srcset="//shift-sketch.myshopify.com/cdn/shop/files/01-pads.jpg?v=1763971788&amp;width=360 360w, //shift-sketch.myshopify.com/cdn/shop/files/01-pads.jpg?v=1763971788&amp;width=535 535w, //shift-sketch.myshopify.com/cdn/shop/files/01-pads.jpg?v=1763971788&amp;width=720 720w, //shift-sketch.myshopify.com/cdn/shop/files/01-pads.jpg?v=1763971788&amp;width=940 940w, //shift-sketch.myshopify.com/cdn/shop/files/01-pads.jpg?v=1763971788&amp;width=1066 1066w, //shift-sketch.myshopify.com/cdn/shop/files/01-pads.jpg?v=1763971788&amp;width=1200 1200w, //shift-sketch.myshopify.com/cdn/shop/files/01-pads.jpg?v=1763971788&amp;width=1400 1400w, //shift-sketch.myshopify.com/cdn/shop/files/01-pads.jpg?v=1763971788&amp;width=1600 1600w, //shift-sketch.myshopify.com/cdn/shop/files/01-pads.jpg?v=1763971788&amp;width=1800 1800w, //shift-sketch.myshopify.com/cdn/shop/files/01-pads.jpg?v=1763971788&amp;width=2000 2000w, //shift-sketch.myshopify.com/cdn/shop/files/01-pads.jpg?v=1763971788&amp;width=2200 2200w, //shift-sketch.myshopify.com/cdn/shop/files/01-pads.jpg?v=1763971788&amp;width=2400 2400w, //shift-sketch.myshopify.com/cdn/shop/files/01-pads.jpg?v=1763971788&amp;width=2600 2600w" width="2603" height="3470" loading="lazy" class="motion-reduce media" sizes="(min-width: 1200px) calc(1.03 * (100vw / 4)),(min-width: 990px) calc(1.03 * (100vw / 3)),(min-width: 576px) calc(1.03 * (100vw / 2)),calc(1.03 * 100vw)" style="object-fit: cover;">
+                </div>
+              
+                
+
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+
+                
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                
+
+                <div class="swiper-slide" data-media-id="67654797001079">
+                  <img src="//shift-sketch.myshopify.com/cdn/shop/files/01-pads-hover-01.jpg?v=1763971788&amp;width=1536" alt="Notes Pad 01" srcset="//shift-sketch.myshopify.com/cdn/shop/files/01-pads-hover-01.jpg?v=1763971788&amp;width=360 360w, //shift-sketch.myshopify.com/cdn/shop/files/01-pads-hover-01.jpg?v=1763971788&amp;width=535 535w, //shift-sketch.myshopify.com/cdn/shop/files/01-pads-hover-01.jpg?v=1763971788&amp;width=720 720w, //shift-sketch.myshopify.com/cdn/shop/files/01-pads-hover-01.jpg?v=1763971788&amp;width=940 940w, //shift-sketch.myshopify.com/cdn/shop/files/01-pads-hover-01.jpg?v=1763971788&amp;width=1066 1066w, //shift-sketch.myshopify.com/cdn/shop/files/01-pads-hover-01.jpg?v=1763971788&amp;width=1200 1200w, //shift-sketch.myshopify.com/cdn/shop/files/01-pads-hover-01.jpg?v=1763971788&amp;width=1400 1400w" width="1536" height="2048" loading="lazy" class="motion-reduce media" sizes="(min-width: 1200px) calc(1.03 * (100vw / 4)),(min-width: 990px) calc(1.03 * (100vw / 3)),(min-width: 576px) calc(1.03 * (100vw / 2)),calc(1.03 * 100vw)" style="object-fit: cover;">
+                </div>
+              
+                
+
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+
+                
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                
+
+                <div class="swiper-slide" data-media-id="67654797033847">
+                  <img src="//shift-sketch.myshopify.com/cdn/shop/files/01-pads-hover-02.jpg?v=1763971788&amp;width=1704" alt="Notes Pad 01" srcset="//shift-sketch.myshopify.com/cdn/shop/files/01-pads-hover-02.jpg?v=1763971788&amp;width=360 360w, //shift-sketch.myshopify.com/cdn/shop/files/01-pads-hover-02.jpg?v=1763971788&amp;width=535 535w, //shift-sketch.myshopify.com/cdn/shop/files/01-pads-hover-02.jpg?v=1763971788&amp;width=720 720w, //shift-sketch.myshopify.com/cdn/shop/files/01-pads-hover-02.jpg?v=1763971788&amp;width=940 940w, //shift-sketch.myshopify.com/cdn/shop/files/01-pads-hover-02.jpg?v=1763971788&amp;width=1066 1066w, //shift-sketch.myshopify.com/cdn/shop/files/01-pads-hover-02.jpg?v=1763971788&amp;width=1200 1200w, //shift-sketch.myshopify.com/cdn/shop/files/01-pads-hover-02.jpg?v=1763971788&amp;width=1400 1400w, //shift-sketch.myshopify.com/cdn/shop/files/01-pads-hover-02.jpg?v=1763971788&amp;width=1600 1600w" width="1704" height="2272" loading="lazy" class="motion-reduce media" sizes="(min-width: 1200px) calc(1.03 * (100vw / 4)),(min-width: 990px) calc(1.03 * (100vw / 3)),(min-width: 576px) calc(1.03 * (100vw / 2)),calc(1.03 * 100vw)" style="object-fit: cover;">
+                </div>
+              
+                
+
+                
+                  
+                
+                  
+                    
+                    
+
+                
+
+                <div class="swiper-slide" data-media-id="67654797066615" data-variant-id="56820294123895">
+                  <img src="//shift-sketch.myshopify.com/cdn/shop/files/01-pads-hover-03.jpg?v=1763971788&amp;width=1536" alt="Notes Pad 01" srcset="//shift-sketch.myshopify.com/cdn/shop/files/01-pads-hover-03.jpg?v=1763971788&amp;width=360 360w, //shift-sketch.myshopify.com/cdn/shop/files/01-pads-hover-03.jpg?v=1763971788&amp;width=535 535w, //shift-sketch.myshopify.com/cdn/shop/files/01-pads-hover-03.jpg?v=1763971788&amp;width=720 720w, //shift-sketch.myshopify.com/cdn/shop/files/01-pads-hover-03.jpg?v=1763971788&amp;width=940 940w, //shift-sketch.myshopify.com/cdn/shop/files/01-pads-hover-03.jpg?v=1763971788&amp;width=1066 1066w, //shift-sketch.myshopify.com/cdn/shop/files/01-pads-hover-03.jpg?v=1763971788&amp;width=1200 1200w, //shift-sketch.myshopify.com/cdn/shop/files/01-pads-hover-03.jpg?v=1763971788&amp;width=1400 1400w" width="1536" height="2048" loading="lazy" class="motion-reduce media" sizes="(min-width: 1200px) calc(1.03 * (100vw / 4)),(min-width: 990px) calc(1.03 * (100vw / 3)),(min-width: 576px) calc(1.03 * (100vw / 2)),calc(1.03 * 100vw)" style="object-fit: cover;">
+                </div>
+              
+            </div>
+            <div class="product-button-group">
+              <div class="product-slider-button-prev">
+                <div class="swiper-button-prev"><svg class="icon icon-arrow-slider-left" width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M14 2L6 10L14 18" stroke="currentColor"></path>
+</svg>
+</div>
+              </div>
+
+              <div class="product-slider-button-next">
+                <div class="swiper-button-next"><svg class="icon icon-arrow-slider-right" width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M6 2L14 10L6 18" stroke="currentColor"></path>
+</svg>
+</div>
+              </div>
+            </div>
+            <div class="swiper-pagination product-card-pagination swiper-pagination-default"></div>
+          </div>
+        
+</div><div class="product-card__top">
+        
+<div class="product-card__badges body-normal"><span class="badge badge--custom" aria-hidden="true">New Arrival</span></div>
+      </div><div class="product-card__quickview product-card__quickview--mobile-true no-js-hidden">
+        <modal-opener data-modal="#QuickView-15256135336311">
+          <button class="product-card__button button button--primary focus-inset" aria-haspopup="dialog" data-product-url="/products/notes-pad-01" aria-label="Quick view">
+            <div class="button__content">
+              <span class="product-card__quickview-text button__label" data-label="Quick view">Quick view</span>
+              <span class="product-card__mobile-icon button__icon">
+                <svg width="22" height="22" viewBox="0 0 22 22" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M2.66745 12.0748C2.35434 11.3936 2.35434 10.6077 2.66745 9.92654C4.11679 6.77337 7.30311 4.58398 11.0008 4.58398C14.6985 4.58398 17.8848 6.77338 19.3341 9.92654C19.6472 10.6077 19.6472 11.3936 19.3341 12.0748C17.8848 15.2279 14.6985 17.4173 11.0008 17.4173C7.30311 17.4173 4.11679 15.2279 2.66745 12.0748Z" stroke="currentColor" stroke-width="1.5"></path>
+  <path d="M13.7508 11.0007C13.7508 12.5194 12.5196 13.7507 11.0008 13.7507C9.48201 13.7507 8.25079 12.5194 8.25079 11.0007C8.25079 9.48187 9.48201 8.25065 11.0008 8.25065C12.5196 8.25065 13.7508 9.48187 13.7508 11.0007Z" stroke="currentColor" stroke-width="1.5"></path>
+</svg>
+
+              </span>
+            </div>
+            <div class="loading-overlay__spinner hidden">
+              <svg aria-hidden="true" focusable="false" role="presentation" class="spinner" viewBox="0 0 66 66" xmlns="http://www.w3.org/2000/svg">
+  <circle class="path" fill="none" stroke-width="5" cx="33" cy="33" r="30"></circle>
+</svg>
+
+            </div>
+          </button>
+        </modal-opener>
+
+        
+
+
+      </div></div>
+
+  
+  <div class="product-card__information">
+    <div class="product-card__information-top"><h2 class="product-card__title">
+        <a class="focus-inset" href="/products/notes-pad-01" aria-label="Notes Pad 01">Notes Pad 01</a>
+      </h2>
+
+      <div class="product-card__price-group">
+        
+<div class="price">
+  <dl class="price-text"><div class="price__regular">
+      <dt class="visually-hidden">Regular price</dt>
+      <dd>
+        <span class="price-item price-item--regular">$4.00</span>
+      </dd>
+    </div>
+    <div class="price__sale">
+      <dt class="visually-hidden">Sale price</dt>
+      <dd>
+        <span class="price-item price-item--sale">$4.00</span>
+      </dd>
+      <dt class="visually-hidden">Regular price</dt>
+      <dd class="price__compare">
+        <s class="price-item price-item--regular"></s>
+      </dd>
+    </div>
+  </dl>
+
+  <dl class="unit-price hidden">
+    <dt class="visually-hidden">Unit price</dt>
+    <dd></dd>
+  </dl>
+</div>
+
+      </div>
+      
+
+          <div class="product-card__description body-small">310 × 450 mm</div><div class="product-card__error body-xs" role="alert" hidden=""></div>
+    </div>
+
+    
+<div class="product-card__information-bottom" tabindex="0"><div class="product-card__color-swatches">
+                
+                  <div class="body-small js-option-selected-value" data-option-position="1">
+                    Blue</div>
+                
+                <div class="product-card__option-group js-card-option-group" data-option-position="1">
+                  
+
+
+  
+
+  
+  
+  
+
+<input type="radio" id="template--27266934243703__product-grid-1-0-15256135336311-19" name="Color-template--27266934243703__product-grid-15256135336311-19" value="Blue" data-variant-id="56820294091127" form="product-form-template--27266934243703__product-grid" checked="" tabindex="-1" aria-label="Blue" data-option-value-id="12611759243639" style="">
+    
+<label for="template--27266934243703__product-grid-1-0-15256135336311-19" class="color-swatch" style="--swatch-color: rgb(0 91 211);" title="Blue" tabindex="0" onkeydown="if(event.key==='Enter'||event.key===' '){event.preventDefault();document.getElementById(this.getAttribute('for')).click();}" data-unavailable-color-label="N/A">
+        <span class="visually-hidden">Blue</span>
+      </label>
+
+  
+
+  
+  
+  
+
+<input type="radio" id="template--27266934243703__product-grid-1-1-15256135336311-19" name="Color-template--27266934243703__product-grid-15256135336311-19" value="Purple" data-variant-id="56820294123895" form="product-form-template--27266934243703__product-grid" tabindex="-1" aria-label="Purple" data-option-value-id="12611759276407" style="">
+    
+<label for="template--27266934243703__product-grid-1-1-15256135336311-19" class="color-swatch" style="--swatch-color: rgb(165 77 207);" title="Purple" tabindex="0" onkeydown="if(event.key==='Enter'||event.key===' '){event.preventDefault();document.getElementById(this.getAttribute('for')).click();}" data-unavailable-color-label="N/A">
+        <span class="visually-hidden">Purple</span>
+      </label>
+
+  
+
+  
+  
+  
+
+<input type="radio" id="template--27266934243703__product-grid-1-2-15256135336311-19" name="Color-template--27266934243703__product-grid-15256135336311-19" value="Gray" data-variant-id="56820294156663" form="product-form-template--27266934243703__product-grid" tabindex="-1" aria-label="Gray" data-option-value-id="12611759309175" style="">
+    
+<label for="template--27266934243703__product-grid-1-2-15256135336311-19" class="color-swatch" style="--swatch-color: rgb(128 128 128);" title="Gray" tabindex="0" onkeydown="if(event.key==='Enter'||event.key===' '){event.preventDefault();document.getElementById(this.getAttribute('for')).click();}" data-unavailable-color-label="N/A">
+        <span class="visually-hidden">Gray</span>
+      </label>
+
+  
+
+  
+  
+  
+
+<input type="radio" id="template--27266934243703__product-grid-1-3-15256135336311-19" name="Color-template--27266934243703__product-grid-15256135336311-19" value="Pink" data-variant-id="56820294189431" form="product-form-template--27266934243703__product-grid" tabindex="-1" aria-label="Pink" data-option-value-id="12611759341943" style="">
+    
+<label for="template--27266934243703__product-grid-1-3-15256135336311-19" class="color-swatch" style="--swatch-color: rgb(255 192 203);" title="Pink" tabindex="0" onkeydown="if(event.key==='Enter'||event.key===' '){event.preventDefault();document.getElementById(this.getAttribute('for')).click();}" data-unavailable-color-label="N/A">
+        <span class="visually-hidden">Pink</span>
+      </label>
+                </div>
+
+                
+              </div></div></div><script type="application/json" data-product-card-variants="">
+      [{"id":56820294091127,"title":"Blue","option1":"Blue","option2":null,"option3":null,"sku":null,"requires_shipping":true,"taxable":true,"featured_image":{"id":82565226824055,"product_id":15256135336311,"position":1,"created_at":"2025-11-24T03:09:44-05:00","updated_at":"2025-11-24T03:09:48-05:00","alt":null,"width":2603,"height":3470,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/01-pads.jpg?v=1763971788","variant_ids":[56820294091127]},"available":true,"name":"Notes Pad 01 - Blue","public_title":"Blue","options":["Blue"],"price":400,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","featured_media":{"alt":null,"id":67654797099383,"position":1,"preview_image":{"aspect_ratio":0.75,"height":3470,"width":2603,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/01-pads.jpg?v=1763971788"}},"requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56820294123895,"title":"Purple","option1":"Purple","option2":null,"option3":null,"sku":null,"requires_shipping":true,"taxable":true,"featured_image":{"id":82565226791287,"product_id":15256135336311,"position":4,"created_at":"2025-11-24T03:09:44-05:00","updated_at":"2025-11-24T03:09:48-05:00","alt":null,"width":1536,"height":2048,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/01-pads-hover-03.jpg?v=1763971788","variant_ids":[56820294123895,56820294156663,56820294189431]},"available":true,"name":"Notes Pad 01 - Purple","public_title":"Purple","options":["Purple"],"price":400,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","featured_media":{"alt":null,"id":67654797066615,"position":4,"preview_image":{"aspect_ratio":0.75,"height":2048,"width":1536,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/01-pads-hover-03.jpg?v=1763971788"}},"requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56820294156663,"title":"Gray","option1":"Gray","option2":null,"option3":null,"sku":null,"requires_shipping":true,"taxable":true,"featured_image":{"id":82565226791287,"product_id":15256135336311,"position":4,"created_at":"2025-11-24T03:09:44-05:00","updated_at":"2025-11-24T03:09:48-05:00","alt":null,"width":1536,"height":2048,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/01-pads-hover-03.jpg?v=1763971788","variant_ids":[56820294123895,56820294156663,56820294189431]},"available":true,"name":"Notes Pad 01 - Gray","public_title":"Gray","options":["Gray"],"price":400,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","featured_media":{"alt":null,"id":67654797066615,"position":4,"preview_image":{"aspect_ratio":0.75,"height":2048,"width":1536,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/01-pads-hover-03.jpg?v=1763971788"}},"requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56820294189431,"title":"Pink","option1":"Pink","option2":null,"option3":null,"sku":null,"requires_shipping":true,"taxable":true,"featured_image":{"id":82565226791287,"product_id":15256135336311,"position":4,"created_at":"2025-11-24T03:09:44-05:00","updated_at":"2025-11-24T03:09:48-05:00","alt":null,"width":1536,"height":2048,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/01-pads-hover-03.jpg?v=1763971788","variant_ids":[56820294123895,56820294156663,56820294189431]},"available":true,"name":"Notes Pad 01 - Pink","public_title":"Pink","options":["Pink"],"price":400,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","featured_media":{"alt":null,"id":67654797066615,"position":4,"preview_image":{"aspect_ratio":0.75,"height":2048,"width":1536,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/01-pads-hover-03.jpg?v=1763971788"}},"requires_selling_plan":false,"selling_plan_allocations":[]}]
+    </script>
+    <script type="application/json" data-product-card-featured-media="">
+      {"alt":null,"id":67654797099383,"position":1,"preview_image":{"aspect_ratio":0.75,"height":3470,"width":2603,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/01-pads.jpg?v=1763971788"},"aspect_ratio":0.75,"height":3470,"media_type":"image","src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/01-pads.jpg?v=1763971788","width":2603}
+    </script>
+    <span class="hidden" data-product-card-options="" data-product-title="Notes Pad 01" data-product-columns="4" data-product-columns-mobile="1" data-product-ratio="0.76" data-product-fit="cover" data-product-has-price-varies="false"></span><a href="/products/notes-pad-01" class="product-card__link-overlay focus-inset" aria-label="Notes Pad 01 Product link"></a></product-card>
+
+                </div><div class="collection-product-card">
+                  
+
+
+<product-card class="product-card product-card--mobile-1 product-card_image-linked" data-product="organizer-wall-calendar" data-product-id="15252921909623" data-image-linked="true" data-card-color-swatches="true" tabindex="0" style="--card-padding-bottom: 131.7%; --slide-count: 4">
+  <div class="product-card__inner">
+    <div class="product-card__media">
+
+          <div class="swiper-container product-card-js global-variant-js-media-list" data-loop="false">
+            <div class="swiper-wrapper">
+              
+                
+
+                
+                  
+                    
+                    
+
+                
+
+                <div class="swiper-slide" data-media-id="67606905553271" data-variant-id="56821816689015">
+                  <img src="//shift-sketch.myshopify.com/cdn/shop/files/03-calendar.jpg?v=1763734051&amp;width=2603" alt="Organizer Wall Calendar" srcset="//shift-sketch.myshopify.com/cdn/shop/files/03-calendar.jpg?v=1763734051&amp;width=360 360w, //shift-sketch.myshopify.com/cdn/shop/files/03-calendar.jpg?v=1763734051&amp;width=535 535w, //shift-sketch.myshopify.com/cdn/shop/files/03-calendar.jpg?v=1763734051&amp;width=720 720w, //shift-sketch.myshopify.com/cdn/shop/files/03-calendar.jpg?v=1763734051&amp;width=940 940w, //shift-sketch.myshopify.com/cdn/shop/files/03-calendar.jpg?v=1763734051&amp;width=1066 1066w, //shift-sketch.myshopify.com/cdn/shop/files/03-calendar.jpg?v=1763734051&amp;width=1200 1200w, //shift-sketch.myshopify.com/cdn/shop/files/03-calendar.jpg?v=1763734051&amp;width=1400 1400w, //shift-sketch.myshopify.com/cdn/shop/files/03-calendar.jpg?v=1763734051&amp;width=1600 1600w, //shift-sketch.myshopify.com/cdn/shop/files/03-calendar.jpg?v=1763734051&amp;width=1800 1800w, //shift-sketch.myshopify.com/cdn/shop/files/03-calendar.jpg?v=1763734051&amp;width=2000 2000w, //shift-sketch.myshopify.com/cdn/shop/files/03-calendar.jpg?v=1763734051&amp;width=2200 2200w, //shift-sketch.myshopify.com/cdn/shop/files/03-calendar.jpg?v=1763734051&amp;width=2400 2400w, //shift-sketch.myshopify.com/cdn/shop/files/03-calendar.jpg?v=1763734051&amp;width=2600 2600w" width="2603" height="3470" loading="lazy" class="motion-reduce media" sizes="(min-width: 1200px) calc(1.03 * (100vw / 4)),(min-width: 990px) calc(1.03 * (100vw / 3)),(min-width: 576px) calc(1.03 * (100vw / 2)),calc(1.03 * 100vw)" style="object-fit: cover;">
+                </div>
+              
+                
+
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+
+                
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                
+
+                <div class="swiper-slide" data-media-id="67606905454967">
+                  <img src="//shift-sketch.myshopify.com/cdn/shop/files/03-calendar-hover-01.jpg?v=1763734050&amp;width=1776" alt="Organizer Wall Calendar" srcset="//shift-sketch.myshopify.com/cdn/shop/files/03-calendar-hover-01.jpg?v=1763734050&amp;width=360 360w, //shift-sketch.myshopify.com/cdn/shop/files/03-calendar-hover-01.jpg?v=1763734050&amp;width=535 535w, //shift-sketch.myshopify.com/cdn/shop/files/03-calendar-hover-01.jpg?v=1763734050&amp;width=720 720w, //shift-sketch.myshopify.com/cdn/shop/files/03-calendar-hover-01.jpg?v=1763734050&amp;width=940 940w, //shift-sketch.myshopify.com/cdn/shop/files/03-calendar-hover-01.jpg?v=1763734050&amp;width=1066 1066w, //shift-sketch.myshopify.com/cdn/shop/files/03-calendar-hover-01.jpg?v=1763734050&amp;width=1200 1200w, //shift-sketch.myshopify.com/cdn/shop/files/03-calendar-hover-01.jpg?v=1763734050&amp;width=1400 1400w, //shift-sketch.myshopify.com/cdn/shop/files/03-calendar-hover-01.jpg?v=1763734050&amp;width=1600 1600w" width="1776" height="2368" loading="lazy" class="motion-reduce media" sizes="(min-width: 1200px) calc(1.03 * (100vw / 4)),(min-width: 990px) calc(1.03 * (100vw / 3)),(min-width: 576px) calc(1.03 * (100vw / 2)),calc(1.03 * 100vw)" style="object-fit: cover;">
+                </div>
+              
+                
+
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+
+                
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                    
+                  
+                
+
+                <div class="swiper-slide" data-media-id="67606905487735">
+                  <img src="//shift-sketch.myshopify.com/cdn/shop/files/03-calendar-hover-02.jpg?v=1763734051&amp;width=1728" alt="Organizer Wall Calendar" srcset="//shift-sketch.myshopify.com/cdn/shop/files/03-calendar-hover-02.jpg?v=1763734051&amp;width=360 360w, //shift-sketch.myshopify.com/cdn/shop/files/03-calendar-hover-02.jpg?v=1763734051&amp;width=535 535w, //shift-sketch.myshopify.com/cdn/shop/files/03-calendar-hover-02.jpg?v=1763734051&amp;width=720 720w, //shift-sketch.myshopify.com/cdn/shop/files/03-calendar-hover-02.jpg?v=1763734051&amp;width=940 940w, //shift-sketch.myshopify.com/cdn/shop/files/03-calendar-hover-02.jpg?v=1763734051&amp;width=1066 1066w, //shift-sketch.myshopify.com/cdn/shop/files/03-calendar-hover-02.jpg?v=1763734051&amp;width=1200 1200w, //shift-sketch.myshopify.com/cdn/shop/files/03-calendar-hover-02.jpg?v=1763734051&amp;width=1400 1400w, //shift-sketch.myshopify.com/cdn/shop/files/03-calendar-hover-02.jpg?v=1763734051&amp;width=1600 1600w" width="1728" height="2304" loading="lazy" class="motion-reduce media" sizes="(min-width: 1200px) calc(1.03 * (100vw / 4)),(min-width: 990px) calc(1.03 * (100vw / 3)),(min-width: 576px) calc(1.03 * (100vw / 2)),calc(1.03 * 100vw)" style="object-fit: cover;">
+                </div>
+              
+                
+
+                
+                  
+                
+                  
+                    
+                    
+
+                
+
+                <div class="swiper-slide" data-media-id="67606905520503" data-variant-id="56821816721783">
+                  <img src="//shift-sketch.myshopify.com/cdn/shop/files/03-calendar-hover-03.jpg?v=1763734050&amp;width=2464" alt="Organizer Wall Calendar" srcset="//shift-sketch.myshopify.com/cdn/shop/files/03-calendar-hover-03.jpg?v=1763734050&amp;width=360 360w, //shift-sketch.myshopify.com/cdn/shop/files/03-calendar-hover-03.jpg?v=1763734050&amp;width=535 535w, //shift-sketch.myshopify.com/cdn/shop/files/03-calendar-hover-03.jpg?v=1763734050&amp;width=720 720w, //shift-sketch.myshopify.com/cdn/shop/files/03-calendar-hover-03.jpg?v=1763734050&amp;width=940 940w, //shift-sketch.myshopify.com/cdn/shop/files/03-calendar-hover-03.jpg?v=1763734050&amp;width=1066 1066w, //shift-sketch.myshopify.com/cdn/shop/files/03-calendar-hover-03.jpg?v=1763734050&amp;width=1200 1200w, //shift-sketch.myshopify.com/cdn/shop/files/03-calendar-hover-03.jpg?v=1763734050&amp;width=1400 1400w, //shift-sketch.myshopify.com/cdn/shop/files/03-calendar-hover-03.jpg?v=1763734050&amp;width=1600 1600w, //shift-sketch.myshopify.com/cdn/shop/files/03-calendar-hover-03.jpg?v=1763734050&amp;width=1800 1800w, //shift-sketch.myshopify.com/cdn/shop/files/03-calendar-hover-03.jpg?v=1763734050&amp;width=2000 2000w, //shift-sketch.myshopify.com/cdn/shop/files/03-calendar-hover-03.jpg?v=1763734050&amp;width=2200 2200w, //shift-sketch.myshopify.com/cdn/shop/files/03-calendar-hover-03.jpg?v=1763734050&amp;width=2400 2400w" width="2464" height="3285" loading="lazy" class="motion-reduce media" sizes="(min-width: 1200px) calc(1.03 * (100vw / 4)),(min-width: 990px) calc(1.03 * (100vw / 3)),(min-width: 576px) calc(1.03 * (100vw / 2)),calc(1.03 * 100vw)" style="object-fit: cover;">
+                </div>
+              
+            </div>
+            <div class="product-button-group">
+              <div class="product-slider-button-prev">
+                <div class="swiper-button-prev"><svg class="icon icon-arrow-slider-left" width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M14 2L6 10L14 18" stroke="currentColor"></path>
+</svg>
+</div>
+              </div>
+
+              <div class="product-slider-button-next">
+                <div class="swiper-button-next"><svg class="icon icon-arrow-slider-right" width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M6 2L14 10L6 18" stroke="currentColor"></path>
+</svg>
+</div>
+              </div>
+            </div>
+            <div class="swiper-pagination product-card-pagination swiper-pagination-default"></div>
+          </div>
+        
+</div><div class="product-card__top">
+        
+<div class="product-card__badges body-normal"></div>
+      </div><div class="product-card__quickview product-card__quickview--mobile-true no-js-hidden">
+        <modal-opener data-modal="#QuickView-15252921909623">
+          <button class="product-card__button button button--primary focus-inset" aria-haspopup="dialog" data-product-url="/products/organizer-wall-calendar" aria-label="Quick view">
+            <div class="button__content">
+              <span class="product-card__quickview-text button__label" data-label="Quick view">Quick view</span>
+              <span class="product-card__mobile-icon button__icon">
+                <svg width="22" height="22" viewBox="0 0 22 22" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M2.66745 12.0748C2.35434 11.3936 2.35434 10.6077 2.66745 9.92654C4.11679 6.77337 7.30311 4.58398 11.0008 4.58398C14.6985 4.58398 17.8848 6.77338 19.3341 9.92654C19.6472 10.6077 19.6472 11.3936 19.3341 12.0748C17.8848 15.2279 14.6985 17.4173 11.0008 17.4173C7.30311 17.4173 4.11679 15.2279 2.66745 12.0748Z" stroke="currentColor" stroke-width="1.5"></path>
+  <path d="M13.7508 11.0007C13.7508 12.5194 12.5196 13.7507 11.0008 13.7507C9.48201 13.7507 8.25079 12.5194 8.25079 11.0007C8.25079 9.48187 9.48201 8.25065 11.0008 8.25065C12.5196 8.25065 13.7508 9.48187 13.7508 11.0007Z" stroke="currentColor" stroke-width="1.5"></path>
+</svg>
+
+              </span>
+            </div>
+            <div class="loading-overlay__spinner hidden">
+              <svg aria-hidden="true" focusable="false" role="presentation" class="spinner" viewBox="0 0 66 66" xmlns="http://www.w3.org/2000/svg">
+  <circle class="path" fill="none" stroke-width="5" cx="33" cy="33" r="30"></circle>
+</svg>
+
+            </div>
+          </button>
+        </modal-opener>
+
+        
+
+
+      </div></div>
+
+  
+  <div class="product-card__information">
+    <div class="product-card__information-top"><h2 class="product-card__title">
+        <a class="focus-inset" href="/products/organizer-wall-calendar" aria-label="Organizer Wall Calendar">Organizer Wall Calendar</a>
+      </h2>
+
+      <div class="product-card__price-group">
+        
+<div class="price">
+  <dl class="price-text"><div class="price__regular">
+      <dt class="visually-hidden">Regular price</dt>
+      <dd>
+        <span class="price-item price-item--regular">$12.00</span>
+      </dd>
+    </div>
+    <div class="price__sale">
+      <dt class="visually-hidden">Sale price</dt>
+      <dd>
+        <span class="price-item price-item--sale">$12.00</span>
+      </dd>
+      <dt class="visually-hidden">Regular price</dt>
+      <dd class="price__compare">
+        <s class="price-item price-item--regular"></s>
+      </dd>
+    </div>
+  </dl>
+
+  <dl class="unit-price hidden">
+    <dt class="visually-hidden">Unit price</dt>
+    <dd></dd>
+  </dl>
+</div>
+
+      </div>
+      
+
+          <div class="product-card__description body-small">260 x 210 mm</div><div class="product-card__error body-xs" role="alert" hidden=""></div>
+    </div>
+
+    
+<div class="product-card__information-bottom" tabindex="0"><div class="product-card__color-swatches">
+                
+                  <div class="body-small js-option-selected-value" data-option-position="1">
+                    Green</div>
+                
+                <div class="product-card__option-group js-card-option-group" data-option-position="1">
+                  
+
+
+  
+
+  
+  
+  
+
+<input type="radio" id="template--27266934243703__product-grid-1-0-15252921909623-20" name="Color-template--27266934243703__product-grid-15252921909623-20" value="Green" data-variant-id="56821816689015" form="product-form-template--27266934243703__product-grid" checked="" tabindex="-1" aria-label="Green" data-option-value-id="12613402001783" style="">
+    
+<label for="template--27266934243703__product-grid-1-0-15252921909623-20" class="color-swatch" style="--swatch-color: rgb(5 170 61);" title="Green" tabindex="0" onkeydown="if(event.key==='Enter'||event.key===' '){event.preventDefault();document.getElementById(this.getAttribute('for')).click();}" data-unavailable-color-label="N/A">
+        <span class="visually-hidden">Green</span>
+      </label>
+
+  
+
+  
+  
+  
+
+<input type="radio" id="template--27266934243703__product-grid-1-1-15252921909623-20" name="Color-template--27266934243703__product-grid-15252921909623-20" value="Purple" data-variant-id="56821816721783" form="product-form-template--27266934243703__product-grid" tabindex="-1" aria-label="Purple" data-option-value-id="12613402034551" style="">
+    
+<label for="template--27266934243703__product-grid-1-1-15252921909623-20" class="color-swatch" style="--swatch-color: rgb(165 77 207);" title="Purple" tabindex="0" onkeydown="if(event.key==='Enter'||event.key===' '){event.preventDefault();document.getElementById(this.getAttribute('for')).click();}" data-unavailable-color-label="N/A">
+        <span class="visually-hidden">Purple</span>
+      </label>
+
+  
+
+  
+  
+  
+
+<input type="radio" id="template--27266934243703__product-grid-1-2-15252921909623-20" name="Color-template--27266934243703__product-grid-15252921909623-20" value="Pink" data-variant-id="56821816754551" form="product-form-template--27266934243703__product-grid" tabindex="-1" aria-label="Pink" data-option-value-id="12613402067319" style="">
+    
+<label for="template--27266934243703__product-grid-1-2-15252921909623-20" class="color-swatch" style="--swatch-color: rgb(255 192 203);" title="Pink" tabindex="0" onkeydown="if(event.key==='Enter'||event.key===' '){event.preventDefault();document.getElementById(this.getAttribute('for')).click();}" data-unavailable-color-label="N/A">
+        <span class="visually-hidden">Pink</span>
+      </label>
+
+  
+
+  
+  
+  
+
+<input type="radio" id="template--27266934243703__product-grid-1-3-15252921909623-20" name="Color-template--27266934243703__product-grid-15252921909623-20" value="Red" data-variant-id="56821816787319" form="product-form-template--27266934243703__product-grid" tabindex="-1" aria-label="Red" data-option-value-id="12613402100087" style="">
+    
+<label for="template--27266934243703__product-grid-1-3-15252921909623-20" class="color-swatch" style="--swatch-color: rgb(246 31 31);" title="Red" tabindex="0" onkeydown="if(event.key==='Enter'||event.key===' '){event.preventDefault();document.getElementById(this.getAttribute('for')).click();}" data-unavailable-color-label="N/A">
+        <span class="visually-hidden">Red</span>
+      </label>
+                </div>
+
+                
+              </div></div></div><script type="application/json" data-product-card-variants="">
+      [{"id":56821816689015,"title":"Green","option1":"Green","option2":null,"option3":null,"sku":null,"requires_shipping":true,"taxable":true,"featured_image":{"id":82286406730103,"product_id":15252921909623,"position":1,"created_at":"2025-11-21T09:07:27-05:00","updated_at":"2025-11-21T09:07:31-05:00","alt":null,"width":2603,"height":3470,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/03-calendar.jpg?v=1763734051","variant_ids":[56821816689015]},"available":true,"name":"Organizer Wall Calendar - Green","public_title":"Green","options":["Green"],"price":1200,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","featured_media":{"alt":null,"id":67606905553271,"position":1,"preview_image":{"aspect_ratio":0.75,"height":3470,"width":2603,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/03-calendar.jpg?v=1763734051"}},"requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56821816721783,"title":"Purple","option1":"Purple","option2":null,"option3":null,"sku":null,"requires_shipping":true,"taxable":true,"featured_image":{"id":82286406697335,"product_id":15252921909623,"position":4,"created_at":"2025-11-21T09:07:27-05:00","updated_at":"2025-11-21T09:07:30-05:00","alt":null,"width":2464,"height":3285,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/03-calendar-hover-03.jpg?v=1763734050","variant_ids":[56821816721783,56821816754551,56821816787319]},"available":true,"name":"Organizer Wall Calendar - Purple","public_title":"Purple","options":["Purple"],"price":1200,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","featured_media":{"alt":null,"id":67606905520503,"position":4,"preview_image":{"aspect_ratio":0.75,"height":3285,"width":2464,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/03-calendar-hover-03.jpg?v=1763734050"}},"requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56821816754551,"title":"Pink","option1":"Pink","option2":null,"option3":null,"sku":null,"requires_shipping":true,"taxable":true,"featured_image":{"id":82286406697335,"product_id":15252921909623,"position":4,"created_at":"2025-11-21T09:07:27-05:00","updated_at":"2025-11-21T09:07:30-05:00","alt":null,"width":2464,"height":3285,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/03-calendar-hover-03.jpg?v=1763734050","variant_ids":[56821816721783,56821816754551,56821816787319]},"available":true,"name":"Organizer Wall Calendar - Pink","public_title":"Pink","options":["Pink"],"price":1200,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","featured_media":{"alt":null,"id":67606905520503,"position":4,"preview_image":{"aspect_ratio":0.75,"height":3285,"width":2464,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/03-calendar-hover-03.jpg?v=1763734050"}},"requires_selling_plan":false,"selling_plan_allocations":[]},{"id":56821816787319,"title":"Red","option1":"Red","option2":null,"option3":null,"sku":null,"requires_shipping":true,"taxable":true,"featured_image":{"id":82286406697335,"product_id":15252921909623,"position":4,"created_at":"2025-11-21T09:07:27-05:00","updated_at":"2025-11-21T09:07:30-05:00","alt":null,"width":2464,"height":3285,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/03-calendar-hover-03.jpg?v=1763734050","variant_ids":[56821816721783,56821816754551,56821816787319]},"available":true,"name":"Organizer Wall Calendar - Red","public_title":"Red","options":["Red"],"price":1200,"weight":0,"compare_at_price":null,"inventory_management":"shopify","barcode":"","featured_media":{"alt":null,"id":67606905520503,"position":4,"preview_image":{"aspect_ratio":0.75,"height":3285,"width":2464,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/03-calendar-hover-03.jpg?v=1763734050"}},"requires_selling_plan":false,"selling_plan_allocations":[]}]
+    </script>
+    <script type="application/json" data-product-card-featured-media="">
+      {"alt":null,"id":67606905553271,"position":1,"preview_image":{"aspect_ratio":0.75,"height":3470,"width":2603,"src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/03-calendar.jpg?v=1763734051"},"aspect_ratio":0.75,"height":3470,"media_type":"image","src":"\/\/shift-sketch.myshopify.com\/cdn\/shop\/files\/03-calendar.jpg?v=1763734051","width":2603}
+    </script>
+    <span class="hidden" data-product-card-options="" data-product-title="Organizer Wall Calendar" data-product-columns="4" data-product-columns-mobile="1" data-product-ratio="0.76" data-product-fit="cover" data-product-has-price-varies="false"></span><a href="/products/organizer-wall-calendar" class="product-card__link-overlay focus-inset" aria-label="Organizer Wall Calendar Product link"></a></product-card>
+
+                </div></div>
+                
+
+<link href="//shift-sketch.myshopify.com/cdn/shop/t/2/assets/component-pagination.css?v=27911481282955130651773311690" rel="stylesheet" type="text/css" media="all">
+<div class="pagination-wrapper no-js-block">
+    <nav class="pagination container" role="navigation" aria-label="Pagination">
+      <ul class="pagination__list list-unstyled" role="list">
+
+          <li class="">
+            <a href="" class="pagination__item-toggler pagination__item-toggler--prev button " aria-label="prev">
+              
+            <svg class="icon icon-arrow-slider-left" width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M14 2L6 10L14 18" stroke="currentColor"></path>
+</svg>
+
+
+            </a>
+          </li><li><span class="pagination__item pagination__item--current body-normal" aria-current="page" aria-label="Page 1">1</span></li><li><a href="/collections/all?page=2" class="pagination__item" aria-label="Page 2">
+                <span class="body-normal" title="2"> 2</span>
+              </a></li><li class=" paginate_none">
+            <a href="/collections/all?page=2" class="pagination__item-toggler pagination__item-toggler--next button" aria-label="next">
+              
+							 <svg class="icon icon-arrow-slider-right" width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M6 2L14 10L6 18" stroke="currentColor"></path>
+</svg>
+
+            </a>
+          </li>
+      
+      </ul>
+    </nav>
+  </div>
+
+              <div class="collection-product__description body-normal richtext-link-inside">
+                From bold sketches to daily plans, every page and accessory designed to make your everyday moments beautifully worth remembering.
+              </div>
+            
+          </div></div>
+  </div>
+</div>
+
+
+</section>
+```

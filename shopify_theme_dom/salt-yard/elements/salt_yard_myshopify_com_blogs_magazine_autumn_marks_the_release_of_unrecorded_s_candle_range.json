@@ -1,0 +1,26 @@
+{
+  "pageUrl": "https://salt-yard.myshopify.com/blogs/magazine/autumn-marks-the-release-of-unrecorded-s-candle-range",
+  "pageTitle": "Autumn marks the release of Unrecorded’s candle range – Symmetry Theme Salt Yard",
+  "pageSlug": "salt_yard_myshopify_com_blogs_magazine_autumn_marks_the_release_of_unrecorded_s_candle_range",
+  "sections": [
+    {
+      "refId": "salt_yard_myshopify_com_blogs_magazine_autumn_marks_the_release_of_unrecorded_s_candle_range__section_01",
+      "index": 1,
+      "selectorHint": "div.container.cf",
+      "typeGuess": "editorial-media",
+      "patternTags": [
+        "top-of-page",
+        "cta-cluster",
+        "card-grid",
+        "editorial-media"
+      ],
+      "headingSample": [
+        "Autumn marks the release of Unrecorded’s candle range"
+      ],
+      "textSample": "Autumn marks the release of Unrecorded’s candle range Our selection, coded by rich, mute colours, have been designed for those with a preference for elegance. Unlike many brands, we offer an Unscented candle for anyone who wants the luxurious atmosphere of a long burning flame, b",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_blogs_magazine_autumn_marks_the_release_of_unrecorded_s_candle_range/salt_yard_myshopify_com_blogs_magazine_autumn_marks_the_release_of_unrecorded_s_candle_range__section_01.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/pages/salt_yard_myshopify_com_blogs_magazine_autumn_marks_the_release_of_unrecorded_s_candle_range.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/pages/salt_yard_myshopify_com_blogs_magazine_autumn_marks_the_release_of_unrecorded_s_candle_range.json"
+    }
+  ]
+}

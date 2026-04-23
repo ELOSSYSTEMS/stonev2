@@ -1,0 +1,24 @@
+{
+  "pageUrl": "https://salt-yard.myshopify.com/pages/returns",
+  "pageTitle": "Returns Policy – Symmetry Theme Salt Yard",
+  "pageSlug": "salt_yard_myshopify_com_pages_returns",
+  "sections": [
+    {
+      "refId": "salt_yard_myshopify_com_pages_returns__section_01",
+      "index": 1,
+      "selectorHint": "div.container.cf",
+      "typeGuess": "cta-section",
+      "patternTags": [
+        "top-of-page",
+        "cta-cluster"
+      ],
+      "headingSample": [
+        "Returns Policy"
+      ],
+      "textSample": "Returns Policy [This is demonstration content, designed to showcase how pages could look with your own content. You can try this Shopify theme for free.] We hope you will love everything that you order from us but if something isn’t quite right, you have 30 days to return. We’ll ",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/elements/salt_yard_myshopify_com_pages_returns/salt_yard_myshopify_com_pages_returns__section_01.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/pages/salt_yard_myshopify_com_pages_returns.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/salt-yard/pages/salt_yard_myshopify_com_pages_returns.json"
+    }
+  ]
+}

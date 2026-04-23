@@ -1,0 +1,379 @@
+# Shopify page scrape
+
+- URL: https://salt-yard.myshopify.com/pages/faq
+- Title: FAQs – Symmetry Theme Salt Yard
+- Body classes: template-page
+ template-suffix-faq swatch-source-theme swatch-method-variant-images swatch-style-icon_square cc-animate-enabled
+- Custom elements: announcement-bar, cart-drawer, cart-form, countdown-timer, country-selector, details-disclosure, faq-header, image-with-text-overlay, main-navigation, main-search, mobile-disclosure, page-header, pop-up, product-block, search-suggestions, shopify-account, shopify-store
+- Headings: Customer Help | FAQ | Ordering | Shipping | Returns & Exchanges | Sustainability | Get in touch | Sign up and get 10% off your first order
+
+## 1. (no id)
+
+- Tag: div
+- Classes: container cf
+- Headings: Customer Help | FAQ | Ordering | Shipping | Returns & Exchanges | Sustainability
+
+```html
+<div class="container cf">
+
+      <div id="shopify-section-template--26857880125513__heading" class="shopify-section section-image-with-text-overlay"><image-with-text-overlay id="section-id-template--26857880125513__heading">
+  <style data-shopify="">
+
+      #section-id-template--26857880125513__heading .height--fixed {
+        --image-height: 400px;
+      }
+
+      @media (min-width: 768px) {
+        #section-id-template--26857880125513__heading .height--fixed {
+          --image-height: 480px;
+        }
+      }
+        #section-id-template--26857880125513__heading .block-670533c2-c2ef-4669-8b29-830cf555dc57 {
+          --heading-max-width: 10em;
+          font-size: 44px;
+        }
+
+        @media (min-width: 768px) {
+          #section-id-template--26857880125513__heading .block-670533c2-c2ef-4669-8b29-830cf555dc57 {font-size: 58.8px;
+          }
+        }
+
+        @media (min-width: 1100px) {
+          #section-id-template--26857880125513__heading .block-670533c2-c2ef-4669-8b29-830cf555dc57 {
+            font-size: 84px;
+          }
+        }
+      
+
+</style>
+<div class="height--fixed image-overlay image-overlay--bg-full image-overlay--bg-shadow "><div class="height__image image-overlay__image">
+<img src="//salt-yard.myshopify.com/cdn/shop/files/about-nav-5.jpg?v=1614951515&amp;width=1600" alt="Content for SALT YARD Premium Shopify theme by Clean Canvas" width="1600" height="997" loading="eager" sizes="100vw" srcset="//salt-yard.myshopify.com/cdn/shop/files/about-nav-5.jpg?v=1614951515&amp;width=425 340w, //salt-yard.myshopify.com/cdn/shop/files/about-nav-5.jpg?v=1614951515&amp;width=600 480w, //salt-yard.myshopify.com/cdn/shop/files/about-nav-5.jpg?v=1614951515&amp;width=925 740w, //salt-yard.myshopify.com/cdn/shop/files/about-nav-5.jpg?v=1614951515&amp;width=1225 980w, //salt-yard.myshopify.com/cdn/shop/files/about-nav-5.jpg?v=1614951515&amp;width=1500 1200w, //salt-yard.myshopify.com/cdn/shop/files/about-nav-5.jpg?v=1614951515&amp;width=1750 1400w, //salt-yard.myshopify.com/cdn/shop/files/about-nav-5.jpg?v=1614951515&amp;width=2000 1600w, //salt-yard.myshopify.com/cdn/shop/files/about-nav-5.jpg?v=1614951515&amp;width=2000 1600w" class="theme-img" fetchpriority="high">
+</div><div class="text-overlay text-overlay--for-banner text-overlay--v-center text-overlay--h-center image-overlay__over">
+        <div class="text-overlay__inner" style="--heading-max-width: em">
+          <div class="text-overlay__text">
+            
+            
+
+                  
+                    <h2 class="text-overlay__title h1 block-670533c2-c2ef-4669-8b29-830cf555dc57">Customer Help</h2>
+                  
+
+                
+            
+
+                  <div class="text-overlay__rte rte lightly-spaced-row large-text"><p>If talking to a real-life human is more your thing, you can reach our Customer Happiness Team via email&nbsp;(below).</p></div>
+
+                
+            
+          </div>
+        </div>
+      </div></div></image-with-text-overlay>
+
+
+
+</div><div id="shopify-section-template--26857880125513__main" class="shopify-section section-faq-header section-faq-header--with-index"><script src="//salt-yard.myshopify.com/cdn/shop/t/286/assets/faq-header.js?v=50543771854149867501774516896" defer=""></script>
+<div class="container cc-animate-init cc-animate-in" data-cc-animate="">
+  <faq-header class="faq-header block">
+    
+      <div class="faq-index js">
+        <div class="faq-index__sticky-container" style="height: 1490.39px;">
+          <div class="faq-index__item-container">
+            
+              <div class="faq-index__heading">How can we help?</div>
+            
+          
+              <div class="faq-index-item">
+                <a class="faq-index-item__link" href="#faq-ordering">Ordering</a>
+              </div>
+              <div class="faq-index-item">
+                <a class="faq-index-item__link" href="#faq-shipping">Shipping</a>
+              </div>
+              <div class="faq-index-item">
+                <a class="faq-index-item__link" href="#faq-returns-exchanges">Returns &amp; Exchanges</a>
+              </div>
+              <div class="faq-index-item">
+                <a class="faq-index-item__link" href="#faq-sustainability">Sustainability</a>
+              </div></div>
+        </div>
+      </div>
+    
+
+    <div class="faq-header__content">
+      
+        
+          <h1 id="template--26857880125513__main">FAQ</h1>
+        
+      
+
+      
+        <div class="rte"><p>We might have already read your mind. Use the search to find what you are looking for.</p></div>
+      
+
+      
+        <div class="faq-search js">
+          <span class="faq-search__icon"><svg class="icon" width="24" height="24" viewBox="0 0 24 24" aria-hidden="true" focusable="false" role="presentation"><g transform="translate(3 3)" stroke="currentColor" stroke-width="1.5" fill="none" fill-rule="evenodd"><circle cx="7.824" cy="7.824" r="7.824"></circle><path stroke-linecap="square" d="m13.971 13.971 4.47 4.47"></path></g></svg></span>
+          <input type="text" class="faq-search__input" autocomplete="off" placeholder="Search FAQ" aria-label="Search FAQ" style="">
+        </div>
+      
+    </div>
+  </faq-header>
+</div>
+
+
+
+</div><div id="shopify-section-template--26857880125513__faq-content-1" class="shopify-section section-collapsible-tabs"><link rel="stylesheet" href="//salt-yard.myshopify.com/cdn/shop/t/286/assets/collapsible-tabs.css?v=12841876035514619461774516896" media="all" onload="this.media='all'">
+<div class="container cc-animate-init cc-animate-in" data-cc-animate="">
+  <div class="collapsible-tabs">
+    
+      <h3 class="collapsible-tabs__heading collapsible-tabs__content" id="faq-ordering">Ordering</h3>
+    
+<div class="collapsible-tabs__block">
+        
+          <div class="collapsible-tabs__tab">
+            <details-disclosure>
+              <details class="disclosure">
+                <summary class="disclosure__title">What size should I buy?</summary>
+                <div class="disclosure__panel has-motion">
+                  <div class="disclosure__content rte"><p>If you’re not quite sure which size is right for you, refer to our size guides. They're located underneath the available sizes for each of our products. For any additional questions,&nbsp;<a href="/pages/contact" title="Contact Us">contact us</a>. We will ask your typical size and how you like to wear your tops, shorts, and pants so we can suggest the best size for you!</p></div>
+                </div>
+              </details>
+            </details-disclosure>
+          </div>
+        
+      </div><div class="collapsible-tabs__block">
+        
+          <div class="collapsible-tabs__tab">
+            <details-disclosure>
+              <details class="disclosure">
+                <summary class="disclosure__title">Can I cancel my order?</summary>
+                <div class="disclosure__panel has-motion">
+                  <div class="disclosure__content rte"><p>We completely get it, we change our minds too! While we wish could, once an order is placed, we are unable to alter or cancel it at this time. We hope to have a cancellation window one day in the future.</p></div>
+                </div>
+              </details>
+            </details-disclosure>
+          </div>
+        
+      </div><div class="collapsible-tabs__block">
+        
+          <div class="collapsible-tabs__tab">
+            <details-disclosure>
+              <details class="disclosure">
+                <summary class="disclosure__title">What if I want to speak to someone?</summary>
+                <div class="disclosure__panel has-motion">
+                  <div class="disclosure__content rte"><p>We want to speak to you too! <a href="/pages/contact" title="Contact Us">Contact us</a> with any questions, concerns, or feedback. We will be sure to get back to you within 48 hours. However, please note that inquiries sent on Fridays will receive a reply the following Monday, but possibly sooner.</p></div>
+                </div>
+              </details>
+            </details-disclosure>
+          </div>
+        
+      </div></div>
+</div>
+
+
+
+
+</div><div id="shopify-section-template--26857880125513__faq-content-2" class="shopify-section section-collapsible-tabs"><link rel="stylesheet" href="//salt-yard.myshopify.com/cdn/shop/t/286/assets/collapsible-tabs.css?v=12841876035514619461774516896" media="all" onload="this.media='all'">
+<div class="container cc-animate-init cc-animate-in" data-cc-animate="">
+  <div class="collapsible-tabs">
+    
+      <h3 class="collapsible-tabs__heading collapsible-tabs__content" id="faq-shipping">Shipping</h3>
+    
+<div class="collapsible-tabs__block">
+        
+          <div class="collapsible-tabs__text collapsible-tabs__content rte"><p>We use all major carriers, and local courier partners. You’ll be asked to select a delivery method during checkout.</p></div>
+
+        
+      </div><div class="collapsible-tabs__block">
+        
+          <div class="collapsible-tabs__tab">
+            <details-disclosure>
+              <details class="disclosure">
+                <summary class="disclosure__title">What is the shipping policy?</summary>
+                <div class="disclosure__panel has-motion">
+                  <div class="disclosure__content rte"><p>Once your order is placed, you will receive a confirmation email letting you know that our fulfillment team has received your order. Once your order is fulfilled, you will receive an email notification with your tracking information. Shipping fees are non-refundable in the case of returns.<br><br>For information about International shipping <a href="/pages/contact-us" title="Contact Us">click here</a></p></div>
+                </div>
+              </details>
+            </details-disclosure>
+          </div>
+        
+      </div><div class="collapsible-tabs__block">
+        
+          <div class="collapsible-tabs__tab">
+            <details-disclosure>
+              <details class="disclosure">
+                <summary class="disclosure__title">What shipping providers do you use?</summary>
+                <div class="disclosure__panel has-motion">
+                  <div class="disclosure__content rte"><p>We use FedEx for all U.S. orders. Ground shipping for U.S. orders may take up to 5-9 business days to arrive from the day you receive your shipping confirmation.</p></div>
+                </div>
+              </details>
+            </details-disclosure>
+          </div>
+        
+      </div><div class="collapsible-tabs__block">
+        
+          <div class="collapsible-tabs__tab">
+            <details-disclosure>
+              <details class="disclosure">
+                <summary class="disclosure__title">Eff! My package was lost, stolen, or damaged!</summary>
+                <div class="disclosure__panel has-motion">
+                  <div class="disclosure__content rte"><p>Oh no! Please file a claim with the shipping carrier first, then <a href="/pages/contact-us" title="Contact Us">contact us </a>letting us know your order number and your specific claim number. Once we receive that, we will work together to come to the best resolution.</p></div>
+                </div>
+              </details>
+            </details-disclosure>
+          </div>
+        
+      </div></div>
+</div>
+
+
+
+
+</div><div id="shopify-section-template--26857880125513__16378561658d3bd0ef" class="shopify-section section-collapsible-tabs"><link rel="stylesheet" href="//salt-yard.myshopify.com/cdn/shop/t/286/assets/collapsible-tabs.css?v=12841876035514619461774516896" media="all" onload="this.media='all'">
+<div class="container cc-animate-init cc-animate-in" data-cc-animate="">
+  <div class="collapsible-tabs">
+    
+      <h3 class="collapsible-tabs__heading collapsible-tabs__content" id="faq-returns-exchanges">Returns &amp; Exchanges</h3>
+    
+<div class="collapsible-tabs__block">
+        
+          <div class="collapsible-tabs__tab">
+            <details-disclosure>
+              <details class="disclosure">
+                <summary class="disclosure__title">How do I return an item?</summary>
+                <div class="disclosure__panel has-motion">
+                  <div class="disclosure__content rte"><p>We want you to be completely satisfied with your purchase. Not the perfect fit? Just let us know—we’re happy to help! We offer free shipping on all U.S. returns.</p></div>
+                </div>
+              </details>
+            </details-disclosure>
+          </div>
+        
+      </div><div class="collapsible-tabs__block">
+        
+          <div class="collapsible-tabs__tab">
+            <details-disclosure>
+              <details class="disclosure">
+                <summary class="disclosure__title">What's the return policy</summary>
+                <div class="disclosure__panel has-motion">
+                  <div class="disclosure__content rte"><p>A return must be requested 30 days of the ship date, after which merchandise must be sent back within 15 days. Merchandise must not be worn, washed, dyed, or altered. Merchandise must be returned in its original packaging. Returns must include the packing slip supplied during return process (packing slip will auto-generate along with the return label). Package should only include items listed in that particular return packing slip. Merchandise that appears to be worn and/or washed and not in its original/sellable condition may result in a delayed refund/exchange, or may not qualify for a refund or exchange. In these cases, the item(s) will be returned to you. Certain items are marked as not refundable and are not eligible for returns (ie. gift cards, gifts with purchase). Sets and Kits are not eligible for partial exchange or return.</p></div>
+                </div>
+              </details>
+            </details-disclosure>
+          </div>
+        
+      </div><div class="collapsible-tabs__block">
+        
+          <div class="collapsible-tabs__tab">
+            <details-disclosure>
+              <details class="disclosure">
+                <summary class="disclosure__title">I am expecting a refund. How long does this take?</summary>
+                <div class="disclosure__panel has-motion">
+                  <div class="disclosure__content rte"><p>Please allow 6-12 business days for us to receive your order. Heads up—it may take up to 10 business days for us to process your return. Once your items have undergone (and passed!) inspection, we will issue your refund to the original form of payment and will notify you of your refund via email. After your refund has been issued by us, please allow 2 additional business days for those funds to be posted to your account. Please note that your refund may only be credited to your original method of payment.</p></div>
+                </div>
+              </details>
+            </details-disclosure>
+          </div>
+        
+      </div><div class="collapsible-tabs__block">
+        
+          <div class="collapsible-tabs__button collapsible-tabs__content">
+            <a class="btn btn--primary btn--link" href="/pages/contact"><span class="btn__text">Start a return</span></a>
+          </div>
+
+        
+      </div></div>
+</div>
+
+
+
+
+</div><div id="shopify-section-template--26857880125513__1637856343fc8ea969" class="shopify-section section-collapsible-tabs"><link rel="stylesheet" href="//salt-yard.myshopify.com/cdn/shop/t/286/assets/collapsible-tabs.css?v=12841876035514619461774516896" media="all" onload="this.media='all'">
+<div class="container cc-animate-init cc-animate-in" data-cc-animate="">
+  <div class="collapsible-tabs">
+    
+      <h3 class="collapsible-tabs__heading collapsible-tabs__content" id="faq-sustainability">Sustainability</h3>
+    
+<div class="collapsible-tabs__block">
+        
+          <div class="collapsible-tabs__tab">
+            <details-disclosure>
+              <details class="disclosure">
+                <summary class="disclosure__title">How do you choose what materials to use?</summary>
+                <div class="disclosure__panel has-motion">
+                  <div class="disclosure__content rte"><p>Each piece we create is the product of years of designing, sourcing, and producing with the highest-quality materials and with like-minded production partners. We thoroughly research and vet our raw materials to make sure they meet our standards, are good for you and better for the environment. In addition to thinking about the impact on people and the environment, we consider factors like availability, preferred fiber content, water and energy input, and GHG emissions.</p><p>Act natural. We also use mostly natural materials, which break down better and are less of a pollutant than the synthetic fibers that are being found in oceans and water supplies.&nbsp;</p></div>
+                </div>
+              </details>
+            </details-disclosure>
+          </div>
+        
+      </div><div class="collapsible-tabs__block">
+        
+          <div class="collapsible-tabs__tab">
+            <details-disclosure>
+              <details class="disclosure">
+                <summary class="disclosure__title">Where are your products made?</summary>
+                <div class="disclosure__panel has-motion">
+                  <div class="disclosure__content rte"><p>We like our fabric quality like we like our sleep quality: premium. We source and manufacture our apparel all over the world depending on where we can find the highest quality fabrics and excellent factories that can produce garments to the standards our customers expect.&nbsp;</p><p>We partner with world-class manufacturers that are committed to fair and equitable practices. The more we grow, and as our manufacturing quantities increase, this will continue to be a priority for us. When developing a product, we choose countries that are best-in-class at the desired raw material fiber and quality, over less expensive labor.&nbsp;</p></div>
+                </div>
+              </details>
+            </details-disclosure>
+          </div>
+        
+      </div><div class="collapsible-tabs__block">
+        
+          <div class="collapsible-tabs__tab">
+            <details-disclosure>
+              <details class="disclosure">
+                <summary class="disclosure__title">What are you doing to be more sustainable?</summary>
+                <div class="disclosure__panel has-motion">
+                  <div class="disclosure__content rte"><p>Trust us when we say our sustainability goals are as ambitious as waking up before the alarm. These goals are designed to innovate and better how we design and manufacture, which means that we: thoughtfully consider and care about the materials we source, the production methods we use, how we distribute and our practices at our headquarters and Bedroom locations.</p><p>In addition to our fabric selection and how we manufacture, we are also doing what we can by minimizing production quantities with demand-oriented ordering to minimize unnecessary waste and unnecessary production.&nbsp;</p><p>We are on a journey of progress and as we continue to grow and evolve as a business, we are committed to sharing with you, the actions being taken towards positive change to care for the planet and its people.</p><p>To us, being sustainable is about responsible and ethical choices and doing our best to do what’s right for our employees, workers, our customers, and the world around us.&nbsp;</p></div>
+                </div>
+              </details>
+            </details-disclosure>
+          </div>
+        
+      </div></div>
+</div>
+
+
+
+
+</div><div id="shopify-section-template--26857880125513__contact" class="shopify-section section-rich-text"><div class="use-color-scheme use-color-scheme--1 fully-padded-row--medium cc-animate-init cc-animate-in" data-cc-animate="">
+  <div class="container container--reading-width">
+    <div class="align-ltr-center spaced-column">
+      
+      
+
+            <div class="lightly-spaced-row">
+              <span>
+                <svg class="icon icon--large icon--type-chat_bubble" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false" role="presentation" xmlns="http://www.w3.org/2000/svg"><path stroke="none" d="M0 0h24v24H0z" fill="none"></path><path d="M21 10.663c0 -4.224 -4.041 -7.663 -9 -7.663s-9 3.439 -9 7.663c0 3.783 3.201 6.958 7.527 7.56c1.053 .239 .932 .644 .696 2.133c-.039 .238 -.184 .932 .777 .512c.96 -.42 5.18 -3.201 7.073 -5.48c1.304 -1.504 1.927 -3.029 1.927 -4.715v-.01z"></path></svg>
+              </span>
+            </div>
+      
+
+            
+              <h2 class="majortitle in-content h1">Get in touch</h2>
+            
+
+          
+      
+
+            <div class="rte lightly-spaced-row large-text"><p>Have questions about your order, or a general enquiry?</p></div>
+
+          
+      
+
+            <div class="lightly-spaced-row button-row">
+              <a class="btn btn--primary button-row__btn" href="/pages/contact">Contact us</a></div>
+
+          
+      
+    </div>
+  </div>
+</div>
+
+
+
+</div>
+
+    </div>
+```

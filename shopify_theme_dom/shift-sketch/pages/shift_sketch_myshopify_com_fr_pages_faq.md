@@ -1,0 +1,221 @@
+# Shopify page scrape
+
+- URL: https://shift-sketch.myshopify.com/fr/pages/faq
+- Title: FAQ – Shift Sketch
+- Body classes: template-page template-page-faq
+- Custom elements: cart-drawer, cart-drawer-items, header-drawer, header-search, menu-drawer, modal-localization-form, modal-region-selector, predictive-search, shop-cart-sync, sticky-header
+- Headings: Produit | De quels matériaux sont faits vos produits ? | Comment entretenir ce produit ? | Offrez-vous des garanties ? | Puis-je retourner ou échanger un produit ? | Expédition | Combien de temps prend la livraison ? | Puis-je suivre ma commande ? | Vos produits sont-ils écologiques ou durables ? | Puis-je contacter le support si j'ai d'autres questions ? | Boutique | Boutique | Explorer | Explorer | Légal | Légal | Suivez-nous | Abonnez-vous à notre newsletter
+
+## 1. shopify-section-template--27960476991863__collapsible_content_EEyaMF
+
+- Tag: section
+- Classes: shopify-section collapsible-content-section
+- Headings: Produit | De quels matériaux sont faits vos produits ? | Comment entretenir ce produit ? | Offrez-vous des garanties ? | Puis-je retourner ou échanger un produit ?
+
+```html
+<section id="shopify-section-template--27960476991863__collapsible_content_EEyaMF" class="shopify-section collapsible-content-section"><link href="//shift-sketch.myshopify.com/cdn/shop/t/2/assets/section-collapsible-content.css?v=183932958334304293261766398543" rel="stylesheet" type="text/css" media="all">
+
+<script src="//shift-sketch.myshopify.com/cdn/shop/t/2/assets/collapsible-content.js?v=177416852941612067571766398546" defer="defer"></script><style data-shopify="">#shopify-section-template--27960476991863__collapsible_content_EEyaMF {
+
+  padding-top: 0;
+
+
+
+  padding-bottom: 6rem;
+
+}
+
+@media screen and (min-width: 750px) { #shopify-section-template--27960476991863__collapsible_content_EEyaMF {
+
+  padding-top: 0;
+
+
+
+  padding-bottom: 8rem;
+
+} }
+
+@media screen and (min-width: 1440px) { #shopify-section-template--27960476991863__collapsible_content_EEyaMF {
+
+  padding-top: 0;
+
+
+
+  padding-bottom: 12rem;
+
+
+} }
+
+</style><div class="collapsible-content container collapsible-content-template--27960476991863__collapsible_content_EEyaMF">
+  
+
+
+<div class="container heading-group collapsible-content-header heading-group-center"><div class="heading-group__left">
+        
+<h2 class="title h5 size--h5 collapsible-content-header__title richtext-link-inside">Produit</h2></div></div>
+
+
+
+  <div class="collapsible-content__content">
+    <div class="collapsible-content__items">
+<div class="collapsible-content__item  active" data-index-content="1" tabindex="0"><h3 class="collapsible-content__question body-large">
+                De quels matériaux sont faits vos produits ?
+                <span class="collapsible-content__question-icon"></span>
+              </h3><div class="collapsible-content__answer">
+                <div class="collapsible-content__answer-wrapper">
+                  <div class="collapsible-content__answer-description rte">
+                    <p> Tous nos produits sont fabriqués à partir de matériaux durables et de haute qualité, sélectionnés pour leur longévité, leur fonctionnalité et leur style. Les matériaux utilisés varient selon le type de produit et sont détaillés sur chaque fiche produit.</p>
+                  </div>
+                </div>
+              </div></div>
+        
+
+<div class="collapsible-content__item " data-index-content="2" tabindex="0"><h3 class="collapsible-content__question body-large">
+                Comment entretenir ce produit ?
+                <span class="collapsible-content__question-icon"></span>
+              </h3><div class="collapsible-content__answer">
+                <div class="collapsible-content__answer-wrapper">
+                  <div class="collapsible-content__answer-description rte">
+                    <p>Les instructions d'entretien dépendent de la catégorie de produit, mais en général, nous recommandons de suivre les instructions fournies avec votre article, de le garder propre et de le ranger correctement lorsqu'il n'est pas utilisé afin de préserver sa qualité et ses performances.</p>
+                  </div>
+                </div>
+              </div></div>
+        
+
+<div class="collapsible-content__item " data-index-content="3" tabindex="0"><h3 class="collapsible-content__question body-large">
+                Offrez-vous des garanties ?
+                <span class="collapsible-content__question-icon"></span>
+              </h3><div class="collapsible-content__answer">
+                <div class="collapsible-content__answer-wrapper">
+                  <div class="collapsible-content__answer-description rte">
+                    <p> Oui. La plupart de nos produits sont couverts par une garantie ou une garantie de satisfaction. Veuillez consulter la page du produit ou contacter notre service client pour connaître les conditions détaillées.</p>
+                  </div>
+                </div>
+              </div></div>
+        
+
+<div class="collapsible-content__item " data-index-content="4" tabindex="0"><h3 class="collapsible-content__question body-large">
+                Puis-je retourner ou échanger un produit&nbsp;?
+                <span class="collapsible-content__question-icon"></span>
+              </h3><div class="collapsible-content__answer">
+                <div class="collapsible-content__answer-wrapper">
+                  <div class="collapsible-content__answer-description rte">
+                    <p> Absolument. Nous proposons une politique de retour et d'échange flexible. Les articles doivent être retournés dans leur état d'origine dans les délais indiqués sur notre page de retours.</p>
+                  </div>
+                </div>
+              </div></div>
+        
+</div>
+  </div>
+</div>
+
+
+</section>
+```
+
+## 2. shopify-section-template--27960476991863__collapsible_content_pmzijp
+
+- Tag: section
+- Classes: shopify-section collapsible-content-section
+- Headings: Expédition | Combien de temps prend la livraison ? | Puis-je suivre ma commande ? | Vos produits sont-ils écologiques ou durables ? | Puis-je contacter le support si j'ai d'autres questions ?
+
+```html
+<section id="shopify-section-template--27960476991863__collapsible_content_pmzijp" class="shopify-section collapsible-content-section"><link href="//shift-sketch.myshopify.com/cdn/shop/t/2/assets/section-collapsible-content.css?v=183932958334304293261766398543" rel="stylesheet" type="text/css" media="all">
+
+<script src="//shift-sketch.myshopify.com/cdn/shop/t/2/assets/collapsible-content.js?v=177416852941612067571766398546" defer="defer"></script><style data-shopify="">#shopify-section-template--27960476991863__collapsible_content_pmzijp {
+
+  padding-top: 0;
+
+
+
+  padding-bottom: 6rem;
+
+}
+
+@media screen and (min-width: 750px) { #shopify-section-template--27960476991863__collapsible_content_pmzijp {
+
+  padding-top: 0;
+
+
+
+  padding-bottom: 8rem;
+
+} }
+
+@media screen and (min-width: 1440px) { #shopify-section-template--27960476991863__collapsible_content_pmzijp {
+
+  padding-top: 0;
+
+
+
+  padding-bottom: 12rem;
+
+
+} }
+
+</style><div class="collapsible-content container collapsible-content-template--27960476991863__collapsible_content_pmzijp">
+  
+
+
+<div class="container heading-group collapsible-content-header heading-group-center"><div class="heading-group__left">
+        
+<h2 class="title h5 size--h5 collapsible-content-header__title richtext-link-inside">Expédition</h2></div></div>
+
+
+
+  <div class="collapsible-content__content">
+    <div class="collapsible-content__items">
+<div class="collapsible-content__item  active" data-index-content="1" tabindex="0"><h3 class="collapsible-content__question body-large">
+                Combien de temps prend la livraison&nbsp;?
+                <span class="collapsible-content__question-icon"></span>
+              </h3><div class="collapsible-content__answer">
+                <div class="collapsible-content__answer-wrapper">
+                  <div class="collapsible-content__answer-description rte">
+                    <p> Les délais de livraison varient selon votre adresse et le type de produit. Une estimation est indiquée lors du paiement, et vous recevrez un numéro de suivi dès l'expédition de votre commande.</p>
+                  </div>
+                </div>
+              </div></div>
+        
+
+<div class="collapsible-content__item " data-index-content="2" tabindex="0"><h3 class="collapsible-content__question body-large">
+                Puis-je suivre ma commande&nbsp;?
+                <span class="collapsible-content__question-icon"></span>
+              </h3><div class="collapsible-content__answer">
+                <div class="collapsible-content__answer-wrapper">
+                  <div class="collapsible-content__answer-description rte">
+                    <p> Oui. Une fois votre commande expédiée, vous recevrez un courriel de confirmation contenant un numéro de suivi vous permettant de suivre votre livraison.</p>
+                  </div>
+                </div>
+              </div></div>
+        
+
+<div class="collapsible-content__item " data-index-content="3" tabindex="0"><h3 class="collapsible-content__question body-large">
+                Vos produits sont-ils écologiques ou durables ?
+                <span class="collapsible-content__question-icon"></span>
+              </h3><div class="collapsible-content__answer">
+                <div class="collapsible-content__answer-wrapper">
+                  <div class="collapsible-content__answer-description rte">
+                    <p> Nous nous efforçons d'utiliser des pratiques durables et des matériaux issus de sources responsables chaque fois que cela est possible. Des informations spécifiques sont disponibles sur chaque page produit pour les articles présentant des caractéristiques écologiques.</p>
+                  </div>
+                </div>
+              </div></div>
+        
+
+<div class="collapsible-content__item " data-index-content="4" tabindex="0"><h3 class="collapsible-content__question body-large">
+                Puis-je contacter le support si j'ai d'autres questions&nbsp;?
+                <span class="collapsible-content__question-icon"></span>
+              </h3><div class="collapsible-content__answer">
+                <div class="collapsible-content__answer-wrapper">
+                  <div class="collapsible-content__answer-description rte">
+                    <p> Bien sûr. Notre équipe d'assistance est à votre disposition pour répondre à toutes vos questions concernant les produits, les commandes ou la livraison. Vous pouvez nous contacter par courriel, par messagerie instantanée ou par téléphone.</p>
+                  </div>
+                </div>
+              </div></div>
+        
+</div>
+  </div>
+</div>
+
+
+</section>
+```

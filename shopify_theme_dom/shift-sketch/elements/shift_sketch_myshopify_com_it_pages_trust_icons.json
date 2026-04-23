@@ -1,0 +1,29 @@
+{
+  "pageUrl": "https://shift-sketch.myshopify.com/it/pages/trust-icons",
+  "pageTitle": "Icone di fiducia – Shift Sketch",
+  "pageSlug": "shift_sketch_myshopify_com_it_pages_trust_icons",
+  "sections": [
+    {
+      "refId": "shift_sketch_myshopify_com_it_pages_trust_icons__section_01",
+      "index": 1,
+      "selectorHint": "#shopify-section-template--28054350004599__trust_zwDxUA",
+      "typeGuess": "hero",
+      "patternTags": [
+        "hero-candidate",
+        "top-of-page",
+        "image-heavy",
+        "card-grid",
+        "editorial-media"
+      ],
+      "headingSample": [
+        "Materiali naturali",
+        "Resi gratuiti entro 30 giorni",
+        "Pagamento sicuro"
+      ],
+      "textSample": ".section-template--28054350004599__trust_zwDxUA-padding { padding-top: 1.6rem; padding-bottom: 1.6rem; } @media screen and (min-width: 750px) { .section-template--28054350004599__trust_zwDxUA-padding { padding-top: 2.4rem; padding-bottom: 2.4rem; } } @media screen and (min-width:",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/shift-sketch/elements/shift_sketch_myshopify_com_it_pages_trust_icons/shift_sketch_myshopify_com_it_pages_trust_icons__section_01.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/shift-sketch/pages/shift_sketch_myshopify_com_it_pages_trust_icons.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/shift-sketch/pages/shift_sketch_myshopify_com_it_pages_trust_icons.json"
+    }
+  ]
+}

@@ -1,0 +1,3973 @@
+{
+  "themeSlug": "zap-main",
+  "url": "https://zap-main.myshopify.com/",
+  "origin": "https://zap-main.myshopify.com",
+  "mode": "full",
+  "clean": true,
+  "screenshots": "home",
+  "discoveredCount": 205,
+  "scrapedCount": 205,
+  "inspirationReferenceCount": 632,
+  "outputDir": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main",
+  "trashedOutput": null,
+  "generatedAt": "2026-04-09T17:43:51.542Z",
+  "pages": [
+    {
+      "url": "https://zap-main.myshopify.com/",
+      "slug": "zap_main_myshopify_com",
+      "title": "Zap",
+      "type": "home",
+      "headings": [
+        "Cookie consent",
+        "Honey Lemon Infusion",
+        "Light Box",
+        "Discovery Box",
+        "Honey Lemon Infusion",
+        "Light Box",
+        "Discovery Box",
+        "Subscribe to our Newsletter and Get 15% off your first order"
+      ],
+      "sections": 9,
+      "screenshot": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/screens/zap_main_myshopify_com.png",
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com.json"
+    },
+    {
+      "url": "https://zap-main.myshopify.com/sitemap_products_1.xml",
+      "slug": "zap_main_myshopify_com_sitemap_products_1_xml",
+      "title": "",
+      "type": "other",
+      "headings": [],
+      "sections": 0,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_sitemap_products_1_xml.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_sitemap_products_1_xml.json"
+    },
+    {
+      "url": "https://zap-main.myshopify.com/sitemap_pages_1.xml",
+      "slug": "zap_main_myshopify_com_sitemap_pages_1_xml",
+      "title": "",
+      "type": "other",
+      "headings": [],
+      "sections": 0,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_sitemap_pages_1_xml.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_sitemap_pages_1_xml.json"
+    },
+    {
+      "url": "https://zap-main.myshopify.com/sitemap_collections_1.xml",
+      "slug": "zap_main_myshopify_com_sitemap_collections_1_xml",
+      "title": "",
+      "type": "other",
+      "headings": [],
+      "sections": 0,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_sitemap_collections_1_xml.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_sitemap_collections_1_xml.json"
+    },
+    {
+      "url": "https://zap-main.myshopify.com/sitemap_blogs_1.xml",
+      "slug": "zap_main_myshopify_com_sitemap_blogs_1_xml",
+      "title": "",
+      "type": "other",
+      "headings": [],
+      "sections": 0,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_sitemap_blogs_1_xml.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_sitemap_blogs_1_xml.json"
+    },
+    {
+      "url": "https://zap-main.myshopify.com/de/sitemap_products_1.xml",
+      "slug": "zap_main_myshopify_com_de_sitemap_products_1_xml",
+      "title": "",
+      "type": "other",
+      "headings": [],
+      "sections": 0,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_de_sitemap_products_1_xml.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_de_sitemap_products_1_xml.json"
+    },
+    {
+      "url": "https://zap-main.myshopify.com/de/sitemap_pages_1.xml",
+      "slug": "zap_main_myshopify_com_de_sitemap_pages_1_xml",
+      "title": "",
+      "type": "other",
+      "headings": [],
+      "sections": 0,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_de_sitemap_pages_1_xml.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_de_sitemap_pages_1_xml.json"
+    },
+    {
+      "url": "https://zap-main.myshopify.com/de/sitemap_collections_1.xml",
+      "slug": "zap_main_myshopify_com_de_sitemap_collections_1_xml",
+      "title": "",
+      "type": "other",
+      "headings": [],
+      "sections": 0,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_de_sitemap_collections_1_xml.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_de_sitemap_collections_1_xml.json"
+    },
+    {
+      "url": "https://zap-main.myshopify.com/de/sitemap_blogs_1.xml",
+      "slug": "zap_main_myshopify_com_de_sitemap_blogs_1_xml",
+      "title": "",
+      "type": "other",
+      "headings": [],
+      "sections": 0,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_de_sitemap_blogs_1_xml.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_de_sitemap_blogs_1_xml.json"
+    },
+    {
+      "url": "https://zap-main.myshopify.com/es/sitemap_products_1.xml",
+      "slug": "zap_main_myshopify_com_es_sitemap_products_1_xml",
+      "title": "",
+      "type": "other",
+      "headings": [],
+      "sections": 0,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_es_sitemap_products_1_xml.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_es_sitemap_products_1_xml.json"
+    },
+    {
+      "url": "https://zap-main.myshopify.com/es/sitemap_pages_1.xml",
+      "slug": "zap_main_myshopify_com_es_sitemap_pages_1_xml",
+      "title": "",
+      "type": "other",
+      "headings": [],
+      "sections": 0,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_es_sitemap_pages_1_xml.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_es_sitemap_pages_1_xml.json"
+    },
+    {
+      "url": "https://zap-main.myshopify.com/es/sitemap_collections_1.xml",
+      "slug": "zap_main_myshopify_com_es_sitemap_collections_1_xml",
+      "title": "",
+      "type": "other",
+      "headings": [],
+      "sections": 0,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_es_sitemap_collections_1_xml.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_es_sitemap_collections_1_xml.json"
+    },
+    {
+      "url": "https://zap-main.myshopify.com/es/sitemap_blogs_1.xml",
+      "slug": "zap_main_myshopify_com_es_sitemap_blogs_1_xml",
+      "title": "",
+      "type": "other",
+      "headings": [],
+      "sections": 0,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_es_sitemap_blogs_1_xml.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_es_sitemap_blogs_1_xml.json"
+    },
+    {
+      "url": "https://zap-main.myshopify.com/products/honey-lemon-infusion",
+      "slug": "zap_main_myshopify_com_products_honey_lemon_infusion",
+      "title": "Honey Lemon Infusion",
+      "type": "product",
+      "headings": [
+        "Honey Lemon Infusion",
+        "Light Box",
+        "Discovery Box",
+        "Honey Lemon Infusion",
+        "Light Box",
+        "Discovery Box",
+        "Subscribe to our Newsletter and Get 15% off your first order",
+        "Honey Lemon Infusion"
+      ],
+      "sections": 9,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_products_honey_lemon_infusion.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_products_honey_lemon_infusion.json"
+    },
+    {
+      "url": "https://zap-main.myshopify.com/products/mint-lime-refresher",
+      "slug": "zap_main_myshopify_com_products_mint_lime_refresher",
+      "title": "Mint Lime Refresher",
+      "type": "product",
+      "headings": [
+        "Honey Lemon Infusion",
+        "Light Box",
+        "Discovery Box",
+        "Honey Lemon Infusion",
+        "Light Box",
+        "Discovery Box",
+        "Subscribe to our Newsletter and Get 15% off your first order",
+        "Mint Lime Refresher"
+      ],
+      "sections": 4,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_products_mint_lime_refresher.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_products_mint_lime_refresher.json"
+    },
+    {
+      "url": "https://zap-main.myshopify.com/products/passion-cooler",
+      "slug": "zap_main_myshopify_com_products_passion_cooler",
+      "title": "Passion Cooler",
+      "type": "product",
+      "headings": [
+        "Honey Lemon Infusion",
+        "Light Box",
+        "Discovery Box",
+        "Honey Lemon Infusion",
+        "Light Box",
+        "Discovery Box",
+        "Subscribe to our Newsletter and Get 15% off your first order",
+        "Passion Cooler"
+      ],
+      "sections": 4,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_products_passion_cooler.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_products_passion_cooler.json"
+    },
+    {
+      "url": "https://zap-main.myshopify.com/products/original-energy",
+      "slug": "zap_main_myshopify_com_products_original_energy",
+      "title": "Original Energy",
+      "type": "product",
+      "headings": [
+        "Honey Lemon Infusion",
+        "Light Box",
+        "Discovery Box",
+        "Honey Lemon Infusion",
+        "Light Box",
+        "Discovery Box",
+        "Subscribe to our Newsletter and Get 15% off your first order",
+        "Original Energy"
+      ],
+      "sections": 4,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_products_original_energy.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_products_original_energy.json"
+    },
+    {
+      "url": "https://zap-main.myshopify.com/products/rose-hibiscus",
+      "slug": "zap_main_myshopify_com_products_rose_hibiscus",
+      "title": "Rose Hibiscus",
+      "type": "product",
+      "headings": [
+        "Honey Lemon Infusion",
+        "Light Box",
+        "Discovery Box",
+        "Honey Lemon Infusion",
+        "Light Box",
+        "Discovery Box",
+        "Subscribe to our Newsletter and Get 15% off your first order",
+        "Rose Hibiscus"
+      ],
+      "sections": 4,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_products_rose_hibiscus.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_products_rose_hibiscus.json"
+    },
+    {
+      "url": "https://zap-main.myshopify.com/products/ginger-boost",
+      "slug": "zap_main_myshopify_com_products_ginger_boost",
+      "title": "Ginger Boost",
+      "type": "product",
+      "headings": [
+        "Honey Lemon Infusion",
+        "Light Box",
+        "Discovery Box",
+        "Honey Lemon Infusion",
+        "Light Box",
+        "Discovery Box",
+        "Subscribe to our Newsletter and Get 15% off your first order",
+        "Ginger Boost"
+      ],
+      "sections": 4,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_products_ginger_boost.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_products_ginger_boost.json"
+    },
+    {
+      "url": "https://zap-main.myshopify.com/products/discovery-box",
+      "slug": "zap_main_myshopify_com_products_discovery_box",
+      "title": "Discovery Box",
+      "type": "product",
+      "headings": [
+        "Honey Lemon Infusion",
+        "Light Box",
+        "Discovery Box",
+        "Honey Lemon Infusion",
+        "Light Box",
+        "Discovery Box",
+        "Subscribe to our Newsletter and Get 15% off your first order",
+        "Discovery Box"
+      ],
+      "sections": 4,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_products_discovery_box.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_products_discovery_box.json"
+    },
+    {
+      "url": "https://zap-main.myshopify.com/products/light-box",
+      "slug": "zap_main_myshopify_com_products_light_box",
+      "title": "Light Box",
+      "type": "product",
+      "headings": [
+        "Honey Lemon Infusion",
+        "Light Box",
+        "Discovery Box",
+        "Honey Lemon Infusion",
+        "Light Box",
+        "Discovery Box",
+        "Subscribe to our Newsletter and Get 15% off your first order",
+        "Light Box"
+      ],
+      "sections": 4,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_products_light_box.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_products_light_box.json"
+    },
+    {
+      "url": "https://zap-main.myshopify.com/pages/contact",
+      "slug": "zap_main_myshopify_com_pages_contact",
+      "title": "Contact",
+      "type": "page",
+      "headings": [
+        "Honey Lemon Infusion",
+        "Light Box",
+        "Discovery Box",
+        "Honey Lemon Infusion",
+        "Light Box",
+        "Discovery Box",
+        "Subscribe to our Newsletter and Get 15% off your first order",
+        "contacts"
+      ],
+      "sections": 3,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_pages_contact.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_pages_contact.json"
+    },
+    {
+      "url": "https://zap-main.myshopify.com/pages/faq",
+      "slug": "zap_main_myshopify_com_pages_faq",
+      "title": "FAQ",
+      "type": "page",
+      "headings": [
+        "Honey Lemon Infusion",
+        "Light Box",
+        "Discovery Box",
+        "Honey Lemon Infusion",
+        "Light Box",
+        "Discovery Box",
+        "Subscribe to our Newsletter and Get 15% off your first order",
+        "Frequently Asked Questions"
+      ],
+      "sections": 3,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_pages_faq.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_pages_faq.json"
+    },
+    {
+      "url": "https://zap-main.myshopify.com/pages/our-story",
+      "slug": "zap_main_myshopify_com_pages_our_story",
+      "title": "Our Story",
+      "type": "page",
+      "headings": [
+        "Honey Lemon Infusion",
+        "Light Box",
+        "Discovery Box",
+        "Honey Lemon Infusion",
+        "Light Box",
+        "Discovery Box",
+        "Subscribe to our Newsletter and Get 15% off your first order",
+        "WE’RE HERE TO BUILD SOMETHING THAT LASTS"
+      ],
+      "sections": 5,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_pages_our_story.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_pages_our_story.json"
+    },
+    {
+      "url": "https://zap-main.myshopify.com/pages/data-sharing-opt-out",
+      "slug": "zap_main_myshopify_com_pages_data_sharing_opt_out",
+      "title": "Your Privacy Choices",
+      "type": "page",
+      "headings": [
+        "Honey Lemon Infusion",
+        "Light Box",
+        "Discovery Box",
+        "Honey Lemon Infusion",
+        "Light Box",
+        "Discovery Box",
+        "Subscribe to our Newsletter and Get 15% off your first order",
+        "Your Privacy Choices"
+      ],
+      "sections": 3,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_pages_data_sharing_opt_out.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_pages_data_sharing_opt_out.json"
+    },
+    {
+      "url": "https://zap-main.myshopify.com/pages/honey-lemon-infusion-popup-content",
+      "slug": "zap_main_myshopify_com_pages_honey_lemon_infusion_popup_content",
+      "title": "Honey Lemon Infusion Popup Content",
+      "type": "page",
+      "headings": [
+        "Honey Lemon Infusion",
+        "Light Box",
+        "Discovery Box",
+        "Honey Lemon Infusion",
+        "Light Box",
+        "Discovery Box",
+        "Subscribe to our Newsletter and Get 15% off your first order",
+        "Honey Lemon Infusion Popup Content"
+      ],
+      "sections": 3,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_pages_honey_lemon_infusion_popup_content.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_pages_honey_lemon_infusion_popup_content.json"
+    },
+    {
+      "url": "https://zap-main.myshopify.com/pages/before-after",
+      "slug": "zap_main_myshopify_com_pages_before_after",
+      "title": "Before/After",
+      "type": "page",
+      "headings": [
+        "Honey Lemon Infusion",
+        "Light Box",
+        "Discovery Box",
+        "Honey Lemon Infusion",
+        "Light Box",
+        "Discovery Box",
+        "Subscribe to our Newsletter and Get 15% off your first order",
+        "Before/After"
+      ],
+      "sections": 5,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_pages_before_after.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_pages_before_after.json"
+    },
+    {
+      "url": "https://zap-main.myshopify.com/pages/benefits",
+      "slug": "zap_main_myshopify_com_pages_benefits",
+      "title": "Benefits",
+      "type": "page",
+      "headings": [
+        "Honey Lemon Infusion",
+        "Light Box",
+        "Discovery Box",
+        "Honey Lemon Infusion",
+        "Light Box",
+        "Discovery Box",
+        "Subscribe to our Newsletter and Get 15% off your first order",
+        "Benefits"
+      ],
+      "sections": 3,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_pages_benefits.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_pages_benefits.json"
+    },
+    {
+      "url": "https://zap-main.myshopify.com/pages/countdown",
+      "slug": "zap_main_myshopify_com_pages_countdown",
+      "title": "Countdown",
+      "type": "page",
+      "headings": [
+        "Honey Lemon Infusion",
+        "Light Box",
+        "Discovery Box",
+        "Honey Lemon Infusion",
+        "Light Box",
+        "Discovery Box",
+        "Subscribe to our Newsletter and Get 15% off your first order",
+        "Countdown"
+      ],
+      "sections": 4,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_pages_countdown.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_pages_countdown.json"
+    },
+    {
+      "url": "https://zap-main.myshopify.com/pages/contact-form",
+      "slug": "zap_main_myshopify_com_pages_contact_form",
+      "title": "Contact form",
+      "type": "page",
+      "headings": [
+        "Honey Lemon Infusion",
+        "Light Box",
+        "Discovery Box",
+        "Honey Lemon Infusion",
+        "Light Box",
+        "Discovery Box",
+        "Subscribe to our Newsletter and Get 15% off your first order",
+        "Contact form"
+      ],
+      "sections": 3,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_pages_contact_form.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_pages_contact_form.json"
+    },
+    {
+      "url": "https://zap-main.myshopify.com/pages/collections",
+      "slug": "zap_main_myshopify_com_pages_collections",
+      "title": "Collections",
+      "type": "page",
+      "headings": [
+        "Honey Lemon Infusion",
+        "Light Box",
+        "Discovery Box",
+        "Honey Lemon Infusion",
+        "Light Box",
+        "Discovery Box",
+        "Subscribe to our Newsletter and Get 15% off your first order",
+        "Collections"
+      ],
+      "sections": 3,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_pages_collections.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_pages_collections.json"
+    },
+    {
+      "url": "https://zap-main.myshopify.com/pages/card-grid",
+      "slug": "zap_main_myshopify_com_pages_card_grid",
+      "title": "Card grid",
+      "type": "page",
+      "headings": [
+        "Honey Lemon Infusion",
+        "Light Box",
+        "Discovery Box",
+        "Honey Lemon Infusion",
+        "Light Box",
+        "Discovery Box",
+        "Subscribe to our Newsletter and Get 15% off your first order",
+        "Card grid"
+      ],
+      "sections": 3,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_pages_card_grid.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_pages_card_grid.json"
+    },
+    {
+      "url": "https://zap-main.myshopify.com/pages/collapsible-content",
+      "slug": "zap_main_myshopify_com_pages_collapsible_content",
+      "title": "Collapsible content",
+      "type": "page",
+      "headings": [
+        "Honey Lemon Infusion",
+        "Light Box",
+        "Discovery Box",
+        "Honey Lemon Infusion",
+        "Light Box",
+        "Discovery Box",
+        "Subscribe to our Newsletter and Get 15% off your first order",
+        "Collapsible content"
+      ],
+      "sections": 3,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_pages_collapsible_content.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_pages_collapsible_content.json"
+    },
+    {
+      "url": "https://zap-main.myshopify.com/pages/featured-product",
+      "slug": "zap_main_myshopify_com_pages_featured_product",
+      "title": "Featured product",
+      "type": "page",
+      "headings": [
+        "Honey Lemon Infusion",
+        "Light Box",
+        "Discovery Box",
+        "Honey Lemon Infusion",
+        "Light Box",
+        "Discovery Box",
+        "Subscribe to our Newsletter and Get 15% off your first order",
+        "Featured product"
+      ],
+      "sections": 3,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_pages_featured_product.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_pages_featured_product.json"
+    },
+    {
+      "url": "https://zap-main.myshopify.com/pages/featured-products",
+      "slug": "zap_main_myshopify_com_pages_featured_products",
+      "title": "Featured products",
+      "type": "page",
+      "headings": [
+        "Honey Lemon Infusion",
+        "Light Box",
+        "Discovery Box",
+        "Honey Lemon Infusion",
+        "Light Box",
+        "Discovery Box",
+        "Subscribe to our Newsletter and Get 15% off your first order",
+        "Featured products"
+      ],
+      "sections": 3,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_pages_featured_products.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_pages_featured_products.json"
+    },
+    {
+      "url": "https://zap-main.myshopify.com/pages/features-table",
+      "slug": "zap_main_myshopify_com_pages_features_table",
+      "title": "Features table",
+      "type": "page",
+      "headings": [
+        "Honey Lemon Infusion",
+        "Light Box",
+        "Discovery Box",
+        "Honey Lemon Infusion",
+        "Light Box",
+        "Discovery Box",
+        "Subscribe to our Newsletter and Get 15% off your first order",
+        "Features table"
+      ],
+      "sections": 2,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_pages_features_table.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_pages_features_table.json"
+    },
+    {
+      "url": "https://zap-main.myshopify.com/pages/featured-blog",
+      "slug": "zap_main_myshopify_com_pages_featured_blog",
+      "title": "Featured blog",
+      "type": "page",
+      "headings": [
+        "Honey Lemon Infusion",
+        "Light Box",
+        "Discovery Box",
+        "Honey Lemon Infusion",
+        "Light Box",
+        "Discovery Box",
+        "Subscribe to our Newsletter and Get 15% off your first order",
+        "Featured blog"
+      ],
+      "sections": 4,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_pages_featured_blog.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_pages_featured_blog.json"
+    },
+    {
+      "url": "https://zap-main.myshopify.com/pages/hero",
+      "slug": "zap_main_myshopify_com_pages_hero",
+      "title": "Hero",
+      "type": "page",
+      "headings": [
+        "Honey Lemon Infusion",
+        "Light Box",
+        "Discovery Box",
+        "Honey Lemon Infusion",
+        "Light Box",
+        "Discovery Box",
+        "Subscribe to our Newsletter and Get 15% off your first order",
+        "Hero"
+      ],
+      "sections": 3,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_pages_hero.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_pages_hero.json"
+    },
+    {
+      "url": "https://zap-main.myshopify.com/pages/hero-split",
+      "slug": "zap_main_myshopify_com_pages_hero_split",
+      "title": "Hero split",
+      "type": "page",
+      "headings": [
+        "Honey Lemon Infusion",
+        "Light Box",
+        "Discovery Box",
+        "Honey Lemon Infusion",
+        "Light Box",
+        "Discovery Box",
+        "Subscribe to our Newsletter and Get 15% off your first order",
+        "Hero split"
+      ],
+      "sections": 4,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_pages_hero_split.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_pages_hero_split.json"
+    },
+    {
+      "url": "https://zap-main.myshopify.com/pages/image-carousel",
+      "slug": "zap_main_myshopify_com_pages_image_carousel",
+      "title": "Image carousel",
+      "type": "page",
+      "headings": [
+        "Honey Lemon Infusion",
+        "Light Box",
+        "Discovery Box",
+        "Honey Lemon Infusion",
+        "Light Box",
+        "Discovery Box",
+        "Subscribe to our Newsletter and Get 15% off your first order",
+        "Image carousel"
+      ],
+      "sections": 3,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_pages_image_carousel.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_pages_image_carousel.json"
+    },
+    {
+      "url": "https://zap-main.myshopify.com/pages/image-collage",
+      "slug": "zap_main_myshopify_com_pages_image_collage",
+      "title": "Image collage",
+      "type": "page",
+      "headings": [
+        "Honey Lemon Infusion",
+        "Light Box",
+        "Discovery Box",
+        "Honey Lemon Infusion",
+        "Light Box",
+        "Discovery Box",
+        "Subscribe to our Newsletter and Get 15% off your first order",
+        "Image collage"
+      ],
+      "sections": 3,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_pages_image_collage.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_pages_image_collage.json"
+    },
+    {
+      "url": "https://zap-main.myshopify.com/pages/image-parallax-with-text",
+      "slug": "zap_main_myshopify_com_pages_image_parallax_with_text",
+      "title": "Image parallax with text",
+      "type": "page",
+      "headings": [
+        "Honey Lemon Infusion",
+        "Light Box",
+        "Discovery Box",
+        "Honey Lemon Infusion",
+        "Light Box",
+        "Discovery Box",
+        "Subscribe to our Newsletter and Get 15% off your first order",
+        "Image parallax with text"
+      ],
+      "sections": 3,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_pages_image_parallax_with_text.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_pages_image_parallax_with_text.json"
+    },
+    {
+      "url": "https://zap-main.myshopify.com/pages/image-with-text",
+      "slug": "zap_main_myshopify_com_pages_image_with_text",
+      "title": "Image with text",
+      "type": "page",
+      "headings": [
+        "Honey Lemon Infusion",
+        "Light Box",
+        "Discovery Box",
+        "Honey Lemon Infusion",
+        "Light Box",
+        "Discovery Box",
+        "Subscribe to our Newsletter and Get 15% off your first order",
+        "Image with text"
+      ],
+      "sections": 5,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_pages_image_with_text.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_pages_image_with_text.json"
+    },
+    {
+      "url": "https://zap-main.myshopify.com/pages/logo-list",
+      "slug": "zap_main_myshopify_com_pages_logo_list",
+      "title": "Logo list",
+      "type": "page",
+      "headings": [
+        "Honey Lemon Infusion",
+        "Light Box",
+        "Discovery Box",
+        "Honey Lemon Infusion",
+        "Light Box",
+        "Discovery Box",
+        "Subscribe to our Newsletter and Get 15% off your first order",
+        "Logo list"
+      ],
+      "sections": 3,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_pages_logo_list.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_pages_logo_list.json"
+    },
+    {
+      "url": "https://zap-main.myshopify.com/pages/media-slider-banner",
+      "slug": "zap_main_myshopify_com_pages_media_slider_banner",
+      "title": "Media slider banner",
+      "type": "page",
+      "headings": [
+        "Honey Lemon Infusion",
+        "Light Box",
+        "Discovery Box",
+        "Honey Lemon Infusion",
+        "Light Box",
+        "Discovery Box",
+        "Subscribe to our Newsletter and Get 15% off your first order",
+        "Media slider banner"
+      ],
+      "sections": 4,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_pages_media_slider_banner.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_pages_media_slider_banner.json"
+    },
+    {
+      "url": "https://zap-main.myshopify.com/pages/multicolumn",
+      "slug": "zap_main_myshopify_com_pages_multicolumn",
+      "title": "Multicolumn",
+      "type": "page",
+      "headings": [
+        "Honey Lemon Infusion",
+        "Light Box",
+        "Discovery Box",
+        "Honey Lemon Infusion",
+        "Light Box",
+        "Discovery Box",
+        "Subscribe to our Newsletter and Get 15% off your first order",
+        "Multicolumn"
+      ],
+      "sections": 3,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_pages_multicolumn.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_pages_multicolumn.json"
+    },
+    {
+      "url": "https://zap-main.myshopify.com/pages/newsletter",
+      "slug": "zap_main_myshopify_com_pages_newsletter",
+      "title": "Newsletter",
+      "type": "page",
+      "headings": [
+        "Honey Lemon Infusion",
+        "Light Box",
+        "Discovery Box",
+        "Honey Lemon Infusion",
+        "Light Box",
+        "Discovery Box",
+        "Subscribe to our Newsletter and Get 15% off your first order",
+        "Newsletter"
+      ],
+      "sections": 4,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_pages_newsletter.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_pages_newsletter.json"
+    },
+    {
+      "url": "https://zap-main.myshopify.com/pages/popular-products",
+      "slug": "zap_main_myshopify_com_pages_popular_products",
+      "title": "Popular products",
+      "type": "page",
+      "headings": [
+        "Honey Lemon Infusion",
+        "Light Box",
+        "Discovery Box",
+        "Honey Lemon Infusion",
+        "Light Box",
+        "Discovery Box",
+        "Subscribe to our Newsletter and Get 15% off your first order",
+        "Popular products"
+      ],
+      "sections": 4,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_pages_popular_products.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_pages_popular_products.json"
+    },
+    {
+      "url": "https://zap-main.myshopify.com/pages/product-markers",
+      "slug": "zap_main_myshopify_com_pages_product_markers",
+      "title": "Product markers",
+      "type": "page",
+      "headings": [
+        "Honey Lemon Infusion",
+        "Light Box",
+        "Discovery Box",
+        "Honey Lemon Infusion",
+        "Light Box",
+        "Discovery Box",
+        "Subscribe to our Newsletter and Get 15% off your first order",
+        "Product markers"
+      ],
+      "sections": 3,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_pages_product_markers.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_pages_product_markers.json"
+    },
+    {
+      "url": "https://zap-main.myshopify.com/pages/products-grid",
+      "slug": "zap_main_myshopify_com_pages_products_grid",
+      "title": "Products grid",
+      "type": "page",
+      "headings": [
+        "Honey Lemon Infusion",
+        "Light Box",
+        "Discovery Box",
+        "Honey Lemon Infusion",
+        "Light Box",
+        "Discovery Box",
+        "Subscribe to our Newsletter and Get 15% off your first order",
+        "Products grid"
+      ],
+      "sections": 3,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_pages_products_grid.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_pages_products_grid.json"
+    },
+    {
+      "url": "https://zap-main.myshopify.com/pages/rich-text",
+      "slug": "zap_main_myshopify_com_pages_rich_text",
+      "title": "Rich text",
+      "type": "page",
+      "headings": [
+        "Honey Lemon Infusion",
+        "Light Box",
+        "Discovery Box",
+        "Honey Lemon Infusion",
+        "Light Box",
+        "Discovery Box",
+        "Subscribe to our Newsletter and Get 15% off your first order",
+        "Rich text"
+      ],
+      "sections": 2,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_pages_rich_text.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_pages_rich_text.json"
+    },
+    {
+      "url": "https://zap-main.myshopify.com/pages/slideshow",
+      "slug": "zap_main_myshopify_com_pages_slideshow",
+      "title": "Slideshow",
+      "type": "page",
+      "headings": [
+        "Honey Lemon Infusion",
+        "Light Box",
+        "Discovery Box",
+        "Honey Lemon Infusion",
+        "Light Box",
+        "Discovery Box",
+        "Subscribe to our Newsletter and Get 15% off your first order",
+        "Slideshow"
+      ],
+      "sections": 3,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_pages_slideshow.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_pages_slideshow.json"
+    },
+    {
+      "url": "https://zap-main.myshopify.com/pages/social-feed",
+      "slug": "zap_main_myshopify_com_pages_social_feed",
+      "title": "Social feed",
+      "type": "page",
+      "headings": [
+        "Honey Lemon Infusion",
+        "Light Box",
+        "Discovery Box",
+        "Honey Lemon Infusion",
+        "Light Box",
+        "Discovery Box",
+        "Subscribe to our Newsletter and Get 15% off your first order",
+        "Social feed"
+      ],
+      "sections": 2,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_pages_social_feed.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_pages_social_feed.json"
+    },
+    {
+      "url": "https://zap-main.myshopify.com/pages/social-media",
+      "slug": "zap_main_myshopify_com_pages_social_media",
+      "title": "Social media",
+      "type": "page",
+      "headings": [
+        "Honey Lemon Infusion",
+        "Light Box",
+        "Discovery Box",
+        "Honey Lemon Infusion",
+        "Light Box",
+        "Discovery Box",
+        "Subscribe to our Newsletter and Get 15% off your first order",
+        "Social media"
+      ],
+      "sections": 3,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_pages_social_media.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_pages_social_media.json"
+    },
+    {
+      "url": "https://zap-main.myshopify.com/pages/testimonials",
+      "slug": "zap_main_myshopify_com_pages_testimonials",
+      "title": "Testimonials",
+      "type": "page",
+      "headings": [
+        "Honey Lemon Infusion",
+        "Light Box",
+        "Discovery Box",
+        "Honey Lemon Infusion",
+        "Light Box",
+        "Discovery Box",
+        "Subscribe to our Newsletter and Get 15% off your first order",
+        "Testimonials"
+      ],
+      "sections": 3,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_pages_testimonials.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_pages_testimonials.json"
+    },
+    {
+      "url": "https://zap-main.myshopify.com/pages/ticker",
+      "slug": "zap_main_myshopify_com_pages_ticker",
+      "title": "Ticker",
+      "type": "page",
+      "headings": [
+        "Honey Lemon Infusion",
+        "Light Box",
+        "Discovery Box",
+        "Honey Lemon Infusion",
+        "Light Box",
+        "Discovery Box",
+        "Subscribe to our Newsletter and Get 15% off your first order",
+        "Ticker"
+      ],
+      "sections": 4,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_pages_ticker.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_pages_ticker.json"
+    },
+    {
+      "url": "https://zap-main.myshopify.com/collections/frontpage",
+      "slug": "zap_main_myshopify_com_collections_frontpage",
+      "title": "Something went wrong",
+      "type": "collection",
+      "headings": [
+        "There was a problem loading this website"
+      ],
+      "sections": 0,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_collections_frontpage.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_collections_frontpage.json"
+    },
+    {
+      "url": "https://zap-main.myshopify.com/collections/sets",
+      "slug": "zap_main_myshopify_com_collections_sets",
+      "title": "Sets",
+      "type": "collection",
+      "headings": [
+        "Honey Lemon Infusion",
+        "Light Box",
+        "Discovery Box",
+        "Honey Lemon Infusion",
+        "Light Box",
+        "Discovery Box",
+        "Subscribe to our Newsletter and Get 15% off your first order",
+        "Collection: Sets"
+      ],
+      "sections": 4,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_collections_sets.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_collections_sets.json"
+    },
+    {
+      "url": "https://zap-main.myshopify.com/blogs/news",
+      "slug": "zap_main_myshopify_com_blogs_news",
+      "title": "News",
+      "type": "blog",
+      "headings": [
+        "Honey Lemon Infusion",
+        "Light Box",
+        "Discovery Box",
+        "Honey Lemon Infusion",
+        "Light Box",
+        "Discovery Box",
+        "Subscribe to our Newsletter and Get 15% off your first order",
+        "LATEST NEWS"
+      ],
+      "sections": 3,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_blogs_news.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_blogs_news.json"
+    },
+    {
+      "url": "https://zap-main.myshopify.com/blogs/news/waterlemon-the-taste-of-summer-in-every-sip",
+      "slug": "zap_main_myshopify_com_blogs_news_waterlemon_the_taste_of_summer_in_every_sip",
+      "title": "Waterlemon: The Taste of Summer in Every Sip",
+      "type": "article",
+      "headings": [
+        "Honey Lemon Infusion",
+        "Light Box",
+        "Discovery Box",
+        "Honey Lemon Infusion",
+        "Light Box",
+        "Discovery Box",
+        "Subscribe to our Newsletter and Get 15% off your first order",
+        "Waterlemon: The Taste of Summer in Every Sip"
+      ],
+      "sections": 3,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_blogs_news_waterlemon_the_taste_of_summer_in_every_sip.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_blogs_news_waterlemon_the_taste_of_summer_in_every_sip.json"
+    },
+    {
+      "url": "https://zap-main.myshopify.com/blogs/news/how-mint-lime-became-the-ultimate-cool-down-drink",
+      "slug": "zap_main_myshopify_com_blogs_news_how_mint_lime_became_the_ultimate_cool_down_drink",
+      "title": "How Mint & Lime Became the Ultimate Cool-Down Drink",
+      "type": "article",
+      "headings": [
+        "Honey Lemon Infusion",
+        "Light Box",
+        "Discovery Box",
+        "Honey Lemon Infusion",
+        "Light Box",
+        "Discovery Box",
+        "Subscribe to our Newsletter and Get 15% off your first order",
+        "How Mint & Lime Became the Ultimate Cool-Down Drink"
+      ],
+      "sections": 3,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_blogs_news_how_mint_lime_became_the_ultimate_cool_down_drink.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_blogs_news_how_mint_lime_became_the_ultimate_cool_down_drink.json"
+    },
+    {
+      "url": "https://zap-main.myshopify.com/blogs/news/why-passion-is-the-boldest-flavor-in-our-collection",
+      "slug": "zap_main_myshopify_com_blogs_news_why_passion_is_the_boldest_flavor_in_our_collection",
+      "title": "Why Passion Is the Boldest Flavor in Our Collection",
+      "type": "article",
+      "headings": [
+        "Honey Lemon Infusion",
+        "Light Box",
+        "Discovery Box",
+        "Honey Lemon Infusion",
+        "Light Box",
+        "Discovery Box",
+        "Subscribe to our Newsletter and Get 15% off your first order",
+        "Why Passion Is the Boldest Flavor in Our Collection"
+      ],
+      "sections": 3,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_blogs_news_why_passion_is_the_boldest_flavor_in_our_collection.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_blogs_news_why_passion_is_the_boldest_flavor_in_our_collection.json"
+    },
+    {
+      "url": "https://zap-main.myshopify.com/blogs/news/the-classic-combo-that-never-gets-old",
+      "slug": "zap_main_myshopify_com_blogs_news_the_classic_combo_that_never_gets_old",
+      "title": "The Classic Combo That Never Gets Old",
+      "type": "article",
+      "headings": [
+        "Honey Lemon Infusion",
+        "Light Box",
+        "Discovery Box",
+        "Honey Lemon Infusion",
+        "Light Box",
+        "Discovery Box",
+        "Subscribe to our Newsletter and Get 15% off your first order",
+        "The Classic Combo That Never Gets Old"
+      ],
+      "sections": 3,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_blogs_news_the_classic_combo_that_never_gets_old.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_blogs_news_the_classic_combo_that_never_gets_old.json"
+    },
+    {
+      "url": "https://zap-main.myshopify.com/blogs/news/the-taste-of-summer-the-calm-of-cold-brew",
+      "slug": "zap_main_myshopify_com_blogs_news_the_taste_of_summer_the_calm_of_cold_brew",
+      "title": "The Taste of Summer, the Calm of Cold Brew",
+      "type": "article",
+      "headings": [
+        "Honey Lemon Infusion",
+        "Light Box",
+        "Discovery Box",
+        "Honey Lemon Infusion",
+        "Light Box",
+        "Discovery Box",
+        "Subscribe to our Newsletter and Get 15% off your first order",
+        "The Taste of Summer, the Calm of Cold Brew"
+      ],
+      "sections": 3,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_blogs_news_the_taste_of_summer_the_calm_of_cold_brew.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_blogs_news_the_taste_of_summer_the_calm_of_cold_brew.json"
+    },
+    {
+      "url": "https://zap-main.myshopify.com/blogs/news/six-ways-to-feel-refreshed-one-signature-brew",
+      "slug": "zap_main_myshopify_com_blogs_news_six_ways_to_feel_refreshed_one_signature_brew",
+      "title": "Six Ways to Feel Refreshed — One Signature Brew",
+      "type": "article",
+      "headings": [
+        "Honey Lemon Infusion",
+        "Light Box",
+        "Discovery Box",
+        "Honey Lemon Infusion",
+        "Light Box",
+        "Discovery Box",
+        "Subscribe to our Newsletter and Get 15% off your first order",
+        "Six Ways to Feel Refreshed — One Signature Brew"
+      ],
+      "sections": 3,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_blogs_news_six_ways_to_feel_refreshed_one_signature_brew.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_blogs_news_six_ways_to_feel_refreshed_one_signature_brew.json"
+    },
+    {
+      "url": "https://zap-main.myshopify.com/blogs/news/behind-the-bottle-the-story-of-our-original-flavor",
+      "slug": "zap_main_myshopify_com_blogs_news_behind_the_bottle_the_story_of_our_original_flavor",
+      "title": "Behind the Bottle: The Story of Our Original Flavor",
+      "type": "article",
+      "headings": [
+        "Honey Lemon Infusion",
+        "Light Box",
+        "Discovery Box",
+        "Honey Lemon Infusion",
+        "Light Box",
+        "Discovery Box",
+        "Subscribe to our Newsletter and Get 15% off your first order",
+        "Behind the Bottle: The Story of Our Original Flavor"
+      ],
+      "sections": 3,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_blogs_news_behind_the_bottle_the_story_of_our_original_flavor.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_blogs_news_behind_the_bottle_the_story_of_our_original_flavor.json"
+    },
+    {
+      "url": "https://zap-main.myshopify.com/blogs/news/chill-out-with-mint-lime-or-warm-up-with-ginger",
+      "slug": "zap_main_myshopify_com_blogs_news_chill_out_with_mint_lime_or_warm_up_with_ginger",
+      "title": "Chill Out with Mint & Lime, or Warm Up with Ginger",
+      "type": "article",
+      "headings": [
+        "Honey Lemon Infusion",
+        "Light Box",
+        "Discovery Box",
+        "Honey Lemon Infusion",
+        "Light Box",
+        "Discovery Box",
+        "Subscribe to our Newsletter and Get 15% off your first order",
+        "Chill Out with Mint & Lime, or Warm Up with Ginger"
+      ],
+      "sections": 3,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_blogs_news_chill_out_with_mint_lime_or_warm_up_with_ginger.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_blogs_news_chill_out_with_mint_lime_or_warm_up_with_ginger.json"
+    },
+    {
+      "url": "https://zap-main.myshopify.com/blogs/news/summer-starts-with-waterlemon-cold-brew",
+      "slug": "zap_main_myshopify_com_blogs_news_summer_starts_with_waterlemon_cold_brew",
+      "title": "Summer Starts with Waterlemon Cold Brew",
+      "type": "article",
+      "headings": [
+        "Honey Lemon Infusion",
+        "Light Box",
+        "Discovery Box",
+        "Honey Lemon Infusion",
+        "Light Box",
+        "Discovery Box",
+        "Subscribe to our Newsletter and Get 15% off your first order",
+        "Summer Starts with Waterlemon Cold Brew"
+      ],
+      "sections": 3,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_blogs_news_summer_starts_with_waterlemon_cold_brew.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_blogs_news_summer_starts_with_waterlemon_cold_brew.json"
+    },
+    {
+      "url": "https://zap-main.myshopify.com/blogs/news/citrus-cold-brew-bright-bold-refreshing",
+      "slug": "zap_main_myshopify_com_blogs_news_citrus_cold_brew_bright_bold_refreshing",
+      "title": "Citrus Cold Brew: Bright, Bold, Refreshing",
+      "type": "article",
+      "headings": [
+        "Honey Lemon Infusion",
+        "Light Box",
+        "Discovery Box",
+        "Honey Lemon Infusion",
+        "Light Box",
+        "Discovery Box",
+        "Subscribe to our Newsletter and Get 15% off your first order",
+        "Citrus Cold Brew: Bright, Bold, Refreshing"
+      ],
+      "sections": 3,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_blogs_news_citrus_cold_brew_bright_bold_refreshing.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_blogs_news_citrus_cold_brew_bright_bold_refreshing.json"
+    },
+    {
+      "url": "https://zap-main.myshopify.com/blogs/news/tropical-vibes-in-every-smooth-sip",
+      "slug": "zap_main_myshopify_com_blogs_news_tropical_vibes_in_every_smooth_sip",
+      "title": "Tropical Vibes in Every Smooth Sip",
+      "type": "article",
+      "headings": [
+        "Honey Lemon Infusion",
+        "Light Box",
+        "Discovery Box",
+        "Honey Lemon Infusion",
+        "Light Box",
+        "Discovery Box",
+        "Subscribe to our Newsletter and Get 15% off your first order",
+        "Tropical Vibes in Every Smooth Sip"
+      ],
+      "sections": 3,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_blogs_news_tropical_vibes_in_every_smooth_sip.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_blogs_news_tropical_vibes_in_every_smooth_sip.json"
+    },
+    {
+      "url": "https://zap-main.myshopify.com/blogs/news/the-citrus-twist-your-coffee-needed",
+      "slug": "zap_main_myshopify_com_blogs_news_the_citrus_twist_your_coffee_needed",
+      "title": "The Citrus Twist Your Coffee Needed",
+      "type": "article",
+      "headings": [
+        "Honey Lemon Infusion",
+        "Light Box",
+        "Discovery Box",
+        "Honey Lemon Infusion",
+        "Light Box",
+        "Discovery Box",
+        "Subscribe to our Newsletter and Get 15% off your first order",
+        "The Citrus Twist Your Coffee Needed"
+      ],
+      "sections": 3,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_blogs_news_the_citrus_twist_your_coffee_needed.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_blogs_news_the_citrus_twist_your_coffee_needed.json"
+    },
+    {
+      "url": "https://zap-main.myshopify.com/blogs/news/taste-the-tropics-passion-fruit-cold-brew",
+      "slug": "zap_main_myshopify_com_blogs_news_taste_the_tropics_passion_fruit_cold_brew",
+      "title": "Floral Boom — Rose & Hibiscus",
+      "type": "article",
+      "headings": [
+        "Honey Lemon Infusion",
+        "Light Box",
+        "Discovery Box",
+        "Honey Lemon Infusion",
+        "Light Box",
+        "Discovery Box",
+        "Subscribe to our Newsletter and Get 15% off your first order",
+        "Floral Boom — Rose & Hibiscus"
+      ],
+      "sections": 3,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_blogs_news_taste_the_tropics_passion_fruit_cold_brew.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_blogs_news_taste_the_tropics_passion_fruit_cold_brew.json"
+    },
+    {
+      "url": "https://zap-main.myshopify.com/blogs/news/mint-lime-the-ultimate-cold-brew-upgrade",
+      "slug": "zap_main_myshopify_com_blogs_news_mint_lime_the_ultimate_cold_brew_upgrade",
+      "title": "Mint & Lime: The Ultimate Cold Brew Upgrade",
+      "type": "article",
+      "headings": [
+        "Honey Lemon Infusion",
+        "Light Box",
+        "Discovery Box",
+        "Honey Lemon Infusion",
+        "Light Box",
+        "Discovery Box",
+        "Subscribe to our Newsletter and Get 15% off your first order",
+        "Mint & Lime: The Ultimate Cold Brew Upgrade"
+      ],
+      "sections": 3,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_blogs_news_mint_lime_the_ultimate_cold_brew_upgrade.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_blogs_news_mint_lime_the_ultimate_cold_brew_upgrade.json"
+    },
+    {
+      "url": "https://zap-main.myshopify.com/blogs/news/the-citrus-cold-brew-you-didn-t-know-you-needed",
+      "slug": "zap_main_myshopify_com_blogs_news_the_citrus_cold_brew_you_didn_t_know_you_needed",
+      "title": "The Ginger Cold Brew You Didn’t Know You Needed",
+      "type": "article",
+      "headings": [
+        "Honey Lemon Infusion",
+        "Light Box",
+        "Discovery Box",
+        "Honey Lemon Infusion",
+        "Light Box",
+        "Discovery Box",
+        "Subscribe to our Newsletter and Get 15% off your first order",
+        "The Ginger Cold Brew You Didn’t Know You Needed"
+      ],
+      "sections": 3,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_blogs_news_the_citrus_cold_brew_you_didn_t_know_you_needed.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_blogs_news_the_citrus_cold_brew_you_didn_t_know_you_needed.json"
+    },
+    {
+      "url": "https://zap-main.myshopify.com/blogs/news/cold-brew-reimagined-with-roses-and-hibiscus",
+      "slug": "zap_main_myshopify_com_blogs_news_cold_brew_reimagined_with_roses_and_hibiscus",
+      "title": "Cold Brew Reimagined with Roses and Hibiscus",
+      "type": "article",
+      "headings": [
+        "Honey Lemon Infusion",
+        "Light Box",
+        "Discovery Box",
+        "Honey Lemon Infusion",
+        "Light Box",
+        "Discovery Box",
+        "Subscribe to our Newsletter and Get 15% off your first order",
+        "Cold Brew Reimagined with Roses and Hibiscus"
+      ],
+      "sections": 3,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_blogs_news_cold_brew_reimagined_with_roses_and_hibiscus.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_blogs_news_cold_brew_reimagined_with_roses_and_hibiscus.json"
+    },
+    {
+      "url": "https://zap-main.myshopify.com/de",
+      "slug": "zap_main_myshopify_com_de",
+      "title": "Zap",
+      "type": "other",
+      "headings": [
+        "Honig-Zitronen-Aufguss",
+        "Leuchtkasten",
+        "Entdeckerbox",
+        "Honig-Zitronen-Aufguss",
+        "Leuchtkasten",
+        "Entdeckerbox",
+        "Subscribe to our Newsletter and Get 15% off your first order",
+        "SUPERKALT"
+      ],
+      "sections": 9,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_de.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_de.json"
+    },
+    {
+      "url": "https://zap-main.myshopify.com/de/products/honey-lemon-infusion",
+      "slug": "zap_main_myshopify_com_de_products_honey_lemon_infusion",
+      "title": "Honig-Zitronen-Aufguss",
+      "type": "other",
+      "headings": [
+        "Honig-Zitronen-Aufguss",
+        "Leuchtkasten",
+        "Entdeckerbox",
+        "Honig-Zitronen-Aufguss",
+        "Leuchtkasten",
+        "Entdeckerbox",
+        "Subscribe to our Newsletter and Get 15% off your first order",
+        "Honig-Zitronen-Aufguss"
+      ],
+      "sections": 9,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_de_products_honey_lemon_infusion.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_de_products_honey_lemon_infusion.json"
+    },
+    {
+      "url": "https://zap-main.myshopify.com/de/products/mint-lime-refresher",
+      "slug": "zap_main_myshopify_com_de_products_mint_lime_refresher",
+      "title": "Erfrischungsgetränk mit Minze und Limette",
+      "type": "other",
+      "headings": [
+        "Honig-Zitronen-Aufguss",
+        "Leuchtkasten",
+        "Entdeckerbox",
+        "Honig-Zitronen-Aufguss",
+        "Leuchtkasten",
+        "Entdeckerbox",
+        "Subscribe to our Newsletter and Get 15% off your first order",
+        "Erfrischungsgetränk mit Minze und Limette"
+      ],
+      "sections": 4,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_de_products_mint_lime_refresher.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_de_products_mint_lime_refresher.json"
+    },
+    {
+      "url": "https://zap-main.myshopify.com/de/products/passion-cooler",
+      "slug": "zap_main_myshopify_com_de_products_passion_cooler",
+      "title": "Something went wrong",
+      "type": "other",
+      "headings": [
+        "There was a problem loading this website"
+      ],
+      "sections": 0,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_de_products_passion_cooler.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_de_products_passion_cooler.json"
+    },
+    {
+      "url": "https://zap-main.myshopify.com/de/products/original-energy",
+      "slug": "zap_main_myshopify_com_de_products_original_energy",
+      "title": "Ursprüngliche Energie",
+      "type": "other",
+      "headings": [
+        "Honig-Zitronen-Aufguss",
+        "Leuchtkasten",
+        "Entdeckerbox",
+        "Honig-Zitronen-Aufguss",
+        "Leuchtkasten",
+        "Entdeckerbox",
+        "Subscribe to our Newsletter and Get 15% off your first order",
+        "Ursprüngliche Energie"
+      ],
+      "sections": 4,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_de_products_original_energy.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_de_products_original_energy.json"
+    },
+    {
+      "url": "https://zap-main.myshopify.com/de/products/rose-hibiscus",
+      "slug": "zap_main_myshopify_com_de_products_rose_hibiscus",
+      "title": "Rosenhibiskus",
+      "type": "other",
+      "headings": [
+        "Honig-Zitronen-Aufguss",
+        "Leuchtkasten",
+        "Entdeckerbox",
+        "Honig-Zitronen-Aufguss",
+        "Leuchtkasten",
+        "Entdeckerbox",
+        "Subscribe to our Newsletter and Get 15% off your first order",
+        "Rosenhibiskus"
+      ],
+      "sections": 4,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_de_products_rose_hibiscus.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_de_products_rose_hibiscus.json"
+    },
+    {
+      "url": "https://zap-main.myshopify.com/de/products/ginger-boost",
+      "slug": "zap_main_myshopify_com_de_products_ginger_boost",
+      "title": "Ingwer-Boost",
+      "type": "other",
+      "headings": [
+        "Honig-Zitronen-Aufguss",
+        "Leuchtkasten",
+        "Entdeckerbox",
+        "Honig-Zitronen-Aufguss",
+        "Leuchtkasten",
+        "Entdeckerbox",
+        "Subscribe to our Newsletter and Get 15% off your first order",
+        "Ingwer-Boost"
+      ],
+      "sections": 4,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_de_products_ginger_boost.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_de_products_ginger_boost.json"
+    },
+    {
+      "url": "https://zap-main.myshopify.com/de/products/discovery-box",
+      "slug": "zap_main_myshopify_com_de_products_discovery_box",
+      "title": "Entdeckerbox",
+      "type": "other",
+      "headings": [
+        "Honig-Zitronen-Aufguss",
+        "Leuchtkasten",
+        "Entdeckerbox",
+        "Honig-Zitronen-Aufguss",
+        "Leuchtkasten",
+        "Entdeckerbox",
+        "Subscribe to our Newsletter and Get 15% off your first order",
+        "Entdeckerbox"
+      ],
+      "sections": 4,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_de_products_discovery_box.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_de_products_discovery_box.json"
+    },
+    {
+      "url": "https://zap-main.myshopify.com/de/products/light-box",
+      "slug": "zap_main_myshopify_com_de_products_light_box",
+      "title": "Leuchtkasten",
+      "type": "other",
+      "headings": [
+        "Honig-Zitronen-Aufguss",
+        "Leuchtkasten",
+        "Entdeckerbox",
+        "Honig-Zitronen-Aufguss",
+        "Leuchtkasten",
+        "Entdeckerbox",
+        "Subscribe to our Newsletter and Get 15% off your first order",
+        "Leuchtkasten"
+      ],
+      "sections": 4,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_de_products_light_box.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_de_products_light_box.json"
+    },
+    {
+      "url": "https://zap-main.myshopify.com/de/pages/contact",
+      "slug": "zap_main_myshopify_com_de_pages_contact",
+      "title": "Kontakt",
+      "type": "other",
+      "headings": [
+        "Honig-Zitronen-Aufguss",
+        "Leuchtkasten",
+        "Entdeckerbox",
+        "Honig-Zitronen-Aufguss",
+        "Leuchtkasten",
+        "Entdeckerbox",
+        "Subscribe to our Newsletter and Get 15% off your first order",
+        "Kontakte"
+      ],
+      "sections": 3,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_de_pages_contact.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_de_pages_contact.json"
+    },
+    {
+      "url": "https://zap-main.myshopify.com/de/pages/faq",
+      "slug": "zap_main_myshopify_com_de_pages_faq",
+      "title": "Häufig gestellte Fragen",
+      "type": "other",
+      "headings": [
+        "Honig-Zitronen-Aufguss",
+        "Leuchtkasten",
+        "Entdeckerbox",
+        "Honig-Zitronen-Aufguss",
+        "Leuchtkasten",
+        "Entdeckerbox",
+        "Subscribe to our Newsletter and Get 15% off your first order",
+        "Häufig gestellte Fragen"
+      ],
+      "sections": 3,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_de_pages_faq.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_de_pages_faq.json"
+    },
+    {
+      "url": "https://zap-main.myshopify.com/de/pages/our-story",
+      "slug": "zap_main_myshopify_com_de_pages_our_story",
+      "title": "Unsere Geschichte",
+      "type": "other",
+      "headings": [
+        "Honig-Zitronen-Aufguss",
+        "Leuchtkasten",
+        "Entdeckerbox",
+        "Honig-Zitronen-Aufguss",
+        "Leuchtkasten",
+        "Entdeckerbox",
+        "Subscribe to our Newsletter and Get 15% off your first order",
+        "Wir sind hier, um Bleibendes zu schaffen"
+      ],
+      "sections": 5,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_de_pages_our_story.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_de_pages_our_story.json"
+    },
+    {
+      "url": "https://zap-main.myshopify.com/de/pages/data-sharing-opt-out",
+      "slug": "zap_main_myshopify_com_de_pages_data_sharing_opt_out",
+      "title": "Ihre Datenschutzeinstellungen",
+      "type": "other",
+      "headings": [
+        "Honig-Zitronen-Aufguss",
+        "Leuchtkasten",
+        "Entdeckerbox",
+        "Honig-Zitronen-Aufguss",
+        "Leuchtkasten",
+        "Entdeckerbox",
+        "Subscribe to our Newsletter and Get 15% off your first order",
+        "Ihre Datenschutzeinstellungen"
+      ],
+      "sections": 3,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_de_pages_data_sharing_opt_out.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_de_pages_data_sharing_opt_out.json"
+    },
+    {
+      "url": "https://zap-main.myshopify.com/de/pages/honey-lemon-infusion-popup-content",
+      "slug": "zap_main_myshopify_com_de_pages_honey_lemon_infusion_popup_content",
+      "title": "Popup-Inhalt mit Honig-Zitronen-Aufguss",
+      "type": "other",
+      "headings": [
+        "Honig-Zitronen-Aufguss",
+        "Leuchtkasten",
+        "Entdeckerbox",
+        "Honig-Zitronen-Aufguss",
+        "Leuchtkasten",
+        "Entdeckerbox",
+        "Subscribe to our Newsletter and Get 15% off your first order",
+        "Popup-Inhalt mit Honig-Zitronen-Aufguss"
+      ],
+      "sections": 3,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_de_pages_honey_lemon_infusion_popup_content.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_de_pages_honey_lemon_infusion_popup_content.json"
+    },
+    {
+      "url": "https://zap-main.myshopify.com/de/pages/before-after",
+      "slug": "zap_main_myshopify_com_de_pages_before_after",
+      "title": "Before/After",
+      "type": "other",
+      "headings": [
+        "Honig-Zitronen-Aufguss",
+        "Leuchtkasten",
+        "Entdeckerbox",
+        "Honig-Zitronen-Aufguss",
+        "Leuchtkasten",
+        "Entdeckerbox",
+        "Subscribe to our Newsletter and Get 15% off your first order",
+        "Before/After"
+      ],
+      "sections": 5,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_de_pages_before_after.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_de_pages_before_after.json"
+    },
+    {
+      "url": "https://zap-main.myshopify.com/de/pages/benefits",
+      "slug": "zap_main_myshopify_com_de_pages_benefits",
+      "title": "Benefits",
+      "type": "other",
+      "headings": [
+        "Honig-Zitronen-Aufguss",
+        "Leuchtkasten",
+        "Entdeckerbox",
+        "Honig-Zitronen-Aufguss",
+        "Leuchtkasten",
+        "Entdeckerbox",
+        "Subscribe to our Newsletter and Get 15% off your first order",
+        "Benefits"
+      ],
+      "sections": 3,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_de_pages_benefits.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_de_pages_benefits.json"
+    },
+    {
+      "url": "https://zap-main.myshopify.com/de/pages/countdown",
+      "slug": "zap_main_myshopify_com_de_pages_countdown",
+      "title": "Countdown",
+      "type": "other",
+      "headings": [
+        "Honig-Zitronen-Aufguss",
+        "Leuchtkasten",
+        "Entdeckerbox",
+        "Honig-Zitronen-Aufguss",
+        "Leuchtkasten",
+        "Entdeckerbox",
+        "Subscribe to our Newsletter and Get 15% off your first order",
+        "Countdown"
+      ],
+      "sections": 4,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_de_pages_countdown.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_de_pages_countdown.json"
+    },
+    {
+      "url": "https://zap-main.myshopify.com/de/pages/contact-form",
+      "slug": "zap_main_myshopify_com_de_pages_contact_form",
+      "title": "Contact form",
+      "type": "other",
+      "headings": [
+        "Honig-Zitronen-Aufguss",
+        "Leuchtkasten",
+        "Entdeckerbox",
+        "Honig-Zitronen-Aufguss",
+        "Leuchtkasten",
+        "Entdeckerbox",
+        "Subscribe to our Newsletter and Get 15% off your first order",
+        "Contact form"
+      ],
+      "sections": 3,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_de_pages_contact_form.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_de_pages_contact_form.json"
+    },
+    {
+      "url": "https://zap-main.myshopify.com/de/pages/collections",
+      "slug": "zap_main_myshopify_com_de_pages_collections",
+      "title": "Collections",
+      "type": "other",
+      "headings": [
+        "Honig-Zitronen-Aufguss",
+        "Leuchtkasten",
+        "Entdeckerbox",
+        "Honig-Zitronen-Aufguss",
+        "Leuchtkasten",
+        "Entdeckerbox",
+        "Subscribe to our Newsletter and Get 15% off your first order",
+        "Collections"
+      ],
+      "sections": 3,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_de_pages_collections.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_de_pages_collections.json"
+    },
+    {
+      "url": "https://zap-main.myshopify.com/de/pages/card-grid",
+      "slug": "zap_main_myshopify_com_de_pages_card_grid",
+      "title": "Card grid",
+      "type": "other",
+      "headings": [
+        "Honig-Zitronen-Aufguss",
+        "Leuchtkasten",
+        "Entdeckerbox",
+        "Honig-Zitronen-Aufguss",
+        "Leuchtkasten",
+        "Entdeckerbox",
+        "Subscribe to our Newsletter and Get 15% off your first order",
+        "Card grid"
+      ],
+      "sections": 3,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_de_pages_card_grid.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_de_pages_card_grid.json"
+    },
+    {
+      "url": "https://zap-main.myshopify.com/de/pages/collapsible-content",
+      "slug": "zap_main_myshopify_com_de_pages_collapsible_content",
+      "title": "Collapsible content",
+      "type": "other",
+      "headings": [
+        "Honig-Zitronen-Aufguss",
+        "Leuchtkasten",
+        "Entdeckerbox",
+        "Honig-Zitronen-Aufguss",
+        "Leuchtkasten",
+        "Entdeckerbox",
+        "Subscribe to our Newsletter and Get 15% off your first order",
+        "Collapsible content"
+      ],
+      "sections": 3,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_de_pages_collapsible_content.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_de_pages_collapsible_content.json"
+    },
+    {
+      "url": "https://zap-main.myshopify.com/de/pages/featured-product",
+      "slug": "zap_main_myshopify_com_de_pages_featured_product",
+      "title": "Featured product",
+      "type": "other",
+      "headings": [
+        "Honig-Zitronen-Aufguss",
+        "Leuchtkasten",
+        "Entdeckerbox",
+        "Honig-Zitronen-Aufguss",
+        "Leuchtkasten",
+        "Entdeckerbox",
+        "Subscribe to our Newsletter and Get 15% off your first order",
+        "Featured product"
+      ],
+      "sections": 3,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_de_pages_featured_product.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_de_pages_featured_product.json"
+    },
+    {
+      "url": "https://zap-main.myshopify.com/de/pages/featured-products",
+      "slug": "zap_main_myshopify_com_de_pages_featured_products",
+      "title": "Featured products",
+      "type": "other",
+      "headings": [
+        "Honig-Zitronen-Aufguss",
+        "Leuchtkasten",
+        "Entdeckerbox",
+        "Honig-Zitronen-Aufguss",
+        "Leuchtkasten",
+        "Entdeckerbox",
+        "Subscribe to our Newsletter and Get 15% off your first order",
+        "Featured products"
+      ],
+      "sections": 3,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_de_pages_featured_products.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_de_pages_featured_products.json"
+    },
+    {
+      "url": "https://zap-main.myshopify.com/de/pages/features-table",
+      "slug": "zap_main_myshopify_com_de_pages_features_table",
+      "title": "Features table",
+      "type": "other",
+      "headings": [
+        "Honig-Zitronen-Aufguss",
+        "Leuchtkasten",
+        "Entdeckerbox",
+        "Honig-Zitronen-Aufguss",
+        "Leuchtkasten",
+        "Entdeckerbox",
+        "Subscribe to our Newsletter and Get 15% off your first order",
+        "Features table"
+      ],
+      "sections": 2,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_de_pages_features_table.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_de_pages_features_table.json"
+    },
+    {
+      "url": "https://zap-main.myshopify.com/de/pages/featured-blog",
+      "slug": "zap_main_myshopify_com_de_pages_featured_blog",
+      "title": "Featured blog",
+      "type": "other",
+      "headings": [
+        "Honig-Zitronen-Aufguss",
+        "Leuchtkasten",
+        "Entdeckerbox",
+        "Honig-Zitronen-Aufguss",
+        "Leuchtkasten",
+        "Entdeckerbox",
+        "Subscribe to our Newsletter and Get 15% off your first order",
+        "Featured blog"
+      ],
+      "sections": 4,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_de_pages_featured_blog.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_de_pages_featured_blog.json"
+    },
+    {
+      "url": "https://zap-main.myshopify.com/de/pages/hero",
+      "slug": "zap_main_myshopify_com_de_pages_hero",
+      "title": "Hero",
+      "type": "other",
+      "headings": [
+        "Honig-Zitronen-Aufguss",
+        "Leuchtkasten",
+        "Entdeckerbox",
+        "Honig-Zitronen-Aufguss",
+        "Leuchtkasten",
+        "Entdeckerbox",
+        "Subscribe to our Newsletter and Get 15% off your first order",
+        "Hero"
+      ],
+      "sections": 3,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_de_pages_hero.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_de_pages_hero.json"
+    },
+    {
+      "url": "https://zap-main.myshopify.com/de/pages/hero-split",
+      "slug": "zap_main_myshopify_com_de_pages_hero_split",
+      "title": "Hero split",
+      "type": "other",
+      "headings": [
+        "Honig-Zitronen-Aufguss",
+        "Leuchtkasten",
+        "Entdeckerbox",
+        "Honig-Zitronen-Aufguss",
+        "Leuchtkasten",
+        "Entdeckerbox",
+        "Subscribe to our Newsletter and Get 15% off your first order",
+        "Hero split"
+      ],
+      "sections": 4,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_de_pages_hero_split.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_de_pages_hero_split.json"
+    },
+    {
+      "url": "https://zap-main.myshopify.com/de/pages/image-carousel",
+      "slug": "zap_main_myshopify_com_de_pages_image_carousel",
+      "title": "Image carousel",
+      "type": "other",
+      "headings": [
+        "Honig-Zitronen-Aufguss",
+        "Leuchtkasten",
+        "Entdeckerbox",
+        "Honig-Zitronen-Aufguss",
+        "Leuchtkasten",
+        "Entdeckerbox",
+        "Subscribe to our Newsletter and Get 15% off your first order",
+        "Image carousel"
+      ],
+      "sections": 3,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_de_pages_image_carousel.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_de_pages_image_carousel.json"
+    },
+    {
+      "url": "https://zap-main.myshopify.com/de/pages/image-collage",
+      "slug": "zap_main_myshopify_com_de_pages_image_collage",
+      "title": "Image collage",
+      "type": "other",
+      "headings": [
+        "Honig-Zitronen-Aufguss",
+        "Leuchtkasten",
+        "Entdeckerbox",
+        "Honig-Zitronen-Aufguss",
+        "Leuchtkasten",
+        "Entdeckerbox",
+        "Subscribe to our Newsletter and Get 15% off your first order",
+        "Image collage"
+      ],
+      "sections": 3,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_de_pages_image_collage.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_de_pages_image_collage.json"
+    },
+    {
+      "url": "https://zap-main.myshopify.com/de/pages/image-parallax-with-text",
+      "slug": "zap_main_myshopify_com_de_pages_image_parallax_with_text",
+      "title": "Image parallax with text",
+      "type": "other",
+      "headings": [
+        "Honig-Zitronen-Aufguss",
+        "Leuchtkasten",
+        "Entdeckerbox",
+        "Honig-Zitronen-Aufguss",
+        "Leuchtkasten",
+        "Entdeckerbox",
+        "Subscribe to our Newsletter and Get 15% off your first order",
+        "Image parallax with text"
+      ],
+      "sections": 3,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_de_pages_image_parallax_with_text.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_de_pages_image_parallax_with_text.json"
+    },
+    {
+      "url": "https://zap-main.myshopify.com/de/pages/image-with-text",
+      "slug": "zap_main_myshopify_com_de_pages_image_with_text",
+      "title": "Image with text",
+      "type": "other",
+      "headings": [
+        "Honig-Zitronen-Aufguss",
+        "Leuchtkasten",
+        "Entdeckerbox",
+        "Honig-Zitronen-Aufguss",
+        "Leuchtkasten",
+        "Entdeckerbox",
+        "Subscribe to our Newsletter and Get 15% off your first order",
+        "Image with text"
+      ],
+      "sections": 5,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_de_pages_image_with_text.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_de_pages_image_with_text.json"
+    },
+    {
+      "url": "https://zap-main.myshopify.com/de/pages/logo-list",
+      "slug": "zap_main_myshopify_com_de_pages_logo_list",
+      "title": "Logo list",
+      "type": "other",
+      "headings": [
+        "Honig-Zitronen-Aufguss",
+        "Leuchtkasten",
+        "Entdeckerbox",
+        "Honig-Zitronen-Aufguss",
+        "Leuchtkasten",
+        "Entdeckerbox",
+        "Subscribe to our Newsletter and Get 15% off your first order",
+        "Logo list"
+      ],
+      "sections": 3,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_de_pages_logo_list.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_de_pages_logo_list.json"
+    },
+    {
+      "url": "https://zap-main.myshopify.com/de/pages/media-slider-banner",
+      "slug": "zap_main_myshopify_com_de_pages_media_slider_banner",
+      "title": "Media slider banner",
+      "type": "other",
+      "headings": [
+        "Honig-Zitronen-Aufguss",
+        "Leuchtkasten",
+        "Entdeckerbox",
+        "Honig-Zitronen-Aufguss",
+        "Leuchtkasten",
+        "Entdeckerbox",
+        "Subscribe to our Newsletter and Get 15% off your first order",
+        "Media slider banner"
+      ],
+      "sections": 4,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_de_pages_media_slider_banner.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_de_pages_media_slider_banner.json"
+    },
+    {
+      "url": "https://zap-main.myshopify.com/de/pages/multicolumn",
+      "slug": "zap_main_myshopify_com_de_pages_multicolumn",
+      "title": "Multicolumn",
+      "type": "other",
+      "headings": [
+        "Honig-Zitronen-Aufguss",
+        "Leuchtkasten",
+        "Entdeckerbox",
+        "Honig-Zitronen-Aufguss",
+        "Leuchtkasten",
+        "Entdeckerbox",
+        "Subscribe to our Newsletter and Get 15% off your first order",
+        "Multicolumn"
+      ],
+      "sections": 3,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_de_pages_multicolumn.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_de_pages_multicolumn.json"
+    },
+    {
+      "url": "https://zap-main.myshopify.com/de/pages/newsletter",
+      "slug": "zap_main_myshopify_com_de_pages_newsletter",
+      "title": "Newsletter",
+      "type": "other",
+      "headings": [
+        "Honig-Zitronen-Aufguss",
+        "Leuchtkasten",
+        "Entdeckerbox",
+        "Honig-Zitronen-Aufguss",
+        "Leuchtkasten",
+        "Entdeckerbox",
+        "Subscribe to our Newsletter and Get 15% off your first order",
+        "Newsletter"
+      ],
+      "sections": 4,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_de_pages_newsletter.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_de_pages_newsletter.json"
+    },
+    {
+      "url": "https://zap-main.myshopify.com/de/pages/popular-products",
+      "slug": "zap_main_myshopify_com_de_pages_popular_products",
+      "title": "Popular products",
+      "type": "other",
+      "headings": [
+        "Honig-Zitronen-Aufguss",
+        "Leuchtkasten",
+        "Entdeckerbox",
+        "Honig-Zitronen-Aufguss",
+        "Leuchtkasten",
+        "Entdeckerbox",
+        "Subscribe to our Newsletter and Get 15% off your first order",
+        "Popular products"
+      ],
+      "sections": 4,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_de_pages_popular_products.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_de_pages_popular_products.json"
+    },
+    {
+      "url": "https://zap-main.myshopify.com/de/pages/product-markers",
+      "slug": "zap_main_myshopify_com_de_pages_product_markers",
+      "title": "Product markers",
+      "type": "other",
+      "headings": [
+        "Honig-Zitronen-Aufguss",
+        "Leuchtkasten",
+        "Entdeckerbox",
+        "Honig-Zitronen-Aufguss",
+        "Leuchtkasten",
+        "Entdeckerbox",
+        "Subscribe to our Newsletter and Get 15% off your first order",
+        "Product markers"
+      ],
+      "sections": 3,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_de_pages_product_markers.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_de_pages_product_markers.json"
+    },
+    {
+      "url": "https://zap-main.myshopify.com/de/pages/products-grid",
+      "slug": "zap_main_myshopify_com_de_pages_products_grid",
+      "title": "Products grid",
+      "type": "other",
+      "headings": [
+        "Honig-Zitronen-Aufguss",
+        "Leuchtkasten",
+        "Entdeckerbox",
+        "Honig-Zitronen-Aufguss",
+        "Leuchtkasten",
+        "Entdeckerbox",
+        "Subscribe to our Newsletter and Get 15% off your first order",
+        "Products grid"
+      ],
+      "sections": 3,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_de_pages_products_grid.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_de_pages_products_grid.json"
+    },
+    {
+      "url": "https://zap-main.myshopify.com/de/pages/rich-text",
+      "slug": "zap_main_myshopify_com_de_pages_rich_text",
+      "title": "Rich text",
+      "type": "other",
+      "headings": [
+        "Honig-Zitronen-Aufguss",
+        "Leuchtkasten",
+        "Entdeckerbox",
+        "Honig-Zitronen-Aufguss",
+        "Leuchtkasten",
+        "Entdeckerbox",
+        "Subscribe to our Newsletter and Get 15% off your first order",
+        "Rich text"
+      ],
+      "sections": 2,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_de_pages_rich_text.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_de_pages_rich_text.json"
+    },
+    {
+      "url": "https://zap-main.myshopify.com/de/pages/slideshow",
+      "slug": "zap_main_myshopify_com_de_pages_slideshow",
+      "title": "Slideshow",
+      "type": "other",
+      "headings": [
+        "Honig-Zitronen-Aufguss",
+        "Leuchtkasten",
+        "Entdeckerbox",
+        "Honig-Zitronen-Aufguss",
+        "Leuchtkasten",
+        "Entdeckerbox",
+        "Subscribe to our Newsletter and Get 15% off your first order",
+        "Slideshow"
+      ],
+      "sections": 3,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_de_pages_slideshow.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_de_pages_slideshow.json"
+    },
+    {
+      "url": "https://zap-main.myshopify.com/de/pages/social-feed",
+      "slug": "zap_main_myshopify_com_de_pages_social_feed",
+      "title": "Social feed",
+      "type": "other",
+      "headings": [
+        "Honig-Zitronen-Aufguss",
+        "Leuchtkasten",
+        "Entdeckerbox",
+        "Honig-Zitronen-Aufguss",
+        "Leuchtkasten",
+        "Entdeckerbox",
+        "Subscribe to our Newsletter and Get 15% off your first order",
+        "Social feed"
+      ],
+      "sections": 2,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_de_pages_social_feed.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_de_pages_social_feed.json"
+    },
+    {
+      "url": "https://zap-main.myshopify.com/de/pages/social-media",
+      "slug": "zap_main_myshopify_com_de_pages_social_media",
+      "title": "Social media",
+      "type": "other",
+      "headings": [
+        "Honig-Zitronen-Aufguss",
+        "Leuchtkasten",
+        "Entdeckerbox",
+        "Honig-Zitronen-Aufguss",
+        "Leuchtkasten",
+        "Entdeckerbox",
+        "Subscribe to our Newsletter and Get 15% off your first order",
+        "Social media"
+      ],
+      "sections": 3,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_de_pages_social_media.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_de_pages_social_media.json"
+    },
+    {
+      "url": "https://zap-main.myshopify.com/de/pages/testimonials",
+      "slug": "zap_main_myshopify_com_de_pages_testimonials",
+      "title": "Testimonials",
+      "type": "other",
+      "headings": [
+        "Honig-Zitronen-Aufguss",
+        "Leuchtkasten",
+        "Entdeckerbox",
+        "Honig-Zitronen-Aufguss",
+        "Leuchtkasten",
+        "Entdeckerbox",
+        "Subscribe to our Newsletter and Get 15% off your first order",
+        "Testimonials"
+      ],
+      "sections": 3,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_de_pages_testimonials.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_de_pages_testimonials.json"
+    },
+    {
+      "url": "https://zap-main.myshopify.com/de/pages/ticker",
+      "slug": "zap_main_myshopify_com_de_pages_ticker",
+      "title": "Ticker",
+      "type": "other",
+      "headings": [
+        "Honig-Zitronen-Aufguss",
+        "Leuchtkasten",
+        "Entdeckerbox",
+        "Honig-Zitronen-Aufguss",
+        "Leuchtkasten",
+        "Entdeckerbox",
+        "Subscribe to our Newsletter and Get 15% off your first order",
+        "Ticker"
+      ],
+      "sections": 4,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_de_pages_ticker.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_de_pages_ticker.json"
+    },
+    {
+      "url": "https://zap-main.myshopify.com/de/collections/frontpage",
+      "slug": "zap_main_myshopify_com_de_collections_frontpage",
+      "title": "Cold Brew",
+      "type": "other",
+      "headings": [
+        "Honig-Zitronen-Aufguss",
+        "Leuchtkasten",
+        "Entdeckerbox",
+        "Honig-Zitronen-Aufguss",
+        "Leuchtkasten",
+        "Entdeckerbox",
+        "Subscribe to our Newsletter and Get 15% off your first order",
+        "Kollektion: Cold Brew"
+      ],
+      "sections": 4,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_de_collections_frontpage.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_de_collections_frontpage.json"
+    },
+    {
+      "url": "https://zap-main.myshopify.com/de/collections/sets",
+      "slug": "zap_main_myshopify_com_de_collections_sets",
+      "title": "Sets",
+      "type": "other",
+      "headings": [
+        "Honig-Zitronen-Aufguss",
+        "Leuchtkasten",
+        "Entdeckerbox",
+        "Honig-Zitronen-Aufguss",
+        "Leuchtkasten",
+        "Entdeckerbox",
+        "Subscribe to our Newsletter and Get 15% off your first order",
+        "Kollektion: Sets"
+      ],
+      "sections": 4,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_de_collections_sets.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_de_collections_sets.json"
+    },
+    {
+      "url": "https://zap-main.myshopify.com/de/blogs/news",
+      "slug": "zap_main_myshopify_com_de_blogs_news",
+      "title": "Nachricht",
+      "type": "other",
+      "headings": [
+        "Honig-Zitronen-Aufguss",
+        "Leuchtkasten",
+        "Entdeckerbox",
+        "Honig-Zitronen-Aufguss",
+        "Leuchtkasten",
+        "Entdeckerbox",
+        "Subscribe to our Newsletter and Get 15% off your first order",
+        "NEUESTE NACHRICHTEN"
+      ],
+      "sections": 3,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_de_blogs_news.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_de_blogs_news.json"
+    },
+    {
+      "url": "https://zap-main.myshopify.com/de/blogs/news/waterlemon-the-taste-of-summer-in-every-sip",
+      "slug": "zap_main_myshopify_com_de_blogs_news_waterlemon_the_taste_of_summer_in_every_sip",
+      "title": "Wasserzitrone: Der Geschmack des Sommers in jedem Schluck",
+      "type": "other",
+      "headings": [
+        "Honig-Zitronen-Aufguss",
+        "Leuchtkasten",
+        "Entdeckerbox",
+        "Honig-Zitronen-Aufguss",
+        "Leuchtkasten",
+        "Entdeckerbox",
+        "Subscribe to our Newsletter and Get 15% off your first order",
+        "Wasserzitrone: Der Geschmack des Sommers in jedem Schluck"
+      ],
+      "sections": 3,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_de_blogs_news_waterlemon_the_taste_of_summer_in_every_sip.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_de_blogs_news_waterlemon_the_taste_of_summer_in_every_sip.json"
+    },
+    {
+      "url": "https://zap-main.myshopify.com/de/blogs/news/how-mint-lime-became-the-ultimate-cool-down-drink",
+      "slug": "zap_main_myshopify_com_de_blogs_news_how_mint_lime_became_the_ultimate_cool_down_drink",
+      "title": "Wie Minze &amp; Limette zum ultimativen Erfrischungsgetränk wurde",
+      "type": "other",
+      "headings": [
+        "Honig-Zitronen-Aufguss",
+        "Leuchtkasten",
+        "Entdeckerbox",
+        "Honig-Zitronen-Aufguss",
+        "Leuchtkasten",
+        "Entdeckerbox",
+        "Subscribe to our Newsletter and Get 15% off your first order",
+        "Wie Minze &amp; Limette zum ultimativen Erfrischungsgetränk wurde"
+      ],
+      "sections": 3,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_de_blogs_news_how_mint_lime_became_the_ultimate_cool_down_drink.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_de_blogs_news_how_mint_lime_became_the_ultimate_cool_down_drink.json"
+    },
+    {
+      "url": "https://zap-main.myshopify.com/de/blogs/news/why-passion-is-the-boldest-flavor-in-our-collection",
+      "slug": "zap_main_myshopify_com_de_blogs_news_why_passion_is_the_boldest_flavor_in_our_collection",
+      "title": "Warum Leidenschaft die kräftigste Geschmacksrichtung in unserer Kollek",
+      "type": "other",
+      "headings": [
+        "Honig-Zitronen-Aufguss",
+        "Leuchtkasten",
+        "Entdeckerbox",
+        "Honig-Zitronen-Aufguss",
+        "Leuchtkasten",
+        "Entdeckerbox",
+        "Subscribe to our Newsletter and Get 15% off your first order",
+        "Warum Leidenschaft die kräftigste Geschmacksrichtung in unserer Kollektion ist"
+      ],
+      "sections": 3,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_de_blogs_news_why_passion_is_the_boldest_flavor_in_our_collection.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_de_blogs_news_why_passion_is_the_boldest_flavor_in_our_collection.json"
+    },
+    {
+      "url": "https://zap-main.myshopify.com/de/blogs/news/the-classic-combo-that-never-gets-old",
+      "slug": "zap_main_myshopify_com_de_blogs_news_the_classic_combo_that_never_gets_old",
+      "title": "Die klassische Kombination, die nie aus der Mode kommt",
+      "type": "other",
+      "headings": [
+        "Honig-Zitronen-Aufguss",
+        "Leuchtkasten",
+        "Entdeckerbox",
+        "Honig-Zitronen-Aufguss",
+        "Leuchtkasten",
+        "Entdeckerbox",
+        "Subscribe to our Newsletter and Get 15% off your first order",
+        "Die klassische Kombination, die nie aus der Mode kommt"
+      ],
+      "sections": 3,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_de_blogs_news_the_classic_combo_that_never_gets_old.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_de_blogs_news_the_classic_combo_that_never_gets_old.json"
+    },
+    {
+      "url": "https://zap-main.myshopify.com/de/blogs/news/the-taste-of-summer-the-calm-of-cold-brew",
+      "slug": "zap_main_myshopify_com_de_blogs_news_the_taste_of_summer_the_calm_of_cold_brew",
+      "title": "Der Geschmack des Sommers, die Ruhe des Cold Brews",
+      "type": "other",
+      "headings": [
+        "Honig-Zitronen-Aufguss",
+        "Leuchtkasten",
+        "Entdeckerbox",
+        "Honig-Zitronen-Aufguss",
+        "Leuchtkasten",
+        "Entdeckerbox",
+        "Subscribe to our Newsletter and Get 15% off your first order",
+        "Der Geschmack des Sommers, die Ruhe des Cold Brews"
+      ],
+      "sections": 3,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_de_blogs_news_the_taste_of_summer_the_calm_of_cold_brew.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_de_blogs_news_the_taste_of_summer_the_calm_of_cold_brew.json"
+    },
+    {
+      "url": "https://zap-main.myshopify.com/de/blogs/news/six-ways-to-feel-refreshed-one-signature-brew",
+      "slug": "zap_main_myshopify_com_de_blogs_news_six_ways_to_feel_refreshed_one_signature_brew",
+      "title": "Sechs Wege, sich erfrischt zu fühlen – ein charakteristisches Getränk",
+      "type": "other",
+      "headings": [
+        "Honig-Zitronen-Aufguss",
+        "Leuchtkasten",
+        "Entdeckerbox",
+        "Honig-Zitronen-Aufguss",
+        "Leuchtkasten",
+        "Entdeckerbox",
+        "Subscribe to our Newsletter and Get 15% off your first order",
+        "Sechs Wege, sich erfrischt zu fühlen – ein charakteristisches Getränk"
+      ],
+      "sections": 3,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_de_blogs_news_six_ways_to_feel_refreshed_one_signature_brew.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_de_blogs_news_six_ways_to_feel_refreshed_one_signature_brew.json"
+    },
+    {
+      "url": "https://zap-main.myshopify.com/de/blogs/news/behind-the-bottle-the-story-of-our-original-flavor",
+      "slug": "zap_main_myshopify_com_de_blogs_news_behind_the_bottle_the_story_of_our_original_flavor",
+      "title": "Hinter der Flasche: Die Geschichte unseres Originalgeschmacks",
+      "type": "other",
+      "headings": [
+        "Honig-Zitronen-Aufguss",
+        "Leuchtkasten",
+        "Entdeckerbox",
+        "Honig-Zitronen-Aufguss",
+        "Leuchtkasten",
+        "Entdeckerbox",
+        "Subscribe to our Newsletter and Get 15% off your first order",
+        "Hinter der Flasche: Die Geschichte unseres Originalgeschmacks"
+      ],
+      "sections": 3,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_de_blogs_news_behind_the_bottle_the_story_of_our_original_flavor.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_de_blogs_news_behind_the_bottle_the_story_of_our_original_flavor.json"
+    },
+    {
+      "url": "https://zap-main.myshopify.com/de/blogs/news/chill-out-with-mint-lime-or-warm-up-with-ginger",
+      "slug": "zap_main_myshopify_com_de_blogs_news_chill_out_with_mint_lime_or_warm_up_with_ginger",
+      "title": "Entspannen Sie sich mit Minze &amp; Limette oder wärmen Sie sich mit I",
+      "type": "other",
+      "headings": [
+        "Honig-Zitronen-Aufguss",
+        "Leuchtkasten",
+        "Entdeckerbox",
+        "Honig-Zitronen-Aufguss",
+        "Leuchtkasten",
+        "Entdeckerbox",
+        "Subscribe to our Newsletter and Get 15% off your first order",
+        "Entspannen Sie sich mit Minze &amp; Limette oder wärmen Sie sich mit Ingwer auf."
+      ],
+      "sections": 3,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_de_blogs_news_chill_out_with_mint_lime_or_warm_up_with_ginger.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_de_blogs_news_chill_out_with_mint_lime_or_warm_up_with_ginger.json"
+    },
+    {
+      "url": "https://zap-main.myshopify.com/de/blogs/news/summer-starts-with-waterlemon-cold-brew",
+      "slug": "zap_main_myshopify_com_de_blogs_news_summer_starts_with_waterlemon_cold_brew",
+      "title": "Der Sommer beginnt mit Waterlemon Cold Brew",
+      "type": "other",
+      "headings": [
+        "Honig-Zitronen-Aufguss",
+        "Leuchtkasten",
+        "Entdeckerbox",
+        "Honig-Zitronen-Aufguss",
+        "Leuchtkasten",
+        "Entdeckerbox",
+        "Subscribe to our Newsletter and Get 15% off your first order",
+        "Der Sommer beginnt mit Waterlemon Cold Brew"
+      ],
+      "sections": 3,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_de_blogs_news_summer_starts_with_waterlemon_cold_brew.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_de_blogs_news_summer_starts_with_waterlemon_cold_brew.json"
+    },
+    {
+      "url": "https://zap-main.myshopify.com/de/blogs/news/citrus-cold-brew-bright-bold-refreshing",
+      "slug": "zap_main_myshopify_com_de_blogs_news_citrus_cold_brew_bright_bold_refreshing",
+      "title": "Citrus Cold Brew: Spritzig, kräftig, erfrischend",
+      "type": "other",
+      "headings": [
+        "Honig-Zitronen-Aufguss",
+        "Leuchtkasten",
+        "Entdeckerbox",
+        "Honig-Zitronen-Aufguss",
+        "Leuchtkasten",
+        "Entdeckerbox",
+        "Subscribe to our Newsletter and Get 15% off your first order",
+        "Citrus Cold Brew: Spritzig, kräftig, erfrischend"
+      ],
+      "sections": 3,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_de_blogs_news_citrus_cold_brew_bright_bold_refreshing.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_de_blogs_news_citrus_cold_brew_bright_bold_refreshing.json"
+    },
+    {
+      "url": "https://zap-main.myshopify.com/de/blogs/news/tropical-vibes-in-every-smooth-sip",
+      "slug": "zap_main_myshopify_com_de_blogs_news_tropical_vibes_in_every_smooth_sip",
+      "title": "Tropisches Flair in jedem sanften Schluck",
+      "type": "other",
+      "headings": [
+        "Honig-Zitronen-Aufguss",
+        "Leuchtkasten",
+        "Entdeckerbox",
+        "Honig-Zitronen-Aufguss",
+        "Leuchtkasten",
+        "Entdeckerbox",
+        "Subscribe to our Newsletter and Get 15% off your first order",
+        "Tropisches Flair in jedem sanften Schluck"
+      ],
+      "sections": 3,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_de_blogs_news_tropical_vibes_in_every_smooth_sip.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_de_blogs_news_tropical_vibes_in_every_smooth_sip.json"
+    },
+    {
+      "url": "https://zap-main.myshopify.com/de/blogs/news/the-citrus-twist-your-coffee-needed",
+      "slug": "zap_main_myshopify_com_de_blogs_news_the_citrus_twist_your_coffee_needed",
+      "title": "Der Zitrus-Twist, den Ihr Kaffee brauchte",
+      "type": "other",
+      "headings": [
+        "Honig-Zitronen-Aufguss",
+        "Leuchtkasten",
+        "Entdeckerbox",
+        "Honig-Zitronen-Aufguss",
+        "Leuchtkasten",
+        "Entdeckerbox",
+        "Subscribe to our Newsletter and Get 15% off your first order",
+        "Der Zitrus-Twist, den Ihr Kaffee brauchte"
+      ],
+      "sections": 3,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_de_blogs_news_the_citrus_twist_your_coffee_needed.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_de_blogs_news_the_citrus_twist_your_coffee_needed.json"
+    },
+    {
+      "url": "https://zap-main.myshopify.com/de/blogs/news/taste-the-tropics-passion-fruit-cold-brew",
+      "slug": "zap_main_myshopify_com_de_blogs_news_taste_the_tropics_passion_fruit_cold_brew",
+      "title": "Taste the Tropics — Passionsfrucht-Cold-Brew",
+      "type": "other",
+      "headings": [
+        "Honig-Zitronen-Aufguss",
+        "Leuchtkasten",
+        "Entdeckerbox",
+        "Honig-Zitronen-Aufguss",
+        "Leuchtkasten",
+        "Entdeckerbox",
+        "Subscribe to our Newsletter and Get 15% off your first order",
+        "Taste the Tropics — Passionsfrucht-Cold-Brew"
+      ],
+      "sections": 3,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_de_blogs_news_taste_the_tropics_passion_fruit_cold_brew.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_de_blogs_news_taste_the_tropics_passion_fruit_cold_brew.json"
+    },
+    {
+      "url": "https://zap-main.myshopify.com/de/blogs/news/mint-lime-the-ultimate-cold-brew-upgrade",
+      "slug": "zap_main_myshopify_com_de_blogs_news_mint_lime_the_ultimate_cold_brew_upgrade",
+      "title": "Minze &amp; Limette: Das ultimative Cold-Brew-Upgrade",
+      "type": "other",
+      "headings": [
+        "Honig-Zitronen-Aufguss",
+        "Leuchtkasten",
+        "Entdeckerbox",
+        "Honig-Zitronen-Aufguss",
+        "Leuchtkasten",
+        "Entdeckerbox",
+        "Subscribe to our Newsletter and Get 15% off your first order",
+        "Minze &amp; Limette: Das ultimative Cold-Brew-Upgrade"
+      ],
+      "sections": 3,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_de_blogs_news_mint_lime_the_ultimate_cold_brew_upgrade.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_de_blogs_news_mint_lime_the_ultimate_cold_brew_upgrade.json"
+    },
+    {
+      "url": "https://zap-main.myshopify.com/de/blogs/news/the-citrus-cold-brew-you-didn-t-know-you-needed",
+      "slug": "zap_main_myshopify_com_de_blogs_news_the_citrus_cold_brew_you_didn_t_know_you_needed",
+      "title": "Der Zitrus-Cold-Brew, von dem du nicht wusstest, dass du ihn brauchst",
+      "type": "other",
+      "headings": [
+        "Honig-Zitronen-Aufguss",
+        "Leuchtkasten",
+        "Entdeckerbox",
+        "Honig-Zitronen-Aufguss",
+        "Leuchtkasten",
+        "Entdeckerbox",
+        "Subscribe to our Newsletter and Get 15% off your first order",
+        "Der Zitrus-Cold-Brew, von dem du nicht wusstest, dass du ihn brauchst"
+      ],
+      "sections": 3,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_de_blogs_news_the_citrus_cold_brew_you_didn_t_know_you_needed.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_de_blogs_news_the_citrus_cold_brew_you_didn_t_know_you_needed.json"
+    },
+    {
+      "url": "https://zap-main.myshopify.com/de/blogs/news/cold-brew-reimagined-with-roses-and-hibiscus",
+      "slug": "zap_main_myshopify_com_de_blogs_news_cold_brew_reimagined_with_roses_and_hibiscus",
+      "title": "Cold Brew neu interpretiert mit Rosen und Hibiskus",
+      "type": "other",
+      "headings": [
+        "Honig-Zitronen-Aufguss",
+        "Leuchtkasten",
+        "Entdeckerbox",
+        "Honig-Zitronen-Aufguss",
+        "Leuchtkasten",
+        "Entdeckerbox",
+        "Subscribe to our Newsletter and Get 15% off your first order",
+        "Cold Brew neu interpretiert mit Rosen und Hibiskus"
+      ],
+      "sections": 3,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_de_blogs_news_cold_brew_reimagined_with_roses_and_hibiscus.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_de_blogs_news_cold_brew_reimagined_with_roses_and_hibiscus.json"
+    },
+    {
+      "url": "https://zap-main.myshopify.com/es",
+      "slug": "zap_main_myshopify_com_es",
+      "title": "Zap",
+      "type": "other",
+      "headings": [
+        "Infusión de miel y limón",
+        "Caja de luz",
+        "Caja de descubrimiento",
+        "Infusión de miel y limón",
+        "Caja de luz",
+        "Caja de descubrimiento",
+        "Subscribe to our Newsletter and Get 15% off your first order",
+        "SÚPERFRÍO"
+      ],
+      "sections": 9,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_es.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_es.json"
+    },
+    {
+      "url": "https://zap-main.myshopify.com/es/products/honey-lemon-infusion",
+      "slug": "zap_main_myshopify_com_es_products_honey_lemon_infusion",
+      "title": "Infusión de miel y limón",
+      "type": "other",
+      "headings": [
+        "Infusión de miel y limón",
+        "Caja de luz",
+        "Caja de descubrimiento",
+        "Infusión de miel y limón",
+        "Caja de luz",
+        "Caja de descubrimiento",
+        "Subscribe to our Newsletter and Get 15% off your first order",
+        "Infusión de miel y limón"
+      ],
+      "sections": 9,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_es_products_honey_lemon_infusion.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_es_products_honey_lemon_infusion.json"
+    },
+    {
+      "url": "https://zap-main.myshopify.com/es/products/mint-lime-refresher",
+      "slug": "zap_main_myshopify_com_es_products_mint_lime_refresher",
+      "title": "Refrescante de menta y lima",
+      "type": "other",
+      "headings": [
+        "Infusión de miel y limón",
+        "Caja de luz",
+        "Caja de descubrimiento",
+        "Infusión de miel y limón",
+        "Caja de luz",
+        "Caja de descubrimiento",
+        "Subscribe to our Newsletter and Get 15% off your first order",
+        "Refrescante de menta y lima"
+      ],
+      "sections": 4,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_es_products_mint_lime_refresher.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_es_products_mint_lime_refresher.json"
+    },
+    {
+      "url": "https://zap-main.myshopify.com/es/products/passion-cooler",
+      "slug": "zap_main_myshopify_com_es_products_passion_cooler",
+      "title": "Enfriador de pasión",
+      "type": "other",
+      "headings": [
+        "Infusión de miel y limón",
+        "Caja de luz",
+        "Caja de descubrimiento",
+        "Infusión de miel y limón",
+        "Caja de luz",
+        "Caja de descubrimiento",
+        "Subscribe to our Newsletter and Get 15% off your first order",
+        "Enfriador de pasión"
+      ],
+      "sections": 4,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_es_products_passion_cooler.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_es_products_passion_cooler.json"
+    },
+    {
+      "url": "https://zap-main.myshopify.com/es/products/original-energy",
+      "slug": "zap_main_myshopify_com_es_products_original_energy",
+      "title": "Energía original",
+      "type": "other",
+      "headings": [
+        "Infusión de miel y limón",
+        "Caja de luz",
+        "Caja de descubrimiento",
+        "Infusión de miel y limón",
+        "Caja de luz",
+        "Caja de descubrimiento",
+        "Subscribe to our Newsletter and Get 15% off your first order",
+        "Energía original"
+      ],
+      "sections": 4,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_es_products_original_energy.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_es_products_original_energy.json"
+    },
+    {
+      "url": "https://zap-main.myshopify.com/es/products/rose-hibiscus",
+      "slug": "zap_main_myshopify_com_es_products_rose_hibiscus",
+      "title": "Hibisco rosa",
+      "type": "other",
+      "headings": [
+        "Infusión de miel y limón",
+        "Caja de luz",
+        "Caja de descubrimiento",
+        "Infusión de miel y limón",
+        "Caja de luz",
+        "Caja de descubrimiento",
+        "Subscribe to our Newsletter and Get 15% off your first order",
+        "Hibisco rosa"
+      ],
+      "sections": 4,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_es_products_rose_hibiscus.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_es_products_rose_hibiscus.json"
+    },
+    {
+      "url": "https://zap-main.myshopify.com/es/products/ginger-boost",
+      "slug": "zap_main_myshopify_com_es_products_ginger_boost",
+      "title": "Refuerzo de jengibre",
+      "type": "other",
+      "headings": [
+        "Infusión de miel y limón",
+        "Caja de luz",
+        "Caja de descubrimiento",
+        "Infusión de miel y limón",
+        "Caja de luz",
+        "Caja de descubrimiento",
+        "Subscribe to our Newsletter and Get 15% off your first order",
+        "Refuerzo de jengibre"
+      ],
+      "sections": 4,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_es_products_ginger_boost.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_es_products_ginger_boost.json"
+    },
+    {
+      "url": "https://zap-main.myshopify.com/es/products/discovery-box",
+      "slug": "zap_main_myshopify_com_es_products_discovery_box",
+      "title": "Caja de descubrimiento",
+      "type": "other",
+      "headings": [
+        "Infusión de miel y limón",
+        "Caja de luz",
+        "Caja de descubrimiento",
+        "Infusión de miel y limón",
+        "Caja de luz",
+        "Caja de descubrimiento",
+        "Subscribe to our Newsletter and Get 15% off your first order",
+        "Caja de descubrimiento"
+      ],
+      "sections": 4,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_es_products_discovery_box.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_es_products_discovery_box.json"
+    },
+    {
+      "url": "https://zap-main.myshopify.com/es/products/light-box",
+      "slug": "zap_main_myshopify_com_es_products_light_box",
+      "title": "Caja de luz",
+      "type": "other",
+      "headings": [
+        "Infusión de miel y limón",
+        "Caja de luz",
+        "Caja de descubrimiento",
+        "Infusión de miel y limón",
+        "Caja de luz",
+        "Caja de descubrimiento",
+        "Subscribe to our Newsletter and Get 15% off your first order",
+        "Caja de luz"
+      ],
+      "sections": 4,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_es_products_light_box.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_es_products_light_box.json"
+    },
+    {
+      "url": "https://zap-main.myshopify.com/es/pages/contact",
+      "slug": "zap_main_myshopify_com_es_pages_contact",
+      "title": "Contacto",
+      "type": "other",
+      "headings": [
+        "Infusión de miel y limón",
+        "Caja de luz",
+        "Caja de descubrimiento",
+        "Infusión de miel y limón",
+        "Caja de luz",
+        "Caja de descubrimiento",
+        "Subscribe to our Newsletter and Get 15% off your first order",
+        "contactos"
+      ],
+      "sections": 3,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_es_pages_contact.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_es_pages_contact.json"
+    },
+    {
+      "url": "https://zap-main.myshopify.com/es/pages/faq",
+      "slug": "zap_main_myshopify_com_es_pages_faq",
+      "title": "Preguntas frecuentes",
+      "type": "other",
+      "headings": [
+        "Infusión de miel y limón",
+        "Caja de luz",
+        "Caja de descubrimiento",
+        "Infusión de miel y limón",
+        "Caja de luz",
+        "Caja de descubrimiento",
+        "Subscribe to our Newsletter and Get 15% off your first order",
+        "Preguntas frecuentes"
+      ],
+      "sections": 3,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_es_pages_faq.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_es_pages_faq.json"
+    },
+    {
+      "url": "https://zap-main.myshopify.com/es/pages/our-story",
+      "slug": "zap_main_myshopify_com_es_pages_our_story",
+      "title": "Nuestra historia",
+      "type": "other",
+      "headings": [
+        "Infusión de miel y limón",
+        "Caja de luz",
+        "Caja de descubrimiento",
+        "Infusión de miel y limón",
+        "Caja de luz",
+        "Caja de descubrimiento",
+        "Subscribe to our Newsletter and Get 15% off your first order",
+        "ESTAMOS AQUÍ PARA CONSTRUIR ALGO QUE DURE"
+      ],
+      "sections": 5,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_es_pages_our_story.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_es_pages_our_story.json"
+    },
+    {
+      "url": "https://zap-main.myshopify.com/es/pages/data-sharing-opt-out",
+      "slug": "zap_main_myshopify_com_es_pages_data_sharing_opt_out",
+      "title": "Sus opciones de privacidad",
+      "type": "other",
+      "headings": [
+        "Infusión de miel y limón",
+        "Caja de luz",
+        "Caja de descubrimiento",
+        "Infusión de miel y limón",
+        "Caja de luz",
+        "Caja de descubrimiento",
+        "Subscribe to our Newsletter and Get 15% off your first order",
+        "Sus opciones de privacidad"
+      ],
+      "sections": 3,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_es_pages_data_sharing_opt_out.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_es_pages_data_sharing_opt_out.json"
+    },
+    {
+      "url": "https://zap-main.myshopify.com/es/pages/honey-lemon-infusion-popup-content",
+      "slug": "zap_main_myshopify_com_es_pages_honey_lemon_infusion_popup_content",
+      "title": "Contenido emergente de infusión de miel y limón",
+      "type": "other",
+      "headings": [
+        "Infusión de miel y limón",
+        "Caja de luz",
+        "Caja de descubrimiento",
+        "Infusión de miel y limón",
+        "Caja de luz",
+        "Caja de descubrimiento",
+        "Subscribe to our Newsletter and Get 15% off your first order",
+        "Contenido emergente de infusión de miel y limón"
+      ],
+      "sections": 3,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_es_pages_honey_lemon_infusion_popup_content.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_es_pages_honey_lemon_infusion_popup_content.json"
+    },
+    {
+      "url": "https://zap-main.myshopify.com/es/pages/before-after",
+      "slug": "zap_main_myshopify_com_es_pages_before_after",
+      "title": "Before/After",
+      "type": "other",
+      "headings": [
+        "Infusión de miel y limón",
+        "Caja de luz",
+        "Caja de descubrimiento",
+        "Infusión de miel y limón",
+        "Caja de luz",
+        "Caja de descubrimiento",
+        "Subscribe to our Newsletter and Get 15% off your first order",
+        "Before/After"
+      ],
+      "sections": 5,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_es_pages_before_after.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_es_pages_before_after.json"
+    },
+    {
+      "url": "https://zap-main.myshopify.com/es/pages/benefits",
+      "slug": "zap_main_myshopify_com_es_pages_benefits",
+      "title": "Benefits",
+      "type": "other",
+      "headings": [
+        "Infusión de miel y limón",
+        "Caja de luz",
+        "Caja de descubrimiento",
+        "Infusión de miel y limón",
+        "Caja de luz",
+        "Caja de descubrimiento",
+        "Subscribe to our Newsletter and Get 15% off your first order",
+        "Benefits"
+      ],
+      "sections": 3,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_es_pages_benefits.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_es_pages_benefits.json"
+    },
+    {
+      "url": "https://zap-main.myshopify.com/es/pages/countdown",
+      "slug": "zap_main_myshopify_com_es_pages_countdown",
+      "title": "Countdown",
+      "type": "other",
+      "headings": [
+        "Infusión de miel y limón",
+        "Caja de luz",
+        "Caja de descubrimiento",
+        "Infusión de miel y limón",
+        "Caja de luz",
+        "Caja de descubrimiento",
+        "Subscribe to our Newsletter and Get 15% off your first order",
+        "Countdown"
+      ],
+      "sections": 4,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_es_pages_countdown.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_es_pages_countdown.json"
+    },
+    {
+      "url": "https://zap-main.myshopify.com/es/pages/contact-form",
+      "slug": "zap_main_myshopify_com_es_pages_contact_form",
+      "title": "Contact form",
+      "type": "other",
+      "headings": [
+        "Infusión de miel y limón",
+        "Caja de luz",
+        "Caja de descubrimiento",
+        "Infusión de miel y limón",
+        "Caja de luz",
+        "Caja de descubrimiento",
+        "Subscribe to our Newsletter and Get 15% off your first order",
+        "Contact form"
+      ],
+      "sections": 3,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_es_pages_contact_form.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_es_pages_contact_form.json"
+    },
+    {
+      "url": "https://zap-main.myshopify.com/es/pages/collections",
+      "slug": "zap_main_myshopify_com_es_pages_collections",
+      "title": "Collections",
+      "type": "other",
+      "headings": [
+        "Infusión de miel y limón",
+        "Caja de luz",
+        "Caja de descubrimiento",
+        "Infusión de miel y limón",
+        "Caja de luz",
+        "Caja de descubrimiento",
+        "Subscribe to our Newsletter and Get 15% off your first order",
+        "Collections"
+      ],
+      "sections": 3,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_es_pages_collections.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_es_pages_collections.json"
+    },
+    {
+      "url": "https://zap-main.myshopify.com/es/pages/card-grid",
+      "slug": "zap_main_myshopify_com_es_pages_card_grid",
+      "title": "Card grid",
+      "type": "other",
+      "headings": [
+        "Infusión de miel y limón",
+        "Caja de luz",
+        "Caja de descubrimiento",
+        "Infusión de miel y limón",
+        "Caja de luz",
+        "Caja de descubrimiento",
+        "Subscribe to our Newsletter and Get 15% off your first order",
+        "Card grid"
+      ],
+      "sections": 3,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_es_pages_card_grid.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_es_pages_card_grid.json"
+    },
+    {
+      "url": "https://zap-main.myshopify.com/es/pages/collapsible-content",
+      "slug": "zap_main_myshopify_com_es_pages_collapsible_content",
+      "title": "Collapsible content",
+      "type": "other",
+      "headings": [
+        "Infusión de miel y limón",
+        "Caja de luz",
+        "Caja de descubrimiento",
+        "Infusión de miel y limón",
+        "Caja de luz",
+        "Caja de descubrimiento",
+        "Subscribe to our Newsletter and Get 15% off your first order",
+        "Collapsible content"
+      ],
+      "sections": 3,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_es_pages_collapsible_content.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_es_pages_collapsible_content.json"
+    },
+    {
+      "url": "https://zap-main.myshopify.com/es/pages/featured-product",
+      "slug": "zap_main_myshopify_com_es_pages_featured_product",
+      "title": "Featured product",
+      "type": "other",
+      "headings": [
+        "Infusión de miel y limón",
+        "Caja de luz",
+        "Caja de descubrimiento",
+        "Infusión de miel y limón",
+        "Caja de luz",
+        "Caja de descubrimiento",
+        "Subscribe to our Newsletter and Get 15% off your first order",
+        "Featured product"
+      ],
+      "sections": 3,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_es_pages_featured_product.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_es_pages_featured_product.json"
+    },
+    {
+      "url": "https://zap-main.myshopify.com/es/pages/featured-products",
+      "slug": "zap_main_myshopify_com_es_pages_featured_products",
+      "title": "Featured products",
+      "type": "other",
+      "headings": [
+        "Infusión de miel y limón",
+        "Caja de luz",
+        "Caja de descubrimiento",
+        "Infusión de miel y limón",
+        "Caja de luz",
+        "Caja de descubrimiento",
+        "Subscribe to our Newsletter and Get 15% off your first order",
+        "Featured products"
+      ],
+      "sections": 3,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_es_pages_featured_products.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_es_pages_featured_products.json"
+    },
+    {
+      "url": "https://zap-main.myshopify.com/es/pages/features-table",
+      "slug": "zap_main_myshopify_com_es_pages_features_table",
+      "title": "Features table",
+      "type": "other",
+      "headings": [
+        "Infusión de miel y limón",
+        "Caja de luz",
+        "Caja de descubrimiento",
+        "Infusión de miel y limón",
+        "Caja de luz",
+        "Caja de descubrimiento",
+        "Subscribe to our Newsletter and Get 15% off your first order",
+        "Features table"
+      ],
+      "sections": 2,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_es_pages_features_table.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_es_pages_features_table.json"
+    },
+    {
+      "url": "https://zap-main.myshopify.com/es/pages/featured-blog",
+      "slug": "zap_main_myshopify_com_es_pages_featured_blog",
+      "title": "Featured blog",
+      "type": "other",
+      "headings": [
+        "Infusión de miel y limón",
+        "Caja de luz",
+        "Caja de descubrimiento",
+        "Infusión de miel y limón",
+        "Caja de luz",
+        "Caja de descubrimiento",
+        "Subscribe to our Newsletter and Get 15% off your first order",
+        "Featured blog"
+      ],
+      "sections": 4,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_es_pages_featured_blog.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_es_pages_featured_blog.json"
+    },
+    {
+      "url": "https://zap-main.myshopify.com/es/pages/hero",
+      "slug": "zap_main_myshopify_com_es_pages_hero",
+      "title": "Hero",
+      "type": "other",
+      "headings": [
+        "Infusión de miel y limón",
+        "Caja de luz",
+        "Caja de descubrimiento",
+        "Infusión de miel y limón",
+        "Caja de luz",
+        "Caja de descubrimiento",
+        "Subscribe to our Newsletter and Get 15% off your first order",
+        "Hero"
+      ],
+      "sections": 3,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_es_pages_hero.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_es_pages_hero.json"
+    },
+    {
+      "url": "https://zap-main.myshopify.com/es/pages/hero-split",
+      "slug": "zap_main_myshopify_com_es_pages_hero_split",
+      "title": "Hero split",
+      "type": "other",
+      "headings": [
+        "Infusión de miel y limón",
+        "Caja de luz",
+        "Caja de descubrimiento",
+        "Infusión de miel y limón",
+        "Caja de luz",
+        "Caja de descubrimiento",
+        "Subscribe to our Newsletter and Get 15% off your first order",
+        "Hero split"
+      ],
+      "sections": 4,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_es_pages_hero_split.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_es_pages_hero_split.json"
+    },
+    {
+      "url": "https://zap-main.myshopify.com/es/pages/image-carousel",
+      "slug": "zap_main_myshopify_com_es_pages_image_carousel",
+      "title": "Image carousel",
+      "type": "other",
+      "headings": [
+        "Infusión de miel y limón",
+        "Caja de luz",
+        "Caja de descubrimiento",
+        "Infusión de miel y limón",
+        "Caja de luz",
+        "Caja de descubrimiento",
+        "Subscribe to our Newsletter and Get 15% off your first order",
+        "Image carousel"
+      ],
+      "sections": 3,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_es_pages_image_carousel.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_es_pages_image_carousel.json"
+    },
+    {
+      "url": "https://zap-main.myshopify.com/es/pages/image-collage",
+      "slug": "zap_main_myshopify_com_es_pages_image_collage",
+      "title": "Image collage",
+      "type": "other",
+      "headings": [
+        "Infusión de miel y limón",
+        "Caja de luz",
+        "Caja de descubrimiento",
+        "Infusión de miel y limón",
+        "Caja de luz",
+        "Caja de descubrimiento",
+        "Subscribe to our Newsletter and Get 15% off your first order",
+        "Image collage"
+      ],
+      "sections": 3,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_es_pages_image_collage.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_es_pages_image_collage.json"
+    },
+    {
+      "url": "https://zap-main.myshopify.com/es/pages/image-parallax-with-text",
+      "slug": "zap_main_myshopify_com_es_pages_image_parallax_with_text",
+      "title": "Image parallax with text",
+      "type": "other",
+      "headings": [
+        "Infusión de miel y limón",
+        "Caja de luz",
+        "Caja de descubrimiento",
+        "Infusión de miel y limón",
+        "Caja de luz",
+        "Caja de descubrimiento",
+        "Subscribe to our Newsletter and Get 15% off your first order",
+        "Image parallax with text"
+      ],
+      "sections": 3,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_es_pages_image_parallax_with_text.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_es_pages_image_parallax_with_text.json"
+    },
+    {
+      "url": "https://zap-main.myshopify.com/es/pages/image-with-text",
+      "slug": "zap_main_myshopify_com_es_pages_image_with_text",
+      "title": "Image with text",
+      "type": "other",
+      "headings": [
+        "Infusión de miel y limón",
+        "Caja de luz",
+        "Caja de descubrimiento",
+        "Infusión de miel y limón",
+        "Caja de luz",
+        "Caja de descubrimiento",
+        "Subscribe to our Newsletter and Get 15% off your first order",
+        "Image with text"
+      ],
+      "sections": 5,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_es_pages_image_with_text.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_es_pages_image_with_text.json"
+    },
+    {
+      "url": "https://zap-main.myshopify.com/es/pages/logo-list",
+      "slug": "zap_main_myshopify_com_es_pages_logo_list",
+      "title": "Logo list",
+      "type": "other",
+      "headings": [
+        "Infusión de miel y limón",
+        "Caja de luz",
+        "Caja de descubrimiento",
+        "Infusión de miel y limón",
+        "Caja de luz",
+        "Caja de descubrimiento",
+        "Subscribe to our Newsletter and Get 15% off your first order",
+        "Logo list"
+      ],
+      "sections": 3,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_es_pages_logo_list.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_es_pages_logo_list.json"
+    },
+    {
+      "url": "https://zap-main.myshopify.com/es/pages/media-slider-banner",
+      "slug": "zap_main_myshopify_com_es_pages_media_slider_banner",
+      "title": "Media slider banner",
+      "type": "other",
+      "headings": [
+        "Infusión de miel y limón",
+        "Caja de luz",
+        "Caja de descubrimiento",
+        "Infusión de miel y limón",
+        "Caja de luz",
+        "Caja de descubrimiento",
+        "Subscribe to our Newsletter and Get 15% off your first order",
+        "Media slider banner"
+      ],
+      "sections": 4,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_es_pages_media_slider_banner.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_es_pages_media_slider_banner.json"
+    },
+    {
+      "url": "https://zap-main.myshopify.com/es/pages/multicolumn",
+      "slug": "zap_main_myshopify_com_es_pages_multicolumn",
+      "title": "Multicolumn",
+      "type": "other",
+      "headings": [
+        "Infusión de miel y limón",
+        "Caja de luz",
+        "Caja de descubrimiento",
+        "Infusión de miel y limón",
+        "Caja de luz",
+        "Caja de descubrimiento",
+        "Subscribe to our Newsletter and Get 15% off your first order",
+        "Multicolumn"
+      ],
+      "sections": 3,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_es_pages_multicolumn.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_es_pages_multicolumn.json"
+    },
+    {
+      "url": "https://zap-main.myshopify.com/es/pages/newsletter",
+      "slug": "zap_main_myshopify_com_es_pages_newsletter",
+      "title": "Newsletter",
+      "type": "other",
+      "headings": [
+        "Infusión de miel y limón",
+        "Caja de luz",
+        "Caja de descubrimiento",
+        "Infusión de miel y limón",
+        "Caja de luz",
+        "Caja de descubrimiento",
+        "Subscribe to our Newsletter and Get 15% off your first order",
+        "Newsletter"
+      ],
+      "sections": 4,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_es_pages_newsletter.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_es_pages_newsletter.json"
+    },
+    {
+      "url": "https://zap-main.myshopify.com/es/pages/popular-products",
+      "slug": "zap_main_myshopify_com_es_pages_popular_products",
+      "title": "Popular products",
+      "type": "other",
+      "headings": [
+        "Infusión de miel y limón",
+        "Caja de luz",
+        "Caja de descubrimiento",
+        "Infusión de miel y limón",
+        "Caja de luz",
+        "Caja de descubrimiento",
+        "Subscribe to our Newsletter and Get 15% off your first order",
+        "Popular products"
+      ],
+      "sections": 4,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_es_pages_popular_products.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_es_pages_popular_products.json"
+    },
+    {
+      "url": "https://zap-main.myshopify.com/es/pages/product-markers",
+      "slug": "zap_main_myshopify_com_es_pages_product_markers",
+      "title": "Product markers",
+      "type": "other",
+      "headings": [
+        "Infusión de miel y limón",
+        "Caja de luz",
+        "Caja de descubrimiento",
+        "Infusión de miel y limón",
+        "Caja de luz",
+        "Caja de descubrimiento",
+        "Subscribe to our Newsletter and Get 15% off your first order",
+        "Product markers"
+      ],
+      "sections": 3,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_es_pages_product_markers.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_es_pages_product_markers.json"
+    },
+    {
+      "url": "https://zap-main.myshopify.com/es/pages/products-grid",
+      "slug": "zap_main_myshopify_com_es_pages_products_grid",
+      "title": "Products grid",
+      "type": "other",
+      "headings": [
+        "Infusión de miel y limón",
+        "Caja de luz",
+        "Caja de descubrimiento",
+        "Infusión de miel y limón",
+        "Caja de luz",
+        "Caja de descubrimiento",
+        "Subscribe to our Newsletter and Get 15% off your first order",
+        "Products grid"
+      ],
+      "sections": 3,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_es_pages_products_grid.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_es_pages_products_grid.json"
+    },
+    {
+      "url": "https://zap-main.myshopify.com/es/pages/rich-text",
+      "slug": "zap_main_myshopify_com_es_pages_rich_text",
+      "title": "Rich text",
+      "type": "other",
+      "headings": [
+        "Infusión de miel y limón",
+        "Caja de luz",
+        "Caja de descubrimiento",
+        "Infusión de miel y limón",
+        "Caja de luz",
+        "Caja de descubrimiento",
+        "Subscribe to our Newsletter and Get 15% off your first order",
+        "Rich text"
+      ],
+      "sections": 2,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_es_pages_rich_text.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_es_pages_rich_text.json"
+    },
+    {
+      "url": "https://zap-main.myshopify.com/es/pages/slideshow",
+      "slug": "zap_main_myshopify_com_es_pages_slideshow",
+      "title": "Something went wrong",
+      "type": "other",
+      "headings": [
+        "There was a problem loading this website"
+      ],
+      "sections": 0,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_es_pages_slideshow.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_es_pages_slideshow.json"
+    },
+    {
+      "url": "https://zap-main.myshopify.com/es/pages/social-feed",
+      "slug": "zap_main_myshopify_com_es_pages_social_feed",
+      "title": "Social feed",
+      "type": "other",
+      "headings": [
+        "Infusión de miel y limón",
+        "Caja de luz",
+        "Caja de descubrimiento",
+        "Infusión de miel y limón",
+        "Caja de luz",
+        "Caja de descubrimiento",
+        "Subscribe to our Newsletter and Get 15% off your first order",
+        "Social feed"
+      ],
+      "sections": 2,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_es_pages_social_feed.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_es_pages_social_feed.json"
+    },
+    {
+      "url": "https://zap-main.myshopify.com/es/pages/social-media",
+      "slug": "zap_main_myshopify_com_es_pages_social_media",
+      "title": "Social media",
+      "type": "other",
+      "headings": [
+        "Infusión de miel y limón",
+        "Caja de luz",
+        "Caja de descubrimiento",
+        "Infusión de miel y limón",
+        "Caja de luz",
+        "Caja de descubrimiento",
+        "Subscribe to our Newsletter and Get 15% off your first order",
+        "Social media"
+      ],
+      "sections": 3,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_es_pages_social_media.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_es_pages_social_media.json"
+    },
+    {
+      "url": "https://zap-main.myshopify.com/es/pages/testimonials",
+      "slug": "zap_main_myshopify_com_es_pages_testimonials",
+      "title": "Testimonials",
+      "type": "other",
+      "headings": [
+        "Infusión de miel y limón",
+        "Caja de luz",
+        "Caja de descubrimiento",
+        "Infusión de miel y limón",
+        "Caja de luz",
+        "Caja de descubrimiento",
+        "Subscribe to our Newsletter and Get 15% off your first order",
+        "Testimonials"
+      ],
+      "sections": 3,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_es_pages_testimonials.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_es_pages_testimonials.json"
+    },
+    {
+      "url": "https://zap-main.myshopify.com/es/pages/ticker",
+      "slug": "zap_main_myshopify_com_es_pages_ticker",
+      "title": "Ticker",
+      "type": "other",
+      "headings": [
+        "Infusión de miel y limón",
+        "Caja de luz",
+        "Caja de descubrimiento",
+        "Infusión de miel y limón",
+        "Caja de luz",
+        "Caja de descubrimiento",
+        "Subscribe to our Newsletter and Get 15% off your first order",
+        "Ticker"
+      ],
+      "sections": 4,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_es_pages_ticker.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_es_pages_ticker.json"
+    },
+    {
+      "url": "https://zap-main.myshopify.com/es/collections/frontpage",
+      "slug": "zap_main_myshopify_com_es_collections_frontpage",
+      "title": "Something went wrong",
+      "type": "other",
+      "headings": [
+        "There was a problem loading this website"
+      ],
+      "sections": 0,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_es_collections_frontpage.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_es_collections_frontpage.json"
+    },
+    {
+      "url": "https://zap-main.myshopify.com/es/collections/sets",
+      "slug": "zap_main_myshopify_com_es_collections_sets",
+      "title": "Conjuntos",
+      "type": "other",
+      "headings": [
+        "Infusión de miel y limón",
+        "Caja de luz",
+        "Caja de descubrimiento",
+        "Infusión de miel y limón",
+        "Caja de luz",
+        "Caja de descubrimiento",
+        "Subscribe to our Newsletter and Get 15% off your first order",
+        "Colección: Conjuntos"
+      ],
+      "sections": 4,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_es_collections_sets.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_es_collections_sets.json"
+    },
+    {
+      "url": "https://zap-main.myshopify.com/es/blogs/news",
+      "slug": "zap_main_myshopify_com_es_blogs_news",
+      "title": "Noticias",
+      "type": "other",
+      "headings": [
+        "Infusión de miel y limón",
+        "Caja de luz",
+        "Caja de descubrimiento",
+        "Infusión de miel y limón",
+        "Caja de luz",
+        "Caja de descubrimiento",
+        "Subscribe to our Newsletter and Get 15% off your first order",
+        "ÚLTIMAS NOTICIAS"
+      ],
+      "sections": 3,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_es_blogs_news.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_es_blogs_news.json"
+    },
+    {
+      "url": "https://zap-main.myshopify.com/es/blogs/news/waterlemon-the-taste-of-summer-in-every-sip",
+      "slug": "zap_main_myshopify_com_es_blogs_news_waterlemon_the_taste_of_summer_in_every_sip",
+      "title": "Sandía: El sabor del verano en cada sorbo",
+      "type": "other",
+      "headings": [
+        "Infusión de miel y limón",
+        "Caja de luz",
+        "Caja de descubrimiento",
+        "Infusión de miel y limón",
+        "Caja de luz",
+        "Caja de descubrimiento",
+        "Subscribe to our Newsletter and Get 15% off your first order",
+        "Sandía: El sabor del verano en cada sorbo"
+      ],
+      "sections": 3,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_es_blogs_news_waterlemon_the_taste_of_summer_in_every_sip.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_es_blogs_news_waterlemon_the_taste_of_summer_in_every_sip.json"
+    },
+    {
+      "url": "https://zap-main.myshopify.com/es/blogs/news/how-mint-lime-became-the-ultimate-cool-down-drink",
+      "slug": "zap_main_myshopify_com_es_blogs_news_how_mint_lime_became_the_ultimate_cool_down_drink",
+      "title": "Cómo la menta y la lima se convirtieron en la bebida refrescante defin",
+      "type": "other",
+      "headings": [
+        "Infusión de miel y limón",
+        "Caja de luz",
+        "Caja de descubrimiento",
+        "Infusión de miel y limón",
+        "Caja de luz",
+        "Caja de descubrimiento",
+        "Subscribe to our Newsletter and Get 15% off your first order",
+        "Cómo la menta y la lima se convirtieron en la bebida refrescante definitiva"
+      ],
+      "sections": 3,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_es_blogs_news_how_mint_lime_became_the_ultimate_cool_down_drink.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_es_blogs_news_how_mint_lime_became_the_ultimate_cool_down_drink.json"
+    },
+    {
+      "url": "https://zap-main.myshopify.com/es/blogs/news/why-passion-is-the-boldest-flavor-in-our-collection",
+      "slug": "zap_main_myshopify_com_es_blogs_news_why_passion_is_the_boldest_flavor_in_our_collection",
+      "title": "Por qué Passion es el sabor más atrevido de nuestra colección",
+      "type": "other",
+      "headings": [
+        "Infusión de miel y limón",
+        "Caja de luz",
+        "Caja de descubrimiento",
+        "Infusión de miel y limón",
+        "Caja de luz",
+        "Caja de descubrimiento",
+        "Subscribe to our Newsletter and Get 15% off your first order",
+        "Por qué Passion es el sabor más atrevido de nuestra colección"
+      ],
+      "sections": 3,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_es_blogs_news_why_passion_is_the_boldest_flavor_in_our_collection.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_es_blogs_news_why_passion_is_the_boldest_flavor_in_our_collection.json"
+    },
+    {
+      "url": "https://zap-main.myshopify.com/es/blogs/news/the-classic-combo-that-never-gets-old",
+      "slug": "zap_main_myshopify_com_es_blogs_news_the_classic_combo_that_never_gets_old",
+      "title": "La combinación clásica que nunca pasa de moda",
+      "type": "other",
+      "headings": [
+        "Infusión de miel y limón",
+        "Caja de luz",
+        "Caja de descubrimiento",
+        "Infusión de miel y limón",
+        "Caja de luz",
+        "Caja de descubrimiento",
+        "Subscribe to our Newsletter and Get 15% off your first order",
+        "La combinación clásica que nunca pasa de moda"
+      ],
+      "sections": 3,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_es_blogs_news_the_classic_combo_that_never_gets_old.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_es_blogs_news_the_classic_combo_that_never_gets_old.json"
+    },
+    {
+      "url": "https://zap-main.myshopify.com/es/blogs/news/the-taste-of-summer-the-calm-of-cold-brew",
+      "slug": "zap_main_myshopify_com_es_blogs_news_the_taste_of_summer_the_calm_of_cold_brew",
+      "title": "El sabor del verano, la calma del café frío",
+      "type": "other",
+      "headings": [
+        "Infusión de miel y limón",
+        "Caja de luz",
+        "Caja de descubrimiento",
+        "Infusión de miel y limón",
+        "Caja de luz",
+        "Caja de descubrimiento",
+        "Subscribe to our Newsletter and Get 15% off your first order",
+        "El sabor del verano, la calma del café frío"
+      ],
+      "sections": 3,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_es_blogs_news_the_taste_of_summer_the_calm_of_cold_brew.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_es_blogs_news_the_taste_of_summer_the_calm_of_cold_brew.json"
+    },
+    {
+      "url": "https://zap-main.myshopify.com/es/blogs/news/six-ways-to-feel-refreshed-one-signature-brew",
+      "slug": "zap_main_myshopify_com_es_blogs_news_six_ways_to_feel_refreshed_one_signature_brew",
+      "title": "Seis maneras de sentirse renovado: una bebida exclusiva",
+      "type": "other",
+      "headings": [
+        "Infusión de miel y limón",
+        "Caja de luz",
+        "Caja de descubrimiento",
+        "Infusión de miel y limón",
+        "Caja de luz",
+        "Caja de descubrimiento",
+        "Subscribe to our Newsletter and Get 15% off your first order",
+        "Seis maneras de sentirse renovado: una bebida exclusiva"
+      ],
+      "sections": 3,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_es_blogs_news_six_ways_to_feel_refreshed_one_signature_brew.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_es_blogs_news_six_ways_to_feel_refreshed_one_signature_brew.json"
+    },
+    {
+      "url": "https://zap-main.myshopify.com/es/blogs/news/behind-the-bottle-the-story-of-our-original-flavor",
+      "slug": "zap_main_myshopify_com_es_blogs_news_behind_the_bottle_the_story_of_our_original_flavor",
+      "title": "Detrás de la botella: la historia de nuestro sabor original",
+      "type": "other",
+      "headings": [
+        "Infusión de miel y limón",
+        "Caja de luz",
+        "Caja de descubrimiento",
+        "Infusión de miel y limón",
+        "Caja de luz",
+        "Caja de descubrimiento",
+        "Subscribe to our Newsletter and Get 15% off your first order",
+        "Detrás de la botella: la historia de nuestro sabor original"
+      ],
+      "sections": 3,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_es_blogs_news_behind_the_bottle_the_story_of_our_original_flavor.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_es_blogs_news_behind_the_bottle_the_story_of_our_original_flavor.json"
+    },
+    {
+      "url": "https://zap-main.myshopify.com/es/blogs/news/chill-out-with-mint-lime-or-warm-up-with-ginger",
+      "slug": "zap_main_myshopify_com_es_blogs_news_chill_out_with_mint_lime_or_warm_up_with_ginger",
+      "title": "Relájate con menta y lima, o caliéntate con jengibre",
+      "type": "other",
+      "headings": [
+        "Infusión de miel y limón",
+        "Caja de luz",
+        "Caja de descubrimiento",
+        "Infusión de miel y limón",
+        "Caja de luz",
+        "Caja de descubrimiento",
+        "Subscribe to our Newsletter and Get 15% off your first order",
+        "Relájate con menta y lima, o caliéntate con jengibre"
+      ],
+      "sections": 3,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_es_blogs_news_chill_out_with_mint_lime_or_warm_up_with_ginger.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_es_blogs_news_chill_out_with_mint_lime_or_warm_up_with_ginger.json"
+    },
+    {
+      "url": "https://zap-main.myshopify.com/es/blogs/news/summer-starts-with-waterlemon-cold-brew",
+      "slug": "zap_main_myshopify_com_es_blogs_news_summer_starts_with_waterlemon_cold_brew",
+      "title": "El verano empieza con Waterlemon Cold Brew",
+      "type": "other",
+      "headings": [
+        "Infusión de miel y limón",
+        "Caja de luz",
+        "Caja de descubrimiento",
+        "Infusión de miel y limón",
+        "Caja de luz",
+        "Caja de descubrimiento",
+        "Subscribe to our Newsletter and Get 15% off your first order",
+        "El verano empieza con Waterlemon Cold Brew"
+      ],
+      "sections": 3,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_es_blogs_news_summer_starts_with_waterlemon_cold_brew.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_es_blogs_news_summer_starts_with_waterlemon_cold_brew.json"
+    },
+    {
+      "url": "https://zap-main.myshopify.com/es/blogs/news/citrus-cold-brew-bright-bold-refreshing",
+      "slug": "zap_main_myshopify_com_es_blogs_news_citrus_cold_brew_bright_bold_refreshing",
+      "title": "Café frío cítrico: brillante, intenso y refrescante",
+      "type": "other",
+      "headings": [
+        "Infusión de miel y limón",
+        "Caja de luz",
+        "Caja de descubrimiento",
+        "Infusión de miel y limón",
+        "Caja de luz",
+        "Caja de descubrimiento",
+        "Subscribe to our Newsletter and Get 15% off your first order",
+        "Café frío cítrico: brillante, intenso y refrescante"
+      ],
+      "sections": 3,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_es_blogs_news_citrus_cold_brew_bright_bold_refreshing.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_es_blogs_news_citrus_cold_brew_bright_bold_refreshing.json"
+    },
+    {
+      "url": "https://zap-main.myshopify.com/es/blogs/news/tropical-vibes-in-every-smooth-sip",
+      "slug": "zap_main_myshopify_com_es_blogs_news_tropical_vibes_in_every_smooth_sip",
+      "title": "Vibras tropicales en cada suave sorbo",
+      "type": "other",
+      "headings": [
+        "Infusión de miel y limón",
+        "Caja de luz",
+        "Caja de descubrimiento",
+        "Infusión de miel y limón",
+        "Caja de luz",
+        "Caja de descubrimiento",
+        "Subscribe to our Newsletter and Get 15% off your first order",
+        "Vibras tropicales en cada suave sorbo"
+      ],
+      "sections": 3,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_es_blogs_news_tropical_vibes_in_every_smooth_sip.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_es_blogs_news_tropical_vibes_in_every_smooth_sip.json"
+    },
+    {
+      "url": "https://zap-main.myshopify.com/es/blogs/news/the-citrus-twist-your-coffee-needed",
+      "slug": "zap_main_myshopify_com_es_blogs_news_the_citrus_twist_your_coffee_needed",
+      "title": "El toque cítrico que tu café necesitaba",
+      "type": "other",
+      "headings": [
+        "Infusión de miel y limón",
+        "Caja de luz",
+        "Caja de descubrimiento",
+        "Infusión de miel y limón",
+        "Caja de luz",
+        "Caja de descubrimiento",
+        "Subscribe to our Newsletter and Get 15% off your first order",
+        "El toque cítrico que tu café necesitaba"
+      ],
+      "sections": 3,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_es_blogs_news_the_citrus_twist_your_coffee_needed.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_es_blogs_news_the_citrus_twist_your_coffee_needed.json"
+    },
+    {
+      "url": "https://zap-main.myshopify.com/es/blogs/news/taste-the-tropics-passion-fruit-cold-brew",
+      "slug": "zap_main_myshopify_com_es_blogs_news_taste_the_tropics_passion_fruit_cold_brew",
+      "title": "Saborea los trópicos: Cold Brew de maracuyá",
+      "type": "other",
+      "headings": [
+        "Infusión de miel y limón",
+        "Caja de luz",
+        "Caja de descubrimiento",
+        "Infusión de miel y limón",
+        "Caja de luz",
+        "Caja de descubrimiento",
+        "Subscribe to our Newsletter and Get 15% off your first order",
+        "Saborea los trópicos: Cold Brew de maracuyá"
+      ],
+      "sections": 3,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_es_blogs_news_taste_the_tropics_passion_fruit_cold_brew.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_es_blogs_news_taste_the_tropics_passion_fruit_cold_brew.json"
+    },
+    {
+      "url": "https://zap-main.myshopify.com/es/blogs/news/mint-lime-the-ultimate-cold-brew-upgrade",
+      "slug": "zap_main_myshopify_com_es_blogs_news_mint_lime_the_ultimate_cold_brew_upgrade",
+      "title": "Menta y lima: la mejor opción para el café frío",
+      "type": "other",
+      "headings": [
+        "Infusión de miel y limón",
+        "Caja de luz",
+        "Caja de descubrimiento",
+        "Infusión de miel y limón",
+        "Caja de luz",
+        "Caja de descubrimiento",
+        "Subscribe to our Newsletter and Get 15% off your first order",
+        "Menta y lima: la mejor opción para el café frío"
+      ],
+      "sections": 3,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_es_blogs_news_mint_lime_the_ultimate_cold_brew_upgrade.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_es_blogs_news_mint_lime_the_ultimate_cold_brew_upgrade.json"
+    },
+    {
+      "url": "https://zap-main.myshopify.com/es/blogs/news/the-citrus-cold-brew-you-didn-t-know-you-needed",
+      "slug": "zap_main_myshopify_com_es_blogs_news_the_citrus_cold_brew_you_didn_t_know_you_needed",
+      "title": "El café frío cítrico que no sabías que necesitabas",
+      "type": "other",
+      "headings": [
+        "Infusión de miel y limón",
+        "Caja de luz",
+        "Caja de descubrimiento",
+        "Infusión de miel y limón",
+        "Caja de luz",
+        "Caja de descubrimiento",
+        "Subscribe to our Newsletter and Get 15% off your first order",
+        "El café frío cítrico que no sabías que necesitabas"
+      ],
+      "sections": 3,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_es_blogs_news_the_citrus_cold_brew_you_didn_t_know_you_needed.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_es_blogs_news_the_citrus_cold_brew_you_didn_t_know_you_needed.json"
+    },
+    {
+      "url": "https://zap-main.myshopify.com/es/blogs/news/cold-brew-reimagined-with-roses-and-hibiscus",
+      "slug": "zap_main_myshopify_com_es_blogs_news_cold_brew_reimagined_with_roses_and_hibiscus",
+      "title": "Cold Brew reinventado con rosas e hibisco",
+      "type": "other",
+      "headings": [
+        "Infusión de miel y limón",
+        "Caja de luz",
+        "Caja de descubrimiento",
+        "Infusión de miel y limón",
+        "Caja de luz",
+        "Caja de descubrimiento",
+        "Subscribe to our Newsletter and Get 15% off your first order",
+        "Cold Brew reinventado con rosas e hibisco"
+      ],
+      "sections": 3,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_es_blogs_news_cold_brew_reimagined_with_roses_and_hibiscus.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_es_blogs_news_cold_brew_reimagined_with_roses_and_hibiscus.json"
+    },
+    {
+      "url": "https://zap-main.myshopify.com/policies/privacy-policy",
+      "slug": "zap_main_myshopify_com_policies_privacy_policy",
+      "title": "Privacy policy",
+      "type": "other",
+      "headings": [
+        "Honey Lemon Infusion",
+        "Light Box",
+        "Discovery Box",
+        "Honey Lemon Infusion",
+        "Light Box",
+        "Discovery Box",
+        "Subscribe to our Newsletter and Get 15% off your first order",
+        "Privacy policy"
+      ],
+      "sections": 1,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_policies_privacy_policy.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_policies_privacy_policy.json"
+    },
+    {
+      "url": "https://zap-main.myshopify.com/search",
+      "slug": "zap_main_myshopify_com_search",
+      "title": "Search",
+      "type": "other",
+      "headings": [
+        "Honey Lemon Infusion",
+        "Light Box",
+        "Discovery Box",
+        "Honey Lemon Infusion",
+        "Light Box",
+        "Discovery Box",
+        "Subscribe to our Newsletter and Get 15% off your first order",
+        "Search"
+      ],
+      "sections": 1,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_search.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_search.json"
+    },
+    {
+      "url": "https://shopify.com/authentication/96678281535/oauth/authorize?client_id=5cbc8e06-4358-4423-814e-c5730cb41ef5&locale=en-US&nonce=fd2f17cc-ed9b-492a-a79e-db5a6694729c&redirect_uri=https%3A%2F%2Fshopify.com%2F96678281535%2Faccount%2Fcallback&response_type=code&scope=openid+email+customer-account-api%3Afull&state=hWNApgLfNvtOsKT4GL7HZHgw",
+      "slug": "zap_main_myshopify_com_customer_authentication_redirect",
+      "title": "Just a moment...",
+      "type": "other",
+      "headings": [
+        "Your connection needs to be verified before you can proceed"
+      ],
+      "sections": 0,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_customer_authentication_redirect.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_customer_authentication_redirect.json"
+    },
+    {
+      "url": "https://zap-main.myshopify.com/collections",
+      "slug": "zap_main_myshopify_com_collections",
+      "title": "Collections",
+      "type": "other",
+      "headings": [
+        "Honey Lemon Infusion",
+        "Light Box",
+        "Discovery Box",
+        "Honey Lemon Infusion",
+        "Light Box",
+        "Discovery Box",
+        "Subscribe to our Newsletter and Get 15% off your first order",
+        "Collections"
+      ],
+      "sections": 3,
+      "screenshot": null,
+      "elementsMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_collections.md",
+      "elementsJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_collections.json"
+    }
+  ]
+}

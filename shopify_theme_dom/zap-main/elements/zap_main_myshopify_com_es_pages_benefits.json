@@ -1,0 +1,51 @@
+{
+  "pageUrl": "https://zap-main.myshopify.com/es/pages/benefits",
+  "pageTitle": "Benefits",
+  "pageSlug": "zap_main_myshopify_com_es_pages_benefits",
+  "sections": [
+    {
+      "refId": "zap_main_myshopify_com_es_pages_benefits__section_01",
+      "index": 1,
+      "selectorHint": "#shopify-section-template--26223572320575__main",
+      "typeGuess": "content-section",
+      "patternTags": [
+        "top-of-page"
+      ],
+      "headingSample": [
+        "Benefits"
+      ],
+      "textSample": ".section-template--26223572320575__main-padding { padding-top: 4rem; padding-bottom: 0; } @media screen and (min-width: 750px) { .section-template--26223572320575__main-padding { padding-top: 5rem; padding-bottom: 0; } } @media screen and (min-width: 1360px) { .section-template--",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_es_pages_benefits/zap_main_myshopify_com_es_pages_benefits__section_01.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/pages/zap_main_myshopify_com_es_pages_benefits.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/pages/zap_main_myshopify_com_es_pages_benefits.json"
+    },
+    {
+      "refId": "zap_main_myshopify_com_es_pages_benefits__section_02",
+      "index": 2,
+      "selectorHint": "#shopify-section-template--26223572320575__benefits_6GP3NF",
+      "typeGuess": "content-section",
+      "patternTags": [],
+      "headingSample": [
+        "Delicious.Refreshing.Zero trade-offs."
+      ],
+      "textSample": ".section-template--26223572320575__benefits_6GP3NF-padding { padding-top: 5rem; padding-bottom: 5rem; } @media screen and (min-width: 750px) { .section-template--26223572320575__benefits_6GP3NF-padding { padding-top: 7.2rem; padding-bottom: 7.2rem; } } @media screen and (min-widt",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_es_pages_benefits/zap_main_myshopify_com_es_pages_benefits__section_02.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/pages/zap_main_myshopify_com_es_pages_benefits.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/pages/zap_main_myshopify_com_es_pages_benefits.json"
+    },
+    {
+      "refId": "zap_main_myshopify_com_es_pages_benefits__section_03",
+      "index": 3,
+      "selectorHint": "#shopify-section-template--26223572320575__benefits_CrWrLL",
+      "typeGuess": "content-section",
+      "patternTags": [],
+      "headingSample": [
+        "Delicious.Refreshing.Zero trade-offs."
+      ],
+      "textSample": ".section-template--26223572320575__benefits_CrWrLL-padding { padding-top: 6.4rem; padding-bottom: 6.4rem; } @media screen and (min-width: 750px) { .section-template--26223572320575__benefits_CrWrLL-padding { padding-top: 8.8rem; padding-bottom: 8.8rem; } } @media screen and (min-",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/elements/zap_main_myshopify_com_es_pages_benefits/zap_main_myshopify_com_es_pages_benefits__section_03.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/pages/zap_main_myshopify_com_es_pages_benefits.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/zap-main/pages/zap_main_myshopify_com_es_pages_benefits.json"
+    }
+  ]
+}

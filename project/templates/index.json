@@ -1,0 +1,23 @@
+{
+  "sections": {
+    "main": {
+      "type": "stone-hero-opening",
+      "settings": {
+        "heading": "Homepage opening proof",
+        "eyebrow": "Homepage-first runtime slice",
+        "body": "<p>Use this bounded opening surface to stage one brand-led introduction, one restrained supporting paragraph, and up to two neutral calls to action without widening into shell, collection, or preset rollout behavior.</p>",
+        "primary_cta_label": "Book a studio visit",
+        "primary_cta_link": "/pages/book-a-studio-visit",
+        "secondary_cta_label": "Read the materials story",
+        "secondary_cta_link": "/pages/materials-story",
+        "surface_style": "soft",
+        "media_position": "end",
+        "width_mode": "wide",
+        "spacing_mode": "relaxed"
+      }
+    }
+  },
+  "order": [
+    "main"
+  ]
+}

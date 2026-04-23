@@ -1,0 +1,23 @@
+{
+  "pageUrl": "https://shift-sketch.myshopify.com/pages/measurements",
+  "pageTitle": "Measurements – Shift Sketch",
+  "pageSlug": "shift_sketch_myshopify_com_pages_measurements",
+  "sections": [
+    {
+      "refId": "shift_sketch_myshopify_com_pages_measurements__section_01",
+      "index": 1,
+      "selectorHint": "#shopify-section-template--27266934047095__page_info",
+      "typeGuess": "content-section",
+      "patternTags": [
+        "top-of-page"
+      ],
+      "headingSample": [
+        "Measurements"
+      ],
+      "textSample": "Measurements Dimensions and weights Parameters Dimensions Size A5 (14.8 × 21 cm) Page count 192 pages Paper weight 100 gsm Cover weight 300 gsm Weight 480 g",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/shift-sketch/elements/shift_sketch_myshopify_com_pages_measurements/shift_sketch_myshopify_com_pages_measurements__section_01.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/shift-sketch/pages/shift_sketch_myshopify_com_pages_measurements.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/shift-sketch/pages/shift_sketch_myshopify_com_pages_measurements.json"
+    }
+  ]
+}

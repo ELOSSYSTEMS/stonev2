@@ -1,0 +1,29 @@
+{
+  "pageUrl": "https://elegance-canvas.myshopify.com/pages/faqs",
+  "pageTitle": "Faq – Elegance-canvas",
+  "pageSlug": "elegance_canvas_myshopify_com_pages_faqs",
+  "sections": [
+    {
+      "refId": "elegance_canvas_myshopify_com_pages_faqs__section_01",
+      "index": 1,
+      "selectorHint": "#shopify-section-template--19562841374902__collapsible_content_CNM8HX",
+      "typeGuess": "cta-section",
+      "patternTags": [
+        "top-of-page",
+        "cta-cluster"
+      ],
+      "headingSample": [
+        "Where Art Meets Heart",
+        "Do you offer guided tours of the gallery?",
+        "What are the gallery's opening hours?",
+        "How can I purchase artwork from the gallery?",
+        "Do you offer guided tours of the gallery?",
+        "Can I take photos of the artwork during my visit?"
+      ],
+      "textSample": ".section-template--19562841374902__collapsible_content_CNM8HX-padding { padding-top: 80px; padding-bottom: 80px; } @media screen and (min-width: 768px) { .section-template--19562841374902__collapsible_content_CNM8HX-padding { padding-top: 120px; padding-bottom: 120px; } } @media ",
+      "screenshotPath": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/elements/elegance_canvas_myshopify_com_pages_faqs/elegance_canvas_myshopify_com_pages_faqs__section_01.png",
+      "sourcePageMd": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/pages/elegance_canvas_myshopify_com_pages_faqs.md",
+      "sourcePageJson": "/home/elos/.openclaw/workspace/shopify_theme_dom/elegance-canvas/pages/elegance_canvas_myshopify_com_pages_faqs.json"
+    }
+  ]
+}
