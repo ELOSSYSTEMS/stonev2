@@ -2,21 +2,34 @@
 
 ## Status
 
-- `Verified`: This package is seeded for `UNIT-160`.
-- `Verified`: It must remain docs-only.
-- `Verified`: It must not authorize implementation until it states and verifies one exact future runtime boundary.
+- `Verified`: This package is docs-only.
+- `Verified`: `UNIT-159` admitted this package as the only next PDP lane.
+- `Verified`: This package states one exact later runtime proof boundary.
 
-## Candidate Boundary To Decide
+## Exact Future Runtime Boundary
 
-- `Inference`: The likely future implementation boundary is one no-JS PDP host proof using `project/templates/product.json`, one main product section, shared CSS, and bilingual locale keys.
-- `Inference`: The likely admissible behavior is product title, product metadata, product media display, price, variant selector when variants exist, no-JS Shopify product form, description, unavailable/sold-out messaging, and basic trust copy only if it can stay static and local to the main section.
+- `Verified`: `project/templates/product.json`
+- `Verified`: `project/sections/stone-main-product.liquid`
+- `Verified`: `project/assets/stone-base.css`
+- `Verified`: `project/locales/he.default.schema.json`
+- `Verified`: `project/locales/en.schema.json`
+
+## Admissible Runtime Behavior For Later Proof
+
+- `Verified`: One canonical `product.json` host that renders one main PDP section.
+- `Verified`: Product title, vendor, type, static media display, current variant price, product description, unavailable/sold-out messaging, and bilingual labels.
+- `Verified`: One standard no-JS Shopify product form using the selected or first available variant, variant selection when multiple variants exist, a local quantity field if kept inside the native form, and a submit button that posts through Shopify's normal product form path.
+- `Verified`: Shared CSS support only in `stone-base.css`.
+- `Verified`: No JavaScript, no AJAX cart, no cart drawer behavior, and no product-card snippet edits.
 
 ## Blocked Until Separately Reopened
 
 - `Verified`: PDP companion sections.
 - `Verified`: Recommendation and complementary-product logic.
-- `Verified`: AJAX cart, cart drawer behavior, quick add, quick view, subscriptions, pickup/inventory complexity, dynamic media galleries, search, preset realization, and hardening.
+- `Verified`: Dynamic media galleries.
+- `Verified`: Quick add, quick view, subscriptions, pickup/inventory complexity, cart drawer behavior, search, preset realization, and hardening.
 
-## Required Output
+## Decision
 
-- `Verified`: `UNIT-160` must either state one exact runtime file boundary for a later implementation unit or stop in a governed block.
+- `Verified`: Admit only `UNIT-161` as the exact five-file no-JS PDP host/product-form runtime proof.
+- `Verified`: Require verification after `UNIT-161` before any PDP companion, search, preset, cart, or hardening lane can reopen.

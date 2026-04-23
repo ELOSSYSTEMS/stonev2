@@ -3,27 +3,31 @@
 ## Status
 
 - `Verified`: Approval State: APPROVED
-- `Verified`: Execution Class: docs-only PDP host/behavior runtime boundary
+- `Verified`: Execution Class: bounded no-JS PDP host/product-form runtime proof
 - `Verified`: Priority: high
 
 ## Approved Unit
 
-- `Verified`: `UNIT-159` passed and now admits only `UNIT-160` as docs-only PDP host/behavior runtime-boundary authoring.
+- `Verified`: `UNIT-160` passed and now admits only `UNIT-161` as the exact five-file no-JS PDP host/product-form runtime proof.
 
 ## Objective
 
-- `Verified`: State one exact future PDP host/product-form runtime boundary or stop in a governed block.
-- `Verified`: Keep this unit docs-only.
-- `Verified`: Decide whether a later no-JS PDP proof can be constrained to one canonical product host, one main product section, shared CSS, and bilingual labels.
-- `Verified`: Keep `PDP companion`, recommendations, complementary products, AJAX cart, cart drawer behavior, quick add, quick view, subscriptions, pickup/inventory complexity, dynamic media galleries, search, preset realization, and hardening blocked.
+- `Verified`: Implement one canonical `product.json` host and one main PDP section.
+- `Verified`: Keep the implementation inside the exact five approved runtime files.
+- `Verified`: Include product title, vendor/type metadata, static media display, current variant price, product description, native variant selection when needed, local quantity input, unavailable/sold-out messaging, and one standard no-JS Shopify product form.
+- `Verified`: Keep JavaScript, AJAX cart, cart drawer behavior, product-card snippet edits, PDP companion sections, recommendations, complementary products, subscriptions, pickup/inventory complexity, search, preset realization, and hardening blocked.
 
 ## Plan Reference
 
-- `Path:` `workspace/plans/phase-4-pdp-host-behavior-runtime-boundary-v1/HANDOFF.v1.md`
+- `Path:` `workspace/plans/phase-4-pdp-host-behavior-runtime-proof-v1/HANDOFF.v1.md`
 
 ## Allowed Files Or Surfaces
 
-- `workspace/plans/phase-4-pdp-host-behavior-runtime-boundary-v1/`
+- `project/templates/product.json`
+- `project/sections/stone-main-product.liquid`
+- `project/assets/stone-base.css`
+- `project/locales/he.default.schema.json`
+- `project/locales/en.schema.json`
 - `state/`
 - `workspace/handoff/CURRENT_HANDOFF.md`
 
@@ -39,4 +43,4 @@
 
 ## Stop Condition
 
-Fail closed if `UNIT-160` attempts project runtime edits, cannot state an exact future runtime file boundary, treats `PDP companion` as resolved, admits JavaScript or cart-drawer behavior, weakens product-form/cart-path risk, or routes directly into implementation without a bounded proof unit.
+Fail closed if `UNIT-161` changes any project file outside the exact five-file PDP proof boundary, adds JavaScript, edits `project/snippets/stone-product-card.liquid`, adds AJAX cart or cart drawer behavior, adds recommendation/complementary/subscription/pickup behavior, cannot preserve JSON validity and bilingual locale parity, or weakens the no-JS product-form boundary.
