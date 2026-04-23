@@ -8,13 +8,13 @@
 
 ## Current Phase
 
-- `Verified`: Active roadmap phase: Phase 4 editorial/search host runtime-boundary authoring after docs-only host boundary
-- `Verified`: Last completed phase slice: Phase 4 editorial/search host boundary (`UNIT-163`)
+- `Verified`: Active roadmap phase: Phase 4 no-JS editorial/search host runtime proof after bounded boundary authoring
+- `Verified`: Last completed phase slice: Phase 4 editorial/search host runtime-boundary authoring (`UNIT-164`)
 
 ## Approval State
 
 - `Verified`: Current next action approval: APPROVED
-- `Verified`: Approval basis: `UNIT-163` found that blog, article, and search canonical hosts are absent, rejected broad editorial/search expansion, and admitted only a docs-only editorial/search host runtime-boundary package.
+- `Verified`: Approval basis: `UNIT-164` stated the exact nine-file no-JS editorial/search host runtime proof boundary and kept predictive search, JavaScript result behavior, broader editorial growth, cart, preset, and hardening domains blocked.
 
 ## Lock State
 

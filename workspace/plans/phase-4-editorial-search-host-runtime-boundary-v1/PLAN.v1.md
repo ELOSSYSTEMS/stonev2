@@ -2,21 +2,39 @@
 
 ## Status
 
-- `Verified`: This package is seeded for `UNIT-164`.
-- `Verified`: It must remain docs-only.
-- `Verified`: It must not authorize implementation until it states and verifies one exact future runtime boundary.
+- `Verified`: This package is docs-only.
+- `Verified`: `UNIT-163` admitted this package as the only next editorial/search lane.
+- `Verified`: This package states one exact later runtime proof boundary.
 
-## Candidate Boundary To Decide
+## Exact Future Runtime Boundary
 
-- `Inference`: The likely future implementation boundary is canonical `blog.json`, `article.json`, and `search.json` hosts, paired with one main blog section, one main article section, one main search section, shared CSS, and bilingual locale keys.
-- `Inference`: The likely admissible behavior is no-JS host rendering, native pagination, basic empty states, and reuse of Shopify-provided blog/article/search objects.
+- `Verified`: `project/templates/blog.json`
+- `Verified`: `project/templates/article.json`
+- `Verified`: `project/templates/search.json`
+- `Verified`: `project/sections/stone-main-blog.liquid`
+- `Verified`: `project/sections/stone-main-article.liquid`
+- `Verified`: `project/sections/stone-main-search.liquid`
+- `Verified`: `project/assets/stone-base.css`
+- `Verified`: `project/locales/he.default.schema.json`
+- `Verified`: `project/locales/en.schema.json`
+
+## Admissible Runtime Behavior For Later Proof
+
+- `Verified`: One canonical blog host with blog title, article list, excerpt/content fallback, optional article image, and native pagination.
+- `Verified`: One canonical article host with article title, metadata when present, featured image, article content, and a simple blog return link when available.
+- `Verified`: One canonical search host with a no-JS search form, search terms, result count, result links, empty state, and native pagination.
+- `Verified`: Shared CSS support only in `stone-base.css`.
+- `Verified`: Bilingual editor labels and UI strings only in the two locale files.
+- `Verified`: No JavaScript, no predictive search, no search suggestions, and no search merchandising.
 
 ## Blocked Until Separately Reopened
 
 - `Verified`: Predictive search.
-- `Verified`: Search suggestions, search merchandising, and JavaScript result behavior.
+- `Verified`: Search suggestions and JavaScript result behavior.
+- `Verified`: Search merchandising or promoted-result logic.
 - `Verified`: Broader editorial-family growth, campaign journals, cart, preset realization, and hardening.
 
-## Required Output
+## Decision
 
-- `Verified`: `UNIT-164` must either state one exact runtime file boundary for a later implementation unit or stop in a governed block.
+- `Verified`: Admit only `UNIT-165` as the exact nine-file no-JS editorial/search host runtime proof.
+- `Verified`: Require verification after `UNIT-165` before any predictive-search, editorial expansion, preset, or hardening lane can reopen.

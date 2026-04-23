@@ -3,27 +3,35 @@
 ## Status
 
 - `Verified`: Approval State: APPROVED
-- `Verified`: Execution Class: docs-only editorial/search host runtime boundary
+- `Verified`: Execution Class: bounded no-JS editorial/search host runtime proof
 - `Verified`: Priority: high
 
 ## Approved Unit
 
-- `Verified`: `UNIT-163` passed and now admits only `UNIT-164` as docs-only editorial/search host runtime-boundary authoring.
+- `Verified`: `UNIT-164` passed and now admits only `UNIT-165` as the exact nine-file no-JS editorial/search host runtime proof.
 
 ## Objective
 
-- `Verified`: State one exact future blog/article/search host runtime boundary or stop in a governed block.
-- `Verified`: Keep this unit docs-only.
-- `Verified`: Decide whether a later no-JS editorial/search host proof can be constrained to canonical blog, article, and search hosts plus main sections, shared CSS, and bilingual labels.
-- `Verified`: Keep predictive search, JavaScript result behavior, search merchandising, broader editorial-family growth, cart, preset realization, and hardening blocked.
+- `Verified`: Implement canonical blog, article, and search host templates with one main section each.
+- `Verified`: Keep the implementation inside the exact nine approved runtime files.
+- `Verified`: Include no-JS blog article listing, article rendering, search form/results, basic empty states, and native pagination.
+- `Verified`: Keep JavaScript, predictive search, search suggestions, search merchandising, broader editorial-family growth, cart, preset realization, and hardening blocked.
 
 ## Plan Reference
 
-- `Path:` `workspace/plans/phase-4-editorial-search-host-runtime-boundary-v1/HANDOFF.v1.md`
+- `Path:` `workspace/plans/phase-4-editorial-search-host-runtime-proof-v1/HANDOFF.v1.md`
 
 ## Allowed Files Or Surfaces
 
-- `workspace/plans/phase-4-editorial-search-host-runtime-boundary-v1/`
+- `project/templates/blog.json`
+- `project/templates/article.json`
+- `project/templates/search.json`
+- `project/sections/stone-main-blog.liquid`
+- `project/sections/stone-main-article.liquid`
+- `project/sections/stone-main-search.liquid`
+- `project/assets/stone-base.css`
+- `project/locales/he.default.schema.json`
+- `project/locales/en.schema.json`
 - `state/`
 - `workspace/handoff/CURRENT_HANDOFF.md`
 
@@ -39,4 +47,4 @@
 
 ## Stop Condition
 
-Fail closed if `UNIT-164` attempts project runtime edits, cannot state an exact future runtime file boundary, admits predictive search or JavaScript result behavior, opens broader editorial-family growth, or routes directly into implementation without a bounded proof unit.
+Fail closed if `UNIT-165` changes any project file outside the exact nine-file editorial/search proof boundary, adds JavaScript or predictive search, adds search suggestions or merchandising, expands editorial families beyond host completion, cannot preserve JSON validity and bilingual locale parity, or weakens the no-JS host boundary.
