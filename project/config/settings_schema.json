@@ -103,6 +103,40 @@
     ]
   },
   {
+    "name": "t:settings.preset_pack.name",
+    "settings": [
+      {
+        "type": "select",
+        "id": "stone_preset_pack",
+        "label": "t:settings.preset_pack.settings.preset_pack.label",
+        "info": "t:settings.preset_pack.settings.preset_pack.info",
+        "default": "jewelry",
+        "options": [
+          {
+            "value": "jewelry",
+            "label": "t:settings.preset_pack.settings.preset_pack.options.jewelry.label"
+          },
+          {
+            "value": "apparel",
+            "label": "t:settings.preset_pack.settings.preset_pack.options.apparel.label"
+          },
+          {
+            "value": "electronics",
+            "label": "t:settings.preset_pack.settings.preset_pack.options.electronics.label"
+          },
+          {
+            "value": "beauty",
+            "label": "t:settings.preset_pack.settings.preset_pack.options.beauty.label"
+          },
+          {
+            "value": "home_lifestyle",
+            "label": "t:settings.preset_pack.settings.preset_pack.options.home_lifestyle.label"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "t:settings.shell_behavior.name",
     "settings": [
       {

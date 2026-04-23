@@ -5,6 +5,7 @@
   assign stone_direction_mode = settings.stone_direction_mode | default: 'auto'
   assign stone_document_dir = 'rtl'
   assign stone_brand_name = settings.stone_brand_name | strip
+  assign stone_preset_pack = settings.stone_preset_pack | default: 'jewelry'
 
   if stone_brand_name == blank
     assign stone_brand_name = shop.name
@@ -58,6 +59,7 @@
     data-stone-spacing-scale="{{ settings.stone_spacing_scale | default: 'comfortable' | escape }}"
     data-stone-radius-scale="{{ settings.stone_radius_scale | default: 'soft' | escape }}"
     data-stone-motion-level="{{ settings.stone_motion_level | default: 'standard' | escape }}"
+    data-stone-preset-pack="{{ stone_preset_pack | escape }}"
   >
     <a class="stone-skip-link" href="#MainContent">{{ 'snippets.stone_global_header.skip_link' | t }}</a>
     {% render 'stone-global-header', stone_brand_name: stone_brand_name %}

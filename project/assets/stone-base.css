@@ -14,6 +14,46 @@ body {
   text-rendering: optimizeLegibility;
 }
 
+body[data-stone-preset-pack="jewelry"] {
+  --stone-color-surface: #f8f6f2;
+  --stone-color-muted: rgba(18, 18, 18, 0.66);
+  --stone-color-border: rgba(18, 18, 18, 0.12);
+  --stone-color-border-strong: rgba(18, 18, 18, 0.28);
+  --stone-preset-main-padding: var(--stone-space-8);
+}
+
+body[data-stone-preset-pack="apparel"] {
+  --stone-color-surface: #f5f6f8;
+  --stone-color-muted: rgba(18, 18, 18, 0.7);
+  --stone-color-border: rgba(18, 18, 18, 0.14);
+  --stone-color-border-strong: rgba(18, 18, 18, 0.32);
+  --stone-preset-main-padding: calc(var(--stone-space-6) + var(--stone-space-2));
+}
+
+body[data-stone-preset-pack="electronics"] {
+  --stone-color-surface: #f2f5f7;
+  --stone-color-muted: rgba(18, 18, 18, 0.74);
+  --stone-color-border: rgba(18, 18, 18, 0.18);
+  --stone-color-border-strong: rgba(18, 18, 18, 0.38);
+  --stone-preset-main-padding: var(--stone-space-6);
+}
+
+body[data-stone-preset-pack="beauty"] {
+  --stone-color-surface: #faf4f5;
+  --stone-color-muted: rgba(18, 18, 18, 0.68);
+  --stone-color-border: rgba(18, 18, 18, 0.12);
+  --stone-color-border-strong: rgba(18, 18, 18, 0.28);
+  --stone-preset-main-padding: calc(var(--stone-space-8) + var(--stone-space-2));
+}
+
+body[data-stone-preset-pack="home_lifestyle"] {
+  --stone-color-surface: #f7f5f0;
+  --stone-color-muted: rgba(18, 18, 18, 0.7);
+  --stone-color-border: rgba(18, 18, 18, 0.14);
+  --stone-color-border-strong: rgba(18, 18, 18, 0.3);
+  --stone-preset-main-padding: var(--stone-space-8);
+}
+
 body,
 button,
 input,
@@ -196,7 +236,7 @@ textarea {
   inline-size: 100%;
   max-inline-size: var(--stone-shell-max-width);
   margin-inline: auto;
-  padding-block: var(--stone-space-6);
+  padding-block: var(--stone-preset-main-padding, var(--stone-space-6));
   padding-inline: var(--stone-gutter);
   box-sizing: border-box;
 }

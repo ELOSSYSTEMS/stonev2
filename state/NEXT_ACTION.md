@@ -8,14 +8,14 @@
 
 ## Approved Unit
 
-- `Verified`: `UNIT-168` passed and now admits only `UNIT-169` as exact five-file preset-pack runtime proof.
+- `Verified`: `UNIT-169` passed and now admits only `UNIT-170` as verification/frontier review of the exact five-file preset-pack runtime proof.
 
 ## Objective
 
-- `Verified`: Implement one shared `stone_preset_pack` selector with five roadmap preset options.
-- `Verified`: Emit the selected preset as a body-level data attribute.
-- `Verified`: Add shared CSS tone/density hooks and bilingual labels.
-- `Verified`: Keep templates, sections, snippets, JavaScript, homepage sequence mutation, host assignment mutation, predictive search, cart behavior, recommendations, companion behavior, and hardening out of scope.
+- `Verified`: Verify that `UNIT-169` changed only the exact five approved runtime files.
+- `Verified`: Confirm JSON validity and locale parity for the new preset-pack labels.
+- `Verified`: Confirm no template, section, snippet, or JavaScript drift.
+- `Verified`: Decide the next honest lane without treating selector plumbing as complete preset rollout.
 
 ## Plan Reference
 
@@ -43,4 +43,4 @@
 
 ## Stop Condition
 
-Fail closed if `UNIT-169` changes templates, sections, snippets, JavaScript, any unapproved runtime file, homepage sequence, host assignments, predictive search, cart behavior, recommendations, companion behavior, checkout/billing-sensitive behavior, or hardening.
+Fail closed if `UNIT-170` finds template, section, snippet, JavaScript, unapproved runtime file, homepage sequence, host assignment, predictive search, cart behavior, recommendation, companion behavior, checkout/billing-sensitive behavior, or hardening drift.

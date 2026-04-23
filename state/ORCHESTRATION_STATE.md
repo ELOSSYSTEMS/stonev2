@@ -8,13 +8,13 @@
 
 ## Current Phase
 
-- `Verified`: Active roadmap phase: Phase 4 preset-pack runtime proof after verified boundary
-- `Verified`: Last completed phase slice: Phase 4 preset-pack runtime boundary (`UNIT-168`)
+- `Verified`: Active roadmap phase: Phase 4 preset-pack runtime proof verification
+- `Verified`: Last completed phase slice: Phase 4 preset-pack runtime proof (`UNIT-169`)
 
 ## Approval State
 
 - `Verified`: Current next action approval: APPROVED
-- `Verified`: Approval basis: `UNIT-168` stated an exact five-file future runtime boundary for shared preset selector plumbing and tone/density hooks while keeping templates, sections, snippets, JavaScript, host assignment mutation, predictive search, cart behavior, companion behavior, and hardening blocked.
+- `Verified`: Approval basis: `UNIT-169` implemented only the exact five-file shared preset selector proof with JSON validity, locale parity, and no template, section, snippet, or JavaScript drift observed before state transition.
 
 ## Lock State
 

@@ -72,6 +72,32 @@
         }
       }
     },
+    "preset_pack": {
+      "name": "Preset pack",
+      "settings": {
+        "preset_pack": {
+          "label": "Store preset",
+          "info": "Sets the shared preset identity and global tone-density hooks. It does not change templates, content, search, cart, or checkout behavior.",
+          "options": {
+            "jewelry": {
+              "label": "Jewelry"
+            },
+            "apparel": {
+              "label": "Apparel"
+            },
+            "electronics": {
+              "label": "Electronics"
+            },
+            "beauty": {
+              "label": "Beauty"
+            },
+            "home_lifestyle": {
+              "label": "Home and lifestyle"
+            }
+          }
+        }
+      }
+    },
     "shell_behavior": {
       "name": "Shell behavior",
       "settings": {

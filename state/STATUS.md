@@ -5,7 +5,7 @@
 - `Verified`: Repo state: harness foundation populated
 - `Verified`: Storefront runtime state: bounded section-family runtime slices exist and canonical homepage, shell/navigation, collection, PDP, blog, article, and search host proofs are verified or pending no further host implementation.
 - `Verified`: Architecture authority: the five documents under `docs/architecture/`
-- `Verified`: Current implementation package: `workspace/plans/phase-4-preset-pack-runtime-proof-v1/`
+- `Verified`: Current verification package: `workspace/plans/phase-4-preset-pack-runtime-proof-v1/`
 
 ## Canonical Inputs
 
@@ -35,11 +35,12 @@
 - `Verified`: `UNIT-166` passed by verifying the exact editorial/search proof, JSON validity, section schema validity, locale parity, and absence of JavaScript or predictive-search drift.
 - `Verified`: `UNIT-167` passed by recording runtime-realizable preset fields, host assignment boundaries, blocked fields, and a later docs-only preset-pack runtime-boundary package.
 - `Verified`: `UNIT-168` passed by stating one exact five-file preset-pack runtime boundary for shared selector plumbing and shared CSS tone/density hooks.
-- `Verified`: `UNIT-169` is approved only as the exact five-file preset-pack runtime proof.
+- `Verified`: `UNIT-169` passed by adding one shared preset selector, a body-level preset data attribute, shared CSS tone/density hooks, and bilingual labels inside the exact five approved runtime files.
+- `Verified`: `UNIT-170` is approved only as verification/frontier review of the exact five-file preset-pack runtime proof.
 
 ## Risks And Blocks
 
 - `Verified`: No preset runtime implementation is approved.
 - `Verified`: No per-preset architecture sprawl is approved.
 - `Verified`: No predictive-search, cart, or hardening lane is approved.
-- `Inference`: The next honest step is the exact five-file selector-only preset runtime proof, not broad preset rollout.
+- `Inference`: The next honest step is proof verification, not broad preset rollout.

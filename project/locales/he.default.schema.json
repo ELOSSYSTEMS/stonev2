@@ -72,6 +72,32 @@
         }
       }
     },
+    "preset_pack": {
+      "name": "חבילת פריסטים",
+      "settings": {
+        "preset_pack": {
+          "label": "פריסט חנות",
+          "info": "מגדיר זהות פריסט משותפת וחיבורי טון וצפיפות גלובליים. הוא לא משנה תבניות, תוכן, חיפוש, עגלה או התנהגות תשלום.",
+          "options": {
+            "jewelry": {
+              "label": "תכשיטים"
+            },
+            "apparel": {
+              "label": "אופנה"
+            },
+            "electronics": {
+              "label": "אלקטרוניקה"
+            },
+            "beauty": {
+              "label": "ביוטי"
+            },
+            "home_lifestyle": {
+              "label": "בית ולייפסטייל"
+            }
+          }
+        }
+      }
+    },
     "shell_behavior": {
       "name": "התנהגות מעטפת",
       "settings": {

@@ -5014,3 +5014,35 @@
   - `node HARNESS/checks/harness-check.mjs`
 - Result: PASS
 - Follow-up: execute `UNIT-169` only as the exact five-file preset-pack runtime proof and commit before moving on
+### Session Entry
+
+- Timestamp: 2026-04-24 00:11 Asia/Jerusalem
+- Skill or Mode: `project-build`
+- Summary: executed `UNIT-169`, implemented the exact five-file preset-pack runtime proof by adding one shared `stone_preset_pack` selector, five preset options, a body-level data attribute, shared CSS tone/density hooks, and bilingual labels while keeping protected surfaces blocked
+- Files changed:
+  - `project/layout/theme.liquid`
+  - `project/config/settings_schema.json`
+  - `project/assets/stone-base.css`
+  - `project/locales/en.schema.json`
+  - `project/locales/he.default.schema.json`
+  - `state/ORCHESTRATION_STATE.md`
+  - `state/STATUS.md`
+  - `state/NEXT_ACTION.md`
+  - `state/FEATURE_STATUS.md`
+  - `state/PROGRESS.md`
+  - `state/SESSION_LOG.md`
+  - `workspace/handoff/CURRENT_HANDOFF.md`
+- Checks run:
+  - JSON parsing for `project/config/settings_schema.json`, `project/locales/en.schema.json`, and `project/locales/he.default.schema.json`
+  - locale parity for `settings.preset_pack`
+  - `git diff --name-only -- project`
+  - `git diff --name-only -- project/templates project/sections project/snippets project/assets/stone-runtime.js`
+  - `node HARNESS/checks/check-state-artifacts.mjs`
+  - `node HARNESS/checks/check-next-action-scope.mjs`
+  - `node HARNESS/checks/check-plan-exists.mjs`
+  - `node HARNESS/checks/check-handoff-completeness.mjs`
+  - `node HARNESS/checks/check-approval-state.mjs`
+  - `node HARNESS/checks/check-lock-state.mjs`
+  - `node HARNESS/checks/harness-check.mjs`
+- Result: PASS
+- Follow-up: execute `UNIT-170` only as verification/frontier review of the exact five-file preset-pack runtime proof and commit before moving on
