@@ -17,6 +17,7 @@
 - `Verified`: `workspace/plans/phase-4-preset-pack-realization-boundary-v1/PLAN.v1.md`
 - `Verified`: `workspace/plans/phase-4-preset-pack-runtime-boundary-v1/PLAN.v1.md`
 - `Verified`: `workspace/plans/phase-4-preset-pack-runtime-proof-v1/PLAN.v1.md`
+- `Verified`: `workspace/plans/phase-4-post-preset-selector-frontier-review-v1/PLAN.v1.md`
 
 ## Constraints
 
@@ -37,11 +38,16 @@
 - `Verified`: `UNIT-168` passed by stating one exact five-file preset-pack runtime boundary for shared selector plumbing and shared CSS tone/density hooks.
 - `Verified`: `UNIT-169` passed by adding one shared preset selector, a body-level preset data attribute, shared CSS tone/density hooks, and bilingual labels inside the exact five approved runtime files.
 - `Verified`: `UNIT-170` passed by verifying the exact five-file preset runtime proof, JSON validity, preset locale parity, and absence of template, section, snippet, or JavaScript drift.
-- `Verified`: `UNIT-171` is approved only as docs-only post-preset-selector frontier review.
+- `Verified`: `UNIT-171` passed by determining that no further autonomous runtime lane is approved without owner decisions on starter content, host assignment rules, template JSON mutation policy, or hardening priority.
+- `Verified`: `UNIT-172` is blocked pending owner decision.
 
 ## Risks And Blocks
 
-- `Verified`: No preset runtime implementation is approved.
+- `Verified`: No further autonomous unit is approved.
+- `Verified`: Exact starter content payloads are missing.
+- `Verified`: Exact per-preset host assignment rules are missing.
+- `Verified`: Exact template JSON mutation policy is missing.
+- `Verified`: Exact hardening entry criteria after partial preset realization are missing.
 - `Verified`: No per-preset architecture sprawl is approved.
 - `Verified`: No predictive-search, cart, or hardening lane is approved.
-- `Inference`: The next honest step is deciding whether any bounded lane remains after selector-only proof, not broad preset rollout.
+- `Inference`: The next honest step is owner decision, not autonomous execution.

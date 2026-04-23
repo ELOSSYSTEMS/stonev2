@@ -8,13 +8,13 @@
 
 ## Current Phase
 
-- `Verified`: Active roadmap phase: Phase 4 post-preset-selector frontier review
-- `Verified`: Last completed phase slice: Phase 4 preset-pack runtime proof verification (`UNIT-170`)
+- `Verified`: Active roadmap phase: owner decision required after post-preset-selector frontier review
+- `Verified`: Last completed phase slice: Phase 4 post-preset-selector frontier review (`UNIT-171`)
 
 ## Approval State
 
-- `Verified`: Current next action approval: APPROVED
-- `Verified`: Approval basis: `UNIT-170` verified the exact five-file preset selector proof, confirmed JSON validity and locale parity, and found no template, section, snippet, or JavaScript drift.
+- `Verified`: Current next action approval: CONDITIONALLY_APPROVED
+- `Verified`: Approval basis: `UNIT-171` determined that further autonomous runtime work would require missing owner evidence for starter content, host assignment rules, template JSON mutation policy, or hardening priority.
 
 ## Lock State
 

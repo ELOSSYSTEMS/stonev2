@@ -2,28 +2,26 @@
 
 ## Status
 
-- `Verified`: Approval State: APPROVED
-- `Verified`: Execution Class: docs-only preset-pack realization boundary
+- `Verified`: Approval State: CONDITIONALLY_APPROVED
+- `Verified`: Execution Class: owner decision required
 - `Verified`: Priority: high
 
 ## Approved Unit
 
-- `Verified`: `UNIT-170` passed and now admits only `UNIT-171` as docs-only post-preset-selector frontier review.
+- `Verified`: `UNIT-171` passed and leaves `UNIT-172` blocked pending owner decision; no further autonomous unit is approved.
 
 ## Objective
 
-- `Verified`: Decide whether any next preset-pack lane can honestly advance after selector-only runtime proof.
-- `Verified`: Keep selector plumbing distinct from complete preset rollout.
-- `Verified`: Decide whether host assignment, homepage sequence, starter content, or hardening should remain blocked, be routed to a bounded docs-only package, or stop in a governed block.
-- `Verified`: Do not authorize runtime edits from this frontier review unit.
+- `Verified`: Collect an owner decision before any further autonomous work.
+- `Verified`: Choose whether preset realization stops at selector/tone hooks for now, whether exact starter content and host-assignment rules will be supplied, or whether Phase 5 hardening-readiness should be prioritized despite incomplete preset realization.
+- `Verified`: Keep runtime edits blocked until that decision exists.
 
 ## Plan Reference
 
-- `Path:` `workspace/handoff/CURRENT_HANDOFF.md`
+- `Path:` `workspace/plans/phase-4-post-preset-selector-frontier-review-v1/HANDOFF.v1.md`
 
 ## Allowed Files Or Surfaces
 
-- `workspace/plans/phase-4-post-preset-selector-frontier-review-v1/`
 - `state/`
 - `workspace/handoff/CURRENT_HANDOFF.md`
 
@@ -39,4 +37,4 @@
 
 ## Stop Condition
 
-Fail closed if `UNIT-171` attempts runtime edits, treats selector plumbing as complete preset rollout, opens host assignment or starter content without exact file/content boundaries, routes into hardening prematurely, or reopens predictive search, cart behavior, recommendations, companion behavior, checkout/billing-sensitive behavior, or per-preset architecture.
+Do not execute another autonomous unit until the owner supplies the missing decision. Fail closed if work proceeds into runtime edits, host assignment, starter content, hardening, predictive search, cart behavior, recommendations, companion behavior, checkout/billing-sensitive behavior, or per-preset architecture without that explicit decision.

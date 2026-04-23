@@ -8,6 +8,7 @@
 - `Verified`: `UNIT-168` completed the docs-only preset-pack runtime boundary and seeded the exact five-file runtime proof.
 - `Verified`: `UNIT-169` implemented the exact five-file preset-pack runtime proof.
 - `Verified`: `UNIT-170` verified the exact five-file preset-pack runtime proof.
+- `Verified`: `UNIT-171` completed the post-preset-selector frontier review and recorded the hard block.
 
 ## Current State
 
@@ -17,8 +18,9 @@
 - `Verified`: `UNIT-168` narrows runtime proof to one shared preset selector, one body data attribute, CSS tone/density hooks, and bilingual labels.
 - `Verified`: `UNIT-169` added the shared selector and data/CSS/locale plumbing inside the exact approved five files.
 - `Verified`: `UNIT-170` confirmed the proof stayed inside the exact five approved project files and did not touch templates, sections, snippets, or JavaScript.
+- `Verified`: `UNIT-171` determined that further autonomous runtime work requires owner evidence for starter content, host assignment rules, template JSON mutation policy, or hardening priority.
 - `Verified`: Templates, sections, snippets, JavaScript, homepage sequence mutation, host assignment mutation, predictive search, cart behavior, recommendations, companion behavior, checkout/billing-sensitive behavior, and hardening remain blocked.
-- `Verified`: `UNIT-171` is now approved as docs-only post-preset-selector frontier review.
+- `Verified`: `UNIT-172` is blocked pending owner decision.
 
 ## Changed Or Seeded Files
 
@@ -42,6 +44,11 @@
 - `Verified`: `project/assets/stone-base.css`
 - `Verified`: `project/locales/en.schema.json`
 - `Verified`: `project/locales/he.default.schema.json`
+- `Verified`: `workspace/plans/phase-4-post-preset-selector-frontier-review-v1/PLAN.v1.md`
+- `Verified`: `workspace/plans/phase-4-post-preset-selector-frontier-review-v1/ASSUMPTIONS.v1.md`
+- `Verified`: `workspace/plans/phase-4-post-preset-selector-frontier-review-v1/CHECKS.v1.md`
+- `Verified`: `workspace/plans/phase-4-post-preset-selector-frontier-review-v1/RISKS.v1.md`
+- `Verified`: `workspace/plans/phase-4-post-preset-selector-frontier-review-v1/HANDOFF.v1.md`
 - `Verified`: `state/ORCHESTRATION_STATE.md`
 - `Verified`: `state/STATUS.md`
 - `Verified`: `state/NEXT_ACTION.md`
@@ -55,17 +62,16 @@
 - `Verified`: Broad preset runtime implementation remains blocked.
 - `Verified`: Per-preset architecture sprawl remains blocked.
 - `Verified`: Predictive search, cart behavior, and hardening remain blocked.
-- `Inference`: The next unit should decide whether host assignment or starter content can be bounded, or whether the Phase 4 lane should stop before hardening.
+- `Verified`: Missing owner decisions block further autonomous work.
 
 ## Recommended Next Step
 
-- `Verified`: Execute `UNIT-171` only as docs-only post-preset-selector frontier review.
-- `Verified`: Commit after `UNIT-171` passes before moving to any next unit.
-- `Inference`: If no bounded next lane can be stated without blocked domains, stop in a governed block.
+- `Verified`: Stop autonomous execution at `UNIT-172` until the owner decides whether to keep preset realization at selector/tone hooks, provide exact starter content and host-assignment rules, or explicitly prioritize Phase 5 hardening-readiness despite incomplete preset realization.
+- `Inference`: Continuing without that decision would invent product direction.
 
 ## Resume Checks
 
-- `Verified`: Read `workspace/plans/phase-4-preset-pack-runtime-proof-v1/PLAN.v1.md` and `workspace/plans/phase-4-preset-pack-runtime-proof-v1/HANDOFF.v1.md`.
+- `Verified`: Read `workspace/plans/phase-4-post-preset-selector-frontier-review-v1/PLAN.v1.md` and `workspace/plans/phase-4-post-preset-selector-frontier-review-v1/HANDOFF.v1.md`.
 - `Verified`: Read `state/NEXT_ACTION.md`.
-- `Verified`: Confirm `UNIT-171` is docs-only and has no `project/` diff.
+- `Verified`: Confirm no new autonomous unit is executed before owner decision.
 - `Verified`: Run `node HARNESS/checks/harness-check.mjs`.
