@@ -2723,6 +2723,69 @@
           }
         }
       }
+    },
+    "stone_main_collection": {
+      "name": "Main collection",
+      "collection_label": "Collection",
+      "product_count": "{{ count }} products",
+      "sort_label": "Sort by",
+      "sort_submit": "Apply",
+      "empty": "This collection does not contain products yet.",
+      "pagination_label": "Collection pagination",
+      "previous_page": "Previous",
+      "next_page": "Next",
+      "settings": {
+        "show_description": {
+          "label": "Show collection description",
+          "info": "Displays the native collection description above the product grid when available."
+        },
+        "show_sort": {
+          "label": "Show sort",
+          "info": "Displays a native no-JS Shopify sort form above the product grid."
+        },
+        "products_per_page": {
+          "label": "Products per page",
+          "info": "Controls native pagination size for the collection product grid."
+        },
+        "show_vendor": {
+          "label": "Show vendor",
+          "info": "Passes the vendor display option to the existing product-card snippet."
+        },
+        "show_price": {
+          "label": "Show price",
+          "info": "Passes the price display option to the existing product-card snippet."
+        },
+        "width_mode": {
+          "label": "Width mode",
+          "info": "Controls the container width for the collection host proof.",
+          "options": {
+            "narrow": {
+              "label": "Narrow"
+            },
+            "standard": {
+              "label": "Standard"
+            },
+            "wide": {
+              "label": "Wide"
+            }
+          }
+        },
+        "spacing_mode": {
+          "label": "Spacing mode",
+          "info": "Controls the vertical spacing for the collection host proof.",
+          "options": {
+            "compact": {
+              "label": "Compact"
+            },
+            "standard": {
+              "label": "Balanced"
+            },
+            "relaxed": {
+              "label": "Relaxed"
+            }
+          }
+        }
+      }
     }
   },
   "snippets": {

@@ -2723,6 +2723,69 @@
           }
         }
       }
+    },
+    "stone_main_collection": {
+      "name": "קולקציה ראשית",
+      "collection_label": "קולקציה",
+      "product_count": "{{ count }} מוצרים",
+      "sort_label": "מיון לפי",
+      "sort_submit": "החלה",
+      "empty": "הקולקציה עדיין לא מכילה מוצרים.",
+      "pagination_label": "דפדוף קולקציה",
+      "previous_page": "קודם",
+      "next_page": "הבא",
+      "settings": {
+        "show_description": {
+          "label": "הצגת תיאור קולקציה",
+          "info": "מציג את תיאור הקולקציה הטבעי מעל גריד המוצרים כאשר הוא זמין."
+        },
+        "show_sort": {
+          "label": "הצגת מיון",
+          "info": "מציג טופס מיון Shopify טבעי ללא JavaScript מעל גריד המוצרים."
+        },
+        "products_per_page": {
+          "label": "מוצרים בעמוד",
+          "info": "שולט בגודל הדפדוף הטבעי של גריד מוצרי הקולקציה."
+        },
+        "show_vendor": {
+          "label": "הצגת ספק",
+          "info": "מעביר את אפשרות הצגת הספק לסניפט כרטיס המוצר הקיים."
+        },
+        "show_price": {
+          "label": "הצגת מחיר",
+          "info": "מעביר את אפשרות הצגת המחיר לסניפט כרטיס המוצר הקיים."
+        },
+        "width_mode": {
+          "label": "מצב רוחב",
+          "info": "שולט ברוחב הקונטיינר של הוכחת מארח הקולקציה.",
+          "options": {
+            "narrow": {
+              "label": "צר"
+            },
+            "standard": {
+              "label": "סטנדרטי"
+            },
+            "wide": {
+              "label": "רחב"
+            }
+          }
+        },
+        "spacing_mode": {
+          "label": "מצב ריווח",
+          "info": "שולט בריווח האנכי של הוכחת מארח הקולקציה.",
+          "options": {
+            "compact": {
+              "label": "צפוף"
+            },
+            "standard": {
+              "label": "מאוזן"
+            },
+            "relaxed": {
+              "label": "מרווח"
+            }
+          }
+        }
+      }
     }
   },
   "snippets": {

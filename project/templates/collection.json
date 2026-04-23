@@ -1,0 +1,19 @@
+{
+  "sections": {
+    "main": {
+      "type": "stone-main-collection",
+      "settings": {
+        "show_description": true,
+        "show_sort": true,
+        "products_per_page": 24,
+        "show_vendor": true,
+        "show_price": true,
+        "width_mode": "wide",
+        "spacing_mode": "standard"
+      }
+    }
+  },
+  "order": [
+    "main"
+  ]
+}

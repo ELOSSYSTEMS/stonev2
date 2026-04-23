@@ -2,25 +2,25 @@
 
 ## Current Phase
 
-- `Verified`: Roadmap phase: the collection host/product-grid runtime boundary has passed, and the repo now proceeds only to a bounded five-file no-JS collection runtime proof.
+- `Verified`: Roadmap phase: the collection host/product-grid runtime proof is implemented and now requires verification/frontier review before any later lane can reopen.
 
 ## Approved Next Action
 
-- `Verified`: `UNIT-157` is explicitly approved as the next bounded runtime implementation lane because `UNIT-156` passed.
+- `Verified`: `UNIT-158` is explicitly approved as the next verification/frontier review lane because `UNIT-157` passed.
 
 ## Last Completed Unit
 
-- `Verified`: Unit ID: `UNIT-156`
-- `Verified`: Summary: authored the exact collection host/product-grid runtime-boundary package, admitted only five runtime files for the next no-JS collection proof, and kept product-card edits, JavaScript, collection companion, archive, PDP, search, cart, preset, and hardening domains blocked.
+- `Verified`: Unit ID: `UNIT-157`
+- `Verified`: Summary: implemented the exact five-file no-JS collection host/product-grid runtime proof with canonical `collection.json`, native collection main section, product grid via existing `stone-product-card`, native pagination, optional no-JS sort, CSS support, and bilingual labels.
 
 ## Verification Status
 
-- `Verified`: Verdict: `UNIT-156` PASS
-- `Verified`: Evidence: `workspace/plans/phase-4-collection-host-product-grid-runtime-boundary-v1/PLAN.v1.md`; `workspace/plans/phase-4-collection-host-product-grid-runtime-boundary-v1/ASSUMPTIONS.v1.md`; `workspace/plans/phase-4-collection-host-product-grid-runtime-boundary-v1/CHECKS.v1.md`; `workspace/plans/phase-4-collection-host-product-grid-runtime-boundary-v1/RISKS.v1.md`; `workspace/plans/phase-4-collection-host-product-grid-runtime-boundary-v1/HANDOFF.v1.md`; `workspace/plans/phase-4-collection-host-product-grid-runtime-proof-v1/HANDOFF.v1.md`; required harness checks
+- `Verified`: Verdict: `UNIT-157` PASS
+- `Verified`: Evidence: `project/templates/collection.json`; `project/sections/stone-main-collection.liquid`; `project/assets/stone-base.css`; `project/locales/he.default.schema.json`; `project/locales/en.schema.json`; JSON parsing; collection locale parity check; no JavaScript/product-card/blocked-template diff
 
 ## Active Blockers
 
-- `Verified`: No runtime work outside the exact five-file `UNIT-157` boundary is approved.
+- `Verified`: No runtime work outside verification of the exact five-file `UNIT-157` boundary is approved.
 - `Verified`: No product-card snippet edits are approved.
 - `Verified`: No JavaScript collection behavior is approved.
 - `Verified`: No collection companion or archive behavior beyond native pagination/sort is approved.
@@ -28,4 +28,4 @@
 
 ## Resume Notes
 
-- `Verified`: Execute `UNIT-157` only inside the exact five-file boundary.
+- `Verified`: Execute `UNIT-158` as verification/frontier review only.

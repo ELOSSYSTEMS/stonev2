@@ -3,21 +3,21 @@
 ## Status
 
 - `Verified`: Approval State: APPROVED
-- `Verified`: Execution Class: bounded collection host/product-grid runtime proof implementation
+- `Verified`: Execution Class: bounded collection host/product-grid runtime proof verification
 - `Verified`: Priority: high
 
 ## Approved Unit
 
-- `Verified`: `UNIT-156` passed and now admits only `UNIT-157` as the exact five-file no-JS collection host/product-grid runtime proof.
+- `Verified`: `UNIT-157` passed and now admits only `UNIT-158` as verification/frontier review for the exact five-file no-JS collection host/product-grid runtime proof.
 
 ## Objective
 
-- `Verified`: Execute `UNIT-157` only inside the exact runtime boundary from `workspace/plans/phase-4-collection-host-product-grid-runtime-proof-v1/HANDOFF.v1.md`.
-- `Verified`: Add one canonical collection host template and one native collection main section.
-- `Verified`: Render native collection title, description, product count, product grid through existing `stone-product-card`, empty state, native pagination, and optional no-JS sort.
-- `Verified`: Keep `project/assets/stone-runtime.js` untouched.
-- `Verified`: Keep `project/snippets/stone-product-card.liquid` untouched.
-- `Verified`: Keep collection companion, archive controls beyond native pagination/sort, banner/explainer/editorial drift, PDP, search, cart, preset realization, and hardening out of scope.
+- `Verified`: Verify that `UNIT-157` changed only the exact five approved runtime files.
+- `Verified`: Verify that `project/assets/stone-runtime.js` stayed untouched.
+- `Verified`: Verify that `project/snippets/stone-product-card.liquid` stayed untouched.
+- `Verified`: Verify JSON validity and bilingual locale parity for `sections.stone_main_collection`.
+- `Verified`: Verify that no product, blog, article, search, list-collections, or cart template was added.
+- `Verified`: Decide the next honest lane without reopening PDP/search/cart/preset/hardening domains prematurely.
 
 ## Plan Reference
 
@@ -45,4 +45,4 @@
 
 ## Stop Condition
 
-Fail closed if `UNIT-157` needs files outside the exact five-file runtime boundary, edits JavaScript, edits `stone-product-card`, adds product/blog/article/search/list-collections/cart templates, implements collection companion behavior, implements archive controls beyond native pagination/sort, or admits PDP/search/cart/preset/hardening domains.
+Fail closed if `UNIT-158` finds project drift outside the exact five-file collection proof boundary, JSON invalidity, locale parity failure, JavaScript changes, product-card snippet changes, added blocked canonical host templates, collection companion drift, archive controls beyond native pagination/sort, or evidence too weak to route a next unit.

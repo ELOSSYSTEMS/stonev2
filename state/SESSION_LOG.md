@@ -4616,3 +4616,36 @@
   - `node HARNESS/checks/harness-check.mjs`
 - Result: PASS
 - Follow-up: execute `UNIT-157` only as the exact five-file no-JS collection host/product-grid runtime proof and commit before moving on
+### Session Entry
+
+- Timestamp: 2026-04-23 23:35 Asia/Jerusalem
+- Skill or Mode: `project-build`
+- Summary: executed `UNIT-157`, implemented the exact five-file no-JS collection host/product-grid runtime proof, added canonical `collection.json`, one native collection main section, product-grid rendering through existing `stone-product-card`, native pagination, optional no-JS sort, CSS support, and bilingual labels while keeping product-card edits, JavaScript, and blocked behavior domains out of scope
+- Files changed:
+  - `project/templates/collection.json`
+  - `project/sections/stone-main-collection.liquid`
+  - `project/assets/stone-base.css`
+  - `project/locales/he.default.schema.json`
+  - `project/locales/en.schema.json`
+  - `state/ORCHESTRATION_STATE.md`
+  - `state/STATUS.md`
+  - `state/NEXT_ACTION.md`
+  - `state/FEATURE_STATUS.md`
+  - `state/PROGRESS.md`
+  - `state/SESSION_LOG.md`
+  - `workspace/handoff/CURRENT_HANDOFF.md`
+- Checks run:
+  - `git status --short -- project`
+  - `git ls-files --others --exclude-standard -- project`
+  - JSON parsing for `project/templates/collection.json`, `project/locales/en.schema.json`, and `project/locales/he.default.schema.json`
+  - locale parity for `sections.stone_main_collection`
+  - no diff for `project/assets/stone-runtime.js`, `project/snippets/stone-product-card.liquid`, or blocked canonical templates
+  - `node HARNESS/checks/check-state-artifacts.mjs`
+  - `node HARNESS/checks/check-next-action-scope.mjs`
+  - `node HARNESS/checks/check-plan-exists.mjs`
+  - `node HARNESS/checks/check-handoff-completeness.mjs`
+  - `node HARNESS/checks/check-approval-state.mjs`
+  - `node HARNESS/checks/check-lock-state.mjs`
+  - `node HARNESS/checks/harness-check.mjs`
+- Result: PASS
+- Follow-up: execute `UNIT-158` only as verification/frontier review of the five-file no-JS collection proof and commit before moving on

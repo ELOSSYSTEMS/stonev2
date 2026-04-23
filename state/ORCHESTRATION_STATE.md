@@ -8,13 +8,13 @@
 
 ## Current Phase
 
-- `Verified`: Active roadmap phase: Phase 4 bounded collection host/product-grid runtime proof implementation after exact boundary approval (`UNIT-156`)
-- `Verified`: Last completed phase slice: Phase 4 collection host/product-grid runtime-boundary package (`UNIT-156`)
+- `Verified`: Active roadmap phase: Phase 4 collection host/product-grid runtime proof verification after bounded implementation (`UNIT-157`)
+- `Verified`: Last completed phase slice: Phase 4 collection host/product-grid runtime proof implementation (`UNIT-157`)
 
 ## Approval State
 
 - `Verified`: Current next action approval: APPROVED
-- `Verified`: Approval basis: `UNIT-156` passed as a docs-only runtime-boundary package and admitted only `UNIT-157`, a five-file no-JS collection host/product-grid runtime proof.
+- `Verified`: Approval basis: `UNIT-157` passed inside the exact five-file no-JS collection host/product-grid runtime proof boundary and now requires verification before any further lane can reopen.
 
 ## Lock State
 
