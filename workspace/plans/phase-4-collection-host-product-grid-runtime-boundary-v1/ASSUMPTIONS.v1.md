@@ -2,5 +2,6 @@
 
 - `Verified`: `UNIT-155` admits only a docs-only collection host/product-grid boundary package.
 - `Verified`: Current runtime has no canonical `collection.json`.
-- `Inference`: A minimal collection proof should start from the native collection object and existing `stone-product-card` snippet.
-- `Inference`: Filter/sort should remain no-JS and native, or be deferred if it expands the boundary.
+- `Verified`: Existing `stone-product-card` semantics are sufficient for a first collection host proof and should remain read-only.
+- `Inference`: A minimal collection proof can use Shopify-native collection data, sort options, and pagination without JavaScript.
+- `Inference`: Filter UI should remain deferred unless it can be proven native and minimal in a later boundary.
