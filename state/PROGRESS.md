@@ -2,21 +2,21 @@
 
 ## Current Phase
 
-- `Verified`: Roadmap phase: preset-pack runtime proof verification is approved after exact five-file implementation.
+- `Verified`: Roadmap phase: post-preset-selector frontier review is approved after exact proof verification.
 
 ## Approved Next Action
 
-- `Verified`: `UNIT-170` is explicitly approved as verification/frontier review of the exact five-file preset-pack runtime proof because `UNIT-169` passed.
+- `Verified`: `UNIT-171` is explicitly approved as docs-only post-preset-selector frontier review because `UNIT-170` passed.
 
 ## Last Completed Unit
 
-- `Verified`: Unit ID: `UNIT-169`
-- `Verified`: Summary: implemented the exact five-file preset-pack runtime proof by adding one shared preset selector, five preset options, a body-level data attribute, shared CSS tone/density hooks, and bilingual labels while preserving blocked surfaces.
+- `Verified`: Unit ID: `UNIT-170`
+- `Verified`: Summary: verified the exact five-file preset-pack runtime proof, confirmed JSON validity and preset locale parity, confirmed no template, section, snippet, or JavaScript drift, and routed only to docs-only post-preset-selector frontier review.
 
 ## Verification Status
 
-- `Verified`: Verdict: `UNIT-169` PASS
-- `Verified`: Evidence: JSON parsing for settings schema and locale files; preset locale parity; `git diff --name-only -- project`; protected template/section/snippet/JavaScript diff check; required harness checks
+- `Verified`: Verdict: `UNIT-170` PASS
+- `Verified`: Evidence: `git show --name-only --format=fuller HEAD`; `git diff --name-only HEAD^ HEAD -- project`; protected template/section/snippet/JavaScript diff check; JSON parsing; preset locale parity; required harness checks
 
 ## Active Blockers
 
@@ -26,4 +26,4 @@
 
 ## Resume Notes
 
-- `Verified`: Execute `UNIT-170` as verification/frontier review of the exact five-file preset-pack runtime proof.
+- `Verified`: Execute `UNIT-171` as docs-only post-preset-selector frontier review.

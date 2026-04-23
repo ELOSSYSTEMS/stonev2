@@ -5046,3 +5046,32 @@
   - `node HARNESS/checks/harness-check.mjs`
 - Result: PASS
 - Follow-up: execute `UNIT-170` only as verification/frontier review of the exact five-file preset-pack runtime proof and commit before moving on
+### Session Entry
+
+- Timestamp: 2026-04-24 00:13 Asia/Jerusalem
+- Skill or Mode: `project-verify`
+- Summary: executed `UNIT-170`, verified that the `UNIT-169` preset-pack runtime proof changed only the exact five approved project files, preserved JSON validity and preset locale parity, produced the expected selector/data/CSS/locale hooks, and did not touch templates, sections, snippets, or JavaScript
+- Files changed:
+  - `state/ORCHESTRATION_STATE.md`
+  - `state/STATUS.md`
+  - `state/NEXT_ACTION.md`
+  - `state/FEATURE_STATUS.md`
+  - `state/PROGRESS.md`
+  - `state/SESSION_LOG.md`
+  - `workspace/handoff/CURRENT_HANDOFF.md`
+- Checks run:
+  - `git show --name-only --format=fuller HEAD`
+  - `git diff --name-only HEAD^ HEAD -- project`
+  - `git diff --name-only HEAD^ HEAD -- project/templates project/sections project/snippets project/assets/stone-runtime.js`
+  - JSON parsing for `project/config/settings_schema.json`, `project/locales/en.schema.json`, and `project/locales/he.default.schema.json`
+  - locale parity for `settings.preset_pack`
+  - selector evidence search for `stone_preset_pack`, `data-stone-preset-pack`, and `home_lifestyle`
+  - `node HARNESS/checks/check-state-artifacts.mjs`
+  - `node HARNESS/checks/check-next-action-scope.mjs`
+  - `node HARNESS/checks/check-plan-exists.mjs`
+  - `node HARNESS/checks/check-handoff-completeness.mjs`
+  - `node HARNESS/checks/check-approval-state.mjs`
+  - `node HARNESS/checks/check-lock-state.mjs`
+  - `node HARNESS/checks/harness-check.mjs`
+- Result: PASS
+- Follow-up: execute `UNIT-171` only as docs-only post-preset-selector frontier review and commit before moving on

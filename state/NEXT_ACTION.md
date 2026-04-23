@@ -8,26 +8,22 @@
 
 ## Approved Unit
 
-- `Verified`: `UNIT-169` passed and now admits only `UNIT-170` as verification/frontier review of the exact five-file preset-pack runtime proof.
+- `Verified`: `UNIT-170` passed and now admits only `UNIT-171` as docs-only post-preset-selector frontier review.
 
 ## Objective
 
-- `Verified`: Verify that `UNIT-169` changed only the exact five approved runtime files.
-- `Verified`: Confirm JSON validity and locale parity for the new preset-pack labels.
-- `Verified`: Confirm no template, section, snippet, or JavaScript drift.
-- `Verified`: Decide the next honest lane without treating selector plumbing as complete preset rollout.
+- `Verified`: Decide whether any next preset-pack lane can honestly advance after selector-only runtime proof.
+- `Verified`: Keep selector plumbing distinct from complete preset rollout.
+- `Verified`: Decide whether host assignment, homepage sequence, starter content, or hardening should remain blocked, be routed to a bounded docs-only package, or stop in a governed block.
+- `Verified`: Do not authorize runtime edits from this frontier review unit.
 
 ## Plan Reference
 
-- `Path:` `workspace/plans/phase-4-preset-pack-runtime-proof-v1/HANDOFF.v1.md`
+- `Path:` `workspace/handoff/CURRENT_HANDOFF.md`
 
 ## Allowed Files Or Surfaces
 
-- `project/layout/theme.liquid`
-- `project/config/settings_schema.json`
-- `project/assets/stone-base.css`
-- `project/locales/en.schema.json`
-- `project/locales/he.default.schema.json`
+- `workspace/plans/phase-4-post-preset-selector-frontier-review-v1/`
 - `state/`
 - `workspace/handoff/CURRENT_HANDOFF.md`
 
@@ -43,4 +39,4 @@
 
 ## Stop Condition
 
-Fail closed if `UNIT-170` finds template, section, snippet, JavaScript, unapproved runtime file, homepage sequence, host assignment, predictive search, cart behavior, recommendation, companion behavior, checkout/billing-sensitive behavior, or hardening drift.
+Fail closed if `UNIT-171` attempts runtime edits, treats selector plumbing as complete preset rollout, opens host assignment or starter content without exact file/content boundaries, routes into hardening prematurely, or reopens predictive search, cart behavior, recommendations, companion behavior, checkout/billing-sensitive behavior, or per-preset architecture.

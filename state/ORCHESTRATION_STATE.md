@@ -8,13 +8,13 @@
 
 ## Current Phase
 
-- `Verified`: Active roadmap phase: Phase 4 preset-pack runtime proof verification
-- `Verified`: Last completed phase slice: Phase 4 preset-pack runtime proof (`UNIT-169`)
+- `Verified`: Active roadmap phase: Phase 4 post-preset-selector frontier review
+- `Verified`: Last completed phase slice: Phase 4 preset-pack runtime proof verification (`UNIT-170`)
 
 ## Approval State
 
 - `Verified`: Current next action approval: APPROVED
-- `Verified`: Approval basis: `UNIT-169` implemented only the exact five-file shared preset selector proof with JSON validity, locale parity, and no template, section, snippet, or JavaScript drift observed before state transition.
+- `Verified`: Approval basis: `UNIT-170` verified the exact five-file preset selector proof, confirmed JSON validity and locale parity, and found no template, section, snippet, or JavaScript drift.
 
 ## Lock State
 
