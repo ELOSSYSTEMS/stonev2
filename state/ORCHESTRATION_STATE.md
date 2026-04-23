@@ -8,14 +8,14 @@
 
 ## Current Phase
 
-- `Verified`: Active roadmap phase: Phase 4 docs-only collection host/behavior reopen evidence after verified homepage and shell/navigation proofs
-- `Verified`: Last completed phase slice: Phase 4 shell/navigation runtime proof verification (`UNIT-154`)
-- `Verified`: Homepage proof and global shell/navigation proof are verified before collection evidence review begins.
+- `Verified`: Active roadmap phase: Phase 4 docs-only collection host/product-grid runtime-boundary after collection reopen evidence (`UNIT-155`)
+- `Verified`: Last completed phase slice: Phase 4 collection host/behavior reopen evidence (`UNIT-155`)
+- `Verified`: Homepage and shell/navigation proofs are verified before collection boundary authoring begins.
 
 ## Approval State
 
 - `Verified`: Current next action approval: APPROVED
-- `Verified`: Approval basis: `UNIT-154` verified the exact seven-file no-JS global shell/navigation proof and admitted only `UNIT-155`, a docs-only collection host/behavior reopen evidence package.
+- `Verified`: Approval basis: `UNIT-155` passed as docs-only collection reopen evidence and admitted only `UNIT-156`, a docs-only collection host/product-grid runtime-boundary package.
 
 ## Lock State
 

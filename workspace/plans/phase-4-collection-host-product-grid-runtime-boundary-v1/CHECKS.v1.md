@@ -1,9 +1,8 @@
-# Phase 4 Collection Host And Behavior Reopen Evidence Checks v1
+# Phase 4 Collection Host Product Grid Runtime Boundary Checks v1
 
-- `Verified`: Keep all edits docs-only in `workspace/plans/`, `state/`, and `workspace/handoff/CURRENT_HANDOFF.md`.
-- `Verified`: Compare keep-blocked, narrow collection reopen, and broad collection reopen.
-- `Verified`: Re-state prior blocked collection surfaces and whether they remain blocked.
-- `Verified`: Verify that no `project/` runtime files changed.
+- `Verified`: Keep this package docs-only in `workspace/plans/`, `state/`, and `workspace/handoff/CURRENT_HANDOFF.md`.
+- `Verified`: State exact future runtime files before implementation.
+- `Verified`: Keep collection companion, archive controls, banner/explainer/editorial drift, PDP, search, cart, preset, hardening, and JavaScript domains blocked.
 - `Verified`: Run `git diff --name-only -- project`.
 - `Verified`: Run `node HARNESS/checks/check-state-artifacts.mjs`.
 - `Verified`: Run `node HARNESS/checks/check-next-action-scope.mjs`.

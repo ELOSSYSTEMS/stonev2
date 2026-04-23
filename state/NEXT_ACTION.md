@@ -3,24 +3,23 @@
 ## Status
 
 - `Verified`: Approval State: APPROVED
-- `Verified`: Execution Class: docs-only collection host/behavior reopen evidence
+- `Verified`: Execution Class: docs-only collection host/product-grid runtime-boundary authoring
 - `Verified`: Priority: high
 
 ## Approved Unit
 
-- `Verified`: `UNIT-154` passed and now admits only `UNIT-155` as a docs-only collection host/behavior reopen evidence package.
+- `Verified`: `UNIT-155` passed and now admits only `UNIT-156` as a docs-only collection host/product-grid runtime-boundary package.
 
 ## Objective
 
-- `Verified`: Execute `UNIT-155` only as a docs-only evidence decision using the existing collection reopen package.
-- `Verified`: Decide whether one exact collection host/behavior lane can reopen after the verified homepage proof and verified global shell/navigation proof.
-- `Verified`: Keep direct collection runtime implementation out of scope.
-- `Verified`: Restate blocked collection companion, archive behavior, navigation strategy, banner/explainer, PDP, search-results, predictive-search, cart drawer, checkout-sensitive, preset realization, and hardening surfaces.
-- `Verified`: Do not treat `UNIT-154` shell verification as permission for broad collection or archive implementation.
+- `Verified`: Author `UNIT-156` only as a docs-only boundary that states exact future runtime files before collection implementation.
+- `Verified`: Preserve that `UNIT-155` admitted a boundary package, not runtime implementation.
+- `Verified`: Keep collection companion, archive controls, banner/explainer/editorial drift, navigation-aid strategy, PDP behavior, search behavior, cart behavior, preset realization, hardening, and JavaScript collection behavior blocked.
+- `Verified`: Do not treat existing collection/product card primitives as permission for broad collection implementation.
 
 ## Plan Reference
 
-- `Path:` `workspace/plans/phase-4-collection-host-and-behavior-reopen-evidence-v1/HANDOFF.v1.md`
+- `Path:` `workspace/plans/phase-4-collection-host-product-grid-runtime-boundary-v1/HANDOFF.v1.md`
 
 ## Allowed Files Or Surfaces
 
@@ -40,4 +39,4 @@
 
 ## Stop Condition
 
-Fail closed if `UNIT-155` authorizes collection runtime implementation directly, weakens the verified shell/navigation boundary, admits collection companion or archive behavior prematurely, admits PDP/search/cart/preset/hardening domains, or cannot state at most one exact next collection boundary.
+Fail closed if `UNIT-156` authorizes runtime implementation directly, cannot state an exact minimal runtime file boundary, admits JavaScript without hard evidence, or reopens collection companion, archive, PDP, search, cart, preset, or hardening domains.
