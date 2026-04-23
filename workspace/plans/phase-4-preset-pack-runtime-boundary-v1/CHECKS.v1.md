@@ -4,6 +4,8 @@
 - `Verified`: Record exact future runtime files or stop in a block.
 - `Verified`: Record exact shared settings domains.
 - `Verified`: Record blocked preset fields.
+- `Verified`: Confirm the future proof excludes template, section, snippet, and JavaScript edits.
+- `Verified`: Confirm the future proof excludes homepage sequence and host assignment mutation.
 - `Verified`: Verify no `project/` runtime files changed.
 - `Verified`: Run `git diff --name-only -- project`.
 - `Verified`: Run `node HARNESS/checks/check-state-artifacts.mjs`.

@@ -4980,3 +4980,37 @@
   - `node HARNESS/checks/harness-check.mjs`
 - Result: PASS
 - Follow-up: execute `UNIT-168` only as docs-only preset-pack runtime-boundary authoring and commit before moving on
+### Session Entry
+
+- Timestamp: 2026-04-24 00:08 Asia/Jerusalem
+- Skill or Mode: `project-build`
+- Summary: executed `UNIT-168`, authored the docs-only preset-pack runtime boundary, stated one exact five-file future runtime proof for shared preset selector plumbing and CSS tone/density hooks, and kept broad preset rollout blocked
+- Files changed:
+  - `workspace/plans/phase-4-preset-pack-runtime-boundary-v1/PLAN.v1.md`
+  - `workspace/plans/phase-4-preset-pack-runtime-boundary-v1/ASSUMPTIONS.v1.md`
+  - `workspace/plans/phase-4-preset-pack-runtime-boundary-v1/CHECKS.v1.md`
+  - `workspace/plans/phase-4-preset-pack-runtime-boundary-v1/RISKS.v1.md`
+  - `workspace/plans/phase-4-preset-pack-runtime-boundary-v1/HANDOFF.v1.md`
+  - `workspace/plans/phase-4-preset-pack-runtime-proof-v1/PLAN.v1.md`
+  - `workspace/plans/phase-4-preset-pack-runtime-proof-v1/ASSUMPTIONS.v1.md`
+  - `workspace/plans/phase-4-preset-pack-runtime-proof-v1/CHECKS.v1.md`
+  - `workspace/plans/phase-4-preset-pack-runtime-proof-v1/RISKS.v1.md`
+  - `workspace/plans/phase-4-preset-pack-runtime-proof-v1/HANDOFF.v1.md`
+  - `state/ORCHESTRATION_STATE.md`
+  - `state/STATUS.md`
+  - `state/NEXT_ACTION.md`
+  - `state/FEATURE_STATUS.md`
+  - `state/PROGRESS.md`
+  - `state/SESSION_LOG.md`
+  - `workspace/handoff/CURRENT_HANDOFF.md`
+- Checks run:
+  - `git diff --name-only -- project`
+  - `node HARNESS/checks/check-state-artifacts.mjs`
+  - `node HARNESS/checks/check-next-action-scope.mjs`
+  - `node HARNESS/checks/check-plan-exists.mjs`
+  - `node HARNESS/checks/check-handoff-completeness.mjs`
+  - `node HARNESS/checks/check-approval-state.mjs`
+  - `node HARNESS/checks/check-lock-state.mjs`
+  - `node HARNESS/checks/harness-check.mjs`
+- Result: PASS
+- Follow-up: execute `UNIT-169` only as the exact five-file preset-pack runtime proof and commit before moving on

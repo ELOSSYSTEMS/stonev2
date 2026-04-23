@@ -5,7 +5,7 @@
 - `Verified`: Repo state: harness foundation populated
 - `Verified`: Storefront runtime state: bounded section-family runtime slices exist and canonical homepage, shell/navigation, collection, PDP, blog, article, and search host proofs are verified or pending no further host implementation.
 - `Verified`: Architecture authority: the five documents under `docs/architecture/`
-- `Verified`: Current decision package: `workspace/plans/phase-4-preset-pack-runtime-boundary-v1/`
+- `Verified`: Current implementation package: `workspace/plans/phase-4-preset-pack-runtime-proof-v1/`
 
 ## Canonical Inputs
 
@@ -16,6 +16,7 @@
 - `Verified`: `docs/architecture/stonev2-build-roadmap.md`
 - `Verified`: `workspace/plans/phase-4-preset-pack-realization-boundary-v1/PLAN.v1.md`
 - `Verified`: `workspace/plans/phase-4-preset-pack-runtime-boundary-v1/PLAN.v1.md`
+- `Verified`: `workspace/plans/phase-4-preset-pack-runtime-proof-v1/PLAN.v1.md`
 
 ## Constraints
 
@@ -33,11 +34,12 @@
 - `Verified`: `UNIT-165` passed by implementing the exact nine-file no-JS editorial/search host proof.
 - `Verified`: `UNIT-166` passed by verifying the exact editorial/search proof, JSON validity, section schema validity, locale parity, and absence of JavaScript or predictive-search drift.
 - `Verified`: `UNIT-167` passed by recording runtime-realizable preset fields, host assignment boundaries, blocked fields, and a later docs-only preset-pack runtime-boundary package.
-- `Verified`: `UNIT-168` is approved only as docs-only preset-pack runtime-boundary authoring.
+- `Verified`: `UNIT-168` passed by stating one exact five-file preset-pack runtime boundary for shared selector plumbing and shared CSS tone/density hooks.
+- `Verified`: `UNIT-169` is approved only as the exact five-file preset-pack runtime proof.
 
 ## Risks And Blocks
 
 - `Verified`: No preset runtime implementation is approved.
 - `Verified`: No per-preset architecture sprawl is approved.
 - `Verified`: No predictive-search, cart, or hardening lane is approved.
-- `Inference`: The next honest step is exact preset-pack runtime-boundary definition, not implementation.
+- `Inference`: The next honest step is the exact five-file selector-only preset runtime proof, not broad preset rollout.

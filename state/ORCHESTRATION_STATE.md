@@ -8,13 +8,13 @@
 
 ## Current Phase
 
-- `Verified`: Active roadmap phase: Phase 4 preset-pack realization boundary after verified canonical host proofs
-- `Verified`: Last completed phase slice: Phase 4 preset-pack realization boundary (`UNIT-167`)
+- `Verified`: Active roadmap phase: Phase 4 preset-pack runtime proof after verified boundary
+- `Verified`: Last completed phase slice: Phase 4 preset-pack runtime boundary (`UNIT-168`)
 
 ## Approval State
 
 - `Verified`: Current next action approval: APPROVED
-- `Verified`: Approval basis: `UNIT-167` recorded the preset fields and host assignments that can move into a later runtime-boundary package while keeping implementation, per-preset architecture, predictive search, cart behavior, companion behavior, and hardening blocked.
+- `Verified`: Approval basis: `UNIT-168` stated an exact five-file future runtime boundary for shared preset selector plumbing and tone/density hooks while keeping templates, sections, snippets, JavaScript, host assignment mutation, predictive search, cart behavior, companion behavior, and hardening blocked.
 
 ## Lock State
 

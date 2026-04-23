@@ -2,21 +2,21 @@
 
 ## Current Phase
 
-- `Verified`: Roadmap phase: preset-pack runtime-boundary authoring is approved as a docs-only decision package after verified host proofs and preset realization boundary.
+- `Verified`: Roadmap phase: preset-pack runtime proof is approved after exact docs-only boundary.
 
 ## Approved Next Action
 
-- `Verified`: `UNIT-168` is explicitly approved as the next docs-only preset-pack runtime-boundary lane because `UNIT-167` passed.
+- `Verified`: `UNIT-169` is explicitly approved as the exact five-file preset-pack runtime proof because `UNIT-168` passed.
 
 ## Last Completed Unit
 
-- `Verified`: Unit ID: `UNIT-167`
-- `Verified`: Summary: authored the docs-only preset-pack realization boundary, recorded runtime-realizable preset fields and host assignment boundaries, kept blocked fields explicit, and seeded only a later docs-only preset-pack runtime-boundary package.
+- `Verified`: Unit ID: `UNIT-168`
+- `Verified`: Summary: authored the docs-only preset-pack runtime boundary, stated one exact five-file future runtime proof for shared preset selector plumbing and CSS tone/density hooks, and kept broad preset rollout blocked.
 
 ## Verification Status
 
-- `Verified`: Verdict: `UNIT-167` PASS
-- `Verified`: Evidence: `workspace/plans/phase-4-preset-pack-realization-boundary-v1/PLAN.v1.md`; `workspace/plans/phase-4-preset-pack-runtime-boundary-v1/HANDOFF.v1.md`; `git diff --name-only -- project`; required harness checks
+- `Verified`: Verdict: `UNIT-168` PASS
+- `Verified`: Evidence: `workspace/plans/phase-4-preset-pack-runtime-boundary-v1/PLAN.v1.md`; `workspace/plans/phase-4-preset-pack-runtime-proof-v1/HANDOFF.v1.md`; `git diff --name-only -- project`; required harness checks
 
 ## Active Blockers
 
@@ -26,4 +26,4 @@
 
 ## Resume Notes
 
-- `Verified`: Execute `UNIT-168` as docs-only preset-pack runtime-boundary authoring.
+- `Verified`: Execute `UNIT-169` as the exact five-file preset-pack runtime proof.

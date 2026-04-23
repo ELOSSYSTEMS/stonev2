@@ -8,22 +8,26 @@
 
 ## Approved Unit
 
-- `Verified`: `UNIT-167` passed and now admits only `UNIT-168` as docs-only preset-pack runtime-boundary authoring.
+- `Verified`: `UNIT-168` passed and now admits only `UNIT-169` as exact five-file preset-pack runtime proof.
 
 ## Objective
 
-- `Verified`: State one exact future preset-pack runtime file boundary or stop in a governed block.
-- `Verified`: Define which shared settings domains can carry preset identity, preset defaults, and host assignments.
-- `Verified`: Keep implementation, per-preset architecture, predictive search, cart behavior, checkout/billing-sensitive behavior, recommendations, companion behavior, and hardening out of scope.
-- `Verified`: Do not authorize runtime edits from this boundary unit.
+- `Verified`: Implement one shared `stone_preset_pack` selector with five roadmap preset options.
+- `Verified`: Emit the selected preset as a body-level data attribute.
+- `Verified`: Add shared CSS tone/density hooks and bilingual labels.
+- `Verified`: Keep templates, sections, snippets, JavaScript, homepage sequence mutation, host assignment mutation, predictive search, cart behavior, recommendations, companion behavior, and hardening out of scope.
 
 ## Plan Reference
 
-- `Path:` `workspace/plans/phase-4-preset-pack-runtime-boundary-v1/HANDOFF.v1.md`
+- `Path:` `workspace/plans/phase-4-preset-pack-runtime-proof-v1/HANDOFF.v1.md`
 
 ## Allowed Files Or Surfaces
 
-- `workspace/plans/phase-4-preset-pack-runtime-boundary-v1/`
+- `project/layout/theme.liquid`
+- `project/config/settings_schema.json`
+- `project/assets/stone-base.css`
+- `project/locales/en.schema.json`
+- `project/locales/he.default.schema.json`
 - `state/`
 - `workspace/handoff/CURRENT_HANDOFF.md`
 
@@ -39,4 +43,4 @@
 
 ## Stop Condition
 
-Fail closed if `UNIT-168` attempts project runtime edits, cannot state an exact future file boundary, treats preset realization as broad rollout, creates per-preset architecture sprawl, reopens predictive search or cart behavior, routes directly to implementation without exact checks, or routes into hardening prematurely.
+Fail closed if `UNIT-169` changes templates, sections, snippets, JavaScript, any unapproved runtime file, homepage sequence, host assignments, predictive search, cart behavior, recommendations, companion behavior, checkout/billing-sensitive behavior, or hardening.
