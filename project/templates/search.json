@@ -1,0 +1,16 @@
+{
+  "sections": {
+    "main": {
+      "type": "stone-main-search",
+      "settings": {
+        "results_per_page": 12,
+        "show_excerpt": true,
+        "width_mode": "wide",
+        "spacing_mode": "standard"
+      }
+    }
+  },
+  "order": [
+    "main"
+  ]
+}

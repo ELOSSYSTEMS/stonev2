@@ -1,0 +1,141 @@
+{%- liquid
+  assign stone_results_per_page = section.settings.results_per_page | default: 12
+  assign stone_show_excerpt = section.settings.show_excerpt
+-%}
+
+{%- paginate search.results by stone_results_per_page -%}
+  {%- capture stone_section_content -%}
+    <div class="stone-main-search">
+      <header class="stone-main-search__header">
+        <p class="stone-main-search__eyebrow">{{ 'sections.stone_main_search.search_label' | t }}</p>
+        <h1 class="stone-main-search__title">{{ 'sections.stone_main_search.name' | t }}</h1>
+      </header>
+
+      <form class="stone-main-search__form" action="{{ routes.search_url }}" method="get" role="search">
+        <label class="stone-main-search__label" for="StoneSearchQuery-{{ section.id }}">
+          {{ 'sections.stone_main_search.query_label' | t }}
+        </label>
+        <div class="stone-main-search__form-row">
+          <input id="StoneSearchQuery-{{ section.id }}" class="stone-main-search__input" type="search" name="q" value="{{ search.terms | escape }}" placeholder="{{ 'sections.stone_main_search.placeholder' | t }}">
+          <button class="stone-main-search__submit" type="submit">{{ 'sections.stone_main_search.submit' | t }}</button>
+        </div>
+      </form>
+
+      {%- if search.performed -%}
+        <p class="stone-main-search__count">{{ 'sections.stone_main_search.result_count' | t: count: search.results_count }}</p>
+
+        {%- if search.results_count > 0 -%}
+          <div class="stone-main-search__results">
+            {%- for item in search.results -%}
+              {%- liquid
+                assign stone_result_type = item.object_type | default: 'page'
+                assign stone_result_excerpt = item.content | strip_html | strip
+                if stone_result_type == 'product'
+                  assign stone_result_excerpt = item.description | strip_html | strip
+                elsif stone_result_type == 'article'
+                  assign stone_result_excerpt = item.excerpt | strip_html | strip
+                  if stone_result_excerpt == blank
+                    assign stone_result_excerpt = item.content | strip_html | strip
+                  endif
+                endif
+              -%}
+              <article class="stone-main-search__result">
+                <p class="stone-main-search__result-type">{{ stone_result_type | escape }}</p>
+                <h2 class="stone-main-search__result-title">
+                  <a href="{{ item.url | escape }}">{{ item.title | escape }}</a>
+                </h2>
+                {%- if stone_show_excerpt and stone_result_excerpt != blank -%}
+                  <p class="stone-main-search__excerpt">{{ stone_result_excerpt | truncatewords: 26 | escape }}</p>
+                {%- endif -%}
+              </article>
+            {%- endfor -%}
+          </div>
+        {%- else -%}
+          <p class="stone-main-search__empty">{{ 'sections.stone_main_search.empty' | t }}</p>
+        {%- endif -%}
+      {%- else -%}
+        <p class="stone-main-search__empty">{{ 'sections.stone_main_search.prompt' | t }}</p>
+      {%- endif -%}
+
+      {%- if paginate.pages > 1 -%}
+        <nav class="stone-main-search__pagination" aria-label="{{ 'sections.stone_main_search.pagination_label' | t }}">
+          {%- if paginate.previous -%}
+            <a class="stone-main-search__pagination-link" href="{{ paginate.previous.url }}">{{ 'sections.stone_main_search.previous_page' | t }}</a>
+          {%- endif -%}
+          {%- for part in paginate.parts -%}
+            {%- if part.is_link -%}
+              <a class="stone-main-search__pagination-link" href="{{ part.url }}">{{ part.title }}</a>
+            {%- elsif part.title == paginate.current_page -%}
+              <span class="stone-main-search__pagination-current" aria-current="page">{{ part.title }}</span>
+            {%- else -%}
+              <span class="stone-main-search__pagination-gap">{{ part.title }}</span>
+            {%- endif -%}
+          {%- endfor -%}
+          {%- if paginate.next -%}
+            <a class="stone-main-search__pagination-link" href="{{ paginate.next.url }}">{{ 'sections.stone_main_search.next_page' | t }}</a>
+          {%- endif -%}
+        </nav>
+      {%- endif -%}
+    </div>
+  {%- endcapture -%}
+
+  {%- render 'stone-section-shell',
+    section: section,
+    heading: '',
+    content: stone_section_content,
+    width: section.settings.width_mode,
+    spacing: section.settings.spacing_mode,
+    shell_class: 'stone-main-search-shell'
+  -%}
+{%- endpaginate -%}
+
+{% schema %}
+{
+  "name": "t:sections.stone_main_search.name",
+  "tag": "section",
+  "class": "shopify-section--stone-main-search",
+  "settings": [
+    {
+      "type": "range",
+      "id": "results_per_page",
+      "label": "t:sections.stone_main_search.settings.results_per_page.label",
+      "info": "t:sections.stone_main_search.settings.results_per_page.info",
+      "min": 4,
+      "max": 24,
+      "step": 2,
+      "default": 12
+    },
+    {
+      "type": "checkbox",
+      "id": "show_excerpt",
+      "label": "t:sections.stone_main_search.settings.show_excerpt.label",
+      "info": "t:sections.stone_main_search.settings.show_excerpt.info",
+      "default": true
+    },
+    {
+      "type": "select",
+      "id": "width_mode",
+      "label": "t:sections.stone_main_search.settings.width_mode.label",
+      "info": "t:sections.stone_main_search.settings.width_mode.info",
+      "default": "wide",
+      "options": [
+        { "value": "narrow", "label": "t:sections.stone_main_search.settings.width_mode.options.narrow.label" },
+        { "value": "standard", "label": "t:sections.stone_main_search.settings.width_mode.options.standard.label" },
+        { "value": "wide", "label": "t:sections.stone_main_search.settings.width_mode.options.wide.label" }
+      ]
+    },
+    {
+      "type": "select",
+      "id": "spacing_mode",
+      "label": "t:sections.stone_main_search.settings.spacing_mode.label",
+      "info": "t:sections.stone_main_search.settings.spacing_mode.info",
+      "default": "standard",
+      "options": [
+        { "value": "compact", "label": "t:sections.stone_main_search.settings.spacing_mode.options.compact.label" },
+        { "value": "standard", "label": "t:sections.stone_main_search.settings.spacing_mode.options.standard.label" },
+        { "value": "relaxed", "label": "t:sections.stone_main_search.settings.spacing_mode.options.relaxed.label" }
+      ]
+    }
+  ]
+}
+{% endschema %}

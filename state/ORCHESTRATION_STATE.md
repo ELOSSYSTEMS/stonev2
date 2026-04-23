@@ -8,13 +8,13 @@
 
 ## Current Phase
 
-- `Verified`: Active roadmap phase: Phase 4 no-JS editorial/search host runtime proof after bounded boundary authoring
-- `Verified`: Last completed phase slice: Phase 4 editorial/search host runtime-boundary authoring (`UNIT-164`)
+- `Verified`: Active roadmap phase: Phase 4 editorial/search host runtime proof verification after bounded implementation (`UNIT-165`)
+- `Verified`: Last completed phase slice: Phase 4 no-JS editorial/search host runtime proof implementation (`UNIT-165`)
 
 ## Approval State
 
 - `Verified`: Current next action approval: APPROVED
-- `Verified`: Approval basis: `UNIT-164` stated the exact nine-file no-JS editorial/search host runtime proof boundary and kept predictive search, JavaScript result behavior, broader editorial growth, cart, preset, and hardening domains blocked.
+- `Verified`: Approval basis: `UNIT-165` passed inside the exact nine-file no-JS editorial/search host runtime proof boundary and now requires verification before any further lane can reopen.
 
 ## Lock State
 

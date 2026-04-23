@@ -2,27 +2,27 @@
 
 ## Current Phase
 
-- `Verified`: Roadmap phase: no-JS editorial/search host runtime proof is approved inside an exact nine-file boundary.
+- `Verified`: Roadmap phase: the editorial/search host runtime proof is implemented and now requires verification/frontier review before any later lane can reopen.
 
 ## Approved Next Action
 
-- `Verified`: `UNIT-165` is explicitly approved as the exact nine-file no-JS editorial/search runtime proof because `UNIT-164` passed.
+- `Verified`: `UNIT-166` is explicitly approved as the next verification/frontier review lane because `UNIT-165` passed.
 
 ## Last Completed Unit
 
-- `Verified`: Unit ID: `UNIT-164`
-- `Verified`: Summary: completed the docs-only editorial/search host runtime-boundary package, stated one exact nine-file no-JS runtime proof boundary, seeded the bounded runtime proof package, and kept predictive search, JavaScript result behavior, broader editorial growth, cart, preset, and hardening domains blocked.
+- `Verified`: Unit ID: `UNIT-165`
+- `Verified`: Summary: implemented the exact nine-file no-JS editorial/search host runtime proof with canonical blog, article, and search host templates, one main section for each host, native pagination, search form/results, empty states, CSS support, and bilingual labels.
 
 ## Verification Status
 
-- `Verified`: Verdict: `UNIT-164` PASS
-- `Verified`: Evidence: `workspace/plans/phase-4-editorial-search-host-runtime-boundary-v1/PLAN.v1.md`; `workspace/plans/phase-4-editorial-search-host-runtime-boundary-v1/HANDOFF.v1.md`; `workspace/plans/phase-4-editorial-search-host-runtime-proof-v1/HANDOFF.v1.md`; `git diff --name-only -- project`; required harness checks
+- `Verified`: Verdict: `UNIT-165` PASS
+- `Verified`: Evidence: nine approved project files; JSON parsing; section schema parsing; editorial/search locale parity check; no JavaScript diff; no predictive-search pattern in new sections
 
 ## Active Blockers
 
-- `Verified`: No runtime files outside the exact nine-file editorial/search proof boundary are approved.
+- `Verified`: No runtime work outside verification of the exact nine-file `UNIT-165` boundary is approved.
 - `Verified`: No JavaScript, predictive search, search suggestions, search merchandising, broader editorial-family growth, cart, preset, or hardening behavior is approved.
 
 ## Resume Notes
 
-- `Verified`: Execute `UNIT-165` only as the exact nine-file no-JS editorial/search host runtime proof.
+- `Verified`: Execute `UNIT-166` as verification/frontier review only.

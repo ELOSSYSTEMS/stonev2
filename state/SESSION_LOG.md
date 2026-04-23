@@ -4876,3 +4876,42 @@
   - `node HARNESS/checks/harness-check.mjs`
 - Result: PASS
 - Follow-up: execute `UNIT-165` only as the exact nine-file no-JS editorial/search host runtime proof and commit before moving on
+### Session Entry
+
+- Timestamp: 2026-04-23 23:59 Asia/Jerusalem
+- Skill or Mode: `project-build`
+- Summary: executed `UNIT-165`, implemented the exact nine-file no-JS editorial/search host runtime proof, added canonical blog, article, and search hosts, one native main section for each host, native pagination, search form/results, empty states, CSS support, and bilingual labels while keeping JavaScript, predictive search, search suggestions, search merchandising, broader editorial growth, cart, preset, and hardening domains out of scope
+- Files changed:
+  - `project/templates/blog.json`
+  - `project/templates/article.json`
+  - `project/templates/search.json`
+  - `project/sections/stone-main-blog.liquid`
+  - `project/sections/stone-main-article.liquid`
+  - `project/sections/stone-main-search.liquid`
+  - `project/assets/stone-base.css`
+  - `project/locales/he.default.schema.json`
+  - `project/locales/en.schema.json`
+  - `state/ORCHESTRATION_STATE.md`
+  - `state/STATUS.md`
+  - `state/NEXT_ACTION.md`
+  - `state/FEATURE_STATUS.md`
+  - `state/PROGRESS.md`
+  - `state/SESSION_LOG.md`
+  - `workspace/handoff/CURRENT_HANDOFF.md`
+- Checks run:
+  - `git status --short -- project`
+  - `git ls-files --others --exclude-standard -- project`
+  - JSON parsing for blog, article, search templates and locale files
+  - section schema parsing for `stone-main-blog`, `stone-main-article`, and `stone-main-search`
+  - locale parity for `sections.stone_main_blog`, `sections.stone_main_article`, and `sections.stone_main_search`
+  - no diff for `project/assets/stone-runtime.js`
+  - no predictive-search pattern in new sections
+  - `node HARNESS/checks/check-state-artifacts.mjs`
+  - `node HARNESS/checks/check-next-action-scope.mjs`
+  - `node HARNESS/checks/check-plan-exists.mjs`
+  - `node HARNESS/checks/check-handoff-completeness.mjs`
+  - `node HARNESS/checks/check-approval-state.mjs`
+  - `node HARNESS/checks/check-lock-state.mjs`
+  - `node HARNESS/checks/harness-check.mjs`
+- Result: PASS
+- Follow-up: execute `UNIT-166` only as verification/frontier review of the nine-file no-JS editorial/search proof and commit before moving on

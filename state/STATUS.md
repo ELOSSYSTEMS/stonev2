@@ -3,7 +3,7 @@
 ## Snapshot
 
 - `Verified`: Repo state: harness foundation populated
-- `Verified`: Storefront runtime state: bounded section-family runtime slices exist, verified homepage, shell/navigation, collection, and PDP hosts exist.
+- `Verified`: Storefront runtime state: bounded section-family runtime slices exist; verified homepage, shell/navigation, collection, and PDP hosts exist; and editorial/search hosts now exist pending verification.
 - `Verified`: Architecture authority: the five documents under `docs/architecture/`
 - `Verified`: Current decision package: `workspace/plans/phase-4-editorial-search-host-runtime-proof-v1/`
 
@@ -29,12 +29,12 @@
 
 ## Current Outcome
 
-- `Verified`: `UNIT-163` passed as docs-only editorial/search host boundary and admitted only a docs-only runtime-boundary package.
 - `Verified`: `UNIT-164` passed by stating the exact nine-file no-JS editorial/search host runtime proof boundary.
-- `Verified`: `UNIT-165` is approved only as that exact runtime proof.
+- `Verified`: `UNIT-165` passed by implementing that exact no-JS editorial/search host proof.
+- `Verified`: `UNIT-166` is approved only as verification/frontier review.
 
 ## Risks And Blocks
 
-- `Verified`: No runtime files outside the exact nine-file editorial/search proof boundary are approved.
+- `Verified`: No runtime work outside verification of the exact nine-file `UNIT-165` boundary is approved.
 - `Verified`: No JavaScript, predictive search, search suggestions, search merchandising, broader editorial-family growth, cart, preset, or hardening behavior is approved.
-- `Inference`: The next honest step is implementation of the narrow proof followed by verification, not further editorial/search expansion.
+- `Inference`: The next honest step is verification/frontier review, not immediate predictive-search, preset, or hardening work.

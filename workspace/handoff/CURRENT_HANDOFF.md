@@ -2,21 +2,28 @@
 
 ## Summary
 
-- `Verified`: `UNIT-162` verified the PDP proof.
 - `Verified`: `UNIT-163` completed the docs-only editorial/search host boundary package.
-- `Verified`: `UNIT-164` completed the docs-only editorial/search host runtime-boundary package and admitted only the exact nine-file no-JS runtime proof.
+- `Verified`: `UNIT-164` completed the docs-only editorial/search host runtime-boundary package.
+- `Verified`: `UNIT-165` passed as the exact nine-file no-JS editorial/search host runtime proof.
 
 ## Current State
 
-- `Verified`: The current runtime includes canonical homepage, collection, and product host templates.
+- `Verified`: The current runtime includes canonical homepage, collection, product, blog, article, and search host templates.
 - `Verified`: The global shell proof is verified and includes a no-JS search entry.
-- `Verified`: The current runtime does not include canonical `blog.json`, `article.json`, or `search.json` hosts.
-- `Verified`: `UNIT-165` is now approved as the exact nine-file no-JS editorial/search host runtime proof.
+- `Verified`: `project/assets/stone-runtime.js` was not edited for the editorial/search proof.
+- `Verified`: `UNIT-166` is now approved as verification/frontier review only.
 
 ## Changed Or Seeded Files
 
-- `Verified`: `workspace/plans/phase-4-editorial-search-host-runtime-boundary-v1/`
-- `Verified`: `workspace/plans/phase-4-editorial-search-host-runtime-proof-v1/`
+- `Verified`: `project/templates/blog.json`
+- `Verified`: `project/templates/article.json`
+- `Verified`: `project/templates/search.json`
+- `Verified`: `project/sections/stone-main-blog.liquid`
+- `Verified`: `project/sections/stone-main-article.liquid`
+- `Verified`: `project/sections/stone-main-search.liquid`
+- `Verified`: `project/assets/stone-base.css`
+- `Verified`: `project/locales/he.default.schema.json`
+- `Verified`: `project/locales/en.schema.json`
 - `Verified`: `state/ORCHESTRATION_STATE.md`
 - `Verified`: `state/STATUS.md`
 - `Verified`: `state/NEXT_ACTION.md`
@@ -27,15 +34,15 @@
 
 ## Open Assumptions
 
-- `Verified`: Runtime work must stay inside `project/templates/blog.json`, `project/templates/article.json`, `project/templates/search.json`, `project/sections/stone-main-blog.liquid`, `project/sections/stone-main-article.liquid`, `project/sections/stone-main-search.liquid`, `project/assets/stone-base.css`, `project/locales/he.default.schema.json`, and `project/locales/en.schema.json`.
-- `Verified`: JavaScript, predictive search, search suggestions, search merchandising, broader editorial-family growth, cart, preset, and hardening remain blocked.
-- `Inference`: If `UNIT-165` passes, the next lane should be verification/frontier review, not immediate predictive-search or preset work.
+- `Verified`: JavaScript and predictive-search behavior remain blocked.
+- `Verified`: Search suggestions, search merchandising, broader editorial-family growth, cart, preset, and hardening remain blocked.
+- `Inference`: If `UNIT-166` passes, the next lane still needs an explicit frontier decision before preset or hardening work can reopen.
 
 ## Recommended Next Step
 
-- `Verified`: Execute `UNIT-165` only as the exact nine-file no-JS editorial/search host runtime proof.
-- `Verified`: Commit after `UNIT-165` passes before moving to any next unit.
-- `Inference`: If the editorial/search proof needs JavaScript or predictive search, stop in a governed block.
+- `Verified`: Execute `UNIT-166` only as verification/frontier review of the exact nine-file no-JS editorial/search proof.
+- `Verified`: Commit after `UNIT-166` passes before moving to any next unit.
+- `Inference`: If verification finds boundary drift, stop and fix or replan before any further unit.
 
 ## Resume Checks
 

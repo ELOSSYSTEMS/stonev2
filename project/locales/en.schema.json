@@ -2844,6 +2844,134 @@
           }
         }
       }
+    },
+    "stone_main_blog": {
+      "name": "Main blog",
+      "blog_label": "Blog",
+      "article_count": "{{ count }} articles",
+      "read_more": "Read article",
+      "empty": "This blog does not contain articles yet.",
+      "pagination_label": "Blog pagination",
+      "previous_page": "Previous",
+      "next_page": "Next",
+      "settings": {
+        "articles_per_page": {
+          "label": "Articles per page",
+          "info": "Controls native pagination size for the blog host proof."
+        },
+        "show_image": {
+          "label": "Show article images",
+          "info": "Displays article images when available."
+        },
+        "show_excerpt": {
+          "label": "Show excerpts",
+          "info": "Displays article excerpts or a short content fallback."
+        },
+        "show_date": {
+          "label": "Show dates",
+          "info": "Displays article publication dates."
+        },
+        "width_mode": {
+          "label": "Width mode",
+          "info": "Controls the container width for the blog host proof.",
+          "options": {
+            "narrow": { "label": "Narrow" },
+            "standard": { "label": "Standard" },
+            "wide": { "label": "Wide" }
+          }
+        },
+        "spacing_mode": {
+          "label": "Spacing mode",
+          "info": "Controls the vertical spacing for the blog host proof.",
+          "options": {
+            "compact": { "label": "Compact" },
+            "standard": { "label": "Balanced" },
+            "relaxed": { "label": "Relaxed" }
+          }
+        }
+      }
+    },
+    "stone_main_article": {
+      "name": "Main article",
+      "article_label": "Article",
+      "back_to_blog": "Back to {{ blog_title }}",
+      "settings": {
+        "show_image": {
+          "label": "Show featured image",
+          "info": "Displays the article image when available."
+        },
+        "show_author": {
+          "label": "Show author",
+          "info": "Displays the article author when available."
+        },
+        "show_date": {
+          "label": "Show date",
+          "info": "Displays the article publication date."
+        },
+        "show_blog_link": {
+          "label": "Show blog link",
+          "info": "Displays a simple link back to the parent blog."
+        },
+        "width_mode": {
+          "label": "Width mode",
+          "info": "Controls the container width for the article host proof.",
+          "options": {
+            "narrow": { "label": "Narrow" },
+            "standard": { "label": "Standard" },
+            "wide": { "label": "Wide" }
+          }
+        },
+        "spacing_mode": {
+          "label": "Spacing mode",
+          "info": "Controls the vertical spacing for the article host proof.",
+          "options": {
+            "compact": { "label": "Compact" },
+            "standard": { "label": "Balanced" },
+            "relaxed": { "label": "Relaxed" }
+          }
+        }
+      }
+    },
+    "stone_main_search": {
+      "name": "Search",
+      "search_label": "Search",
+      "query_label": "Search terms",
+      "placeholder": "Search",
+      "submit": "Search",
+      "result_count": "{{ count }} results",
+      "empty": "No results matched your search.",
+      "prompt": "Enter a search term to view results.",
+      "pagination_label": "Search pagination",
+      "previous_page": "Previous",
+      "next_page": "Next",
+      "settings": {
+        "results_per_page": {
+          "label": "Results per page",
+          "info": "Controls native pagination size for search results."
+        },
+        "show_excerpt": {
+          "label": "Show excerpts",
+          "info": "Displays a short result excerpt when available."
+        },
+        "width_mode": {
+          "label": "Width mode",
+          "info": "Controls the container width for the search host proof.",
+          "options": {
+            "narrow": { "label": "Narrow" },
+            "standard": { "label": "Standard" },
+            "wide": { "label": "Wide" }
+          }
+        },
+        "spacing_mode": {
+          "label": "Spacing mode",
+          "info": "Controls the vertical spacing for the search host proof.",
+          "options": {
+            "compact": { "label": "Compact" },
+            "standard": { "label": "Balanced" },
+            "relaxed": { "label": "Relaxed" }
+          }
+        }
+      }
     }
   },
   "snippets": {

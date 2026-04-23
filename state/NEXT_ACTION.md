@@ -3,19 +3,20 @@
 ## Status
 
 - `Verified`: Approval State: APPROVED
-- `Verified`: Execution Class: bounded no-JS editorial/search host runtime proof
+- `Verified`: Execution Class: bounded editorial/search host runtime proof verification
 - `Verified`: Priority: high
 
 ## Approved Unit
 
-- `Verified`: `UNIT-164` passed and now admits only `UNIT-165` as the exact nine-file no-JS editorial/search host runtime proof.
+- `Verified`: `UNIT-165` passed and now admits only `UNIT-166` as verification/frontier review for the exact nine-file no-JS editorial/search host runtime proof.
 
 ## Objective
 
-- `Verified`: Implement canonical blog, article, and search host templates with one main section each.
-- `Verified`: Keep the implementation inside the exact nine approved runtime files.
-- `Verified`: Include no-JS blog article listing, article rendering, search form/results, basic empty states, and native pagination.
-- `Verified`: Keep JavaScript, predictive search, search suggestions, search merchandising, broader editorial-family growth, cart, preset realization, and hardening blocked.
+- `Verified`: Verify that `UNIT-165` changed only the exact nine approved runtime files.
+- `Verified`: Verify that `project/assets/stone-runtime.js` stayed untouched.
+- `Verified`: Verify JSON validity, section schema validity, and bilingual locale parity for `sections.stone_main_blog`, `sections.stone_main_article`, and `sections.stone_main_search`.
+- `Verified`: Verify that no predictive-search, search suggestion, search merchandising, JavaScript result behavior, broader editorial-family growth, cart, preset, or hardening behavior was added.
+- `Verified`: Decide the next honest lane without reopening predictive search, preset, or hardening prematurely.
 
 ## Plan Reference
 
@@ -47,4 +48,4 @@
 
 ## Stop Condition
 
-Fail closed if `UNIT-165` changes any project file outside the exact nine-file editorial/search proof boundary, adds JavaScript or predictive search, adds search suggestions or merchandising, expands editorial families beyond host completion, cannot preserve JSON validity and bilingual locale parity, or weakens the no-JS host boundary.
+Fail closed if `UNIT-166` finds project drift outside the exact nine-file editorial/search proof boundary, JSON or section-schema invalidity, locale parity failure, JavaScript changes, predictive-search/search-suggestion/search-merchandising behavior, broader editorial-family growth, or evidence too weak to route a next unit.

@@ -2844,6 +2844,134 @@
           }
         }
       }
+    },
+    "stone_main_blog": {
+      "name": "בלוג ראשי",
+      "blog_label": "בלוג",
+      "article_count": "{{ count }} מאמרים",
+      "read_more": "לקריאת המאמר",
+      "empty": "הבלוג עדיין לא מכיל מאמרים.",
+      "pagination_label": "דפדוף בלוג",
+      "previous_page": "קודם",
+      "next_page": "הבא",
+      "settings": {
+        "articles_per_page": {
+          "label": "מאמרים בעמוד",
+          "info": "שולט בגודל הדפדוף הטבעי של הוכחת מארח הבלוג."
+        },
+        "show_image": {
+          "label": "הצגת תמונות מאמרים",
+          "info": "מציג תמונות מאמרים כאשר הן זמינות."
+        },
+        "show_excerpt": {
+          "label": "הצגת תקצירים",
+          "info": "מציג תקצירי מאמרים או חלופת תוכן קצרה."
+        },
+        "show_date": {
+          "label": "הצגת תאריכים",
+          "info": "מציג תאריכי פרסום של מאמרים."
+        },
+        "width_mode": {
+          "label": "מצב רוחב",
+          "info": "שולט ברוחב הקונטיינר של הוכחת מארח הבלוג.",
+          "options": {
+            "narrow": { "label": "צר" },
+            "standard": { "label": "סטנדרטי" },
+            "wide": { "label": "רחב" }
+          }
+        },
+        "spacing_mode": {
+          "label": "מצב ריווח",
+          "info": "שולט בריווח האנכי של הוכחת מארח הבלוג.",
+          "options": {
+            "compact": { "label": "צפוף" },
+            "standard": { "label": "מאוזן" },
+            "relaxed": { "label": "מרווח" }
+          }
+        }
+      }
+    },
+    "stone_main_article": {
+      "name": "מאמר ראשי",
+      "article_label": "מאמר",
+      "back_to_blog": "חזרה אל {{ blog_title }}",
+      "settings": {
+        "show_image": {
+          "label": "הצגת תמונה ראשית",
+          "info": "מציג את תמונת המאמר כאשר היא זמינה."
+        },
+        "show_author": {
+          "label": "הצגת מחבר",
+          "info": "מציג את מחבר המאמר כאשר הוא זמין."
+        },
+        "show_date": {
+          "label": "הצגת תאריך",
+          "info": "מציג את תאריך פרסום המאמר."
+        },
+        "show_blog_link": {
+          "label": "הצגת קישור לבלוג",
+          "info": "מציג קישור פשוט חזרה לבלוג האב."
+        },
+        "width_mode": {
+          "label": "מצב רוחב",
+          "info": "שולט ברוחב הקונטיינר של הוכחת מארח המאמר.",
+          "options": {
+            "narrow": { "label": "צר" },
+            "standard": { "label": "סטנדרטי" },
+            "wide": { "label": "רחב" }
+          }
+        },
+        "spacing_mode": {
+          "label": "מצב ריווח",
+          "info": "שולט בריווח האנכי של הוכחת מארח המאמר.",
+          "options": {
+            "compact": { "label": "צפוף" },
+            "standard": { "label": "מאוזן" },
+            "relaxed": { "label": "מרווח" }
+          }
+        }
+      }
+    },
+    "stone_main_search": {
+      "name": "חיפוש",
+      "search_label": "חיפוש",
+      "query_label": "מונחי חיפוש",
+      "placeholder": "חיפוש",
+      "submit": "חיפוש",
+      "result_count": "{{ count }} תוצאות",
+      "empty": "לא נמצאו תוצאות לחיפוש.",
+      "prompt": "הזינו מונח חיפוש כדי לראות תוצאות.",
+      "pagination_label": "דפדוף חיפוש",
+      "previous_page": "קודם",
+      "next_page": "הבא",
+      "settings": {
+        "results_per_page": {
+          "label": "תוצאות בעמוד",
+          "info": "שולט בגודל הדפדוף הטבעי של תוצאות החיפוש."
+        },
+        "show_excerpt": {
+          "label": "הצגת תקצירים",
+          "info": "מציג תקציר קצר של תוצאה כאשר הוא זמין."
+        },
+        "width_mode": {
+          "label": "מצב רוחב",
+          "info": "שולט ברוחב הקונטיינר של הוכחת מארח החיפוש.",
+          "options": {
+            "narrow": { "label": "צר" },
+            "standard": { "label": "סטנדרטי" },
+            "wide": { "label": "רחב" }
+          }
+        },
+        "spacing_mode": {
+          "label": "מצב ריווח",
+          "info": "שולט בריווח האנכי של הוכחת מארח החיפוש.",
+          "options": {
+            "compact": { "label": "צפוף" },
+            "standard": { "label": "מאוזן" },
+            "relaxed": { "label": "מרווח" }
+          }
+        }
+      }
     }
   },
   "snippets": {

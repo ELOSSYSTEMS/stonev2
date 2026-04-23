@@ -2593,3 +2593,191 @@ canvas {
     align-items: start;
   }
 }
+
+.stone-main-blog,
+.stone-main-article,
+.stone-main-search {
+  display: grid;
+  gap: var(--stone-space-5);
+}
+
+.stone-main-blog__header,
+.stone-main-article__header,
+.stone-main-search__header {
+  display: grid;
+  gap: var(--stone-space-3);
+}
+
+.stone-main-blog__eyebrow,
+.stone-main-blog__title,
+.stone-main-blog__count,
+.stone-main-blog__meta,
+.stone-main-blog__article-title,
+.stone-main-blog__excerpt,
+.stone-main-blog__empty,
+.stone-main-article__eyebrow,
+.stone-main-article__title,
+.stone-main-article__meta,
+.stone-main-search__eyebrow,
+.stone-main-search__title,
+.stone-main-search__count,
+.stone-main-search__result-type,
+.stone-main-search__result-title,
+.stone-main-search__excerpt,
+.stone-main-search__empty {
+  margin: 0;
+}
+
+.stone-main-blog__eyebrow,
+.stone-main-article__eyebrow,
+.stone-main-search__eyebrow,
+.stone-main-search__result-type {
+  color: var(--stone-color-muted);
+  font-size: 0.85rem;
+  font-weight: 700;
+  letter-spacing: 0;
+  text-transform: uppercase;
+}
+
+.stone-main-blog__title,
+.stone-main-article__title,
+.stone-main-search__title {
+  font-size: clamp(2rem, 5vw, 4rem);
+  line-height: 1;
+}
+
+.stone-main-blog__grid,
+.stone-main-search__results {
+  display: grid;
+  gap: var(--stone-space-4);
+}
+
+.stone-main-blog__card,
+.stone-main-search__result {
+  display: grid;
+  gap: var(--stone-space-3);
+  padding: var(--stone-space-4);
+  border: 1px solid var(--stone-color-border);
+  border-radius: var(--stone-radius-2);
+}
+
+.stone-main-blog__media,
+.stone-main-article__media {
+  display: block;
+  overflow: hidden;
+  border-radius: var(--stone-radius-2);
+}
+
+.stone-main-blog__image,
+.stone-main-article__image {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.stone-main-blog__card-content {
+  display: grid;
+  gap: var(--stone-space-3);
+}
+
+.stone-main-blog__meta,
+.stone-main-article__meta,
+.stone-main-search__count {
+  color: var(--stone-color-muted);
+}
+
+.stone-main-article__meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--stone-space-2);
+}
+
+.stone-main-blog__link,
+.stone-main-article__blog-link {
+  color: inherit;
+  font-weight: 700;
+}
+
+.stone-main-search__form {
+  display: grid;
+  gap: var(--stone-space-2);
+}
+
+.stone-main-search__label {
+  font-weight: 700;
+}
+
+.stone-main-search__form-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--stone-space-2);
+}
+
+.stone-main-search__input {
+  min-block-size: 2.75rem;
+  min-inline-size: min(100%, 22rem);
+  flex: 1 1 18rem;
+  padding-inline: 0.75rem;
+  border: 1px solid var(--stone-color-border);
+  border-radius: var(--stone-radius-1);
+  background: transparent;
+  color: inherit;
+}
+
+.stone-main-search__submit {
+  min-block-size: 2.75rem;
+  padding-inline: 1rem;
+  border: 1px solid var(--stone-color-border-strong);
+  border-radius: var(--stone-radius-1);
+  background: var(--stone-color-brand);
+  color: var(--stone-color-canvas);
+  cursor: pointer;
+  font-weight: 700;
+}
+
+.stone-main-blog__pagination,
+.stone-main-search__pagination {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: var(--stone-space-2);
+}
+
+.stone-main-blog__pagination-link,
+.stone-main-blog__pagination-current,
+.stone-main-blog__pagination-gap,
+.stone-main-search__pagination-link,
+.stone-main-search__pagination-current,
+.stone-main-search__pagination-gap {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-block-size: 2.25rem;
+  min-inline-size: 2.25rem;
+  padding-inline: 0.75rem;
+  border: 1px solid var(--stone-color-border);
+  border-radius: var(--stone-radius-1);
+  color: inherit;
+  text-decoration: none;
+}
+
+.stone-main-blog__pagination-current,
+.stone-main-search__pagination-current {
+  border-color: var(--stone-color-border-strong);
+  background: var(--stone-color-brand);
+  color: var(--stone-color-canvas);
+}
+
+@media screen and (min-width: 48rem) {
+  .stone-main-blog__grid,
+  .stone-main-search__results {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+@media screen and (min-width: 72rem) {
+  .stone-main-blog__grid,
+  .stone-main-search__results {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+}
