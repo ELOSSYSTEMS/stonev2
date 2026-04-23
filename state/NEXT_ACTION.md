@@ -3,33 +3,28 @@
 ## Status
 
 - `Verified`: Approval State: APPROVED
-- `Verified`: Execution Class: bounded collection host/product-grid runtime proof verification
+- `Verified`: Execution Class: docs-only PDP host and behavior reopen evidence
 - `Verified`: Priority: high
 
 ## Approved Unit
 
-- `Verified`: `UNIT-157` passed and now admits only `UNIT-158` as verification/frontier review for the exact five-file no-JS collection host/product-grid runtime proof.
+- `Verified`: `UNIT-158` passed and now admits only `UNIT-159` as a docs-only PDP host/behavior reopen evidence package.
 
 ## Objective
 
-- `Verified`: Verify that `UNIT-157` changed only the exact five approved runtime files.
-- `Verified`: Verify that `project/assets/stone-runtime.js` stayed untouched.
-- `Verified`: Verify that `project/snippets/stone-product-card.liquid` stayed untouched.
-- `Verified`: Verify JSON validity and bilingual locale parity for `sections.stone_main_collection`.
-- `Verified`: Verify that no product, blog, article, search, list-collections, or cart template was added.
-- `Verified`: Decide the next honest lane without reopening PDP/search/cart/preset/hardening domains prematurely.
+- `Verified`: Compare keep-blocked, narrow PDP host/behavior reopen, and broad PDP reopen.
+- `Verified`: Decide whether one exact PDP lane is justified after verified homepage, shell/navigation, and collection host/product-grid proofs.
+- `Verified`: Record which PDP host behaviors are admissible now versus blocked later behaviors.
+- `Verified`: Keep deferred `PDP companion`, wider JavaScript, heavier commerce, cart-path risk, media behavior, recommendations, search, preset realization, and hardening explicit and fail-closed unless separately justified.
+- `Verified`: Do not authorize runtime edits from this evidence package.
 
 ## Plan Reference
 
-- `Path:` `workspace/plans/phase-4-collection-host-product-grid-runtime-proof-v1/HANDOFF.v1.md`
+- `Path:` `workspace/plans/phase-4-pdp-host-and-behavior-reopen-evidence-v1/HANDOFF.v1.md`
 
 ## Allowed Files Or Surfaces
 
-- `project/templates/collection.json`
-- `project/sections/stone-main-collection.liquid`
-- `project/assets/stone-base.css`
-- `project/locales/he.default.schema.json`
-- `project/locales/en.schema.json`
+- `workspace/plans/phase-4-pdp-host-and-behavior-reopen-evidence-v1/`
 - `state/`
 - `workspace/handoff/CURRENT_HANDOFF.md`
 
@@ -45,4 +40,4 @@
 
 ## Stop Condition
 
-Fail closed if `UNIT-158` finds project drift outside the exact five-file collection proof boundary, JSON invalidity, locale parity failure, JavaScript changes, product-card snippet changes, added blocked canonical host templates, collection companion drift, archive controls beyond native pagination/sort, or evidence too weak to route a next unit.
+Fail closed if `UNIT-159` attempts project runtime edits, treats deferred `PDP companion` behavior as resolved, authorizes direct PDP implementation without a separate boundary unit, opens wider JavaScript or heavier commerce behavior, weakens product-form/cart-path risk, or routes into search, preset, cart, or hardening work prematurely.

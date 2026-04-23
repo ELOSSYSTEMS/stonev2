@@ -4649,3 +4649,32 @@
   - `node HARNESS/checks/harness-check.mjs`
 - Result: PASS
 - Follow-up: execute `UNIT-158` only as verification/frontier review of the five-file no-JS collection proof and commit before moving on
+### Session Entry
+
+- Timestamp: 2026-04-23 23:38 Asia/Jerusalem
+- Skill or Mode: `project-verify`
+- Summary: executed `UNIT-158`, verified that the `UNIT-157` collection host/product-grid proof stayed inside the exact admitted five-file boundary, confirmed JSON validity and collection locale parity, confirmed no JavaScript, product-card, or blocked canonical-template drift, and routed only to docs-only PDP host/behavior reopen evidence
+- Files changed:
+  - `state/ORCHESTRATION_STATE.md`
+  - `state/STATUS.md`
+  - `state/NEXT_ACTION.md`
+  - `state/FEATURE_STATUS.md`
+  - `state/PROGRESS.md`
+  - `state/SESSION_LOG.md`
+  - `workspace/handoff/CURRENT_HANDOFF.md`
+- Checks run:
+  - `git status --short`
+  - `git show --name-only --format=fuller HEAD`
+  - `git diff --name-only HEAD^ HEAD -- project`
+  - `git diff --name-only HEAD^ HEAD -- project/assets/stone-runtime.js project/snippets/stone-product-card.liquid project/templates/product.json project/templates/blog.json project/templates/article.json project/templates/search.json project/templates/list-collections.json project/templates/cart.json`
+  - JSON parsing for `project/templates/collection.json`, `project/locales/en.schema.json`, and `project/locales/he.default.schema.json`
+  - locale parity for `sections.stone_main_collection`
+  - `node HARNESS/checks/check-state-artifacts.mjs`
+  - `node HARNESS/checks/check-next-action-scope.mjs`
+  - `node HARNESS/checks/check-plan-exists.mjs`
+  - `node HARNESS/checks/check-handoff-completeness.mjs`
+  - `node HARNESS/checks/check-approval-state.mjs`
+  - `node HARNESS/checks/check-lock-state.mjs`
+  - `node HARNESS/checks/harness-check.mjs`
+- Result: PASS
+- Follow-up: execute `UNIT-159` only as docs-only PDP host/behavior reopen evidence and commit before moving on

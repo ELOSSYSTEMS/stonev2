@@ -2,30 +2,29 @@
 
 ## Current Phase
 
-- `Verified`: Roadmap phase: the collection host/product-grid runtime proof is implemented and now requires verification/frontier review before any later lane can reopen.
+- `Verified`: Roadmap phase: PDP host/behavior reopen evidence is approved as a docs-only decision package after verified homepage, shell/navigation, and collection host/product-grid proofs.
 
 ## Approved Next Action
 
-- `Verified`: `UNIT-158` is explicitly approved as the next verification/frontier review lane because `UNIT-157` passed.
+- `Verified`: `UNIT-159` is explicitly approved as the next docs-only PDP host/behavior evidence lane because `UNIT-158` passed.
 
 ## Last Completed Unit
 
-- `Verified`: Unit ID: `UNIT-157`
-- `Verified`: Summary: implemented the exact five-file no-JS collection host/product-grid runtime proof with canonical `collection.json`, native collection main section, product grid via existing `stone-product-card`, native pagination, optional no-JS sort, CSS support, and bilingual labels.
+- `Verified`: Unit ID: `UNIT-158`
+- `Verified`: Summary: verified the exact five-file no-JS collection host/product-grid runtime proof, confirmed JSON validity and collection locale parity, confirmed no JavaScript/product-card/blocked-template drift, and routed only to docs-only PDP host/behavior evidence.
 
 ## Verification Status
 
-- `Verified`: Verdict: `UNIT-157` PASS
-- `Verified`: Evidence: `project/templates/collection.json`; `project/sections/stone-main-collection.liquid`; `project/assets/stone-base.css`; `project/locales/he.default.schema.json`; `project/locales/en.schema.json`; JSON parsing; collection locale parity check; no JavaScript/product-card/blocked-template diff
+- `Verified`: Verdict: `UNIT-158` PASS
+- `Verified`: Evidence: `git show --name-only --format=fuller HEAD`; `git diff --name-only HEAD^ HEAD -- project`; protected-surface diff check; JSON parsing; collection locale parity check; `node HARNESS/checks/harness-check.mjs`
 
 ## Active Blockers
 
-- `Verified`: No runtime work outside verification of the exact five-file `UNIT-157` boundary is approved.
-- `Verified`: No product-card snippet edits are approved.
-- `Verified`: No JavaScript collection behavior is approved.
-- `Verified`: No collection companion or archive behavior beyond native pagination/sort is approved.
-- `Verified`: No PDP, search, cart, preset, or hardening lane is approved.
+- `Verified`: No PDP runtime implementation is approved.
+- `Verified`: No `PDP companion` behavior is approved as resolved.
+- `Verified`: No wider JavaScript or heavier-commerce behavior is approved.
+- `Verified`: No cart, search, preset, or hardening lane is approved.
 
 ## Resume Notes
 
-- `Verified`: Execute `UNIT-158` as verification/frontier review only.
+- `Verified`: Execute `UNIT-159` as docs-only PDP host/behavior reopen evidence.

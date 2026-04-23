@@ -8,13 +8,13 @@
 
 ## Current Phase
 
-- `Verified`: Active roadmap phase: Phase 4 collection host/product-grid runtime proof verification after bounded implementation (`UNIT-157`)
-- `Verified`: Last completed phase slice: Phase 4 collection host/product-grid runtime proof implementation (`UNIT-157`)
+- `Verified`: Active roadmap phase: Phase 4 PDP host/behavior reopen evidence after verified homepage, shell/navigation, and collection host/product-grid proofs
+- `Verified`: Last completed phase slice: Phase 4 collection host/product-grid runtime proof verification (`UNIT-158`)
 
 ## Approval State
 
 - `Verified`: Current next action approval: APPROVED
-- `Verified`: Approval basis: `UNIT-157` passed inside the exact five-file no-JS collection host/product-grid runtime proof boundary and now requires verification before any further lane can reopen.
+- `Verified`: Approval basis: `UNIT-158` verified the exact five-file no-JS collection host/product-grid runtime proof and found no JavaScript, product-card, or blocked-template drift; only a docs-only PDP host/behavior evidence package is now admitted.
 
 ## Lock State
 
