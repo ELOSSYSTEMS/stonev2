@@ -146,6 +146,25 @@
             "label": "t:settings.shell_behavior.settings.shell_width.options.wide.label"
           }
         ]
+      },
+      {
+        "type": "link_list",
+        "id": "stone_primary_menu",
+        "label": "t:settings.shell_behavior.settings.primary_menu.label",
+        "info": "t:settings.shell_behavior.settings.primary_menu.info"
+      },
+      {
+        "type": "link_list",
+        "id": "stone_footer_menu",
+        "label": "t:settings.shell_behavior.settings.footer_menu.label",
+        "info": "t:settings.shell_behavior.settings.footer_menu.info"
+      },
+      {
+        "type": "checkbox",
+        "id": "stone_show_locale_switcher",
+        "label": "t:settings.shell_behavior.settings.show_locale_switcher.label",
+        "info": "t:settings.shell_behavior.settings.show_locale_switcher.info",
+        "default": true
       }
     ]
   }

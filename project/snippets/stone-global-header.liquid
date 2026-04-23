@@ -1,0 +1,72 @@
+{%- liquid
+  assign stone_primary_menu_handle = settings.stone_primary_menu
+  assign stone_primary_menu = linklists[stone_primary_menu_handle]
+  assign stone_show_locale_switcher = settings.stone_show_locale_switcher
+-%}
+<header class="stone-global-header" role="banner">
+  <div class="stone-global-header__inner">
+    <a class="stone-global-header__brand" href="{{ routes.root_url }}">
+      {{ stone_brand_name | escape }}
+    </a>
+
+    <nav class="stone-global-header__nav" aria-label="{{ 'snippets.stone_global_header.primary_navigation' | t }}">
+      {%- if stone_primary_menu != blank and stone_primary_menu.links.size > 0 -%}
+        <ul class="stone-global-header__menu" role="list">
+          {%- for link in stone_primary_menu.links -%}
+            <li class="stone-global-header__menu-item">
+              <a class="stone-global-header__menu-link" href="{{ link.url }}">{{ link.title | escape }}</a>
+            </li>
+          {%- endfor -%}
+        </ul>
+      {%- else -%}
+        <a class="stone-global-header__menu-link" href="{{ routes.root_url }}">
+          {{ 'snippets.stone_global_header.home' | t }}
+        </a>
+      {%- endif -%}
+    </nav>
+
+    <div class="stone-global-header__utility">
+      <form class="stone-global-header__search" action="{{ routes.search_url }}" method="get" role="search">
+        <label class="stone-visually-hidden" for="StoneHeaderSearch">
+          {{ 'snippets.stone_global_header.search_label' | t }}
+        </label>
+        <input
+          id="StoneHeaderSearch"
+          class="stone-global-header__search-input"
+          type="search"
+          name="q"
+          value="{{ search.terms | escape }}"
+          placeholder="{{ 'snippets.stone_global_header.search_placeholder' | t }}"
+        >
+        <button class="stone-global-header__search-submit" type="submit">
+          {{ 'snippets.stone_global_header.search_submit' | t }}
+        </button>
+      </form>
+
+      <a class="stone-global-header__utility-link" href="{{ routes.cart_url }}">
+        {{ 'snippets.stone_global_header.cart' | t }}
+      </a>
+
+      {%- if stone_show_locale_switcher and localization.available_languages.size > 1 -%}
+        {%- form 'localization', class: 'stone-global-header__locale-form' -%}
+          <label class="stone-visually-hidden" for="StoneHeaderLocale">
+            {{ 'snippets.stone_global_header.locale_label' | t }}
+          </label>
+          <select id="StoneHeaderLocale" class="stone-global-header__locale-select" name="locale_code">
+            {%- for language in localization.available_languages -%}
+              <option
+                value="{{ language.iso_code }}"
+                {%- if language.iso_code == localization.language.iso_code %} selected{% endif -%}
+              >
+                {{ language.endonym_name | capitalize | escape }}
+              </option>
+            {%- endfor -%}
+          </select>
+          <button class="stone-global-header__locale-submit" type="submit">
+            {{ 'snippets.stone_global_header.locale_submit' | t }}
+          </button>
+        {%- endform -%}
+      {%- endif -%}
+    </div>
+  </div>
+</header>

@@ -8,14 +8,14 @@
 
 ## Current Phase
 
-- `Verified`: Active roadmap phase: Phase 4 bounded global shell/navigation runtime proof implementation after exact boundary approval (`UNIT-152`)
-- `Verified`: Last completed phase slice: Phase 4 global shell/navigation runtime-boundary package (`UNIT-152`)
-- `Verified`: The user-directed governance override has now been consumed only to pass `UNIT-143`, execute `UNIT-144`, verify `UNIT-145`, complete `UNIT-146`, and define the exact runtime boundary in `UNIT-152`.
+- `Verified`: Active roadmap phase: Phase 4 shell/navigation runtime proof verification after bounded implementation (`UNIT-153`)
+- `Verified`: Last completed phase slice: Phase 4 global shell/navigation runtime proof implementation (`UNIT-153`)
+- `Verified`: The user-directed governance override has now been consumed only through the homepage-first proof and the exact global shell/navigation proof boundary.
 
 ## Approval State
 
 - `Verified`: Current next action approval: APPROVED
-- `Verified`: Approval basis: `UNIT-152` passed as a docs-only runtime-boundary package and admitted only `UNIT-153`, a seven-file no-JS global shell/navigation runtime proof.
+- `Verified`: Approval basis: `UNIT-153` passed inside the exact seven-file no-JS global shell/navigation runtime proof boundary and now requires verification before any further lane can reopen.
 
 ## Lock State
 

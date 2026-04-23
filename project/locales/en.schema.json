@@ -104,6 +104,18 @@
               "label": "Wide"
             }
           }
+        },
+        "primary_menu": {
+          "label": "Primary menu",
+          "info": "Selects the Shopify link list rendered in the global header."
+        },
+        "footer_menu": {
+          "label": "Footer menu",
+          "info": "Selects the Shopify link list rendered in the global footer."
+        },
+        "show_locale_switcher": {
+          "label": "Show locale switcher",
+          "info": "Shows a native locale switcher when more than one Shopify language is available."
         }
       }
     }
@@ -2722,6 +2734,21 @@
       "collection_label": "Collection",
       "product_count": "{{ count }} products",
       "view_collection": "View collection"
+    },
+    "stone_global_header": {
+      "skip_link": "Skip to content",
+      "primary_navigation": "Primary navigation",
+      "home": "Home",
+      "search_label": "Search",
+      "search_placeholder": "Search",
+      "search_submit": "Search",
+      "cart": "Cart",
+      "locale_label": "Language",
+      "locale_submit": "Change"
+    },
+    "stone_global_footer": {
+      "footer_navigation": "Footer navigation",
+      "powered_by": "{{ shop_name }}"
     }
   }
 }

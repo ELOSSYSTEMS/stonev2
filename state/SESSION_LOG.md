@@ -4494,3 +4494,37 @@
   - `node HARNESS/checks/harness-check.mjs`
 - Result: PASS
 - Follow-up: execute `UNIT-153` only as the exact seven-file no-JS runtime proof and commit before moving on
+### Session Entry
+
+- Timestamp: 2026-04-23 23:23 Asia/Jerusalem
+- Skill or Mode: `project-build`
+- Summary: executed `UNIT-153`, implemented the exact seven-file no-JS global shell/navigation runtime proof, added header/footer placement, shell snippets, primary and footer link-list settings, search entry, cart link entry, optional locale switch, skip/main-content continuity, CSS support, and bilingual labels while keeping JavaScript and blocked behavior domains out of scope
+- Files changed:
+  - `project/layout/theme.liquid`
+  - `project/snippets/stone-global-header.liquid`
+  - `project/snippets/stone-global-footer.liquid`
+  - `project/assets/stone-base.css`
+  - `project/config/settings_schema.json`
+  - `project/locales/he.default.schema.json`
+  - `project/locales/en.schema.json`
+  - `state/ORCHESTRATION_STATE.md`
+  - `state/STATUS.md`
+  - `state/NEXT_ACTION.md`
+  - `state/FEATURE_STATUS.md`
+  - `state/PROGRESS.md`
+  - `state/SESSION_LOG.md`
+  - `workspace/handoff/CURRENT_HANDOFF.md`
+- Checks run:
+  - `git status --short -- project`
+  - `git ls-files --others --exclude-standard -- project`
+  - JSON parsing for `project/config/settings_schema.json`, `project/locales/en.schema.json`, and `project/locales/he.default.schema.json`
+  - locale parity for admitted shell keys
+  - `node HARNESS/checks/check-state-artifacts.mjs`
+  - `node HARNESS/checks/check-next-action-scope.mjs`
+  - `node HARNESS/checks/check-plan-exists.mjs`
+  - `node HARNESS/checks/check-handoff-completeness.mjs`
+  - `node HARNESS/checks/check-approval-state.mjs`
+  - `node HARNESS/checks/check-lock-state.mjs`
+  - `node HARNESS/checks/harness-check.mjs`
+- Result: PASS
+- Follow-up: execute `UNIT-154` only as verification/frontier review of the seven-file no-JS shell proof and commit before moving on

@@ -59,9 +59,12 @@
     data-stone-radius-scale="{{ settings.stone_radius_scale | default: 'soft' | escape }}"
     data-stone-motion-level="{{ settings.stone_motion_level | default: 'standard' | escape }}"
   >
+    <a class="stone-skip-link" href="#MainContent">{{ 'snippets.stone_global_header.skip_link' | t }}</a>
+    {% render 'stone-global-header', stone_brand_name: stone_brand_name %}
     <main id="MainContent" class="stone-main" role="main" tabindex="-1">
       {{ content_for_layout }}
     </main>
+    {% render 'stone-global-footer', stone_brand_name: stone_brand_name %}
     <script src="{{ 'stone-runtime.js' | asset_url }}" defer="defer"></script>
   </body>
 </html>

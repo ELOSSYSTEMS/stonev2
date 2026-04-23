@@ -3,19 +3,20 @@
 ## Status
 
 - `Verified`: Approval State: APPROVED
-- `Verified`: Execution Class: bounded shell/navigation runtime proof implementation
+- `Verified`: Execution Class: bounded shell/navigation runtime proof verification
 - `Verified`: Priority: high
 
 ## Approved Unit
 
-- `Verified`: `UNIT-152` passed and now admits only `UNIT-153` as the exact seven-file no-JS global shell/navigation runtime proof; keep `UNIT-147` through `UNIT-151` blocked until predecessor checks explicitly approve their domains.
+- `Verified`: `UNIT-153` passed and now admits only `UNIT-154` as the verification/frontier review for the exact seven-file no-JS global shell/navigation runtime proof.
 
 ## Objective
 
-- `Verified`: Execute `UNIT-153` only inside the exact runtime boundary from `workspace/plans/phase-4-global-shell-navigation-runtime-proof-v1/HANDOFF.v1.md`.
-- `Verified`: Add a no-JS global header/footer/navigation proof without reopening broader theme-shell authority.
-- `Verified`: Preserve that `UNIT-152` admitted only seven runtime files.
-- `Verified`: Keep `project/assets/stone-runtime.js` untouched.
+- `Verified`: Verify that `UNIT-153` changed only the exact seven approved runtime files.
+- `Verified`: Verify that `project/assets/stone-runtime.js` stayed untouched.
+- `Verified`: Verify JSON validity and bilingual locale parity for admitted shell keys.
+- `Verified`: Verify that no collection, product, blog, article, search, list-collections, or cart template was added.
+- `Verified`: Decide whether the next honest step remains shell proof verification/frontier review rather than collection/PDP/search/preset reopening.
 - `Verified`: Keep collection/archive behavior, PDP behavior, search-results behavior, predictive search, cart drawer behavior, checkout-sensitive behavior, preset realization, and hardening out of scope.
 
 ## Plan Reference
@@ -46,4 +47,4 @@
 
 ## Stop Condition
 
-Fail closed if `UNIT-153` needs files outside the exact seven-file runtime boundary, edits JavaScript, adds or changes collection/product/blog/article/search/list-collections/cart templates, implements search results or predictive search, implements cart drawer or checkout-sensitive behavior, encodes collection/archive or PDP behavior, or turns shell/navigation proof into broad theme completion authority.
+Fail closed if `UNIT-154` finds project drift outside the exact seven-file shell proof boundary, JSON invalidity, locale parity failure, JavaScript changes, added canonical host templates, search-results or predictive-search behavior, cart drawer or checkout-sensitive behavior, collection/archive behavior, PDP behavior, or evidence too weak to route a next unit.

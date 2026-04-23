@@ -1,0 +1,29 @@
+{%- liquid
+  assign stone_footer_menu_handle = settings.stone_footer_menu
+  assign stone_footer_menu = linklists[stone_footer_menu_handle]
+-%}
+<footer class="stone-global-footer" role="contentinfo">
+  <div class="stone-global-footer__inner">
+    <div class="stone-global-footer__brand">
+      <a class="stone-global-footer__brand-link" href="{{ routes.root_url }}">
+        {{ stone_brand_name | escape }}
+      </a>
+    </div>
+
+    {%- if stone_footer_menu != blank and stone_footer_menu.links.size > 0 -%}
+      <nav class="stone-global-footer__nav" aria-label="{{ 'snippets.stone_global_footer.footer_navigation' | t }}">
+        <ul class="stone-global-footer__menu" role="list">
+          {%- for link in stone_footer_menu.links -%}
+            <li class="stone-global-footer__menu-item">
+              <a class="stone-global-footer__menu-link" href="{{ link.url }}">{{ link.title | escape }}</a>
+            </li>
+          {%- endfor -%}
+        </ul>
+      </nav>
+    {%- endif -%}
+
+    <p class="stone-global-footer__meta">
+      {{ 'snippets.stone_global_footer.powered_by' | t: shop_name: shop.name }}
+    </p>
+  </div>
+</footer>

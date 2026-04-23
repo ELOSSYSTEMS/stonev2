@@ -104,6 +104,18 @@
               "label": "רחב"
             }
           }
+        },
+        "primary_menu": {
+          "label": "תפריט ראשי",
+          "info": "בוחר את רשימת הקישורים של Shopify שמוצגת בכותרת הגלובלית."
+        },
+        "footer_menu": {
+          "label": "תפריט תחתון",
+          "info": "בוחר את רשימת הקישורים של Shopify שמוצגת בפוטר הגלובלי."
+        },
+        "show_locale_switcher": {
+          "label": "הצגת מחליף שפה",
+          "info": "מציג מחליף שפה טבעי כאשר זמינה יותר משפת Shopify אחת."
         }
       }
     }
@@ -2722,6 +2734,21 @@
       "collection_label": "קולקציה",
       "product_count": "{{ count }} מוצרים",
       "view_collection": "לצפייה בקולקציה"
+    },
+    "stone_global_header": {
+      "skip_link": "דילוג לתוכן",
+      "primary_navigation": "ניווט ראשי",
+      "home": "בית",
+      "search_label": "חיפוש",
+      "search_placeholder": "חיפוש",
+      "search_submit": "חיפוש",
+      "cart": "עגלה",
+      "locale_label": "שפה",
+      "locale_submit": "החלפה"
+    },
+    "stone_global_footer": {
+      "footer_navigation": "ניווט תחתון",
+      "powered_by": "{{ shop_name }}"
     }
   }
 }
