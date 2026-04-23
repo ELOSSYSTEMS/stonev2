@@ -8,14 +8,14 @@
 
 ## Current Phase
 
-- `Verified`: Active roadmap phase: Phase 4 shell/navigation runtime proof verification after bounded implementation (`UNIT-153`)
-- `Verified`: Last completed phase slice: Phase 4 global shell/navigation runtime proof implementation (`UNIT-153`)
-- `Verified`: The user-directed governance override has now been consumed only through the homepage-first proof and the exact global shell/navigation proof boundary.
+- `Verified`: Active roadmap phase: Phase 4 docs-only collection host/behavior reopen evidence after verified homepage and shell/navigation proofs
+- `Verified`: Last completed phase slice: Phase 4 shell/navigation runtime proof verification (`UNIT-154`)
+- `Verified`: Homepage proof and global shell/navigation proof are verified before collection evidence review begins.
 
 ## Approval State
 
 - `Verified`: Current next action approval: APPROVED
-- `Verified`: Approval basis: `UNIT-153` passed inside the exact seven-file no-JS global shell/navigation runtime proof boundary and now requires verification before any further lane can reopen.
+- `Verified`: Approval basis: `UNIT-154` verified the exact seven-file no-JS global shell/navigation proof and admitted only `UNIT-155`, a docs-only collection host/behavior reopen evidence package.
 
 ## Lock State
 

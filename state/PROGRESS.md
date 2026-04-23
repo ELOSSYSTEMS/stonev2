@@ -2,27 +2,26 @@
 
 ## Current Phase
 
-- `Verified`: Roadmap phase: the global shell/navigation runtime proof is implemented and now requires verification/frontier review before any later lane can reopen.
+- `Verified`: Roadmap phase: homepage and global shell/navigation proofs are verified; the repo now proceeds only to docs-only collection host/behavior reopen evidence.
 
 ## Approved Next Action
 
-- `Verified`: `UNIT-154` is explicitly approved as the next verification/frontier review lane because `UNIT-153` passed; keep `UNIT-147` through `UNIT-151` blocked unless a later verified decision reorders or reopens them.
+- `Verified`: `UNIT-155` is explicitly approved as the next docs-only evidence lane because `UNIT-154` passed.
 
 ## Last Completed Unit
 
-- `Verified`: Unit ID: `UNIT-153`
-- `Verified`: Summary: implemented the exact seven-file no-JS global shell/navigation runtime proof with header/footer placement, header and footer snippets, link-list navigation settings, search entry, cart link entry, optional locale switch, skip/main-content continuity, CSS support, and bilingual labels.
+- `Verified`: Unit ID: `UNIT-154`
+- `Verified`: Summary: verified the exact seven-file no-JS global shell/navigation runtime proof, confirmed JSON validity and locale parity, confirmed no JavaScript or canonical host template drift, and routed only to collection host/behavior reopen evidence.
 
 ## Verification Status
 
-- `Verified`: Verdict: `UNIT-153` PASS
-- `Verified`: Evidence: `project/layout/theme.liquid`; `project/snippets/stone-global-header.liquid`; `project/snippets/stone-global-footer.liquid`; `project/assets/stone-base.css`; `project/config/settings_schema.json`; `project/locales/he.default.schema.json`; `project/locales/en.schema.json`; JSON parsing; shell locale parity check
+- `Verified`: Verdict: `UNIT-154` PASS
+- `Verified`: Evidence: `git show --name-only --format=fuller HEAD`; `git diff --name-only HEAD^ HEAD -- project`; `git diff --name-only HEAD^ HEAD -- project/assets/stone-runtime.js project/templates`; JSON parsing; shell locale parity check; required harness checks
 
 ## Active Blockers
 
-- `Verified`: No runtime work outside verification of the exact seven-file `UNIT-153` boundary is approved.
-- `Verified`: No JavaScript shell behavior is approved.
-- `Verified`: No collection host or behavior reopen is approved from the current evidence.
+- `Verified`: No collection runtime implementation is approved.
+- `Verified`: No collection companion or archive behavior is approved.
 - `Verified`: No PDP host or behavior reopen is approved from the current evidence.
 - `Verified`: No search-results or predictive-search behavior is approved from the current evidence.
 - `Verified`: No cart drawer or checkout-sensitive behavior is approved from the current evidence.
@@ -32,4 +31,4 @@
 ## Resume Notes
 
 - `Verified`: Resume from branch `codex/unit-141-phase-4-homepage-first-preset-governed-pause`.
-- `Verified`: Execute `UNIT-154` as verification/frontier review only.
+- `Verified`: Execute `UNIT-155` only as docs-only collection host/behavior reopen evidence.

@@ -3,9 +3,9 @@
 ## Snapshot
 
 - `Verified`: Repo state: harness foundation populated
-- `Verified`: Storefront runtime state: bounded section-family runtime slices exist on neutral `page.stone-runtime*.json` hosts, one verified homepage `index.json` host exists, and one no-JS global shell/navigation proof now exists.
+- `Verified`: Storefront runtime state: bounded section-family runtime slices exist on neutral `page.stone-runtime*.json` hosts, one verified homepage `index.json` host exists, and one verified no-JS global shell/navigation proof exists.
 - `Verified`: Architecture authority: the five documents under `docs/architecture/`
-- `Verified`: Current decision package: `workspace/plans/phase-4-global-shell-navigation-runtime-proof-v1/`
+- `Verified`: Current decision package: `workspace/plans/phase-4-collection-host-and-behavior-reopen-evidence-v1/`
 
 ## Canonical Inputs
 
@@ -18,6 +18,7 @@
 - `Verified`: `workspace/specs/STONEV2_SETTINGS_TAXONOMY.md`
 - `Verified`: `workspace/specs/STONEV2_BILINGUAL_SCHEMA_STRATEGY.md`
 - `Verified`: `workspace/plans/phase-4-global-shell-navigation-runtime-proof-v1/PLAN.v1.md`
+- `Verified`: `workspace/plans/phase-4-collection-host-and-behavior-reopen-evidence-v1/HANDOFF.v1.md`
 
 ## Constraints
 
@@ -32,19 +33,17 @@
 
 ## Current Outcome
 
-- `Verified`: `UNIT-145` passed by verifying the exact five-file homepage proof.
-- `Verified`: `UNIT-146` passed by admitting only a docs-only shell/navigation runtime-boundary next step.
-- `Verified`: `UNIT-152` passed by stating one exact seven-file no-JS global shell/navigation runtime boundary for `UNIT-153`.
 - `Verified`: `UNIT-153` passed by implementing the exact no-JS global shell/navigation proof inside the approved seven-file boundary.
+- `Verified`: `UNIT-154` passed by verifying the exact shell proof, JSON validity, locale parity, no JavaScript drift, and no canonical host template drift.
+- `Verified`: `UNIT-155` is approved only as docs-only collection host/behavior reopen evidence.
 
 ## Risks And Blocks
 
-- `Verified`: No runtime work outside verification of the exact seven-file `UNIT-153` boundary is approved.
-- `Verified`: No JavaScript shell behavior is approved.
-- `Verified`: No collection host or behavior reopen is approved.
+- `Verified`: No collection runtime implementation is approved.
+- `Verified`: No collection companion or archive behavior is approved.
 - `Verified`: No PDP host or behavior reopen is approved.
 - `Verified`: No search-results or predictive-search behavior is approved.
 - `Verified`: No cart drawer or checkout-sensitive behavior is approved.
 - `Verified`: No editorial or search host work is approved.
 - `Verified`: No preset-pack realization or Phase 5 hardening work is approved.
-- `Inference`: The next honest step is verification/frontier review, not immediate collection/PDP reopening.
+- `Inference`: The next honest step is collection evidence decision, not direct collection implementation.

@@ -4528,3 +4528,31 @@
   - `node HARNESS/checks/harness-check.mjs`
 - Result: PASS
 - Follow-up: execute `UNIT-154` only as verification/frontier review of the seven-file no-JS shell proof and commit before moving on
+### Session Entry
+
+- Timestamp: 2026-04-23 23:25 Asia/Jerusalem
+- Skill or Mode: `project-verify`
+- Summary: executed `UNIT-154`, verified the `UNIT-153` shell/navigation proof stayed inside the exact seven-file boundary, confirmed JSON validity and shell locale parity, confirmed no JavaScript or canonical host template drift, and routed only to docs-only collection host/behavior reopen evidence
+- Files changed:
+  - `state/ORCHESTRATION_STATE.md`
+  - `state/STATUS.md`
+  - `state/NEXT_ACTION.md`
+  - `state/FEATURE_STATUS.md`
+  - `state/PROGRESS.md`
+  - `state/SESSION_LOG.md`
+  - `workspace/handoff/CURRENT_HANDOFF.md`
+- Checks run:
+  - `git show --name-only --format=fuller HEAD`
+  - `git diff --name-only HEAD^ HEAD -- project`
+  - `git diff --name-only HEAD^ HEAD -- project/assets/stone-runtime.js project/templates`
+  - JSON parsing for `project/config/settings_schema.json`, `project/locales/en.schema.json`, and `project/locales/he.default.schema.json`
+  - shell locale parity check
+  - `node HARNESS/checks/check-state-artifacts.mjs`
+  - `node HARNESS/checks/check-next-action-scope.mjs`
+  - `node HARNESS/checks/check-plan-exists.mjs`
+  - `node HARNESS/checks/check-handoff-completeness.mjs`
+  - `node HARNESS/checks/check-approval-state.mjs`
+  - `node HARNESS/checks/check-lock-state.mjs`
+  - `node HARNESS/checks/harness-check.mjs`
+- Result: PASS
+- Follow-up: execute `UNIT-155` only as the docs-only collection host/behavior reopen evidence package and commit before moving on

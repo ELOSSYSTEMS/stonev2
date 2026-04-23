@@ -3,35 +3,28 @@
 ## Status
 
 - `Verified`: Approval State: APPROVED
-- `Verified`: Execution Class: bounded shell/navigation runtime proof verification
+- `Verified`: Execution Class: docs-only collection host/behavior reopen evidence
 - `Verified`: Priority: high
 
 ## Approved Unit
 
-- `Verified`: `UNIT-153` passed and now admits only `UNIT-154` as the verification/frontier review for the exact seven-file no-JS global shell/navigation runtime proof.
+- `Verified`: `UNIT-154` passed and now admits only `UNIT-155` as a docs-only collection host/behavior reopen evidence package.
 
 ## Objective
 
-- `Verified`: Verify that `UNIT-153` changed only the exact seven approved runtime files.
-- `Verified`: Verify that `project/assets/stone-runtime.js` stayed untouched.
-- `Verified`: Verify JSON validity and bilingual locale parity for admitted shell keys.
-- `Verified`: Verify that no collection, product, blog, article, search, list-collections, or cart template was added.
-- `Verified`: Decide whether the next honest step remains shell proof verification/frontier review rather than collection/PDP/search/preset reopening.
-- `Verified`: Keep collection/archive behavior, PDP behavior, search-results behavior, predictive search, cart drawer behavior, checkout-sensitive behavior, preset realization, and hardening out of scope.
+- `Verified`: Execute `UNIT-155` only as a docs-only evidence decision using the existing collection reopen package.
+- `Verified`: Decide whether one exact collection host/behavior lane can reopen after the verified homepage proof and verified global shell/navigation proof.
+- `Verified`: Keep direct collection runtime implementation out of scope.
+- `Verified`: Restate blocked collection companion, archive behavior, navigation strategy, banner/explainer, PDP, search-results, predictive-search, cart drawer, checkout-sensitive, preset realization, and hardening surfaces.
+- `Verified`: Do not treat `UNIT-154` shell verification as permission for broad collection or archive implementation.
 
 ## Plan Reference
 
-- `Path:` `workspace/plans/phase-4-global-shell-navigation-runtime-proof-v1/HANDOFF.v1.md`
+- `Path:` `workspace/plans/phase-4-collection-host-and-behavior-reopen-evidence-v1/HANDOFF.v1.md`
 
 ## Allowed Files Or Surfaces
 
-- `project/layout/theme.liquid`
-- `project/snippets/stone-global-header.liquid`
-- `project/snippets/stone-global-footer.liquid`
-- `project/assets/stone-base.css`
-- `project/config/settings_schema.json`
-- `project/locales/he.default.schema.json`
-- `project/locales/en.schema.json`
+- `workspace/plans/`
 - `state/`
 - `workspace/handoff/CURRENT_HANDOFF.md`
 
@@ -47,4 +40,4 @@
 
 ## Stop Condition
 
-Fail closed if `UNIT-154` finds project drift outside the exact seven-file shell proof boundary, JSON invalidity, locale parity failure, JavaScript changes, added canonical host templates, search-results or predictive-search behavior, cart drawer or checkout-sensitive behavior, collection/archive behavior, PDP behavior, or evidence too weak to route a next unit.
+Fail closed if `UNIT-155` authorizes collection runtime implementation directly, weakens the verified shell/navigation boundary, admits collection companion or archive behavior prematurely, admits PDP/search/cart/preset/hardening domains, or cannot state at most one exact next collection boundary.
