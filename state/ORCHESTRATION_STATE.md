@@ -8,13 +8,13 @@
 
 ## Current Phase
 
-- `Verified`: Active roadmap phase: Phase 4 editorial/search host runtime proof verification after bounded implementation (`UNIT-165`)
-- `Verified`: Last completed phase slice: Phase 4 no-JS editorial/search host runtime proof implementation (`UNIT-165`)
+- `Verified`: Active roadmap phase: Phase 4 preset-pack realization boundary after verified canonical host proofs
+- `Verified`: Last completed phase slice: Phase 4 editorial/search host runtime proof verification (`UNIT-166`)
 
 ## Approval State
 
 - `Verified`: Current next action approval: APPROVED
-- `Verified`: Approval basis: `UNIT-165` passed inside the exact nine-file no-JS editorial/search host runtime proof boundary and now requires verification before any further lane can reopen.
+- `Verified`: Approval basis: `UNIT-166` verified the exact nine-file no-JS editorial/search host runtime proof and found no JavaScript or predictive-search drift; only a docs-only preset-pack realization boundary is now admitted.
 
 ## Lock State
 
