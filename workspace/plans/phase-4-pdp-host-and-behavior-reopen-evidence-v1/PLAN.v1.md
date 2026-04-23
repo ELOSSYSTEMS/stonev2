@@ -3,43 +3,47 @@
 ## Status
 
 - `Verified`: This package is docs-only.
-- `Verified`: It is pre-authored and conditional on the homepage, shell, and collection lanes being resolved enough that PDP is now the strongest missing dependency.
-- `Verified`: It does not authorize runtime edits by itself.
+- `Verified`: `UNIT-158` verified the homepage, shell/navigation, and collection host/product-grid lanes strongly enough that PDP host absence is now the strongest remaining structural blocker.
+- `Verified`: This package does not authorize runtime edits by itself.
 
-## Scope
+## Evidence
 
-- `Verified`: Reassess PDP host surfaces, product form/cart path, reassurance/comparison/recommendation fit, and PDP companion scope.
-- `Verified`: Decide whether one exact PDP reopen lane is justified and how narrow it must be.
-- `Verified`: Keep heavier commerce, wider JS, and broader recommendation drift fail-closed unless separately justified.
+- `Verified`: `project/templates/product.json` does not exist.
+- `Verified`: Product-supporting sections already exist as reusable primitives: `stone-featured-product-showcase.liquid`, `stone-product-context-card.liquid`, `stone-product-pair-comparison.liquid`, and `stone-curated-product-trio.liquid`.
+- `Verified`: `project/snippets/stone-product-card.liquid` exists and is read-oriented; it links to products but does not include a product form.
+- `Verified`: Literal searches over `project/` found no `product-form`, `/cart/add`, `form 'product'`, or variant-id input pattern.
+- `Verified`: `workspace/specs/STONEV2_SECTION_FAMILY_LEDGER.md` keeps PDP companion distinct from homepage-first storytelling and identifies PDP companion as reassurance, recommendation, complementary, and product-detail support.
+- `Verified`: `workspace/specs/STONEV2_SETTINGS_TAXONOMY.md` treats PDP support behavior, recommendation behavior, trust cue behavior, and cart/search entry behavior as separate settings domains.
 
-## Builder
+## Option A: Keep PDP Blocked
 
-- `Inference`: The minimal honest PDP reopen is host-and-behavior first: product host surface, product form path, and the narrowest supporting reassurance context.
-- `Inference`: The package should compare stay-blocked, narrow PDP host reopen, and broader PDP companion reopening.
+- `Inference`: Keeping PDP blocked would preserve maximum safety, but it would leave the theme without a canonical product host after homepage, shell, and collection hosts are now verified.
+- `Inference`: This is too conservative for the current frontier because the missing surface is identifiable and can be narrowed to product host/product-form proof before companion behavior.
 
-## Adversarial reviewer
+## Option B: Narrow PDP Host And Behavior Reopen
 
-- `Inference`: PDP work is high-risk because product form, cart path, media behavior, recommendations, and reassurance can easily expand together.
-- `Inference`: Earlier state explicitly deferred `PDP companion`, so this package fails if it treats deferred support behavior as already resolved.
-- `Inference`: Wider JS or heavier-commerce drift is especially likely in PDP work.
+- `Verified`: This option admits only a later docs-only runtime-boundary package.
+- `Inference`: The narrow lane should cover one canonical product host, one main product section, product title/metadata/media, price, variant selection if available, a standard no-JS Shopify product form, description, sold-out/unavailable messaging, and bilingual labels.
+- `Inference`: This is the strongest next lane because it addresses the missing PDP host without treating deferred PDP companion behavior as resolved.
 
-## Reconciliation
+## Option C: Broad PDP Reopen
 
-- `Verified`: Reopen PDP only if the package can keep product host and behavior narrower than the full PDP companion family.
-- `Verified`: Keep broader recommendation and heavier-commerce behavior blocked unless separately re-admitted.
-- `Inference`: The expected result is one later bounded PDP host/behavior boundary package.
+- `Inference`: Broad PDP reopen would combine product host, media interaction, AJAX cart, recommendations, complementary products, reassurance strips, comparison context, subscriptions, pickup/inventory complexity, and broader companion behavior.
+- `Verified`: This option is rejected because prior state explicitly deferred PDP companion work and no current evidence resolves the full support/recommendation/cart behavior domain.
+
+## Decision
+
+- `Verified`: Admit only `UNIT-160` as a docs-only PDP host/behavior runtime-boundary package.
+- `Verified`: Do not authorize direct PDP implementation from this package.
+- `Verified`: Keep `PDP companion`, recommendations, complementary products, AJAX cart, dynamic cart drawer behavior, subscriptions, pickup/inventory complexity, search, preset realization, and hardening blocked.
 
 ## Acceptance Criteria
 
 1. `Verified`: Compare keep-blocked, narrow PDP reopen, and broad PDP reopen.
-2. `Verified`: Record which PDP host behaviors are admissible now versus blocked later behaviors.
-3. `Verified`: Keep wider JS, heavier commerce, and broader recommendation drift explicit.
-4. `Verified`: Do not treat prior PDP deferral as resolved.
+2. `Verified`: Record that only a later docs-only PDP host/behavior runtime boundary is admitted.
+3. `Verified`: Keep `PDP companion`, wider JavaScript, heavier commerce, recommendations, cart drawer behavior, search, preset, and hardening blocked.
+4. `Verified`: Verify that no `project/` runtime files changed.
 
-## Intended Next Step If This Unit Passes
+## Intended Next Step
 
-- `Inference`: Route to one later bounded PDP host/behavior boundary package.
-
-## Readiness Verdict
-
-- `Verified`: READY only after earlier host lanes are no longer the stronger unresolved dependency.
+- `Verified`: Execute `UNIT-160` only as docs-only PDP host/behavior runtime-boundary authoring.

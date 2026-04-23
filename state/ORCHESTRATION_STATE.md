@@ -8,13 +8,13 @@
 
 ## Current Phase
 
-- `Verified`: Active roadmap phase: Phase 4 PDP host/behavior reopen evidence after verified homepage, shell/navigation, and collection host/product-grid proofs
-- `Verified`: Last completed phase slice: Phase 4 collection host/product-grid runtime proof verification (`UNIT-158`)
+- `Verified`: Active roadmap phase: Phase 4 PDP host/behavior runtime-boundary authoring after docs-only PDP reopen evidence
+- `Verified`: Last completed phase slice: Phase 4 PDP host/behavior reopen evidence (`UNIT-159`)
 
 ## Approval State
 
 - `Verified`: Current next action approval: APPROVED
-- `Verified`: Approval basis: `UNIT-158` verified the exact five-file no-JS collection host/product-grid runtime proof and found no JavaScript, product-card, or blocked-template drift; only a docs-only PDP host/behavior evidence package is now admitted.
+- `Verified`: Approval basis: `UNIT-159` found that PDP host absence is now the strongest remaining structural blocker, rejected broad PDP reopen, and admitted only a docs-only PDP host/behavior runtime-boundary package.
 
 ## Lock State
 

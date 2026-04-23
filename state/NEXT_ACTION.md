@@ -3,28 +3,27 @@
 ## Status
 
 - `Verified`: Approval State: APPROVED
-- `Verified`: Execution Class: docs-only PDP host and behavior reopen evidence
+- `Verified`: Execution Class: docs-only PDP host/behavior runtime boundary
 - `Verified`: Priority: high
 
 ## Approved Unit
 
-- `Verified`: `UNIT-158` passed and now admits only `UNIT-159` as a docs-only PDP host/behavior reopen evidence package.
+- `Verified`: `UNIT-159` passed and now admits only `UNIT-160` as docs-only PDP host/behavior runtime-boundary authoring.
 
 ## Objective
 
-- `Verified`: Compare keep-blocked, narrow PDP host/behavior reopen, and broad PDP reopen.
-- `Verified`: Decide whether one exact PDP lane is justified after verified homepage, shell/navigation, and collection host/product-grid proofs.
-- `Verified`: Record which PDP host behaviors are admissible now versus blocked later behaviors.
-- `Verified`: Keep deferred `PDP companion`, wider JavaScript, heavier commerce, cart-path risk, media behavior, recommendations, search, preset realization, and hardening explicit and fail-closed unless separately justified.
-- `Verified`: Do not authorize runtime edits from this evidence package.
+- `Verified`: State one exact future PDP host/product-form runtime boundary or stop in a governed block.
+- `Verified`: Keep this unit docs-only.
+- `Verified`: Decide whether a later no-JS PDP proof can be constrained to one canonical product host, one main product section, shared CSS, and bilingual labels.
+- `Verified`: Keep `PDP companion`, recommendations, complementary products, AJAX cart, cart drawer behavior, quick add, quick view, subscriptions, pickup/inventory complexity, dynamic media galleries, search, preset realization, and hardening blocked.
 
 ## Plan Reference
 
-- `Path:` `workspace/plans/phase-4-pdp-host-and-behavior-reopen-evidence-v1/HANDOFF.v1.md`
+- `Path:` `workspace/plans/phase-4-pdp-host-behavior-runtime-boundary-v1/HANDOFF.v1.md`
 
 ## Allowed Files Or Surfaces
 
-- `workspace/plans/phase-4-pdp-host-and-behavior-reopen-evidence-v1/`
+- `workspace/plans/phase-4-pdp-host-behavior-runtime-boundary-v1/`
 - `state/`
 - `workspace/handoff/CURRENT_HANDOFF.md`
 
@@ -40,4 +39,4 @@
 
 ## Stop Condition
 
-Fail closed if `UNIT-159` attempts project runtime edits, treats deferred `PDP companion` behavior as resolved, authorizes direct PDP implementation without a separate boundary unit, opens wider JavaScript or heavier commerce behavior, weakens product-form/cart-path risk, or routes into search, preset, cart, or hardening work prematurely.
+Fail closed if `UNIT-160` attempts project runtime edits, cannot state an exact future runtime file boundary, treats `PDP companion` as resolved, admits JavaScript or cart-drawer behavior, weakens product-form/cart-path risk, or routes directly into implementation without a bounded proof unit.

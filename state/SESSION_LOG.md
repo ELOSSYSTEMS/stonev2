@@ -4678,3 +4678,38 @@
   - `node HARNESS/checks/harness-check.mjs`
 - Result: PASS
 - Follow-up: execute `UNIT-159` only as docs-only PDP host/behavior reopen evidence and commit before moving on
+### Session Entry
+
+- Timestamp: 2026-04-23 23:41 Asia/Jerusalem
+- Skill or Mode: `project-plan`
+- Summary: executed `UNIT-159`, completed the docs-only PDP host/behavior reopen evidence package, compared keep-blocked against narrow PDP host/behavior reopen and broad PDP reopen, admitted only a later docs-only PDP host/behavior runtime-boundary package, and kept direct implementation plus companion/commerce/search/preset/hardening domains blocked
+- Files changed:
+  - `workspace/plans/phase-4-pdp-host-and-behavior-reopen-evidence-v1/PLAN.v1.md`
+  - `workspace/plans/phase-4-pdp-host-and-behavior-reopen-evidence-v1/ASSUMPTIONS.v1.md`
+  - `workspace/plans/phase-4-pdp-host-and-behavior-reopen-evidence-v1/CHECKS.v1.md`
+  - `workspace/plans/phase-4-pdp-host-and-behavior-reopen-evidence-v1/RISKS.v1.md`
+  - `workspace/plans/phase-4-pdp-host-and-behavior-reopen-evidence-v1/HANDOFF.v1.md`
+  - `workspace/plans/phase-4-pdp-host-behavior-runtime-boundary-v1/`
+  - `state/ORCHESTRATION_STATE.md`
+  - `state/STATUS.md`
+  - `state/NEXT_ACTION.md`
+  - `state/FEATURE_STATUS.md`
+  - `state/PROGRESS.md`
+  - `state/SESSION_LOG.md`
+  - `workspace/handoff/CURRENT_HANDOFF.md`
+- Checks run:
+  - `git status --short`
+  - `project/templates/product.json` absence check
+  - product-supporting section and snippet inventory
+  - literal search for product-form and cart-add patterns in `project/`
+  - architecture/spec PDP references review
+  - `git diff --name-only -- project`
+  - `node HARNESS/checks/check-state-artifacts.mjs`
+  - `node HARNESS/checks/check-next-action-scope.mjs`
+  - `node HARNESS/checks/check-plan-exists.mjs`
+  - `node HARNESS/checks/check-handoff-completeness.mjs`
+  - `node HARNESS/checks/check-approval-state.mjs`
+  - `node HARNESS/checks/check-lock-state.mjs`
+  - `node HARNESS/checks/harness-check.mjs`
+- Result: PASS
+- Follow-up: execute `UNIT-160` only as docs-only PDP host/behavior runtime-boundary authoring and commit before moving on
