@@ -62,11 +62,11 @@
     data-stone-preset-pack="{{ stone_preset_pack | escape }}"
   >
     <a class="stone-skip-link" href="#MainContent">{{ 'snippets.stone_global_header.skip_link' | t }}</a>
-    {% render 'stone-global-header', stone_brand_name: stone_brand_name %}
+    {% sections 'header-group' %}
     <main id="MainContent" class="stone-main" role="main" tabindex="-1">
       {{ content_for_layout }}
     </main>
-    {% render 'stone-global-footer', stone_brand_name: stone_brand_name %}
+    {% sections 'footer-group' %}
     <script src="{{ 'stone-runtime.js' | asset_url }}" defer="defer"></script>
   </body>
 </html>

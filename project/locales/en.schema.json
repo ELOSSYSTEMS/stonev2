@@ -147,6 +147,89 @@
     }
   },
   "sections": {
+    "apps": {
+      "name": "Apps"
+    },
+    "stone_announcement_bar": {
+      "name": "Announcement bar",
+      "settings": {
+        "enabled": {
+          "label": "Enable announcement bar"
+        },
+        "text_alignment": {
+          "label": "Text alignment",
+          "options": {
+            "start": "Start",
+            "center": "Center",
+            "end": "End"
+          }
+        }
+      },
+      "blocks": {
+        "message": {
+          "name": "Message",
+          "settings": {
+            "text": {
+              "label": "Text"
+            },
+            "link": {
+              "label": "Link"
+            }
+          }
+        }
+      }
+    },
+    "stone_header_main": {
+      "name": "Header",
+      "settings": {
+        "menu": {
+          "label": "Menu"
+        },
+        "show_search": {
+          "label": "Show search"
+        },
+        "show_cart_link": {
+          "label": "Show cart link"
+        },
+        "show_locale_switcher": {
+          "label": "Show language selector"
+        }
+      }
+    },
+    "stone_footer_main": {
+      "name": "Footer",
+      "settings": {
+        "menu": {
+          "label": "Menu"
+        },
+        "show_brand": {
+          "label": "Show brand"
+        },
+        "show_newsletter": {
+          "label": "Show newsletter content"
+        },
+        "newsletter_heading": {
+          "label": "Newsletter heading"
+        },
+        "newsletter_body": {
+          "label": "Newsletter body"
+        }
+      }
+    },
+    "stone_footer_legal": {
+      "name": "Footer legal",
+      "settings": {
+        "show_policy_links": {
+          "label": "Show policy links"
+        },
+        "show_copyright": {
+          "label": "Show copyright"
+        },
+        "copyright_text": {
+          "label": "Copyright text"
+        }
+      }
+    },
     "stone_utility_richtext": {
       "name": "Utility rich text",
       "settings": {

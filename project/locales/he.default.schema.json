@@ -147,6 +147,89 @@
     }
   },
   "sections": {
+    "apps": {
+      "name": "אפליקציות"
+    },
+    "stone_announcement_bar": {
+      "name": "שורת הודעות",
+      "settings": {
+        "enabled": {
+          "label": "הפעל שורת הודעות"
+        },
+        "text_alignment": {
+          "label": "יישור טקסט",
+          "options": {
+            "start": "התחלה",
+            "center": "מרכז",
+            "end": "סוף"
+          }
+        }
+      },
+      "blocks": {
+        "message": {
+          "name": "הודעה",
+          "settings": {
+            "text": {
+              "label": "טקסט"
+            },
+            "link": {
+              "label": "קישור"
+            }
+          }
+        }
+      }
+    },
+    "stone_header_main": {
+      "name": "כותרת עליונה",
+      "settings": {
+        "menu": {
+          "label": "תפריט"
+        },
+        "show_search": {
+          "label": "הצג חיפוש"
+        },
+        "show_cart_link": {
+          "label": "הצג קישור לעגלה"
+        },
+        "show_locale_switcher": {
+          "label": "הצג בורר שפה"
+        }
+      }
+    },
+    "stone_footer_main": {
+      "name": "כותרת תחתונה",
+      "settings": {
+        "menu": {
+          "label": "תפריט"
+        },
+        "show_brand": {
+          "label": "הצג מותג"
+        },
+        "show_newsletter": {
+          "label": "הצג תוכן ניוזלטר"
+        },
+        "newsletter_heading": {
+          "label": "כותרת ניוזלטר"
+        },
+        "newsletter_body": {
+          "label": "גוף ניוזלטר"
+        }
+      }
+    },
+    "stone_footer_legal": {
+      "name": "כותרת תחתונה משפטית",
+      "settings": {
+        "show_policy_links": {
+          "label": "הצג קישורי מדיניות"
+        },
+        "show_copyright": {
+          "label": "הצג זכויות יוצרים"
+        },
+        "copyright_text": {
+          "label": "טקסט זכויות יוצרים"
+        }
+      }
+    },
     "stone_utility_richtext": {
       "name": "טקסט עשיר שימושי",
       "settings": {

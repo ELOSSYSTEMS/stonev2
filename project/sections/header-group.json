@@ -1,0 +1,28 @@
+{
+  "type": "header",
+  "name": "Header group",
+  "sections": {
+    "stone_announcement_bar": {
+      "type": "stone-announcement-bar",
+      "settings": {
+        "enabled": false,
+        "text_alignment": "center"
+      },
+      "blocks": {},
+      "block_order": []
+    },
+    "stone_header_main": {
+      "type": "stone-header-main",
+      "settings": {
+        "menu": "main-menu",
+        "show_search": true,
+        "show_cart_link": true,
+        "show_locale_switcher": true
+      }
+    }
+  },
+  "order": [
+    "stone_announcement_bar",
+    "stone_header_main"
+  ]
+}

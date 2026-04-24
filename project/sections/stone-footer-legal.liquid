@@ -1,0 +1,70 @@
+{%- liquid
+  assign stone_custom_copyright = section.settings.copyright_text | strip
+-%}
+{%- if section.settings.show_policy_links or section.settings.show_copyright -%}
+  <section class="stone-footer-legal">
+    <div class="stone-footer-legal__inner">
+      {%- if section.settings.show_policy_links -%}
+        <nav class="stone-footer-legal__nav" aria-label="{{ 'snippets.stone_global_footer.footer_navigation' | t }}">
+          <ul class="stone-footer-legal__list" role="list">
+            {%- if shop.privacy_policy != blank -%}
+              <li class="stone-footer-legal__item">
+                <a class="stone-footer-legal__link" href="{{ shop.privacy_policy.url }}">{{ shop.privacy_policy.title | escape }}</a>
+              </li>
+            {%- endif -%}
+            {%- if shop.refund_policy != blank -%}
+              <li class="stone-footer-legal__item">
+                <a class="stone-footer-legal__link" href="{{ shop.refund_policy.url }}">{{ shop.refund_policy.title | escape }}</a>
+              </li>
+            {%- endif -%}
+            {%- if shop.shipping_policy != blank -%}
+              <li class="stone-footer-legal__item">
+                <a class="stone-footer-legal__link" href="{{ shop.shipping_policy.url }}">{{ shop.shipping_policy.title | escape }}</a>
+              </li>
+            {%- endif -%}
+            {%- if shop.terms_of_service != blank -%}
+              <li class="stone-footer-legal__item">
+                <a class="stone-footer-legal__link" href="{{ shop.terms_of_service.url }}">{{ shop.terms_of_service.title | escape }}</a>
+              </li>
+            {%- endif -%}
+          </ul>
+        </nav>
+      {%- endif -%}
+
+      {%- if section.settings.show_copyright -%}
+        <p class="stone-footer-legal__copyright">
+          {%- if stone_custom_copyright != blank -%}
+            {{ stone_custom_copyright | escape }}
+          {%- else -%}
+            &copy; {{ 'now' | date: '%Y' }} {{ shop.name | escape }}
+          {%- endif -%}
+        </p>
+      {%- endif -%}
+    </div>
+  </section>
+{%- endif -%}
+
+{% schema %}
+{
+  "name": "t:sections.stone_footer_legal.name",
+  "settings": [
+    {
+      "type": "checkbox",
+      "id": "show_policy_links",
+      "label": "t:sections.stone_footer_legal.settings.show_policy_links.label",
+      "default": true
+    },
+    {
+      "type": "checkbox",
+      "id": "show_copyright",
+      "label": "t:sections.stone_footer_legal.settings.show_copyright.label",
+      "default": true
+    },
+    {
+      "type": "text",
+      "id": "copyright_text",
+      "label": "t:sections.stone_footer_legal.settings.copyright_text.label"
+    }
+  ]
+}
+{% endschema %}

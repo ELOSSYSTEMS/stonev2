@@ -1,0 +1,84 @@
+{%- liquid
+  assign stone_brand_name = settings.stone_brand_name | strip
+  assign stone_footer_menu = section.settings.menu
+
+  if stone_brand_name == blank
+    assign stone_brand_name = shop.name
+  endif
+-%}
+<footer class="stone-global-footer" role="contentinfo">
+  <div class="stone-global-footer__inner">
+    {%- if section.settings.show_brand -%}
+      <div class="stone-global-footer__brand">
+        <a class="stone-global-footer__brand-link" href="{{ routes.root_url }}">
+          {{ stone_brand_name | escape }}
+        </a>
+      </div>
+    {%- endif -%}
+
+    {%- if stone_footer_menu != blank and stone_footer_menu.links.size > 0 -%}
+      <nav class="stone-global-footer__nav" aria-label="{{ 'snippets.stone_global_footer.footer_navigation' | t }}">
+        <ul class="stone-global-footer__menu" role="list">
+          {%- for link in stone_footer_menu.links -%}
+            <li class="stone-global-footer__menu-item">
+              <a class="stone-global-footer__menu-link" href="{{ link.url }}">{{ link.title | escape }}</a>
+            </li>
+          {%- endfor -%}
+        </ul>
+      </nav>
+    {%- endif -%}
+
+    {%- if section.settings.show_newsletter -%}
+      <div class="stone-global-footer__newsletter">
+        {%- if section.settings.newsletter_heading != blank -%}
+          <h2 class="stone-global-footer__newsletter-heading">{{ section.settings.newsletter_heading | escape }}</h2>
+        {%- endif -%}
+        {%- if section.settings.newsletter_body != blank -%}
+          <div class="stone-global-footer__newsletter-body">
+            {{ section.settings.newsletter_body }}
+          </div>
+        {%- endif -%}
+      </div>
+    {%- endif -%}
+
+    <p class="stone-global-footer__meta">
+      {{ 'snippets.stone_global_footer.powered_by' | t: shop_name: shop.name }}
+    </p>
+  </div>
+</footer>
+
+{% schema %}
+{
+  "name": "t:sections.stone_footer_main.name",
+  "settings": [
+    {
+      "type": "link_list",
+      "id": "menu",
+      "label": "t:sections.stone_footer_main.settings.menu.label",
+      "default": "footer"
+    },
+    {
+      "type": "checkbox",
+      "id": "show_brand",
+      "label": "t:sections.stone_footer_main.settings.show_brand.label",
+      "default": true
+    },
+    {
+      "type": "checkbox",
+      "id": "show_newsletter",
+      "label": "t:sections.stone_footer_main.settings.show_newsletter.label",
+      "default": false
+    },
+    {
+      "type": "text",
+      "id": "newsletter_heading",
+      "label": "t:sections.stone_footer_main.settings.newsletter_heading.label"
+    },
+    {
+      "type": "richtext",
+      "id": "newsletter_body",
+      "label": "t:sections.stone_footer_main.settings.newsletter_body.label"
+    }
+  ]
+}
+{% endschema %}

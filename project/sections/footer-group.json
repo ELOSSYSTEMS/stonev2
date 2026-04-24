@@ -1,0 +1,28 @@
+{
+  "type": "footer",
+  "name": "Footer group",
+  "sections": {
+    "stone_footer_main": {
+      "type": "stone-footer-main",
+      "settings": {
+        "menu": "footer",
+        "show_brand": true,
+        "show_newsletter": false,
+        "newsletter_heading": "",
+        "newsletter_body": ""
+      }
+    },
+    "stone_footer_legal": {
+      "type": "stone-footer-legal",
+      "settings": {
+        "show_policy_links": true,
+        "show_copyright": true,
+        "copyright_text": ""
+      }
+    }
+  },
+  "order": [
+    "stone_footer_main",
+    "stone_footer_legal"
+  ]
+}

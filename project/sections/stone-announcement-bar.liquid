@@ -1,0 +1,74 @@
+{%- if section.settings.enabled and section.blocks.size > 0 -%}
+  <section class="stone-announcement-bar">
+    <div class="stone-announcement-bar__inner stone-announcement-bar__inner--{{ section.settings.text_alignment | default: 'center' | escape }}">
+      {%- for block in section.blocks -%}
+        {%- case block.type -%}
+          {%- when 'message' -%}
+            {%- assign stone_message = block.settings.text | strip -%}
+            {%- if stone_message != blank -%}
+              <div class="stone-announcement-bar__message" {{ block.shopify_attributes }}>
+                {%- if block.settings.link != blank -%}
+                  <a class="stone-announcement-bar__link" href="{{ block.settings.link }}">{{ stone_message | escape }}</a>
+                {%- else -%}
+                  <span>{{ stone_message | escape }}</span>
+                {%- endif -%}
+              </div>
+            {%- endif -%}
+        {%- endcase -%}
+      {%- endfor -%}
+    </div>
+  </section>
+{%- endif -%}
+
+{% schema %}
+{
+  "name": "t:sections.stone_announcement_bar.name",
+  "settings": [
+    {
+      "type": "checkbox",
+      "id": "enabled",
+      "label": "t:sections.stone_announcement_bar.settings.enabled.label",
+      "default": false
+    },
+    {
+      "type": "select",
+      "id": "text_alignment",
+      "label": "t:sections.stone_announcement_bar.settings.text_alignment.label",
+      "default": "center",
+      "options": [
+        {
+          "value": "start",
+          "label": "t:sections.stone_announcement_bar.settings.text_alignment.options.start"
+        },
+        {
+          "value": "center",
+          "label": "t:sections.stone_announcement_bar.settings.text_alignment.options.center"
+        },
+        {
+          "value": "end",
+          "label": "t:sections.stone_announcement_bar.settings.text_alignment.options.end"
+        }
+      ]
+    }
+  ],
+  "blocks": [
+    {
+      "type": "message",
+      "name": "t:sections.stone_announcement_bar.blocks.message.name",
+      "settings": [
+        {
+          "type": "text",
+          "id": "text",
+          "label": "t:sections.stone_announcement_bar.blocks.message.settings.text.label"
+        },
+        {
+          "type": "url",
+          "id": "link",
+          "label": "t:sections.stone_announcement_bar.blocks.message.settings.link.label"
+        }
+      ]
+    }
+  ],
+  "max_blocks": 3
+}
+{% endschema %}
