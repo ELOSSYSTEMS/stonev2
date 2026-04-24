@@ -211,6 +211,48 @@ textarea {
   color: var(--stone-color-muted);
 }
 
+.stone-footer-legal {
+  inline-size: 100%;
+  border-block-start: 1px solid var(--stone-color-border);
+  background: var(--stone-color-surface);
+}
+
+.stone-footer-legal__inner {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--stone-space-2) var(--stone-space-4);
+  align-items: center;
+  justify-content: space-between;
+  inline-size: min(100%, var(--stone-shell-max-width));
+  margin-inline: auto;
+  padding-block: var(--stone-space-3);
+  padding-inline: var(--stone-gutter);
+  box-sizing: border-box;
+}
+
+.stone-footer-legal__list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--stone-space-2) var(--stone-space-3);
+  padding: 0;
+  margin: 0;
+  list-style: none;
+}
+
+.stone-footer-legal__link {
+  color: inherit;
+  text-decoration: none;
+}
+
+.stone-footer-legal__link:hover {
+  text-decoration: underline;
+}
+
+.stone-footer-legal__copyright {
+  margin: 0;
+  color: var(--stone-color-muted);
+}
+
 @media screen and (min-width: 64rem) {
   .stone-global-header__inner {
     grid-template-columns: auto minmax(0, 1fr) auto;
