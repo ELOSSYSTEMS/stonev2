@@ -1,0 +1,175 @@
+{
+  "baseUrl": "http://127.0.0.1:9292",
+  "rerunAfterUnitSA010": true,
+  "checks": [
+    {
+      "name": "home status 200",
+      "pass": true,
+      "details": {
+        "status": 200
+      }
+    },
+    {
+      "name": "mobile trigger visible",
+      "pass": true,
+      "details": {
+        "htmlLang": "en",
+        "htmlDir": "ltr",
+        "headerCount": 1,
+        "footerCount": 1,
+        "triggerExists": true,
+        "triggerVisible": true,
+        "navDisplay": "none",
+        "drawerHidden": true,
+        "drawerState": "closed",
+        "triggerExpanded": "false"
+      }
+    },
+    {
+      "name": "mobile drawer initially closed",
+      "pass": true,
+      "details": {
+        "htmlLang": "en",
+        "htmlDir": "ltr",
+        "headerCount": 1,
+        "footerCount": 1,
+        "triggerExists": true,
+        "triggerVisible": true,
+        "navDisplay": "none",
+        "drawerHidden": true,
+        "drawerState": "closed",
+        "triggerExpanded": "false"
+      }
+    },
+    {
+      "name": "home has one header and one footer",
+      "pass": true,
+      "details": {
+        "htmlLang": "en",
+        "htmlDir": "ltr",
+        "headerCount": 1,
+        "footerCount": 1,
+        "triggerExists": true,
+        "triggerVisible": true,
+        "navDisplay": "none",
+        "drawerHidden": true,
+        "drawerState": "closed",
+        "triggerExpanded": "false"
+      }
+    },
+    {
+      "name": "mobile drawer opens and locks body",
+      "pass": true,
+      "details": {
+        "drawerHidden": false,
+        "drawerState": "open",
+        "triggerExpanded": "true",
+        "bodyLocked": true,
+        "activeInsideDrawer": true,
+        "activeTag": "BUTTON",
+        "panelBox": {
+          "x": 0,
+          "y": 0,
+          "width": 343.1875,
+          "height": 844,
+          "right": 343.1875,
+          "viewport": 390
+        }
+      }
+    },
+    {
+      "name": "mobile drawer moves focus inside drawer",
+      "pass": true,
+      "details": {
+        "drawerHidden": false,
+        "drawerState": "open",
+        "triggerExpanded": "true",
+        "bodyLocked": true,
+        "activeInsideDrawer": true,
+        "activeTag": "BUTTON",
+        "panelBox": {
+          "x": 0,
+          "y": 0,
+          "width": 343.1875,
+          "height": 844,
+          "right": 343.1875,
+          "viewport": 390
+        }
+      }
+    },
+    {
+      "name": "escape closes drawer and returns focus",
+      "pass": true,
+      "details": {
+        "drawerHidden": true,
+        "drawerState": "closed",
+        "triggerExpanded": "false",
+        "bodyLocked": false,
+        "focusReturned": true
+      }
+    },
+    {
+      "name": "focus remains trapped on shift-tab",
+      "pass": true,
+      "details": {
+        "activeInsideDrawer": true,
+        "activeText": "Contact",
+        "activeClass": "stone-mobile-navigation-drawer__menu-link"
+      }
+    },
+    {
+      "name": "desktop keeps drawer trigger hidden and nav visible",
+      "pass": true,
+      "details": {
+        "headerCount": 1,
+        "footerCount": 1,
+        "triggerDisplay": "none",
+        "navDisplay": "block"
+      }
+    },
+    {
+      "name": "desktop has one header and one footer",
+      "pass": true,
+      "details": {
+        "headerCount": 1,
+        "footerCount": 1,
+        "triggerDisplay": "none",
+        "navDisplay": "block"
+      }
+    },
+    {
+      "name": "rtl route status 200",
+      "pass": true,
+      "details": {
+        "status": 200
+      }
+    },
+    {
+      "name": "rtl route has Hebrew RTL document attrs",
+      "pass": true,
+      "details": {
+        "htmlLang": "he",
+        "htmlDir": "rtl",
+        "triggerVisible": true
+      }
+    },
+    {
+      "name": "rtl drawer opens from right side",
+      "pass": true,
+      "details": {
+        "drawerState": "open",
+        "panelBox": {
+          "x": 46.8125,
+          "width": 343.1875,
+          "right": 390,
+          "viewport": 390
+        }
+      }
+    }
+  ],
+  "screenshots": [
+    "C:\\ELoS\\projects\\stonev2\\workspace\\qa\\reports\\unit-sa-009-mobile-open.png",
+    "C:\\ELoS\\projects\\stonev2\\workspace\\qa\\reports\\unit-sa-009-desktop.png",
+    "C:\\ELoS\\projects\\stonev2\\workspace\\qa\\reports\\unit-sa-009-rtl-mobile-open.png"
+  ]
+}

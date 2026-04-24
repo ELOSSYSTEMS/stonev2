@@ -72,6 +72,7 @@
 - `Verified`: `UNIT-SA-006` passed by authoring the docs-only Phase 3B Global Behavior Boundary Plan, closing the header/footer proof lane for planning purposes, and selecting mobile navigation drawer shell/behavior only as the first safe Phase 3B runtime candidate.
 - `Verified`: `UNIT-SA-007` passed local implementation by adding the mobile navigation drawer shell and behavior inside the exact six-file runtime write set defined by `UNIT-SA-006`.
 - `Verified`: `UNIT-SA-008` passed verification/frontier review by confirming exact runtime file scope, syntax/schema validity, Theme Check, code-level accessibility behavior, and protected-surface boundaries.
+- `Verified`: `UNIT-SA-009` passed browser/preview validation against unpublished `Stonev2` theme id `156487712965` after `UNIT-SA-010` repaired the RTL drawer placement defect in `project/assets/stone-base.css`.
 
 ## Risks And Blocks
 
@@ -81,9 +82,9 @@
 - `Verified`: Remote proof passed against unpublished `Stonev2` theme id `156487712965`.
 - `Verified`: `UNIT-184` preset-composition hard block remains active.
 - `Verified`: Runtime implementation of `UNIT-SA-007` was authorized by the owner and completed locally.
-- `Verified`: `UNIT-SA-009` browser/preview verification is conditionally approved, but Shopify preview commands require explicit store and preview target authorization.
+- `Verified`: `UNIT-SA-011` docs-only Phase 3B next-slice boundary is the only approved next action.
 - `Verified`: Cart drawer, search drawer, predictive search, modal stack, overlay group, theme blocks, templates, snippets, config, preset composition, and Shopify remote mutation remain blocked for the Phase 3B first slice.
-- `Verified`: Browser preview proof for the mobile navigation drawer has not been run.
+- `Verified`: Browser preview proof for the mobile navigation drawer has passed.
 - `Unknown`: Persisted text evidence for exact `lang="he"` and `dir="rtl"` from the RTL retry was not found; `UNIT-SA-006` records this evidence gap.
 - `Verified`: Exact starter content payloads remain intentionally deferred.
 - `Verified`: Exact per-preset host assignment rules remain intentionally deferred until section/block capability stabilization.
@@ -91,4 +92,4 @@
 - `Verified`: Exact hardening entry criteria after partial preset realization are missing.
 - `Verified`: No per-preset architecture sprawl is approved.
 - `Verified`: No predictive-search, cart, or hardening lane is approved.
-- `Inference`: The next honest product step is `UNIT-SA-009` browser/preview verification before any broader Phase 3B runtime work.
+- `Inference`: The next honest product step is `UNIT-SA-011` docs-only next-slice boundary before any broader Phase 3B runtime work.

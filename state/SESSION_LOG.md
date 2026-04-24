@@ -5737,3 +5737,40 @@
   - `node HARNESS/checks/harness-check.mjs`
 - Result: PASS for verification/frontier review
 - Follow-up: execute `UNIT-SA-009` only after explicit store and preview target authorization; do not run `theme dev` against a live theme or with `--allow-live`
+
+### Session Entry
+
+- Timestamp: 2026-04-24 23:12 Asia/Jerusalem
+- Skill or Mode: `Default`
+- Summary: executed `UNIT-SA-009` preview validation against unpublished `Stonev2` theme id `156487712965`, found an RTL drawer placement defect, executed bounded `UNIT-SA-010` CSS-only repair, reran browser proof, and synchronized state to docs-only `UNIT-SA-011`
+- Files changed:
+  - `project/assets/stone-base.css`
+  - `workspace/qa/reports/unit-sa-009-mobile-drawer-preview-report.md`
+  - `workspace/qa/reports/unit-sa-009-browser-proof.json`
+  - `workspace/qa/reports/unit-sa-009-mobile-open.png`
+  - `workspace/qa/reports/unit-sa-009-desktop.png`
+  - `workspace/qa/reports/unit-sa-009-rtl-mobile-open.png`
+  - `workspace/qa/reports/unit-sa-009-theme-dev.err.log`
+  - `workspace/qa/reports/unit-sa-009-theme-dev.out.log`
+  - `workspace/qa/reports/unit-sa-009-theme-dev.pid`
+  - `state/ORCHESTRATION_STATE.md`
+  - `state/STATUS.md`
+  - `state/NEXT_ACTION.md`
+  - `state/FEATURE_STATUS.md`
+  - `state/PROGRESS.md`
+  - `state/SESSION_LOG.md`
+  - `workspace/handoff/CURRENT_HANDOFF.md`
+- Checks run:
+  - `shopify theme list --store elos-dev.myshopify.com --no-color`
+  - `shopify theme check --path project --no-color`
+  - `shopify theme dev --path project --store elos-dev.myshopify.com --theme 156487712965 --port 9292 --live-reload off --nodelete --no-color`
+  - automated Playwright browser proof for mobile LTR, desktop, and mobile RTL
+  - `node HARNESS/checks/check-state-artifacts.mjs`
+  - `node HARNESS/checks/check-next-action-scope.mjs`
+  - `node HARNESS/checks/check-plan-exists.mjs`
+  - `node HARNESS/checks/check-handoff-completeness.mjs`
+  - `node HARNESS/checks/check-approval-state.mjs`
+  - `node HARNESS/checks/check-lock-state.mjs`
+  - `node HARNESS/checks/harness-check.mjs`
+- Result: PASS after bounded RTL placement repair
+- Follow-up: execute `UNIT-SA-011` only as docs-only Phase 3B next-slice boundary; do not implement broader drawer/search/cart behavior

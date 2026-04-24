@@ -258,6 +258,7 @@ textarea {
   z-index: 40;
   display: grid;
   grid-template-columns: minmax(0, 1fr);
+  justify-items: start;
   pointer-events: none;
 }
 
@@ -276,6 +277,7 @@ textarea {
   z-index: 1;
   display: grid;
   align-content: start;
+  justify-self: start;
   gap: var(--stone-space-5);
   inline-size: min(88vw, 22rem);
   block-size: 100%;
@@ -289,8 +291,12 @@ textarea {
   pointer-events: auto;
 }
 
+[dir="rtl"] .stone-mobile-navigation-drawer {
+  justify-items: end;
+}
+
 [dir="rtl"] .stone-mobile-navigation-drawer__panel {
-  margin-inline-start: auto;
+  justify-self: start;
   transform: translateX(100%);
 }
 

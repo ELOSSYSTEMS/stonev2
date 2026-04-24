@@ -8,14 +8,14 @@
 
 ## Current Phase
 
-- `Verified`: Active roadmap phase: Phase 3B mobile navigation drawer browser/preview verification.
-- `Verified`: Last completed phase slice: verification-only `UNIT-SA-008` mobile navigation drawer frontier review.
+- `Verified`: Active roadmap phase: Phase 3B next-slice boundary after mobile navigation drawer preview proof.
+- `Verified`: Last completed phase slice: `UNIT-SA-009` mobile drawer preview validation plus bounded `UNIT-SA-010` RTL placement repair.
 - `Verified`: Preset runtime composition remains a separate hard block (`UNIT-184`).
 
 ## Approval State
 
-- `Verified`: Current next action approval: CONDITIONALLY_APPROVED
-- `Verified`: Approval basis: `UNIT-SA-008` passed local verification; `UNIT-SA-009` preview verification requires explicit store and preview target authorization before Shopify preview commands.
+- `Verified`: Current next action approval: APPROVED
+- `Verified`: Approval basis: `UNIT-SA-009` passed preview validation after `UNIT-SA-010`; next action is docs-only `UNIT-SA-011` boundary authoring.
 
 ## Lock State
 

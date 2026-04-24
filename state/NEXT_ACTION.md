@@ -2,19 +2,19 @@
 
 ## Status
 
-- `Verified`: Approval State: CONDITIONALLY_APPROVED
-- `Verified`: Execution Class: browser/preview verification; explicit Shopify preview target authorization required
+- `Verified`: Approval State: APPROVED
+- `Verified`: Execution Class: docs-only next-slice boundary
 - `Verified`: Priority: high
 
 ## Approved Unit
 
-- `Verified`: `UNIT-SA-009` is the next candidate unit, but only as browser/preview verification of the `UNIT-SA-007` mobile navigation drawer proof; do not run Shopify preview commands until the owner confirms store and target.
+- `Verified`: `UNIT-SA-011` is approved only as a docs-only Phase 3B next-slice boundary after the mobile navigation drawer preview proof.
 
 ## Objective
 
-- `Verified`: Preserve `UNIT-SA-008` verification/frontier review as complete.
-- `Verified`: Verify the mobile drawer in a browser preview before any broader Phase 3B behavior is considered.
-- `Verified`: Keep cart drawer, search drawer, predictive search, modal stack, overlay group, theme blocks, templates, snippets, config, preset composition, and Shopify publish operations blocked.
+- `Verified`: Preserve `UNIT-SA-009` preview validation and `UNIT-SA-010` bounded RTL drawer placement repair as complete.
+- `Verified`: Decide the next smallest safe Phase 3B candidate without implementing runtime.
+- `Verified`: Keep cart drawer, search drawer, predictive search, modal stack, overlay group, theme blocks, templates, snippets, config, preset composition, and Shopify publish operations blocked unless the new docs-only boundary explicitly narrows a later unit.
 - `Verified`: Preserve the separate preset-composition hard block from `UNIT-184`.
 
 ## Plan Reference
@@ -23,8 +23,7 @@
 
 ## Allowed Files Or Surfaces
 
-- `workspace/qa/reports/unit-sa-007-mobile-drawer-report.md`
-- `workspace/qa/reports/unit-sa-009-*`
+- `workspace/plans/section-architecture-final-product-implementation-v1/UNIT-SA-011.v1.md`
 - `state/`
 - `workspace/handoff/CURRENT_HANDOFF.md`
 
@@ -40,4 +39,4 @@
 
 ## Stop Condition
 
-Stop before `theme dev`, browser preview, Shopify remote mutation, or screenshot capture unless the owner confirms the store and preview target; stop immediately if the preview target is live, requires `--allow-live`, or would broaden into cart drawer, search drawer, predictive search, modal stack, overlay group, theme blocks, templates, snippets, config, preset composition, publish, or delete operations.
+Stop if the next step requires runtime edits, Shopify preview/dev/push, cart drawer, search drawer, predictive search, modal stack, overlay group, theme blocks, templates, snippets, config, preset composition, publish, delete operations, or any file outside the docs-only UNIT-SA-011 surfaces.

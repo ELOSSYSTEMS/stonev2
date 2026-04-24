@@ -1,0 +1,31 @@
+╭─ success ────────────────────────────────────────────────────────────────────╮
+│                                                                              │
+│  Preview your theme (t)                                                      │
+│    • http://127.0.0.1:9292                                                   │
+│                                                                              │
+│  Next steps                                                                  │
+│    • Share your theme preview (p) [1]                                        │
+│      https://elos-dev.myshopify.com/?preview_theme_id=156487712965           │
+│    • Customize your theme at the theme editor (e) [2]                        │
+│    • Preview your gift cards (g) [3]                                         │
+│                                                                              │
+╰──────────────────────────────────────────────────────────────────────────────╯
+[1] https://elos-dev.myshopify.com/?preview_theme_id=156487712965
+[2] https://elos-dev.myshopify.com/admin/themes/156487712965/editor?hr=9292
+[3] http://127.0.0.1:9292/gift_cards/[store_id]/preview
+
+• 23:07:51 Request »    GET 200 / 805ms
+• 23:08:04 Request »    GET 200 / 350ms
+• 23:08:06 Request »    GET 200 /he 386ms
+• 23:08:22  Synced » update assets/stone-base.css
+• 23:09:03 Request »    GET 200 / 657ms
+• 23:09:13 Request »    GET 200 / 450ms
+• 23:09:15 Request »    GET 200 /he 438ms
+• 23:09:29 Request »    GET 200 /he?debug=1777061367972 671ms
+• 23:09:49  Synced » update assets/stone-base.css
+• 23:10:03 Request »    GET 200 /he?debug=1777061402750 556ms
+• 23:10:21  Synced » update assets/stone-base.css
+• 23:10:33 Request »    GET 200 /he?debug=1777061432172 655ms
+• 23:11:10 Request »    GET 200 /?unit-sa-009=1777061469311 467ms
+• 23:11:19 Request »    GET 200 /?unit-sa-009-desktop=1777061478880 421ms
+• 23:11:21 Request »    GET 200 /he?unit-sa-009=1777061480823 377ms
