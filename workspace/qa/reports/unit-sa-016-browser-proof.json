@@ -1,0 +1,282 @@
+{
+  "unit": "UNIT-SA-016",
+  "target": {
+    "store": "elos-dev.myshopify.com",
+    "themeName": "Stonev2",
+    "themeId": "156487712965",
+    "localUrl": "http://127.0.0.1:9292"
+  },
+  "startedAt": "2026-04-24T22:24:20.264Z",
+  "assertions": [
+    {
+      "name": "mobile home status 200",
+      "pass": true,
+      "details": {
+        "status": 200,
+        "url": "http://127.0.0.1:9292/"
+      }
+    },
+    {
+      "name": "mobile home: one global header",
+      "pass": true,
+      "details": {
+        "headerCount": 1
+      }
+    },
+    {
+      "name": "mobile home: one global footer",
+      "pass": true,
+      "details": {
+        "footerCount": 1
+      }
+    },
+    {
+      "name": "mobile: search trigger controls drawer",
+      "pass": true,
+      "details": {
+        "controls": "StoneSearchDrawer-sections--21545052143813__stone_header_main"
+      }
+    },
+    {
+      "name": "mobile: search drawer initially closed",
+      "pass": true,
+      "details": {
+        "state": "closed",
+        "hidden": true
+      }
+    },
+    {
+      "name": "mobile: header search form hidden under js",
+      "pass": true,
+      "details": {}
+    },
+    {
+      "name": "mobile: search drawer opens",
+      "pass": true,
+      "details": {
+        "state": "open"
+      }
+    },
+    {
+      "name": "mobile: search trigger aria-expanded true",
+      "pass": true,
+      "details": {
+        "ariaExpanded": "true"
+      }
+    },
+    {
+      "name": "mobile: body drawer lock set",
+      "pass": true,
+      "details": {
+        "lock": "true"
+      }
+    },
+    {
+      "name": "mobile: focus moved inside search drawer",
+      "pass": true,
+      "details": {
+        "activeTag": "BUTTON",
+        "activeClass": "stone-search-drawer__overlay"
+      }
+    },
+    {
+      "name": "mobile: close control closes search drawer",
+      "pass": true,
+      "details": {
+        "state": "closed",
+        "hidden": true,
+        "lock": null,
+        "ariaExpanded": "false"
+      }
+    },
+    {
+      "name": "mobile: search drawer reopens after close control",
+      "pass": true,
+      "details": {
+        "state": "open"
+      }
+    },
+    {
+      "name": "mobile: Shift+Tab focus wraps within drawer",
+      "pass": true,
+      "details": {
+        "possible": true,
+        "firstClass": "stone-search-drawer__overlay",
+        "lastClass": "stone-search-drawer__submit",
+        "count": 4
+      }
+    },
+    {
+      "name": "mobile: Escape closes search drawer",
+      "pass": true,
+      "details": {
+        "state": "closed",
+        "hidden": true
+      }
+    },
+    {
+      "name": "mobile: Escape clears body lock",
+      "pass": true,
+      "details": {
+        "lock": null
+      }
+    },
+    {
+      "name": "mobile: Escape returns focus to trigger",
+      "pass": true,
+      "details": {
+        "activeClass": "stone-global-header__utility-link stone-global-header__search-trigger"
+      }
+    },
+    {
+      "name": "mobile: search form navigates to search route",
+      "pass": true,
+      "details": {
+        "url": "http://127.0.0.1:9292/search?q=unit-sa-016-1777069471732",
+        "status": 200
+      }
+    },
+    {
+      "name": "desktop home status 200",
+      "pass": true,
+      "details": {
+        "status": 200,
+        "url": "http://127.0.0.1:9292/"
+      }
+    },
+    {
+      "name": "desktop home: one global header",
+      "pass": true,
+      "details": {
+        "headerCount": 1
+      }
+    },
+    {
+      "name": "desktop home: one global footer",
+      "pass": true,
+      "details": {
+        "footerCount": 1
+      }
+    },
+    {
+      "name": "desktop: search trigger visible",
+      "pass": true,
+      "details": {}
+    },
+    {
+      "name": "desktop: nav visible",
+      "pass": true,
+      "details": {}
+    },
+    {
+      "name": "rtl /he status 200",
+      "pass": true,
+      "details": {
+        "status": 200,
+        "url": "http://127.0.0.1:9292/he"
+      }
+    },
+    {
+      "name": "rtl /he document lang he",
+      "pass": true,
+      "details": {
+        "lang": "he"
+      }
+    },
+    {
+      "name": "rtl /he document dir rtl",
+      "pass": true,
+      "details": {
+        "dir": "rtl"
+      }
+    },
+    {
+      "name": "rtl mobile home: one global header",
+      "pass": true,
+      "details": {
+        "headerCount": 1
+      }
+    },
+    {
+      "name": "rtl mobile home: one global footer",
+      "pass": true,
+      "details": {
+        "footerCount": 1
+      }
+    },
+    {
+      "name": "rtl mobile: search trigger controls drawer",
+      "pass": true,
+      "details": {
+        "controls": "StoneSearchDrawer-sections--21545052143813__stone_header_main"
+      }
+    },
+    {
+      "name": "rtl mobile: search drawer initially closed",
+      "pass": true,
+      "details": {
+        "state": "closed",
+        "hidden": true
+      }
+    },
+    {
+      "name": "rtl mobile: header search form hidden under js",
+      "pass": true,
+      "details": {}
+    },
+    {
+      "name": "rtl mobile: search drawer opens",
+      "pass": true,
+      "details": {
+        "state": "open"
+      }
+    },
+    {
+      "name": "rtl mobile: search trigger aria-expanded true",
+      "pass": true,
+      "details": {
+        "ariaExpanded": "true"
+      }
+    },
+    {
+      "name": "rtl mobile: body drawer lock set",
+      "pass": true,
+      "details": {
+        "lock": "true"
+      }
+    },
+    {
+      "name": "rtl mobile: focus moved inside search drawer",
+      "pass": true,
+      "details": {
+        "activeTag": "BUTTON",
+        "activeClass": "stone-search-drawer__overlay"
+      }
+    },
+    {
+      "name": "rtl mobile: search drawer panel aligned to logical start side",
+      "pass": true,
+      "details": {
+        "panelBox": {
+          "x": 46.8125,
+          "y": 0,
+          "width": 343.1875,
+          "height": 844
+        },
+        "viewport": {
+          "width": 390,
+          "height": 844
+        },
+        "note": "In RTL, CSS justify-items:start maps logical start to the physical right edge."
+      }
+    }
+  ],
+  "screenshots": {
+    "mobileOpen": "workspace\\qa\\reports\\unit-sa-016-mobile-open.png",
+    "searchResults": "workspace\\qa\\reports\\unit-sa-016-search-results.png",
+    "desktop": "workspace\\qa\\reports\\unit-sa-016-desktop.png",
+    "rtlMobileOpen": "workspace\\qa\\reports\\unit-sa-016-rtl-mobile-open.png"
+  },
+  "finishedAt": "2026-04-24T22:24:52.685Z",
+  "pass": true
+}

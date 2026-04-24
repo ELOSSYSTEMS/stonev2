@@ -2,31 +2,31 @@
 
 ## Status
 
-- `Verified`: Approval State: CONDITIONALLY_APPROVED
-- `Verified`: Execution Class: browser/preview verification only after explicit store and preview target authorization
+- `Verified`: Approval State: APPROVED
+- `Verified`: Execution Class: docs-only boundary authoring
 - `Verified`: Priority: high
 
 ## Approved Unit
 
-- `Verified`: `UNIT-SA-016` is conditionally approved only as search drawer browser preview proof, after explicit store and preview target authorization.
+- `Verified`: `UNIT-SA-017` is approved only as docs-only Phase 3B post-search-drawer boundary authoring.
 
 ## Objective
 
-- `Verified`: Preserve `UNIT-SA-015` as complete for local search drawer shell implementation.
-- `Verified`: Prove in browser preview that the search drawer opens from the header trigger, closes by close control and `Escape`, traps focus, restores focus, locks and unlocks scroll, submits to the route-based search path, and preserves RTL placement.
-- `Verified`: Keep cart drawer, predictive search, search JavaScript, modal stack, overlay group, theme blocks, templates, snippets, config, runtime locales, preset composition, and Shopify publish operations blocked unless a later docs-only boundary explicitly narrows them.
+- `Verified`: Preserve `UNIT-SA-016` as complete for search drawer browser preview proof.
+- `Verified`: Author the smallest safe next Phase 3B boundary after search drawer preview proof.
+- `Verified`: Decide whether the next runtime candidate should be cart drawer shell only, another drawer regression/proof lane, or a stop condition, without implementing runtime behavior.
+- `Verified`: Keep cart drawer runtime, predictive search, search JavaScript, modal stack, overlay group, theme blocks, templates, snippets, config, runtime locales, preset composition, and Shopify publish operations blocked unless the docs-only boundary explicitly narrows a later unit.
 - `Verified`: Preserve the separate preset-composition hard block from `UNIT-184`.
 
 ## Plan Reference
 
-- `Path:` `workspace/plans/section-architecture-final-product-implementation-v1/UNIT-SA-014.v1.md`
+- `Not required`: `UNIT-SA-017` creates the docs-only plan artifact.
 
 ## Allowed Files Or Surfaces
 
-- `workspace/qa/reports/unit-sa-016-*`
+- `workspace/plans/section-architecture-final-product-implementation-v1/UNIT-SA-017.v1.md`
 - `state/`
 - `workspace/handoff/CURRENT_HANDOFF.md`
-- Shopify preview command only after explicit store and preview target authorization
 
 ## Required Checks
 
@@ -40,4 +40,4 @@
 
 ## Stop Condition
 
-Stop if explicit store and preview target authorization for `UNIT-SA-016` is absent, if the resolved preview target is live, if a command would require `--allow-live`, or if the next step requires runtime edits, cart drawer, predictive search, search JavaScript, modal stack, overlay group, theme blocks, templates, snippets, config, runtime locales, preset composition, Shopify publish, delete operations, or any file outside the `UNIT-SA-016` verification surfaces.
+Stop if the next step requires `project/**` edits, Shopify preview/dev/push/publish/delete operations, cart drawer runtime implementation, predictive search, search JavaScript, modal stack implementation, overlay group, theme blocks, templates, snippets, config, runtime locales, preset composition, or any file outside the `UNIT-SA-017` docs-only boundary surfaces.

@@ -1,0 +1,20 @@
+╭─ success ────────────────────────────────────────────────────────────────────╮
+│                                                                              │
+│  Preview your theme (t)                                                      │
+│    • http://127.0.0.1:9292                                                   │
+│                                                                              │
+│  Next steps                                                                  │
+│    • Share your theme preview (p) [1]                                        │
+│      https://elos-dev.myshopify.com/?preview_theme_id=156487712965           │
+│    • Customize your theme at the theme editor (e) [2]                        │
+│    • Preview your gift cards (g) [3]                                         │
+│                                                                              │
+╰──────────────────────────────────────────────────────────────────────────────╯
+[1] https://elos-dev.myshopify.com/?preview_theme_id=156487712965
+[2] https://elos-dev.myshopify.com/admin/themes/156487712965/editor?hr=9292
+[3] http://127.0.0.1:9292/gift_cards/[store_id]/preview
+
+• 01:24:21 Request »    GET 200 / 593ms
+• 01:24:32 Request »    GET 200 /search?q=unit-sa-016-1777069471732 564ms
+• 01:24:34 Request »    GET 200 / 510ms
+• 01:24:44 Request »    GET 200 /he 494ms

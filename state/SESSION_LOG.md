@@ -5934,3 +5934,36 @@
   - `node HARNESS/checks/harness-check.mjs`
 - Result: PASS
 - Follow-up: execute `UNIT-SA-016` only after explicit store and preview target authorization; do not add cart drawer, predictive search, search JavaScript, modal stack, overlay group, theme blocks, templates, snippets, config, runtime locales, presets, or Shopify publish operations
+
+### Session Entry
+
+- Timestamp: 2026-04-25 01:21 Asia/Jerusalem
+- Skill or Mode: `Default`
+- Summary: executed authorized `UNIT-SA-016`, verified `Stonev2` is unpublished theme id `156487712965`, ran local `theme dev` with `--nodelete`, proved the search drawer shell behavior across mobile LTR, desktop, and mobile RTL, then stopped the preview processes and routed next only to docs-only `UNIT-SA-017`
+- Files changed:
+  - `workspace/qa/reports/unit-sa-016-search-drawer-preview-report.md`
+  - `workspace/qa/reports/unit-sa-016-browser-proof.json`
+  - `workspace/qa/reports/unit-sa-016-mobile-open.png`
+  - `workspace/qa/reports/unit-sa-016-search-results.png`
+  - `workspace/qa/reports/unit-sa-016-desktop.png`
+  - `workspace/qa/reports/unit-sa-016-rtl-mobile-open.png`
+  - `workspace/qa/reports/unit-sa-016-theme-dev.err.log`
+  - `workspace/qa/reports/unit-sa-016-theme-dev.out.log`
+  - `workspace/qa/reports/unit-sa-016-theme-dev.pid`
+  - `state/ORCHESTRATION_STATE.md`
+  - `state/STATUS.md`
+  - `state/NEXT_ACTION.md`
+  - `state/FEATURE_STATUS.md`
+  - `state/PROGRESS.md`
+  - `state/SESSION_LOG.md`
+  - `workspace/handoff/CURRENT_HANDOFF.md`
+- Checks run:
+  - `shopify theme list --store elos-dev.myshopify.com --no-color`
+  - `shopify theme dev --path project --store elos-dev.myshopify.com --theme 156487712965 --port 9292 --live-reload off --nodelete --no-color`
+  - automated Playwright browser proof for mobile LTR, desktop, route-based search submission, and mobile RTL
+  - `shopify theme check --path project --no-color`
+  - `git diff --name-only -- project`
+  - `git ls-files --others --exclude-standard -- project`
+  - required harness checks
+- Result: PASS
+- Follow-up: execute `UNIT-SA-017` only as docs-only boundary authoring; do not add cart drawer runtime, predictive search, search JavaScript, modal stack, overlay group, theme blocks, templates, snippets, config, runtime locales, presets, or Shopify remote mutation

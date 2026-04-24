@@ -79,6 +79,7 @@
 - `Verified`: `UNIT-SA-013` passed browser preview regression proof for the shared drawer primitive against unpublished `Stonev2` theme id `156487712965`.
 - `Verified`: `UNIT-SA-014` passed by authoring the docs-only Phase 3B second-drawer candidate boundary and selecting search drawer shell only as the next safest candidate.
 - `Verified`: `UNIT-SA-015` passed local implementation by adding a route-based search drawer shell that reuses the shared drawer primitive while keeping predictive search and cart behavior blocked.
+- `Verified`: `UNIT-SA-016` passed browser preview proof for the search drawer shell against unpublished `Stonev2` theme id `156487712965`.
 
 ## Risks And Blocks
 
@@ -88,8 +89,8 @@
 - `Verified`: Remote proof passed against unpublished `Stonev2` theme id `156487712965`.
 - `Verified`: `UNIT-184` preset-composition hard block remains active.
 - `Verified`: Runtime implementation of `UNIT-SA-007` was authorized by the owner and completed locally.
-- `Verified`: `UNIT-SA-016` search drawer browser preview proof is conditionally approved only after explicit store and preview target authorization.
-- `Verified`: Cart drawer, search drawer, predictive search, modal stack, overlay group, theme blocks, templates, snippets, config, preset composition, and Shopify remote mutation remain blocked for the Phase 3B first slice.
+- `Verified`: `UNIT-SA-017` is approved only as docs-only Phase 3B post-search-drawer boundary authoring.
+- `Verified`: Cart drawer runtime, predictive search, search JavaScript, modal stack, overlay group, theme blocks, templates, snippets, config, preset composition, and Shopify remote mutation remain blocked unless a later docs-only boundary narrows one future unit.
 - `Verified`: Browser preview proof for the mobile navigation drawer has passed.
 - `Unknown`: Persisted text evidence for exact `lang="he"` and `dir="rtl"` from the RTL retry was not found; `UNIT-SA-006` records this evidence gap.
 - `Verified`: Exact starter content payloads remain intentionally deferred.
@@ -98,4 +99,4 @@
 - `Verified`: Exact hardening entry criteria after partial preset realization are missing.
 - `Verified`: No per-preset architecture sprawl is approved.
 - `Verified`: No predictive-search, cart, or hardening lane is approved.
-- `Inference`: The next honest product step is `UNIT-SA-016` browser preview proof before any broader Phase 3B cart or predictive-search work.
+- `Inference`: The next honest product step is `UNIT-SA-017` docs-only boundary authoring before any broader Phase 3B cart or predictive-search work.
