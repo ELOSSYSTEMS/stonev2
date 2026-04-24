@@ -5,7 +5,7 @@
 - `Verified`: Repo state: harness foundation populated
 - `Verified`: Storefront runtime state: bounded section-family runtime slices exist and canonical homepage, shell/navigation, collection, PDP, blog, article, and search host proofs are verified or pending no further host implementation.
 - `Verified`: Architecture authority: the five documents under `docs/architecture/`
-- `Verified`: Current decision package: `workspace/plans/section-architecture-final-product-implementation-v1/UNIT-SA-006.v1.md`
+- `Verified`: Current decision package: `workspace/plans/section-architecture-final-product-implementation-v1/UNIT-SA-011.v1.md`
 
 ## Canonical Inputs
 
@@ -27,6 +27,7 @@
 - `Verified`: `workspace/plans/shopify-upload-error-resolution-v1/PLAN.v1.md`
 - `Verified`: `workspace/plans/section-architecture-final-product-implementation-v1/PLAN.v2.md`
 - `Verified`: `workspace/plans/section-architecture-final-product-implementation-v1/UNIT-SA-006.v1.md`
+- `Verified`: `workspace/plans/section-architecture-final-product-implementation-v1/UNIT-SA-011.v1.md`
 
 ## Constraints
 
@@ -73,6 +74,7 @@
 - `Verified`: `UNIT-SA-007` passed local implementation by adding the mobile navigation drawer shell and behavior inside the exact six-file runtime write set defined by `UNIT-SA-006`.
 - `Verified`: `UNIT-SA-008` passed verification/frontier review by confirming exact runtime file scope, syntax/schema validity, Theme Check, code-level accessibility behavior, and protected-surface boundaries.
 - `Verified`: `UNIT-SA-009` passed browser/preview validation against unpublished `Stonev2` theme id `156487712965` after `UNIT-SA-010` repaired the RTL drawer placement defect in `project/assets/stone-base.css`.
+- `Verified`: `UNIT-SA-011` passed by authoring the docs-only Phase 3B next-slice boundary and selecting shared drawer primitive generalization plus mobile drawer regression proof as the next safest candidate.
 
 ## Risks And Blocks
 
@@ -82,7 +84,7 @@
 - `Verified`: Remote proof passed against unpublished `Stonev2` theme id `156487712965`.
 - `Verified`: `UNIT-184` preset-composition hard block remains active.
 - `Verified`: Runtime implementation of `UNIT-SA-007` was authorized by the owner and completed locally.
-- `Verified`: `UNIT-SA-011` docs-only Phase 3B next-slice boundary is the only approved next action.
+- `Verified`: `UNIT-SA-012` shared drawer primitive generalization is conditionally approved only after exact-unit owner authorization.
 - `Verified`: Cart drawer, search drawer, predictive search, modal stack, overlay group, theme blocks, templates, snippets, config, preset composition, and Shopify remote mutation remain blocked for the Phase 3B first slice.
 - `Verified`: Browser preview proof for the mobile navigation drawer has passed.
 - `Unknown`: Persisted text evidence for exact `lang="he"` and `dir="rtl"` from the RTL retry was not found; `UNIT-SA-006` records this evidence gap.
@@ -92,4 +94,4 @@
 - `Verified`: Exact hardening entry criteria after partial preset realization are missing.
 - `Verified`: No per-preset architecture sprawl is approved.
 - `Verified`: No predictive-search, cart, or hardening lane is approved.
-- `Inference`: The next honest product step is `UNIT-SA-011` docs-only next-slice boundary before any broader Phase 3B runtime work.
+- `Inference`: The next honest product step is `UNIT-SA-012` shared drawer primitive generalization before any broader Phase 3B search/cart runtime work.

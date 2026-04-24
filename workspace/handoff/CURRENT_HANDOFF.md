@@ -35,6 +35,7 @@
 - `Verified`: `UNIT-SA-008` verified the exact mobile drawer runtime proof and routed next only to browser/preview validation.
 - `Verified`: `UNIT-SA-009` preview-validated the mobile drawer against unpublished `Stonev2` theme id `156487712965`.
 - `Verified`: `UNIT-SA-010` repaired the RTL drawer placement defect with a CSS-only fix in `project/assets/stone-base.css`.
+- `Verified`: `UNIT-SA-011` completed the docs-only Phase 3B next-slice boundary and selected shared drawer primitive generalization plus mobile drawer regression proof as the next safest candidate.
 
 ## Current State
 
@@ -75,8 +76,8 @@
 - `Verified`: `UNIT-184` is admitted only as a blocked owner-input unit; no runtime work is approved.
 - `Verified`: `UNIT-SA-006` keeps cart drawer, search drawer, predictive search, modal stack, overlay group, theme blocks, templates, snippets, config, preset composition, and Shopify remote mutation blocked for the Phase 3B first slice.
 - `Verified`: `UNIT-SA-007` was authorized by the owner and completed locally.
-- `Verified`: `UNIT-SA-011` docs-only next-slice boundary is the only approved next action.
-- `Verified`: Browser preview proof for the mobile drawer has not been run.
+- `Verified`: `UNIT-SA-012` shared drawer primitive generalization is conditionally approved only after exact owner authorization.
+- `Verified`: Browser preview proof for the mobile drawer has passed after the RTL placement repair.
 
 ## Changed Or Seeded Files
 
@@ -196,20 +197,21 @@
 - `Verified`: Mobile navigation drawer runtime is implemented locally.
 - `Verified`: `UNIT-SA-008` verification is complete.
 - `Verified`: `UNIT-SA-009` browser/preview verification is complete.
-- `Verified`: `UNIT-SA-011` docs-only next-slice boundary remains pending.
+- `Verified`: `UNIT-SA-011` docs-only next-slice boundary is complete.
+- `Verified`: `UNIT-SA-012` shared drawer primitive generalization remains pending exact owner authorization.
 - `Unknown`: Persisted text evidence for exact `lang="he"` and `dir="rtl"` from the RTL retry was not found; `UNIT-SA-006` records this evidence gap.
 
 ## Recommended Next Step
 
 - `Verified`: No further Shopify upload-repair unit is approved.
 - `Verified`: `UNIT-184` remains blocked pending owner runtime composition inputs.
-- `Inference`: The next productive Phase 3B step is `UNIT-SA-011` docs-only next-slice boundary before any broader drawer/search/cart behavior.
+- `Inference`: The next productive Phase 3B step is `UNIT-SA-012` shared drawer primitive generalization before any broader search/cart drawer behavior.
 
 ## Resume Checks
 
 - `Verified`: Read `workspace/plans/section-architecture-final-product-implementation-v1/UNIT-SA-006.v1.md`.
 - `Verified`: Read `workspace/qa/reports/unit-sa-009-mobile-drawer-preview-report.md`.
-- `Verified`: Confirm `UNIT-SA-011` stays docs-only.
+- `Verified`: Confirm `UNIT-SA-012` has exact owner authorization before runtime edits.
 - `Verified`: Run `node HARNESS/checks/harness-check.mjs`.
 - `Verified`: Read `workspace/plans/phase-4-collection-filter-runtime-boundary-v1/PLAN.v1.md` and current state files.
 - `Verified`: Read `state/NEXT_ACTION.md`.

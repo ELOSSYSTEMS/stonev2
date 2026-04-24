@@ -2,33 +2,32 @@
 
 ## Current Phase
 
-- `Verified`: Roadmap phase: Phase 3B next-slice boundary after mobile navigation drawer preview proof.
+- `Verified`: Roadmap phase: Phase 3B shared drawer primitive boundary after mobile navigation drawer preview proof.
 - `Verified`: Preset runtime composition remains blocked separately by `UNIT-184`.
 
 ## Approved Next Action
 
-- `Verified`: `UNIT-SA-011` is approved only as docs-only next-slice boundary authoring.
-- `Verified`: No runtime edits are approved.
+- `Verified`: `UNIT-SA-012` is conditionally approved only as shared drawer primitive generalization and mobile drawer regression proof after exact-unit owner authorization.
+- `Verified`: Search drawer, cart drawer, predictive search, modal stack, overlay group, theme blocks, templates, snippets, config, locales, preset composition, and Shopify publish operations remain blocked.
 
 ## Last Completed Unit
 
-- `Verified`: Unit ID: `UNIT-SA-009` / `UNIT-SA-010`
-- `Verified`: Summary: preview-validated the mobile navigation drawer on unpublished `Stonev2`; repaired the RTL drawer placement defect with the smallest CSS-only fix.
+- `Verified`: Unit ID: `UNIT-SA-011`
+- `Verified`: Summary: authored the docs-only Phase 3B next-slice boundary and selected shared drawer primitive generalization plus mobile drawer regression proof as the next safest runtime candidate.
 
 ## Verification Status
 
-- `Verified`: Verdict: `UNIT-SA-009` PASS after bounded `UNIT-SA-010` repair.
-- `Verified`: Evidence: `workspace/qa/reports/unit-sa-009-mobile-drawer-preview-report.md`; `workspace/qa/reports/unit-sa-009-browser-proof.json`; screenshots; `shopify theme check --path project --no-color`; required harness checks.
+- `Verified`: Verdict: `UNIT-SA-011` docs-only boundary authored; runtime not implemented.
+- `Verified`: Evidence: `workspace/plans/section-architecture-final-product-implementation-v1/UNIT-SA-011.v1.md`.
 
 ## Active Blockers
 
-- `Verified`: Cart drawer, search drawer, predictive search, modal stack, overlay group, theme blocks, template mutation, snippets, config, preset composition, and Shopify remote mutation remain blocked.
-- `Verified`: Browser preview proof for `UNIT-SA-007` passed after the RTL placement repair.
+- `Verified`: Exact owner authorization for `UNIT-SA-012` is required before runtime edits.
+- `Verified`: Cart drawer, search drawer, predictive search, modal stack, overlay group, theme blocks, template mutation, snippets, config, locales, preset composition, and Shopify remote mutation remain blocked.
 - `Verified`: `UNIT-184` preset-composition hard block remains active.
-- `Unknown`: Persisted text evidence for exact `lang="he"` and `dir="rtl"` from the RTL retry was not found; `UNIT-SA-006` records this as an evidence gap.
 
 ## Resume Notes
 
-- `Verified`: Resume from `workspace/qa/reports/unit-sa-007-mobile-drawer-report.md`.
-- `Verified`: Execute `UNIT-SA-011` only as docs-only next-slice boundary.
-- `Verified`: Do not implement further Phase 3B behavior during boundary authoring.
+- `Verified`: Resume from `workspace/plans/section-architecture-final-product-implementation-v1/UNIT-SA-011.v1.md`.
+- `Verified`: Execute `UNIT-SA-012` only if exact owner authorization is present.
+- `Verified`: Do not add a second drawer surface during shared drawer primitive work.
