@@ -7,23 +7,23 @@
 
 ## Approved Next Action
 
-- `Verified`: `UNIT-189` is approved to push the repaired source to existing unpublished theme id `156487712965`.
+- `Verified`: `UNIT-190` is approved to repair the Hebrew runtime locale filename rejected by Shopify.
 
 ## Last Completed Unit
 
-- `Verified`: Unit ID: `UNIT-188`
-- `Verified`: Summary: added `project/locales/he.default.json` with runtime key parity against `en.default.json`.
+- `Verified`: Unit ID: `UNIT-189`
+- `Verified`: Summary: remote proof push to unpublished theme id `156487712965` failed with three exact remote blockers.
 
 ## Verification Status
 
-- `Verified`: Verdict: `UNIT-188` PASS with clean Theme Check and runtime locale parity.
-- `Verified`: Evidence: `workspace/verify/unit-188/he-default-runtime-key-parity.txt`; `workspace/verify/unit-188/theme-check-summary.txt`; required harness checks.
+- `Verified`: Verdict: `UNIT-189` FAIL with remote blockers recorded.
+- `Verified`: Evidence: `workspace/verify/unit-189/theme-push-output.json`; `workspace/verify/unit-189/remote-push-summary.txt`; required harness checks.
 
 ## Active Blockers
 
 - `Verified`: Runtime preset composition edits are blocked.
 - `Verified`: Shopify upload repair has clean local Theme Check after English and Hebrew runtime locale coverage.
-- `Verified`: Remote proof remains required before treating `Stonev2` as repaired on the dev store.
+- `Verified`: Remote proof blockers are Hebrew default locale filename, invalid prompt template URL, and remote-only gift card deletion behavior.
 - `Verified`: Exact template JSON mutation policy is missing.
 - `Verified`: Exact per-preset section order and section settings are missing.
 - `Verified`: Starter content defaults are missing.
@@ -39,5 +39,5 @@
 
 ## Resume Notes
 
-- `Verified`: Continue with `UNIT-189` only unless a hard block appears.
+- `Verified`: Continue with `UNIT-190` only unless a hard block appears.
 - `Verified`: Do not resume preset runtime composition until owner inputs are supplied or the hard block is explicitly overridden.

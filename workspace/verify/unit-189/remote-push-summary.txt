@@ -1,0 +1,12 @@
+REMOTE_PUSH_RESULT=FAILED_WITH_ERRORS
+THEME_ID=156487712965
+THEME_NAME=Stonev2
+THEME_ROLE=unpublished
+ERRORS:
+- locales/he.default.json: A theme must have only one default locale file.
+- templates/page.stone-runtime-prompt.json: Setting 'action_link' must be a valid URL.
+- templates/gift_card.liquid: templates/gift_card.liquid could not be deleted.
+NEXT_REPAIR_UNITS:
+- Fix Hebrew runtime locale filename so there is only one default runtime locale file.
+- Fix invalid template URL setting in page.stone-runtime-prompt.json.
+- Resolve gift_card remote delete behavior with a no-delete push strategy or local file parity.

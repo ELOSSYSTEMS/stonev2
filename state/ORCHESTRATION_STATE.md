@@ -9,13 +9,13 @@
 ## Current Phase
 
 - `Verified`: Active roadmap phase: Shopify upload repair lane
-- `Verified`: Last completed phase slice: Hebrew runtime locale parity (`UNIT-188`)
+- `Verified`: Last completed phase slice: remote proof attempt (`UNIT-189`) failed with exact blockers recorded.
 - `Verified`: Preset runtime composition remains a separate hard block (`UNIT-184`).
 
 ## Approval State
 
 - `Verified`: Current next action approval: APPROVED
-- `Verified`: Approval basis: owner instructed execution of `workspace/plans/shopify-upload-error-resolution-v1/PLAN.v1.md`; `UNIT-188` completed runtime locale parity and now admits `UNIT-189` for remote proof push to unpublished `Stonev2`.
+- `Verified`: Approval basis: owner instructed execution of `workspace/plans/shopify-upload-error-resolution-v1/PLAN.v1.md`; `UNIT-189` remote proof exposed exact blockers and now admits `UNIT-190` for Hebrew runtime locale filename repair.
 
 ## Lock State
 

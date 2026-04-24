@@ -26,6 +26,7 @@
 - `Verified`: `UNIT-186` completed the settings schema upload repair unit by replacing the blank `stone_brand_name` default with `Stone`.
 - `Verified`: `UNIT-187` completed English runtime locale coverage and cleared local Theme Check.
 - `Verified`: `UNIT-188` completed Hebrew runtime locale parity and kept Theme Check clean.
+- `Verified`: `UNIT-189` attempted remote proof against unpublished theme id `156487712965` and failed with exact remote blockers recorded.
 
 ## Current State
 
@@ -58,6 +59,7 @@
 - `Verified`: `UNIT-186` confirms `project/config/settings_schema.json` parses and `stone_brand_name` default is `Stone`.
 - `Verified`: `UNIT-187` confirms `project/locales/en.default.json` covers 126 runtime keys and Theme Check reports zero errors.
 - `Verified`: `UNIT-188` confirms `project/locales/he.default.json` covers the same 126 runtime keys and Theme Check reports zero errors.
+- `Verified`: `UNIT-189` remote push reported `locales/he.default.json`, `templates/page.stone-runtime-prompt.json`, and `templates/gift_card.liquid` blockers.
 - `Verified`: Templates, sections, snippets, JavaScript, homepage sequence mutation, host assignment mutation, predictive search, cart behavior, recommendations, companion behavior, checkout/billing-sensitive behavior, and hardening remain blocked.
 - `Verified`: `UNIT-184` is admitted only as a blocked owner-input unit; no runtime work is approved.
 
@@ -128,6 +130,8 @@
 - `Verified`: `workspace/verify/unit-187/theme-check-summary.txt`
 - `Verified`: `workspace/verify/unit-188/he-default-runtime-key-parity.txt`
 - `Verified`: `workspace/verify/unit-188/theme-check-summary.txt`
+- `Verified`: `workspace/verify/unit-189/theme-push-output.json`
+- `Verified`: `workspace/verify/unit-189/remote-push-summary.txt`
 - `Verified`: `project/locales/en.default.json`
 - `Verified`: `project/locales/he.default.json`
 - `Verified`: `project/config/settings_schema.json`
@@ -138,7 +142,7 @@
 - `Verified`: Broad preset runtime implementation remains blocked.
 - `Verified`: Shopify upload repair continues separately from preset composition.
 - `Verified`: English runtime locale coverage is complete.
-- `Verified`: Remote Shopify proof remains required before the dev-store theme can be treated as repaired.
+- `Verified`: Remote Shopify proof remains blocked by Hebrew locale filename, invalid prompt URL, and remote gift card delete behavior.
 - `Verified`: Per-preset architecture sprawl remains blocked.
 - `Verified`: Predictive search, cart behavior, and hardening remain blocked.
 - `Verified`: Final preset content and final preset composition remain intentionally deferred until section/block capabilities are stabilized.
@@ -152,9 +156,9 @@
 
 ## Recommended Next Step
 
-- `Verified`: `UNIT-189` is approved next for remote proof push to existing unpublished theme id `156487712965` only.
+- `Verified`: `UNIT-190` is approved next for Hebrew runtime locale filename repair only.
 - `Verified`: `UNIT-184` remains blocked pending owner runtime composition inputs.
-- `Inference`: The next productive upload-repair step is remote proof, not preset composition.
+- `Inference`: The next productive upload-repair step is locale filename repair, not preset composition.
 
 ## Resume Checks
 

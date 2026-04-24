@@ -5549,3 +5549,25 @@
   - required harness checks
 - Result: PASS; Hebrew and English runtime locales both contain 126 runtime keys and Theme Check reports zero errors and zero warnings
 - Follow-up: execute `UNIT-189` only as remote proof push to existing unpublished theme id `156487712965`
+### Session Entry
+
+- Timestamp: 2026-04-24 12:30 Asia/Jerusalem
+- Skill or Mode: `project-build`
+- Summary: executed `UNIT-189`, confirmed `Stonev2` remained unpublished theme id `156487712965`, attempted the remote proof push, and recorded three exact remote upload blockers
+- Files changed:
+  - `workspace/plans/shopify-upload-error-resolution-v1/PLAN.v1.md`
+  - `workspace/verify/unit-189/`
+  - `state/ORCHESTRATION_STATE.md`
+  - `state/STATUS.md`
+  - `state/NEXT_ACTION.md`
+  - `state/FEATURE_STATUS.md`
+  - `state/PROGRESS.md`
+  - `state/SESSION_LOG.md`
+  - `workspace/handoff/CURRENT_HANDOFF.md`
+- Checks run:
+  - `shopify theme list --store elos-dev.myshopify.com`
+  - `shopify theme push --store elos-dev.myshopify.com --path project --theme 156487712965 --json`
+  - `shopify theme list --store elos-dev.myshopify.com`
+  - required harness checks
+- Result: FAIL with remote blockers recorded: `locales/he.default.json` must not be a second default locale file; `templates/page.stone-runtime-prompt.json` has invalid `action_link`; `templates/gift_card.liquid` could not be deleted
+- Follow-up: execute `UNIT-190` only as Hebrew runtime locale filename repair and commit before moving on
