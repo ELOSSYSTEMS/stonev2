@@ -1,0 +1,260 @@
+{
+  "sections": {
+    "stone_blog_article_highlights": {
+      "empty_articles": "Select articles to feature.",
+      "empty_blog": "Select a blog to feature.",
+      "read_more": "Read more"
+    },
+    "stone_category_entry_grid": {
+      "collection_label": "Collection",
+      "empty_state": "Select collections to display.",
+      "selected_count": "{{ count }} selected"
+    },
+    "stone_category_media_band": {
+      "empty_lead": "Add lead content for this media band."
+    },
+    "stone_collection_context_card": {
+      "collection_label": "Collection",
+      "empty_collection": "Select a collection to feature.",
+      "product_count": "{{ count }} products",
+      "view_collection": "View collection"
+    },
+    "stone_content_card_strip": {
+      "blocks": {
+        "item": {
+          "fallback_heading": "Content highlight"
+        }
+      },
+      "empty": "Add content cards to this section."
+    },
+    "stone_curated_product_trio": {
+      "empty_products": "Select products to feature."
+    },
+    "stone_editorial_quote": {
+      "empty_quote": "Add a quote to this section."
+    },
+    "stone_featured_collection_grid": {
+      "collection_label": "Collection",
+      "empty_collection": "Select a collection to feature.",
+      "product_count": "{{ count }} products",
+      "view_collection": "View collection"
+    },
+    "stone_featured_product_showcase": {
+      "empty_product": "Select a product to feature."
+    },
+    "stone_hero_opening": {
+      "empty": "Add hero copy to this section."
+    },
+    "stone_main_article": {
+      "article_label": "Article",
+      "back_to_blog": "Back to {{ blog_title }}"
+    },
+    "stone_main_blog": {
+      "article_count": "{{ count }} articles",
+      "blog_label": "Blog",
+      "empty": "No articles found.",
+      "next_page": "Next",
+      "pagination_label": "Blog pagination",
+      "previous_page": "Previous",
+      "read_more": "Read more"
+    },
+    "stone_main_collection": {
+      "collection_label": "Collection",
+      "empty": "No products found.",
+      "filter_apply": "Apply filters",
+      "filter_clear_all": "Clear all",
+      "filter_count": "{{ count }} selected",
+      "filter_max": "Maximum",
+      "filter_min": "Minimum",
+      "filter_reset": "Reset",
+      "filters_label": "Filters",
+      "next_page": "Next",
+      "pagination_label": "Collection pagination",
+      "previous_page": "Previous",
+      "product_count": "{{ count }} products",
+      "sort_label": "Sort by",
+      "sort_submit": "Apply sort"
+    },
+    "stone_main_product": {
+      "add_to_cart": "Add to cart",
+      "no_media": "No media available.",
+      "product_label": "Product",
+      "quantity_label": "Quantity",
+      "sold_out": "Sold out",
+      "unavailable": "Unavailable",
+      "variant_label": "Variant"
+    },
+    "stone_main_search": {
+      "empty": "No results found.",
+      "name": "Search",
+      "next_page": "Next",
+      "pagination_label": "Search pagination",
+      "placeholder": "Search",
+      "previous_page": "Previous",
+      "prompt": "Enter a search term to get started.",
+      "query_label": "Search terms",
+      "result_count": "{{ count }} results",
+      "search_label": "Search",
+      "submit": "Search"
+    },
+    "stone_pdp_size_chart": {
+      "blocks": {
+        "row": {
+          "empty_measurement": "Add measurement details.",
+          "fallback_size": "Size"
+        }
+      },
+      "empty": "Add size chart rows.",
+      "headers": {
+        "measurement": "Measurement",
+        "note": "Note",
+        "size": "Size"
+      }
+    },
+    "stone_pdp_spec_sheet": {
+      "blocks": {
+        "row": {
+          "empty_value": "Add specification details.",
+          "fallback_label": "Specification"
+        }
+      },
+      "empty": "Add specification rows."
+    },
+    "stone_process_steps": {
+      "blocks": {
+        "item": {
+          "fallback_title": "Step"
+        }
+      },
+      "empty": "Add process steps."
+    },
+    "stone_product_context_card": {
+      "empty_product": "Select a product to feature.",
+      "product_label": "Product",
+      "view_product": "View product"
+    },
+    "stone_product_pair_comparison": {
+      "empty_products": "Select products to compare."
+    },
+    "stone_shoppable_media_drawer": {
+      "close_label": "Close",
+      "empty_state": "Select products for this shoppable media section."
+    },
+    "stone_shoppable_media_focus": {
+      "empty_state": "Select products for this shoppable media section."
+    },
+    "stone_shoppable_media_motion_story": {
+      "empty_state": "Select products for this shoppable media section."
+    },
+    "stone_shoppable_media_overlay": {
+      "close_label": "Close",
+      "empty_state": "Select products for this shoppable media section."
+    },
+    "stone_shoppable_media_story": {
+      "empty_state": "Select products for this shoppable media section."
+    },
+    "stone_story_split": {
+      "empty": "Add story content to this section."
+    },
+    "stone_trust_faq": {
+      "blocks": {
+        "item": {
+          "empty_answer": "Add an answer.",
+          "fallback_question": "Question"
+        }
+      },
+      "empty": "Add FAQ items."
+    },
+    "stone_trust_help_prompt": {
+      "empty": "Add help prompt content."
+    },
+    "stone_trust_logo_rail": {
+      "blocks": {
+        "item": {
+          "empty_image": "Add a logo image."
+        }
+      },
+      "empty": "Add logos to this section."
+    },
+    "stone_trust_reassurance_lane": {
+      "blocks": {
+        "item": {
+          "empty_body": "Add reassurance copy.",
+          "fallback_title": "Reassurance"
+        }
+      },
+      "empty": "Add reassurance items."
+    },
+    "stone_trust_stat_strip": {
+      "blocks": {
+        "item": {
+          "empty_value": "Add a value.",
+          "fallback_label": "Statistic"
+        }
+      },
+      "empty": "Add statistics."
+    },
+    "stone_trust_testimonial": {
+      "blocks": {
+        "item": {
+          "empty_quote": "Add a testimonial quote.",
+          "fallback_author": "Customer"
+        }
+      },
+      "empty": "Add testimonials."
+    },
+    "stone_utility_action_group": {
+      "empty": "Add actions to this section."
+    },
+    "stone_utility_block_stack": {
+      "empty": "Add blocks to this section."
+    },
+    "stone_utility_key_value_list": {
+      "empty": "Add key-value rows."
+    },
+    "stone_utility_layout_composition": {
+      "empty": "Add blocks to this layout.",
+      "empty_region": "Add blocks to this region.",
+      "regions": {
+        "primary": {
+          "label": "Primary"
+        },
+        "secondary": {
+          "label": "Secondary"
+        }
+      }
+    },
+    "stone_utility_notice": {
+      "empty": "Add notice content."
+    },
+    "stone_utility_prompt": {
+      "empty": "Add prompt content."
+    }
+  },
+  "snippets": {
+    "stone_collection_card": {
+      "collection_label": "Collection",
+      "product_count": "{{ count }} products",
+      "view_collection": "View collection"
+    },
+    "stone_global_footer": {
+      "footer_navigation": "Footer navigation",
+      "powered_by": "Powered by {{ shop_name }}"
+    },
+    "stone_global_header": {
+      "cart": "Cart",
+      "home": "Home",
+      "locale_label": "Language",
+      "locale_submit": "Change language",
+      "primary_navigation": "Primary navigation",
+      "search_label": "Search",
+      "search_placeholder": "Search products, collections, and articles",
+      "search_submit": "Submit search",
+      "skip_link": "Skip to content"
+    },
+    "stone_product_card": {
+      "from_price": "From {{ price }}",
+      "view_product": "View product"
+    }
+  }
+}

@@ -5505,3 +5505,25 @@
   - required harness checks
 - Result: PASS for settings schema blank-default repair; Theme Check still reports 127 non-scope `TranslationKeyExists` errors
 - Follow-up: execute `UNIT-187` only as English runtime locale coverage and commit before moving on
+### Session Entry
+
+- Timestamp: 2026-04-24 12:00 Asia/Jerusalem
+- Skill or Mode: `project-build`
+- Summary: executed `UNIT-187`, added `project/locales/en.default.json` with 126 runtime keys referenced by Liquid, and recorded receipts under `workspace/verify/unit-187/`
+- Files changed:
+  - `project/locales/en.default.json`
+  - `workspace/verify/unit-187/`
+  - `state/ORCHESTRATION_STATE.md`
+  - `state/STATUS.md`
+  - `state/NEXT_ACTION.md`
+  - `state/FEATURE_STATUS.md`
+  - `state/PROGRESS.md`
+  - `state/SESSION_LOG.md`
+  - `workspace/handoff/CURRENT_HANDOFF.md`
+- Checks run:
+  - English runtime key coverage check
+  - `shopify theme check --path project --output json`
+  - Theme Check summary parse
+  - required harness checks
+- Result: PASS; Theme Check reports zero errors and zero warnings
+- Follow-up: execute `UNIT-188` only as Hebrew runtime locale parity and commit before moving on

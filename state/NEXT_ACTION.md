@@ -8,13 +8,13 @@
 
 ## Approved Unit
 
-- `Verified`: `UNIT-187` is approved as the next bounded upload-repair unit: add English runtime locale coverage for keys referenced by Liquid.
+- `Verified`: `UNIT-188` is approved as the next bounded upload-repair unit: decide and implement Hebrew runtime locale parity for keys now covered in English.
 
 ## Objective
 
-- `Verified`: Fix only the missing `project/locales/en.default.json` runtime translation coverage recorded in `workspace/audits/shopify-theme-upload-errors-2026-04-24.md`.
+- `Verified`: Add `project/locales/he.default.json` with the same runtime key structure as `project/locales/en.default.json`.
 - `Verified`: Preserve the separate preset-composition hard block from `UNIT-184`.
-- `Verified`: Do not push to Shopify, implement Hebrew runtime parity, or clean non-locale Theme Check warnings in this unit.
+- `Verified`: Do not push to Shopify, change schema locale files, or clean unrelated files in this unit.
 
 ## Plan Reference
 
@@ -22,10 +22,10 @@
 
 ## Allowed Files Or Surfaces
 
-- `project/locales/en.default.json`
+- `project/locales/he.default.json`
 - `state/`
 - `workspace/handoff/CURRENT_HANDOFF.md`
-- `workspace/verify/unit-187/`
+- `workspace/verify/unit-188/`
 
 ## Required Checks
 
@@ -39,4 +39,4 @@
 
 ## Stop Condition
 
-Stop if runtime locale repair requires copy decisions beyond direct English fallbacks, Hebrew runtime parity decisions, Shopify push, or preset-composition decisions.
+Stop if Hebrew runtime parity requires product copy decisions beyond direct Hebrew fallback labels, Shopify push, or preset-composition decisions.

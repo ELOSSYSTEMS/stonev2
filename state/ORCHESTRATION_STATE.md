@@ -9,13 +9,13 @@
 ## Current Phase
 
 - `Verified`: Active roadmap phase: Shopify upload repair lane
-- `Verified`: Last completed phase slice: settings schema blank-default repair (`UNIT-186`)
+- `Verified`: Last completed phase slice: English runtime locale coverage (`UNIT-187`)
 - `Verified`: Preset runtime composition remains a separate hard block (`UNIT-184`).
 
 ## Approval State
 
 - `Verified`: Current next action approval: APPROVED
-- `Verified`: Approval basis: owner instructed execution of `workspace/plans/shopify-upload-error-resolution-v1/PLAN.v1.md`; `UNIT-186` repaired the schema blank-default blocker and now admits `UNIT-187` for English runtime locale coverage.
+- `Verified`: Approval basis: owner instructed execution of `workspace/plans/shopify-upload-error-resolution-v1/PLAN.v1.md`; `UNIT-187` cleared local Theme Check and now admits `UNIT-188` for Hebrew runtime locale parity.
 
 ## Lock State
 
