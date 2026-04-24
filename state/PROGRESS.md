@@ -2,21 +2,21 @@
 
 ## Current Phase
 
-- `Verified`: Roadmap phase: PDP capability runtime-boundary authoring is approved after PDP capability boundary.
+- `Verified`: Roadmap phase: PDP capability runtime proof is approved after exact boundary.
 
 ## Approved Next Action
 
-- `Verified`: `UNIT-175` is explicitly approved as docs-only PDP capability runtime-boundary authoring because `UNIT-174` passed.
+- `Verified`: `UNIT-176` is explicitly approved as exact five-file no-JS PDP capability proof because `UNIT-175` passed.
 
 ## Last Completed Unit
 
-- `Verified`: Unit ID: `UNIT-174`
-- `Verified`: Summary: authored the docs-only PDP capability boundary, admitted size chart and spec sheet as shared optional PDP capabilities, and routed only to docs-only runtime-boundary authoring.
+- `Verified`: Unit ID: `UNIT-175`
+- `Verified`: Summary: authored the docs-only PDP capability runtime boundary and stated the exact five-file future runtime proof for shared optional size chart and spec sheet sections.
 
 ## Verification Status
 
-- `Verified`: Verdict: `UNIT-174` PASS
-- `Verified`: Evidence: `workspace/plans/phase-4-pdp-capability-boundary-v1/PLAN.v1.md`; `git diff --name-only -- project`; required harness checks
+- `Verified`: Verdict: `UNIT-175` PASS
+- `Verified`: Evidence: `workspace/plans/phase-4-pdp-capability-runtime-boundary-v1/PLAN.v1.md`; `git diff --name-only -- project`; required harness checks
 
 ## Active Blockers
 
@@ -31,4 +31,4 @@
 
 ## Resume Notes
 
-- `Verified`: Execute `UNIT-175` as docs-only PDP capability runtime-boundary authoring.
+- `Verified`: Execute `UNIT-176` as exact five-file no-JS PDP capability proof.

@@ -5185,3 +5185,32 @@
   - `node HARNESS/checks/harness-check.mjs`
 - Result: PASS
 - Follow-up: execute `UNIT-175` only as docs-only PDP capability runtime-boundary authoring and commit before moving on
+### Session Entry
+
+- Timestamp: 2026-04-24 10:20 Asia/Jerusalem
+- Skill or Mode: `project-build`
+- Summary: executed `UNIT-175`, authored the docs-only PDP capability runtime boundary, stated the exact five-file no-JS future proof for shared optional size chart and spec sheet sections, and kept product template mutation, final preset assignment, collection filters, recommendations, cart/checkout behavior, JavaScript, and hardening blocked
+- Files changed:
+  - `workspace/plans/phase-4-pdp-capability-runtime-boundary-v1/PLAN.v1.md`
+  - `workspace/plans/phase-4-pdp-capability-runtime-boundary-v1/ASSUMPTIONS.v1.md`
+  - `workspace/plans/phase-4-pdp-capability-runtime-boundary-v1/CHECKS.v1.md`
+  - `workspace/plans/phase-4-pdp-capability-runtime-boundary-v1/RISKS.v1.md`
+  - `workspace/plans/phase-4-pdp-capability-runtime-boundary-v1/HANDOFF.v1.md`
+  - `state/ORCHESTRATION_STATE.md`
+  - `state/STATUS.md`
+  - `state/NEXT_ACTION.md`
+  - `state/FEATURE_STATUS.md`
+  - `state/PROGRESS.md`
+  - `state/SESSION_LOG.md`
+  - `workspace/handoff/CURRENT_HANDOFF.md`
+- Checks run:
+  - `git diff --name-only -- project`
+  - `node HARNESS/checks/check-state-artifacts.mjs`
+  - `node HARNESS/checks/check-next-action-scope.mjs`
+  - `node HARNESS/checks/check-plan-exists.mjs`
+  - `node HARNESS/checks/check-handoff-completeness.mjs`
+  - `node HARNESS/checks/check-approval-state.mjs`
+  - `node HARNESS/checks/check-lock-state.mjs`
+  - `node HARNESS/checks/harness-check.mjs`
+- Result: PASS
+- Follow-up: execute `UNIT-176` only as exact five-file no-JS PDP capability proof and commit before moving on

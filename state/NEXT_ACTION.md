@@ -3,19 +3,19 @@
 ## Status
 
 - `Verified`: Approval State: APPROVED
-- `Verified`: Execution Class: docs-only PDP capability runtime boundary
+- `Verified`: Execution Class: runtime PDP capability proof
 - `Verified`: Priority: high
 
 ## Approved Unit
 
-- `Verified`: `UNIT-174` passed by authoring the PDP capability boundary, and now admits only `UNIT-175` as docs-only PDP capability runtime-boundary authoring.
+- `Verified`: `UNIT-175` passed by authoring the PDP capability runtime boundary, and now admits only `UNIT-176` as exact five-file no-JS PDP capability proof.
 
 ## Objective
 
-- `Verified`: State an exact future runtime file boundary for shared PDP size chart and spec sheet sections or stop in a governed block.
-- `Verified`: Define exact section files, template behavior, locale keys, CSS scope, and protected-surface checks before implementation.
-- `Verified`: Keep final preset assignment, collection filters, cart/checkout behavior, recommendations, and hardening out of scope.
-- `Verified`: Keep runtime edits blocked from this docs-only unit.
+- `Verified`: Implement one shared optional PDP size chart section.
+- `Verified`: Implement one shared optional PDP spec sheet section.
+- `Verified`: Add neutral CSS and bilingual schema labels.
+- `Verified`: Keep product template mutation, final preset assignment, collection filters, cart/checkout behavior, recommendations, JavaScript, and hardening out of scope.
 
 ## Plan Reference
 
@@ -23,9 +23,11 @@
 
 ## Allowed Files Or Surfaces
 
-- `workspace/plans/phase-4-section-block-stabilization-frontier-v1/`
-- `workspace/plans/phase-4-pdp-capability-boundary-v1/`
-- `workspace/plans/phase-4-pdp-capability-runtime-boundary-v1/`
+- `project/sections/stone-pdp-size-chart.liquid`
+- `project/sections/stone-pdp-spec-sheet.liquid`
+- `project/assets/stone-base.css`
+- `project/locales/en.schema.json`
+- `project/locales/he.default.schema.json`
 - `state/`
 - `workspace/handoff/CURRENT_HANDOFF.md`
 
@@ -41,4 +43,4 @@
 
 ## Stop Condition
 
-Fail closed if `UNIT-175` attempts runtime edits, assigns final preset content, builds size chart/spec sheet UI directly, creates per-preset architecture, reopens cart/checkout/billing-sensitive behavior, opens recommendations, or jumps to collection filters before the PDP capability runtime boundary is complete.
+Fail closed if `UNIT-176` changes product templates, other templates, snippets, JavaScript, `stone-main-product`, final preset assignment, collection filters, cart/checkout/billing-sensitive behavior, recommendations, hardening, or any runtime file outside the exact five-file boundary.

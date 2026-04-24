@@ -8,13 +8,13 @@
 
 ## Current Phase
 
-- `Verified`: Active roadmap phase: Phase 4 PDP capability runtime boundary
-- `Verified`: Last completed phase slice: Phase 4 PDP capability boundary (`UNIT-174`)
+- `Verified`: Active roadmap phase: Phase 4 PDP capability runtime proof
+- `Verified`: Last completed phase slice: Phase 4 PDP capability runtime boundary (`UNIT-175`)
 
 ## Approval State
 
 - `Verified`: Current next action approval: APPROVED
-- `Verified`: Approval basis: `UNIT-174` admitted size chart and spec sheet as shared optional PDP capabilities and routed only to a docs-only runtime-boundary package before implementation.
+- `Verified`: Approval basis: `UNIT-175` stated an exact five-file no-JS runtime boundary for shared optional PDP size chart and spec sheet sections.
 
 ## Lock State
 
