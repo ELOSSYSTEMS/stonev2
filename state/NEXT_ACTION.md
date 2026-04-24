@@ -3,19 +3,17 @@
 ## Status
 
 - `Verified`: Approval State: APPROVED
-- `Verified`: Execution Class: docs-only preset assignment decision package
+- `Verified`: Execution Class: blocked owner-input unit
 - `Verified`: Priority: high
 
 ## Approved Unit
 
-- `Verified`: `UNIT-182` passed by authoring the preset capability composition boundary, and now admits only `UNIT-183` as a docs-only preset assignment decision package or hard-block record.
+- `Verified`: `UNIT-183` passed by authoring the preset assignment decision package, and now admits only `UNIT-184` as a blocked owner-input unit; no runtime work is approved.
 
 ## Objective
 
-- `Verified`: Decide whether current evidence is enough to state exact preset-to-capability assignments.
-- `Verified`: If enough, author docs-only exact assignment rules and protected runtime boundary questions.
-- `Verified`: If not enough, record the missing owner inputs as a hard block.
-- `Verified`: Keep runtime edits, predictive search, JavaScript filtering, recommendations, cart/checkout behavior, and hardening out of scope.
+- `Verified`: Stop autonomous work until owner inputs are supplied or the hard block is explicitly overridden.
+- `Verified`: Missing inputs are exact template mutation policy, exact per-preset PDP and collection section order/settings, starter content defaults, collection filter defaults, and global preset selector runtime behavior.
 
 ## Plan Reference
 
@@ -41,4 +39,4 @@
 
 ## Stop Condition
 
-Fail closed if `UNIT-183` makes runtime edits, creates per-preset templates or section architectures, opens predictive search or JavaScript filtering, edits product cards, changes templates/snippets/JavaScript, or reopens cart/checkout/billing-sensitive behavior, recommendations, or hardening.
+Fail closed unless the owner supplies the missing runtime composition inputs or explicitly overrides this hard block.

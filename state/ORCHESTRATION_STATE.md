@@ -8,13 +8,13 @@
 
 ## Current Phase
 
-- `Verified`: Active roadmap phase: Phase 4 preset assignment decision package
-- `Verified`: Last completed phase slice: Phase 4 preset capability composition boundary (`UNIT-182`)
+- `Verified`: Active roadmap phase: Phase 4 preset runtime composition hard block
+- `Verified`: Last completed phase slice: Phase 4 preset assignment decision package (`UNIT-183`)
 
 ## Approval State
 
 - `Verified`: Current next action approval: APPROVED
-- `Verified`: Approval basis: `UNIT-182` mapped stabilized PDP and collection capabilities into a docs-only preset composition boundary and routes only to a docs-only assignment decision package or hard block.
+- `Verified`: Approval basis: `UNIT-183` documented assignment decisions and admits only `UNIT-184` as a blocked owner-input unit before runtime preset composition.
 
 ## Lock State
 

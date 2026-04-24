@@ -55,15 +55,16 @@
 - `Verified`: `UNIT-180` passed by implementing the exact four-file no-JS collection filter runtime proof.
 - `Verified`: `UNIT-181` passed by verifying the exact four-file collection filter runtime proof.
 - `Verified`: `UNIT-182` passed by authoring the docs-only preset capability composition boundary.
-- `Verified`: `UNIT-183` is approved only as a docs-only preset assignment decision package or hard-block record.
+- `Verified`: `UNIT-183` passed by authoring the docs-only preset assignment decision package and recording the runtime hard block.
 
 ## Risks And Blocks
 
-- `Verified`: Runtime edits are blocked for `UNIT-183`.
+- `Verified`: Runtime edits are blocked.
+- `Verified`: No further unit is approved.
 - `Verified`: Exact starter content payloads remain intentionally deferred.
 - `Verified`: Exact per-preset host assignment rules remain intentionally deferred until section/block capability stabilization.
 - `Verified`: Exact template JSON mutation policy is missing.
 - `Verified`: Exact hardening entry criteria after partial preset realization are missing.
 - `Verified`: No per-preset architecture sprawl is approved.
 - `Verified`: No predictive-search, cart, or hardening lane is approved.
-- `Inference`: The next honest step is a docs-only decision on whether exact preset assignments can be stated from current evidence or must block for owner approval.
+- `Inference`: The next honest step requires owner approval for template mutation policy, exact section order/settings, starter content defaults, collection filter defaults, and preset selector behavior.

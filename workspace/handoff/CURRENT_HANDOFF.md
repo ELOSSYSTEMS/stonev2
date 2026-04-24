@@ -20,6 +20,7 @@
 - `Verified`: `UNIT-180` implemented the exact four-file no-JS collection filter runtime proof.
 - `Verified`: `UNIT-181` verified the exact four-file no-JS collection filter runtime proof.
 - `Verified`: `UNIT-182` completed the docs-only preset capability composition boundary.
+- `Verified`: `UNIT-183` completed the docs-only preset assignment decision package and recorded the runtime hard block.
 
 ## Current State
 
@@ -43,8 +44,11 @@
 - `Verified`: `UNIT-180` adds native collection filters, a `show_filters` setting, neutral CSS, and bilingual labels without template, snippet, JavaScript, or product-card edits.
 - `Verified`: `UNIT-181` confirms the collection filter proof stayed inside the exact four project files and preserved protected surfaces.
 - `Verified`: `UNIT-182` maps stabilized PDP and collection capabilities into possible later preset differences without runtime assignment.
+- `Verified`: `UNIT-183` assigns apparel to size-chart capability and electronics to spec-sheet capability at the decision level.
+- `Verified`: `UNIT-183` keeps collection filters shared and native for all presets.
+- `Verified`: Runtime preset composition is blocked until owner inputs are supplied or explicitly overridden.
 - `Verified`: Templates, sections, snippets, JavaScript, homepage sequence mutation, host assignment mutation, predictive search, cart behavior, recommendations, companion behavior, checkout/billing-sensitive behavior, and hardening remain blocked.
-- `Verified`: `UNIT-183` is approved only as a docs-only preset assignment decision package or hard-block record.
+- `Verified`: `UNIT-184` is admitted only as a blocked owner-input unit; no runtime work is approved.
 
 ## Changed Or Seeded Files
 
@@ -108,19 +112,23 @@
 - `Verified`: Predictive search, cart behavior, and hardening remain blocked.
 - `Verified`: Final preset content and final preset composition remain intentionally deferred until section/block capabilities are stabilized.
 - `Verified`: Collection/filter capability work is bounded to native no-JS collection filters.
-- `Verified`: Runtime implementation is blocked for `UNIT-183`.
-- `Verified`: Final preset collection composition remains deferred until shared native filters are bounded and verified.
+- `Verified`: Runtime implementation is blocked.
+- `Verified`: Exact template mutation policy is missing.
+- `Verified`: Exact per-preset PDP and collection section order/settings are missing.
+- `Verified`: Starter content defaults are missing.
+- `Verified`: Collection filter defaults by preset are missing.
+- `Verified`: Global preset selector runtime behavior is missing.
 
 ## Recommended Next Step
 
-- `Verified`: Execute `UNIT-183` only as a docs-only preset assignment decision package or hard-block record.
-- `Inference`: The next package should decide whether exact preset assignments can be stated from current evidence or whether owner approval is required.
+- `Verified`: `UNIT-184` is blocked pending owner runtime composition inputs.
+- `Inference`: The next productive step is owner approval of the missing runtime composition inputs.
 
 ## Resume Checks
 
 - `Verified`: Read `workspace/plans/phase-4-collection-filter-runtime-boundary-v1/PLAN.v1.md` and current state files.
 - `Verified`: Read `state/NEXT_ACTION.md`.
-- `Verified`: Confirm `UNIT-183` stays docs-only and has no `project/` diff.
+- `Verified`: Confirm no next unit is approved before runtime composition inputs are supplied.
 - `Verified`: Run `node HARNESS/checks/harness-check.mjs`.
 - `Verified`: `workspace/plans/phase-4-collection-filter-capability-boundary-v1/PLAN.v1.md`
 - `Verified`: `workspace/plans/phase-4-collection-filter-capability-boundary-v1/ASSUMPTIONS.v1.md`
@@ -137,4 +145,9 @@
 - `Verified`: `workspace/plans/phase-4-preset-capability-composition-boundary-v1/CHECKS.v1.md`
 - `Verified`: `workspace/plans/phase-4-preset-capability-composition-boundary-v1/RISKS.v1.md`
 - `Verified`: `workspace/plans/phase-4-preset-capability-composition-boundary-v1/HANDOFF.v1.md`
+- `Verified`: `workspace/plans/phase-4-preset-assignment-decision-v1/PLAN.v1.md`
+- `Verified`: `workspace/plans/phase-4-preset-assignment-decision-v1/ASSUMPTIONS.v1.md`
+- `Verified`: `workspace/plans/phase-4-preset-assignment-decision-v1/CHECKS.v1.md`
+- `Verified`: `workspace/plans/phase-4-preset-assignment-decision-v1/RISKS.v1.md`
+- `Verified`: `workspace/plans/phase-4-preset-assignment-decision-v1/HANDOFF.v1.md`
 - `Verified`: `project/sections/stone-main-collection.liquid`
