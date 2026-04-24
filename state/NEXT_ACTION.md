@@ -3,19 +3,18 @@
 ## Status
 
 - `Verified`: Approval State: APPROVED
-- `Verified`: Execution Class: PDP capability proof verification
+- `Verified`: Execution Class: docs-only collection/filter capability boundary
 - `Verified`: Priority: high
 
 ## Approved Unit
 
-- `Verified`: `UNIT-176` passed by implementing the exact five-file no-JS PDP capability proof, and now admits only `UNIT-177` as verification/frontier review.
+- `Verified`: `UNIT-177` passed by verifying the exact five-file no-JS PDP capability proof, and now admits only `UNIT-178` as docs-only collection/filter capability boundary authoring.
 
 ## Objective
 
-- `Verified`: Verify that `UNIT-176` changed only the exact five approved runtime files.
-- `Verified`: Confirm locale JSON validity, section schema validity, and PDP capability locale parity.
-- `Verified`: Confirm no product template, other template, snippet, JavaScript, or `stone-main-product` drift.
-- `Verified`: Decide the next honest lane without assigning final preset composition.
+- `Verified`: Define the collection/filter capability model before preset-specific collection composition.
+- `Verified`: Decide which collection controls are shared native capabilities, which are preset-selective later, and which remain blocked.
+- `Verified`: Keep runtime edits, final preset assignment, predictive search, JavaScript filtering, recommendations, cart/checkout behavior, and hardening out of scope.
 
 ## Plan Reference
 
@@ -23,11 +22,7 @@
 
 ## Allowed Files Or Surfaces
 
-- `project/sections/stone-pdp-size-chart.liquid`
-- `project/sections/stone-pdp-spec-sheet.liquid`
-- `project/assets/stone-base.css`
-- `project/locales/en.schema.json`
-- `project/locales/he.default.schema.json`
+- `workspace/plans/phase-4-collection-filter-capability-boundary-v1/`
 - `state/`
 - `workspace/handoff/CURRENT_HANDOFF.md`
 
@@ -43,4 +38,4 @@
 
 ## Stop Condition
 
-Fail closed if `UNIT-177` finds product template, other template, snippet, JavaScript, `stone-main-product`, final preset assignment, collection filter, cart/checkout/billing-sensitive behavior, recommendation, hardening, or unapproved runtime-file drift.
+Fail closed if `UNIT-178` attempts runtime edits, assigns final preset collection composition, implements filters directly, opens predictive search or JavaScript filtering, creates per-preset collection architecture, or reopens cart/checkout/billing-sensitive behavior, recommendations, or hardening.

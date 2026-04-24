@@ -5247,3 +5247,32 @@
   - `node HARNESS/checks/harness-check.mjs`
 - Result: PASS
 - Follow-up: execute `UNIT-177` only as verification/frontier review of the exact PDP capability proof and commit before moving on
+### Session Entry
+
+- Timestamp: 2026-04-24 10:26 Asia/Jerusalem
+- Skill or Mode: `project-verify`
+- Summary: executed `UNIT-177`, verified the exact five-file no-JS PDP capability proof, confirmed locale JSON validity, section schema validity, product-template scope, PDP capability locale parity, and no product template, snippet, JavaScript, or `stone-main-product` drift
+- Files changed:
+  - `state/ORCHESTRATION_STATE.md`
+  - `state/STATUS.md`
+  - `state/NEXT_ACTION.md`
+  - `state/FEATURE_STATUS.md`
+  - `state/PROGRESS.md`
+  - `state/SESSION_LOG.md`
+  - `workspace/handoff/CURRENT_HANDOFF.md`
+- Checks run:
+  - `git show --name-only --format=fuller HEAD`
+  - `git diff --name-only HEAD^ HEAD -- project`
+  - `git diff --name-only HEAD^ HEAD -- project/templates project/snippets project/assets/stone-runtime.js project/sections/stone-main-product.liquid`
+  - locale JSON parsing
+  - section schema and product-scope parsing
+  - locale parity for `sections.stone_pdp_size_chart` and `sections.stone_pdp_spec_sheet`
+  - `node HARNESS/checks/check-state-artifacts.mjs`
+  - `node HARNESS/checks/check-next-action-scope.mjs`
+  - `node HARNESS/checks/check-plan-exists.mjs`
+  - `node HARNESS/checks/check-handoff-completeness.mjs`
+  - `node HARNESS/checks/check-approval-state.mjs`
+  - `node HARNESS/checks/check-lock-state.mjs`
+  - `node HARNESS/checks/harness-check.mjs`
+- Result: PASS
+- Follow-up: execute `UNIT-178` only as docs-only collection/filter capability boundary authoring and commit before moving on

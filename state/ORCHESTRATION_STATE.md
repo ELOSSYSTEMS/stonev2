@@ -8,13 +8,13 @@
 
 ## Current Phase
 
-- `Verified`: Active roadmap phase: Phase 4 PDP capability proof verification
-- `Verified`: Last completed phase slice: Phase 4 PDP capability runtime proof (`UNIT-176`)
+- `Verified`: Active roadmap phase: Phase 4 collection/filter capability boundary
+- `Verified`: Last completed phase slice: Phase 4 PDP capability proof verification (`UNIT-177`)
 
 ## Approval State
 
 - `Verified`: Current next action approval: APPROVED
-- `Verified`: Approval basis: `UNIT-176` implemented shared optional PDP size chart and spec sheet sections inside the exact five approved runtime files with no protected-surface drift observed before state transition.
+- `Verified`: Approval basis: `UNIT-177` verified the exact five-file PDP capability proof and found no product template, snippet, JavaScript, `stone-main-product`, or other protected-surface drift; collection/filter capability boundary is now the next stabilization lane.
 
 ## Lock State
 

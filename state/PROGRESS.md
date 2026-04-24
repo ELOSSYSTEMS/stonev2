@@ -2,21 +2,21 @@
 
 ## Current Phase
 
-- `Verified`: Roadmap phase: PDP capability proof verification is approved after exact implementation.
+- `Verified`: Roadmap phase: collection/filter capability boundary is approved after PDP capability proof verification.
 
 ## Approved Next Action
 
-- `Verified`: `UNIT-177` is explicitly approved as verification/frontier review of the exact PDP capability proof because `UNIT-176` passed.
+- `Verified`: `UNIT-178` is explicitly approved as docs-only collection/filter capability boundary authoring because `UNIT-177` passed.
 
 ## Last Completed Unit
 
-- `Verified`: Unit ID: `UNIT-176`
-- `Verified`: Summary: implemented the exact five-file no-JS PDP capability proof by adding shared optional size chart and spec sheet sections, neutral CSS, and bilingual labels while preserving protected surfaces.
+- `Verified`: Unit ID: `UNIT-177`
+- `Verified`: Summary: verified the exact five-file no-JS PDP capability proof, confirmed locale JSON validity, section schema validity, product-template scope, locale parity, and no protected-surface drift.
 
 ## Verification Status
 
-- `Verified`: Verdict: `UNIT-176` PASS
-- `Verified`: Evidence: `git status --short -- project`; locale JSON parsing; section schema parsing; PDP capability locale parity; protected-surface diff check; required harness checks
+- `Verified`: Verdict: `UNIT-177` PASS
+- `Verified`: Evidence: `git show --name-only --format=fuller HEAD`; `git diff --name-only HEAD^ HEAD -- project`; protected-surface diff check; locale JSON parsing; section schema/product-scope parsing; PDP capability locale parity; required harness checks
 
 ## Active Blockers
 
@@ -31,4 +31,4 @@
 
 ## Resume Notes
 
-- `Verified`: Execute `UNIT-177` as verification/frontier review of the exact PDP capability proof.
+- `Verified`: Execute `UNIT-178` as docs-only collection/filter capability boundary authoring.

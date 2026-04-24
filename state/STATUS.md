@@ -5,7 +5,7 @@
 - `Verified`: Repo state: harness foundation populated
 - `Verified`: Storefront runtime state: bounded section-family runtime slices exist and canonical homepage, shell/navigation, collection, PDP, blog, article, and search host proofs are verified or pending no further host implementation.
 - `Verified`: Architecture authority: the five documents under `docs/architecture/`
-- `Verified`: Current verification package: `workspace/plans/phase-4-pdp-capability-runtime-boundary-v1/`
+- `Verified`: Current decision package: `workspace/plans/phase-4-collection-filter-capability-boundary-v1/`
 
 ## Canonical Inputs
 
@@ -47,15 +47,16 @@
 - `Verified`: `UNIT-174` passed by admitting size chart and spec sheet as shared optional PDP capabilities while keeping final preset assignment, collection filters, recommendations, cart/checkout behavior, and hardening blocked.
 - `Verified`: `UNIT-175` passed by stating the exact five-file future runtime boundary for shared optional PDP size chart and spec sheet sections.
 - `Verified`: `UNIT-176` passed by implementing the exact five-file no-JS PDP capability proof with shared optional size chart and spec sheet sections, neutral CSS, and bilingual labels.
-- `Verified`: `UNIT-177` is approved only as verification/frontier review of the exact PDP capability proof.
+- `Verified`: `UNIT-177` passed by verifying the exact five-file PDP capability proof, locale validity, section schema validity, locale parity, and absence of protected-surface drift.
+- `Verified`: `UNIT-178` is approved only as docs-only collection/filter capability boundary authoring.
 
 ## Risks And Blocks
 
-- `Verified`: No new runtime edits are approved for `UNIT-177`.
+- `Verified`: Runtime edits remain blocked for `UNIT-178`.
 - `Verified`: Exact starter content payloads remain intentionally deferred.
 - `Verified`: Exact per-preset host assignment rules remain intentionally deferred until section/block capability stabilization.
 - `Verified`: Exact template JSON mutation policy is missing.
 - `Verified`: Exact hardening entry criteria after partial preset realization are missing.
 - `Verified`: No per-preset architecture sprawl is approved.
 - `Verified`: No predictive-search, cart, or hardening lane is approved.
-- `Inference`: The next honest step is verification before collection/filter boundary or preset assignment.
+- `Inference`: The next honest step is collection/filter capability boundary before final preset assignment.
