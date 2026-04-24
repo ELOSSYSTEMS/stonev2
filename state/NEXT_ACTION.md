@@ -8,13 +8,13 @@
 
 ## Approved Unit
 
-- `Verified`: `UNIT-190` is approved as the next bounded upload-repair unit: repair the Hebrew runtime locale filename rejected by Shopify.
+- `Verified`: `UNIT-191` is approved as the next bounded upload-repair unit: repair the invalid prompt template URL rejected by Shopify.
 
 ## Objective
 
-- `Verified`: Rename the Hebrew runtime locale from `he.default.json` to a non-default Hebrew runtime locale file so Shopify has only one default runtime locale.
+- `Verified`: Replace the invalid `action_link` value in `project/templates/page.stone-runtime-prompt.json` with a Shopify-accepted URL value.
 - `Verified`: Preserve the separate preset-composition hard block from `UNIT-184`.
-- `Verified`: Do not edit English runtime locale text, schema locale files, templates, or Shopify remote state in this unit.
+- `Verified`: Do not edit locales, section schema, Shopify remote state, or preset composition in this unit.
 
 ## Plan Reference
 
@@ -22,11 +22,10 @@
 
 ## Allowed Files Or Surfaces
 
-- `project/locales/he.default.json`
-- `project/locales/he.json`
+- `project/templates/page.stone-runtime-prompt.json`
 - `state/`
 - `workspace/handoff/CURRENT_HANDOFF.md`
-- `workspace/verify/unit-190/`
+- `workspace/verify/unit-191/`
 
 ## Required Checks
 
@@ -40,4 +39,4 @@
 
 ## Stop Condition
 
-Stop if the locale filename repair cannot preserve English/Hebrew runtime key parity or requires copy changes outside the filename correction.
+Stop if the prompt template URL repair requires broader template composition changes or product-owner content decisions.

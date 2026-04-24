@@ -7,23 +7,23 @@
 
 ## Approved Next Action
 
-- `Verified`: `UNIT-190` is approved to repair the Hebrew runtime locale filename rejected by Shopify.
+- `Verified`: `UNIT-191` is approved to repair the invalid prompt template URL rejected by Shopify.
 
 ## Last Completed Unit
 
-- `Verified`: Unit ID: `UNIT-189`
-- `Verified`: Summary: remote proof push to unpublished theme id `156487712965` failed with three exact remote blockers.
+- `Verified`: Unit ID: `UNIT-190`
+- `Verified`: Summary: renamed Hebrew runtime locale to `he.json` so `en.default.json` is the only default runtime locale file.
 
 ## Verification Status
 
-- `Verified`: Verdict: `UNIT-189` FAIL with remote blockers recorded.
-- `Verified`: Evidence: `workspace/verify/unit-189/theme-push-output.json`; `workspace/verify/unit-189/remote-push-summary.txt`; required harness checks.
+- `Verified`: Verdict: `UNIT-190` PASS with clean Theme Check and locale parity.
+- `Verified`: Evidence: `workspace/verify/unit-190/he-runtime-filename-parity.txt`; `workspace/verify/unit-190/theme-check-summary.txt`; required harness checks.
 
 ## Active Blockers
 
 - `Verified`: Runtime preset composition edits are blocked.
 - `Verified`: Shopify upload repair has clean local Theme Check after English and Hebrew runtime locale coverage.
-- `Verified`: Remote proof blockers are Hebrew default locale filename, invalid prompt template URL, and remote-only gift card deletion behavior.
+- `Verified`: Remote proof blockers remaining are invalid prompt template URL and remote-only gift card deletion behavior.
 - `Verified`: Exact template JSON mutation policy is missing.
 - `Verified`: Exact per-preset section order and section settings are missing.
 - `Verified`: Starter content defaults are missing.
@@ -39,5 +39,5 @@
 
 ## Resume Notes
 
-- `Verified`: Continue with `UNIT-190` only unless a hard block appears.
+- `Verified`: Continue with `UNIT-191` only unless a hard block appears.
 - `Verified`: Do not resume preset runtime composition until owner inputs are supplied or the hard block is explicitly overridden.

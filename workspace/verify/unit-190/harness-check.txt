@@ -1,0 +1,6 @@
+State artifact check passed.
+Next action scope check passed.
+Plan existence check passed.
+Handoff completeness check passed.
+Approval state check passed.
+Lock state check passed.

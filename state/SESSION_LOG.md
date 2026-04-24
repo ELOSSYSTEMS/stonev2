@@ -5571,3 +5571,26 @@
   - required harness checks
 - Result: FAIL with remote blockers recorded: `locales/he.default.json` must not be a second default locale file; `templates/page.stone-runtime-prompt.json` has invalid `action_link`; `templates/gift_card.liquid` could not be deleted
 - Follow-up: execute `UNIT-190` only as Hebrew runtime locale filename repair and commit before moving on
+### Session Entry
+
+- Timestamp: 2026-04-24 12:45 Asia/Jerusalem
+- Skill or Mode: `project-build`
+- Summary: executed `UNIT-190`, renamed Hebrew runtime locale from `project/locales/he.default.json` to `project/locales/he.json`, preserved English/Hebrew runtime key parity, and recorded receipts under `workspace/verify/unit-190/`
+- Files changed:
+  - `project/locales/he.default.json`
+  - `project/locales/he.json`
+  - `workspace/verify/unit-190/`
+  - `state/ORCHESTRATION_STATE.md`
+  - `state/STATUS.md`
+  - `state/NEXT_ACTION.md`
+  - `state/FEATURE_STATUS.md`
+  - `state/PROGRESS.md`
+  - `state/SESSION_LOG.md`
+  - `workspace/handoff/CURRENT_HANDOFF.md`
+- Checks run:
+  - Hebrew runtime filename and key parity check
+  - `shopify theme check --path project --output json`
+  - Theme Check summary parse
+  - required harness checks
+- Result: PASS; `en.default.json` is the only default runtime locale file and Theme Check reports zero errors and zero warnings
+- Follow-up: execute `UNIT-191` only as prompt template URL repair and commit before moving on
