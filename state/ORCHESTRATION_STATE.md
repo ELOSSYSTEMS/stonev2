@@ -8,14 +8,14 @@
 
 ## Current Phase
 
-- `Verified`: Active roadmap phase: Phase 3B second-drawer candidate boundary after shared drawer primitive preview regression proof.
-- `Verified`: Last completed phase slice: `UNIT-SA-013` browser preview regression proof for the shared drawer primitive.
+- `Verified`: Active roadmap phase: Phase 3B search drawer shell candidate after second-drawer boundary.
+- `Verified`: Last completed phase slice: `UNIT-SA-014` docs-only second-drawer candidate boundary.
 - `Verified`: Preset runtime composition remains a separate hard block (`UNIT-184`).
 
 ## Approval State
 
-- `Verified`: Current next action approval: APPROVED
-- `Verified`: Approval basis: `UNIT-SA-013` passed browser preview regression proof; next action is docs-only `UNIT-SA-014` second-drawer candidate boundary authoring.
+- `Verified`: Current next action approval: CONDITIONALLY_APPROVED
+- `Verified`: Approval basis: `UNIT-SA-014` selects `UNIT-SA-015` as search drawer shell only, but future runtime execution still requires exact-unit owner authorization.
 
 ## Lock State
 
