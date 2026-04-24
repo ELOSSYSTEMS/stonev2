@@ -44,6 +44,7 @@
 - `Verified`: `UNIT-SA-017` completed the docs-only post-search-drawer boundary and selected non-mutating cart drawer shell only as the next candidate.
 - `Verified`: `UNIT-SA-018` implemented the non-mutating cart drawer shell using the shared drawer primitive while keeping cart mutation behavior blocked.
 - `Verified`: `UNIT-SA-019` preview-validated the cart drawer shell against unpublished `Stonev2` theme id `156487712965` and recorded direct `/cart` status `404`.
+- `Verified`: `UNIT-SA-020` completed the docs-only cart route host boundary and selected display-only cart route host as the next candidate.
 
 ## Current State
 
@@ -85,7 +86,7 @@
 - `Verified`: `UNIT-SA-006` keeps cart drawer, search drawer, predictive search, modal stack, overlay group, theme blocks, templates, snippets, config, preset composition, and Shopify remote mutation blocked for the Phase 3B first slice.
 - `Verified`: `UNIT-SA-007` was authorized by the owner and completed locally.
 - `Verified`: `UNIT-SA-016` search drawer browser preview proof passed against unpublished `Stonev2` theme id `156487712965`.
-- `Verified`: `UNIT-SA-020` is approved only as docs-only cart route host boundary authoring.
+- `Verified`: `UNIT-SA-021` is conditionally approved only as display-only cart route host runtime after explicit owner authorization.
 - `Verified`: Browser preview proof for the mobile drawer has passed after the RTL placement repair.
 
 ## Changed Or Seeded Files
@@ -215,21 +216,22 @@
 - `Verified`: `UNIT-SA-017` docs-only post-search-drawer boundary authoring is complete.
 - `Verified`: `UNIT-SA-018` cart drawer shell runtime is complete locally.
 - `Verified`: `UNIT-SA-019` cart drawer browser preview proof is complete.
-- `Verified`: `UNIT-SA-020` cart route host boundary authoring is pending.
+- `Verified`: `UNIT-SA-020` cart route host boundary authoring is complete.
+- `Verified`: `UNIT-SA-021` cart route host runtime is pending explicit owner authorization.
 - `Unknown`: Persisted text evidence for exact `lang="he"` and `dir="rtl"` from the RTL retry was not found; `UNIT-SA-006` records this evidence gap.
 
 ## Recommended Next Step
 
 - `Verified`: No further Shopify upload-repair unit is approved.
 - `Verified`: `UNIT-184` remains blocked pending owner runtime composition inputs.
-- `Inference`: The next productive Phase 3B step is `UNIT-SA-020` docs-only cart route host boundary before any cart route template runtime or broader cart behavior.
+- `Inference`: The next productive Phase 3B step is `UNIT-SA-021` display-only cart route host only after explicit owner authorization.
 
 ## Resume Checks
 
 - `Verified`: Read `workspace/plans/section-architecture-final-product-implementation-v1/UNIT-SA-006.v1.md`.
 - `Verified`: Read `workspace/qa/reports/unit-sa-009-mobile-drawer-preview-report.md`.
-- `Verified`: Review `workspace/qa/reports/unit-sa-019-cart-drawer-preview-report.md`.
-- `Verified`: Execute `UNIT-SA-020` only as docs-only boundary authoring.
+- `Verified`: Review `workspace/plans/section-architecture-final-product-implementation-v1/UNIT-SA-020.v1.md`.
+- `Verified`: Execute `UNIT-SA-021` only after explicit owner authorization and only inside the five-file write set defined by `UNIT-SA-020`.
 - `Verified`: Run `node HARNESS/checks/harness-check.mjs`.
 - `Verified`: Read `workspace/plans/phase-4-collection-filter-runtime-boundary-v1/PLAN.v1.md` and current state files.
 - `Verified`: Read `state/NEXT_ACTION.md`.

@@ -83,6 +83,7 @@
 - `Verified`: `UNIT-SA-017` passed by authoring the docs-only Phase 3B post-search-drawer boundary and selecting non-mutating cart drawer shell only as the next candidate.
 - `Verified`: `UNIT-SA-018` passed local implementation by adding a non-mutating cart drawer shell that reuses the shared drawer primitive while keeping cart mutation behavior blocked.
 - `Verified`: `UNIT-SA-019` passed cart drawer shell browser behavior proof against unpublished `Stonev2` theme id `156487712965` and recorded direct `/cart` status `404`.
+- `Verified`: `UNIT-SA-020` passed by authoring the docs-only cart route host boundary and selecting display-only cart route host as the next candidate.
 
 ## Risks And Blocks
 
@@ -92,7 +93,7 @@
 - `Verified`: Remote proof passed against unpublished `Stonev2` theme id `156487712965`.
 - `Verified`: `UNIT-184` preset-composition hard block remains active.
 - `Verified`: Runtime implementation of `UNIT-SA-007` was authorized by the owner and completed locally.
-- `Verified`: `UNIT-SA-020` is approved only as docs-only cart route host boundary authoring.
+- `Verified`: `UNIT-SA-021` is conditionally approved only as display-only cart route host runtime after explicit owner authorization.
 - `Verified`: Cart quantity updates, cart item removal, add-to-cart behavior, checkout mutation, AJAX cart, cart JavaScript, predictive search, modal stack, overlay group, theme blocks, templates, snippets, config, preset composition, and Shopify remote mutation remain blocked.
 - `Verified`: Browser preview proof for the mobile navigation drawer has passed.
 - `Unknown`: Persisted text evidence for exact `lang="he"` and `dir="rtl"` from the RTL retry was not found; `UNIT-SA-006` records this evidence gap.
@@ -102,4 +103,4 @@
 - `Verified`: Exact hardening entry criteria after partial preset realization are missing.
 - `Verified`: No per-preset architecture sprawl is approved.
 - `Verified`: No predictive-search, cart, or hardening lane is approved.
-- `Inference`: The next honest product step is `UNIT-SA-020` docs-only route-host boundary authoring before any cart route template runtime or broader cart behavior.
+- `Inference`: The next honest product step is `UNIT-SA-021` cart route host only after explicit owner authorization, before any broader cart behavior or predictive-search work.

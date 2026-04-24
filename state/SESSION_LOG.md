@@ -6057,3 +6057,30 @@
   - required harness checks
 - Result: PASS for cart drawer shell browser behavior proof; direct `/cart` route host gap recorded
 - Follow-up: execute `UNIT-SA-020` only as docs-only cart route host boundary; do not add cart route template runtime, cart mutation behavior, cart JavaScript, predictive search, modal stack, overlay group, theme blocks, snippets, config, runtime locales, presets, Shopify push/publish, or broader runtime mutation
+
+### Session Entry
+
+- Timestamp: 2026-04-25 02:23 Asia/Jerusalem
+- Skill or Mode: `Default`
+- Summary: executed docs-only `UNIT-SA-020`, authored the cart route host boundary, recorded the direct `/cart` status `404` from `UNIT-SA-019`, selected display-only cart route host as the next candidate, and kept cart mutation behavior, cart JavaScript, predictive search, modal stack, overlay group, theme blocks, snippets, config, runtime locales, presets, and Shopify remote mutation blocked
+- Files changed:
+  - `workspace/plans/section-architecture-final-product-implementation-v1/UNIT-SA-020.v1.md`
+  - `state/ORCHESTRATION_STATE.md`
+  - `state/STATUS.md`
+  - `state/NEXT_ACTION.md`
+  - `state/FEATURE_STATUS.md`
+  - `state/PROGRESS.md`
+  - `state/SESSION_LOG.md`
+  - `workspace/handoff/CURRENT_HANDOFF.md`
+- Checks run:
+  - `git status --short`
+  - `git diff --name-only -- project`
+  - `node HARNESS/checks/check-state-artifacts.mjs`
+  - `node HARNESS/checks/check-next-action-scope.mjs`
+  - `node HARNESS/checks/check-plan-exists.mjs`
+  - `node HARNESS/checks/check-handoff-completeness.mjs`
+  - `node HARNESS/checks/check-approval-state.mjs`
+  - `node HARNESS/checks/check-lock-state.mjs`
+  - `node HARNESS/checks/harness-check.mjs`
+- Result: PASS
+- Follow-up: execute `UNIT-SA-021` only after explicit owner authorization and only inside the five-file cart route host write set; do not add cart quantity updates, item removal, add-to-cart behavior, checkout mutation, AJAX cart, cart JavaScript, predictive search, modal stack, overlay group, theme blocks, snippets, config, runtime locales, presets, or Shopify remote mutation
