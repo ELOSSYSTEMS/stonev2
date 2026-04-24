@@ -8,13 +8,13 @@
 
 ## Current Phase
 
-- `Verified`: Active roadmap phase: Phase 4 preset capability composition boundary
-- `Verified`: Last completed phase slice: Phase 4 collection filter runtime verification (`UNIT-181`)
+- `Verified`: Active roadmap phase: Phase 4 preset assignment decision package
+- `Verified`: Last completed phase slice: Phase 4 preset capability composition boundary (`UNIT-182`)
 
 ## Approval State
 
 - `Verified`: Current next action approval: APPROVED
-- `Verified`: Approval basis: `UNIT-181` verified the exact four-file native Shopify collection filter proof and routes only to docs-only preset capability composition boundary authoring.
+- `Verified`: Approval basis: `UNIT-182` mapped stabilized PDP and collection capabilities into a docs-only preset composition boundary and routes only to a docs-only assignment decision package or hard block.
 
 ## Lock State
 

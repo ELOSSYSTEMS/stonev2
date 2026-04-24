@@ -3,18 +3,19 @@
 ## Status
 
 - `Verified`: Approval State: APPROVED
-- `Verified`: Execution Class: docs-only preset capability composition boundary
+- `Verified`: Execution Class: docs-only preset assignment decision package
 - `Verified`: Priority: high
 
 ## Approved Unit
 
-- `Verified`: `UNIT-181` passed by verifying the collection filter runtime proof, and now admits only `UNIT-182` as docs-only preset capability composition boundary authoring.
+- `Verified`: `UNIT-182` passed by authoring the preset capability composition boundary, and now admits only `UNIT-183` as a docs-only preset assignment decision package or hard-block record.
 
 ## Objective
 
-- `Verified`: Map stabilized shared PDP and collection capabilities into a later preset composition decision boundary.
-- `Verified`: Define which preset-specific differences are now possible versus still blocked, without implementing per-preset templates or assignments.
-- `Verified`: Keep runtime edits, final preset assignment, predictive search, JavaScript filtering, recommendations, cart/checkout behavior, and hardening out of scope.
+- `Verified`: Decide whether current evidence is enough to state exact preset-to-capability assignments.
+- `Verified`: If enough, author docs-only exact assignment rules and protected runtime boundary questions.
+- `Verified`: If not enough, record the missing owner inputs as a hard block.
+- `Verified`: Keep runtime edits, predictive search, JavaScript filtering, recommendations, cart/checkout behavior, and hardening out of scope.
 
 ## Plan Reference
 
@@ -24,6 +25,7 @@
 
 - `workspace/plans/phase-4-collection-filter-runtime-boundary-v1/`
 - `workspace/plans/phase-4-preset-capability-composition-boundary-v1/`
+- `workspace/plans/phase-4-preset-assignment-decision-v1/`
 - `state/`
 - `workspace/handoff/CURRENT_HANDOFF.md`
 
@@ -39,4 +41,4 @@
 
 ## Stop Condition
 
-Fail closed if `UNIT-182` makes runtime edits, assigns final preset composition, creates per-preset templates or section architectures, opens predictive search or JavaScript filtering, edits product cards, changes templates/snippets/JavaScript, or reopens cart/checkout/billing-sensitive behavior, recommendations, or hardening.
+Fail closed if `UNIT-183` makes runtime edits, creates per-preset templates or section architectures, opens predictive search or JavaScript filtering, edits product cards, changes templates/snippets/JavaScript, or reopens cart/checkout/billing-sensitive behavior, recommendations, or hardening.

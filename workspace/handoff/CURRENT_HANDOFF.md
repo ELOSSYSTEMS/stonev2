@@ -19,6 +19,7 @@
 - `Verified`: `UNIT-179` completed the docs-only collection filter runtime boundary.
 - `Verified`: `UNIT-180` implemented the exact four-file no-JS collection filter runtime proof.
 - `Verified`: `UNIT-181` verified the exact four-file no-JS collection filter runtime proof.
+- `Verified`: `UNIT-182` completed the docs-only preset capability composition boundary.
 
 ## Current State
 
@@ -41,8 +42,9 @@
 - `Verified`: `UNIT-179` limits the future collection filter proof to `stone-main-collection`, base CSS, and two locale schema files.
 - `Verified`: `UNIT-180` adds native collection filters, a `show_filters` setting, neutral CSS, and bilingual labels without template, snippet, JavaScript, or product-card edits.
 - `Verified`: `UNIT-181` confirms the collection filter proof stayed inside the exact four project files and preserved protected surfaces.
+- `Verified`: `UNIT-182` maps stabilized PDP and collection capabilities into possible later preset differences without runtime assignment.
 - `Verified`: Templates, sections, snippets, JavaScript, homepage sequence mutation, host assignment mutation, predictive search, cart behavior, recommendations, companion behavior, checkout/billing-sensitive behavior, and hardening remain blocked.
-- `Verified`: `UNIT-182` is approved only as docs-only preset capability composition boundary authoring.
+- `Verified`: `UNIT-183` is approved only as a docs-only preset assignment decision package or hard-block record.
 
 ## Changed Or Seeded Files
 
@@ -106,19 +108,19 @@
 - `Verified`: Predictive search, cart behavior, and hardening remain blocked.
 - `Verified`: Final preset content and final preset composition remain intentionally deferred until section/block capabilities are stabilized.
 - `Verified`: Collection/filter capability work is bounded to native no-JS collection filters.
-- `Verified`: Runtime implementation is blocked for `UNIT-182`.
+- `Verified`: Runtime implementation is blocked for `UNIT-183`.
 - `Verified`: Final preset collection composition remains deferred until shared native filters are bounded and verified.
 
 ## Recommended Next Step
 
-- `Verified`: Execute `UNIT-182` only as docs-only preset capability composition boundary authoring.
-- `Inference`: The next package should map stabilized shared PDP and collection capabilities into later preset composition decisions without implementing them.
+- `Verified`: Execute `UNIT-183` only as a docs-only preset assignment decision package or hard-block record.
+- `Inference`: The next package should decide whether exact preset assignments can be stated from current evidence or whether owner approval is required.
 
 ## Resume Checks
 
 - `Verified`: Read `workspace/plans/phase-4-collection-filter-runtime-boundary-v1/PLAN.v1.md` and current state files.
 - `Verified`: Read `state/NEXT_ACTION.md`.
-- `Verified`: Confirm `UNIT-182` stays docs-only and has no `project/` diff.
+- `Verified`: Confirm `UNIT-183` stays docs-only and has no `project/` diff.
 - `Verified`: Run `node HARNESS/checks/harness-check.mjs`.
 - `Verified`: `workspace/plans/phase-4-collection-filter-capability-boundary-v1/PLAN.v1.md`
 - `Verified`: `workspace/plans/phase-4-collection-filter-capability-boundary-v1/ASSUMPTIONS.v1.md`
@@ -130,4 +132,9 @@
 - `Verified`: `workspace/plans/phase-4-collection-filter-runtime-boundary-v1/CHECKS.v1.md`
 - `Verified`: `workspace/plans/phase-4-collection-filter-runtime-boundary-v1/RISKS.v1.md`
 - `Verified`: `workspace/plans/phase-4-collection-filter-runtime-boundary-v1/HANDOFF.v1.md`
+- `Verified`: `workspace/plans/phase-4-preset-capability-composition-boundary-v1/PLAN.v1.md`
+- `Verified`: `workspace/plans/phase-4-preset-capability-composition-boundary-v1/ASSUMPTIONS.v1.md`
+- `Verified`: `workspace/plans/phase-4-preset-capability-composition-boundary-v1/CHECKS.v1.md`
+- `Verified`: `workspace/plans/phase-4-preset-capability-composition-boundary-v1/RISKS.v1.md`
+- `Verified`: `workspace/plans/phase-4-preset-capability-composition-boundary-v1/HANDOFF.v1.md`
 - `Verified`: `project/sections/stone-main-collection.liquid`

@@ -2,25 +2,25 @@
 
 ## Current Phase
 
-- `Verified`: Roadmap phase: preset capability composition boundary is approved after verified PDP and collection capability stabilization.
+- `Verified`: Roadmap phase: preset assignment decision package is approved after preset capability composition boundary.
 
 ## Approved Next Action
 
-- `Verified`: `UNIT-182` is explicitly approved as docs-only preset capability composition boundary authoring because `UNIT-181` passed.
+- `Verified`: `UNIT-183` is explicitly approved as a docs-only preset assignment decision package or hard-block record because `UNIT-182` passed.
 
 ## Last Completed Unit
 
-- `Verified`: Unit ID: `UNIT-181`
-- `Verified`: Summary: verified the exact four-file no-JS collection filter runtime proof, locale/schema validity, locale parity, and protected-surface stability.
+- `Verified`: Unit ID: `UNIT-182`
+- `Verified`: Summary: authored the docs-only preset capability composition boundary, mapping shared PDP and collection capabilities into possible later preset differences while keeping final assignment and runtime edits blocked.
 
 ## Verification Status
 
-- `Verified`: Verdict: `UNIT-181` PASS
-- `Verified`: Evidence: `git show --name-only --format=fuller HEAD`; `git diff --name-only HEAD^ HEAD -- project`; locale JSON parsing; section schema parsing; locale parity; protected-surface diff check; required harness checks
+- `Verified`: Verdict: `UNIT-182` PASS
+- `Verified`: Evidence: `workspace/plans/phase-4-preset-capability-composition-boundary-v1/PLAN.v1.md`; `git diff --name-only -- project`; required harness checks
 
 ## Active Blockers
 
-- `Verified`: Runtime edits are blocked for the next docs-only boundary unit.
+- `Verified`: Runtime edits are blocked for the next docs-only decision unit.
 - `Verified`: Final preset content and composition remain intentionally deferred.
 - `Verified`: Exact starter content payloads remain intentionally deferred.
 - `Verified`: Exact per-preset host assignment rules remain intentionally deferred until capability stabilization.
@@ -31,4 +31,4 @@
 
 ## Resume Notes
 
-- `Verified`: Execute `UNIT-182` only as docs-only preset capability composition boundary authoring.
+- `Verified`: Execute `UNIT-183` only as a docs-only preset assignment decision package or hard-block record.
