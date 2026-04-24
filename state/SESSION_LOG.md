@@ -5835,3 +5835,39 @@
   - `node HARNESS/checks/harness-check.mjs`
 - Result: PASS
 - Follow-up: execute `UNIT-SA-013` only after explicit store and preview target authorization; do not add search drawer, cart drawer, predictive search, modal stack, overlay group, theme blocks, templates, snippets, config, locales, presets, or Shopify publish operations
+
+### Session Entry
+
+- Timestamp: 2026-04-24 23:58 Asia/Jerusalem
+- Skill or Mode: `Default`
+- Summary: executed authorized `UNIT-SA-013`, verified `Stonev2` is unpublished theme id `156487712965`, ran local `theme dev` with `--nodelete`, proved the shared drawer primitive did not regress mobile drawer behavior across mobile LTR, desktop, and mobile RTL, then stopped the preview processes
+- Files changed:
+  - `workspace/qa/reports/unit-sa-013-drawer-preview-regression-report.md`
+  - `workspace/qa/reports/unit-sa-013-browser-proof.json`
+  - `workspace/qa/reports/unit-sa-013-mobile-open.png`
+  - `workspace/qa/reports/unit-sa-013-desktop.png`
+  - `workspace/qa/reports/unit-sa-013-rtl-mobile-open.png`
+  - `workspace/qa/reports/unit-sa-013-theme-dev.err.log`
+  - `workspace/qa/reports/unit-sa-013-theme-dev.out.log`
+  - `workspace/qa/reports/unit-sa-013-theme-dev.pid`
+  - `state/ORCHESTRATION_STATE.md`
+  - `state/STATUS.md`
+  - `state/NEXT_ACTION.md`
+  - `state/FEATURE_STATUS.md`
+  - `state/PROGRESS.md`
+  - `state/SESSION_LOG.md`
+  - `workspace/handoff/CURRENT_HANDOFF.md`
+- Checks run:
+  - `shopify theme list --store elos-dev.myshopify.com --no-color`
+  - `shopify theme dev --path project --store elos-dev.myshopify.com --theme 156487712965 --port 9292 --live-reload off --nodelete --no-color`
+  - automated Playwright browser proof for mobile LTR, desktop, and mobile RTL
+  - `shopify theme check --path project --no-color`
+  - `node HARNESS/checks/check-state-artifacts.mjs`
+  - `node HARNESS/checks/check-next-action-scope.mjs`
+  - `node HARNESS/checks/check-plan-exists.mjs`
+  - `node HARNESS/checks/check-handoff-completeness.mjs`
+  - `node HARNESS/checks/check-approval-state.mjs`
+  - `node HARNESS/checks/check-lock-state.mjs`
+  - `node HARNESS/checks/harness-check.mjs`
+- Result: PASS
+- Follow-up: execute `UNIT-SA-014` only as docs-only Phase 3B second-drawer candidate boundary; do not implement second drawer behavior during boundary authoring

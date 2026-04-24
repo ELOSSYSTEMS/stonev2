@@ -1,0 +1,181 @@
+{
+  "unit": "UNIT-SA-013",
+  "date": "2026-04-24T20:54:53.710Z",
+  "base": "http://127.0.0.1:9292",
+  "checks": [
+    {
+      "name": "home status 200",
+      "pass": true,
+      "details": {
+        "status": 200
+      }
+    },
+    {
+      "name": "mobile trigger visible",
+      "pass": true,
+      "details": {}
+    },
+    {
+      "name": "mobile drawer initially closed",
+      "pass": true,
+      "details": {}
+    },
+    {
+      "name": "one header and footer",
+      "pass": true,
+      "details": {
+        "headers": 1,
+        "footers": 1
+      }
+    },
+    {
+      "name": "drawer opens with locks",
+      "pass": true,
+      "details": {
+        "openState": "open",
+        "mobileOpenState": "open",
+        "expanded": "true",
+        "locks": {
+          "drawer": "true",
+          "mobile": "true"
+        }
+      }
+    },
+    {
+      "name": "focus moves inside drawer",
+      "pass": true,
+      "details": {}
+    },
+    {
+      "name": "Shift+Tab remains trapped",
+      "pass": true,
+      "details": {}
+    },
+    {
+      "name": "Escape closes and returns focus",
+      "pass": true,
+      "details": {
+        "closedState": "closed",
+        "closedMobileState": "closed",
+        "closedExpanded": "false",
+        "afterLocks": {
+          "drawer": "",
+          "mobile": "",
+          "activeControls": "StoneMobileNavigationDrawer-sections--21545052143813__stone_header_main"
+        }
+      }
+    },
+    {
+      "name": "desktop status 200",
+      "pass": true,
+      "details": {
+        "status": 200
+      }
+    },
+    {
+      "name": "desktop trigger hidden and nav visible",
+      "pass": true,
+      "details": {
+        "triggerVisible": false,
+        "navVisible": true
+      }
+    },
+    {
+      "name": "desktop one header and footer",
+      "pass": true,
+      "details": {
+        "headers": 1,
+        "footers": 1
+      }
+    },
+    {
+      "name": "/he status 200",
+      "pass": true,
+      "details": {
+        "status": 200
+      }
+    },
+    {
+      "name": "/he lang and dir are RTL",
+      "pass": true,
+      "details": {
+        "lang": "he",
+        "dir": "rtl"
+      }
+    },
+    {
+      "name": "rtl mobile trigger visible",
+      "pass": true,
+      "details": {}
+    },
+    {
+      "name": "rtl mobile drawer initially closed",
+      "pass": true,
+      "details": {}
+    },
+    {
+      "name": "rtl one header and footer",
+      "pass": true,
+      "details": {
+        "headers": 1,
+        "footers": 1
+      }
+    },
+    {
+      "name": "rtl drawer opens with locks",
+      "pass": true,
+      "details": {
+        "openState": "open",
+        "mobileOpenState": "open",
+        "expanded": "true",
+        "locks": {
+          "drawer": "true",
+          "mobile": "true"
+        }
+      }
+    },
+    {
+      "name": "rtl focus moves inside drawer",
+      "pass": true,
+      "details": {}
+    },
+    {
+      "name": "RTL drawer opens from right side",
+      "pass": true,
+      "details": {
+        "panelBox": {
+          "x": 46.8125,
+          "y": 0,
+          "width": 343.1875,
+          "height": 844
+        },
+        "viewport": 390
+      }
+    },
+    {
+      "name": "rtl shift tab remains trapped",
+      "pass": true,
+      "details": {}
+    },
+    {
+      "name": "rtl Escape closes and returns focus",
+      "pass": true,
+      "details": {
+        "closedState": "closed",
+        "closedMobileState": "closed",
+        "closedExpanded": "false",
+        "afterLocks": {
+          "drawer": "",
+          "mobile": "",
+          "activeControls": "StoneMobileNavigationDrawer-sections--21545052143813__stone_header_main"
+        }
+      }
+    }
+  ],
+  "status": "PASS",
+  "artifacts": [
+    "workspace/qa/reports/unit-sa-013-mobile-open.png",
+    "workspace/qa/reports/unit-sa-013-desktop.png",
+    "workspace/qa/reports/unit-sa-013-rtl-mobile-open.png"
+  ]
+}

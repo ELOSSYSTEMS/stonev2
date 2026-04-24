@@ -2,32 +2,31 @@
 
 ## Current Phase
 
-- `Verified`: Roadmap phase: Phase 3B browser regression proof after shared drawer primitive generalization.
+- `Verified`: Roadmap phase: Phase 3B second-drawer candidate boundary after shared drawer primitive preview regression proof.
 - `Verified`: Preset runtime composition remains blocked separately by `UNIT-184`.
 
 ## Approved Next Action
 
-- `Verified`: `UNIT-SA-013` is conditionally approved only as browser preview regression proof after explicit store and preview target authorization.
-- `Verified`: Search drawer, cart drawer, predictive search, modal stack, overlay group, theme blocks, templates, snippets, config, locales, preset composition, and Shopify publish operations remain blocked.
+- `Verified`: `UNIT-SA-014` is approved only as docs-only Phase 3B second-drawer candidate boundary authoring.
+- `Verified`: No runtime edits are approved.
 
 ## Last Completed Unit
 
-- `Verified`: Unit ID: `UNIT-SA-012`
-- `Verified`: Summary: generalized the existing drawer controller to shared drawer attributes while preserving mobile drawer compatibility and local/static proof.
+- `Verified`: Unit ID: `UNIT-SA-013`
+- `Verified`: Summary: preview-validated that shared drawer primitive generalization did not regress existing mobile navigation drawer behavior on unpublished `Stonev2`.
 
 ## Verification Status
 
-- `Verified`: Verdict: `UNIT-SA-012` PASS for local implementation and static verification.
-- `Verified`: Evidence: `workspace/qa/reports/unit-sa-012-drawer-primitive-report.md`; `node --check project/assets/stone-drawer.js`; section schema parse; drawer primitive evidence scan; exact project write-set comparison; `shopify theme check --path project --no-color`.
+- `Verified`: Verdict: `UNIT-SA-013` PASS.
+- `Verified`: Evidence: `workspace/qa/reports/unit-sa-013-drawer-preview-regression-report.md`; `workspace/qa/reports/unit-sa-013-browser-proof.json`; screenshots; `shopify theme check --path project --no-color`; required harness checks.
 
 ## Active Blockers
 
-- `Verified`: Explicit store and preview target authorization for `UNIT-SA-013` is required before `theme dev`.
 - `Verified`: Cart drawer, search drawer, predictive search, modal stack, overlay group, theme blocks, template mutation, snippets, config, locales, preset composition, and Shopify remote mutation remain blocked.
 - `Verified`: `UNIT-184` preset-composition hard block remains active.
 
 ## Resume Notes
 
-- `Verified`: Resume from `workspace/qa/reports/unit-sa-012-drawer-primitive-report.md`.
-- `Verified`: Execute `UNIT-SA-013` only if explicit store and preview target authorization is present.
-- `Verified`: Do not add a second drawer surface during preview regression proof.
+- `Verified`: Resume from `workspace/qa/reports/unit-sa-013-drawer-preview-regression-report.md`.
+- `Verified`: Execute `UNIT-SA-014` only as docs-only second-drawer candidate boundary.
+- `Verified`: Do not implement second drawer behavior during boundary authoring.

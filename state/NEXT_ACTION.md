@@ -2,19 +2,19 @@
 
 ## Status
 
-- `Verified`: Approval State: CONDITIONALLY_APPROVED
-- `Verified`: Execution Class: browser/preview verification only after explicit store and preview target authorization
+- `Verified`: Approval State: APPROVED
+- `Verified`: Execution Class: docs-only next-slice boundary
 - `Verified`: Priority: high
 
 ## Approved Unit
 
-- `Verified`: `UNIT-SA-013` is conditionally approved only as browser preview regression proof for the shared drawer primitive, after explicit store and preview target authorization.
+- `Verified`: `UNIT-SA-014` is approved only as a docs-only Phase 3B second-drawer candidate boundary after shared drawer primitive preview regression proof.
 
 ## Objective
 
-- `Verified`: Preserve `UNIT-SA-012` as complete for local shared drawer primitive generalization.
-- `Verified`: Prove in browser preview that the existing mobile navigation drawer still opens, closes, traps focus, restores focus, locks and unlocks scroll, preserves desktop trigger/nav behavior, and preserves RTL right-side placement.
-- `Verified`: Keep search drawer, cart drawer, predictive search, modal stack, overlay group, theme blocks, templates, snippets, config, locales, preset composition, and Shopify publish operations blocked unless a later docs-only boundary explicitly narrows them.
+- `Verified`: Preserve `UNIT-SA-013` as complete for browser preview regression proof of the shared drawer primitive.
+- `Verified`: Decide the next smallest safe Phase 3B candidate without implementing runtime.
+- `Verified`: Keep search drawer, cart drawer, predictive search, modal stack, overlay group, theme blocks, templates, snippets, config, locales, preset composition, and Shopify publish operations blocked unless the docs-only boundary explicitly narrows a later unit.
 - `Verified`: Preserve the separate preset-composition hard block from `UNIT-184`.
 
 ## Plan Reference
@@ -23,10 +23,9 @@
 
 ## Allowed Files Or Surfaces
 
-- `workspace/qa/reports/unit-sa-013-*`
+- `workspace/plans/section-architecture-final-product-implementation-v1/UNIT-SA-014.v1.md`
 - `state/`
 - `workspace/handoff/CURRENT_HANDOFF.md`
-- Shopify preview command only after explicit store and preview target authorization
 
 ## Required Checks
 
@@ -40,4 +39,4 @@
 
 ## Stop Condition
 
-Stop if explicit store and preview target authorization for `UNIT-SA-013` is absent, if the resolved preview target is live, if a command would require `--allow-live`, or if the next step requires runtime edits, search drawer, cart drawer, predictive search, modal stack, overlay group, theme blocks, templates, snippets, config, locales, preset composition, Shopify publish, delete operations, or any file outside the `UNIT-SA-013` verification surfaces.
+Stop if the next step requires runtime edits, Shopify preview/dev/push, search drawer, cart drawer, predictive search, modal stack, overlay group, theme blocks, templates, snippets, config, locales, preset composition, publish, delete operations, or any file outside the docs-only `UNIT-SA-014` surfaces.

@@ -76,6 +76,7 @@
 - `Verified`: `UNIT-SA-009` passed browser/preview validation against unpublished `Stonev2` theme id `156487712965` after `UNIT-SA-010` repaired the RTL drawer placement defect in `project/assets/stone-base.css`.
 - `Verified`: `UNIT-SA-011` passed by authoring the docs-only Phase 3B next-slice boundary and selecting shared drawer primitive generalization plus mobile drawer regression proof as the next safest candidate.
 - `Verified`: `UNIT-SA-012` passed local implementation by generalizing the existing drawer primitive while preserving mobile drawer compatibility attributes and keeping second drawer surfaces blocked.
+- `Verified`: `UNIT-SA-013` passed browser preview regression proof for the shared drawer primitive against unpublished `Stonev2` theme id `156487712965`.
 
 ## Risks And Blocks
 
@@ -85,7 +86,7 @@
 - `Verified`: Remote proof passed against unpublished `Stonev2` theme id `156487712965`.
 - `Verified`: `UNIT-184` preset-composition hard block remains active.
 - `Verified`: Runtime implementation of `UNIT-SA-007` was authorized by the owner and completed locally.
-- `Verified`: `UNIT-SA-013` browser preview regression proof is conditionally approved only after explicit store and preview target authorization.
+- `Verified`: `UNIT-SA-014` docs-only Phase 3B second-drawer candidate boundary is the only approved next action.
 - `Verified`: Cart drawer, search drawer, predictive search, modal stack, overlay group, theme blocks, templates, snippets, config, preset composition, and Shopify remote mutation remain blocked for the Phase 3B first slice.
 - `Verified`: Browser preview proof for the mobile navigation drawer has passed.
 - `Unknown`: Persisted text evidence for exact `lang="he"` and `dir="rtl"` from the RTL retry was not found; `UNIT-SA-006` records this evidence gap.
@@ -95,4 +96,4 @@
 - `Verified`: Exact hardening entry criteria after partial preset realization are missing.
 - `Verified`: No per-preset architecture sprawl is approved.
 - `Verified`: No predictive-search, cart, or hardening lane is approved.
-- `Inference`: The next honest product step is `UNIT-SA-013` browser preview regression proof before any broader Phase 3B search/cart runtime work.
+- `Inference`: The next honest product step is `UNIT-SA-014` docs-only second-drawer candidate boundary before any broader Phase 3B search/cart runtime work.
