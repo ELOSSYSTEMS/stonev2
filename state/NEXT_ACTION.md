@@ -8,13 +8,13 @@
 
 ## Approved Unit
 
-- `Verified`: `UNIT-186` is approved as the next bounded upload-repair unit: repair the Shopify-rejected blank default for `stone_brand_name`.
+- `Verified`: `UNIT-187` is approved as the next bounded upload-repair unit: add English runtime locale coverage for keys referenced by Liquid.
 
 ## Objective
 
-- `Verified`: Fix only the `settings_schema.json` blank-default blocker recorded in `workspace/audits/shopify-theme-upload-errors-2026-04-24.md`.
+- `Verified`: Fix only the missing `project/locales/en.default.json` runtime translation coverage recorded in `workspace/audits/shopify-theme-upload-errors-2026-04-24.md`.
 - `Verified`: Preserve the separate preset-composition hard block from `UNIT-184`.
-- `Verified`: Do not repair runtime locale coverage, push to Shopify, or clean Theme Check warnings in this unit.
+- `Verified`: Do not push to Shopify, implement Hebrew runtime parity, or clean non-locale Theme Check warnings in this unit.
 
 ## Plan Reference
 
@@ -22,10 +22,10 @@
 
 ## Allowed Files Or Surfaces
 
-- `project/config/settings_schema.json`
+- `project/locales/en.default.json`
 - `state/`
 - `workspace/handoff/CURRENT_HANDOFF.md`
-- `workspace/verify/unit-186/`
+- `workspace/verify/unit-187/`
 
 ## Required Checks
 
@@ -39,4 +39,4 @@
 
 ## Stop Condition
 
-Stop if the schema repair requires broader settings architecture changes, locale edits, Shopify push, or preset-composition decisions.
+Stop if runtime locale repair requires copy decisions beyond direct English fallbacks, Hebrew runtime parity decisions, Shopify push, or preset-composition decisions.

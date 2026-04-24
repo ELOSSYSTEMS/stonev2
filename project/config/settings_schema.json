@@ -7,7 +7,7 @@
         "id": "stone_brand_name",
         "label": "t:settings.brand_identity.settings.brand_name.label",
         "info": "t:settings.brand_identity.settings.brand_name.info",
-        "default": ""
+        "default": "Stone"
       },
       {
         "type": "color",

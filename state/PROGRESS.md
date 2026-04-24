@@ -7,22 +7,22 @@
 
 ## Approved Next Action
 
-- `Verified`: `UNIT-186` is approved to repair only the `stone_brand_name` blank default in `project/config/settings_schema.json`.
+- `Verified`: `UNIT-187` is approved to add English runtime locale coverage in `project/locales/en.default.json`.
 
 ## Last Completed Unit
 
-- `Verified`: Unit ID: `UNIT-185`
-- `Verified`: Summary: repaired invalid multiline Liquid render syntax in section files by keeping render arguments on one Liquid statement.
+- `Verified`: Unit ID: `UNIT-186`
+- `Verified`: Summary: repaired the Shopify-rejected blank `stone_brand_name` default by setting it to `Stone`.
 
 ## Verification Status
 
-- `Verified`: Verdict: `UNIT-185` PASS with remaining non-scope Theme Check translation errors.
-- `Verified`: Evidence: `workspace/verify/unit-185/theme-check-summary.txt`; `workspace/verify/unit-185/invalid-liquid-block-render-continuation-scan.txt`; required harness checks.
+- `Verified`: Verdict: `UNIT-186` PASS with remaining non-scope Theme Check translation errors.
+- `Verified`: Evidence: `workspace/verify/unit-186/settings-schema-default-check.txt`; `workspace/verify/unit-186/theme-check-summary.txt`; required harness checks.
 
 ## Active Blockers
 
 - `Verified`: Runtime preset composition edits are blocked.
-- `Verified`: Shopify upload repair still has known follow-up blockers: blank settings schema default and missing runtime locale coverage.
+- `Verified`: Shopify upload repair still has known follow-up blocker: missing runtime locale coverage.
 - `Verified`: Exact template JSON mutation policy is missing.
 - `Verified`: Exact per-preset section order and section settings are missing.
 - `Verified`: Starter content defaults are missing.
@@ -38,5 +38,5 @@
 
 ## Resume Notes
 
-- `Verified`: Continue with `UNIT-186` only unless a hard block appears.
+- `Verified`: Continue with `UNIT-187` only unless a hard block appears.
 - `Verified`: Do not resume preset runtime composition until owner inputs are supplied or the hard block is explicitly overridden.

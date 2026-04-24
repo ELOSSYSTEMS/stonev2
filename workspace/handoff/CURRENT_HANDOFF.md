@@ -23,6 +23,7 @@
 - `Verified`: `UNIT-183` completed the docs-only preset assignment decision package and recorded the runtime hard block.
 - `Verified`: `UNIT-184` remains blocked as the preset-composition owner-input unit.
 - `Verified`: `UNIT-185` completed the first Shopify upload repair unit by fixing invalid multiline Liquid render syntax in section files.
+- `Verified`: `UNIT-186` completed the settings schema upload repair unit by replacing the blank `stone_brand_name` default with `Stone`.
 
 ## Current State
 
@@ -52,6 +53,7 @@
 - `Verified`: Shopify upload repair is now a separate active lane.
 - `Verified`: `UNIT-185` confirms the invalid Liquid-block render continuation count is zero.
 - `Verified`: `UNIT-185` Theme Check receipts report zero Liquid syntax offenses and 127 remaining `TranslationKeyExists` errors.
+- `Verified`: `UNIT-186` confirms `project/config/settings_schema.json` parses and `stone_brand_name` default is `Stone`.
 - `Verified`: Templates, sections, snippets, JavaScript, homepage sequence mutation, host assignment mutation, predictive search, cart behavior, recommendations, companion behavior, checkout/billing-sensitive behavior, and hardening remain blocked.
 - `Verified`: `UNIT-184` is admitted only as a blocked owner-input unit; no runtime work is approved.
 
@@ -116,13 +118,16 @@
 - `Verified`: `workspace/plans/shopify-upload-error-resolution-v1/HANDOFF.v1.md`
 - `Verified`: `workspace/verify/unit-185/invalid-liquid-block-render-continuation-scan.txt`
 - `Verified`: `workspace/verify/unit-185/theme-check-summary.txt`
+- `Verified`: `workspace/verify/unit-186/settings-schema-default-check.txt`
+- `Verified`: `workspace/verify/unit-186/theme-check-summary.txt`
+- `Verified`: `project/config/settings_schema.json`
 - `Verified`: `project/sections/*.liquid` render syntax was repaired where invalid multiline Liquid-block render calls existed.
 
 ## Open Assumptions
 
 - `Verified`: Broad preset runtime implementation remains blocked.
 - `Verified`: Shopify upload repair continues separately from preset composition.
-- `Verified`: Remaining upload-repair blockers include the blank `stone_brand_name` default and missing runtime locale coverage.
+- `Verified`: Remaining upload-repair blocker is missing runtime locale coverage.
 - `Verified`: Per-preset architecture sprawl remains blocked.
 - `Verified`: Predictive search, cart behavior, and hardening remain blocked.
 - `Verified`: Final preset content and final preset composition remain intentionally deferred until section/block capabilities are stabilized.
@@ -136,9 +141,9 @@
 
 ## Recommended Next Step
 
-- `Verified`: `UNIT-186` is approved next for the `settings_schema.json` blank-default upload blocker only.
+- `Verified`: `UNIT-187` is approved next for English runtime locale coverage only.
 - `Verified`: `UNIT-184` remains blocked pending owner runtime composition inputs.
-- `Inference`: The next productive upload-repair step is schema-default repair, not preset composition.
+- `Inference`: The next productive upload-repair step is English runtime locale coverage, not preset composition.
 
 ## Resume Checks
 

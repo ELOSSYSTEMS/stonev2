@@ -5483,3 +5483,25 @@
   - required harness checks
 - Result: PASS for Liquid syntax repair; Theme Check still reports 127 non-scope `TranslationKeyExists` errors
 - Follow-up: execute `UNIT-186` only as the settings schema blank-default repair and commit before moving on
+### Session Entry
+
+- Timestamp: 2026-04-24 11:45 Asia/Jerusalem
+- Skill or Mode: `project-build`
+- Summary: executed `UNIT-186`, replaced the blank `stone_brand_name` default in `project/config/settings_schema.json` with `Stone`, and recorded receipts under `workspace/verify/unit-186/`
+- Files changed:
+  - `project/config/settings_schema.json`
+  - `workspace/verify/unit-186/`
+  - `state/ORCHESTRATION_STATE.md`
+  - `state/STATUS.md`
+  - `state/NEXT_ACTION.md`
+  - `state/FEATURE_STATUS.md`
+  - `state/PROGRESS.md`
+  - `state/SESSION_LOG.md`
+  - `workspace/handoff/CURRENT_HANDOFF.md`
+- Checks run:
+  - settings schema JSON/default check
+  - `shopify theme check --path project --output json`
+  - Theme Check summary parse
+  - required harness checks
+- Result: PASS for settings schema blank-default repair; Theme Check still reports 127 non-scope `TranslationKeyExists` errors
+- Follow-up: execute `UNIT-187` only as English runtime locale coverage and commit before moving on
