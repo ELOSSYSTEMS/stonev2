@@ -16,6 +16,7 @@
 - `Verified`: `UNIT-176` implemented the exact five-file no-JS PDP capability proof.
 - `Verified`: `UNIT-177` verified the exact five-file no-JS PDP capability proof.
 - `Verified`: `UNIT-178` completed the docs-only collection/filter capability boundary.
+- `Verified`: `UNIT-179` completed the docs-only collection filter runtime boundary.
 
 ## Current State
 
@@ -35,8 +36,9 @@
 - `Verified`: `UNIT-176` added shared optional PDP size chart and spec sheet sections without product template, snippet, JavaScript, or `stone-main-product` edits.
 - `Verified`: `UNIT-177` confirmed the PDP capability proof stayed inside the exact five project files and preserved product-template scope.
 - `Verified`: `UNIT-178` admits native Shopify filters/facets as the next shared collection capability to bound.
+- `Verified`: `UNIT-179` limits the future collection filter proof to `stone-main-collection`, base CSS, and two locale schema files.
 - `Verified`: Templates, sections, snippets, JavaScript, homepage sequence mutation, host assignment mutation, predictive search, cart behavior, recommendations, companion behavior, checkout/billing-sensitive behavior, and hardening remain blocked.
-- `Verified`: `UNIT-179` is approved only as docs-only collection filter runtime-boundary authoring.
+- `Verified`: `UNIT-180` is approved only as the exact four-file no-JS collection filter runtime proof.
 
 ## Changed Or Seeded Files
 
@@ -99,23 +101,28 @@
 - `Verified`: Per-preset architecture sprawl remains blocked.
 - `Verified`: Predictive search, cart behavior, and hardening remain blocked.
 - `Verified`: Final preset content and final preset composition remain intentionally deferred until section/block capabilities are stabilized.
-- `Verified`: Collection/filter capability work remains deferred until after PDP capability boundary.
-- `Verified`: Runtime implementation remains blocked for collection/filter capability boundary.
+- `Verified`: Collection/filter capability work is bounded to native no-JS collection filters.
+- `Verified`: Runtime implementation is approved only for the exact four-file collection filter proof.
 - `Verified`: Final preset collection composition remains deferred until shared native filters are bounded and verified.
 
 ## Recommended Next Step
 
-- `Verified`: Execute `UNIT-179` only as docs-only collection filter runtime-boundary authoring.
-- `Inference`: The next package should state exact files and checks for native collection filters or stop.
+- `Verified`: Execute `UNIT-180` only as the exact four-file no-JS collection filter runtime proof.
+- `Inference`: The next package should verify native collection filters before any preset-specific collection composition.
 
 ## Resume Checks
 
-- `Verified`: Read `workspace/plans/phase-4-pdp-capability-runtime-boundary-v1/PLAN.v1.md` and current state files.
+- `Verified`: Read `workspace/plans/phase-4-collection-filter-runtime-boundary-v1/PLAN.v1.md` and current state files.
 - `Verified`: Read `state/NEXT_ACTION.md`.
-- `Verified`: Confirm `UNIT-179` stays docs-only and has no `project/` diff.
+- `Verified`: Confirm `UNIT-180` stays inside the exact four approved runtime files.
 - `Verified`: Run `node HARNESS/checks/harness-check.mjs`.
 - `Verified`: `workspace/plans/phase-4-collection-filter-capability-boundary-v1/PLAN.v1.md`
 - `Verified`: `workspace/plans/phase-4-collection-filter-capability-boundary-v1/ASSUMPTIONS.v1.md`
 - `Verified`: `workspace/plans/phase-4-collection-filter-capability-boundary-v1/CHECKS.v1.md`
 - `Verified`: `workspace/plans/phase-4-collection-filter-capability-boundary-v1/RISKS.v1.md`
 - `Verified`: `workspace/plans/phase-4-collection-filter-capability-boundary-v1/HANDOFF.v1.md`
+- `Verified`: `workspace/plans/phase-4-collection-filter-runtime-boundary-v1/PLAN.v1.md`
+- `Verified`: `workspace/plans/phase-4-collection-filter-runtime-boundary-v1/ASSUMPTIONS.v1.md`
+- `Verified`: `workspace/plans/phase-4-collection-filter-runtime-boundary-v1/CHECKS.v1.md`
+- `Verified`: `workspace/plans/phase-4-collection-filter-runtime-boundary-v1/RISKS.v1.md`
+- `Verified`: `workspace/plans/phase-4-collection-filter-runtime-boundary-v1/HANDOFF.v1.md`

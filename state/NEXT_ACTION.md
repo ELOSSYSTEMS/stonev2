@@ -3,17 +3,17 @@
 ## Status
 
 - `Verified`: Approval State: APPROVED
-- `Verified`: Execution Class: docs-only collection filter runtime boundary
+- `Verified`: Execution Class: exact four-file no-JS collection filter runtime proof
 - `Verified`: Priority: high
 
 ## Approved Unit
 
-- `Verified`: `UNIT-178` passed by authoring the collection/filter capability boundary, and now admits only `UNIT-179` as docs-only collection filter runtime-boundary authoring.
+- `Verified`: `UNIT-179` passed by authoring the collection filter runtime boundary, and now admits only `UNIT-180` as the exact four-file no-JS collection filter runtime proof.
 
 ## Objective
 
-- `Verified`: State an exact future runtime file boundary for native collection filters/facets or stop in a governed block.
-- `Verified`: Define exact settings, locale keys, CSS scope, protected surfaces, and checks before implementation.
+- `Verified`: Implement native collection filters/facets only inside the exact four approved runtime files.
+- `Verified`: Add the approved `show_filters` setting, native filter form, CSS, and bilingual labels.
 - `Verified`: Keep final preset assignment, predictive search, JavaScript filtering, recommendations, cart/checkout behavior, and hardening out of scope.
 
 ## Plan Reference
@@ -22,8 +22,11 @@
 
 ## Allowed Files Or Surfaces
 
-- `workspace/plans/phase-4-collection-filter-capability-boundary-v1/`
 - `workspace/plans/phase-4-collection-filter-runtime-boundary-v1/`
+- `project/sections/stone-main-collection.liquid`
+- `project/assets/stone-base.css`
+- `project/locales/en.schema.json`
+- `project/locales/he.default.schema.json`
 - `state/`
 - `workspace/handoff/CURRENT_HANDOFF.md`
 
@@ -39,4 +42,4 @@
 
 ## Stop Condition
 
-Fail closed if `UNIT-179` attempts runtime edits, cannot state an exact future file boundary, assigns final preset collection composition, opens predictive search or JavaScript filtering, creates per-preset collection architecture, edits product cards, or reopens cart/checkout/billing-sensitive behavior, recommendations, or hardening.
+Fail closed if `UNIT-180` edits files outside the exact four approved runtime files, assigns final preset collection composition, opens predictive search or JavaScript filtering, creates per-preset collection architecture, edits product cards, changes templates/snippets/JavaScript, or reopens cart/checkout/billing-sensitive behavior, recommendations, or hardening.
