@@ -8,13 +8,13 @@
 
 ## Current Phase
 
-- `Verified`: Active roadmap phase: owner decision required after post-preset-selector frontier review
-- `Verified`: Last completed phase slice: Phase 4 post-preset-selector frontier review (`UNIT-171`)
+- `Verified`: Active roadmap phase: Phase 4 section/block stabilization frontier after owner decision
+- `Verified`: Last completed phase slice: Owner decision for preset continuation (`UNIT-172`)
 
 ## Approval State
 
-- `Verified`: Current next action approval: CONDITIONALLY_APPROVED
-- `Verified`: Approval basis: `UNIT-171` determined that further autonomous runtime work would require missing owner evidence for starter content, host assignment rules, template JSON mutation policy, or hardening priority.
+- `Verified`: Current next action approval: APPROVED
+- `Verified`: Approval basis: Owner directed stabilization of existing blocks, sections, PDP capabilities, and collection/filter capabilities before deciding final per-preset content or composition; this admits only a docs-only stabilization frontier.
 
 ## Lock State
 

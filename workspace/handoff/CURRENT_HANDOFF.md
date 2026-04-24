@@ -9,6 +9,7 @@
 - `Verified`: `UNIT-169` implemented the exact five-file preset-pack runtime proof.
 - `Verified`: `UNIT-170` verified the exact five-file preset-pack runtime proof.
 - `Verified`: `UNIT-171` completed the post-preset-selector frontier review and recorded the hard block.
+- `Verified`: `UNIT-172` recorded the owner decision to stabilize available blocks, sections, PDP capabilities, and collection/filter capabilities before final per-preset composition.
 
 ## Current State
 
@@ -18,9 +19,10 @@
 - `Verified`: `UNIT-168` narrows runtime proof to one shared preset selector, one body data attribute, CSS tone/density hooks, and bilingual labels.
 - `Verified`: `UNIT-169` added the shared selector and data/CSS/locale plumbing inside the exact approved five files.
 - `Verified`: `UNIT-170` confirmed the proof stayed inside the exact five approved project files and did not touch templates, sections, snippets, or JavaScript.
-- `Verified`: `UNIT-171` determined that further autonomous runtime work requires owner evidence for starter content, host assignment rules, template JSON mutation policy, or hardening priority.
+- `Verified`: Owner direction now requires stabilizing what blocks and sections exist before deciding what to add to each preset.
+- `Verified`: Owner direction expects different preset capabilities later, including apparel size chart, electronics spec sheet, and collection/filter differences.
 - `Verified`: Templates, sections, snippets, JavaScript, homepage sequence mutation, host assignment mutation, predictive search, cart behavior, recommendations, companion behavior, checkout/billing-sensitive behavior, and hardening remain blocked.
-- `Verified`: `UNIT-172` is blocked pending owner decision.
+- `Verified`: `UNIT-173` is approved only as docs-only section/block stabilization frontier authoring.
 
 ## Changed Or Seeded Files
 
@@ -62,16 +64,16 @@
 - `Verified`: Broad preset runtime implementation remains blocked.
 - `Verified`: Per-preset architecture sprawl remains blocked.
 - `Verified`: Predictive search, cart behavior, and hardening remain blocked.
-- `Verified`: Missing owner decisions block further autonomous work.
+- `Verified`: Final preset content and final preset composition remain intentionally deferred until section/block capabilities are stabilized.
 
 ## Recommended Next Step
 
-- `Verified`: Stop autonomous execution at `UNIT-172` until the owner decides whether to keep preset realization at selector/tone hooks, provide exact starter content and host-assignment rules, or explicitly prioritize Phase 5 hardening-readiness despite incomplete preset realization.
-- `Inference`: Continuing without that decision would invent product direction.
+- `Verified`: Execute `UNIT-173` only as docs-only section/block stabilization frontier authoring.
+- `Inference`: The next package should produce a capability inventory and gap ledger before any runtime section/filter work.
 
 ## Resume Checks
 
-- `Verified`: Read `workspace/plans/phase-4-post-preset-selector-frontier-review-v1/PLAN.v1.md` and `workspace/plans/phase-4-post-preset-selector-frontier-review-v1/HANDOFF.v1.md`.
+- `Verified`: Read `workspace/plans/phase-4-post-preset-selector-frontier-review-v1/PLAN.v1.md` and current state files.
 - `Verified`: Read `state/NEXT_ACTION.md`.
-- `Verified`: Confirm no new autonomous unit is executed before owner decision.
+- `Verified`: Confirm `UNIT-173` stays docs-only and has no `project/` diff.
 - `Verified`: Run `node HARNESS/checks/harness-check.mjs`.

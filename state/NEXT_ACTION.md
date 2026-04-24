@@ -2,26 +2,28 @@
 
 ## Status
 
-- `Verified`: Approval State: CONDITIONALLY_APPROVED
-- `Verified`: Execution Class: owner decision required
+- `Verified`: Approval State: APPROVED
+- `Verified`: Execution Class: docs-only section/block stabilization frontier
 - `Verified`: Priority: high
 
 ## Approved Unit
 
-- `Verified`: `UNIT-171` passed and leaves `UNIT-172` blocked pending owner decision; no further autonomous unit is approved.
+- `Verified`: `UNIT-172` passed by recording the owner decision, and now admits only `UNIT-173` as docs-only section/block stabilization frontier authoring.
 
 ## Objective
 
-- `Verified`: Collect an owner decision before any further autonomous work.
-- `Verified`: Choose whether preset realization stops at selector/tone hooks for now, whether exact starter content and host-assignment rules will be supplied, or whether Phase 5 hardening-readiness should be prioritized despite incomplete preset realization.
-- `Verified`: Keep runtime edits blocked until that decision exists.
+- `Verified`: Audit and classify the existing section/block surface before adding preset-specific composition.
+- `Verified`: Define a stabilization frontier for PDP preset differences such as apparel size chart and electronics spec sheet without implementing those sections yet.
+- `Verified`: Define a stabilization frontier for collection preset differences such as filters and collection controls without implementing those controls yet.
+- `Verified`: Keep runtime edits blocked from this docs-only unit.
 
 ## Plan Reference
 
-- `Path:` `workspace/plans/phase-4-post-preset-selector-frontier-review-v1/HANDOFF.v1.md`
+- `Path:` `workspace/handoff/CURRENT_HANDOFF.md`
 
 ## Allowed Files Or Surfaces
 
+- `workspace/plans/phase-4-section-block-stabilization-frontier-v1/`
 - `state/`
 - `workspace/handoff/CURRENT_HANDOFF.md`
 
@@ -37,4 +39,4 @@
 
 ## Stop Condition
 
-Do not execute another autonomous unit until the owner supplies the missing decision. Fail closed if work proceeds into runtime edits, host assignment, starter content, hardening, predictive search, cart behavior, recommendations, companion behavior, checkout/billing-sensitive behavior, or per-preset architecture without that explicit decision.
+Fail closed if `UNIT-173` attempts runtime edits, assigns final preset content, builds size chart/spec sheet/filter UI directly, creates per-preset architecture, reopens cart/checkout/billing-sensitive behavior, or skips the section/block stabilization inventory.
