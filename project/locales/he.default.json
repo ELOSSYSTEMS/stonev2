@@ -1,0 +1,260 @@
+{
+  "sections": {
+    "stone_blog_article_highlights": {
+      "empty_articles": "בחר מאמרים להצגה.",
+      "empty_blog": "בחר בלוג להצגה.",
+      "read_more": "קרא עוד"
+    },
+    "stone_category_entry_grid": {
+      "collection_label": "קולקציה",
+      "empty_state": "בחר קולקציות להצגה.",
+      "selected_count": "{{ count }} נבחרו"
+    },
+    "stone_category_media_band": {
+      "empty_lead": "הוסף תוכן מוביל לרצועת המדיה הזו."
+    },
+    "stone_collection_context_card": {
+      "collection_label": "קולקציה",
+      "empty_collection": "בחר קולקציה להצגה.",
+      "product_count": "{{ count }} מוצרים",
+      "view_collection": "צפה בקולקציה"
+    },
+    "stone_content_card_strip": {
+      "blocks": {
+        "item": {
+          "fallback_heading": "הדגשת תוכן"
+        }
+      },
+      "empty": "הוסף כרטיסי תוכן למקטע הזה."
+    },
+    "stone_curated_product_trio": {
+      "empty_products": "בחר מוצרים להצגה."
+    },
+    "stone_editorial_quote": {
+      "empty_quote": "הוסף ציטוט למקטע הזה."
+    },
+    "stone_featured_collection_grid": {
+      "collection_label": "קולקציה",
+      "empty_collection": "בחר קולקציה להצגה.",
+      "product_count": "{{ count }} מוצרים",
+      "view_collection": "צפה בקולקציה"
+    },
+    "stone_featured_product_showcase": {
+      "empty_product": "בחר מוצר להצגה."
+    },
+    "stone_hero_opening": {
+      "empty": "הוסף טקסט פתיחה למקטע הזה."
+    },
+    "stone_main_article": {
+      "article_label": "מאמר",
+      "back_to_blog": "חזרה אל {{ blog_title }}"
+    },
+    "stone_main_blog": {
+      "article_count": "{{ count }} מאמרים",
+      "blog_label": "בלוג",
+      "empty": "לא נמצאו מאמרים.",
+      "next_page": "הבא",
+      "pagination_label": "ניווט עמודי בלוג",
+      "previous_page": "הקודם",
+      "read_more": "קרא עוד"
+    },
+    "stone_main_collection": {
+      "collection_label": "קולקציה",
+      "empty": "לא נמצאו מוצרים.",
+      "filter_apply": "החל מסננים",
+      "filter_clear_all": "נקה הכל",
+      "filter_count": "{{ count }} נבחרו",
+      "filter_max": "מקסימום",
+      "filter_min": "מינימום",
+      "filter_reset": "איפוס",
+      "filters_label": "מסננים",
+      "next_page": "הבא",
+      "pagination_label": "ניווט עמודי קולקציה",
+      "previous_page": "הקודם",
+      "product_count": "{{ count }} מוצרים",
+      "sort_label": "מיין לפי",
+      "sort_submit": "החל מיון"
+    },
+    "stone_main_product": {
+      "add_to_cart": "הוסף לעגלה",
+      "no_media": "אין מדיה זמינה.",
+      "product_label": "מוצר",
+      "quantity_label": "כמות",
+      "sold_out": "אזל מהמלאי",
+      "unavailable": "לא זמין",
+      "variant_label": "וריאציה"
+    },
+    "stone_main_search": {
+      "empty": "לא נמצאו תוצאות.",
+      "name": "חיפוש",
+      "next_page": "הבא",
+      "pagination_label": "ניווט עמודי חיפוש",
+      "placeholder": "חיפוש",
+      "previous_page": "הקודם",
+      "prompt": "הזן ביטוי חיפוש כדי להתחיל.",
+      "query_label": "מונחי חיפוש",
+      "result_count": "{{ count }} תוצאות",
+      "search_label": "חיפוש",
+      "submit": "חיפוש"
+    },
+    "stone_pdp_size_chart": {
+      "blocks": {
+        "row": {
+          "empty_measurement": "הוסף פרטי מידה.",
+          "fallback_size": "מידה"
+        }
+      },
+      "empty": "הוסף שורות לטבלת המידות.",
+      "headers": {
+        "measurement": "מידה",
+        "note": "הערה",
+        "size": "מידה"
+      }
+    },
+    "stone_pdp_spec_sheet": {
+      "blocks": {
+        "row": {
+          "empty_value": "הוסף פרטי מפרט.",
+          "fallback_label": "מפרט"
+        }
+      },
+      "empty": "הוסף שורות מפרט."
+    },
+    "stone_process_steps": {
+      "blocks": {
+        "item": {
+          "fallback_title": "שלב"
+        }
+      },
+      "empty": "הוסף שלבי תהליך."
+    },
+    "stone_product_context_card": {
+      "empty_product": "בחר מוצר להצגה.",
+      "product_label": "מוצר",
+      "view_product": "צפה במוצר"
+    },
+    "stone_product_pair_comparison": {
+      "empty_products": "בחר מוצרים להשוואה."
+    },
+    "stone_shoppable_media_drawer": {
+      "close_label": "סגור",
+      "empty_state": "בחר מוצרים למקטע המדיה הניתן לקנייה."
+    },
+    "stone_shoppable_media_focus": {
+      "empty_state": "בחר מוצרים למקטע המדיה הניתן לקנייה."
+    },
+    "stone_shoppable_media_motion_story": {
+      "empty_state": "בחר מוצרים למקטע המדיה הניתן לקנייה."
+    },
+    "stone_shoppable_media_overlay": {
+      "close_label": "סגור",
+      "empty_state": "בחר מוצרים למקטע המדיה הניתן לקנייה."
+    },
+    "stone_shoppable_media_story": {
+      "empty_state": "בחר מוצרים למקטע המדיה הניתן לקנייה."
+    },
+    "stone_story_split": {
+      "empty": "הוסף תוכן סיפור למקטע הזה."
+    },
+    "stone_trust_faq": {
+      "blocks": {
+        "item": {
+          "empty_answer": "הוסף תשובה.",
+          "fallback_question": "שאלה"
+        }
+      },
+      "empty": "הוסף פריטי שאלות ותשובות."
+    },
+    "stone_trust_help_prompt": {
+      "empty": "הוסף תוכן להנחיית העזרה."
+    },
+    "stone_trust_logo_rail": {
+      "blocks": {
+        "item": {
+          "empty_image": "הוסף תמונת לוגו."
+        }
+      },
+      "empty": "הוסף לוגואים למקטע הזה."
+    },
+    "stone_trust_reassurance_lane": {
+      "blocks": {
+        "item": {
+          "empty_body": "הוסף טקסט חיזוק אמון.",
+          "fallback_title": "חיזוק אמון"
+        }
+      },
+      "empty": "הוסף פריטי חיזוק אמון."
+    },
+    "stone_trust_stat_strip": {
+      "blocks": {
+        "item": {
+          "empty_value": "הוסף ערך.",
+          "fallback_label": "נתון"
+        }
+      },
+      "empty": "הוסף נתונים."
+    },
+    "stone_trust_testimonial": {
+      "blocks": {
+        "item": {
+          "empty_quote": "הוסף ציטוט המלצה.",
+          "fallback_author": "לקוח"
+        }
+      },
+      "empty": "הוסף המלצות."
+    },
+    "stone_utility_action_group": {
+      "empty": "הוסף פעולות למקטע הזה."
+    },
+    "stone_utility_block_stack": {
+      "empty": "הוסף בלוקים למקטע הזה."
+    },
+    "stone_utility_key_value_list": {
+      "empty": "הוסף שורות מפתח-ערך."
+    },
+    "stone_utility_layout_composition": {
+      "empty": "הוסף בלוקים לפריסה הזו.",
+      "empty_region": "הוסף בלוקים לאזור הזה.",
+      "regions": {
+        "primary": {
+          "label": "ראשי"
+        },
+        "secondary": {
+          "label": "משני"
+        }
+      }
+    },
+    "stone_utility_notice": {
+      "empty": "הוסף תוכן הודעה."
+    },
+    "stone_utility_prompt": {
+      "empty": "הוסף תוכן להנחיה."
+    }
+  },
+  "snippets": {
+    "stone_collection_card": {
+      "collection_label": "קולקציה",
+      "product_count": "{{ count }} מוצרים",
+      "view_collection": "צפה בקולקציה"
+    },
+    "stone_global_footer": {
+      "footer_navigation": "ניווט תחתון",
+      "powered_by": "מופעל על ידי {{ shop_name }}"
+    },
+    "stone_global_header": {
+      "cart": "עגלה",
+      "home": "בית",
+      "locale_label": "שפה",
+      "locale_submit": "שנה שפה",
+      "primary_navigation": "ניווט ראשי",
+      "search_label": "חיפוש",
+      "search_placeholder": "חפש מוצרים, קולקציות ומאמרים",
+      "search_submit": "שלח חיפוש",
+      "skip_link": "דלג לתוכן"
+    },
+    "stone_product_card": {
+      "from_price": "החל מ-{{ price }}",
+      "view_product": "צפה במוצר"
+    }
+  }
+}

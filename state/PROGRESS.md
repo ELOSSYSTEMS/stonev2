@@ -7,23 +7,23 @@
 
 ## Approved Next Action
 
-- `Verified`: `UNIT-188` is approved to add Hebrew runtime locale parity in `project/locales/he.default.json`.
+- `Verified`: `UNIT-189` is approved to push the repaired source to existing unpublished theme id `156487712965`.
 
 ## Last Completed Unit
 
-- `Verified`: Unit ID: `UNIT-187`
-- `Verified`: Summary: added `project/locales/en.default.json` with all runtime keys referenced by Liquid.
+- `Verified`: Unit ID: `UNIT-188`
+- `Verified`: Summary: added `project/locales/he.default.json` with runtime key parity against `en.default.json`.
 
 ## Verification Status
 
-- `Verified`: Verdict: `UNIT-187` PASS with clean Theme Check.
-- `Verified`: Evidence: `workspace/verify/unit-187/en-default-runtime-key-check.txt`; `workspace/verify/unit-187/theme-check-summary.txt`; required harness checks.
+- `Verified`: Verdict: `UNIT-188` PASS with clean Theme Check and runtime locale parity.
+- `Verified`: Evidence: `workspace/verify/unit-188/he-default-runtime-key-parity.txt`; `workspace/verify/unit-188/theme-check-summary.txt`; required harness checks.
 
 ## Active Blockers
 
 - `Verified`: Runtime preset composition edits are blocked.
-- `Verified`: Shopify upload repair has clean local Theme Check after English runtime locale coverage.
-- `Verified`: Hebrew runtime parity remains as the next bounded repo parity unit before remote proof.
+- `Verified`: Shopify upload repair has clean local Theme Check after English and Hebrew runtime locale coverage.
+- `Verified`: Remote proof remains required before treating `Stonev2` as repaired on the dev store.
 - `Verified`: Exact template JSON mutation policy is missing.
 - `Verified`: Exact per-preset section order and section settings are missing.
 - `Verified`: Starter content defaults are missing.
@@ -39,5 +39,5 @@
 
 ## Resume Notes
 
-- `Verified`: Continue with `UNIT-188` only unless a hard block appears.
+- `Verified`: Continue with `UNIT-189` only unless a hard block appears.
 - `Verified`: Do not resume preset runtime composition until owner inputs are supplied or the hard block is explicitly overridden.

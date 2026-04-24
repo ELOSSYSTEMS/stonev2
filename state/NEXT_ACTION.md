@@ -8,13 +8,13 @@
 
 ## Approved Unit
 
-- `Verified`: `UNIT-188` is approved as the next bounded upload-repair unit: decide and implement Hebrew runtime locale parity for keys now covered in English.
+- `Verified`: `UNIT-189` is approved as the next bounded upload-repair unit: push the repaired source to the existing unpublished `Stonev2` theme.
 
 ## Objective
 
-- `Verified`: Add `project/locales/he.default.json` with the same runtime key structure as `project/locales/en.default.json`.
+- `Verified`: Push the full `project/` theme root to existing unpublished theme id `156487712965` on `elos-dev.myshopify.com`.
 - `Verified`: Preserve the separate preset-composition hard block from `UNIT-184`.
-- `Verified`: Do not push to Shopify, change schema locale files, or clean unrelated files in this unit.
+- `Verified`: Do not publish the theme, create a fresh theme, or change files in this unit unless remote validation exposes a hard blocker.
 
 ## Plan Reference
 
@@ -22,10 +22,10 @@
 
 ## Allowed Files Or Surfaces
 
-- `project/locales/he.default.json`
+- Shopify CLI operation against unpublished theme id `156487712965`
 - `state/`
 - `workspace/handoff/CURRENT_HANDOFF.md`
-- `workspace/verify/unit-188/`
+- `workspace/verify/unit-189/`
 
 ## Required Checks
 
@@ -39,4 +39,4 @@
 
 ## Stop Condition
 
-Stop if Hebrew runtime parity requires product copy decisions beyond direct Hebrew fallback labels, Shopify push, or preset-composition decisions.
+Stop if Shopify CLI auth fails, the target theme id is not `156487712965`, the push would publish the theme, or remote upload reports a new hard blocker that requires code changes outside the approved repair plan.

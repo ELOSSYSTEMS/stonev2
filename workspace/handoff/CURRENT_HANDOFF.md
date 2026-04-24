@@ -25,6 +25,7 @@
 - `Verified`: `UNIT-185` completed the first Shopify upload repair unit by fixing invalid multiline Liquid render syntax in section files.
 - `Verified`: `UNIT-186` completed the settings schema upload repair unit by replacing the blank `stone_brand_name` default with `Stone`.
 - `Verified`: `UNIT-187` completed English runtime locale coverage and cleared local Theme Check.
+- `Verified`: `UNIT-188` completed Hebrew runtime locale parity and kept Theme Check clean.
 
 ## Current State
 
@@ -56,6 +57,7 @@
 - `Verified`: `UNIT-185` Theme Check receipts report zero Liquid syntax offenses and 127 remaining `TranslationKeyExists` errors.
 - `Verified`: `UNIT-186` confirms `project/config/settings_schema.json` parses and `stone_brand_name` default is `Stone`.
 - `Verified`: `UNIT-187` confirms `project/locales/en.default.json` covers 126 runtime keys and Theme Check reports zero errors.
+- `Verified`: `UNIT-188` confirms `project/locales/he.default.json` covers the same 126 runtime keys and Theme Check reports zero errors.
 - `Verified`: Templates, sections, snippets, JavaScript, homepage sequence mutation, host assignment mutation, predictive search, cart behavior, recommendations, companion behavior, checkout/billing-sensitive behavior, and hardening remain blocked.
 - `Verified`: `UNIT-184` is admitted only as a blocked owner-input unit; no runtime work is approved.
 
@@ -124,7 +126,10 @@
 - `Verified`: `workspace/verify/unit-186/theme-check-summary.txt`
 - `Verified`: `workspace/verify/unit-187/en-default-runtime-key-check.txt`
 - `Verified`: `workspace/verify/unit-187/theme-check-summary.txt`
+- `Verified`: `workspace/verify/unit-188/he-default-runtime-key-parity.txt`
+- `Verified`: `workspace/verify/unit-188/theme-check-summary.txt`
 - `Verified`: `project/locales/en.default.json`
+- `Verified`: `project/locales/he.default.json`
 - `Verified`: `project/config/settings_schema.json`
 - `Verified`: `project/sections/*.liquid` render syntax was repaired where invalid multiline Liquid-block render calls existed.
 
@@ -133,7 +138,7 @@
 - `Verified`: Broad preset runtime implementation remains blocked.
 - `Verified`: Shopify upload repair continues separately from preset composition.
 - `Verified`: English runtime locale coverage is complete.
-- `Verified`: Hebrew runtime locale parity remains the next bounded repo parity unit.
+- `Verified`: Remote Shopify proof remains required before the dev-store theme can be treated as repaired.
 - `Verified`: Per-preset architecture sprawl remains blocked.
 - `Verified`: Predictive search, cart behavior, and hardening remain blocked.
 - `Verified`: Final preset content and final preset composition remain intentionally deferred until section/block capabilities are stabilized.
@@ -147,9 +152,9 @@
 
 ## Recommended Next Step
 
-- `Verified`: `UNIT-188` is approved next for Hebrew runtime locale parity only.
+- `Verified`: `UNIT-189` is approved next for remote proof push to existing unpublished theme id `156487712965` only.
 - `Verified`: `UNIT-184` remains blocked pending owner runtime composition inputs.
-- `Inference`: The next productive upload-repair step is Hebrew runtime locale parity, not preset composition.
+- `Inference`: The next productive upload-repair step is remote proof, not preset composition.
 
 ## Resume Checks
 

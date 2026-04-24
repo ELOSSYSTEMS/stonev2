@@ -62,12 +62,13 @@
 - `Verified`: `UNIT-185` passed by repairing invalid multiline Liquid render syntax in section files and recording verification receipts under `workspace/verify/unit-185/`.
 - `Verified`: `UNIT-186` passed by replacing the blank `stone_brand_name` settings schema default with `Stone` and recording verification receipts under `workspace/verify/unit-186/`.
 - `Verified`: `UNIT-187` passed by adding English runtime locale coverage and clearing local Theme Check.
+- `Verified`: `UNIT-188` passed by adding Hebrew runtime locale parity with matching runtime keys and clean Theme Check.
 
 ## Risks And Blocks
 
 - `Verified`: Preset runtime composition edits are blocked.
-- `Verified`: `UNIT-188` is approved only for Hebrew runtime locale parity.
-- `Verified`: Shopify upload repair has clean local Theme Check after English runtime locale coverage.
+- `Verified`: `UNIT-189` is approved only for remote proof push to existing unpublished theme id `156487712965`.
+- `Verified`: Shopify upload repair has clean local Theme Check after English and Hebrew runtime locale coverage.
 - `Verified`: Exact starter content payloads remain intentionally deferred.
 - `Verified`: Exact per-preset host assignment rules remain intentionally deferred until section/block capability stabilization.
 - `Verified`: Exact template JSON mutation policy is missing.

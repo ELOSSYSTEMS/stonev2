@@ -5527,3 +5527,25 @@
   - required harness checks
 - Result: PASS; Theme Check reports zero errors and zero warnings
 - Follow-up: execute `UNIT-188` only as Hebrew runtime locale parity and commit before moving on
+### Session Entry
+
+- Timestamp: 2026-04-24 12:15 Asia/Jerusalem
+- Skill or Mode: `project-build`
+- Summary: executed `UNIT-188`, added `project/locales/he.default.json` with matching runtime key structure against English runtime locale coverage, and recorded receipts under `workspace/verify/unit-188/`
+- Files changed:
+  - `project/locales/he.default.json`
+  - `workspace/verify/unit-188/`
+  - `state/ORCHESTRATION_STATE.md`
+  - `state/STATUS.md`
+  - `state/NEXT_ACTION.md`
+  - `state/FEATURE_STATUS.md`
+  - `state/PROGRESS.md`
+  - `state/SESSION_LOG.md`
+  - `workspace/handoff/CURRENT_HANDOFF.md`
+- Checks run:
+  - Hebrew runtime key parity check against `project/locales/en.default.json`
+  - `shopify theme check --path project --output json`
+  - Theme Check summary parse
+  - required harness checks
+- Result: PASS; Hebrew and English runtime locales both contain 126 runtime keys and Theme Check reports zero errors and zero warnings
+- Follow-up: execute `UNIT-189` only as remote proof push to existing unpublished theme id `156487712965`
