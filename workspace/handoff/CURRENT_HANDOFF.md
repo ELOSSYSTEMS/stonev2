@@ -10,6 +10,7 @@
 - `Verified`: `UNIT-170` verified the exact five-file preset-pack runtime proof.
 - `Verified`: `UNIT-171` completed the post-preset-selector frontier review and recorded the hard block.
 - `Verified`: `UNIT-172` recorded the owner decision to stabilize available blocks, sections, PDP capabilities, and collection/filter capabilities before final per-preset composition.
+- `Verified`: `UNIT-173` completed the docs-only section/block stabilization frontier.
 
 ## Current State
 
@@ -21,8 +22,10 @@
 - `Verified`: `UNIT-170` confirmed the proof stayed inside the exact five approved project files and did not touch templates, sections, snippets, or JavaScript.
 - `Verified`: Owner direction now requires stabilizing what blocks and sections exist before deciding what to add to each preset.
 - `Verified`: Owner direction expects different preset capabilities later, including apparel size chart, electronics spec sheet, and collection/filter differences.
+- `Verified`: `UNIT-173` records that existing PDP lacks dedicated size chart, spec sheet, materials/care, and block architecture.
+- `Verified`: `UNIT-173` records that existing collection has native sort/pagination but no filters/facets.
 - `Verified`: Templates, sections, snippets, JavaScript, homepage sequence mutation, host assignment mutation, predictive search, cart behavior, recommendations, companion behavior, checkout/billing-sensitive behavior, and hardening remain blocked.
-- `Verified`: `UNIT-173` is approved only as docs-only section/block stabilization frontier authoring.
+- `Verified`: `UNIT-174` is approved only as docs-only PDP capability boundary authoring.
 
 ## Changed Or Seeded Files
 
@@ -51,6 +54,11 @@
 - `Verified`: `workspace/plans/phase-4-post-preset-selector-frontier-review-v1/CHECKS.v1.md`
 - `Verified`: `workspace/plans/phase-4-post-preset-selector-frontier-review-v1/RISKS.v1.md`
 - `Verified`: `workspace/plans/phase-4-post-preset-selector-frontier-review-v1/HANDOFF.v1.md`
+- `Verified`: `workspace/plans/phase-4-section-block-stabilization-frontier-v1/PLAN.v1.md`
+- `Verified`: `workspace/plans/phase-4-section-block-stabilization-frontier-v1/ASSUMPTIONS.v1.md`
+- `Verified`: `workspace/plans/phase-4-section-block-stabilization-frontier-v1/CHECKS.v1.md`
+- `Verified`: `workspace/plans/phase-4-section-block-stabilization-frontier-v1/RISKS.v1.md`
+- `Verified`: `workspace/plans/phase-4-section-block-stabilization-frontier-v1/HANDOFF.v1.md`
 - `Verified`: `state/ORCHESTRATION_STATE.md`
 - `Verified`: `state/STATUS.md`
 - `Verified`: `state/NEXT_ACTION.md`
@@ -65,15 +73,16 @@
 - `Verified`: Per-preset architecture sprawl remains blocked.
 - `Verified`: Predictive search, cart behavior, and hardening remain blocked.
 - `Verified`: Final preset content and final preset composition remain intentionally deferred until section/block capabilities are stabilized.
+- `Verified`: Collection/filter capability work remains deferred until after PDP capability boundary.
 
 ## Recommended Next Step
 
-- `Verified`: Execute `UNIT-173` only as docs-only section/block stabilization frontier authoring.
-- `Inference`: The next package should produce a capability inventory and gap ledger before any runtime section/filter work.
+- `Verified`: Execute `UNIT-174` only as docs-only PDP capability boundary authoring.
+- `Inference`: The next package should decide whether size chart and spec sheet become new shared sections, reuse existing surfaces, or remain blocked.
 
 ## Resume Checks
 
-- `Verified`: Read `workspace/plans/phase-4-post-preset-selector-frontier-review-v1/PLAN.v1.md` and current state files.
+- `Verified`: Read `workspace/plans/phase-4-section-block-stabilization-frontier-v1/PLAN.v1.md` and current state files.
 - `Verified`: Read `state/NEXT_ACTION.md`.
-- `Verified`: Confirm `UNIT-173` stays docs-only and has no `project/` diff.
+- `Verified`: Confirm `UNIT-174` stays docs-only and has no `project/` diff.
 - `Verified`: Run `node HARNESS/checks/harness-check.mjs`.

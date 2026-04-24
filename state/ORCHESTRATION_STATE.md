@@ -8,13 +8,13 @@
 
 ## Current Phase
 
-- `Verified`: Active roadmap phase: Phase 4 section/block stabilization frontier after owner decision
-- `Verified`: Last completed phase slice: Owner decision for preset continuation (`UNIT-172`)
+- `Verified`: Active roadmap phase: Phase 4 PDP capability boundary
+- `Verified`: Last completed phase slice: Phase 4 section/block stabilization frontier (`UNIT-173`)
 
 ## Approval State
 
 - `Verified`: Current next action approval: APPROVED
-- `Verified`: Approval basis: Owner directed stabilization of existing blocks, sections, PDP capabilities, and collection/filter capabilities before deciding final per-preset content or composition; this admits only a docs-only stabilization frontier.
+- `Verified`: Approval basis: `UNIT-173` inventoried the existing section/block surface, identified PDP and collection/filter capability gaps, and recommended docs-only PDP capability boundary authoring before collection/filter or preset-composition work.
 
 ## Lock State
 

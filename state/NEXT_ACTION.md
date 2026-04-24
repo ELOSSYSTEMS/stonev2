@@ -3,18 +3,18 @@
 ## Status
 
 - `Verified`: Approval State: APPROVED
-- `Verified`: Execution Class: docs-only section/block stabilization frontier
+- `Verified`: Execution Class: docs-only PDP capability boundary
 - `Verified`: Priority: high
 
 ## Approved Unit
 
-- `Verified`: `UNIT-172` passed by recording the owner decision, and now admits only `UNIT-173` as docs-only section/block stabilization frontier authoring.
+- `Verified`: `UNIT-173` passed by authoring the section/block stabilization frontier, and now admits only `UNIT-174` as docs-only PDP capability boundary authoring.
 
 ## Objective
 
-- `Verified`: Audit and classify the existing section/block surface before adding preset-specific composition.
-- `Verified`: Define a stabilization frontier for PDP preset differences such as apparel size chart and electronics spec sheet without implementing those sections yet.
-- `Verified`: Define a stabilization frontier for collection preset differences such as filters and collection controls without implementing those controls yet.
+- `Verified`: Decide the shared PDP capability model before any preset-specific PDP composition.
+- `Verified`: Decide whether apparel size chart and electronics spec sheet require dedicated shared sections, reuse existing utility/trust sections, or remain blocked.
+- `Verified`: Define which PDP capabilities are common, preset-selective, or blocked.
 - `Verified`: Keep runtime edits blocked from this docs-only unit.
 
 ## Plan Reference
@@ -24,6 +24,7 @@
 ## Allowed Files Or Surfaces
 
 - `workspace/plans/phase-4-section-block-stabilization-frontier-v1/`
+- `workspace/plans/phase-4-pdp-capability-boundary-v1/`
 - `state/`
 - `workspace/handoff/CURRENT_HANDOFF.md`
 
@@ -39,4 +40,4 @@
 
 ## Stop Condition
 
-Fail closed if `UNIT-173` attempts runtime edits, assigns final preset content, builds size chart/spec sheet/filter UI directly, creates per-preset architecture, reopens cart/checkout/billing-sensitive behavior, or skips the section/block stabilization inventory.
+Fail closed if `UNIT-174` attempts runtime edits, assigns final preset content, builds size chart/spec sheet UI directly, creates per-preset architecture, reopens cart/checkout/billing-sensitive behavior, or jumps to collection filters before the PDP capability boundary is complete.

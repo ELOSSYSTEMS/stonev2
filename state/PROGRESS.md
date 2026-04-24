@@ -2,21 +2,21 @@
 
 ## Current Phase
 
-- `Verified`: Roadmap phase: section/block stabilization frontier is approved after owner decision.
+- `Verified`: Roadmap phase: PDP capability boundary is approved after section/block stabilization frontier.
 
 ## Approved Next Action
 
-- `Verified`: `UNIT-173` is explicitly approved as docs-only section/block stabilization frontier authoring because `UNIT-172` recorded the owner decision.
+- `Verified`: `UNIT-174` is explicitly approved as docs-only PDP capability boundary authoring because `UNIT-173` passed.
 
 ## Last Completed Unit
 
-- `Verified`: Unit ID: `UNIT-172`
-- `Verified`: Summary: recorded the owner decision to stabilize existing blocks, sections, PDP capabilities, and collection/filter capabilities before assigning final per-preset composition; routed only to docs-only stabilization frontier authoring.
+- `Verified`: Unit ID: `UNIT-173`
+- `Verified`: Summary: authored the docs-only section/block stabilization frontier, inventoried existing sections, snippets, templates, PDP capabilities, and collection capabilities, and routed only to docs-only PDP capability boundary authoring.
 
 ## Verification Status
 
-- `Verified`: Verdict: `UNIT-172` PASS
-- `Verified`: Evidence: owner direction in current session; state/handoff update; required harness checks
+- `Verified`: Verdict: `UNIT-173` PASS
+- `Verified`: Evidence: `workspace/plans/phase-4-section-block-stabilization-frontier-v1/PLAN.v1.md`; `git diff --name-only -- project`; required harness checks
 
 ## Active Blockers
 
@@ -31,4 +31,4 @@
 
 ## Resume Notes
 
-- `Verified`: Execute `UNIT-173` as docs-only section/block stabilization frontier authoring.
+- `Verified`: Execute `UNIT-174` as docs-only PDP capability boundary authoring.
