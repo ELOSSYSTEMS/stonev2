@@ -8,13 +8,13 @@
 
 ## Current Phase
 
-- `Verified`: Active roadmap phase: Phase 4 collection/filter capability boundary
-- `Verified`: Last completed phase slice: Phase 4 PDP capability proof verification (`UNIT-177`)
+- `Verified`: Active roadmap phase: Phase 4 collection filter runtime boundary
+- `Verified`: Last completed phase slice: Phase 4 collection/filter capability boundary (`UNIT-178`)
 
 ## Approval State
 
 - `Verified`: Current next action approval: APPROVED
-- `Verified`: Approval basis: `UNIT-177` verified the exact five-file PDP capability proof and found no product template, snippet, JavaScript, `stone-main-product`, or other protected-surface drift; collection/filter capability boundary is now the next stabilization lane.
+- `Verified`: Approval basis: `UNIT-178` admitted native Shopify filters/facets as the next shared collection capability and routed only to docs-only runtime-boundary authoring before implementation.
 
 ## Lock State
 

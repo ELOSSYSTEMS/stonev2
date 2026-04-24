@@ -3,18 +3,18 @@
 ## Status
 
 - `Verified`: Approval State: APPROVED
-- `Verified`: Execution Class: docs-only collection/filter capability boundary
+- `Verified`: Execution Class: docs-only collection filter runtime boundary
 - `Verified`: Priority: high
 
 ## Approved Unit
 
-- `Verified`: `UNIT-177` passed by verifying the exact five-file no-JS PDP capability proof, and now admits only `UNIT-178` as docs-only collection/filter capability boundary authoring.
+- `Verified`: `UNIT-178` passed by authoring the collection/filter capability boundary, and now admits only `UNIT-179` as docs-only collection filter runtime-boundary authoring.
 
 ## Objective
 
-- `Verified`: Define the collection/filter capability model before preset-specific collection composition.
-- `Verified`: Decide which collection controls are shared native capabilities, which are preset-selective later, and which remain blocked.
-- `Verified`: Keep runtime edits, final preset assignment, predictive search, JavaScript filtering, recommendations, cart/checkout behavior, and hardening out of scope.
+- `Verified`: State an exact future runtime file boundary for native collection filters/facets or stop in a governed block.
+- `Verified`: Define exact settings, locale keys, CSS scope, protected surfaces, and checks before implementation.
+- `Verified`: Keep final preset assignment, predictive search, JavaScript filtering, recommendations, cart/checkout behavior, and hardening out of scope.
 
 ## Plan Reference
 
@@ -23,6 +23,7 @@
 ## Allowed Files Or Surfaces
 
 - `workspace/plans/phase-4-collection-filter-capability-boundary-v1/`
+- `workspace/plans/phase-4-collection-filter-runtime-boundary-v1/`
 - `state/`
 - `workspace/handoff/CURRENT_HANDOFF.md`
 
@@ -38,4 +39,4 @@
 
 ## Stop Condition
 
-Fail closed if `UNIT-178` attempts runtime edits, assigns final preset collection composition, implements filters directly, opens predictive search or JavaScript filtering, creates per-preset collection architecture, or reopens cart/checkout/billing-sensitive behavior, recommendations, or hardening.
+Fail closed if `UNIT-179` attempts runtime edits, cannot state an exact future file boundary, assigns final preset collection composition, opens predictive search or JavaScript filtering, creates per-preset collection architecture, edits product cards, or reopens cart/checkout/billing-sensitive behavior, recommendations, or hardening.

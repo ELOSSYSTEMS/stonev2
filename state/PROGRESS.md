@@ -2,21 +2,21 @@
 
 ## Current Phase
 
-- `Verified`: Roadmap phase: collection/filter capability boundary is approved after PDP capability proof verification.
+- `Verified`: Roadmap phase: collection filter runtime-boundary authoring is approved after collection/filter capability boundary.
 
 ## Approved Next Action
 
-- `Verified`: `UNIT-178` is explicitly approved as docs-only collection/filter capability boundary authoring because `UNIT-177` passed.
+- `Verified`: `UNIT-179` is explicitly approved as docs-only collection filter runtime-boundary authoring because `UNIT-178` passed.
 
 ## Last Completed Unit
 
-- `Verified`: Unit ID: `UNIT-177`
-- `Verified`: Summary: verified the exact five-file no-JS PDP capability proof, confirmed locale JSON validity, section schema validity, product-template scope, locale parity, and no protected-surface drift.
+- `Verified`: Unit ID: `UNIT-178`
+- `Verified`: Summary: authored the docs-only collection/filter capability boundary and admitted native Shopify filters/facets as the next shared collection capability to bound.
 
 ## Verification Status
 
-- `Verified`: Verdict: `UNIT-177` PASS
-- `Verified`: Evidence: `git show --name-only --format=fuller HEAD`; `git diff --name-only HEAD^ HEAD -- project`; protected-surface diff check; locale JSON parsing; section schema/product-scope parsing; PDP capability locale parity; required harness checks
+- `Verified`: Verdict: `UNIT-178` PASS
+- `Verified`: Evidence: `workspace/plans/phase-4-collection-filter-capability-boundary-v1/PLAN.v1.md`; `git diff --name-only -- project`; required harness checks
 
 ## Active Blockers
 
@@ -31,4 +31,4 @@
 
 ## Resume Notes
 
-- `Verified`: Execute `UNIT-178` as docs-only collection/filter capability boundary authoring.
+- `Verified`: Execute `UNIT-179` as docs-only collection filter runtime-boundary authoring.
