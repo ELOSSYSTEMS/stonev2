@@ -1,0 +1,14 @@
+╭─ info ───────────────────────────────────────────────────────────────────────╮
+│                                                                              │
+│  name                             role                    id                 │
+│  ───────────────────────────────  ──────────────────────  ──────────────     │
+│  Prestige pre-subscription        [live]                  #155085406405      │
+│  Horizon                          [unpublished]           #154841579717      │
+│  debut-vintage-theme              [unpublished]           #154841612485      │
+│  test-data                        [unpublished]           #154841645253      │
+│  Stonev2                          [unpublished]           #156487712965      │
+│  App Ext. Host (8b6966-ELos)      [development] [yours]   #156372467909      │
+│  Development (fc76e7-ELos)        [development] [yours]   #156487647429      │
+│                                                                              │
+╰──────────────────────────────────────────────────────────────────────────────╯
+

@@ -66,13 +66,15 @@
 - `Verified`: `UNIT-189` failed remote proof against unpublished theme id `156487712965` and recorded three exact remote blockers.
 - `Verified`: `UNIT-190` passed by renaming Hebrew runtime locale to `he.json` while preserving key parity and clean Theme Check.
 - `Verified`: `UNIT-191` passed by replacing the invalid prompt template URL with `/pages` and preserving clean Theme Check.
+- `Verified`: `UNIT-192` passed by pushing repaired source to unpublished `Stonev2` theme id `156487712965` with no-delete protection and no remote errors.
 
 ## Risks And Blocks
 
 - `Verified`: Preset runtime composition edits are blocked.
-- `Verified`: `UNIT-192` is approved only for remote proof push with no-delete protection.
+- `Verified`: No further Shopify upload-repair unit is approved.
 - `Verified`: Shopify upload repair has clean local Theme Check after English and Hebrew runtime locale coverage.
-- `Verified`: Remote proof still needs no-delete protection for remote-only gift card behavior.
+- `Verified`: Remote proof passed against unpublished `Stonev2` theme id `156487712965`.
+- `Verified`: `UNIT-184` preset-composition hard block remains active.
 - `Verified`: Exact starter content payloads remain intentionally deferred.
 - `Verified`: Exact per-preset host assignment rules remain intentionally deferred until section/block capability stabilization.
 - `Verified`: Exact template JSON mutation policy is missing.

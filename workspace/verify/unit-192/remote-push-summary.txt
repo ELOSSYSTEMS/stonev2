@@ -1,0 +1,9 @@
+REMOTE_PUSH_RESULT=PASS
+THEME_ID=156487712965
+THEME_NAME=Stonev2
+THEME_ROLE=unpublished
+STORE=elos-dev.myshopify.com
+EDITOR_URL=https://elos-dev.myshopify.com/admin/themes/156487712965/editor
+PREVIEW_URL=https://elos-dev.myshopify.com?preview_theme_id=156487712965
+NO_DELETE_USED=1
+ERRORS=0

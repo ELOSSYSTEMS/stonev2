@@ -5616,3 +5616,24 @@
   - required harness checks
 - Result: PASS; Theme Check reports zero errors and zero warnings
 - Follow-up: execute `UNIT-192` only as no-delete remote proof to existing unpublished theme id `156487712965`
+### Session Entry
+
+- Timestamp: 2026-04-24 13:15 Asia/Jerusalem
+- Skill or Mode: `project-build`
+- Summary: executed `UNIT-192`, pushed the repaired full theme root to existing unpublished `Stonev2` theme id `156487712965` with no-delete protection, and recorded receipts under `workspace/verify/unit-192/`
+- Files changed:
+  - `workspace/verify/unit-192/`
+  - `state/ORCHESTRATION_STATE.md`
+  - `state/STATUS.md`
+  - `state/NEXT_ACTION.md`
+  - `state/FEATURE_STATUS.md`
+  - `state/PROGRESS.md`
+  - `state/SESSION_LOG.md`
+  - `workspace/handoff/CURRENT_HANDOFF.md`
+- Checks run:
+  - `shopify theme list --store elos-dev.myshopify.com`
+  - `shopify theme push --store elos-dev.myshopify.com --path project --theme 156487712965 --nodelete --json`
+  - preview HEAD request
+  - required harness checks
+- Result: PASS; Shopify returned unpublished theme id `156487712965` with no errors and preview HEAD status 200
+- Follow-up: stop upload-repair work; `UNIT-184` preset-composition hard block remains active pending owner inputs

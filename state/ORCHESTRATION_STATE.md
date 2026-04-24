@@ -8,14 +8,14 @@
 
 ## Current Phase
 
-- `Verified`: Active roadmap phase: Shopify upload repair lane
-- `Verified`: Last completed phase slice: prompt template URL repair (`UNIT-191`).
+- `Verified`: Active roadmap phase: Phase 4 preset runtime composition hard block
+- `Verified`: Last completed phase slice: remote Shopify proof (`UNIT-192`).
 - `Verified`: Preset runtime composition remains a separate hard block (`UNIT-184`).
 
 ## Approval State
 
 - `Verified`: Current next action approval: APPROVED
-- `Verified`: Approval basis: owner instructed execution of `workspace/plans/shopify-upload-error-resolution-v1/PLAN.v1.md`; `UNIT-191` repaired the invalid prompt template URL and now admits `UNIT-192` for no-delete remote proof.
+- `Verified`: Approval basis: `UNIT-192` completed Shopify upload repair; no further upload-repair unit is approved and `UNIT-184` remains blocked pending owner preset-composition inputs.
 
 ## Lock State
 

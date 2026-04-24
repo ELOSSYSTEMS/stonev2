@@ -8,13 +8,13 @@
 
 ## Approved Unit
 
-- `Verified`: `UNIT-192` is approved as the next bounded upload-repair unit: re-run remote proof with no-delete protection.
+- `Verified`: No further Shopify upload-repair unit is approved; `UNIT-184` remains the blocked preset-composition owner-input unit.
 
 ## Objective
 
-- `Verified`: Push the full `project/` theme root to existing unpublished theme id `156487712965` using no-delete protection so remote-only gift card files are preserved.
+- `Verified`: Stop autonomous runtime work after successful `Stonev2` remote proof.
 - `Verified`: Preserve the separate preset-composition hard block from `UNIT-184`.
-- `Verified`: Do not publish the theme, create a fresh theme, or change local files in this unit unless remote validation exposes a hard blocker.
+- `Verified`: Do not publish the theme, create a fresh theme, or resume preset composition without owner inputs.
 
 ## Plan Reference
 
@@ -22,7 +22,6 @@
 
 ## Allowed Files Or Surfaces
 
-- Shopify CLI operation against unpublished theme id `156487712965`
 - `state/`
 - `workspace/handoff/CURRENT_HANDOFF.md`
 - `workspace/verify/unit-192/`
@@ -39,4 +38,4 @@
 
 ## Stop Condition
 
-Stop if Shopify CLI auth fails, the target theme id is not `156487712965`, the push would publish the theme, or remote upload reports a new hard blocker.
+Stop unless the owner supplies missing runtime composition inputs or explicitly overrides the `UNIT-184` preset-composition hard block.
