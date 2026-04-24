@@ -6,6 +6,8 @@
 <div
   id="{{ stone_drawer_id }}"
   class="stone-mobile-navigation-drawer stone-mobile-navigation-drawer--section"
+  data-stone-drawer
+  data-stone-drawer-state="closed"
   data-stone-mobile-drawer
   data-stone-mobile-drawer-state="closed"
   hidden
@@ -14,6 +16,7 @@
     class="stone-mobile-navigation-drawer__overlay"
     type="button"
     aria-label="Close menu"
+    data-stone-drawer-close
     data-stone-mobile-drawer-close
   ></button>
 
@@ -23,6 +26,7 @@
     aria-modal="true"
     aria-labelledby="{{ stone_drawer_id }}-Title"
     tabindex="-1"
+    data-stone-drawer-panel
     data-stone-mobile-drawer-panel
   >
     <div class="stone-mobile-navigation-drawer__header">
@@ -32,6 +36,7 @@
       <button
         class="stone-mobile-navigation-drawer__close"
         type="button"
+        data-stone-drawer-close
         data-stone-mobile-drawer-close
       >
         Close

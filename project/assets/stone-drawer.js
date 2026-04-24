@@ -2,9 +2,14 @@
   const root = document.documentElement;
   const body = document.body;
 
-  if (!root || !body || body.dataset.stoneMobileDrawerInitialized === "true") {
+  if (!root || !body || body.dataset.stoneDrawerInitialized === "true") {
     return;
   }
+
+  const drawerSelector = "[data-stone-drawer], [data-stone-mobile-drawer]";
+  const triggerSelector = "[data-stone-drawer-trigger], [data-stone-mobile-drawer-trigger]";
+  const closeSelector = "[data-stone-drawer-close], [data-stone-mobile-drawer-close]";
+  const panelSelector = "[data-stone-drawer-panel], [data-stone-mobile-drawer-panel]";
 
   const focusableSelector = [
     "a[href]",
@@ -29,20 +34,51 @@
       return element.offsetParent !== null || element === document.activeElement;
     });
 
-  const closeDrawer = (drawer, trigger, options = {}) => {
-    if (!drawer || drawer.dataset.stoneMobileDrawerState !== "open") {
+  const getDrawerState = (drawer) =>
+    drawer.getAttribute("data-stone-drawer-state") ||
+    drawer.getAttribute("data-stone-mobile-drawer-state") ||
+    "closed";
+
+  const triggerSelectorForDrawer = (drawerId) =>
+    [
+      `[data-stone-drawer-trigger][aria-controls="${drawerId}"]`,
+      `[data-stone-mobile-drawer-trigger][aria-controls="${drawerId}"]`,
+    ].join(",");
+
+  const setDrawerState = (drawer, state) => {
+    drawer.setAttribute("data-stone-drawer-state", state);
+
+    if (drawer.hasAttribute("data-stone-mobile-drawer")) {
+      drawer.setAttribute("data-stone-mobile-drawer-state", state);
+    }
+  };
+
+  const getDrawerControls = (drawer) =>
+    drawer.id ? document.querySelectorAll(triggerSelectorForDrawer(drawer.id)) : [];
+
+  const setBodyLock = (locked) => {
+    if (locked) {
+      body.dataset.stoneDrawerLock = "true";
+      body.dataset.stoneMobileDrawerLock = "true";
       return;
     }
 
-    const controls = drawer.id
-      ? document.querySelectorAll(`[data-stone-mobile-drawer-trigger][aria-controls="${drawer.id}"]`)
-      : [];
+    body.removeAttribute("data-stone-drawer-lock");
+    body.removeAttribute("data-stone-mobile-drawer-lock");
+  };
+
+  const closeDrawer = (drawer, trigger, options = {}) => {
+    if (!drawer || getDrawerState(drawer) !== "open") {
+      return;
+    }
+
+    const controls = getDrawerControls(drawer);
     const reducedMotion = motionQuery && motionQuery.matches;
     const delay = reducedMotion ? 0 : 180;
 
-    drawer.dataset.stoneMobileDrawerState = "closed";
+    setDrawerState(drawer, "closed");
     controls.forEach((control) => control.setAttribute("aria-expanded", "false"));
-    body.removeAttribute("data-stone-mobile-drawer-lock");
+    setBodyLock(false);
 
     window.setTimeout(() => {
       drawer.hidden = true;
@@ -54,20 +90,25 @@
   };
 
   const openDrawer = (drawer, trigger) => {
-    if (!drawer || drawer.dataset.stoneMobileDrawerState === "open") {
+    if (!drawer || getDrawerState(drawer) === "open") {
       return;
     }
 
     drawer.hidden = false;
-    drawer.dataset.stoneMobileDrawerState = "open";
-    drawer.dataset.stoneMobileDrawerReturn = trigger ? "true" : "false";
-    body.dataset.stoneMobileDrawerLock = "true";
+    setDrawerState(drawer, "open");
+    drawer.dataset.stoneDrawerReturn = trigger ? "true" : "false";
+
+    if (drawer.hasAttribute("data-stone-mobile-drawer")) {
+      drawer.dataset.stoneMobileDrawerReturn = trigger ? "true" : "false";
+    }
+
+    setBodyLock(true);
 
     if (trigger) {
       trigger.setAttribute("aria-expanded", "true");
     }
 
-    const panel = drawer.querySelector("[data-stone-mobile-drawer-panel]");
+    const panel = drawer.querySelector(panelSelector);
     const focusable = getFocusable(drawer);
     const firstTarget = focusable[0] || panel;
 
@@ -87,25 +128,28 @@
     }
 
     trigger.addEventListener("click", () => {
-      if (drawer.dataset.stoneMobileDrawerState === "open") {
+      if (getDrawerState(drawer) === "open") {
         closeDrawer(drawer, trigger);
       } else {
-        drawer.dataset.stoneMobileDrawerTriggerId = trigger.id || "";
+        drawer.dataset.stoneDrawerTriggerId = trigger.id || "";
+
+        if (drawer.hasAttribute("data-stone-mobile-drawer")) {
+          drawer.dataset.stoneMobileDrawerTriggerId = trigger.id || "";
+        }
+
         openDrawer(drawer, trigger);
       }
     });
   };
 
   const initializeDrawer = (drawer) => {
-    if (drawer.dataset.stoneMobileDrawerReady === "true") {
+    if (drawer.dataset.stoneDrawerReady === "true") {
       return;
     }
 
-    const trigger = drawer.id
-      ? document.querySelector(`[data-stone-mobile-drawer-trigger][aria-controls="${drawer.id}"]`)
-      : null;
+    const trigger = drawer.id ? document.querySelector(triggerSelectorForDrawer(drawer.id)) : null;
 
-    drawer.querySelectorAll("[data-stone-mobile-drawer-close]").forEach((control) => {
+    drawer.querySelectorAll(closeSelector).forEach((control) => {
       control.addEventListener("click", () => closeDrawer(drawer, trigger));
     });
 
@@ -114,7 +158,7 @@
     });
 
     drawer.addEventListener("keydown", (event) => {
-      if (drawer.dataset.stoneMobileDrawerState !== "open") {
+      if (getDrawerState(drawer) !== "open") {
         return;
       }
 
@@ -147,13 +191,18 @@
       }
     });
 
-    drawer.dataset.stoneMobileDrawerReady = "true";
+    drawer.dataset.stoneDrawerReady = "true";
+
+    if (drawer.hasAttribute("data-stone-mobile-drawer")) {
+      drawer.dataset.stoneMobileDrawerReady = "true";
+    }
   };
 
   root.classList.remove("no-js");
   root.classList.add("js");
+  body.dataset.stoneDrawerInitialized = "true";
   body.dataset.stoneMobileDrawerInitialized = "true";
 
-  document.querySelectorAll("[data-stone-mobile-drawer]").forEach(initializeDrawer);
-  document.querySelectorAll("[data-stone-mobile-drawer-trigger]").forEach(initializeTrigger);
+  document.querySelectorAll(drawerSelector).forEach(initializeDrawer);
+  document.querySelectorAll(triggerSelector).forEach(initializeTrigger);
 })();

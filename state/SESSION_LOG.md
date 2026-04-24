@@ -5801,3 +5801,37 @@
   - `node HARNESS/checks/harness-check.mjs`
 - Result: PASS
 - Follow-up: execute `UNIT-SA-012` only after exact owner authorization and only inside the allowed write set defined by `UNIT-SA-011`
+
+### Session Entry
+
+- Timestamp: 2026-04-24 23:45 Asia/Jerusalem
+- Skill or Mode: `Default`
+- Summary: executed authorized `UNIT-SA-012`, generalized the existing drawer controller to shared drawer attributes, preserved mobile drawer compatibility selectors and state aliases, added minimal CSS state/body-lock aliases, and kept all second drawer surfaces and protected runtime lanes blocked
+- Files changed:
+  - `project/assets/stone-drawer.js`
+  - `project/sections/stone-header-main.liquid`
+  - `project/sections/stone-mobile-navigation-drawer.liquid`
+  - `project/assets/stone-base.css`
+  - `workspace/qa/reports/unit-sa-012-drawer-primitive-report.md`
+  - `state/ORCHESTRATION_STATE.md`
+  - `state/STATUS.md`
+  - `state/NEXT_ACTION.md`
+  - `state/FEATURE_STATUS.md`
+  - `state/PROGRESS.md`
+  - `state/SESSION_LOG.md`
+  - `workspace/handoff/CURRENT_HANDOFF.md`
+- Checks run:
+  - `node --check project/assets/stone-drawer.js`
+  - embedded section schema parse for `stone-header-main` and `stone-mobile-navigation-drawer`
+  - drawer primitive evidence scan
+  - exact project write-set comparison
+  - `shopify theme check --path project --no-color`
+  - `node HARNESS/checks/check-state-artifacts.mjs`
+  - `node HARNESS/checks/check-next-action-scope.mjs`
+  - `node HARNESS/checks/check-plan-exists.mjs`
+  - `node HARNESS/checks/check-handoff-completeness.mjs`
+  - `node HARNESS/checks/check-approval-state.mjs`
+  - `node HARNESS/checks/check-lock-state.mjs`
+  - `node HARNESS/checks/harness-check.mjs`
+- Result: PASS
+- Follow-up: execute `UNIT-SA-013` only after explicit store and preview target authorization; do not add search drawer, cart drawer, predictive search, modal stack, overlay group, theme blocks, templates, snippets, config, locales, presets, or Shopify publish operations
