@@ -81,6 +81,7 @@
 - `Verified`: `UNIT-SA-015` passed local implementation by adding a route-based search drawer shell that reuses the shared drawer primitive while keeping predictive search and cart behavior blocked.
 - `Verified`: `UNIT-SA-016` passed browser preview proof for the search drawer shell against unpublished `Stonev2` theme id `156487712965`.
 - `Verified`: `UNIT-SA-017` passed by authoring the docs-only Phase 3B post-search-drawer boundary and selecting non-mutating cart drawer shell only as the next candidate.
+- `Verified`: `UNIT-SA-018` passed local implementation by adding a non-mutating cart drawer shell that reuses the shared drawer primitive while keeping cart mutation behavior blocked.
 
 ## Risks And Blocks
 
@@ -90,7 +91,7 @@
 - `Verified`: Remote proof passed against unpublished `Stonev2` theme id `156487712965`.
 - `Verified`: `UNIT-184` preset-composition hard block remains active.
 - `Verified`: Runtime implementation of `UNIT-SA-007` was authorized by the owner and completed locally.
-- `Verified`: `UNIT-SA-018` is conditionally approved only as non-mutating cart drawer shell runtime after explicit owner authorization.
+- `Verified`: `UNIT-SA-019` cart drawer browser preview proof is conditionally approved only after explicit store and preview target authorization.
 - `Verified`: Cart quantity updates, cart item removal, add-to-cart behavior, checkout mutation, AJAX cart, cart JavaScript, predictive search, modal stack, overlay group, theme blocks, templates, snippets, config, preset composition, and Shopify remote mutation remain blocked.
 - `Verified`: Browser preview proof for the mobile navigation drawer has passed.
 - `Unknown`: Persisted text evidence for exact `lang="he"` and `dir="rtl"` from the RTL retry was not found; `UNIT-SA-006` records this evidence gap.
@@ -100,4 +101,4 @@
 - `Verified`: Exact hardening entry criteria after partial preset realization are missing.
 - `Verified`: No per-preset architecture sprawl is approved.
 - `Verified`: No predictive-search, cart, or hardening lane is approved.
-- `Inference`: The next honest product step is `UNIT-SA-018` cart drawer shell only after explicit owner authorization, before any broader Phase 3B cart behavior or predictive-search work.
+- `Inference`: The next honest product step is `UNIT-SA-019` browser preview proof before any broader Phase 3B cart behavior or predictive-search work.

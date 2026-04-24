@@ -226,6 +226,9 @@
       "submit": "חיפוש",
       "close_label": "סגירת חיפוש"
     },
+    "stone_cart_drawer": {
+      "name": "מגירת עגלה"
+    },
     "stone_footer_main": {
       "name": "כותרת תחתונה",
       "settings": {

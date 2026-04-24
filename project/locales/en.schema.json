@@ -226,6 +226,9 @@
       "submit": "Search",
       "close_label": "Close search"
     },
+    "stone_cart_drawer": {
+      "name": "Cart drawer"
+    },
     "stone_footer_main": {
       "name": "Footer",
       "settings": {

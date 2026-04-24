@@ -5994,3 +5994,33 @@
   - `node HARNESS/checks/harness-check.mjs`
 - Result: PASS
 - Follow-up: execute `UNIT-SA-018` only after explicit owner authorization and only inside the five-file cart drawer shell write set; do not add cart quantity updates, item removal, add-to-cart behavior, checkout mutation, AJAX cart, cart JavaScript, predictive search, modal stack, overlay group, theme blocks, templates, snippets, config, runtime locales, presets, or Shopify remote mutation
+
+### Session Entry
+
+- Timestamp: 2026-04-25 02:11 Asia/Jerusalem
+- Skill or Mode: `Default`
+- Summary: executed authorized `UNIT-SA-018`, implemented the non-mutating cart drawer shell inside the exact five-file runtime boundary, preserved the route-based cart fallback, added a local QA report, and synchronized state for verification-only `UNIT-SA-019`
+- Files changed:
+  - `project/sections/stone-cart-drawer.liquid`
+  - `project/sections/stone-header-main.liquid`
+  - `project/assets/stone-base.css`
+  - `project/locales/en.schema.json`
+  - `project/locales/he.default.schema.json`
+  - `workspace/qa/reports/unit-sa-018-cart-drawer-report.md`
+  - `state/ORCHESTRATION_STATE.md`
+  - `state/STATUS.md`
+  - `state/NEXT_ACTION.md`
+  - `state/FEATURE_STATUS.md`
+  - `state/PROGRESS.md`
+  - `state/SESSION_LOG.md`
+  - `workspace/handoff/CURRENT_HANDOFF.md`
+- Checks run:
+  - locale JSON parse for schema locale files
+  - embedded section schema parse for `stone-header-main` and `stone-cart-drawer`
+  - exact project write-set comparison including untracked files
+  - cart drawer evidence scan
+  - forbidden cart-mutation scan
+  - `shopify theme check --path project --no-color`
+  - required harness checks
+- Result: PASS
+- Follow-up: execute `UNIT-SA-019` only after explicit store and preview target authorization; do not add cart mutation behavior, cart JavaScript, predictive search, modal stack, overlay group, theme blocks, templates, snippets, config, runtime locales, presets, Shopify push/publish, or broader runtime mutation

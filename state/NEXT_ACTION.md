@@ -3,17 +3,17 @@
 ## Status
 
 - `Verified`: Approval State: CONDITIONALLY_APPROVED
-- `Verified`: Execution Class: bounded runtime implementation only after explicit owner authorization
+- `Verified`: Execution Class: browser/preview verification only after explicit store and preview target authorization
 - `Verified`: Priority: high
 
 ## Approved Unit
 
-- `Verified`: `UNIT-SA-018` is conditionally approved only as cart drawer shell runtime, after explicit owner authorization.
+- `Verified`: `UNIT-SA-019` is conditionally approved only as cart drawer browser preview proof, after explicit store and preview target authorization.
 
 ## Objective
 
-- `Verified`: Preserve `UNIT-SA-017` as complete for docs-only Phase 3B post-search-drawer boundary authoring.
-- `Verified`: Execute only the non-mutating cart drawer shell runtime candidate defined by `UNIT-SA-017`, and only after explicit owner authorization.
+- `Verified`: Preserve `UNIT-SA-018` as complete for local cart drawer shell implementation.
+- `Verified`: Prove in browser preview that the cart drawer opens from the header trigger, preserves the cart route fallback, closes by close control and `Escape`, traps focus, restores focus, locks and unlocks scroll, and preserves RTL placement.
 - `Verified`: Keep cart quantity updates, cart item removal, add-to-cart behavior, checkout mutation, AJAX cart, cart JavaScript, predictive search, modal stack, overlay group, theme blocks, templates, snippets, config, runtime locales, preset composition, and Shopify publish operations blocked.
 - `Verified`: Preserve the separate preset-composition hard block from `UNIT-184`.
 
@@ -23,14 +23,10 @@
 
 ## Allowed Files Or Surfaces
 
-- `project/sections/stone-cart-drawer.liquid`
-- `project/sections/stone-header-main.liquid`
-- `project/assets/stone-base.css`
-- `project/locales/en.schema.json`
-- `project/locales/he.default.schema.json`
-- `workspace/qa/reports/unit-sa-018-*`
+- `workspace/qa/reports/unit-sa-019-*`
 - `state/`
 - `workspace/handoff/CURRENT_HANDOFF.md`
+- Shopify preview command only after explicit store and preview target authorization
 
 ## Required Checks
 
@@ -44,4 +40,4 @@
 
 ## Stop Condition
 
-Stop if explicit owner authorization for `UNIT-SA-018` is absent, if the repo has unclassified dirty `project/**` files, or if the next step requires cart quantity updates, cart item removal, add-to-cart behavior, checkout mutation, AJAX cart, cart JavaScript, predictive search, modal stack implementation, overlay group, theme blocks, templates, snippets, config, runtime locales, preset composition, Shopify preview/dev/push/publish/delete operations, `--allow-live`, or any file outside the `UNIT-SA-018` allowed surfaces.
+Stop if explicit store and preview target authorization for `UNIT-SA-019` is absent, if the resolved preview target is live, if a command would require `--allow-live`, or if the next step requires runtime edits, cart quantity updates, cart item removal, add-to-cart behavior, checkout mutation, AJAX cart, cart JavaScript, predictive search, modal stack implementation, overlay group, theme blocks, templates, snippets, config, runtime locales, preset composition, Shopify push, Shopify publish, delete operations, or any file outside the `UNIT-SA-019` verification surfaces.
