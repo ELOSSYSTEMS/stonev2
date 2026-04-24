@@ -218,6 +218,14 @@
         }
       }
     },
+    "stone_search_drawer": {
+      "name": "Search drawer",
+      "title": "Search",
+      "query_label": "Search terms",
+      "placeholder": "Search",
+      "submit": "Search",
+      "close_label": "Close search"
+    },
     "stone_footer_main": {
       "name": "Footer",
       "settings": {

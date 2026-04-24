@@ -8,14 +8,14 @@
 
 ## Current Phase
 
-- `Verified`: Active roadmap phase: Phase 3B search drawer shell candidate after second-drawer boundary.
-- `Verified`: Last completed phase slice: `UNIT-SA-014` docs-only second-drawer candidate boundary.
+- `Verified`: Active roadmap phase: Phase 3B search drawer browser preview proof after local search drawer shell implementation.
+- `Verified`: Last completed phase slice: `UNIT-SA-015` search drawer shell local implementation and static verification.
 - `Verified`: Preset runtime composition remains a separate hard block (`UNIT-184`).
 
 ## Approval State
 
 - `Verified`: Current next action approval: CONDITIONALLY_APPROVED
-- `Verified`: Approval basis: `UNIT-SA-014` selects `UNIT-SA-015` as search drawer shell only, but future runtime execution still requires exact-unit owner authorization.
+- `Verified`: Approval basis: `UNIT-SA-015` passed local static verification; next action is `UNIT-SA-016` browser preview proof, but preview execution requires explicit store and preview target authorization.
 
 ## Lock State
 

@@ -218,6 +218,14 @@
         }
       }
     },
+    "stone_search_drawer": {
+      "name": "מגירת חיפוש",
+      "title": "חיפוש",
+      "query_label": "מונחי חיפוש",
+      "placeholder": "חיפוש",
+      "submit": "חיפוש",
+      "close_label": "סגירת חיפוש"
+    },
     "stone_footer_main": {
       "name": "כותרת תחתונה",
       "settings": {

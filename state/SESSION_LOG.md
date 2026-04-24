@@ -5898,3 +5898,39 @@
   - `node HARNESS/checks/harness-check.mjs`
 - Result: PASS
 - Follow-up: execute `UNIT-SA-015` only after exact owner authorization and only inside the allowed write set defined by `UNIT-SA-014`
+
+### Session Entry
+
+- Timestamp: 2026-04-25 00:20 Asia/Jerusalem
+- Skill or Mode: `Default`
+- Summary: executed authorized `UNIT-SA-015`, implemented the search drawer shell with the shared drawer primitive and route-based search form, preserved the no-JS header search fallback, and kept cart drawer, predictive search, search JavaScript, modal stack, overlay group, theme blocks, templates, snippets, config, runtime locales, presets, and Shopify remote mutation blocked
+- Files changed:
+  - `project/sections/stone-search-drawer.liquid`
+  - `project/sections/stone-header-main.liquid`
+  - `project/assets/stone-base.css`
+  - `project/locales/en.schema.json`
+  - `project/locales/he.default.schema.json`
+  - `workspace/qa/reports/unit-sa-015-search-drawer-report.md`
+  - `state/ORCHESTRATION_STATE.md`
+  - `state/STATUS.md`
+  - `state/NEXT_ACTION.md`
+  - `state/FEATURE_STATUS.md`
+  - `state/PROGRESS.md`
+  - `state/SESSION_LOG.md`
+  - `workspace/handoff/CURRENT_HANDOFF.md`
+- Checks run:
+  - locale JSON parse for schema locale files
+  - embedded section schema parse for `stone-header-main` and `stone-search-drawer`
+  - exact project write-set comparison including untracked files
+  - search drawer evidence scan
+  - forbidden-token scan
+  - `shopify theme check --path project --no-color`
+  - `node HARNESS/checks/check-state-artifacts.mjs`
+  - `node HARNESS/checks/check-next-action-scope.mjs`
+  - `node HARNESS/checks/check-plan-exists.mjs`
+  - `node HARNESS/checks/check-handoff-completeness.mjs`
+  - `node HARNESS/checks/check-approval-state.mjs`
+  - `node HARNESS/checks/check-lock-state.mjs`
+  - `node HARNESS/checks/harness-check.mjs`
+- Result: PASS
+- Follow-up: execute `UNIT-SA-016` only after explicit store and preview target authorization; do not add cart drawer, predictive search, search JavaScript, modal stack, overlay group, theme blocks, templates, snippets, config, runtime locales, presets, or Shopify publish operations

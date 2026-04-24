@@ -39,6 +39,7 @@
 - `Verified`: `UNIT-SA-012` generalized the existing drawer controller to shared drawer attributes while preserving mobile drawer compatibility and local static proof.
 - `Verified`: `UNIT-SA-013` preview-validated the shared drawer primitive regression proof against unpublished `Stonev2` theme id `156487712965`.
 - `Verified`: `UNIT-SA-014` completed the docs-only second-drawer candidate boundary and selected search drawer shell only as the next safest candidate.
+- `Verified`: `UNIT-SA-015` implemented the route-based search drawer shell using the shared drawer primitive while keeping predictive search and cart behavior blocked.
 
 ## Current State
 
@@ -79,7 +80,7 @@
 - `Verified`: `UNIT-184` is admitted only as a blocked owner-input unit; no runtime work is approved.
 - `Verified`: `UNIT-SA-006` keeps cart drawer, search drawer, predictive search, modal stack, overlay group, theme blocks, templates, snippets, config, preset composition, and Shopify remote mutation blocked for the Phase 3B first slice.
 - `Verified`: `UNIT-SA-007` was authorized by the owner and completed locally.
-- `Verified`: `UNIT-SA-015` search drawer shell runtime is conditionally approved only after exact owner authorization.
+- `Verified`: `UNIT-SA-016` search drawer browser preview proof is conditionally approved only after explicit store and preview target authorization.
 - `Verified`: Browser preview proof for the mobile drawer has passed after the RTL placement repair.
 
 ## Changed Or Seeded Files
@@ -204,20 +205,21 @@
 - `Verified`: `UNIT-SA-012` shared drawer primitive generalization is complete.
 - `Verified`: `UNIT-SA-013` browser preview regression proof is complete.
 - `Verified`: `UNIT-SA-014` docs-only second-drawer candidate boundary is complete.
-- `Verified`: `UNIT-SA-015` search drawer shell runtime remains pending exact owner authorization.
+- `Verified`: `UNIT-SA-015` search drawer shell runtime is complete locally.
+- `Verified`: `UNIT-SA-016` search drawer browser preview proof remains pending explicit store and preview target authorization.
 - `Unknown`: Persisted text evidence for exact `lang="he"` and `dir="rtl"` from the RTL retry was not found; `UNIT-SA-006` records this evidence gap.
 
 ## Recommended Next Step
 
 - `Verified`: No further Shopify upload-repair unit is approved.
 - `Verified`: `UNIT-184` remains blocked pending owner runtime composition inputs.
-- `Inference`: The next productive Phase 3B step is `UNIT-SA-015` search drawer shell only before any broader cart or predictive-search behavior.
+- `Inference`: The next productive Phase 3B step is `UNIT-SA-016` browser preview proof before any broader cart or predictive-search behavior.
 
 ## Resume Checks
 
 - `Verified`: Read `workspace/plans/section-architecture-final-product-implementation-v1/UNIT-SA-006.v1.md`.
 - `Verified`: Read `workspace/qa/reports/unit-sa-009-mobile-drawer-preview-report.md`.
-- `Verified`: Confirm `UNIT-SA-015` has exact owner authorization before runtime edits.
+- `Verified`: Confirm `UNIT-SA-016` has explicit store and preview target authorization before running `theme dev`.
 - `Verified`: Run `node HARNESS/checks/harness-check.mjs`.
 - `Verified`: Read `workspace/plans/phase-4-collection-filter-runtime-boundary-v1/PLAN.v1.md` and current state files.
 - `Verified`: Read `state/NEXT_ACTION.md`.

@@ -5,6 +5,7 @@
   assign stone_show_cart_link = section.settings.show_cart_link
   assign stone_show_locale_switcher = section.settings.show_locale_switcher
   assign stone_mobile_drawer_id = 'StoneMobileNavigationDrawer-' | append: section.id
+  assign stone_search_drawer_id = 'StoneSearchDrawer-' | append: section.id
 
   if stone_brand_name == blank
     assign stone_brand_name = shop.name
@@ -46,6 +47,17 @@
 
     <div class="stone-global-header__utility">
       {%- if stone_show_search -%}
+        <button
+          class="stone-global-header__utility-link stone-global-header__search-trigger"
+          type="button"
+          aria-controls="{{ stone_search_drawer_id }}"
+          aria-expanded="false"
+          data-stone-drawer-trigger
+          data-stone-search-drawer-trigger
+        >
+          {{ 'snippets.stone_global_header.search_label' | t }}
+        </button>
+
         <form class="stone-global-header__search" action="{{ routes.search_url }}" method="get" role="search">
           <label class="stone-visually-hidden" for="StoneHeaderSearch-{{ section.id }}">
             {{ 'snippets.stone_global_header.search_label' | t }}
@@ -151,6 +163,68 @@
     </nav>
   </aside>
 </div>
+
+{%- if stone_show_search -%}
+  <div
+    id="{{ stone_search_drawer_id }}"
+    class="stone-search-drawer"
+    data-stone-drawer
+    data-stone-search-drawer
+    data-stone-drawer-state="closed"
+    hidden
+  >
+    <button
+      class="stone-search-drawer__overlay"
+      type="button"
+      aria-label="Close search"
+      data-stone-drawer-close
+      data-stone-search-drawer-close
+    ></button>
+
+    <aside
+      class="stone-search-drawer__panel"
+      role="dialog"
+      aria-modal="true"
+      aria-labelledby="{{ stone_search_drawer_id }}-Title"
+      tabindex="-1"
+      data-stone-drawer-panel
+      data-stone-search-drawer-panel
+    >
+      <div class="stone-search-drawer__header">
+        <h2 id="{{ stone_search_drawer_id }}-Title" class="stone-search-drawer__title">
+          {{ 'snippets.stone_global_header.search_label' | t }}
+        </h2>
+        <button
+          class="stone-search-drawer__close"
+          type="button"
+          data-stone-drawer-close
+          data-stone-search-drawer-close
+        >
+          Close
+        </button>
+      </div>
+
+      <form class="stone-search-drawer__form" action="{{ routes.search_url }}" method="get" role="search">
+        <label class="stone-search-drawer__label" for="StoneSearchDrawerQuery-{{ section.id }}">
+          {{ 'snippets.stone_global_header.search_label' | t }}
+        </label>
+        <div class="stone-search-drawer__form-row">
+          <input
+            id="StoneSearchDrawerQuery-{{ section.id }}"
+            class="stone-search-drawer__input"
+            type="search"
+            name="q"
+            value="{{ search.terms | escape }}"
+            placeholder="{{ 'snippets.stone_global_header.search_placeholder' | t }}"
+          >
+          <button class="stone-search-drawer__submit" type="submit">
+            {{ 'snippets.stone_global_header.search_submit' | t }}
+          </button>
+        </div>
+      </form>
+    </aside>
+  </div>
+{%- endif -%}
 
 <script src="{{ 'stone-drawer.js' | asset_url }}" defer="defer"></script>
 

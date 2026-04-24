@@ -1,0 +1,72 @@
+{%- liquid
+  assign stone_search_drawer_id = 'StoneSearchDrawer-Section-' | append: section.id
+-%}
+
+<div
+  id="{{ stone_search_drawer_id }}"
+  class="stone-search-drawer stone-search-drawer--section"
+  data-stone-drawer
+  data-stone-search-drawer
+  data-stone-drawer-state="closed"
+  hidden
+>
+  <button
+    class="stone-search-drawer__overlay"
+    type="button"
+    aria-label="Close search"
+    data-stone-drawer-close
+    data-stone-search-drawer-close
+  ></button>
+
+  <aside
+    class="stone-search-drawer__panel"
+    role="dialog"
+    aria-modal="true"
+    aria-labelledby="{{ stone_search_drawer_id }}-Title"
+    tabindex="-1"
+    data-stone-drawer-panel
+    data-stone-search-drawer-panel
+  >
+    <div class="stone-search-drawer__header">
+      <h2 id="{{ stone_search_drawer_id }}-Title" class="stone-search-drawer__title">
+        {{ 'snippets.stone_global_header.search_label' | t }}
+      </h2>
+      <button
+        class="stone-search-drawer__close"
+        type="button"
+        data-stone-drawer-close
+        data-stone-search-drawer-close
+      >
+        Close
+      </button>
+    </div>
+
+    <form class="stone-search-drawer__form" action="{{ routes.search_url }}" method="get" role="search">
+      <label class="stone-search-drawer__label" for="StoneSearchDrawerQuery-{{ section.id }}">
+        {{ 'snippets.stone_global_header.search_label' | t }}
+      </label>
+      <div class="stone-search-drawer__form-row">
+        <input
+          id="StoneSearchDrawerQuery-{{ section.id }}"
+          class="stone-search-drawer__input"
+          type="search"
+          name="q"
+          value="{{ search.terms | escape }}"
+          placeholder="{{ 'snippets.stone_global_header.search_placeholder' | t }}"
+        >
+        <button class="stone-search-drawer__submit" type="submit">
+          {{ 'snippets.stone_global_header.search_submit' | t }}
+        </button>
+      </div>
+    </form>
+  </aside>
+</div>
+
+<script src="{{ 'stone-drawer.js' | asset_url }}" defer="defer"></script>
+
+{% schema %}
+{
+  "name": "t:sections.stone_search_drawer.name",
+  "settings": []
+}
+{% endschema %}
