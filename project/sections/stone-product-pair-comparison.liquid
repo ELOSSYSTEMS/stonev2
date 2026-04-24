@@ -22,22 +22,10 @@
     if stone_first_product_handle != blank and stone_second_product_handle != blank and stone_first_product != blank and stone_second_product != blank
       echo '<div class="stone-product-pair-comparison__grid">'
       echo '<div class="stone-product-pair-comparison__item stone-product-pair-comparison__item--first">'
-      render 'stone-product-card',
-        product: stone_first_product,
-        show_vendor: section.settings.show_vendor,
-        show_price: section.settings.show_price,
-        show_excerpt: true,
-        surface_style: stone_surface_style,
-        card_emphasis: 'comparison'
+      render 'stone-product-card', product: stone_first_product, show_vendor: section.settings.show_vendor, show_price: section.settings.show_price, show_excerpt: true, surface_style: stone_surface_style, card_emphasis: 'comparison'
       echo '</div>'
       echo '<div class="stone-product-pair-comparison__item stone-product-pair-comparison__item--second">'
-      render 'stone-product-card',
-        product: stone_second_product,
-        show_vendor: section.settings.show_vendor,
-        show_price: section.settings.show_price,
-        show_excerpt: true,
-        surface_style: stone_surface_style,
-        card_emphasis: 'comparison'
+      render 'stone-product-card', product: stone_second_product, show_vendor: section.settings.show_vendor, show_price: section.settings.show_price, show_excerpt: true, surface_style: stone_surface_style, card_emphasis: 'comparison'
       echo '</div>'
       echo '</div>'
     else
@@ -49,13 +37,7 @@
     echo '</div>'
   endcapture
 
-  render 'stone-section-shell',
-    section: section,
-    heading: stone_heading,
-    content: stone_section_content,
-    width: section.settings.width_mode,
-    spacing: section.settings.spacing_mode,
-    shell_class: 'stone-product-pair-comparison-shell'
+  render 'stone-section-shell', section: section, heading: stone_heading, content: stone_section_content, width: section.settings.width_mode, spacing: section.settings.spacing_mode, shell_class: 'stone-product-pair-comparison-shell'
 -%}
 
 {% schema %}

@@ -5454,3 +5454,32 @@
   - `node HARNESS/checks/harness-check.mjs`
 - Result: PASS with hard block recorded
 - Follow-up: stop autonomous execution until owner inputs are supplied or the hard block is explicitly overridden
+### Session Entry
+
+- Timestamp: 2026-04-24 11:30 Asia/Jerusalem
+- Skill or Mode: `project-build`
+- Summary: executed `UNIT-185`, repaired invalid multiline Liquid render syntax in section files, corrected the upload-repair plan unit ids to avoid conflict with blocked preset-composition `UNIT-184`, and recorded receipts under `workspace/verify/unit-185/`
+- Files changed:
+  - `project/sections/*.liquid`
+  - `workspace/plans/shopify-upload-error-resolution-v1/PLAN.v1.md`
+  - `workspace/plans/shopify-upload-error-resolution-v1/ASSUMPTIONS.v1.md`
+  - `workspace/plans/shopify-upload-error-resolution-v1/CHECKS.v1.md`
+  - `workspace/plans/shopify-upload-error-resolution-v1/RISKS.v1.md`
+  - `workspace/plans/shopify-upload-error-resolution-v1/HANDOFF.v1.md`
+  - `workspace/verify/unit-185/`
+  - `state/ORCHESTRATION_STATE.md`
+  - `state/STATUS.md`
+  - `state/NEXT_ACTION.md`
+  - `state/FEATURE_STATUS.md`
+  - `state/PROGRESS.md`
+  - `state/SESSION_LOG.md`
+  - `workspace/handoff/CURRENT_HANDOFF.md`
+- Checks run:
+  - invalid Liquid-block render continuation scan
+  - broad remaining continuation scan for valid normal render tags
+  - `shopify theme check --path project --output json`
+  - Theme Check summary parse
+  - `git diff --name-only -- project`
+  - required harness checks
+- Result: PASS for Liquid syntax repair; Theme Check still reports 127 non-scope `TranslationKeyExists` errors
+- Follow-up: execute `UNIT-186` only as the settings schema blank-default repair and commit before moving on

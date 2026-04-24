@@ -57,23 +57,13 @@
           assign stone_rendered_product_count = stone_rendered_product_count | plus: 1
           if forloop.first
             echo '<div class="stone-featured-collection-grid__lead">'
-            render 'stone-product-card',
-              product: product,
-              show_vendor: section.settings.show_vendor,
-              show_price: section.settings.show_price,
-              show_excerpt: true,
-              surface_style: stone_surface_style,
-              card_emphasis: 'spotlight'
+            render 'stone-product-card', product: product, show_vendor: section.settings.show_vendor, show_price: section.settings.show_price, show_excerpt: true, surface_style: stone_surface_style, card_emphasis: 'spotlight'
             echo '</div>'
             if forloop.last == false
               echo '<div class="stone-featured-collection-grid__secondary">'
             endif
           else
-            render 'stone-product-card',
-              product: product,
-              show_vendor: section.settings.show_vendor,
-              show_price: section.settings.show_price,
-              surface_style: 'outline'
+            render 'stone-product-card', product: product, show_vendor: section.settings.show_vendor, show_price: section.settings.show_price, surface_style: 'outline'
           endif
         endfor
         if stone_rendered_product_count > 1
@@ -83,11 +73,7 @@
       else
         echo '<div class="stone-featured-collection-grid__products">'
         for product in stone_selected_collection.products limit: stone_product_limit
-          render 'stone-product-card',
-            product: product,
-            show_vendor: section.settings.show_vendor,
-            show_price: section.settings.show_price,
-            surface_style: 'outline'
+          render 'stone-product-card', product: product, show_vendor: section.settings.show_vendor, show_price: section.settings.show_price, surface_style: 'outline'
         endfor
         echo '</div>'
       endif
@@ -100,13 +86,7 @@
     echo '</div>'
   endcapture
 
-  render 'stone-section-shell',
-    section: section,
-    heading: stone_heading,
-    content: stone_section_content,
-    width: section.settings.width_mode,
-    spacing: section.settings.spacing_mode,
-    shell_class: 'stone-featured-collection-grid-shell'
+  render 'stone-section-shell', section: section, heading: stone_heading, content: stone_section_content, width: section.settings.width_mode, spacing: section.settings.spacing_mode, shell_class: 'stone-featured-collection-grid-shell'
 -%}
 
 {% schema %}

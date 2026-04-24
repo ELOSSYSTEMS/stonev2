@@ -8,7 +8,7 @@
 - `Verified`: Plan package identifies exactly one next execution-ready unit.
 - `Verified`: No `project/` files are changed by the plan package.
 
-## UNIT-184 Checks
+## UNIT-185 Checks
 
 - Run `git status --short`.
 - Run `git diff --name-only -- project`.

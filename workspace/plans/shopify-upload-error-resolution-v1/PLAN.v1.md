@@ -191,29 +191,29 @@ Rejected alternatives:
 
 | Unit | Title | Status | Acceptance Criteria | Allowed Files Or Surfaces | Verification |
 | --- | --- | --- | --- | --- | --- |
-| UNIT-184 | Repair invalid multiline Liquid render syntax. | PROPOSED | All invalid multiline `render` argument continuations inside `{% liquid %}` blocks are converted to valid Liquid syntax without changing section behavior. | `project/sections/*.liquid` only, plus state/handoff if the unit is formally activated. | Pattern scan; `shopify theme check --path project --output json`; `git diff --name-only -- project`. |
-| UNIT-185 | Repair settings schema blank default. | PROPOSED | `stone_brand_name` no longer has a Shopify-rejected blank default. | `project/config/settings_schema.json` only, plus state/handoff if activated. | JSON parse; `shopify theme check --path project --output json`; Shopify push validation when bundled into upload proof. |
-| UNIT-186 | Add runtime English locale coverage. | PROPOSED | `project/locales/en.default.json` exists and includes all runtime keys referenced by Liquid. | `project/locales/en.default.json`; optional locale evidence script. | Theme Check translation errors cleared or reduced only to explicitly deferred keys. |
-| UNIT-187 | Decide and implement Hebrew runtime locale parity. | PROPOSED | Either `he.default.json` exists with matching runtime keys or a written decision defers Hebrew runtime parity. | `project/locales/he.default.json` or docs/state only. | Locale key parity check if implemented; documented deferral if not. |
-| UNIT-188 | Push repaired source to unpublished `Stonev2`. | PROPOSED | Existing theme id `156487712965` accepts the full theme root without rejected files. | Shopify CLI operation against unpublished theme only. | Upload output; theme list; preview URL. |
-| UNIT-189 | Triage non-blocking Theme Check warnings. | PROPOSED | Remaining warnings are either fixed in narrow files or logged as accepted debt. | Files named by warnings only. | Theme Check warning summary before/after. |
+| UNIT-185 | Repair invalid multiline Liquid render syntax. | PROPOSED | All invalid multiline `render` argument continuations inside `{% liquid %}` blocks are converted to valid Liquid syntax without changing section behavior. | `project/sections/*.liquid` only, plus state/handoff if the unit is formally activated. | Pattern scan; `shopify theme check --path project --output json`; `git diff --name-only -- project`. |
+| UNIT-186 | Repair settings schema blank default. | PROPOSED | `stone_brand_name` no longer has a Shopify-rejected blank default. | `project/config/settings_schema.json` only, plus state/handoff if activated. | JSON parse; `shopify theme check --path project --output json`; Shopify push validation when bundled into upload proof. |
+| UNIT-187 | Add runtime English locale coverage. | PROPOSED | `project/locales/en.default.json` exists and includes all runtime keys referenced by Liquid. | `project/locales/en.default.json`; optional locale evidence script. | Theme Check translation errors cleared or reduced only to explicitly deferred keys. |
+| UNIT-188 | Decide and implement Hebrew runtime locale parity. | PROPOSED | Either `he.default.json` exists with matching runtime keys or a written decision defers Hebrew runtime parity. | `project/locales/he.default.json` or docs/state only. | Locale key parity check if implemented; documented deferral if not. |
+| UNIT-189 | Push repaired source to unpublished `Stonev2`. | PROPOSED | Existing theme id `156487712965` accepts the full theme root without rejected files. | Shopify CLI operation against unpublished theme only. | Upload output; theme list; preview URL. |
+| UNIT-190 | Triage non-blocking Theme Check warnings. | PROPOSED | Remaining warnings are either fixed in narrow files or logged as accepted debt. | Files named by warnings only. | Theme Check warning summary before/after. |
 
 ## Ledger-Ready Status Rows
 
 ```markdown
-| UNIT-184 | Repair invalid multiline Liquid render syntax. | PLANNED | All invalid multiline `render` argument continuations inside `{% liquid %}` blocks are converted to valid Liquid syntax without changing section behavior. | `project/sections/*.liquid`, `state/`, `workspace/handoff/CURRENT_HANDOFF.md` | `workspace/plans/shopify-upload-error-resolution-v1/PLAN.v1.md` | 2026-04-24 Asia/Jerusalem |
-| UNIT-185 | Repair settings schema blank default. | PLANNED | `stone_brand_name` no longer has a Shopify-rejected blank default. | `project/config/settings_schema.json`, `state/`, `workspace/handoff/CURRENT_HANDOFF.md` | `workspace/plans/shopify-upload-error-resolution-v1/PLAN.v1.md` | 2026-04-24 Asia/Jerusalem |
-| UNIT-186 | Add runtime English locale coverage. | PLANNED | `project/locales/en.default.json` exists and includes all runtime keys referenced by Liquid. | `project/locales/en.default.json`, `state/`, `workspace/handoff/CURRENT_HANDOFF.md` | `workspace/plans/shopify-upload-error-resolution-v1/PLAN.v1.md` | 2026-04-24 Asia/Jerusalem |
-| UNIT-187 | Decide and implement Hebrew runtime locale parity. | PLANNED | Hebrew runtime locale parity is either implemented or explicitly deferred with evidence. | `project/locales/he.default.json`, `workspace/plans/`, `state/`, `workspace/handoff/CURRENT_HANDOFF.md` | `workspace/plans/shopify-upload-error-resolution-v1/PLAN.v1.md` | 2026-04-24 Asia/Jerusalem |
-| UNIT-188 | Push repaired source to unpublished `Stonev2`. | PLANNED | Existing unpublished theme id `156487712965` accepts full theme upload without rejected files. | Shopify CLI operation, `state/`, `workspace/handoff/CURRENT_HANDOFF.md` | Shopify upload output and theme list | 2026-04-24 Asia/Jerusalem |
-| UNIT-189 | Triage non-blocking Theme Check warnings. | PLANNED | Remaining warnings are either fixed narrowly or logged as accepted debt. | Files named by Theme Check warnings, `state/`, `workspace/handoff/CURRENT_HANDOFF.md` | Theme Check warning summary | 2026-04-24 Asia/Jerusalem |
+| UNIT-185 | Repair invalid multiline Liquid render syntax. | PLANNED | All invalid multiline `render` argument continuations inside `{% liquid %}` blocks are converted to valid Liquid syntax without changing section behavior. | `project/sections/*.liquid`, `state/`, `workspace/handoff/CURRENT_HANDOFF.md` | `workspace/plans/shopify-upload-error-resolution-v1/PLAN.v1.md` | 2026-04-24 Asia/Jerusalem |
+| UNIT-186 | Repair settings schema blank default. | PLANNED | `stone_brand_name` no longer has a Shopify-rejected blank default. | `project/config/settings_schema.json`, `state/`, `workspace/handoff/CURRENT_HANDOFF.md` | `workspace/plans/shopify-upload-error-resolution-v1/PLAN.v1.md` | 2026-04-24 Asia/Jerusalem |
+| UNIT-187 | Add runtime English locale coverage. | PLANNED | `project/locales/en.default.json` exists and includes all runtime keys referenced by Liquid. | `project/locales/en.default.json`, `state/`, `workspace/handoff/CURRENT_HANDOFF.md` | `workspace/plans/shopify-upload-error-resolution-v1/PLAN.v1.md` | 2026-04-24 Asia/Jerusalem |
+| UNIT-188 | Decide and implement Hebrew runtime locale parity. | PLANNED | Hebrew runtime locale parity is either implemented or explicitly deferred with evidence. | `project/locales/he.default.json`, `workspace/plans/`, `state/`, `workspace/handoff/CURRENT_HANDOFF.md` | `workspace/plans/shopify-upload-error-resolution-v1/PLAN.v1.md` | 2026-04-24 Asia/Jerusalem |
+| UNIT-189 | Push repaired source to unpublished `Stonev2`. | PLANNED | Existing unpublished theme id `156487712965` accepts full theme upload without rejected files. | Shopify CLI operation, `state/`, `workspace/handoff/CURRENT_HANDOFF.md` | Shopify upload output and theme list | 2026-04-24 Asia/Jerusalem |
+| UNIT-190 | Triage non-blocking Theme Check warnings. | PLANNED | Remaining warnings are either fixed narrowly or logged as accepted debt. | Files named by Theme Check warnings, `state/`, `workspace/handoff/CURRENT_HANDOFF.md` | Theme Check warning summary | 2026-04-24 Asia/Jerusalem |
 ```
 
 ## Proposed NEXT_ACTION
 
 Verified:
 
-- Single next execution-ready unit: `UNIT-184`.
+- Single next execution-ready unit: `UNIT-185`.
 - Title: Repair invalid multiline Liquid render syntax.
 - Execution class: bounded runtime syntax repair.
 - Allowed project files: `project/sections/*.liquid`.
@@ -229,7 +229,7 @@ Acceptance criteria:
 
 ## Verification Expectations
 
-Minimum checks for `UNIT-184`:
+Minimum checks for `UNIT-185`:
 
 ```powershell
 git status --short
@@ -262,8 +262,8 @@ Verified:
 
 Inference:
 
-- `UNIT-184` can proceed without product-owner input because it repairs invalid syntax and does not make product composition decisions.
-- `UNIT-187` may require owner input if Hebrew runtime parity is a product requirement for this release gate.
+- `UNIT-185` can proceed without product-owner input because it repairs invalid syntax and does not make product composition decisions.
+- `UNIT-188` may require owner input if Hebrew runtime parity is a product requirement for this release gate.
 
 ## Rollback Considerations
 
@@ -298,4 +298,4 @@ Unknown:
 
 READY
 
-Next handoff: `$project-build` for `UNIT-184` only.
+Next handoff: `$project-build` for `UNIT-185` only.

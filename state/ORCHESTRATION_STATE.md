@@ -8,13 +8,14 @@
 
 ## Current Phase
 
-- `Verified`: Active roadmap phase: Phase 4 preset runtime composition hard block
-- `Verified`: Last completed phase slice: Phase 4 preset assignment decision package (`UNIT-183`)
+- `Verified`: Active roadmap phase: Shopify upload repair lane
+- `Verified`: Last completed phase slice: Liquid render syntax repair (`UNIT-185`)
+- `Verified`: Preset runtime composition remains a separate hard block (`UNIT-184`).
 
 ## Approval State
 
 - `Verified`: Current next action approval: APPROVED
-- `Verified`: Approval basis: `UNIT-183` documented assignment decisions and admits only `UNIT-184` as a blocked owner-input unit before runtime preset composition.
+- `Verified`: Approval basis: owner instructed execution of `workspace/plans/shopify-upload-error-resolution-v1/PLAN.v1.md`; `UNIT-185` repaired the Liquid syntax blocker and now admits `UNIT-186` for the schema blank-default blocker.
 
 ## Lock State
 

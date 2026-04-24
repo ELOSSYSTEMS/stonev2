@@ -24,31 +24,13 @@
     if stone_first_product_handle != blank and stone_second_product_handle != blank and stone_third_product_handle != blank and stone_first_product != blank and stone_second_product != blank and stone_third_product != blank
       echo '<div class="stone-curated-product-trio__grid">'
       echo '<div class="stone-curated-product-trio__item stone-curated-product-trio__item--first">'
-      render 'stone-product-card',
-        product: stone_first_product,
-        show_vendor: section.settings.show_vendor,
-        show_price: section.settings.show_price,
-        show_excerpt: true,
-        surface_style: stone_surface_style,
-        card_emphasis: 'curated'
+      render 'stone-product-card', product: stone_first_product, show_vendor: section.settings.show_vendor, show_price: section.settings.show_price, show_excerpt: true, surface_style: stone_surface_style, card_emphasis: 'curated'
       echo '</div>'
       echo '<div class="stone-curated-product-trio__item stone-curated-product-trio__item--second">'
-      render 'stone-product-card',
-        product: stone_second_product,
-        show_vendor: section.settings.show_vendor,
-        show_price: section.settings.show_price,
-        show_excerpt: true,
-        surface_style: stone_surface_style,
-        card_emphasis: 'curated'
+      render 'stone-product-card', product: stone_second_product, show_vendor: section.settings.show_vendor, show_price: section.settings.show_price, show_excerpt: true, surface_style: stone_surface_style, card_emphasis: 'curated'
       echo '</div>'
       echo '<div class="stone-curated-product-trio__item stone-curated-product-trio__item--third">'
-      render 'stone-product-card',
-        product: stone_third_product,
-        show_vendor: section.settings.show_vendor,
-        show_price: section.settings.show_price,
-        show_excerpt: true,
-        surface_style: stone_surface_style,
-        card_emphasis: 'curated'
+      render 'stone-product-card', product: stone_third_product, show_vendor: section.settings.show_vendor, show_price: section.settings.show_price, show_excerpt: true, surface_style: stone_surface_style, card_emphasis: 'curated'
       echo '</div>'
       echo '</div>'
     else
@@ -60,13 +42,7 @@
     echo '</div>'
   endcapture
 
-  render 'stone-section-shell',
-    section: section,
-    heading: stone_heading,
-    content: stone_section_content,
-    width: section.settings.width_mode,
-    spacing: section.settings.spacing_mode,
-    shell_class: 'stone-curated-product-trio-shell'
+  render 'stone-section-shell', section: section, heading: stone_heading, content: stone_section_content, width: section.settings.width_mode, spacing: section.settings.spacing_mode, shell_class: 'stone-curated-product-trio-shell'
 -%}
 
 {% schema %}

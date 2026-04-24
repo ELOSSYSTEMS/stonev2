@@ -13,7 +13,7 @@ Verified:
 
 Verified:
 
-- Next execution-ready unit: `UNIT-184`.
+- Next execution-ready unit: `UNIT-185`.
 - Title: Repair invalid multiline Liquid render syntax.
 - Allowed project files: `project/sections/*.liquid`.
 - Required first proof: no invalid `stone-section-shell` or `stone-product-card` multiline render continuation remains inside `{% liquid %}` block syntax.
@@ -30,6 +30,6 @@ Verified:
 
 ## Resume Instruction
 
-Use `$project-build` for `UNIT-184` only.
+Use `$project-build` for `UNIT-185` only.
 
 Stop after the Liquid syntax repair is verified and committed.

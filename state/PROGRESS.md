@@ -2,25 +2,27 @@
 
 ## Current Phase
 
-- `Verified`: Roadmap phase: preset runtime composition is blocked after preset assignment decision package.
+- `Verified`: Roadmap phase: Shopify upload repair lane active after `Stonev2` unpublished theme upload failed with Liquid/schema errors.
+- `Verified`: Preset runtime composition remains blocked separately by `UNIT-184`.
 
 ## Approved Next Action
 
-- `Verified`: No next unit is approved.
+- `Verified`: `UNIT-186` is approved to repair only the `stone_brand_name` blank default in `project/config/settings_schema.json`.
 
 ## Last Completed Unit
 
-- `Verified`: Unit ID: `UNIT-183`
-- `Verified`: Summary: authored the docs-only preset assignment decision package and recorded the runtime hard block.
+- `Verified`: Unit ID: `UNIT-185`
+- `Verified`: Summary: repaired invalid multiline Liquid render syntax in section files by keeping render arguments on one Liquid statement.
 
 ## Verification Status
 
-- `Verified`: Verdict: `UNIT-183` PASS with runtime hard block
-- `Verified`: Evidence: `workspace/plans/phase-4-preset-assignment-decision-v1/PLAN.v1.md`; `git diff --name-only -- project`; required harness checks
+- `Verified`: Verdict: `UNIT-185` PASS with remaining non-scope Theme Check translation errors.
+- `Verified`: Evidence: `workspace/verify/unit-185/theme-check-summary.txt`; `workspace/verify/unit-185/invalid-liquid-block-render-continuation-scan.txt`; required harness checks.
 
 ## Active Blockers
 
-- `Verified`: Runtime edits are blocked.
+- `Verified`: Runtime preset composition edits are blocked.
+- `Verified`: Shopify upload repair still has known follow-up blockers: blank settings schema default and missing runtime locale coverage.
 - `Verified`: Exact template JSON mutation policy is missing.
 - `Verified`: Exact per-preset section order and section settings are missing.
 - `Verified`: Starter content defaults are missing.
@@ -36,4 +38,5 @@
 
 ## Resume Notes
 
-- `Verified`: Stop autonomous execution until owner inputs are supplied or the hard block is explicitly overridden.
+- `Verified`: Continue with `UNIT-186` only unless a hard block appears.
+- `Verified`: Do not resume preset runtime composition until owner inputs are supplied or the hard block is explicitly overridden.

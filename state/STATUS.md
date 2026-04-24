@@ -5,7 +5,7 @@
 - `Verified`: Repo state: harness foundation populated
 - `Verified`: Storefront runtime state: bounded section-family runtime slices exist and canonical homepage, shell/navigation, collection, PDP, blog, article, and search host proofs are verified or pending no further host implementation.
 - `Verified`: Architecture authority: the five documents under `docs/architecture/`
-- `Verified`: Current decision package: `workspace/plans/phase-4-collection-filter-runtime-boundary-v1/`
+- `Verified`: Current decision package: `workspace/plans/shopify-upload-error-resolution-v1/`
 
 ## Canonical Inputs
 
@@ -23,6 +23,8 @@
 - `Verified`: `workspace/plans/phase-4-pdp-capability-runtime-boundary-v1/PLAN.v1.md`
 - `Verified`: `workspace/plans/phase-4-collection-filter-capability-boundary-v1/PLAN.v1.md`
 - `Verified`: `workspace/plans/phase-4-collection-filter-runtime-boundary-v1/PLAN.v1.md`
+- `Verified`: `workspace/audits/shopify-theme-upload-errors-2026-04-24.md`
+- `Verified`: `workspace/plans/shopify-upload-error-resolution-v1/PLAN.v1.md`
 
 ## Constraints
 
@@ -56,11 +58,14 @@
 - `Verified`: `UNIT-181` passed by verifying the exact four-file collection filter runtime proof.
 - `Verified`: `UNIT-182` passed by authoring the docs-only preset capability composition boundary.
 - `Verified`: `UNIT-183` passed by authoring the docs-only preset assignment decision package and recording the runtime hard block.
+- `Verified`: `UNIT-184` remains the blocked preset-composition owner-input unit.
+- `Verified`: `UNIT-185` passed by repairing invalid multiline Liquid render syntax in section files and recording verification receipts under `workspace/verify/unit-185/`.
 
 ## Risks And Blocks
 
-- `Verified`: Runtime edits are blocked.
-- `Verified`: No further unit is approved.
+- `Verified`: Preset runtime composition edits are blocked.
+- `Verified`: `UNIT-186` is approved only for the settings schema blank-default upload blocker.
+- `Verified`: Shopify upload repair still requires schema-default repair and runtime locale coverage before remote proof.
 - `Verified`: Exact starter content payloads remain intentionally deferred.
 - `Verified`: Exact per-preset host assignment rules remain intentionally deferred until section/block capability stabilization.
 - `Verified`: Exact template JSON mutation policy is missing.

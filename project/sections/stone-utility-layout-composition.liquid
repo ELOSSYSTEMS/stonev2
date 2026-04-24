@@ -115,13 +115,7 @@
     endif
   endcapture
 
-  render 'stone-section-shell',
-    section: section,
-    heading: stone_heading,
-    content: stone_section_content,
-    width: section.settings.width_mode,
-    spacing: section.settings.spacing_mode,
-    shell_class: 'stone-utility-layout-composition'
+  render 'stone-section-shell', section: section, heading: stone_heading, content: stone_section_content, width: section.settings.width_mode, spacing: section.settings.spacing_mode, shell_class: 'stone-utility-layout-composition'
 -%}
 
 {% schema %}

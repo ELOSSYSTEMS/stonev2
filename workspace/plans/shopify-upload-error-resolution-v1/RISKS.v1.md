@@ -18,6 +18,6 @@ Mitigations:
 
 1. Split Liquid, schema, locale, remote push, and warning cleanup into separate units.
 2. Commit after each completed unit.
-3. Keep `UNIT-184` limited to `project/sections/*.liquid`.
+3. Keep `UNIT-185` limited to `project/sections/*.liquid`.
 4. Do not publish the theme during repair.
 5. Re-run Shopify CLI validation after every blocker family is repaired.

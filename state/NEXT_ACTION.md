@@ -3,29 +3,29 @@
 ## Status
 
 - `Verified`: Approval State: APPROVED
-- `Verified`: Execution Class: blocked owner-input unit
+- `Verified`: Execution Class: bounded Shopify upload repair
 - `Verified`: Priority: high
 
 ## Approved Unit
 
-- `Verified`: `UNIT-183` passed by authoring the preset assignment decision package, and now admits only `UNIT-184` as a blocked owner-input unit; no runtime work is approved.
+- `Verified`: `UNIT-186` is approved as the next bounded upload-repair unit: repair the Shopify-rejected blank default for `stone_brand_name`.
 
 ## Objective
 
-- `Verified`: Stop autonomous work until owner inputs are supplied or the hard block is explicitly overridden.
-- `Verified`: Missing inputs are exact template mutation policy, exact per-preset PDP and collection section order/settings, starter content defaults, collection filter defaults, and global preset selector runtime behavior.
+- `Verified`: Fix only the `settings_schema.json` blank-default blocker recorded in `workspace/audits/shopify-theme-upload-errors-2026-04-24.md`.
+- `Verified`: Preserve the separate preset-composition hard block from `UNIT-184`.
+- `Verified`: Do not repair runtime locale coverage, push to Shopify, or clean Theme Check warnings in this unit.
 
 ## Plan Reference
 
-- `Path:` `workspace/handoff/CURRENT_HANDOFF.md`
+- `Path:` `workspace/plans/shopify-upload-error-resolution-v1/PLAN.v1.md`
 
 ## Allowed Files Or Surfaces
 
-- `workspace/plans/phase-4-collection-filter-runtime-boundary-v1/`
-- `workspace/plans/phase-4-preset-capability-composition-boundary-v1/`
-- `workspace/plans/phase-4-preset-assignment-decision-v1/`
+- `project/config/settings_schema.json`
 - `state/`
 - `workspace/handoff/CURRENT_HANDOFF.md`
+- `workspace/verify/unit-186/`
 
 ## Required Checks
 
@@ -39,4 +39,4 @@
 
 ## Stop Condition
 
-Fail closed unless the owner supplies the missing runtime composition inputs or explicitly overrides this hard block.
+Stop if the schema repair requires broader settings architecture changes, locale edits, Shopify push, or preset-composition decisions.

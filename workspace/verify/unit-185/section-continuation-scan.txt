@@ -1,0 +1,5 @@
+C:\ELoS\projects\stonev2\project\sections\stone-main-article.liquid:43:section: section,
+C:\ELoS\projects\stonev2\project\sections\stone-main-blog.liquid:78:section: section,
+C:\ELoS\projects\stonev2\project\sections\stone-main-collection.liquid:242:section: section,
+C:\ELoS\projects\stonev2\project\sections\stone-main-product.liquid:103:section: section,
+C:\ELoS\projects\stonev2\project\sections\stone-main-search.liquid:83:section: section,
