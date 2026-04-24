@@ -5967,3 +5967,30 @@
   - required harness checks
 - Result: PASS
 - Follow-up: execute `UNIT-SA-017` only as docs-only boundary authoring; do not add cart drawer runtime, predictive search, search JavaScript, modal stack, overlay group, theme blocks, templates, snippets, config, runtime locales, presets, or Shopify remote mutation
+
+### Session Entry
+
+- Timestamp: 2026-04-25 01:31 Asia/Jerusalem
+- Skill or Mode: `Default`
+- Summary: executed docs-only `UNIT-SA-017`, authored the Phase 3B post-search-drawer boundary, reviewed current cart surface evidence, selected non-mutating cart drawer shell only as the next candidate, and kept cart mutation behavior, cart JavaScript, predictive search, modal stack, overlay group, theme blocks, templates, snippets, config, runtime locales, presets, and Shopify remote mutation blocked
+- Files changed:
+  - `workspace/plans/section-architecture-final-product-implementation-v1/UNIT-SA-017.v1.md`
+  - `state/ORCHESTRATION_STATE.md`
+  - `state/STATUS.md`
+  - `state/NEXT_ACTION.md`
+  - `state/FEATURE_STATUS.md`
+  - `state/PROGRESS.md`
+  - `state/SESSION_LOG.md`
+  - `workspace/handoff/CURRENT_HANDOFF.md`
+- Checks run:
+  - `git status --short`
+  - `git diff --name-only -- project`
+  - `node HARNESS/checks/check-state-artifacts.mjs`
+  - `node HARNESS/checks/check-next-action-scope.mjs`
+  - `node HARNESS/checks/check-plan-exists.mjs`
+  - `node HARNESS/checks/check-handoff-completeness.mjs`
+  - `node HARNESS/checks/check-approval-state.mjs`
+  - `node HARNESS/checks/check-lock-state.mjs`
+  - `node HARNESS/checks/harness-check.mjs`
+- Result: PASS
+- Follow-up: execute `UNIT-SA-018` only after explicit owner authorization and only inside the five-file cart drawer shell write set; do not add cart quantity updates, item removal, add-to-cart behavior, checkout mutation, AJAX cart, cart JavaScript, predictive search, modal stack, overlay group, theme blocks, templates, snippets, config, runtime locales, presets, or Shopify remote mutation
