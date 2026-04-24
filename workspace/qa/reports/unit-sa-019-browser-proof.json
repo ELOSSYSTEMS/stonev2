@@ -1,0 +1,342 @@
+{
+  "unit": "UNIT-SA-019",
+  "target": {
+    "store": "elos-dev.myshopify.com",
+    "themeName": "Stonev2",
+    "themeId": "156487712965",
+    "localUrl": "http://127.0.0.1:9292"
+  },
+  "startedAt": "2026-04-24T23:18:46.547Z",
+  "assertions": [
+    {
+      "name": "mobile home status 200",
+      "pass": true,
+      "details": {
+        "status": 200,
+        "url": "http://127.0.0.1:9292/"
+      }
+    },
+    {
+      "name": "mobile home: one global header",
+      "pass": true,
+      "details": {
+        "headerCount": 1
+      }
+    },
+    {
+      "name": "mobile home: one global footer",
+      "pass": true,
+      "details": {
+        "footerCount": 1
+      }
+    },
+    {
+      "name": "mobile: cart trigger controls drawer",
+      "pass": true,
+      "details": {
+        "controls": "StoneCartDrawer-sections--21545052143813__stone_header_main"
+      }
+    },
+    {
+      "name": "mobile: cart drawer initially closed",
+      "pass": true,
+      "details": {
+        "state": "closed",
+        "hidden": true
+      }
+    },
+    {
+      "name": "mobile: cart route fallback link exists",
+      "pass": true,
+      "details": {
+        "href": "/cart"
+      }
+    },
+    {
+      "name": "mobile: cart drawer has no mutation form",
+      "pass": true,
+      "details": {
+        "formCount": 0
+      }
+    },
+    {
+      "name": "mobile: cart drawer has no quantity inputs",
+      "pass": true,
+      "details": {
+        "count": 0
+      }
+    },
+    {
+      "name": "mobile: cart drawer has no removal controls",
+      "pass": true,
+      "details": {
+        "count": 0
+      }
+    },
+    {
+      "name": "mobile: cart drawer opens",
+      "pass": true,
+      "details": {
+        "state": "open"
+      }
+    },
+    {
+      "name": "mobile: cart trigger aria-expanded true",
+      "pass": true,
+      "details": {
+        "ariaExpanded": "true"
+      }
+    },
+    {
+      "name": "mobile: body drawer lock set",
+      "pass": true,
+      "details": {
+        "lock": "true"
+      }
+    },
+    {
+      "name": "mobile: focus moved inside cart drawer",
+      "pass": true,
+      "details": {
+        "activeTag": "BUTTON",
+        "activeClass": "stone-cart-drawer__overlay"
+      }
+    },
+    {
+      "name": "mobile: view cart route link exists in drawer",
+      "pass": true,
+      "details": {
+        "href": "/cart"
+      }
+    },
+    {
+      "name": "mobile: close control closes cart drawer",
+      "pass": true,
+      "details": {
+        "state": "closed",
+        "hidden": true,
+        "lock": null,
+        "ariaExpanded": "false"
+      }
+    },
+    {
+      "name": "mobile: Shift+Tab focus wraps within cart drawer",
+      "pass": true,
+      "details": {
+        "possible": true,
+        "firstClass": "stone-cart-drawer__overlay",
+        "lastClass": "stone-cart-drawer__view-cart",
+        "count": 3
+      }
+    },
+    {
+      "name": "mobile: Escape closes cart drawer",
+      "pass": true,
+      "details": {
+        "state": "closed",
+        "hidden": true
+      }
+    },
+    {
+      "name": "mobile: Escape clears body lock",
+      "pass": true,
+      "details": {
+        "lock": null
+      }
+    },
+    {
+      "name": "mobile: Escape returns focus to trigger",
+      "pass": true,
+      "details": {
+        "activeClass": "stone-global-header__utility-link stone-global-header__cart-trigger"
+      }
+    },
+    {
+      "name": "desktop home status 200",
+      "pass": true,
+      "details": {
+        "status": 200,
+        "url": "http://127.0.0.1:9292/"
+      }
+    },
+    {
+      "name": "desktop home: one global header",
+      "pass": true,
+      "details": {
+        "headerCount": 1
+      }
+    },
+    {
+      "name": "desktop home: one global footer",
+      "pass": true,
+      "details": {
+        "footerCount": 1
+      }
+    },
+    {
+      "name": "desktop: cart trigger visible",
+      "pass": true,
+      "details": {}
+    },
+    {
+      "name": "desktop: cart route fallback present",
+      "pass": true,
+      "details": {}
+    },
+    {
+      "name": "desktop: nav visible",
+      "pass": true,
+      "details": {}
+    },
+    {
+      "name": "rtl /he status 200",
+      "pass": true,
+      "details": {
+        "status": 200,
+        "url": "http://127.0.0.1:9292/he"
+      }
+    },
+    {
+      "name": "rtl /he document lang he",
+      "pass": true,
+      "details": {
+        "lang": "he"
+      }
+    },
+    {
+      "name": "rtl /he document dir rtl",
+      "pass": true,
+      "details": {
+        "dir": "rtl"
+      }
+    },
+    {
+      "name": "rtl mobile home: one global header",
+      "pass": true,
+      "details": {
+        "headerCount": 1
+      }
+    },
+    {
+      "name": "rtl mobile home: one global footer",
+      "pass": true,
+      "details": {
+        "footerCount": 1
+      }
+    },
+    {
+      "name": "rtl mobile: cart trigger controls drawer",
+      "pass": true,
+      "details": {
+        "controls": "StoneCartDrawer-sections--21545052143813__stone_header_main"
+      }
+    },
+    {
+      "name": "rtl mobile: cart drawer initially closed",
+      "pass": true,
+      "details": {
+        "state": "closed",
+        "hidden": true
+      }
+    },
+    {
+      "name": "rtl mobile: cart route fallback link exists",
+      "pass": true,
+      "details": {
+        "href": "/he/cart"
+      }
+    },
+    {
+      "name": "rtl mobile: cart drawer has no mutation form",
+      "pass": true,
+      "details": {
+        "formCount": 0
+      }
+    },
+    {
+      "name": "rtl mobile: cart drawer has no quantity inputs",
+      "pass": true,
+      "details": {
+        "count": 0
+      }
+    },
+    {
+      "name": "rtl mobile: cart drawer has no removal controls",
+      "pass": true,
+      "details": {
+        "count": 0
+      }
+    },
+    {
+      "name": "rtl mobile: cart drawer opens",
+      "pass": true,
+      "details": {
+        "state": "open"
+      }
+    },
+    {
+      "name": "rtl mobile: cart trigger aria-expanded true",
+      "pass": true,
+      "details": {
+        "ariaExpanded": "true"
+      }
+    },
+    {
+      "name": "rtl mobile: body drawer lock set",
+      "pass": true,
+      "details": {
+        "lock": "true"
+      }
+    },
+    {
+      "name": "rtl mobile: focus moved inside cart drawer",
+      "pass": true,
+      "details": {
+        "activeTag": "BUTTON",
+        "activeClass": "stone-cart-drawer__overlay"
+      }
+    },
+    {
+      "name": "rtl mobile: view cart route link exists in drawer",
+      "pass": true,
+      "details": {
+        "href": "/he/cart"
+      }
+    },
+    {
+      "name": "rtl mobile: cart drawer panel aligned to logical start side",
+      "pass": true,
+      "details": {
+        "panelBox": {
+          "x": 46.8125,
+          "y": 0,
+          "width": 343.1875,
+          "height": 844
+        },
+        "viewport": {
+          "width": 390,
+          "height": 844
+        },
+        "note": "In RTL, CSS justify-items:start maps logical start to the physical right edge."
+      }
+    }
+  ],
+  "observations": [
+    {
+      "name": "cart route direct status",
+      "details": {
+        "status": 404,
+        "url": "http://127.0.0.1:9292/cart",
+        "note": "Recorded as inherited route-template gap; UNIT-SA-019 verifies fallback link preservation only because templates are outside allowed surfaces."
+      }
+    }
+  ],
+  "screenshots": {
+    "mobileOpen": "workspace\\qa\\reports\\unit-sa-019-mobile-open.png",
+    "cartRoute": "workspace\\qa\\reports\\unit-sa-019-cart-route-404.png",
+    "desktop": "workspace\\qa\\reports\\unit-sa-019-desktop.png",
+    "rtlMobileOpen": "workspace\\qa\\reports\\unit-sa-019-rtl-mobile-open.png"
+  },
+  "finishedAt": "2026-04-24T23:19:18.590Z",
+  "pass": true
+}

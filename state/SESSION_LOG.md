@@ -6024,3 +6024,36 @@
   - required harness checks
 - Result: PASS
 - Follow-up: execute `UNIT-SA-019` only after explicit store and preview target authorization; do not add cart mutation behavior, cart JavaScript, predictive search, modal stack, overlay group, theme blocks, templates, snippets, config, runtime locales, presets, Shopify push/publish, or broader runtime mutation
+
+### Session Entry
+
+- Timestamp: 2026-04-25 02:20 Asia/Jerusalem
+- Skill or Mode: `Default`
+- Summary: executed authorized `UNIT-SA-019`, verified `Stonev2` is unpublished theme id `156487712965`, ran local `theme dev` with `--nodelete`, proved the cart drawer shell behavior across mobile LTR, desktop, and mobile RTL, recorded direct `/cart` status `404` as an inherited route-host gap, then stopped the preview processes
+- Files changed:
+  - `workspace/qa/reports/unit-sa-019-cart-drawer-preview-report.md`
+  - `workspace/qa/reports/unit-sa-019-browser-proof.json`
+  - `workspace/qa/reports/unit-sa-019-mobile-open.png`
+  - `workspace/qa/reports/unit-sa-019-cart-route-404.png`
+  - `workspace/qa/reports/unit-sa-019-desktop.png`
+  - `workspace/qa/reports/unit-sa-019-rtl-mobile-open.png`
+  - `workspace/qa/reports/unit-sa-019-theme-dev.err.log`
+  - `workspace/qa/reports/unit-sa-019-theme-dev.out.log`
+  - `workspace/qa/reports/unit-sa-019-theme-dev.pid`
+  - `state/ORCHESTRATION_STATE.md`
+  - `state/STATUS.md`
+  - `state/NEXT_ACTION.md`
+  - `state/FEATURE_STATUS.md`
+  - `state/PROGRESS.md`
+  - `state/SESSION_LOG.md`
+  - `workspace/handoff/CURRENT_HANDOFF.md`
+- Checks run:
+  - `shopify theme list --store elos-dev.myshopify.com --no-color`
+  - `shopify theme dev --path project --store elos-dev.myshopify.com --theme 156487712965 --port 9292 --live-reload off --nodelete --no-color`
+  - automated Playwright browser proof for mobile LTR, desktop, direct cart route observation, and mobile RTL
+  - `shopify theme check --path project --no-color`
+  - `git diff --name-only -- project`
+  - `git ls-files --others --exclude-standard -- project`
+  - required harness checks
+- Result: PASS for cart drawer shell browser behavior proof; direct `/cart` route host gap recorded
+- Follow-up: execute `UNIT-SA-020` only as docs-only cart route host boundary; do not add cart route template runtime, cart mutation behavior, cart JavaScript, predictive search, modal stack, overlay group, theme blocks, snippets, config, runtime locales, presets, Shopify push/publish, or broader runtime mutation

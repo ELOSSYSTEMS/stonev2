@@ -8,14 +8,14 @@
 
 ## Current Phase
 
-- `Verified`: Active roadmap phase: Phase 3B cart drawer browser preview proof after local cart drawer shell implementation.
-- `Verified`: Last completed phase slice: `UNIT-SA-018` cart drawer shell local implementation and static verification.
+- `Verified`: Active roadmap phase: Phase 3B cart route host boundary after cart drawer preview proof.
+- `Verified`: Last completed phase slice: `UNIT-SA-019` cart drawer shell browser behavior proof.
 - `Verified`: Preset runtime composition remains a separate hard block (`UNIT-184`).
 
 ## Approval State
 
-- `Verified`: Current next action approval: CONDITIONALLY_APPROVED
-- `Verified`: Approval basis: `UNIT-SA-018` passed local static verification; next action is `UNIT-SA-019` browser preview proof, but preview execution requires explicit store and preview target authorization.
+- `Verified`: Current next action approval: APPROVED
+- `Verified`: Approval basis: `UNIT-SA-019` passed cart drawer shell browser behavior proof and recorded direct `/cart` status `404`; next action is docs-only `UNIT-SA-020` route-host boundary authoring.
 
 ## Lock State
 
