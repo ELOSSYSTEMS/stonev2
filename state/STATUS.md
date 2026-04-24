@@ -53,15 +53,16 @@
 - `Verified`: `UNIT-178` passed by admitting native Shopify filters/facets as the next shared collection capability while keeping final preset assignment, JavaScript filtering, predictive search, product-card edits, recommendations, cart/checkout behavior, and hardening blocked.
 - `Verified`: `UNIT-179` passed by stating the exact four-file future runtime boundary for native no-JS collection filters/facets.
 - `Verified`: `UNIT-180` passed by implementing the exact four-file no-JS collection filter runtime proof.
-- `Verified`: `UNIT-181` is approved only as verification/frontier review of the exact collection filter proof.
+- `Verified`: `UNIT-181` passed by verifying the exact four-file collection filter runtime proof.
+- `Verified`: `UNIT-182` is approved only as docs-only preset capability composition boundary authoring.
 
 ## Risks And Blocks
 
-- `Verified`: Runtime edits are blocked for `UNIT-181`.
+- `Verified`: Runtime edits are blocked for `UNIT-182`.
 - `Verified`: Exact starter content payloads remain intentionally deferred.
 - `Verified`: Exact per-preset host assignment rules remain intentionally deferred until section/block capability stabilization.
 - `Verified`: Exact template JSON mutation policy is missing.
 - `Verified`: Exact hardening entry criteria after partial preset realization are missing.
 - `Verified`: No per-preset architecture sprawl is approved.
 - `Verified`: No predictive-search, cart, or hardening lane is approved.
-- `Inference`: The next honest step is verification/frontier review for native collection filters before any preset-specific collection composition.
+- `Inference`: The next honest step is a docs-only boundary that maps stabilized shared capabilities back to later preset composition without implementing per-preset templates.

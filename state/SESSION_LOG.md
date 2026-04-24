@@ -5366,3 +5366,33 @@
   - `node HARNESS/checks/harness-check.mjs`
 - Result: PASS
 - Follow-up: execute `UNIT-181` only as verification/frontier review of the exact collection filter runtime proof and commit before moving on
+### Session Entry
+
+- Timestamp: 2026-04-24 10:41 Asia/Jerusalem
+- Skill or Mode: `project-verify`
+- Summary: executed `UNIT-181`, verified the exact four-file no-JS collection filter runtime proof, confirmed locale JSON validity, section schema validity, collection locale parity, exact project-file scope, and no template, snippet, JavaScript, or product-card drift
+- Files changed:
+  - `state/ORCHESTRATION_STATE.md`
+  - `state/STATUS.md`
+  - `state/NEXT_ACTION.md`
+  - `state/FEATURE_STATUS.md`
+  - `state/PROGRESS.md`
+  - `state/SESSION_LOG.md`
+  - `workspace/handoff/CURRENT_HANDOFF.md`
+- Checks run:
+  - `git show --name-only --format=fuller HEAD`
+  - `git diff --name-only HEAD^ HEAD -- project`
+  - `git diff --name-only HEAD^ HEAD -- project/templates project/snippets project/assets/stone-runtime.js project/snippets/stone-product-card.liquid`
+  - locale JSON parsing
+  - section schema parsing for `stone-main-collection`
+  - collection locale parity
+  - filter implementation evidence search
+  - `node HARNESS/checks/check-state-artifacts.mjs`
+  - `node HARNESS/checks/check-next-action-scope.mjs`
+  - `node HARNESS/checks/check-plan-exists.mjs`
+  - `node HARNESS/checks/check-handoff-completeness.mjs`
+  - `node HARNESS/checks/check-approval-state.mjs`
+  - `node HARNESS/checks/check-lock-state.mjs`
+  - `node HARNESS/checks/harness-check.mjs`
+- Result: PASS
+- Follow-up: execute `UNIT-182` only as docs-only preset capability composition boundary authoring and commit before moving on
