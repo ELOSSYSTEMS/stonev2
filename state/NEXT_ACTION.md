@@ -3,18 +3,18 @@
 ## Status
 
 - `Verified`: Approval State: APPROVED
-- `Verified`: Execution Class: docs-only PDP capability boundary
+- `Verified`: Execution Class: docs-only PDP capability runtime boundary
 - `Verified`: Priority: high
 
 ## Approved Unit
 
-- `Verified`: `UNIT-173` passed by authoring the section/block stabilization frontier, and now admits only `UNIT-174` as docs-only PDP capability boundary authoring.
+- `Verified`: `UNIT-174` passed by authoring the PDP capability boundary, and now admits only `UNIT-175` as docs-only PDP capability runtime-boundary authoring.
 
 ## Objective
 
-- `Verified`: Decide the shared PDP capability model before any preset-specific PDP composition.
-- `Verified`: Decide whether apparel size chart and electronics spec sheet require dedicated shared sections, reuse existing utility/trust sections, or remain blocked.
-- `Verified`: Define which PDP capabilities are common, preset-selective, or blocked.
+- `Verified`: State an exact future runtime file boundary for shared PDP size chart and spec sheet sections or stop in a governed block.
+- `Verified`: Define exact section files, template behavior, locale keys, CSS scope, and protected-surface checks before implementation.
+- `Verified`: Keep final preset assignment, collection filters, cart/checkout behavior, recommendations, and hardening out of scope.
 - `Verified`: Keep runtime edits blocked from this docs-only unit.
 
 ## Plan Reference
@@ -25,6 +25,7 @@
 
 - `workspace/plans/phase-4-section-block-stabilization-frontier-v1/`
 - `workspace/plans/phase-4-pdp-capability-boundary-v1/`
+- `workspace/plans/phase-4-pdp-capability-runtime-boundary-v1/`
 - `state/`
 - `workspace/handoff/CURRENT_HANDOFF.md`
 
@@ -40,4 +41,4 @@
 
 ## Stop Condition
 
-Fail closed if `UNIT-174` attempts runtime edits, assigns final preset content, builds size chart/spec sheet UI directly, creates per-preset architecture, reopens cart/checkout/billing-sensitive behavior, or jumps to collection filters before the PDP capability boundary is complete.
+Fail closed if `UNIT-175` attempts runtime edits, assigns final preset content, builds size chart/spec sheet UI directly, creates per-preset architecture, reopens cart/checkout/billing-sensitive behavior, opens recommendations, or jumps to collection filters before the PDP capability runtime boundary is complete.

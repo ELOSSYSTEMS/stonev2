@@ -8,13 +8,13 @@
 
 ## Current Phase
 
-- `Verified`: Active roadmap phase: Phase 4 PDP capability boundary
-- `Verified`: Last completed phase slice: Phase 4 section/block stabilization frontier (`UNIT-173`)
+- `Verified`: Active roadmap phase: Phase 4 PDP capability runtime boundary
+- `Verified`: Last completed phase slice: Phase 4 PDP capability boundary (`UNIT-174`)
 
 ## Approval State
 
 - `Verified`: Current next action approval: APPROVED
-- `Verified`: Approval basis: `UNIT-173` inventoried the existing section/block surface, identified PDP and collection/filter capability gaps, and recommended docs-only PDP capability boundary authoring before collection/filter or preset-composition work.
+- `Verified`: Approval basis: `UNIT-174` admitted size chart and spec sheet as shared optional PDP capabilities and routed only to a docs-only runtime-boundary package before implementation.
 
 ## Lock State
 

@@ -2,21 +2,21 @@
 
 ## Current Phase
 
-- `Verified`: Roadmap phase: PDP capability boundary is approved after section/block stabilization frontier.
+- `Verified`: Roadmap phase: PDP capability runtime-boundary authoring is approved after PDP capability boundary.
 
 ## Approved Next Action
 
-- `Verified`: `UNIT-174` is explicitly approved as docs-only PDP capability boundary authoring because `UNIT-173` passed.
+- `Verified`: `UNIT-175` is explicitly approved as docs-only PDP capability runtime-boundary authoring because `UNIT-174` passed.
 
 ## Last Completed Unit
 
-- `Verified`: Unit ID: `UNIT-173`
-- `Verified`: Summary: authored the docs-only section/block stabilization frontier, inventoried existing sections, snippets, templates, PDP capabilities, and collection capabilities, and routed only to docs-only PDP capability boundary authoring.
+- `Verified`: Unit ID: `UNIT-174`
+- `Verified`: Summary: authored the docs-only PDP capability boundary, admitted size chart and spec sheet as shared optional PDP capabilities, and routed only to docs-only runtime-boundary authoring.
 
 ## Verification Status
 
-- `Verified`: Verdict: `UNIT-173` PASS
-- `Verified`: Evidence: `workspace/plans/phase-4-section-block-stabilization-frontier-v1/PLAN.v1.md`; `git diff --name-only -- project`; required harness checks
+- `Verified`: Verdict: `UNIT-174` PASS
+- `Verified`: Evidence: `workspace/plans/phase-4-pdp-capability-boundary-v1/PLAN.v1.md`; `git diff --name-only -- project`; required harness checks
 
 ## Active Blockers
 
@@ -31,4 +31,4 @@
 
 ## Resume Notes
 
-- `Verified`: Execute `UNIT-174` as docs-only PDP capability boundary authoring.
+- `Verified`: Execute `UNIT-175` as docs-only PDP capability runtime-boundary authoring.
