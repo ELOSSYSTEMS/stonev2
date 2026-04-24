@@ -5637,3 +5637,103 @@
   - required harness checks
 - Result: PASS; Shopify returned unpublished theme id `156487712965` with no errors and preview HEAD status 200
 - Follow-up: stop upload-repair work; `UNIT-184` preset-composition hard block remains active pending owner inputs
+
+### Session Entry
+
+- Timestamp: 2026-04-24 22:34 Asia/Jerusalem
+- Skill or Mode: `Default`
+- Summary: executed docs-only `UNIT-SA-006`, authored the Phase 3B Global Behavior Boundary Plan, synchronized state and handoff to route only to conditionally approved `UNIT-SA-007` mobile navigation drawer shell/behavior, and preserved runtime blocks for cart drawer, search drawer, predictive search, modal stack, overlay group, theme blocks, templates, snippets, config, presets, and Shopify remote mutation
+- Files changed:
+  - `workspace/plans/section-architecture-final-product-implementation-v1/UNIT-SA-006.v1.md`
+  - `state/ORCHESTRATION_STATE.md`
+  - `state/STATUS.md`
+  - `state/NEXT_ACTION.md`
+  - `state/FEATURE_STATUS.md`
+  - `state/PROGRESS.md`
+  - `state/SESSION_LOG.md`
+  - `workspace/handoff/CURRENT_HANDOFF.md`
+- Checks run:
+  - `git status --short`
+  - `git status --short -- project`
+  - `git diff --name-only -- project`
+  - `git ls-files --others --exclude-standard -- project`
+  - `node HARNESS/checks/check-state-artifacts.mjs`
+  - `node HARNESS/checks/check-next-action-scope.mjs`
+  - `node HARNESS/checks/check-plan-exists.mjs`
+  - `node HARNESS/checks/check-handoff-completeness.mjs`
+  - `node HARNESS/checks/check-approval-state.mjs`
+  - `node HARNESS/checks/check-lock-state.mjs`
+  - `node HARNESS/checks/harness-check.mjs`
+- Result: PASS for docs-only planning; runtime remains unexecuted
+- Follow-up: execute `UNIT-SA-007` only if the owner explicitly authorizes that exact unit and keep the write set to the six files listed in `UNIT-SA-006`
+
+### Session Entry
+
+- Timestamp: 2026-04-24 22:41 Asia/Jerusalem
+- Skill or Mode: `Default`
+- Summary: executed authorized `UNIT-SA-007`, implemented the mobile navigation drawer shell and behavior inside the exact six-file runtime boundary, added a local QA report, and synchronized state for verification-only `UNIT-SA-008`
+- Files changed:
+  - `project/sections/stone-mobile-navigation-drawer.liquid`
+  - `project/sections/stone-header-main.liquid`
+  - `project/assets/stone-drawer.js`
+  - `project/assets/stone-base.css`
+  - `project/locales/en.schema.json`
+  - `project/locales/he.default.schema.json`
+  - `workspace/qa/reports/unit-sa-007-mobile-drawer-report.md`
+  - `state/ORCHESTRATION_STATE.md`
+  - `state/STATUS.md`
+  - `state/NEXT_ACTION.md`
+  - `state/FEATURE_STATUS.md`
+  - `state/PROGRESS.md`
+  - `state/SESSION_LOG.md`
+  - `workspace/handoff/CURRENT_HANDOFF.md`
+- Checks run:
+  - `node --check project/assets/stone-drawer.js`
+  - locale JSON parse for schema and runtime locale files
+  - embedded section schema parse for header and mobile drawer sections
+  - `git status --short -- project`
+  - `git diff --name-only -- project`
+  - `git ls-files --others --exclude-standard -- project`
+  - forbidden-token scan for cart/search/predictive/overlay/theme-block drift
+  - `shopify theme check --path project --no-color`
+  - `node HARNESS/checks/check-state-artifacts.mjs`
+  - `node HARNESS/checks/check-next-action-scope.mjs`
+  - `node HARNESS/checks/check-plan-exists.mjs`
+  - `node HARNESS/checks/check-handoff-completeness.mjs`
+  - `node HARNESS/checks/check-approval-state.mjs`
+  - `node HARNESS/checks/check-lock-state.mjs`
+  - `node HARNESS/checks/harness-check.mjs`
+- Result: PASS for local implementation and static verification
+- Follow-up: execute `UNIT-SA-008` only as verification/frontier review; do not implement cart drawer, search drawer, predictive search, modal stack, overlay group, theme blocks, presets, or Shopify remote mutation
+
+### Session Entry
+
+- Timestamp: 2026-04-24 22:50 Asia/Jerusalem
+- Skill or Mode: `Default`
+- Summary: executed `UNIT-SA-008` as verification/frontier review of the exact mobile navigation drawer runtime proof, confirmed the six-file runtime boundary, local code/schema validity, Theme Check, code-level accessibility behavior evidence, and routed next only to conditionally approved `UNIT-SA-009` browser/preview verification
+- Files changed:
+  - `workspace/qa/reports/unit-sa-007-mobile-drawer-report.md`
+  - `state/ORCHESTRATION_STATE.md`
+  - `state/STATUS.md`
+  - `state/NEXT_ACTION.md`
+  - `state/FEATURE_STATUS.md`
+  - `state/PROGRESS.md`
+  - `state/SESSION_LOG.md`
+  - `workspace/handoff/CURRENT_HANDOFF.md`
+- Checks run:
+  - exact expected-vs-actual project write-set comparison
+  - code evidence scan for drawer attributes and accessibility behavior
+  - `node --check project/assets/stone-drawer.js`
+  - locale JSON parse for schema and runtime locale files
+  - embedded section schema parse for header and mobile drawer sections
+  - forbidden-token scan for protected behavior drift
+  - `shopify theme check --path project --no-color`
+  - `node HARNESS/checks/check-state-artifacts.mjs`
+  - `node HARNESS/checks/check-next-action-scope.mjs`
+  - `node HARNESS/checks/check-plan-exists.mjs`
+  - `node HARNESS/checks/check-handoff-completeness.mjs`
+  - `node HARNESS/checks/check-approval-state.mjs`
+  - `node HARNESS/checks/check-lock-state.mjs`
+  - `node HARNESS/checks/harness-check.mjs`
+- Result: PASS for verification/frontier review
+- Follow-up: execute `UNIT-SA-009` only after explicit store and preview target authorization; do not run `theme dev` against a live theme or with `--allow-live`

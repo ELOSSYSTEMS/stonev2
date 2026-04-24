@@ -2,29 +2,31 @@
 
 ## Status
 
-- `Verified`: Approval State: APPROVED
-- `Verified`: Execution Class: bounded Shopify upload repair
+- `Verified`: Approval State: CONDITIONALLY_APPROVED
+- `Verified`: Execution Class: browser/preview verification; explicit Shopify preview target authorization required
 - `Verified`: Priority: high
 
 ## Approved Unit
 
-- `Verified`: No further Shopify upload-repair unit is approved; `UNIT-184` remains the blocked preset-composition owner-input unit.
+- `Verified`: `UNIT-SA-009` is the next candidate unit, but only as browser/preview verification of the `UNIT-SA-007` mobile navigation drawer proof; do not run Shopify preview commands until the owner confirms store and target.
 
 ## Objective
 
-- `Verified`: Stop autonomous runtime work after successful `Stonev2` remote proof.
+- `Verified`: Preserve `UNIT-SA-008` verification/frontier review as complete.
+- `Verified`: Verify the mobile drawer in a browser preview before any broader Phase 3B behavior is considered.
+- `Verified`: Keep cart drawer, search drawer, predictive search, modal stack, overlay group, theme blocks, templates, snippets, config, preset composition, and Shopify publish operations blocked.
 - `Verified`: Preserve the separate preset-composition hard block from `UNIT-184`.
-- `Verified`: Do not publish the theme, create a fresh theme, or resume preset composition without owner inputs.
 
 ## Plan Reference
 
-- `Path:` `workspace/plans/shopify-upload-error-resolution-v1/PLAN.v1.md`
+- `Path:` `workspace/plans/section-architecture-final-product-implementation-v1/UNIT-SA-006.v1.md`
 
 ## Allowed Files Or Surfaces
 
+- `workspace/qa/reports/unit-sa-007-mobile-drawer-report.md`
+- `workspace/qa/reports/unit-sa-009-*`
 - `state/`
 - `workspace/handoff/CURRENT_HANDOFF.md`
-- `workspace/verify/unit-192/`
 
 ## Required Checks
 
@@ -38,4 +40,4 @@
 
 ## Stop Condition
 
-Stop unless the owner supplies missing runtime composition inputs or explicitly overrides the `UNIT-184` preset-composition hard block.
+Stop before `theme dev`, browser preview, Shopify remote mutation, or screenshot capture unless the owner confirms the store and preview target; stop immediately if the preview target is live, requires `--allow-live`, or would broaden into cart drawer, search drawer, predictive search, modal stack, overlay group, theme blocks, templates, snippets, config, preset composition, publish, or delete operations.

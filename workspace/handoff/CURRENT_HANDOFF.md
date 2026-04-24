@@ -30,6 +30,9 @@
 - `Verified`: `UNIT-190` repaired the Hebrew runtime locale filename by moving runtime Hebrew copy to `he.json`.
 - `Verified`: `UNIT-191` repaired the invalid prompt template URL by replacing `shopify://pages` with `/pages`.
 - `Verified`: `UNIT-192` completed remote proof against unpublished `Stonev2` theme id `156487712965` with no-delete protection.
+- `Verified`: `UNIT-SA-006` completed the docs-only Phase 3B Global Behavior Boundary Plan and selected mobile navigation drawer shell/behavior only as the first safe Phase 3B runtime candidate.
+- `Verified`: `UNIT-SA-007` implemented the mobile navigation drawer shell and behavior inside the exact six-file runtime boundary.
+- `Verified`: `UNIT-SA-008` verified the exact mobile drawer runtime proof and routed next only to browser/preview validation.
 
 ## Current State
 
@@ -68,6 +71,10 @@
 - `Verified`: `UNIT-192` confirms Shopify returned theme id `156487712965`, role `unpublished`, no remote errors, and preview HEAD status 200.
 - `Verified`: Templates, sections, snippets, JavaScript, homepage sequence mutation, host assignment mutation, predictive search, cart behavior, recommendations, companion behavior, checkout/billing-sensitive behavior, and hardening remain blocked.
 - `Verified`: `UNIT-184` is admitted only as a blocked owner-input unit; no runtime work is approved.
+- `Verified`: `UNIT-SA-006` keeps cart drawer, search drawer, predictive search, modal stack, overlay group, theme blocks, templates, snippets, config, preset composition, and Shopify remote mutation blocked for the Phase 3B first slice.
+- `Verified`: `UNIT-SA-007` was authorized by the owner and completed locally.
+- `Verified`: `UNIT-SA-009` browser/preview verification is conditionally approved, but Shopify preview commands require explicit store and preview target authorization.
+- `Verified`: Browser preview proof for the mobile drawer has not been run.
 
 ## Changed Or Seeded Files
 
@@ -145,6 +152,14 @@
 - `Verified`: `workspace/verify/unit-192/theme-push-output.json`
 - `Verified`: `workspace/verify/unit-192/remote-push-summary.txt`
 - `Verified`: `workspace/verify/unit-192/preview-head.txt`
+- `Verified`: `workspace/plans/section-architecture-final-product-implementation-v1/UNIT-SA-006.v1.md`
+- `Verified`: `project/sections/stone-mobile-navigation-drawer.liquid`
+- `Verified`: `project/sections/stone-header-main.liquid`
+- `Verified`: `project/assets/stone-drawer.js`
+- `Verified`: `project/assets/stone-base.css`
+- `Verified`: `project/locales/en.schema.json`
+- `Verified`: `project/locales/he.default.schema.json`
+- `Verified`: `workspace/qa/reports/unit-sa-007-mobile-drawer-report.md`
 - `Verified`: `project/locales/en.default.json`
 - `Verified`: `project/locales/he.json`
 - `Verified`: `project/templates/page.stone-runtime-prompt.json`
@@ -168,15 +183,23 @@
 - `Verified`: Starter content defaults are missing.
 - `Verified`: Collection filter defaults by preset are missing.
 - `Verified`: Global preset selector runtime behavior is missing.
+- `Verified`: Mobile navigation drawer runtime is implemented locally.
+- `Verified`: `UNIT-SA-008` verification is complete.
+- `Verified`: `UNIT-SA-009` browser/preview verification remains pending.
+- `Unknown`: Persisted text evidence for exact `lang="he"` and `dir="rtl"` from the RTL retry was not found; `UNIT-SA-006` records this evidence gap.
 
 ## Recommended Next Step
 
 - `Verified`: No further Shopify upload-repair unit is approved.
 - `Verified`: `UNIT-184` remains blocked pending owner runtime composition inputs.
-- `Inference`: The next productive product step requires owner runtime composition inputs, not more upload repair.
+- `Inference`: The next productive Phase 3B step is `UNIT-SA-009` browser/preview verification before any broader drawer/search/cart behavior.
 
 ## Resume Checks
 
+- `Verified`: Read `workspace/plans/section-architecture-final-product-implementation-v1/UNIT-SA-006.v1.md`.
+- `Verified`: Confirm store and preview target before any Shopify preview command.
+- `Verified`: Confirm target is not live and does not require `--allow-live`.
+- `Verified`: Run `node HARNESS/checks/harness-check.mjs`.
 - `Verified`: Read `workspace/plans/phase-4-collection-filter-runtime-boundary-v1/PLAN.v1.md` and current state files.
 - `Verified`: Read `state/NEXT_ACTION.md`.
 - `Verified`: Confirm no next unit is approved before runtime composition inputs are supplied.

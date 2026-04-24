@@ -196,6 +196,28 @@
         }
       }
     },
+    "stone_mobile_navigation_drawer": {
+      "name": "Mobile navigation drawer",
+      "empty": "Select a menu or add navigation links to populate the mobile drawer.",
+      "settings": {
+        "menu": {
+          "label": "Menu"
+        }
+      },
+      "blocks": {
+        "link": {
+          "name": "Link",
+          "settings": {
+            "label": {
+              "label": "Link label"
+            },
+            "link": {
+              "label": "Link"
+            }
+          }
+        }
+      }
+    },
     "stone_footer_main": {
       "name": "Footer",
       "settings": {
@@ -3230,6 +3252,10 @@
     "stone_global_header": {
       "skip_link": "Skip to content",
       "primary_navigation": "Primary navigation",
+      "mobile_navigation": "Mobile navigation",
+      "menu": "Menu",
+      "mobile_menu_title": "Menu",
+      "close_mobile_menu": "Close menu",
       "home": "Home",
       "search_label": "Search",
       "search_placeholder": "Search",

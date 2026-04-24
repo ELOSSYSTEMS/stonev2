@@ -2,44 +2,33 @@
 
 ## Current Phase
 
-- `Verified`: Roadmap phase: Shopify upload repair lane active after `Stonev2` unpublished theme upload failed with Liquid/schema errors.
+- `Verified`: Roadmap phase: Phase 3B mobile navigation drawer browser/preview verification.
 - `Verified`: Preset runtime composition remains blocked separately by `UNIT-184`.
 
 ## Approved Next Action
 
-- `Verified`: No further Shopify upload-repair unit is approved.
-- `Verified`: `UNIT-184` remains blocked pending owner preset-composition inputs.
+- `Verified`: `UNIT-SA-009` is conditionally approved only as browser/preview verification of the exact `UNIT-SA-007` runtime proof.
+- `Verified`: Shopify preview commands require explicit owner confirmation of store and target before execution.
 
 ## Last Completed Unit
 
-- `Verified`: Unit ID: `UNIT-192`
-- `Verified`: Summary: pushed repaired source to existing unpublished `Stonev2` theme id `156487712965` with no-delete protection.
+- `Verified`: Unit ID: `UNIT-SA-008`
+- `Verified`: Summary: verified the exact `UNIT-SA-007` runtime write set, local syntax/schema/Theme Check receipts, code-level accessibility behavior, and protected-surface boundaries.
 
 ## Verification Status
 
-- `Verified`: Verdict: `UNIT-192` PASS with remote Shopify proof.
-- `Verified`: Evidence: `workspace/verify/unit-192/theme-push-output.json`; `workspace/verify/unit-192/remote-push-summary.txt`; `workspace/verify/unit-192/preview-head.txt`; required harness checks.
+- `Verified`: Verdict: `UNIT-SA-008` PASS for verification/frontier review.
+- `Verified`: Evidence: `workspace/qa/reports/unit-sa-007-mobile-drawer-report.md`; exact expected-vs-actual project write-set comparison; code evidence scan; `shopify theme check --path project --no-color`; required harness checks.
 
 ## Active Blockers
 
-- `Verified`: Runtime preset composition edits are blocked.
-- `Verified`: Shopify upload repair has clean local Theme Check after English and Hebrew runtime locale coverage.
-- `Verified`: No Shopify upload-repair blockers remain from the recorded audit.
-- `Verified`: `Stonev2` remote proof remains unpublished and returned preview status 200.
-- `Verified`: Exact template JSON mutation policy is missing.
-- `Verified`: Exact per-preset section order and section settings are missing.
-- `Verified`: Starter content defaults are missing.
-- `Verified`: Collection filter defaults by preset are missing.
-- `Verified`: Global preset selector runtime behavior is missing.
-- `Verified`: Final preset content and composition remain intentionally deferred.
-- `Verified`: Exact starter content payloads remain intentionally deferred.
-- `Verified`: Exact per-preset host assignment rules remain intentionally deferred until capability stabilization.
-- `Verified`: Exact template JSON mutation policy is missing.
-- `Verified`: Exact hardening entry criteria after partial preset realization are missing.
-- `Verified`: No per-preset architecture sprawl is approved.
-- `Verified`: No predictive-search, cart, or hardening lane is approved.
+- `Verified`: Cart drawer, search drawer, predictive search, modal stack, overlay group, theme blocks, template mutation, snippets, config, preset composition, and Shopify remote mutation remain blocked.
+- `Verified`: Browser preview proof for `UNIT-SA-007` has not been run and requires explicit preview target authorization.
+- `Verified`: `UNIT-184` preset-composition hard block remains active.
+- `Unknown`: Persisted text evidence for exact `lang="he"` and `dir="rtl"` from the RTL retry was not found; `UNIT-SA-006` records this as an evidence gap.
 
 ## Resume Notes
 
-- `Verified`: Stop autonomous runtime work unless the owner supplies preset-composition inputs or explicitly overrides the hard block.
-- `Verified`: Do not resume preset runtime composition until owner inputs are supplied or the hard block is explicitly overridden.
+- `Verified`: Resume from `workspace/qa/reports/unit-sa-007-mobile-drawer-report.md`.
+- `Verified`: Execute `UNIT-SA-009` only after explicit store and preview target authorization.
+- `Verified`: Do not implement further Phase 3B behavior during preview verification.

@@ -4,6 +4,7 @@
   assign stone_show_search = section.settings.show_search
   assign stone_show_cart_link = section.settings.show_cart_link
   assign stone_show_locale_switcher = section.settings.show_locale_switcher
+  assign stone_mobile_drawer_id = 'StoneMobileNavigationDrawer-' | append: section.id
 
   if stone_brand_name == blank
     assign stone_brand_name = shop.name
@@ -11,6 +12,17 @@
 -%}
 <header class="stone-global-header" role="banner">
   <div class="stone-global-header__inner">
+    <button
+      class="stone-global-header__drawer-trigger"
+      type="button"
+      aria-controls="{{ stone_mobile_drawer_id }}"
+      aria-expanded="false"
+      data-stone-mobile-drawer-trigger
+    >
+      <span class="stone-global-header__drawer-icon" aria-hidden="true"></span>
+      <span>Menu</span>
+    </button>
+
     <a class="stone-global-header__brand" href="{{ routes.root_url }}">
       {{ stone_brand_name | escape }}
     </a>
@@ -80,6 +92,61 @@
     </div>
   </div>
 </header>
+
+<div
+  id="{{ stone_mobile_drawer_id }}"
+  class="stone-mobile-navigation-drawer"
+  data-stone-mobile-drawer
+  data-stone-mobile-drawer-state="closed"
+  hidden
+>
+  <button
+    class="stone-mobile-navigation-drawer__overlay"
+    type="button"
+    aria-label="Close menu"
+    data-stone-mobile-drawer-close
+  ></button>
+
+  <aside
+    class="stone-mobile-navigation-drawer__panel"
+    role="dialog"
+    aria-modal="true"
+    aria-labelledby="{{ stone_mobile_drawer_id }}-Title"
+    tabindex="-1"
+    data-stone-mobile-drawer-panel
+  >
+    <div class="stone-mobile-navigation-drawer__header">
+      <h2 id="{{ stone_mobile_drawer_id }}-Title" class="stone-mobile-navigation-drawer__title">
+        Menu
+      </h2>
+      <button
+        class="stone-mobile-navigation-drawer__close"
+        type="button"
+        data-stone-mobile-drawer-close
+      >
+        Close
+      </button>
+    </div>
+
+    <nav class="stone-mobile-navigation-drawer__nav" aria-label="{{ 'snippets.stone_global_header.primary_navigation' | t }}">
+      {%- if stone_primary_menu != blank and stone_primary_menu.links.size > 0 -%}
+        <ul class="stone-mobile-navigation-drawer__menu" role="list">
+          {%- for link in stone_primary_menu.links -%}
+            <li class="stone-mobile-navigation-drawer__menu-item">
+              <a class="stone-mobile-navigation-drawer__menu-link" href="{{ link.url }}">{{ link.title | escape }}</a>
+            </li>
+          {%- endfor -%}
+        </ul>
+      {%- else -%}
+        <a class="stone-mobile-navigation-drawer__menu-link" href="{{ routes.root_url }}">
+          {{ 'snippets.stone_global_header.home' | t }}
+        </a>
+      {%- endif -%}
+    </nav>
+  </aside>
+</div>
+
+<script src="{{ 'stone-drawer.js' | asset_url }}" defer="defer"></script>
 
 {% schema %}
 {

@@ -196,6 +196,28 @@
         }
       }
     },
+    "stone_mobile_navigation_drawer": {
+      "name": "מגירת ניווט למובייל",
+      "empty": "בחרו תפריט או הוסיפו קישורי ניווט כדי למלא את מגירת המובייל.",
+      "settings": {
+        "menu": {
+          "label": "תפריט"
+        }
+      },
+      "blocks": {
+        "link": {
+          "name": "קישור",
+          "settings": {
+            "label": {
+              "label": "תווית קישור"
+            },
+            "link": {
+              "label": "קישור"
+            }
+          }
+        }
+      }
+    },
     "stone_footer_main": {
       "name": "כותרת תחתונה",
       "settings": {
@@ -3230,6 +3252,10 @@
     "stone_global_header": {
       "skip_link": "דילוג לתוכן",
       "primary_navigation": "ניווט ראשי",
+      "mobile_navigation": "ניווט מובייל",
+      "menu": "תפריט",
+      "mobile_menu_title": "תפריט",
+      "close_mobile_menu": "סגירת תפריט",
       "home": "בית",
       "search_label": "חיפוש",
       "search_placeholder": "חיפוש",

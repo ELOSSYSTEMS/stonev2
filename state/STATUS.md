@@ -5,7 +5,7 @@
 - `Verified`: Repo state: harness foundation populated
 - `Verified`: Storefront runtime state: bounded section-family runtime slices exist and canonical homepage, shell/navigation, collection, PDP, blog, article, and search host proofs are verified or pending no further host implementation.
 - `Verified`: Architecture authority: the five documents under `docs/architecture/`
-- `Verified`: Current decision package: `workspace/plans/shopify-upload-error-resolution-v1/`
+- `Verified`: Current decision package: `workspace/plans/section-architecture-final-product-implementation-v1/UNIT-SA-006.v1.md`
 
 ## Canonical Inputs
 
@@ -25,6 +25,8 @@
 - `Verified`: `workspace/plans/phase-4-collection-filter-runtime-boundary-v1/PLAN.v1.md`
 - `Verified`: `workspace/audits/shopify-theme-upload-errors-2026-04-24.md`
 - `Verified`: `workspace/plans/shopify-upload-error-resolution-v1/PLAN.v1.md`
+- `Verified`: `workspace/plans/section-architecture-final-product-implementation-v1/PLAN.v2.md`
+- `Verified`: `workspace/plans/section-architecture-final-product-implementation-v1/UNIT-SA-006.v1.md`
 
 ## Constraints
 
@@ -67,6 +69,9 @@
 - `Verified`: `UNIT-190` passed by renaming Hebrew runtime locale to `he.json` while preserving key parity and clean Theme Check.
 - `Verified`: `UNIT-191` passed by replacing the invalid prompt template URL with `/pages` and preserving clean Theme Check.
 - `Verified`: `UNIT-192` passed by pushing repaired source to unpublished `Stonev2` theme id `156487712965` with no-delete protection and no remote errors.
+- `Verified`: `UNIT-SA-006` passed by authoring the docs-only Phase 3B Global Behavior Boundary Plan, closing the header/footer proof lane for planning purposes, and selecting mobile navigation drawer shell/behavior only as the first safe Phase 3B runtime candidate.
+- `Verified`: `UNIT-SA-007` passed local implementation by adding the mobile navigation drawer shell and behavior inside the exact six-file runtime write set defined by `UNIT-SA-006`.
+- `Verified`: `UNIT-SA-008` passed verification/frontier review by confirming exact runtime file scope, syntax/schema validity, Theme Check, code-level accessibility behavior, and protected-surface boundaries.
 
 ## Risks And Blocks
 
@@ -75,10 +80,15 @@
 - `Verified`: Shopify upload repair has clean local Theme Check after English and Hebrew runtime locale coverage.
 - `Verified`: Remote proof passed against unpublished `Stonev2` theme id `156487712965`.
 - `Verified`: `UNIT-184` preset-composition hard block remains active.
+- `Verified`: Runtime implementation of `UNIT-SA-007` was authorized by the owner and completed locally.
+- `Verified`: `UNIT-SA-009` browser/preview verification is conditionally approved, but Shopify preview commands require explicit store and preview target authorization.
+- `Verified`: Cart drawer, search drawer, predictive search, modal stack, overlay group, theme blocks, templates, snippets, config, preset composition, and Shopify remote mutation remain blocked for the Phase 3B first slice.
+- `Verified`: Browser preview proof for the mobile navigation drawer has not been run.
+- `Unknown`: Persisted text evidence for exact `lang="he"` and `dir="rtl"` from the RTL retry was not found; `UNIT-SA-006` records this evidence gap.
 - `Verified`: Exact starter content payloads remain intentionally deferred.
 - `Verified`: Exact per-preset host assignment rules remain intentionally deferred until section/block capability stabilization.
 - `Verified`: Exact template JSON mutation policy is missing.
 - `Verified`: Exact hardening entry criteria after partial preset realization are missing.
 - `Verified`: No per-preset architecture sprawl is approved.
 - `Verified`: No predictive-search, cart, or hardening lane is approved.
-- `Inference`: The next honest step requires owner approval for template mutation policy, exact section order/settings, starter content defaults, collection filter defaults, and preset selector behavior.
+- `Inference`: The next honest product step is `UNIT-SA-009` browser/preview verification before any broader Phase 3B runtime work.
