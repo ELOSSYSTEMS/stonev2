@@ -8,13 +8,13 @@
 
 ## Current Phase
 
-- `Verified`: Active roadmap phase: Phase 4 collection filter runtime proof
-- `Verified`: Last completed phase slice: Phase 4 collection filter runtime boundary (`UNIT-179`)
+- `Verified`: Active roadmap phase: Phase 4 collection filter runtime verification
+- `Verified`: Last completed phase slice: Phase 4 collection filter runtime proof (`UNIT-180`)
 
 ## Approval State
 
 - `Verified`: Current next action approval: APPROVED
-- `Verified`: Approval basis: `UNIT-179` stated the exact four-file no-JS runtime boundary for native Shopify collection filters and routed only to that implementation proof.
+- `Verified`: Approval basis: `UNIT-180` implemented the exact four-file no-JS native Shopify collection filter proof and routed only to verification/frontier review.
 
 ## Lock State
 

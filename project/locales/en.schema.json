@@ -2756,6 +2756,13 @@
       "product_count": "{{ count }} products",
       "sort_label": "Sort by",
       "sort_submit": "Apply",
+      "filters_label": "Filters",
+      "filter_apply": "Apply filters",
+      "filter_clear_all": "Clear all",
+      "filter_reset": "Reset",
+      "filter_min": "Minimum",
+      "filter_max": "Maximum",
+      "filter_count": "{{ count }} selected",
       "empty": "This collection does not contain products yet.",
       "pagination_label": "Collection pagination",
       "previous_page": "Previous",
@@ -2768,6 +2775,10 @@
         "show_sort": {
           "label": "Show sort",
           "info": "Displays a native no-JS Shopify sort form above the product grid."
+        },
+        "show_filters": {
+          "label": "Show filters",
+          "info": "Displays native Shopify collection filters above the product grid when filters are available."
         },
         "products_per_page": {
           "label": "Products per page",

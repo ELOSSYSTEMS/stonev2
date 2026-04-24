@@ -2756,6 +2756,13 @@
       "product_count": "{{ count }} מוצרים",
       "sort_label": "מיון לפי",
       "sort_submit": "החלה",
+      "filters_label": "מסננים",
+      "filter_apply": "החלת מסננים",
+      "filter_clear_all": "ניקוי הכל",
+      "filter_reset": "איפוס",
+      "filter_min": "מינימום",
+      "filter_max": "מקסימום",
+      "filter_count": "{{ count }} נבחרו",
       "empty": "הקולקציה עדיין לא מכילה מוצרים.",
       "pagination_label": "דפדוף קולקציה",
       "previous_page": "קודם",
@@ -2768,6 +2775,10 @@
         "show_sort": {
           "label": "הצגת מיון",
           "info": "מציג טופס מיון Shopify טבעי ללא JavaScript מעל גריד המוצרים."
+        },
+        "show_filters": {
+          "label": "הצגת מסננים",
+          "info": "מציג מסנני קולקציה טבעיים של Shopify מעל גריד המוצרים כאשר מסננים זמינים."
         },
         "products_per_page": {
           "label": "מוצרים בעמוד",

@@ -2,25 +2,25 @@
 
 ## Current Phase
 
-- `Verified`: Roadmap phase: collection filter runtime proof is approved after collection filter runtime-boundary authoring.
+- `Verified`: Roadmap phase: collection filter runtime verification is approved after collection filter runtime proof.
 
 ## Approved Next Action
 
-- `Verified`: `UNIT-180` is explicitly approved as exact four-file no-JS collection filter runtime proof because `UNIT-179` passed.
+- `Verified`: `UNIT-181` is explicitly approved as verification/frontier review because `UNIT-180` passed.
 
 ## Last Completed Unit
 
-- `Verified`: Unit ID: `UNIT-179`
-- `Verified`: Summary: authored the docs-only collection filter runtime boundary and admitted only the exact four-file no-JS implementation proof.
+- `Verified`: Unit ID: `UNIT-180`
+- `Verified`: Summary: implemented the exact four-file no-JS collection filter runtime proof with native Shopify collection filters, neutral CSS, and bilingual labels.
 
 ## Verification Status
 
-- `Verified`: Verdict: `UNIT-179` PASS
-- `Verified`: Evidence: `workspace/plans/phase-4-collection-filter-runtime-boundary-v1/PLAN.v1.md`; `git diff --name-only -- project`; required harness checks
+- `Verified`: Verdict: `UNIT-180` PASS
+- `Verified`: Evidence: exact four-file project diff; locale JSON parsing; section schema parsing; protected-surface diff check; required harness checks
 
 ## Active Blockers
 
-- `Verified`: Runtime edits are allowed only in `project/sections/stone-main-collection.liquid`, `project/assets/stone-base.css`, `project/locales/en.schema.json`, and `project/locales/he.default.schema.json`.
+- `Verified`: Runtime edits are blocked for the next verification unit.
 - `Verified`: Final preset content and composition remain intentionally deferred.
 - `Verified`: Exact starter content payloads remain intentionally deferred.
 - `Verified`: Exact per-preset host assignment rules remain intentionally deferred until capability stabilization.
@@ -31,4 +31,4 @@
 
 ## Resume Notes
 
-- `Verified`: Execute `UNIT-180` only as the exact four-file no-JS collection filter runtime proof.
+- `Verified`: Execute `UNIT-181` only as verification/frontier review of the exact collection filter runtime proof.

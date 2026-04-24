@@ -2437,6 +2437,137 @@ canvas {
   max-inline-size: 48rem;
 }
 
+.stone-main-collection__filters {
+  display: grid;
+  gap: var(--stone-space-4);
+  padding: var(--stone-space-4);
+  border: 1px solid var(--stone-color-border);
+  border-radius: var(--stone-radius-2);
+  background: var(--stone-color-surface);
+}
+
+.stone-main-collection__filters-header {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: var(--stone-space-2);
+}
+
+.stone-main-collection__filters-title {
+  margin: 0;
+  font-size: 1rem;
+  line-height: 1.2;
+}
+
+.stone-main-collection__filters-clear,
+.stone-main-collection__filter-reset {
+  color: inherit;
+  font-size: 0.9rem;
+  text-decoration: underline;
+  text-underline-offset: 0.18em;
+}
+
+.stone-main-collection__filter-groups {
+  display: grid;
+  gap: var(--stone-space-3);
+}
+
+.stone-main-collection__filter-group {
+  border-block-start: 1px solid var(--stone-color-border);
+  padding-block-start: var(--stone-space-3);
+}
+
+.stone-main-collection__filter-summary {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: var(--stone-space-2);
+  cursor: pointer;
+  font-weight: 700;
+}
+
+.stone-main-collection__filter-count,
+.stone-main-collection__filter-result-count {
+  color: var(--stone-color-muted);
+  font-size: 0.85rem;
+  font-weight: 600;
+}
+
+.stone-main-collection__filter-panel {
+  display: grid;
+  gap: var(--stone-space-2);
+  padding-block-start: var(--stone-space-3);
+}
+
+.stone-main-collection__filter-list {
+  display: grid;
+  gap: var(--stone-space-2);
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.stone-main-collection__filter-choice {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: var(--stone-space-2);
+  min-block-size: 2rem;
+}
+
+.stone-main-collection__filter-choice input {
+  flex: 0 0 auto;
+}
+
+.stone-main-collection__filter-choice span:first-of-type {
+  flex: 1 1 auto;
+}
+
+.stone-main-collection__price-range {
+  display: grid;
+  gap: var(--stone-space-2);
+}
+
+.stone-main-collection__price-field {
+  display: grid;
+  gap: var(--stone-space-1);
+  font-size: 0.9rem;
+  font-weight: 700;
+}
+
+.stone-main-collection__price-field input,
+.stone-main-collection__sort {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: end;
+  gap: var(--stone-space-2);
+}
+
+.stone-main-collection__price-field input,
+.stone-main-collection__sort-select {
+  min-block-size: 2.5rem;
+  padding-inline: 0.75rem;
+  border: 1px solid var(--stone-color-border);
+  border-radius: var(--stone-radius-1);
+  background: transparent;
+}
+
+.stone-main-collection__filters-submit,
+.stone-main-collection__sort-submit {
+  min-block-size: 2.5rem;
+  padding-inline: 0.9rem;
+  border: 1px solid var(--stone-color-border-strong);
+  border-radius: var(--stone-radius-1);
+  background: var(--stone-color-brand);
+  color: var(--stone-color-canvas);
+  cursor: pointer;
+}
+
+.stone-main-collection__filters-submit {
+  justify-self: start;
+}
+
 .stone-main-collection__sort {
   display: flex;
   flex-wrap: wrap;
@@ -2446,24 +2577,6 @@ canvas {
 
 .stone-main-collection__sort-label {
   font-weight: 700;
-}
-
-.stone-main-collection__sort-select {
-  min-block-size: 2.5rem;
-  padding-inline: 0.75rem;
-  border: 1px solid var(--stone-color-border);
-  border-radius: var(--stone-radius-1);
-  background: transparent;
-}
-
-.stone-main-collection__sort-submit {
-  min-block-size: 2.5rem;
-  padding-inline: 0.9rem;
-  border: 1px solid var(--stone-color-border-strong);
-  border-radius: var(--stone-radius-1);
-  background: var(--stone-color-brand);
-  color: var(--stone-color-canvas);
-  cursor: pointer;
 }
 
 .stone-main-collection__grid {
@@ -2506,6 +2619,10 @@ canvas {
 }
 
 @media screen and (min-width: 64rem) {
+  .stone-main-collection__filter-groups {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+
   .stone-main-collection__grid {
     grid-template-columns: repeat(3, minmax(0, 1fr));
   }

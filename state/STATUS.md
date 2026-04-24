@@ -52,15 +52,16 @@
 - `Verified`: `UNIT-177` passed by verifying the exact five-file PDP capability proof, locale validity, section schema validity, locale parity, and absence of protected-surface drift.
 - `Verified`: `UNIT-178` passed by admitting native Shopify filters/facets as the next shared collection capability while keeping final preset assignment, JavaScript filtering, predictive search, product-card edits, recommendations, cart/checkout behavior, and hardening blocked.
 - `Verified`: `UNIT-179` passed by stating the exact four-file future runtime boundary for native no-JS collection filters/facets.
-- `Verified`: `UNIT-180` is approved only as the exact four-file no-JS collection filter runtime proof.
+- `Verified`: `UNIT-180` passed by implementing the exact four-file no-JS collection filter runtime proof.
+- `Verified`: `UNIT-181` is approved only as verification/frontier review of the exact collection filter proof.
 
 ## Risks And Blocks
 
-- `Verified`: Runtime edits are approved only for the four files admitted by `UNIT-179`.
+- `Verified`: Runtime edits are blocked for `UNIT-181`.
 - `Verified`: Exact starter content payloads remain intentionally deferred.
 - `Verified`: Exact per-preset host assignment rules remain intentionally deferred until section/block capability stabilization.
 - `Verified`: Exact template JSON mutation policy is missing.
 - `Verified`: Exact hardening entry criteria after partial preset realization are missing.
 - `Verified`: No per-preset architecture sprawl is approved.
 - `Verified`: No predictive-search, cart, or hardening lane is approved.
-- `Inference`: The next honest step is exact four-file no-JS runtime implementation for native collection filters.
+- `Inference`: The next honest step is verification/frontier review for native collection filters before any preset-specific collection composition.

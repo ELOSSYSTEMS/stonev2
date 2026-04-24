@@ -17,6 +17,7 @@
 - `Verified`: `UNIT-177` verified the exact five-file no-JS PDP capability proof.
 - `Verified`: `UNIT-178` completed the docs-only collection/filter capability boundary.
 - `Verified`: `UNIT-179` completed the docs-only collection filter runtime boundary.
+- `Verified`: `UNIT-180` implemented the exact four-file no-JS collection filter runtime proof.
 
 ## Current State
 
@@ -37,8 +38,9 @@
 - `Verified`: `UNIT-177` confirmed the PDP capability proof stayed inside the exact five project files and preserved product-template scope.
 - `Verified`: `UNIT-178` admits native Shopify filters/facets as the next shared collection capability to bound.
 - `Verified`: `UNIT-179` limits the future collection filter proof to `stone-main-collection`, base CSS, and two locale schema files.
+- `Verified`: `UNIT-180` adds native collection filters, a `show_filters` setting, neutral CSS, and bilingual labels without template, snippet, JavaScript, or product-card edits.
 - `Verified`: Templates, sections, snippets, JavaScript, homepage sequence mutation, host assignment mutation, predictive search, cart behavior, recommendations, companion behavior, checkout/billing-sensitive behavior, and hardening remain blocked.
-- `Verified`: `UNIT-180` is approved only as the exact four-file no-JS collection filter runtime proof.
+- `Verified`: `UNIT-181` is approved only as verification/frontier review of the exact collection filter runtime proof.
 
 ## Changed Or Seeded Files
 
@@ -102,19 +104,19 @@
 - `Verified`: Predictive search, cart behavior, and hardening remain blocked.
 - `Verified`: Final preset content and final preset composition remain intentionally deferred until section/block capabilities are stabilized.
 - `Verified`: Collection/filter capability work is bounded to native no-JS collection filters.
-- `Verified`: Runtime implementation is approved only for the exact four-file collection filter proof.
+- `Verified`: Runtime implementation is blocked for `UNIT-181`.
 - `Verified`: Final preset collection composition remains deferred until shared native filters are bounded and verified.
 
 ## Recommended Next Step
 
-- `Verified`: Execute `UNIT-180` only as the exact four-file no-JS collection filter runtime proof.
-- `Inference`: The next package should verify native collection filters before any preset-specific collection composition.
+- `Verified`: Execute `UNIT-181` only as verification/frontier review of the exact collection filter runtime proof.
+- `Inference`: The next package should decide whether collection capability stabilization is complete enough to return to preset composition or whether another shared capability is still missing.
 
 ## Resume Checks
 
 - `Verified`: Read `workspace/plans/phase-4-collection-filter-runtime-boundary-v1/PLAN.v1.md` and current state files.
 - `Verified`: Read `state/NEXT_ACTION.md`.
-- `Verified`: Confirm `UNIT-180` stays inside the exact four approved runtime files.
+- `Verified`: Confirm `UNIT-181` makes no runtime edits and verifies the exact four-file project diff from `UNIT-180`.
 - `Verified`: Run `node HARNESS/checks/harness-check.mjs`.
 - `Verified`: `workspace/plans/phase-4-collection-filter-capability-boundary-v1/PLAN.v1.md`
 - `Verified`: `workspace/plans/phase-4-collection-filter-capability-boundary-v1/ASSUMPTIONS.v1.md`
@@ -126,3 +128,4 @@
 - `Verified`: `workspace/plans/phase-4-collection-filter-runtime-boundary-v1/CHECKS.v1.md`
 - `Verified`: `workspace/plans/phase-4-collection-filter-runtime-boundary-v1/RISKS.v1.md`
 - `Verified`: `workspace/plans/phase-4-collection-filter-runtime-boundary-v1/HANDOFF.v1.md`
+- `Verified`: `project/sections/stone-main-collection.liquid`

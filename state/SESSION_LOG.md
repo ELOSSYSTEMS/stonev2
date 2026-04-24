@@ -5334,3 +5334,35 @@
   - `node HARNESS/checks/harness-check.mjs`
 - Result: PASS
 - Follow-up: execute `UNIT-180` only as the exact four-file no-JS collection filter runtime proof and commit before moving on
+### Session Entry
+
+- Timestamp: 2026-04-24 10:38 Asia/Jerusalem
+- Skill or Mode: `project-build`
+- Summary: executed `UNIT-180`, implemented the exact four-file no-JS collection filter runtime proof by adding native Shopify collection filters, a `show_filters` setting, neutral CSS, and bilingual labels while preserving protected surfaces
+- Files changed:
+  - `project/sections/stone-main-collection.liquid`
+  - `project/assets/stone-base.css`
+  - `project/locales/en.schema.json`
+  - `project/locales/he.default.schema.json`
+  - `state/ORCHESTRATION_STATE.md`
+  - `state/STATUS.md`
+  - `state/NEXT_ACTION.md`
+  - `state/FEATURE_STATUS.md`
+  - `state/PROGRESS.md`
+  - `state/SESSION_LOG.md`
+  - `workspace/handoff/CURRENT_HANDOFF.md`
+- Checks run:
+  - `git diff --name-only -- project`
+  - locale JSON parsing
+  - section schema parsing for `stone-main-collection`
+  - collection locale parity
+  - protected-surface diff check for templates, snippets, JavaScript, and `stone-product-card`
+  - `node HARNESS/checks/check-state-artifacts.mjs`
+  - `node HARNESS/checks/check-next-action-scope.mjs`
+  - `node HARNESS/checks/check-plan-exists.mjs`
+  - `node HARNESS/checks/check-handoff-completeness.mjs`
+  - `node HARNESS/checks/check-approval-state.mjs`
+  - `node HARNESS/checks/check-lock-state.mjs`
+  - `node HARNESS/checks/harness-check.mjs`
+- Result: PASS
+- Follow-up: execute `UNIT-181` only as verification/frontier review of the exact collection filter runtime proof and commit before moving on
