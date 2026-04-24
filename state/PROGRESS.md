@@ -2,21 +2,21 @@
 
 ## Current Phase
 
-- `Verified`: Roadmap phase: PDP capability runtime proof is approved after exact boundary.
+- `Verified`: Roadmap phase: PDP capability proof verification is approved after exact implementation.
 
 ## Approved Next Action
 
-- `Verified`: `UNIT-176` is explicitly approved as exact five-file no-JS PDP capability proof because `UNIT-175` passed.
+- `Verified`: `UNIT-177` is explicitly approved as verification/frontier review of the exact PDP capability proof because `UNIT-176` passed.
 
 ## Last Completed Unit
 
-- `Verified`: Unit ID: `UNIT-175`
-- `Verified`: Summary: authored the docs-only PDP capability runtime boundary and stated the exact five-file future runtime proof for shared optional size chart and spec sheet sections.
+- `Verified`: Unit ID: `UNIT-176`
+- `Verified`: Summary: implemented the exact five-file no-JS PDP capability proof by adding shared optional size chart and spec sheet sections, neutral CSS, and bilingual labels while preserving protected surfaces.
 
 ## Verification Status
 
-- `Verified`: Verdict: `UNIT-175` PASS
-- `Verified`: Evidence: `workspace/plans/phase-4-pdp-capability-runtime-boundary-v1/PLAN.v1.md`; `git diff --name-only -- project`; required harness checks
+- `Verified`: Verdict: `UNIT-176` PASS
+- `Verified`: Evidence: `git status --short -- project`; locale JSON parsing; section schema parsing; PDP capability locale parity; protected-surface diff check; required harness checks
 
 ## Active Blockers
 
@@ -31,4 +31,4 @@
 
 ## Resume Notes
 
-- `Verified`: Execute `UNIT-176` as exact five-file no-JS PDP capability proof.
+- `Verified`: Execute `UNIT-177` as verification/frontier review of the exact PDP capability proof.

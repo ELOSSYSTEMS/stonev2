@@ -5214,3 +5214,36 @@
   - `node HARNESS/checks/harness-check.mjs`
 - Result: PASS
 - Follow-up: execute `UNIT-176` only as exact five-file no-JS PDP capability proof and commit before moving on
+### Session Entry
+
+- Timestamp: 2026-04-24 10:24 Asia/Jerusalem
+- Skill or Mode: `project-build`
+- Summary: executed `UNIT-176`, implemented the exact five-file no-JS PDP capability proof by adding shared optional size chart and spec sheet sections, neutral CSS, and bilingual labels while preserving protected surfaces
+- Files changed:
+  - `project/sections/stone-pdp-size-chart.liquid`
+  - `project/sections/stone-pdp-spec-sheet.liquid`
+  - `project/assets/stone-base.css`
+  - `project/locales/en.schema.json`
+  - `project/locales/he.default.schema.json`
+  - `state/ORCHESTRATION_STATE.md`
+  - `state/STATUS.md`
+  - `state/NEXT_ACTION.md`
+  - `state/FEATURE_STATUS.md`
+  - `state/PROGRESS.md`
+  - `state/SESSION_LOG.md`
+  - `workspace/handoff/CURRENT_HANDOFF.md`
+- Checks run:
+  - `git status --short -- project`
+  - locale JSON parsing
+  - section schema parsing for `stone-pdp-size-chart` and `stone-pdp-spec-sheet`
+  - locale parity for `sections.stone_pdp_size_chart` and `sections.stone_pdp_spec_sheet`
+  - protected-surface diff check for templates, snippets, JavaScript, and `stone-main-product`
+  - `node HARNESS/checks/check-state-artifacts.mjs`
+  - `node HARNESS/checks/check-next-action-scope.mjs`
+  - `node HARNESS/checks/check-plan-exists.mjs`
+  - `node HARNESS/checks/check-handoff-completeness.mjs`
+  - `node HARNESS/checks/check-approval-state.mjs`
+  - `node HARNESS/checks/check-lock-state.mjs`
+  - `node HARNESS/checks/harness-check.mjs`
+- Result: PASS
+- Follow-up: execute `UNIT-177` only as verification/frontier review of the exact PDP capability proof and commit before moving on

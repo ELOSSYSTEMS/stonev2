@@ -3,19 +3,19 @@
 ## Status
 
 - `Verified`: Approval State: APPROVED
-- `Verified`: Execution Class: runtime PDP capability proof
+- `Verified`: Execution Class: PDP capability proof verification
 - `Verified`: Priority: high
 
 ## Approved Unit
 
-- `Verified`: `UNIT-175` passed by authoring the PDP capability runtime boundary, and now admits only `UNIT-176` as exact five-file no-JS PDP capability proof.
+- `Verified`: `UNIT-176` passed by implementing the exact five-file no-JS PDP capability proof, and now admits only `UNIT-177` as verification/frontier review.
 
 ## Objective
 
-- `Verified`: Implement one shared optional PDP size chart section.
-- `Verified`: Implement one shared optional PDP spec sheet section.
-- `Verified`: Add neutral CSS and bilingual schema labels.
-- `Verified`: Keep product template mutation, final preset assignment, collection filters, cart/checkout behavior, recommendations, JavaScript, and hardening out of scope.
+- `Verified`: Verify that `UNIT-176` changed only the exact five approved runtime files.
+- `Verified`: Confirm locale JSON validity, section schema validity, and PDP capability locale parity.
+- `Verified`: Confirm no product template, other template, snippet, JavaScript, or `stone-main-product` drift.
+- `Verified`: Decide the next honest lane without assigning final preset composition.
 
 ## Plan Reference
 
@@ -43,4 +43,4 @@
 
 ## Stop Condition
 
-Fail closed if `UNIT-176` changes product templates, other templates, snippets, JavaScript, `stone-main-product`, final preset assignment, collection filters, cart/checkout/billing-sensitive behavior, recommendations, hardening, or any runtime file outside the exact five-file boundary.
+Fail closed if `UNIT-177` finds product template, other template, snippet, JavaScript, `stone-main-product`, final preset assignment, collection filter, cart/checkout/billing-sensitive behavior, recommendation, hardening, or unapproved runtime-file drift.

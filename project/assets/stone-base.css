@@ -2821,3 +2821,104 @@ canvas {
     grid-template-columns: repeat(3, minmax(0, 1fr));
   }
 }
+
+.stone-pdp-size-chart,
+.stone-pdp-spec-sheet {
+  display: grid;
+  gap: var(--stone-space-4);
+}
+
+.stone-pdp-size-chart__intro,
+.stone-pdp-size-chart__note,
+.stone-pdp-spec-sheet__intro,
+.stone-pdp-spec-sheet__footer-note {
+  max-inline-size: 52rem;
+}
+
+.stone-pdp-size-chart__table-wrap {
+  overflow-x: auto;
+}
+
+.stone-pdp-size-chart__table {
+  inline-size: 100%;
+  min-inline-size: 34rem;
+  border-collapse: collapse;
+  border: 1px solid var(--stone-color-border);
+}
+
+.stone-pdp-size-chart__table th,
+.stone-pdp-size-chart__cell {
+  padding: var(--stone-space-3, 0.75rem) var(--stone-space-4);
+  border-block-start: 1px solid var(--stone-color-border);
+  text-align: start;
+  vertical-align: top;
+}
+
+.stone-pdp-size-chart__table thead th,
+.stone-pdp-size-chart__cell--heading {
+  font-weight: 700;
+}
+
+.stone-pdp-size-chart__empty,
+.stone-pdp-spec-sheet__empty {
+  margin: 0;
+  color: var(--stone-color-muted);
+}
+
+.stone-pdp-spec-sheet__list {
+  display: grid;
+  gap: 0;
+  margin: 0;
+  border: 1px solid var(--stone-color-border);
+  border-radius: var(--stone-radius-2);
+  overflow: hidden;
+}
+
+.stone-pdp-spec-sheet__item {
+  display: grid;
+  gap: var(--stone-space-2);
+  padding: var(--stone-space-4);
+  border-block-start: 1px solid var(--stone-color-border);
+}
+
+.stone-pdp-spec-sheet__item:first-child {
+  border-block-start: 0;
+}
+
+.stone-pdp-spec-sheet__group,
+.stone-pdp-spec-sheet__term,
+.stone-pdp-spec-sheet__value {
+  margin: 0;
+}
+
+.stone-pdp-spec-sheet__group {
+  color: var(--stone-color-muted);
+  font-size: 0.85rem;
+  font-weight: 700;
+  letter-spacing: 0;
+  text-transform: uppercase;
+}
+
+.stone-pdp-spec-sheet__term {
+  font-weight: 700;
+}
+
+.stone-pdp-spec-sheet__value {
+  display: grid;
+  gap: var(--stone-space-2);
+}
+
+.stone-pdp-spec-sheet__note {
+  color: var(--stone-color-muted);
+}
+
+@media screen and (min-width: 48rem) {
+  .stone-pdp-spec-sheet__item {
+    grid-template-columns: minmax(8rem, 0.5fr) minmax(0, 1fr);
+    align-items: start;
+  }
+
+  .stone-pdp-spec-sheet__group {
+    grid-column: 1 / -1;
+  }
+}

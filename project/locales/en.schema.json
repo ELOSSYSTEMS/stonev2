@@ -2998,6 +2998,129 @@
           }
         }
       }
+    },
+    "stone_pdp_size_chart": {
+      "name": "PDP size chart",
+      "empty": "Add at least one size row to show the size chart.",
+      "headers": {
+        "size": "Size",
+        "measurement": "Measurement",
+        "note": "Note"
+      },
+      "settings": {
+        "heading": {
+          "label": "Heading",
+          "info": "Names the shared PDP size chart section."
+        },
+        "intro": {
+          "label": "Intro text",
+          "info": "Optional. Explains how to read the size chart."
+        },
+        "note": {
+          "label": "Chart note",
+          "info": "Optional. Adds general fit or measurement guidance below the chart."
+        },
+        "width_mode": {
+          "label": "Width mode",
+          "info": "Controls the container width for the PDP size chart.",
+          "options": {
+            "narrow": { "label": "Narrow" },
+            "standard": { "label": "Standard" },
+            "wide": { "label": "Wide" }
+          }
+        },
+        "spacing_mode": {
+          "label": "Spacing mode",
+          "info": "Controls the vertical spacing for the PDP size chart.",
+          "options": {
+            "compact": { "label": "Compact" },
+            "standard": { "label": "Balanced" },
+            "relaxed": { "label": "Relaxed" }
+          }
+        }
+      },
+      "blocks": {
+        "row": {
+          "name": "Size row",
+          "fallback_size": "Size",
+          "empty_measurement": "Add measurement",
+          "settings": {
+            "size_label": {
+              "label": "Size label",
+              "info": "Adds the size name shown in the first column."
+            },
+            "measurement": {
+              "label": "Measurement",
+              "info": "Adds the measurement text for this size."
+            },
+            "note": {
+              "label": "Row note",
+              "info": "Optional. Adds fit or measurement context for this row."
+            }
+          }
+        }
+      }
+    },
+    "stone_pdp_spec_sheet": {
+      "name": "PDP spec sheet",
+      "empty": "Add at least one spec row to show the spec sheet.",
+      "settings": {
+        "heading": {
+          "label": "Heading",
+          "info": "Names the shared PDP spec sheet section."
+        },
+        "intro": {
+          "label": "Intro text",
+          "info": "Optional. Adds context above the specification list."
+        },
+        "note": {
+          "label": "Spec note",
+          "info": "Optional. Adds a general note below the specification list."
+        },
+        "width_mode": {
+          "label": "Width mode",
+          "info": "Controls the container width for the PDP spec sheet.",
+          "options": {
+            "narrow": { "label": "Narrow" },
+            "standard": { "label": "Standard" },
+            "wide": { "label": "Wide" }
+          }
+        },
+        "spacing_mode": {
+          "label": "Spacing mode",
+          "info": "Controls the vertical spacing for the PDP spec sheet.",
+          "options": {
+            "compact": { "label": "Compact" },
+            "standard": { "label": "Balanced" },
+            "relaxed": { "label": "Relaxed" }
+          }
+        }
+      },
+      "blocks": {
+        "row": {
+          "name": "Spec row",
+          "fallback_label": "Spec",
+          "empty_value": "Add value",
+          "settings": {
+            "group_label": {
+              "label": "Group label",
+              "info": "Optional. Groups related specs under a short label."
+            },
+            "spec_label": {
+              "label": "Spec label",
+              "info": "Adds the specification name."
+            },
+            "spec_value": {
+              "label": "Spec value",
+              "info": "Adds the specification value."
+            },
+            "note": {
+              "label": "Row note",
+              "info": "Optional. Adds context for this specification."
+            }
+          }
+        }
+      }
     }
   },
   "snippets": {
