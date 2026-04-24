@@ -8,13 +8,13 @@
 
 ## Approved Unit
 
-- `Verified`: `UNIT-191` is approved as the next bounded upload-repair unit: repair the invalid prompt template URL rejected by Shopify.
+- `Verified`: `UNIT-192` is approved as the next bounded upload-repair unit: re-run remote proof with no-delete protection.
 
 ## Objective
 
-- `Verified`: Replace the invalid `action_link` value in `project/templates/page.stone-runtime-prompt.json` with a Shopify-accepted URL value.
+- `Verified`: Push the full `project/` theme root to existing unpublished theme id `156487712965` using no-delete protection so remote-only gift card files are preserved.
 - `Verified`: Preserve the separate preset-composition hard block from `UNIT-184`.
-- `Verified`: Do not edit locales, section schema, Shopify remote state, or preset composition in this unit.
+- `Verified`: Do not publish the theme, create a fresh theme, or change local files in this unit unless remote validation exposes a hard blocker.
 
 ## Plan Reference
 
@@ -22,10 +22,10 @@
 
 ## Allowed Files Or Surfaces
 
-- `project/templates/page.stone-runtime-prompt.json`
+- Shopify CLI operation against unpublished theme id `156487712965`
 - `state/`
 - `workspace/handoff/CURRENT_HANDOFF.md`
-- `workspace/verify/unit-191/`
+- `workspace/verify/unit-192/`
 
 ## Required Checks
 
@@ -39,4 +39,4 @@
 
 ## Stop Condition
 
-Stop if the prompt template URL repair requires broader template composition changes or product-owner content decisions.
+Stop if Shopify CLI auth fails, the target theme id is not `156487712965`, the push would publish the theme, or remote upload reports a new hard blocker.

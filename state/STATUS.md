@@ -65,13 +65,14 @@
 - `Verified`: `UNIT-188` passed by adding Hebrew runtime locale parity with matching runtime keys and clean Theme Check.
 - `Verified`: `UNIT-189` failed remote proof against unpublished theme id `156487712965` and recorded three exact remote blockers.
 - `Verified`: `UNIT-190` passed by renaming Hebrew runtime locale to `he.json` while preserving key parity and clean Theme Check.
+- `Verified`: `UNIT-191` passed by replacing the invalid prompt template URL with `/pages` and preserving clean Theme Check.
 
 ## Risks And Blocks
 
 - `Verified`: Preset runtime composition edits are blocked.
-- `Verified`: `UNIT-191` is approved only for invalid prompt template URL repair.
+- `Verified`: `UNIT-192` is approved only for remote proof push with no-delete protection.
 - `Verified`: Shopify upload repair has clean local Theme Check after English and Hebrew runtime locale coverage.
-- `Verified`: Remote proof still fails on invalid prompt template URL and remote-only gift card deletion behavior.
+- `Verified`: Remote proof still needs no-delete protection for remote-only gift card behavior.
 - `Verified`: Exact starter content payloads remain intentionally deferred.
 - `Verified`: Exact per-preset host assignment rules remain intentionally deferred until section/block capability stabilization.
 - `Verified`: Exact template JSON mutation policy is missing.

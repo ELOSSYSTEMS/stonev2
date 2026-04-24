@@ -28,6 +28,7 @@
 - `Verified`: `UNIT-188` completed Hebrew runtime locale parity and kept Theme Check clean.
 - `Verified`: `UNIT-189` attempted remote proof against unpublished theme id `156487712965` and failed with exact remote blockers recorded.
 - `Verified`: `UNIT-190` repaired the Hebrew runtime locale filename by moving runtime Hebrew copy to `he.json`.
+- `Verified`: `UNIT-191` repaired the invalid prompt template URL by replacing `shopify://pages` with `/pages`.
 
 ## Current State
 
@@ -62,6 +63,7 @@
 - `Verified`: `UNIT-188` confirms `project/locales/he.default.json` covers the same 126 runtime keys and Theme Check reports zero errors.
 - `Verified`: `UNIT-189` remote push reported `locales/he.default.json`, `templates/page.stone-runtime-prompt.json`, and `templates/gift_card.liquid` blockers.
 - `Verified`: `UNIT-190` confirms `en.default.json` is the only default runtime locale file and `he.json` preserves all 126 runtime keys.
+- `Verified`: `UNIT-191` confirms `page.stone-runtime-prompt.json` parses and `action_link` is `/pages`.
 - `Verified`: Templates, sections, snippets, JavaScript, homepage sequence mutation, host assignment mutation, predictive search, cart behavior, recommendations, companion behavior, checkout/billing-sensitive behavior, and hardening remain blocked.
 - `Verified`: `UNIT-184` is admitted only as a blocked owner-input unit; no runtime work is approved.
 
@@ -136,8 +138,11 @@
 - `Verified`: `workspace/verify/unit-189/remote-push-summary.txt`
 - `Verified`: `workspace/verify/unit-190/he-runtime-filename-parity.txt`
 - `Verified`: `workspace/verify/unit-190/theme-check-summary.txt`
+- `Verified`: `workspace/verify/unit-191/prompt-template-url-check.txt`
+- `Verified`: `workspace/verify/unit-191/theme-check-summary.txt`
 - `Verified`: `project/locales/en.default.json`
 - `Verified`: `project/locales/he.json`
+- `Verified`: `project/templates/page.stone-runtime-prompt.json`
 - `Verified`: `project/config/settings_schema.json`
 - `Verified`: `project/sections/*.liquid` render syntax was repaired where invalid multiline Liquid-block render calls existed.
 
@@ -146,7 +151,7 @@
 - `Verified`: Broad preset runtime implementation remains blocked.
 - `Verified`: Shopify upload repair continues separately from preset composition.
 - `Verified`: English runtime locale coverage is complete.
-- `Verified`: Remote Shopify proof remains blocked by invalid prompt URL and remote gift card delete behavior.
+- `Verified`: Remote Shopify proof remains blocked only by remote gift card delete behavior.
 - `Verified`: Per-preset architecture sprawl remains blocked.
 - `Verified`: Predictive search, cart behavior, and hardening remain blocked.
 - `Verified`: Final preset content and final preset composition remain intentionally deferred until section/block capabilities are stabilized.
@@ -160,9 +165,9 @@
 
 ## Recommended Next Step
 
-- `Verified`: `UNIT-191` is approved next for invalid prompt template URL repair only.
+- `Verified`: `UNIT-192` is approved next for no-delete remote proof only.
 - `Verified`: `UNIT-184` remains blocked pending owner runtime composition inputs.
-- `Inference`: The next productive upload-repair step is prompt template URL repair, not preset composition.
+- `Inference`: The next productive upload-repair step is no-delete remote proof, not preset composition.
 
 ## Resume Checks
 

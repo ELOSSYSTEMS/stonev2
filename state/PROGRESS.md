@@ -7,23 +7,23 @@
 
 ## Approved Next Action
 
-- `Verified`: `UNIT-191` is approved to repair the invalid prompt template URL rejected by Shopify.
+- `Verified`: `UNIT-192` is approved to re-run remote proof with no-delete protection.
 
 ## Last Completed Unit
 
-- `Verified`: Unit ID: `UNIT-190`
-- `Verified`: Summary: renamed Hebrew runtime locale to `he.json` so `en.default.json` is the only default runtime locale file.
+- `Verified`: Unit ID: `UNIT-191`
+- `Verified`: Summary: replaced the invalid prompt template `action_link` value with `/pages`.
 
 ## Verification Status
 
-- `Verified`: Verdict: `UNIT-190` PASS with clean Theme Check and locale parity.
-- `Verified`: Evidence: `workspace/verify/unit-190/he-runtime-filename-parity.txt`; `workspace/verify/unit-190/theme-check-summary.txt`; required harness checks.
+- `Verified`: Verdict: `UNIT-191` PASS with clean Theme Check.
+- `Verified`: Evidence: `workspace/verify/unit-191/prompt-template-url-check.txt`; `workspace/verify/unit-191/theme-check-summary.txt`; required harness checks.
 
 ## Active Blockers
 
 - `Verified`: Runtime preset composition edits are blocked.
 - `Verified`: Shopify upload repair has clean local Theme Check after English and Hebrew runtime locale coverage.
-- `Verified`: Remote proof blockers remaining are invalid prompt template URL and remote-only gift card deletion behavior.
+- `Verified`: Remote proof blocker remaining is remote-only gift card deletion behavior.
 - `Verified`: Exact template JSON mutation policy is missing.
 - `Verified`: Exact per-preset section order and section settings are missing.
 - `Verified`: Starter content defaults are missing.
@@ -39,5 +39,5 @@
 
 ## Resume Notes
 
-- `Verified`: Continue with `UNIT-191` only unless a hard block appears.
+- `Verified`: Continue with `UNIT-192` only unless a hard block appears.
 - `Verified`: Do not resume preset runtime composition until owner inputs are supplied or the hard block is explicitly overridden.

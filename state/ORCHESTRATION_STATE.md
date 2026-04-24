@@ -9,13 +9,13 @@
 ## Current Phase
 
 - `Verified`: Active roadmap phase: Shopify upload repair lane
-- `Verified`: Last completed phase slice: Hebrew runtime locale filename repair (`UNIT-190`).
+- `Verified`: Last completed phase slice: prompt template URL repair (`UNIT-191`).
 - `Verified`: Preset runtime composition remains a separate hard block (`UNIT-184`).
 
 ## Approval State
 
 - `Verified`: Current next action approval: APPROVED
-- `Verified`: Approval basis: owner instructed execution of `workspace/plans/shopify-upload-error-resolution-v1/PLAN.v1.md`; `UNIT-190` repaired the Hebrew runtime locale filename and now admits `UNIT-191` for invalid prompt template URL repair.
+- `Verified`: Approval basis: owner instructed execution of `workspace/plans/shopify-upload-error-resolution-v1/PLAN.v1.md`; `UNIT-191` repaired the invalid prompt template URL and now admits `UNIT-192` for no-delete remote proof.
 
 ## Lock State
 

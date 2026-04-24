@@ -5594,3 +5594,25 @@
   - required harness checks
 - Result: PASS; `en.default.json` is the only default runtime locale file and Theme Check reports zero errors and zero warnings
 - Follow-up: execute `UNIT-191` only as prompt template URL repair and commit before moving on
+### Session Entry
+
+- Timestamp: 2026-04-24 13:00 Asia/Jerusalem
+- Skill or Mode: `project-build`
+- Summary: executed `UNIT-191`, replaced the invalid `shopify://pages` prompt template URL with `/pages`, and recorded receipts under `workspace/verify/unit-191/`
+- Files changed:
+  - `project/templates/page.stone-runtime-prompt.json`
+  - `workspace/verify/unit-191/`
+  - `state/ORCHESTRATION_STATE.md`
+  - `state/STATUS.md`
+  - `state/NEXT_ACTION.md`
+  - `state/FEATURE_STATUS.md`
+  - `state/PROGRESS.md`
+  - `state/SESSION_LOG.md`
+  - `workspace/handoff/CURRENT_HANDOFF.md`
+- Checks run:
+  - prompt template JSON/action link check
+  - `shopify theme check --path project --output json`
+  - Theme Check summary parse
+  - required harness checks
+- Result: PASS; Theme Check reports zero errors and zero warnings
+- Follow-up: execute `UNIT-192` only as no-delete remote proof to existing unpublished theme id `156487712965`

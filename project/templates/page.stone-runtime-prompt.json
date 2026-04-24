@@ -7,7 +7,7 @@
         "label": "Next step",
         "body": "<p>Use this section for short contained prompts with restrained emphasis.</p>",
         "action_label": "Open linked page",
-        "action_link": "shopify://pages",
+        "action_link": "/pages",
         "surface_style": "outline",
         "width_mode": "standard",
         "spacing_mode": "standard"
